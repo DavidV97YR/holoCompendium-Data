@@ -69,7 +69,13 @@ async function fetchPlaylist(playlistId, apiKey) {
   do {
     const params = { part: 'snippet', playlistId, maxResults: 50 };
     if (pageToken) params.pageToken = pageToken;
-    const data = await ytGet('playlistItems', params, apiKey);
+    let data;
+    try {
+      data = await ytGet('playlistItems', params, apiKey);
+    } catch(e) {
+      if (e.message.includes('404')) { console.log(`     ⚠ Playlist ${playlistId} not found (skipped)`); return []; }
+      throw e;
+    }
     items.push(...(data.items || []));
     pageToken = data.nextPageToken || '';
   } while (pageToken);
@@ -296,6 +302,7 @@ async function runAll(valid, apiKey, outDir) {
   }
   console.log(`\n  Total quota used (approx): ${totalQuota} / 10,000 daily units`);
   console.log(`  Remaining: ~${10000 - totalQuota} units\n`);
+  process.exit(0);
 }
 
-main().then(() => process.exit(0)).catch(e => { console.error(e); process.exit(1); });
+main().catch(e => { console.error(e); process.exit(1); });
