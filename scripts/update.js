@@ -297,6 +297,8 @@ async function main() {
   // Update all existing channels
   const summary = { updated: [], unchanged: [], missing: [], failed: [] };
 
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+
   for (const talent of talents) {
     try {
       const result = await updateChannel(talent, holodexKey, dataDir);
@@ -305,6 +307,7 @@ async function main() {
       console.error(`  ✗ Failed for ${talent.Name}: ${e.message}`);
       summary.failed.push(talent.Name);
     }
+    await sleep(1500); // 1.5s between channels to avoid Holodex rate limit
   }
 
   console.log('\n╔══════════════════════════════════════════╗');
@@ -319,4 +322,4 @@ async function main() {
   console.log('');
 }
 
-main().then(() => process.exit(0)).catch(e => { console.error(e); process.exit(1); });
+main().catch(e => { console.error(e); process.exit(1); });
