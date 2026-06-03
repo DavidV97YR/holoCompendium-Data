@@ -298,4 +298,4 @@ async function runAll(valid, apiKey, outDir) {
   console.log(`  Remaining: ~${10000 - totalQuota} units\n`);
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+main().then(() => process.exit(0)).catch(e => { console.error(e); process.exit(1); });
