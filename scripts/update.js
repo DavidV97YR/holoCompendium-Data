@@ -13,14 +13,14 @@ const agent = new https.Agent({ rejectUnauthorized: false });
 function get(url, headers = {}) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
-    let data = '';
     const opts = { headers };
     if (url.startsWith('https')) opts.agent = agent;
     client.get(url, opts, res => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location)
         return get(res.headers.location, headers).then(resolve).catch(reject);
-      res.on('data', c => data += c);
-      res.on('end', () => resolve({ status: res.statusCode, body: data }));
+      const chunks = [];
+      res.on('data', c => chunks.push(Buffer.isBuffer(c) ? c : Buffer.from(c)));
+      res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks).toString('utf8') }));
     }).on('error', reject);
   });
 }
