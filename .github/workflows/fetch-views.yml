@@ -1,0 +1,36 @@
+name: Fetch View Counts
+
+# Triggered externally by cron-job.org hitting the workflow_dispatch webhook.
+# Also runnable manually from the GitHub Actions tab.
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-views:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch view counts
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          DATA_DIR:   ./data
+        run: node scripts/fetch-views.js
+
+      - name: Commit updated view files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes to commit" || \
+          git commit -m "views: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
