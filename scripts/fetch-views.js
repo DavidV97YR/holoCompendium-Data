@@ -194,7 +194,7 @@ async function main() {
       views,
     };
 
-    fs.writeFileSync(viewsFilePath, JSON.stringify(out), 'utf8');
+    fs.writeFileSync(viewsFilePath, JSON.stringify(out, null, 2), 'utf8');
     console.log(`    ✓ Saved ${path.basename(viewsFilePath)}  (~${quotaUsed} quota unit${quotaUsed !== 1 ? 's' : ''})`);
     summary.updated.push(channelName);
   }
