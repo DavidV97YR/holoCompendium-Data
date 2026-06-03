@@ -1,0 +1,13 @@
+{
+  "name": "hololive-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hololive channel data pipeline — bootstrap + cron updater",
+  "scripts": {
+    "bootstrap": "node scripts/bootstrap.js",
+    "update": "node scripts/update.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
