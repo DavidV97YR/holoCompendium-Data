@@ -78,12 +78,21 @@ async function fetchRSS(playlistId) {
 
 // ── Holodex ───────────────────────────────────────────────────────────────────
 
-function holodexGet(apiKey, endpoint) {
+// Holodex allows 80 requests per 2 minutes = 1 request per 1500ms to stay safe
+const holodexQueue = { last: 0, interval: 1500 };
+function holodexThrottle() {
+  const now = Date.now();
+  const wait = Math.max(0, holodexQueue.last + holodexQueue.interval - now);
+  holodexQueue.last = now + wait;
+  return new Promise(r => setTimeout(r, wait));
+}
+
+async function holodexGet(apiKey, endpoint) {
+  await holodexThrottle();
   const url = `https://holodex.net/api/v2${endpoint}`;
-  return get(url, { 'X-APIKEY': apiKey }).then(({ status, body }) => {
-    if (status !== 200) throw new Error(`Holodex API ${status}: ${body.slice(0, 200)}`);
-    return JSON.parse(body);
-  });
+  const { status, body } = await get(url, { 'X-APIKEY': apiKey });
+  if (status !== 200) throw new Error(`Holodex API ${status}: ${body.slice(0, 200)}`);
+  return JSON.parse(body);
 }
 
 async function fetchHolodexChannel(channelId, apiKey) {
@@ -300,8 +309,6 @@ async function main() {
   // Update all existing channels
   const summary = { updated: [], unchanged: [], missing: [], failed: [] };
 
-  const sleep = ms => new Promise(r => setTimeout(r, ms));
-
   for (const talent of talents) {
     try {
       const result = await updateChannel(talent, holodexKey, dataDir);
@@ -310,7 +317,6 @@ async function main() {
       console.error(`  ✗ Failed for ${talent.Name}: ${e.message}`);
       summary.failed.push(talent.Name);
     }
-    await sleep(1500); // 1.5s between channels to avoid Holodex rate limit
   }
 
   console.log('\n╔══════════════════════════════════════════╗');
