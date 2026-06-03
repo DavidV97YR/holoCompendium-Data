@@ -131,11 +131,14 @@ async function updateChannel(talent, holodexKey, dataDir) {
   // ── 1. RSS: find new videos ────────────────────────────────────────────────
   console.log(`  [${Name}] Fetching RSS feeds...`);
   const feeds = { UULF: [], UUSH: [], UUMO: [], UU: [] };
+  const rssDelay = ms => new Promise(r => setTimeout(r, ms));
   for (const prefix of Object.keys(feeds)) {
     try {
       feeds[prefix] = await fetchRSS(`${prefix}${suffix}`);
+      await rssDelay(500); // 500ms between each RSS feed fetch
     } catch(e) {
       console.log(`    ⚠ RSS ${prefix} failed: ${e.message}`);
+      await rssDelay(500);
     }
   }
 
