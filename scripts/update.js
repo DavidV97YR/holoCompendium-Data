@@ -218,7 +218,7 @@ async function updateChannel(talent, holodexKey, dataDir) {
   const recentLocal = local.videos.slice(0, 15);
   for (const lv of recentLocal) {
     const rssEntry = rssMap[lv.id];
-    if (rssEntry && rssEntry.published && rssEntry.published !== lv.published) {
+    if (rssEntry && rssEntry.published && new Date(rssEntry.published).getTime() !== new Date(lv.published).getTime()) {
       console.log(`    ↻ Date fix [${lv.id}]: ${lv.published} → ${rssEntry.published}`);
       lv.published = rssEntry.published;
       changed = true;
