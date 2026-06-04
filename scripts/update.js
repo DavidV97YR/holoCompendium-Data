@@ -213,7 +213,19 @@ async function updateChannel(talent, holodexKey, dataDir) {
     }
   }
 
-  // ── 2. Holodex diff: title + duration ─────────────────────────────────────
+  // ── 2. RSS date sync: fix published dates for the 15 most recent entries ──
+  const rssMap = Object.fromEntries(feeds.UU.map(e => [e.id, e]));
+  const recentLocal = local.videos.slice(0, 15);
+  for (const lv of recentLocal) {
+    const rssEntry = rssMap[lv.id];
+    if (rssEntry && rssEntry.published && rssEntry.published !== lv.published) {
+      console.log(`    ↻ Date fix [${lv.id}]: ${lv.published} → ${rssEntry.published}`);
+      lv.published = rssEntry.published;
+      changed = true;
+    }
+  }
+
+  // ── 3. Holodex diff: title + duration ────────────────────────────────────
   console.log(`  [${Name}] Syncing Holodex diff...`);
   try {
     const holodexVideos = await fetchHolodexVideos(resolvedId, holodexKey);
@@ -236,7 +248,7 @@ async function updateChannel(talent, holodexKey, dataDir) {
     console.log(`    ⚠ Holodex video sync failed: ${e.message}`);
   }
 
-  // ── 3. Holodex diff: avatar + banner ──────────────────────────────────────
+  // ── 4. Holodex diff: avatar + banner ─────────────────────────────────────
   try {
     const ch = await fetchHolodexChannel(resolvedId, holodexKey);
     const cleanPhoto  = (ch.photo  || '').replace(/=s\d+.*$/, '');
@@ -256,7 +268,7 @@ async function updateChannel(talent, holodexKey, dataDir) {
     console.log(`    ⚠ Holodex channel sync failed: ${e.message}`);
   }
 
-  // ── 4. Save if changed ────────────────────────────────────────────────────
+  // ── 5. Save if changed ────────────────────────────────────────────────────
   if (changed) {
     local.videos.sort((a, b) => new Date(b.published) - new Date(a.published));
     local.videoCount  = local.videos.length;
