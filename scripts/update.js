@@ -25,6 +25,21 @@ function get(url, headers = {}) {
   });
 }
 
+function head(url) {
+  return new Promise((resolve, reject) => {
+    const client = url.startsWith('https') ? https : http;
+    const opts = { method: 'HEAD' };
+    if (url.startsWith('https')) opts.agent = agent;
+    const parsed = new URL(url);
+    opts.hostname = parsed.hostname;
+    opts.path = parsed.pathname + parsed.search;
+    client.request(opts, res => {
+      res.resume();
+      resolve(res.statusCode);
+    }).on('error', reject).end();
+  });
+}
+
 function parseCSV(text) {
   const lines = text.trim().split('\n');
   const headers = lines[0].split(',').map(h => h.trim().replace(/^"|"$/g, ''));
@@ -43,12 +58,44 @@ function slugify(name) {
     .replace(/^-|-$/g, '');
 }
 
+function parseRows(rowsRaw, allRows) {
+  if (!rowsRaw || rowsRaw.toLowerCase() === 'all') return allRows;
+  const rowNums = new Set();
+  for (const part of rowsRaw.split(',')) {
+    const range = part.trim().match(/^(\d+)-(\d+)$/);
+    if (range) {
+      for (let i = parseInt(range[1]); i <= parseInt(range[2]); i++) rowNums.add(i);
+    } else {
+      rowNums.add(parseInt(part.trim()));
+    }
+  }
+  return allRows.filter(r => rowNums.has(r._row));
+}
+
 function decodeHtmlEntities(str) {
   return str.replace(/&amp;/g, '&')
             .replace(/&lt;/g, '<')
             .replace(/&gt;/g, '>')
             .replace(/&quot;/g, '"')
             .replace(/&#39;/g, "'");
+}
+
+// ── YouTube Data API (fallback for dead avatars) ─────────────────────────
+
+async function ytApiFetchBranding(channelId, apiKey) {
+  const qs = new URLSearchParams({ part: 'snippet,brandingSettings', id: channelId, key: apiKey }).toString();
+  const url = `https://www.googleapis.com/youtube/v3/channels?${qs}`;
+  const { status, body } = await get(url);
+  if (status !== 200) throw new Error(`YouTube API ${status}: ${body.slice(0, 200)}`);
+  const data = JSON.parse(body);
+  const item = data.items?.[0];
+  const thumb = item?.snippet?.thumbnails;
+  const rawAvatar = thumb?.high?.url || thumb?.medium?.url || thumb?.default?.url || '';
+  const rawBanner = item?.brandingSettings?.image?.bannerExternalUrl || '';
+  return {
+    avatarUrl: rawAvatar.replace(/=s\d+.*$/, ''),
+    bannerUrl: rawBanner ? `${rawBanner}=s0` : '',
+  };
 }
 
 // ── RSS ───────────────────────────────────────────────────────────────────────
@@ -268,6 +315,39 @@ async function updateChannel(talent, holodexKey, dataDir) {
     console.log(`    ⚠ Holodex channel sync failed: ${e.message}`);
   }
 
+  // ── 4b. Validate avatar + banner URLs are still live ─────────────────────
+  const ytKey = process.env.YT_API_KEY;
+  let avatarDead = false, bannerDead = false;
+  if (local.channel.avatarUrl) {
+    try {
+      const s = await head(local.channel.avatarUrl);
+      if (s === 404 || s === 410) { avatarDead = true; console.log(`    ⚠ Avatar URL is dead (${s})`); }
+    } catch(e) { console.log(`    ⚠ Avatar HEAD check failed: ${e.message}`); }
+  }
+  if (local.channel.bannerUrl) {
+    try {
+      const s = await head(local.channel.bannerUrl);
+      if (s === 404 || s === 410) { bannerDead = true; console.log(`    ⚠ Banner URL is dead (${s})`); }
+    } catch(e) { console.log(`    ⚠ Banner HEAD check failed: ${e.message}`); }
+  }
+  if ((avatarDead || bannerDead) && ytKey) {
+    try {
+      const fresh = await ytApiFetchBranding(resolvedId, ytKey);
+      if (avatarDead && fresh.avatarUrl && fresh.avatarUrl !== local.channel.avatarUrl) {
+        local.channel.avatarUrl = fresh.avatarUrl;
+        changed = true;
+        console.log(`    ↻ Avatar refreshed via YouTube API`);
+      }
+      if (bannerDead && fresh.bannerUrl && fresh.bannerUrl !== local.channel.bannerUrl) {
+        local.channel.bannerUrl = fresh.bannerUrl;
+        changed = true;
+        console.log(`    ↻ Banner refreshed via YouTube API`);
+      }
+    } catch(e) { console.log(`    ⚠ YouTube API branding refresh failed: ${e.message}`); }
+  } else if ((avatarDead || bannerDead) && !ytKey) {
+    console.log(`    ⚠ Set YT_API_KEY to auto-fix dead avatar/banner URLs`);
+  }
+
   // ── 5. Save if changed ────────────────────────────────────────────────────
   if (changed) {
     local.videos.sort((a, b) => new Date(b.published) - new Date(a.published));
@@ -304,8 +384,10 @@ async function main() {
   if (status !== 200) { console.error(`Failed to fetch CSV: HTTP ${status}`); process.exit(1); }
 
   const allRows = parseCSV(body);
-  const talents = allRows.filter(r => r.Name && r.Branch && r['Channel ID']);
-  console.log(`Found ${talents.length} channels to update\n`);
+  const rowsRaw = process.env.ROWS || 'all';
+  const selectedRows = parseRows(rowsRaw, allRows);
+  const talents = selectedRows.filter(r => r.Name && r.Branch && r['Channel ID']);
+  console.log(`Found ${talents.length} channel(s) to update (rows: ${rowsRaw})\n`);
 
   // Check for new channels with no JSON → flag for bootstrap
   const missing = talents.filter(r => {
