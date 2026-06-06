@@ -26,7 +26,12 @@ jobs:
           DATA_DIR:   ./data
         run: node scripts/fetch-views.js
 
-      - name: Commit updated view files
+      - name: Build popular rankings
+        env:
+          DATA_DIR: ./data
+        run: node scripts/build-popular.js
+
+      - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
