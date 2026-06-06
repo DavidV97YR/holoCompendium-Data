@@ -4,6 +4,11 @@ name: Fetch View Counts
 # Also runnable manually from the GitHub Actions tab.
 on:
   workflow_dispatch:
+    inputs:
+      popular_only:
+        description: 'Rebuild popular.json only (skip fetching views)'
+        type: boolean
+        default: false
 
 jobs:
   fetch-views:
@@ -21,6 +26,7 @@ jobs:
           node-version: '20'
 
       - name: Fetch view counts
+        if: ${{ inputs.popular_only != true }}
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
           DATA_DIR:   ./data
