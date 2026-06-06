@@ -3,16 +3,17 @@
  * build-popular.js
  *
  * Reads every channel JSON + companion views JSON and produces a single
- * data/popular.json with the most-viewed streams for three time windows.
+ * data/popular.json with the most-viewed content for three time windows,
+ * split by content type (streams, videos, shorts).
  *
  * Run after fetch-views.js so view counts are fresh.
  *
  * Output shape (data/popular.json):
  * {
  *   "lastUpdated": "...",
- *   "daily":   [ ...top 40 streams published in last 24 h ],
- *   "weekly":  [ ...top 40 streams published in last  7 d ],
- *   "monthly": [ ...top 40 streams published in last 30 d ]
+ *   "streams": { "daily": [...], "weekly": [...], "monthly": [...] },
+ *   "videos":  { "daily": [...], "weekly": [...], "monthly": [...] },
+ *   "shorts":  { "daily": [...], "weekly": [...], "monthly": [...] }
  * }
  *
  * Env:
@@ -32,6 +33,8 @@ const WINDOWS = {
   weekly:  NOW - 7  * ONE_DAY,
   monthly: NOW - 30 * ONE_DAY,
 };
+
+const CONTENT_TYPES = ['stream', 'video', 'short'];
 
 function findChannelFiles(dir) {
   const out = [];
@@ -57,7 +60,8 @@ function main() {
 
   console.log(`\n📂  ${files.length} channel file(s)\n`);
 
-  const pool = [];
+  // Pools keyed by content type
+  const pools = { stream: [], video: [], short: [] };
 
   for (const fp of files) {
     let data;
@@ -76,11 +80,13 @@ function main() {
     }
 
     for (const v of videos) {
-      if (v.type !== 'stream' || !v.published) continue;
+      if (!CONTENT_TYPES.includes(v.type) || !v.published) continue;
+      // Skip member-only content (no accurate public view counts)
+      if (v.type === 'member') continue;
       const vc = views[v.id];
       if (vc == null || vc <= 0) continue;
 
-      pool.push({
+      pools[v.type].push({
         id:            v.id,
         title:         v.title   || '',
         published:     v.published,
@@ -92,17 +98,25 @@ function main() {
     }
   }
 
-  console.log(`  Pooled ${pool.length} public streams with views\n`);
+  for (const [type, pool] of Object.entries(pools)) {
+    console.log(`  ${type}s: ${pool.length} public entries with views`);
+  }
+  console.log('');
 
   const result = { lastUpdated: new Date().toISOString() };
 
-  for (const [period, cutoff] of Object.entries(WINDOWS)) {
-    const list = pool
-      .filter(v => new Date(v.published).getTime() >= cutoff)
-      .sort((a, b) => b.views - a.views)
-      .slice(0, LIMIT);
-    result[period] = list;
-    console.log(`  ${period.padEnd(7)} → ${list.length} videos`);
+  for (const [type, pool] of Object.entries(pools)) {
+    const key = type + 's';          // stream → streams, video → videos, short → shorts
+    result[key] = {};
+
+    for (const [period, cutoff] of Object.entries(WINDOWS)) {
+      const list = pool
+        .filter(v => new Date(v.published).getTime() >= cutoff)
+        .sort((a, b) => b.views - a.views)
+        .slice(0, LIMIT);
+      result[key][period] = list;
+      console.log(`  ${key.padEnd(7)} ${period.padEnd(7)} → ${list.length} entries`);
+    }
   }
 
   const out = path.join(DATA_DIR, 'popular.json');
