@@ -2,6 +2,11 @@ name: Update Channel Data
 
 on:
   workflow_dispatch:
+    inputs:
+      rows:
+        description: 'Rows to process (e.g. 74, 2-10, 2,5,74 or "all")'
+        required: true
+        default: 'all'
 
 jobs:
   update:
@@ -21,6 +26,8 @@ jobs:
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ secrets.CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY }}
+          ROWS:            ${{ github.event.inputs.rows }}
           DATA_DIR:        ./data
         run: node scripts/update.js
 
