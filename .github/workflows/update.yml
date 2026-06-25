@@ -7,6 +7,10 @@ on:
         description: 'Rows to process (e.g. 74, 2-10, 2,5,74 or "all")'
         required: true
         default: 'all'
+      backfill:
+        description: 'Backfill: re-enrich ALL existing videos (heavier; use after schema changes)'
+        type: boolean
+        default: false
 
 jobs:
   update:
@@ -28,6 +32,7 @@ jobs:
           CSV_URL:         ${{ secrets.CSV_URL }}
           YT_API_KEY:      ${{ secrets.YT_API_KEY }}
           ROWS:            ${{ github.event.inputs.rows }}
+          BACKFILL:        ${{ github.event.inputs.backfill }}
           DATA_DIR:        ./data
         run: node scripts/update.js
 
@@ -36,6 +41,10 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet && echo "No changes to commit" || \
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 5
+          done
+          echo "push failed after 5 attempts" >&2; exit 1
