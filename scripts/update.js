@@ -98,6 +98,50 @@ async function ytApiFetchBranding(channelId, apiKey) {
   };
 }
 
+// ── YouTube Data API: full video detail (used by backfill) ───────────────
+
+function parseIsoDuration(iso) {
+  if (!iso) return 0;
+  const m = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!m) return 0;
+  return (parseInt(m[1] || 0) * 3600) + (parseInt(m[2] || 0) * 60) + parseInt(m[3] || 0);
+}
+
+// Derive a stream's lifecycle state from YouTube liveStreamingDetails.
+function deriveLiveStatus(live) {
+  if (!live)                   return 'past';     // normal upload — never a broadcast
+  if (live.actualEndTime)      return 'past';     // broadcast/premiere finished
+  if (live.actualStartTime)    return 'live';     // currently airing
+  if (live.scheduledStartTime) return 'upcoming'; // scheduled, not started yet
+  return 'past';
+}
+
+// Batch up to 50 IDs per call (1 quota unit each)
+// → { id: { title, published, duration, status, scheduledStart } }
+async function fetchYouTubeVideoDetails(videoIds, apiKey) {
+  const out = {};
+  for (let i = 0; i < videoIds.length; i += 50) {
+    const batch = videoIds.slice(i, i + 50);
+    const qs = new URLSearchParams({ part: 'snippet,contentDetails,liveStreamingDetails', id: batch.join(','), key: apiKey }).toString();
+    const url = `https://www.googleapis.com/youtube/v3/videos?${qs}`;
+    const { status, body } = await get(url);
+    if (status !== 200) throw new Error(`YouTube API ${status}: ${body.slice(0, 200)}`);
+    const data = JSON.parse(body);
+    for (const item of (data.items || [])) {
+      const live = item.liveStreamingDetails;
+      out[item.id] = {
+        title:          item.snippet?.title || '',
+        published:      item.snippet?.publishedAt || '',
+        duration:       parseIsoDuration(item.contentDetails?.duration),
+        status:         deriveLiveStatus(live),
+        scheduledStart: live?.scheduledStartTime || '',
+      };
+    }
+    if (i + 50 < videoIds.length) await new Promise(r => setTimeout(r, 150));
+  }
+  return out;
+}
+
 // ── RSS ───────────────────────────────────────────────────────────────────────
 
 async function fetchRSS(playlistId) {
@@ -167,7 +211,7 @@ async function fetchHolodexVideoDetail(videoId, apiKey) {
 
 // ── core update logic ─────────────────────────────────────────────────────────
 
-async function updateChannel(talent, holodexKey, dataDir) {
+async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
   const { Name, Branch, 'Channel ID': channelId } = talent;
   const slug = slugify(Name);
   const filePath = path.join(dataDir, Branch.toLowerCase(), `${slug}.json`);
@@ -257,6 +301,66 @@ async function updateChannel(talent, holodexKey, dataDir) {
       }
       localIds.add(entry.id);
       changed = true;
+    }
+  }
+
+  // ── 1b. Backfill (manual heavy pass): re-enrich EVERY existing video ──────
+  // Normal runs only touch new videos + the 15 most recent. Backfill re-checks the
+  // whole catalog against authoritative YouTube data so schema additions and any
+  // drift in title/duration/published reach old records too. Opt-in via checkbox.
+  if (backfill) {
+    const ytKey = process.env.YT_API_KEY;
+    if (!ytKey) {
+      console.log(`    ⚠ Backfill requested but YT_API_KEY is not set — skipping backfill`);
+    } else {
+      const allIds = local.videos.map(v => v.id);
+      console.log(`  [${Name}] Backfill: re-enriching ${allIds.length} video(s) via YouTube API...`);
+      try {
+        const details = await fetchYouTubeVideoDetails(allIds, ytKey);
+        let fixed = 0;
+        for (const lv of local.videos) {
+          const d = details[lv.id];
+          if (!d) continue; // deleted / private — leave existing record untouched
+          if (d.title && d.title !== lv.title) { lv.title = d.title; changed = true; fixed++; }
+          if (d.published && new Date(d.published).getTime() !== new Date(lv.published).getTime()) {
+            lv.published = d.published; changed = true; fixed++;
+          }
+          if (d.duration && d.duration !== lv.duration) { lv.duration = d.duration; changed = true; fixed++; }
+          if (d.status && d.status !== lv.status) { lv.status = d.status; changed = true; fixed++; }
+          if (d.scheduledStart && d.scheduledStart !== lv.scheduledStart) { lv.scheduledStart = d.scheduledStart; changed = true; fixed++; }
+        }
+        console.log(`    ✓ Backfill applied ${fixed} field update(s) across ${allIds.length} video(s)`);
+      } catch(e) {
+        console.log(`    ⚠ Backfill failed: ${e.message}`);
+      }
+    }
+  }
+
+  // ── 1c. Status refresh (incremental): keep upcoming/live entries current ──
+  // YouTube is authoritative for stream state. Re-check only new + still-pending
+  // (upcoming/live) entries so they flip to `past` once aired — without re-scanning
+  // the whole catalog. Settled records (status absent or `past`) are left to backfill.
+  if (!backfill) {
+    const ytKey = process.env.YT_API_KEY;
+    if (ytKey) {
+      const newIds = new Set(newEntries.map(e => e.id));
+      const idsToCheck = local.videos
+        .filter(v => newIds.has(v.id) || v.status === 'upcoming' || v.status === 'live')
+        .map(v => v.id);
+      if (idsToCheck.length) {
+        console.log(`  [${Name}] Status refresh for ${idsToCheck.length} new/upcoming/live video(s)...`);
+        try {
+          const details = await fetchYouTubeVideoDetails(idsToCheck, ytKey);
+          for (const lv of local.videos) {
+            const d = details[lv.id];
+            if (!d) continue;
+            if (d.status && d.status !== lv.status) { lv.status = d.status; changed = true; }
+            if (d.scheduledStart && d.scheduledStart !== lv.scheduledStart) { lv.scheduledStart = d.scheduledStart; changed = true; }
+          }
+        } catch(e) {
+          console.log(`    ⚠ Status refresh failed: ${e.message}`);
+        }
+      }
     }
   }
 
@@ -368,6 +472,7 @@ async function main() {
   const holodexKey = process.env.HOLODEX_API_KEY;
   const csvUrl     = process.env.CSV_URL;
   const dataDir    = process.env.DATA_DIR || './data';
+  const backfill   = process.env.BACKFILL === 'true';
 
   if (!holodexKey || !csvUrl) {
     console.error('Missing required env vars: HOLODEX_API_KEY, CSV_URL');
@@ -388,6 +493,7 @@ async function main() {
   const selectedRows = parseRows(rowsRaw, allRows);
   const talents = selectedRows.filter(r => r.Name && r.Branch && r['Channel ID']);
   console.log(`Found ${talents.length} channel(s) to update (rows: ${rowsRaw})\n`);
+  if (backfill) console.log('⟳ BACKFILL mode ON — re-enriching every existing video via YouTube API (heavier run)\n');
 
   // Check for new channels with no JSON → flag for bootstrap
   const missing = talents.filter(r => {
@@ -405,7 +511,7 @@ async function main() {
 
   for (const talent of talents) {
     try {
-      const result = await updateChannel(talent, holodexKey, dataDir);
+      const result = await updateChannel(talent, holodexKey, dataDir, backfill);
       summary[result.status].push(result.name);
     } catch(e) {
       console.error(`  ✗ Failed for ${talent.Name}: ${e.message}`);
