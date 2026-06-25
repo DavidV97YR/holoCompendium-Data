@@ -278,6 +278,7 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     for (const entry of newEntries) {
       try {
         const detail = await fetchHolodexVideoDetail(entry.id, holodexKey);
+        const sched  = detail.start_scheduled || detail.available_at || '';
         local.videos.unshift({
           id:        entry.id,
           title:     detail.title || entry.title,
@@ -285,6 +286,8 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           thumbnail: `https://i.ytimg.com/vi/${entry.id}/maxresdefault.jpg`,
           type:      entry.type,
           duration:  detail.duration || 0,
+          status:    detail.status || 'past',
+          ...(sched && (detail.status === 'upcoming' || detail.status === 'live') ? { scheduledStart: sched } : {}),
         });
         console.log(`    + [${entry.type}] ${entry.id} ${(detail.title || entry.title).slice(0, 50)}`);
       } catch(e) {
@@ -336,30 +339,44 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     }
   }
 
-  // ── 1c. Status refresh (incremental): keep upcoming/live entries current ──
-  // YouTube is authoritative for stream state. Re-check only new + still-pending
-  // (upcoming/live) entries so they flip to `past` once aired — without re-scanning
-  // the whole catalog. Settled records (status absent or `past`) are left to backfill.
+  // ── 1c. Status re-check (incremental, Holodex) ────────────────────────────
+  // Re-check only the few still-pending (upcoming/live) streams so they flip
+  // upcoming → live → past once they air, and so deletions are caught. No
+  // YouTube, no full-catalog scan — just one (throttled) Holodex call each.
+  // Holodex `missing` = removed/privated → `unavailable` (after 2 strikes, so a
+  // transient blip doesn't wrongly hide a real waiting room). YouTube stays in
+  // Backfill only.
   if (!backfill) {
-    const ytKey = process.env.YT_API_KEY;
-    if (ytKey) {
-      const newIds = new Set(newEntries.map(e => e.id));
-      const idsToCheck = local.videos
-        .filter(v => newIds.has(v.id) || v.status === 'upcoming' || v.status === 'live')
-        .map(v => v.id);
-      if (idsToCheck.length) {
-        console.log(`  [${Name}] Status refresh for ${idsToCheck.length} new/upcoming/live video(s)...`);
+    const pending = local.videos.filter(v => v.status === 'upcoming' || v.status === 'live');
+    if (pending.length) {
+      console.log(`  [${Name}] Re-checking ${pending.length} upcoming/live stream(s) via Holodex...`);
+      for (const lv of pending) {
+        let hstatus = null, detail = null;
         try {
-          const details = await fetchYouTubeVideoDetails(idsToCheck, ytKey);
-          for (const lv of local.videos) {
-            const d = details[lv.id];
-            if (!d) continue;
-            if (d.status && d.status !== lv.status) { lv.status = d.status; changed = true; }
-            if (d.scheduledStart && d.scheduledStart !== lv.scheduledStart) { lv.scheduledStart = d.scheduledStart; changed = true; }
-          }
+          detail  = await fetchHolodexVideoDetail(lv.id, holodexKey);
+          hstatus = detail.status || null;
         } catch(e) {
-          console.log(`    ⚠ Status refresh failed: ${e.message}`);
+          if (/(^|\D)404(\D|$)/.test(e.message)) hstatus = 'missing'; // gone from Holodex
+          else { console.log(`    ⚠ Re-check failed for ${lv.id}: ${e.message}`); continue; }
         }
+
+        if (hstatus === 'missing') {
+          lv.missStreak = (lv.missStreak || 0) + 1;
+          if (lv.missStreak >= 2) { lv.status = 'unavailable'; delete lv.missStreak; }
+          changed = true;
+          console.log(`    ${lv.status === 'unavailable' ? '✕ unavailable' : `… missing (${lv.missStreak}/2)`}: ${lv.id}`);
+          continue;
+        }
+
+        if (lv.missStreak) { delete lv.missStreak; changed = true; } // recovered
+
+        if (hstatus && hstatus !== lv.status && ['upcoming', 'live', 'past'].includes(hstatus)) {
+          console.log(`    ↻ ${lv.id}: ${lv.status} → ${hstatus}`);
+          lv.status = hstatus;
+          changed = true;
+        }
+        const sched = (detail.start_scheduled || detail.available_at || '');
+        if (sched && sched !== lv.scheduledStart) { lv.scheduledStart = sched; changed = true; }
       }
     }
   }
