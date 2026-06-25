@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-06-25T13:39:54.785Z",
-  "videoCount": 1180,
+  "lastUpdated": "2026-06-25T16:29:56.794Z",
+  "videoCount": 1181,
   "videos": [
+    {
+      "id": "yvV7w8f1lYU",
+      "title": "【MECCHA CHAMELEON】hide with holoID【hololive | moona】",
+      "published": "2026-06-25T15:52:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yvV7w8f1lYU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 5969,
+      "status": "past"
+    },
     {
       "id": "B8vLpzLFK-Q",
       "title": "【Pratfall】Time for Digging!【hololive | moona】",
@@ -5827,7 +5836,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-02-15T14:00:00Z"
+      "scheduledStart": "2028-02-15T14:00:00.000Z"
     },
     {
       "id": "nPessoqyRbs",
@@ -10312,7 +10321,7 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-02-15T14:00:00Z"
+      "scheduledStart": "2028-02-15T14:00:00.000Z"
     },
     {
       "id": "ExvOuNKL_8E",
