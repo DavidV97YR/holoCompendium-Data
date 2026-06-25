@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-06-24T23:59:23.835Z",
+  "lastUpdated": "2026-06-25T14:01:17.092Z",
   "videoCount": 500,
   "videos": [
     {
@@ -16,7 +16,9 @@
       "published": "2026-06-24T22:38:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/rNCZpS5Fmlw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-06-25T11:00:00Z"
     },
     {
       "id": "TVk1q6i08D8",
@@ -24,7 +26,9 @@
       "published": "2026-06-23T17:44:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TVk1q6i08D8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12589
+      "duration": 12607,
+      "status": "past",
+      "scheduledStart": "2026-06-23T14:00:00Z"
     },
     {
       "id": "N8bfOiPot6o",
@@ -32,7 +36,8 @@
       "published": "2026-06-22T00:33:20.000Z",
       "thumbnail": "https://i.ytimg.com/vi/N8bfOiPot6o/maxresdefault.jpg",
       "type": "short",
-      "duration": 35
+      "duration": 35,
+      "status": "past"
     },
     {
       "id": "ys_VnunGCrg",
@@ -40,7 +45,9 @@
       "published": "2026-06-21T18:01:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ys_VnunGCrg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13864
+      "duration": 13864,
+      "status": "past",
+      "scheduledStart": "2026-06-21T14:00:00Z"
     },
     {
       "id": "uc4pxa_N_n0",
@@ -48,7 +55,9 @@
       "published": "2026-06-20T17:58:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/uc4pxa_N_n0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13224
+      "duration": 13224,
+      "status": "past",
+      "scheduledStart": "2026-06-20T14:00:00Z"
     },
     {
       "id": "dbifGAcUMwk",
@@ -56,7 +65,9 @@
       "published": "2026-06-14T17:18:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dbifGAcUMwk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10906
+      "duration": 10906,
+      "status": "past",
+      "scheduledStart": "2026-06-14T14:00:00Z"
     },
     {
       "id": "-nzHuD40i60",
@@ -64,7 +75,9 @@
       "published": "2026-06-13T17:28:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-nzHuD40i60/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11673
+      "duration": 11673,
+      "status": "past",
+      "scheduledStart": "2026-06-13T14:00:00Z"
     },
     {
       "id": "-Ht_HZH9daY",
@@ -72,7 +85,9 @@
       "published": "2026-06-11T05:30:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-Ht_HZH9daY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11557
+      "duration": 11557,
+      "status": "past",
+      "scheduledStart": "2026-06-11T02:00:00Z"
     },
     {
       "id": "ubTlK-8_vLQ",
@@ -80,7 +95,9 @@
       "published": "2026-06-10T17:32:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ubTlK-8_vLQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11829
+      "duration": 11829,
+      "status": "past",
+      "scheduledStart": "2026-06-10T14:00:00Z"
     },
     {
       "id": "nEeO2Da6t-s",
@@ -88,7 +105,9 @@
       "published": "2026-06-07T16:18:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nEeO2Da6t-s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4026
+      "duration": 4026,
+      "status": "past",
+      "scheduledStart": "2026-06-07T14:00:00Z"
     },
     {
       "id": "26iKCnRFFnA",
@@ -96,15 +115,19 @@
       "published": "2026-06-04T16:41:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/26iKCnRFFnA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9168
+      "duration": 9168,
+      "status": "past",
+      "scheduledStart": "2026-06-04T14:00:00Z"
     },
     {
       "id": "HDBAUJCkIEw",
       "title": "【WORK WITH ME】Let's get some work done together!~ FOCUS!!!",
-      "published": "2026-06-02T16:04:39Z",
+      "published": "2026-06-02T06:17:07Z",
       "thumbnail": "https://i.ytimg.com/vi/HDBAUJCkIEw/maxresdefault.jpg",
       "type": "member",
-      "duration": 25311
+      "duration": 25311,
+      "status": "past",
+      "scheduledStart": "2026-06-02T09:00:00Z"
     },
     {
       "id": "F9ipNv0qdy8",
@@ -112,7 +135,9 @@
       "published": "2026-05-31T06:05:58Z",
       "thumbnail": "https://i.ytimg.com/vi/F9ipNv0qdy8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13889
+      "duration": 13889,
+      "status": "past",
+      "scheduledStart": "2026-05-31T02:00:00Z"
     },
     {
       "id": "mZM0OO3VK9s",
@@ -120,7 +145,9 @@
       "published": "2026-05-30T03:56:48Z",
       "thumbnail": "https://i.ytimg.com/vi/mZM0OO3VK9s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12343
+      "duration": 12343,
+      "status": "past",
+      "scheduledStart": "2026-05-30T00:20:00Z"
     },
     {
       "id": "rFmdOarYXuE",
@@ -128,7 +155,9 @@
       "published": "2026-05-29T04:54:01Z",
       "thumbnail": "https://i.ytimg.com/vi/rFmdOarYXuE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13053
+      "duration": 13053,
+      "status": "past",
+      "scheduledStart": "2026-05-29T01:00:00Z"
     },
     {
       "id": "P3uwaftxSG0",
@@ -136,7 +165,9 @@
       "published": "2026-05-28T04:55:08Z",
       "thumbnail": "https://i.ytimg.com/vi/P3uwaftxSG0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12992
+      "duration": 12992,
+      "status": "past",
+      "scheduledStart": "2026-05-28T01:00:00Z"
     },
     {
       "id": "MGo9h3BNyj0",
@@ -144,7 +175,9 @@
       "published": "2026-05-27T05:19:30Z",
       "thumbnail": "https://i.ytimg.com/vi/MGo9h3BNyj0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14801
+      "duration": 14801,
+      "status": "past",
+      "scheduledStart": "2026-05-27T01:00:00Z"
     },
     {
       "id": "uSz1tR2SU28",
@@ -152,7 +185,9 @@
       "published": "2026-05-26T06:36:38Z",
       "thumbnail": "https://i.ytimg.com/vi/uSz1tR2SU28/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18697
+      "duration": 18697,
+      "status": "past",
+      "scheduledStart": "2026-05-26T01:00:00Z"
     },
     {
       "id": "XD-K3AirOdA",
@@ -160,7 +195,9 @@
       "published": "2026-05-25T08:13:03Z",
       "thumbnail": "https://i.ytimg.com/vi/XD-K3AirOdA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21059
+      "duration": 21059,
+      "status": "past",
+      "scheduledStart": "2026-05-25T02:00:00Z"
     },
     {
       "id": "hQJN4I2fF70",
@@ -168,7 +205,9 @@
       "published": "2026-05-23T11:18:41Z",
       "thumbnail": "https://i.ytimg.com/vi/hQJN4I2fF70/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11267
+      "duration": 11267,
+      "status": "past",
+      "scheduledStart": "2026-05-23T08:00:00Z"
     },
     {
       "id": "h1_PLqr2dd4",
@@ -176,15 +215,19 @@
       "published": "2026-05-19T19:18:16Z",
       "thumbnail": "https://i.ytimg.com/vi/h1_PLqr2dd4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18080
+      "duration": 18080,
+      "status": "past",
+      "scheduledStart": "2026-05-19T14:00:00Z"
     },
     {
       "id": "8PrABurfHFc",
       "title": "【MEMBERS ONLY】Short YAP stream!!!~",
-      "published": "2026-05-18T05:18:10Z",
+      "published": "2026-05-17T12:53:02Z",
       "thumbnail": "https://i.ytimg.com/vi/8PrABurfHFc/maxresdefault.jpg",
       "type": "member",
-      "duration": 6758
+      "duration": 6758,
+      "status": "past",
+      "scheduledStart": "2026-05-17T14:00:00Z"
     },
     {
       "id": "nmD3sH2tC7Q",
@@ -192,7 +235,9 @@
       "published": "2026-05-15T17:00:53Z",
       "thumbnail": "https://i.ytimg.com/vi/nmD3sH2tC7Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9833
+      "duration": 9833,
+      "status": "past",
+      "scheduledStart": "2026-05-15T14:00:00Z"
     },
     {
       "id": "wsWQ3NBokRM",
@@ -200,7 +245,9 @@
       "published": "2026-05-12T16:22:00Z",
       "thumbnail": "https://i.ytimg.com/vi/wsWQ3NBokRM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11089
+      "duration": 11089,
+      "status": "past",
+      "scheduledStart": "2026-05-12T13:00:00Z"
     },
     {
       "id": "cSHjgCKvGNs",
@@ -208,7 +255,9 @@
       "published": "2026-05-11T18:10:44Z",
       "thumbnail": "https://i.ytimg.com/vi/cSHjgCKvGNs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6724
+      "duration": 6724,
+      "status": "past",
+      "scheduledStart": "2026-05-11T14:00:00Z"
     },
     {
       "id": "uKYxf3wfwP4",
@@ -216,7 +265,9 @@
       "published": "2026-05-10T02:15:06Z",
       "thumbnail": "https://i.ytimg.com/vi/uKYxf3wfwP4/maxresdefault.jpg",
       "type": "video",
-      "duration": 287
+      "duration": 287,
+      "status": "past",
+      "scheduledStart": "2026-05-10T02:15:00Z"
     },
     {
       "id": "w37yVSXhV_c",
@@ -224,7 +275,9 @@
       "published": "2026-05-10T02:13:21Z",
       "thumbnail": "https://i.ytimg.com/vi/w37yVSXhV_c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4145
+      "duration": 4145,
+      "status": "past",
+      "scheduledStart": "2026-05-10T01:00:00Z"
     },
     {
       "id": "w0XacOimLKo",
@@ -232,7 +285,9 @@
       "published": "2026-05-06T16:39:04Z",
       "thumbnail": "https://i.ytimg.com/vi/w0XacOimLKo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8974
+      "duration": 8974,
+      "status": "past",
+      "scheduledStart": "2026-05-06T14:00:00Z"
     },
     {
       "id": "zc_JRHPep9c",
@@ -240,7 +295,9 @@
       "published": "2026-05-05T17:11:56Z",
       "thumbnail": "https://i.ytimg.com/vi/zc_JRHPep9c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10870
+      "duration": 10870,
+      "status": "past",
+      "scheduledStart": "2026-05-05T14:00:00Z"
     },
     {
       "id": "QpMzJGhVftk",
@@ -248,7 +305,9 @@
       "published": "2026-05-02T17:32:32Z",
       "thumbnail": "https://i.ytimg.com/vi/QpMzJGhVftk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9184
+      "duration": 9184,
+      "status": "past",
+      "scheduledStart": "2026-05-02T14:45:00Z"
     },
     {
       "id": "KmoHv6bSEoU",
@@ -256,7 +315,8 @@
       "published": "2026-04-29T02:41:27Z",
       "thumbnail": "https://i.ytimg.com/vi/KmoHv6bSEoU/maxresdefault.jpg",
       "type": "short",
-      "duration": 65
+      "duration": 65,
+      "status": "past"
     },
     {
       "id": "xvw5XaCW7kw",
@@ -264,7 +324,9 @@
       "published": "2026-04-28T18:59:57Z",
       "thumbnail": "https://i.ytimg.com/vi/xvw5XaCW7kw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17155
+      "duration": 17155,
+      "status": "past",
+      "scheduledStart": "2026-04-28T14:00:00Z"
     },
     {
       "id": "AOYpCVCTzco",
@@ -272,7 +334,9 @@
       "published": "2026-04-25T08:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/AOYpCVCTzco/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20170
+      "duration": 20170,
+      "status": "past",
+      "scheduledStart": "2026-04-25T02:00:00Z"
     },
     {
       "id": "tD0qcZEvWjc",
@@ -280,7 +344,9 @@
       "published": "2026-04-24T17:21:30Z",
       "thumbnail": "https://i.ytimg.com/vi/tD0qcZEvWjc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18191
+      "duration": 18191,
+      "status": "past",
+      "scheduledStart": "2026-04-24T12:00:00Z"
     },
     {
       "id": "PlWomiAw57A",
@@ -288,7 +354,9 @@
       "published": "2026-04-23T17:41:40Z",
       "thumbnail": "https://i.ytimg.com/vi/PlWomiAw57A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15956
+      "duration": 15956,
+      "status": "past",
+      "scheduledStart": "2026-04-23T13:00:00Z"
     },
     {
       "id": "Vfhs1gO8Pr0",
@@ -296,7 +364,9 @@
       "published": "2026-04-21T18:25:58Z",
       "thumbnail": "https://i.ytimg.com/vi/Vfhs1gO8Pr0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15060
+      "duration": 15060,
+      "status": "past",
+      "scheduledStart": "2026-04-21T14:00:00Z"
     },
     {
       "id": "pTPX4PAk7Qw",
@@ -304,7 +374,9 @@
       "published": "2026-04-19T16:41:03Z",
       "thumbnail": "https://i.ytimg.com/vi/pTPX4PAk7Qw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8334
+      "duration": 8334,
+      "status": "past",
+      "scheduledStart": "2026-04-19T14:05:00Z"
     },
     {
       "id": "grlg19-UM0M",
@@ -312,7 +384,9 @@
       "published": "2026-04-17T17:52:43Z",
       "thumbnail": "https://i.ytimg.com/vi/grlg19-UM0M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13172
+      "duration": 13172,
+      "status": "past",
+      "scheduledStart": "2026-04-17T14:00:00Z"
     },
     {
       "id": "gO3wMW_8K30",
@@ -320,7 +394,9 @@
       "published": "2026-04-16T18:23:27Z",
       "thumbnail": "https://i.ytimg.com/vi/gO3wMW_8K30/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15164
+      "duration": 15164,
+      "status": "past",
+      "scheduledStart": "2026-04-16T14:00:00Z"
     },
     {
       "id": "fdSaaKCXJXo",
@@ -328,7 +404,9 @@
       "published": "2026-04-15T16:16:53Z",
       "thumbnail": "https://i.ytimg.com/vi/fdSaaKCXJXo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10772
+      "duration": 10772,
+      "status": "past",
+      "scheduledStart": "2026-04-15T13:10:00Z"
     },
     {
       "id": "-fETKJ94CgU",
@@ -336,7 +414,9 @@
       "published": "2026-04-12T18:06:36Z",
       "thumbnail": "https://i.ytimg.com/vi/-fETKJ94CgU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14034
+      "duration": 14034,
+      "status": "past",
+      "scheduledStart": "2026-04-12T14:00:00Z"
     },
     {
       "id": "V43u-18MakE",
@@ -344,7 +424,8 @@
       "published": "2026-04-09T11:05:30Z",
       "thumbnail": "https://i.ytimg.com/vi/V43u-18MakE/maxresdefault.jpg",
       "type": "short",
-      "duration": 58
+      "duration": 58,
+      "status": "past"
     },
     {
       "id": "97aydhssGYs",
@@ -352,7 +433,9 @@
       "published": "2026-04-06T18:03:43Z",
       "thumbnail": "https://i.ytimg.com/vi/97aydhssGYs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13074
+      "duration": 13074,
+      "status": "past",
+      "scheduledStart": "2026-04-06T14:06:00Z"
     },
     {
       "id": "5tYua_w-9W4",
@@ -360,7 +443,9 @@
       "published": "2026-04-05T16:36:32Z",
       "thumbnail": "https://i.ytimg.com/vi/5tYua_w-9W4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4436
+      "duration": 4436,
+      "status": "past",
+      "scheduledStart": "2026-04-05T14:00:00Z"
     },
     {
       "id": "9cQ7uGh5SWY",
@@ -368,7 +453,9 @@
       "published": "2026-04-01T16:15:10Z",
       "thumbnail": "https://i.ytimg.com/vi/9cQ7uGh5SWY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7483
+      "duration": 7483,
+      "status": "past",
+      "scheduledStart": "2026-04-01T14:00:00Z"
     },
     {
       "id": "Gapg6rKg9DA",
@@ -376,7 +463,9 @@
       "published": "2026-03-31T02:25:41Z",
       "thumbnail": "https://i.ytimg.com/vi/Gapg6rKg9DA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11535
+      "duration": 11535,
+      "status": "past",
+      "scheduledStart": "2026-03-30T23:00:00Z"
     },
     {
       "id": "ad7ou8035ts",
@@ -384,7 +473,9 @@
       "published": "2026-03-29T19:42:09Z",
       "thumbnail": "https://i.ytimg.com/vi/ad7ou8035ts/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19467
+      "duration": 19467,
+      "status": "past",
+      "scheduledStart": "2026-03-29T14:00:00Z"
     },
     {
       "id": "wp1dGSKoSiw",
@@ -392,15 +483,19 @@
       "published": "2026-03-25T19:09:39Z",
       "thumbnail": "https://i.ytimg.com/vi/wp1dGSKoSiw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17805
+      "duration": 17805,
+      "status": "past",
+      "scheduledStart": "2026-03-25T14:00:00Z"
     },
     {
       "id": "ivw4tzmA4Xw",
       "title": "【MEMBERS ONLY】 COSMIC PRINCESS KAGUYA! - WATCHALONG / Let's watch and get comfy together!!! RAAAOOO",
-      "published": "2026-03-24T16:41:20Z",
+      "published": "2026-03-24T08:05:15Z",
       "thumbnail": "https://i.ytimg.com/vi/ivw4tzmA4Xw/maxresdefault.jpg",
       "type": "member",
-      "duration": 12424
+      "duration": 12424,
+      "status": "past",
+      "scheduledStart": "2026-03-24T13:00:00Z"
     },
     {
       "id": "_jHLqz_932k",
@@ -408,7 +503,8 @@
       "published": "2026-03-23T02:20:57Z",
       "thumbnail": "https://i.ytimg.com/vi/_jHLqz_932k/maxresdefault.jpg",
       "type": "short",
-      "duration": 57
+      "duration": 57,
+      "status": "past"
     },
     {
       "id": "SBWh0Ig1OEU",
@@ -416,7 +512,9 @@
       "published": "2026-03-22T07:59:19Z",
       "thumbnail": "https://i.ytimg.com/vi/SBWh0Ig1OEU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18093
+      "duration": 18093,
+      "status": "past",
+      "scheduledStart": "2026-03-22T02:40:00Z"
     },
     {
       "id": "rW2rRSyDoA0",
@@ -424,7 +522,9 @@
       "published": "2026-03-21T17:14:55Z",
       "thumbnail": "https://i.ytimg.com/vi/rW2rRSyDoA0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11069
+      "duration": 11069,
+      "status": "past",
+      "scheduledStart": "2026-03-21T14:00:00Z"
     },
     {
       "id": "_TEme0cP_hE",
@@ -432,7 +532,9 @@
       "published": "2026-03-18T17:34:29Z",
       "thumbnail": "https://i.ytimg.com/vi/_TEme0cP_hE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12168
+      "duration": 12168,
+      "status": "past",
+      "scheduledStart": "2026-03-18T14:00:00Z"
     },
     {
       "id": "g_r3bZCcahw",
@@ -440,15 +542,19 @@
       "published": "2026-03-15T17:55:50Z",
       "thumbnail": "https://i.ytimg.com/vi/g_r3bZCcahw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13449
+      "duration": 13449,
+      "status": "past",
+      "scheduledStart": "2026-03-15T14:00:00Z"
     },
     {
       "id": "9mdDbjfHUWU",
       "title": "【DRAWING】 idk i just want to draw! -  mostly muted stream",
-      "published": "2026-03-14T16:52:58Z",
+      "published": "2026-03-14T11:41:19Z",
       "thumbnail": "https://i.ytimg.com/vi/9mdDbjfHUWU/maxresdefault.jpg",
       "type": "member",
-      "duration": 13132
+      "duration": 13132,
+      "status": "past",
+      "scheduledStart": "2026-03-14T13:00:00Z"
     },
     {
       "id": "Dbmuk1x0R4c",
@@ -456,7 +562,8 @@
       "published": "2026-03-14T06:37:39Z",
       "thumbnail": "https://i.ytimg.com/vi/Dbmuk1x0R4c/maxresdefault.jpg",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "-eMEPl3ub_Y",
@@ -464,7 +571,9 @@
       "published": "2026-03-13T16:45:02Z",
       "thumbnail": "https://i.ytimg.com/vi/-eMEPl3ub_Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9182
+      "duration": 9182,
+      "status": "past",
+      "scheduledStart": "2026-03-13T14:00:00Z"
     },
     {
       "id": "atW1din3FlY",
@@ -472,7 +581,9 @@
       "published": "2026-03-11T17:33:08Z",
       "thumbnail": "https://i.ytimg.com/vi/atW1din3FlY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12155
+      "duration": 12155,
+      "status": "past",
+      "scheduledStart": "2026-03-11T14:00:00Z"
     },
     {
       "id": "MT8eHLMn2uw",
@@ -480,7 +591,9 @@
       "published": "2026-03-10T16:43:54Z",
       "thumbnail": "https://i.ytimg.com/vi/MT8eHLMn2uw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9073
+      "duration": 9073,
+      "status": "past",
+      "scheduledStart": "2026-03-10T14:00:00Z"
     },
     {
       "id": "L0JXOu1AUt4",
@@ -488,7 +601,9 @@
       "published": "2026-03-05T02:23:34Z",
       "thumbnail": "https://i.ytimg.com/vi/L0JXOu1AUt4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11598
+      "duration": 11598,
+      "status": "past",
+      "scheduledStart": "2026-03-04T23:00:00Z"
     },
     {
       "id": "subQVXX_XuY",
@@ -496,7 +611,9 @@
       "published": "2026-03-03T17:41:14Z",
       "thumbnail": "https://i.ytimg.com/vi/subQVXX_XuY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5486
+      "duration": 5486,
+      "status": "past",
+      "scheduledStart": "2026-03-03T14:00:00Z"
     },
     {
       "id": "tXdvSpiagUk",
@@ -504,7 +621,8 @@
       "published": "2026-03-03T05:36:52Z",
       "thumbnail": "https://i.ytimg.com/vi/tXdvSpiagUk/maxresdefault.jpg",
       "type": "short",
-      "duration": 41
+      "duration": 41,
+      "status": "past"
     },
     {
       "id": "CDaUny0Ws2I",
@@ -512,7 +630,8 @@
       "published": "2026-02-24T09:34:27Z",
       "thumbnail": "https://i.ytimg.com/vi/CDaUny0Ws2I/maxresdefault.jpg",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "9d0VGduOLYY",
@@ -520,7 +639,8 @@
       "published": "2026-02-18T02:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/9d0VGduOLYY/maxresdefault.jpg",
       "type": "short",
-      "duration": 43
+      "duration": 43,
+      "status": "past"
     },
     {
       "id": "eaTdPvJLYnc",
@@ -528,7 +648,9 @@
       "published": "2026-02-10T16:50:56Z",
       "thumbnail": "https://i.ytimg.com/vi/eaTdPvJLYnc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9658
+      "duration": 9658,
+      "status": "past",
+      "scheduledStart": "2026-02-10T14:00:00Z"
     },
     {
       "id": "c2orkYRb0po",
@@ -536,7 +658,9 @@
       "published": "2026-02-08T03:13:04Z",
       "thumbnail": "https://i.ytimg.com/vi/c2orkYRb0po/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7400
+      "duration": 7400,
+      "status": "past",
+      "scheduledStart": "2026-02-08T01:00:00Z"
     },
     {
       "id": "bnZXYFRU-Iw",
@@ -544,7 +668,9 @@
       "published": "2026-02-07T16:44:01Z",
       "thumbnail": "https://i.ytimg.com/vi/bnZXYFRU-Iw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9085
+      "duration": 9085,
+      "status": "past",
+      "scheduledStart": "2026-02-07T14:00:00Z"
     },
     {
       "id": "mBPyPOtLR58",
@@ -552,7 +678,9 @@
       "published": "2026-02-06T18:07:18Z",
       "thumbnail": "https://i.ytimg.com/vi/mBPyPOtLR58/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13747
+      "duration": 13747,
+      "status": "past",
+      "scheduledStart": "2026-02-06T14:00:00Z"
     },
     {
       "id": "4hWTn_6PdtQ",
@@ -560,15 +688,19 @@
       "published": "2026-02-04T07:36:53Z",
       "thumbnail": "https://i.ytimg.com/vi/4hWTn_6PdtQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8651
+      "duration": 8651,
+      "status": "past",
+      "scheduledStart": "2026-02-04T05:00:00Z"
     },
     {
       "id": "d1lFJ9UwC5A",
       "title": "I just want to yap for an hour",
-      "published": "2026-02-01T17:01:27Z",
+      "published": "2026-02-01T12:14:05Z",
       "thumbnail": "https://i.ytimg.com/vi/d1lFJ9UwC5A/maxresdefault.jpg",
       "type": "member",
-      "duration": 10202
+      "duration": 10202,
+      "status": "past",
+      "scheduledStart": "2026-02-01T14:00:00Z"
     },
     {
       "id": "9PqKKpm5tSM",
@@ -576,7 +708,9 @@
       "published": "2026-01-31T16:42:15Z",
       "thumbnail": "https://i.ytimg.com/vi/9PqKKpm5tSM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9260
+      "duration": 9260,
+      "status": "past",
+      "scheduledStart": "2026-01-31T14:00:00Z"
     },
     {
       "id": "xkkDFKku_8A",
@@ -584,7 +718,9 @@
       "published": "2026-01-28T17:49:40Z",
       "thumbnail": "https://i.ytimg.com/vi/xkkDFKku_8A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12716
+      "duration": 12716,
+      "status": "past",
+      "scheduledStart": "2026-01-28T14:00:00Z"
     },
     {
       "id": "yOTPmHs0-ME",
@@ -592,7 +728,9 @@
       "published": "2026-01-21T05:47:28Z",
       "thumbnail": "https://i.ytimg.com/vi/yOTPmHs0-ME/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5707
+      "duration": 5707,
+      "status": "past",
+      "scheduledStart": "2026-01-21T04:00:00Z"
     },
     {
       "id": "UU9Lmel_1kU",
@@ -600,7 +738,9 @@
       "published": "2026-01-17T16:40:55Z",
       "thumbnail": "https://i.ytimg.com/vi/UU9Lmel_1kU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8163
+      "duration": 8163,
+      "status": "past",
+      "scheduledStart": "2026-01-17T14:15:00Z"
     },
     {
       "id": "KqN6_MgWYhg",
@@ -608,15 +748,19 @@
       "published": "2026-01-14T19:46:13Z",
       "thumbnail": "https://i.ytimg.com/vi/KqN6_MgWYhg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19584
+      "duration": 19584,
+      "status": "past",
+      "scheduledStart": "2026-01-14T14:00:00Z"
     },
     {
       "id": "3wd2bv_SBW4",
       "title": "【MEMBERS ONLY】short stream to draw a bit! (mostly muted stream!)",
-      "published": "2026-01-11T19:14:13Z",
+      "published": "2026-01-11T12:56:30Z",
       "thumbnail": "https://i.ytimg.com/vi/3wd2bv_SBW4/maxresdefault.jpg",
       "type": "member",
-      "duration": 17772
+      "duration": 17772,
+      "status": "past",
+      "scheduledStart": "2026-01-11T14:00:00Z"
     },
     {
       "id": "KHSGa5X-yIo",
@@ -624,7 +768,9 @@
       "published": "2026-01-10T19:10:25Z",
       "thumbnail": "https://i.ytimg.com/vi/KHSGa5X-yIo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17480
+      "duration": 17480,
+      "status": "past",
+      "scheduledStart": "2026-01-10T14:00:00Z"
     },
     {
       "id": "U-rNA397k1Q",
@@ -632,15 +778,18 @@
       "published": "2026-01-09T21:35:09Z",
       "thumbnail": "https://i.ytimg.com/vi/U-rNA397k1Q/maxresdefault.jpg",
       "type": "short",
-      "duration": 52
+      "duration": 52,
+      "status": "past"
     },
     {
       "id": "PK4PWkZJ0ME",
       "title": "【MEMBERS ONLY 】I wanna draw so let's do it together! (mostly muted stream!)",
-      "published": "2026-01-08T16:40:20Z",
+      "published": "2026-01-08T11:38:45Z",
       "thumbnail": "https://i.ytimg.com/vi/PK4PWkZJ0ME/maxresdefault.jpg",
       "type": "member",
-      "duration": 12466
+      "duration": 12466,
+      "status": "past",
+      "scheduledStart": "2026-01-08T13:00:00Z"
     },
     {
       "id": "4E7VBrjAKqU",
@@ -648,7 +797,8 @@
       "published": "2026-01-06T02:04:43Z",
       "thumbnail": "https://i.ytimg.com/vi/4E7VBrjAKqU/maxresdefault.jpg",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "DYPo0jOcTTE",
@@ -656,7 +806,9 @@
       "published": "2026-01-05T20:10:44Z",
       "thumbnail": "https://i.ytimg.com/vi/DYPo0jOcTTE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6856
+      "duration": 6856,
+      "status": "past",
+      "scheduledStart": "2026-01-05T18:00:00Z"
     },
     {
       "id": "icbfVNztniI",
@@ -664,7 +816,9 @@
       "published": "2026-01-03T16:05:34Z",
       "thumbnail": "https://i.ytimg.com/vi/icbfVNztniI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6917
+      "duration": 6917,
+      "status": "past",
+      "scheduledStart": "2026-01-03T14:00:00Z"
     },
     {
       "id": "Br4b00pvT9Q",
@@ -672,7 +826,8 @@
       "published": "2025-12-31T21:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/Br4b00pvT9Q/maxresdefault.jpg",
       "type": "short",
-      "duration": 52
+      "duration": 52,
+      "status": "past"
     },
     {
       "id": "V-VnpWVR4h4",
@@ -680,7 +835,8 @@
       "published": "2025-12-28T00:37:54Z",
       "thumbnail": "https://i.ytimg.com/vi/V-VnpWVR4h4/maxresdefault.jpg",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "TLP7DfYEbi4",
@@ -688,7 +844,8 @@
       "published": "2025-12-23T14:48:51Z",
       "thumbnail": "https://i.ytimg.com/vi/TLP7DfYEbi4/maxresdefault.jpg",
       "type": "short",
-      "duration": 44
+      "duration": 44,
+      "status": "past"
     },
     {
       "id": "W4eE5zaVBv8",
@@ -696,7 +853,8 @@
       "published": "2025-12-18T06:40:28Z",
       "thumbnail": "https://i.ytimg.com/vi/W4eE5zaVBv8/maxresdefault.jpg",
       "type": "short",
-      "duration": 55
+      "duration": 55,
+      "status": "past"
     },
     {
       "id": "1E61g36Zszc",
@@ -704,7 +862,8 @@
       "published": "2025-12-11T00:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/1E61g36Zszc/maxresdefault.jpg",
       "type": "short",
-      "duration": 40
+      "duration": 40,
+      "status": "past"
     },
     {
       "id": "r4tOJWs5McY",
@@ -712,7 +871,8 @@
       "published": "2025-12-02T00:00:56Z",
       "thumbnail": "https://i.ytimg.com/vi/r4tOJWs5McY/maxresdefault.jpg",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "OENemu0fBto",
@@ -720,7 +880,9 @@
       "published": "2025-11-27T17:54:09Z",
       "thumbnail": "https://i.ytimg.com/vi/OENemu0fBto/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16861
+      "duration": 16861,
+      "status": "past",
+      "scheduledStart": "2025-11-27T13:00:00Z"
     },
     {
       "id": "wNdlO3X1qAI",
@@ -728,7 +890,9 @@
       "published": "2025-11-26T18:14:29Z",
       "thumbnail": "https://i.ytimg.com/vi/wNdlO3X1qAI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14559
+      "duration": 14559,
+      "status": "past",
+      "scheduledStart": "2025-11-26T14:00:00Z"
     },
     {
       "id": "eDeAkp4a4V8",
@@ -736,7 +900,9 @@
       "published": "2025-11-25T17:07:03Z",
       "thumbnail": "https://i.ytimg.com/vi/eDeAkp4a4V8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8699
+      "duration": 8699,
+      "status": "past",
+      "scheduledStart": "2025-11-25T14:30:00Z"
     },
     {
       "id": "3NenOWjlACU",
@@ -744,7 +910,8 @@
       "published": "2025-11-24T11:10:25Z",
       "thumbnail": "https://i.ytimg.com/vi/3NenOWjlACU/maxresdefault.jpg",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "Y3jyCmMlyw0",
@@ -752,7 +919,9 @@
       "published": "2025-11-23T15:18:42Z",
       "thumbnail": "https://i.ytimg.com/vi/Y3jyCmMlyw0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 892
+      "duration": 892,
+      "status": "past",
+      "scheduledStart": "2025-11-23T15:00:00Z"
     },
     {
       "id": "WaMRN51S-0k",
@@ -760,7 +929,9 @@
       "published": "2025-11-23T03:26:19Z",
       "thumbnail": "https://i.ytimg.com/vi/WaMRN51S-0k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4141
+      "duration": 4141,
+      "status": "past",
+      "scheduledStart": "2025-11-23T02:05:00Z"
     },
     {
       "id": "nvy2zN6Vbx4",
@@ -768,7 +939,9 @@
       "published": "2025-11-21T23:09:18Z",
       "thumbnail": "https://i.ytimg.com/vi/nvy2zN6Vbx4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6819
+      "duration": 6819,
+      "status": "past",
+      "scheduledStart": "2025-11-21T21:00:00Z"
     },
     {
       "id": "PTtQAMVPp3w",
@@ -776,7 +949,9 @@
       "published": "2025-11-19T18:21:57Z",
       "thumbnail": "https://i.ytimg.com/vi/PTtQAMVPp3w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14917
+      "duration": 14917,
+      "status": "past",
+      "scheduledStart": "2025-11-19T14:00:00Z"
     },
     {
       "id": "TC1JExhTddc",
@@ -784,15 +959,19 @@
       "published": "2025-11-18T17:34:06Z",
       "thumbnail": "https://i.ytimg.com/vi/TC1JExhTddc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12142
+      "duration": 12142,
+      "status": "past",
+      "scheduledStart": "2025-11-18T14:00:00Z"
     },
     {
       "id": "vH1eftN-kBc",
       "title": "【MEMBERS ONLY】Drawing today, but my Chattini are here to keep me company",
-      "published": "2025-11-15T17:50:33Z",
+      "published": "2025-11-15T09:53:51Z",
       "thumbnail": "https://i.ytimg.com/vi/vH1eftN-kBc/maxresdefault.jpg",
       "type": "member",
-      "duration": 13024
+      "duration": 13024,
+      "status": "past",
+      "scheduledStart": "2025-11-15T14:00:00Z"
     },
     {
       "id": "-xSUXF5ctQY",
@@ -800,7 +979,9 @@
       "published": "2025-11-13T18:48:31Z",
       "thumbnail": "https://i.ytimg.com/vi/-xSUXF5ctQY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9329
+      "duration": 9329,
+      "status": "past",
+      "scheduledStart": "2025-11-13T16:00:00Z"
     },
     {
       "id": "0yRuC3eXzgQ",
@@ -808,7 +989,9 @@
       "published": "2025-11-12T18:29:42Z",
       "thumbnail": "https://i.ytimg.com/vi/0yRuC3eXzgQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15263
+      "duration": 15263,
+      "status": "past",
+      "scheduledStart": "2025-11-12T14:00:00Z"
     },
     {
       "id": "yajP8IXb0v0",
@@ -816,7 +999,9 @@
       "published": "2025-11-11T17:47:39Z",
       "thumbnail": "https://i.ytimg.com/vi/yajP8IXb0v0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12879
+      "duration": 12879,
+      "status": "past",
+      "scheduledStart": "2025-11-11T14:00:00Z"
     },
     {
       "id": "9WEWY3yE3FQ",
@@ -824,7 +1009,9 @@
       "published": "2025-11-08T17:13:47Z",
       "thumbnail": "https://i.ytimg.com/vi/9WEWY3yE3FQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 7406
+      "duration": 7406,
+      "status": "past",
+      "scheduledStart": "2025-11-08T14:00:00Z"
     },
     {
       "id": "bLS49NadGYc",
@@ -832,7 +1019,8 @@
       "published": "2025-11-08T17:09:22Z",
       "thumbnail": "https://i.ytimg.com/vi/bLS49NadGYc/maxresdefault.jpg",
       "type": "short",
-      "duration": 53
+      "duration": 53,
+      "status": "past"
     },
     {
       "id": "2FbxQ74I9eY",
@@ -840,7 +1028,9 @@
       "published": "2025-11-06T16:57:09Z",
       "thumbnail": "https://i.ytimg.com/vi/2FbxQ74I9eY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6305
+      "duration": 6305,
+      "status": "past",
+      "scheduledStart": "2025-11-06T15:00:00Z"
     },
     {
       "id": "tAZEYtgAO80",
@@ -848,7 +1038,9 @@
       "published": "2025-11-06T03:43:11Z",
       "thumbnail": "https://i.ytimg.com/vi/tAZEYtgAO80/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5428
+      "duration": 5428,
+      "status": "past",
+      "scheduledStart": "2025-11-06T02:00:00Z"
     },
     {
       "id": "pBhuIIXu_fw",
@@ -856,7 +1048,9 @@
       "published": "2025-11-04T19:26:30Z",
       "thumbnail": "https://i.ytimg.com/vi/pBhuIIXu_fw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17592
+      "duration": 17592,
+      "status": "past",
+      "scheduledStart": "2025-11-04T14:00:00Z"
     },
     {
       "id": "uYwRd57A414",
@@ -864,7 +1058,9 @@
       "published": "2025-11-02T16:48:37Z",
       "thumbnail": "https://i.ytimg.com/vi/uYwRd57A414/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9303
+      "duration": 9303,
+      "status": "past",
+      "scheduledStart": "2025-11-02T14:00:00Z"
     },
     {
       "id": "1mBsihFbFBI",
@@ -872,7 +1068,9 @@
       "published": "2025-11-01T22:09:52Z",
       "thumbnail": "https://i.ytimg.com/vi/1mBsihFbFBI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2249
+      "duration": 2249,
+      "status": "past",
+      "scheduledStart": "2025-11-01T21:30:00Z"
     },
     {
       "id": "SijrVN7wL5s",
@@ -880,7 +1078,9 @@
       "published": "2025-10-30T05:00:54Z",
       "thumbnail": "https://i.ytimg.com/vi/SijrVN7wL5s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9683
+      "duration": 9683,
+      "status": "past",
+      "scheduledStart": "2025-10-30T02:10:00Z"
     },
     {
       "id": "-zVxBQ8ffHY",
@@ -888,7 +1088,9 @@
       "published": "2025-10-26T17:15:21Z",
       "thumbnail": "https://i.ytimg.com/vi/-zVxBQ8ffHY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11023
+      "duration": 11023,
+      "status": "past",
+      "scheduledStart": "2025-10-26T14:00:00Z"
     },
     {
       "id": "Sk7tjU4EJR4",
@@ -896,7 +1098,8 @@
       "published": "2025-10-25T19:06:40Z",
       "thumbnail": "https://i.ytimg.com/vi/Sk7tjU4EJR4/maxresdefault.jpg",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "w_BFFzmnZXY",
@@ -904,7 +1107,9 @@
       "published": "2025-10-25T18:36:00Z",
       "thumbnail": "https://i.ytimg.com/vi/w_BFFzmnZXY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15593
+      "duration": 15593,
+      "status": "past",
+      "scheduledStart": "2025-10-25T14:00:00Z"
     },
     {
       "id": "BJjpnATUFkU",
@@ -912,7 +1117,9 @@
       "published": "2025-10-25T03:32:43Z",
       "thumbnail": "https://i.ytimg.com/vi/BJjpnATUFkU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7041
+      "duration": 7041,
+      "status": "past",
+      "scheduledStart": "2025-10-25T01:00:00Z"
     },
     {
       "id": "1BTd20qIfBI",
@@ -920,7 +1127,9 @@
       "published": "2025-10-25T03:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/1BTd20qIfBI/maxresdefault.jpg",
       "type": "video",
-      "duration": 191
+      "duration": 191,
+      "status": "past",
+      "scheduledStart": "2025-10-25T03:00:00Z"
     },
     {
       "id": "qEPUyBd899c",
@@ -928,7 +1137,9 @@
       "published": "2025-10-23T15:23:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qEPUyBd899c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8025
+      "duration": 8025,
+      "status": "past",
+      "scheduledStart": "2025-10-23T13:00:00Z"
     },
     {
       "id": "X20VS1MNcLY",
@@ -936,7 +1147,9 @@
       "published": "2025-10-23T04:05:01Z",
       "thumbnail": "https://i.ytimg.com/vi/X20VS1MNcLY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10285
+      "duration": 10285,
+      "status": "past",
+      "scheduledStart": "2025-10-23T01:00:00Z"
     },
     {
       "id": "nVIkEXJvAdQ",
@@ -944,7 +1157,9 @@
       "published": "2025-10-22T13:34:03Z",
       "thumbnail": "https://i.ytimg.com/vi/nVIkEXJvAdQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 37485
+      "duration": 37485,
+      "status": "past",
+      "scheduledStart": "2025-10-22T02:00:00Z"
     },
     {
       "id": "3cxglMyveds",
@@ -952,7 +1167,9 @@
       "published": "2025-10-21T18:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/3cxglMyveds/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13265
+      "duration": 13265,
+      "status": "past",
+      "scheduledStart": "2025-10-21T14:00:00Z"
     },
     {
       "id": "mT-1A_Eig_s",
@@ -960,15 +1177,8 @@
       "published": "2025-10-21T01:51:41Z",
       "thumbnail": "https://i.ytimg.com/vi/mT-1A_Eig_s/maxresdefault.jpg",
       "type": "short",
-      "duration": 18
-    },
-    {
-      "id": "zm84WzbyP-0",
-      "title": "【CHATTINI DAY: 3D SPECIAL】MEMBERS ONLY FALL GUYS, make me win this time!",
-      "published": "2025-10-20T12:02:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/zm84WzbyP-0/maxresdefault.jpg",
-      "type": "member",
-      "duration": 3874
+      "duration": 18,
+      "status": "past"
     },
     {
       "id": "QmpfwGfZEi4",
@@ -976,7 +1186,19 @@
       "published": "2025-10-20T10:59:52Z",
       "thumbnail": "https://i.ytimg.com/vi/QmpfwGfZEi4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 33687
+      "duration": 33687,
+      "status": "past",
+      "scheduledStart": "2025-10-20T01:00:00Z"
+    },
+    {
+      "id": "zm84WzbyP-0",
+      "title": "【CHATTINI DAY: 3D SPECIAL】MEMBERS ONLY FALL GUYS, make me win this time!",
+      "published": "2025-10-20T03:57:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/zm84WzbyP-0/maxresdefault.jpg",
+      "type": "member",
+      "duration": 3874,
+      "status": "past",
+      "scheduledStart": "2025-10-20T10:00:00Z"
     },
     {
       "id": "dHHMvoctOsM",
@@ -984,7 +1206,9 @@
       "published": "2025-10-18T09:41:20Z",
       "thumbnail": "https://i.ytimg.com/vi/dHHMvoctOsM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 25885
+      "duration": 25885,
+      "status": "past",
+      "scheduledStart": "2025-10-18T02:00:00Z"
     },
     {
       "id": "3uQ89IAkYGQ",
@@ -992,7 +1216,9 @@
       "published": "2025-10-17T07:36:52Z",
       "thumbnail": "https://i.ytimg.com/vi/3uQ89IAkYGQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19030
+      "duration": 19030,
+      "status": "past",
+      "scheduledStart": "2025-10-17T02:00:00Z"
     },
     {
       "id": "NjW3Ei-fziA",
@@ -1000,7 +1226,9 @@
       "published": "2025-10-16T10:27:54Z",
       "thumbnail": "https://i.ytimg.com/vi/NjW3Ei-fziA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 34186
+      "duration": 34186,
+      "status": "past",
+      "scheduledStart": "2025-10-16T00:20:00Z"
     },
     {
       "id": "zqsrMRhSAXA",
@@ -1008,7 +1236,9 @@
       "published": "2025-10-13T06:39:02Z",
       "thumbnail": "https://i.ytimg.com/vi/zqsrMRhSAXA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8476
+      "duration": 8476,
+      "status": "past",
+      "scheduledStart": "2025-10-13T04:00:00Z"
     },
     {
       "id": "Ctsd2St9WhU",
@@ -1016,7 +1246,9 @@
       "published": "2025-10-12T07:59:52Z",
       "thumbnail": "https://i.ytimg.com/vi/Ctsd2St9WhU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19727
+      "duration": 19727,
+      "status": "past",
+      "scheduledStart": "2025-10-12T02:00:00Z"
     },
     {
       "id": "6TjloE3tOh4",
@@ -1024,7 +1256,9 @@
       "published": "2025-10-11T04:59:29Z",
       "thumbnail": "https://i.ytimg.com/vi/6TjloE3tOh4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12800
+      "duration": 12800,
+      "status": "past",
+      "scheduledStart": "2025-10-11T01:00:00Z"
     },
     {
       "id": "06Fwm7VyTuY",
@@ -1032,7 +1266,9 @@
       "published": "2025-10-07T05:11:15Z",
       "thumbnail": "https://i.ytimg.com/vi/06Fwm7VyTuY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9819
+      "duration": 9819,
+      "status": "past",
+      "scheduledStart": "2025-10-07T02:15:00Z"
     },
     {
       "id": "dlqem_E6tq4",
@@ -1040,15 +1276,19 @@
       "published": "2025-10-06T06:13:39Z",
       "thumbnail": "https://i.ytimg.com/vi/dlqem_E6tq4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10873
+      "duration": 10873,
+      "status": "past",
+      "scheduledStart": "2025-10-06T03:00:00Z"
     },
     {
       "id": "KKyO4wTdfVM",
       "title": "【MEMBERS ONLY】silently drawing late at night with ASMR mic on",
-      "published": "2025-10-05T17:00:09Z",
+      "published": "2025-10-05T03:36:37Z",
       "thumbnail": "https://i.ytimg.com/vi/KKyO4wTdfVM/maxresdefault.jpg",
       "type": "member",
-      "duration": 9810
+      "duration": 9810,
+      "status": "past",
+      "scheduledStart": "2025-10-05T14:00:00Z"
     },
     {
       "id": "p6COpxgcL8s",
@@ -1056,7 +1296,9 @@
       "published": "2025-10-04T07:13:39Z",
       "thumbnail": "https://i.ytimg.com/vi/p6COpxgcL8s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17794
+      "duration": 17794,
+      "status": "past",
+      "scheduledStart": "2025-10-04T02:00:00Z"
     },
     {
       "id": "0DLKx7hGLVM",
@@ -1064,7 +1306,9 @@
       "published": "2025-10-02T09:03:42Z",
       "thumbnail": "https://i.ytimg.com/vi/0DLKx7hGLVM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21897
+      "duration": 21897,
+      "status": "past",
+      "scheduledStart": "2025-10-02T02:00:00Z"
     },
     {
       "id": "kGxn7DVbOAY",
@@ -1072,7 +1316,9 @@
       "published": "2025-09-28T16:39:16Z",
       "thumbnail": "https://i.ytimg.com/vi/kGxn7DVbOAY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12031
+      "duration": 12031,
+      "status": "past",
+      "scheduledStart": "2025-09-28T13:00:00Z"
     },
     {
       "id": "VkMy1pQIo6w",
@@ -1080,7 +1326,9 @@
       "published": "2025-09-27T07:05:28Z",
       "thumbnail": "https://i.ytimg.com/vi/VkMy1pQIo6w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17371
+      "duration": 17371,
+      "status": "past",
+      "scheduledStart": "2025-09-27T02:00:00Z"
     },
     {
       "id": "dEX4HUTyjXU",
@@ -1088,7 +1336,9 @@
       "published": "2025-09-23T01:44:44Z",
       "thumbnail": "https://i.ytimg.com/vi/dEX4HUTyjXU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16135
+      "duration": 16135,
+      "status": "past",
+      "scheduledStart": "2025-09-22T21:00:00Z"
     },
     {
       "id": "4hRp5qu95I8",
@@ -1096,7 +1346,9 @@
       "published": "2025-09-19T00:16:43Z",
       "thumbnail": "https://i.ytimg.com/vi/4hRp5qu95I8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10706
+      "duration": 10706,
+      "status": "past",
+      "scheduledStart": "2025-09-18T21:10:00Z"
     },
     {
       "id": "G8_jFK_d1xY",
@@ -1104,7 +1356,9 @@
       "published": "2025-09-17T01:35:24Z",
       "thumbnail": "https://i.ytimg.com/vi/G8_jFK_d1xY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14865
+      "duration": 14865,
+      "status": "past",
+      "scheduledStart": "2025-09-16T21:15:00Z"
     },
     {
       "id": "GDfNEEMYpSE",
@@ -1112,7 +1366,9 @@
       "published": "2025-09-16T00:42:53Z",
       "thumbnail": "https://i.ytimg.com/vi/GDfNEEMYpSE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12410
+      "duration": 12410,
+      "status": "past",
+      "scheduledStart": "2025-09-15T21:00:00Z"
     },
     {
       "id": "0iGkuZnggLU",
@@ -1120,7 +1376,9 @@
       "published": "2025-09-09T00:13:27Z",
       "thumbnail": "https://i.ytimg.com/vi/0iGkuZnggLU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5735
+      "duration": 5735,
+      "status": "past",
+      "scheduledStart": "2025-09-08T22:00:00Z"
     },
     {
       "id": "1OO0lrNSOwM",
@@ -1128,15 +1386,18 @@
       "published": "2025-09-01T11:26:32Z",
       "thumbnail": "https://i.ytimg.com/vi/1OO0lrNSOwM/maxresdefault.jpg",
       "type": "short",
-      "duration": 42
+      "duration": 42,
+      "status": "past"
     },
     {
       "id": "mHzLqwFxk44",
       "title": "【MEMBERS ONLY】ME AND CHATTINI BEFORE MY SMALL VACATION! ~",
-      "published": "2025-09-01T01:11:41Z",
+      "published": "2025-08-31T16:50:12Z",
       "thumbnail": "https://i.ytimg.com/vi/mHzLqwFxk44/maxresdefault.jpg",
       "type": "member",
-      "duration": 5100
+      "duration": 5100,
+      "status": "past",
+      "scheduledStart": "2025-08-31T23:30:00Z"
     },
     {
       "id": "5P7rft_fCVk",
@@ -1144,7 +1405,9 @@
       "published": "2025-08-30T18:46:18Z",
       "thumbnail": "https://i.ytimg.com/vi/5P7rft_fCVk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11727
+      "duration": 11727,
+      "status": "past",
+      "scheduledStart": "2025-08-30T15:15:00Z"
     },
     {
       "id": "ltzWlEkXxh0",
@@ -1152,7 +1415,9 @@
       "published": "2025-08-28T23:44:48Z",
       "thumbnail": "https://i.ytimg.com/vi/ltzWlEkXxh0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12741
+      "duration": 12741,
+      "status": "past",
+      "scheduledStart": "2025-08-28T20:00:00Z"
     },
     {
       "id": "kp-1VZEbGDo",
@@ -1160,7 +1425,8 @@
       "published": "2025-08-21T19:00:51Z",
       "thumbnail": "https://i.ytimg.com/vi/kp-1VZEbGDo/maxresdefault.jpg",
       "type": "short",
-      "duration": 43
+      "duration": 43,
+      "status": "past"
     },
     {
       "id": "Hv_55sjQKGI",
@@ -1168,7 +1434,9 @@
       "published": "2025-08-20T03:49:21Z",
       "thumbnail": "https://i.ytimg.com/vi/Hv_55sjQKGI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9526
+      "duration": 9526,
+      "status": "past",
+      "scheduledStart": "2025-08-20T01:00:00Z"
     },
     {
       "id": "H-0JOE1SvVA",
@@ -1176,15 +1444,18 @@
       "published": "2025-08-18T06:47:28Z",
       "thumbnail": "https://i.ytimg.com/vi/H-0JOE1SvVA/maxresdefault.jpg",
       "type": "short",
-      "duration": 31
+      "duration": 31,
+      "status": "past"
     },
     {
       "id": "uLMkU-xc1Hw",
       "title": "【MEMBERS ONLY】3D JUSTICE COLLAB AFTERPARTY! 🎉",
-      "published": "2025-08-17T05:09:42Z",
+      "published": "2025-08-17T01:52:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uLMkU-xc1Hw/maxresdefault.jpg",
       "type": "member",
-      "duration": 6639
+      "duration": 6639,
+      "status": "past",
+      "scheduledStart": "2025-08-17T03:00:00Z"
     },
     {
       "id": "mcjU_bMm5PA",
@@ -1192,7 +1463,8 @@
       "published": "2025-08-15T11:55:44Z",
       "thumbnail": "https://i.ytimg.com/vi/mcjU_bMm5PA/maxresdefault.jpg",
       "type": "short",
-      "duration": 35
+      "duration": 35,
+      "status": "past"
     },
     {
       "id": "I9Nil_GNdMA",
@@ -1200,7 +1472,9 @@
       "published": "2025-08-15T06:09:47Z",
       "thumbnail": "https://i.ytimg.com/vi/I9Nil_GNdMA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8663
+      "duration": 8663,
+      "status": "past",
+      "scheduledStart": "2025-08-15T03:30:00Z"
     },
     {
       "id": "05W3_z_In7s",
@@ -1208,7 +1482,9 @@
       "published": "2025-08-12T04:28:50Z",
       "thumbnail": "https://i.ytimg.com/vi/05W3_z_In7s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8149
+      "duration": 8149,
+      "status": "past",
+      "scheduledStart": "2025-08-12T02:00:00Z"
     },
     {
       "id": "2yyeI_JQU0k",
@@ -1216,7 +1492,9 @@
       "published": "2025-08-11T06:27:09Z",
       "thumbnail": "https://i.ytimg.com/vi/2yyeI_JQU0k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14870
+      "duration": 14870,
+      "status": "past",
+      "scheduledStart": "2025-08-11T02:00:00Z"
     },
     {
       "id": "-0RzTyI5nOY",
@@ -1224,7 +1502,9 @@
       "published": "2025-08-10T01:05:58Z",
       "thumbnail": "https://i.ytimg.com/vi/-0RzTyI5nOY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3973
+      "duration": 3973,
+      "status": "past",
+      "scheduledStart": "2025-08-10T00:00:00Z"
     },
     {
       "id": "525bEqFOGlw",
@@ -1232,7 +1512,9 @@
       "published": "2025-08-09T13:36:45Z",
       "thumbnail": "https://i.ytimg.com/vi/525bEqFOGlw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4524
+      "duration": 4524,
+      "status": "past",
+      "scheduledStart": "2025-08-09T12:00:00Z"
     },
     {
       "id": "s4AKr2noym8",
@@ -1240,7 +1522,9 @@
       "published": "2025-08-07T07:31:54Z",
       "thumbnail": "https://i.ytimg.com/vi/s4AKr2noym8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17964
+      "duration": 17964,
+      "status": "past",
+      "scheduledStart": "2025-08-07T02:05:00Z"
     },
     {
       "id": "uDoruNbXT2o",
@@ -1248,7 +1532,9 @@
       "published": "2025-08-06T05:40:08Z",
       "thumbnail": "https://i.ytimg.com/vi/uDoruNbXT2o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8839
+      "duration": 8839,
+      "status": "past",
+      "scheduledStart": "2025-08-06T03:00:00Z"
     },
     {
       "id": "X9u-63CyuLQ",
@@ -1256,7 +1542,9 @@
       "published": "2025-08-04T06:32:43Z",
       "thumbnail": "https://i.ytimg.com/vi/X9u-63CyuLQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15433
+      "duration": 15433,
+      "status": "past",
+      "scheduledStart": "2025-08-04T02:00:00Z"
     },
     {
       "id": "ijlDQEZvARU",
@@ -1264,7 +1552,9 @@
       "published": "2025-08-01T08:30:49Z",
       "thumbnail": "https://i.ytimg.com/vi/ijlDQEZvARU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22036
+      "duration": 22036,
+      "status": "past",
+      "scheduledStart": "2025-08-01T02:00:00Z"
     },
     {
       "id": "EfrNcyD2aUY",
@@ -1272,7 +1562,9 @@
       "published": "2025-07-29T05:23:15Z",
       "thumbnail": "https://i.ytimg.com/vi/EfrNcyD2aUY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11062
+      "duration": 11062,
+      "status": "past",
+      "scheduledStart": "2025-07-29T02:00:00Z"
     },
     {
       "id": "Tej21uhLWx4",
@@ -1280,7 +1572,8 @@
       "published": "2025-07-28T16:31:58Z",
       "thumbnail": "https://i.ytimg.com/vi/Tej21uhLWx4/maxresdefault.jpg",
       "type": "short",
-      "duration": 31
+      "duration": 31,
+      "status": "past"
     },
     {
       "id": "AgYKwXx6MXU",
@@ -1288,15 +1581,9 @@
       "published": "2025-07-26T13:36:26Z",
       "thumbnail": "https://i.ytimg.com/vi/AgYKwXx6MXU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8381
-    },
-    {
-      "id": "VgnI7HHyr8E",
-      "title": "【MEMBERS ONLY】MY VOICE IS GONE BUT I AM STILL HERE!!!!!!",
-      "published": "2025-07-23T05:41:03Z",
-      "thumbnail": "https://i.ytimg.com/vi/VgnI7HHyr8E/maxresdefault.jpg",
-      "type": "member",
-      "duration": 8795
+      "duration": 8381,
+      "status": "past",
+      "scheduledStart": "2025-07-26T10:50:00Z"
     },
     {
       "id": "uwm_eqGbqWc",
@@ -1304,7 +1591,18 @@
       "published": "2025-07-23T05:21:36Z",
       "thumbnail": "https://i.ytimg.com/vi/uwm_eqGbqWc/maxresdefault.jpg",
       "type": "short",
-      "duration": 51
+      "duration": 51,
+      "status": "past"
+    },
+    {
+      "id": "VgnI7HHyr8E",
+      "title": "【MEMBERS ONLY】MY VOICE IS GONE BUT I AM STILL HERE!!!!!!",
+      "published": "2025-07-23T00:50:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/VgnI7HHyr8E/maxresdefault.jpg",
+      "type": "member",
+      "duration": 8795,
+      "status": "past",
+      "scheduledStart": "2025-07-23T03:00:00Z"
     },
     {
       "id": "vCJ8IBwNUqA",
@@ -1312,7 +1610,9 @@
       "published": "2025-07-22T02:33:27Z",
       "thumbnail": "https://i.ytimg.com/vi/vCJ8IBwNUqA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4911
+      "duration": 4911,
+      "status": "past",
+      "scheduledStart": "2025-07-22T01:00:00Z"
     },
     {
       "id": "imKgeeuzk_4",
@@ -1320,7 +1620,9 @@
       "published": "2025-07-16T17:01:29Z",
       "thumbnail": "https://i.ytimg.com/vi/imKgeeuzk_4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10026
+      "duration": 10026,
+      "status": "past",
+      "scheduledStart": "2025-07-16T14:00:00Z"
     },
     {
       "id": "MbOnROBeAoY",
@@ -1328,7 +1630,9 @@
       "published": "2025-07-10T07:19:51Z",
       "thumbnail": "https://i.ytimg.com/vi/MbOnROBeAoY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11120
+      "duration": 11120,
+      "status": "past",
+      "scheduledStart": "2025-07-10T04:00:00Z"
     },
     {
       "id": "ZPON0jivdPY",
@@ -1336,15 +1640,19 @@
       "published": "2025-07-09T08:04:54Z",
       "thumbnail": "https://i.ytimg.com/vi/ZPON0jivdPY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20316
+      "duration": 20316,
+      "status": "past",
+      "scheduledStart": "2025-07-09T02:00:00Z"
     },
     {
       "id": "kLnB_Hgf9mQ",
       "title": "【MEMBERS ONLY】WHAAAAT??? RAORA IN THE BOX???【HANDCAM STREAM】",
-      "published": "2025-07-08T02:51:09Z",
+      "published": "2025-07-07T15:42:06Z",
       "thumbnail": "https://i.ytimg.com/vi/kLnB_Hgf9mQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 8980
+      "duration": 8980,
+      "status": "past",
+      "scheduledStart": "2025-07-08T00:00:00Z"
     },
     {
       "id": "wqEeTWpQPcU",
@@ -1352,7 +1660,9 @@
       "published": "2025-07-06T06:57:29Z",
       "thumbnail": "https://i.ytimg.com/vi/wqEeTWpQPcU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16564
+      "duration": 16564,
+      "status": "past",
+      "scheduledStart": "2025-07-06T02:00:00Z"
     },
     {
       "id": "tDRrIUnAYa4",
@@ -1360,7 +1670,9 @@
       "published": "2025-07-05T07:26:31Z",
       "thumbnail": "https://i.ytimg.com/vi/tDRrIUnAYa4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17807
+      "duration": 17807,
+      "status": "past",
+      "scheduledStart": "2025-07-05T02:06:00Z"
     },
     {
       "id": "tUW9WQn5zeg",
@@ -1368,7 +1680,9 @@
       "published": "2025-07-04T04:13:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tUW9WQn5zeg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3933
+      "duration": 3933,
+      "status": "past",
+      "scheduledStart": "2025-07-04T03:00:00Z"
     },
     {
       "id": "aCfQFkFKwE4",
@@ -1376,7 +1690,9 @@
       "published": "2025-07-03T16:31:38Z",
       "thumbnail": "https://i.ytimg.com/vi/aCfQFkFKwE4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6918
+      "duration": 6918,
+      "status": "past",
+      "scheduledStart": "2025-07-03T14:05:00Z"
     },
     {
       "id": "9H5JcwXqQDk",
@@ -1384,7 +1700,9 @@
       "published": "2025-07-02T15:49:45Z",
       "thumbnail": "https://i.ytimg.com/vi/9H5JcwXqQDk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12883
+      "duration": 12883,
+      "status": "past",
+      "scheduledStart": "2025-07-02T12:00:00Z"
     },
     {
       "id": "Z_pctJ9Yq8g",
@@ -1392,7 +1710,9 @@
       "published": "2025-07-01T02:06:27Z",
       "thumbnail": "https://i.ytimg.com/vi/Z_pctJ9Yq8g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8712
+      "duration": 8712,
+      "status": "past",
+      "scheduledStart": "2025-06-30T23:30:00Z"
     },
     {
       "id": "J2OjvMbi57g",
@@ -1400,7 +1720,9 @@
       "published": "2025-06-27T03:58:33Z",
       "thumbnail": "https://i.ytimg.com/vi/J2OjvMbi57g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5785
+      "duration": 5785,
+      "status": "past",
+      "scheduledStart": "2025-06-27T02:00:00Z"
     },
     {
       "id": "czSEJXO-lc0",
@@ -1408,7 +1730,9 @@
       "published": "2025-06-26T04:53:07Z",
       "thumbnail": "https://i.ytimg.com/vi/czSEJXO-lc0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9351
+      "duration": 9351,
+      "status": "past",
+      "scheduledStart": "2025-06-26T02:05:00Z"
     },
     {
       "id": "B0KM4PVZwCI",
@@ -1416,7 +1740,9 @@
       "published": "2025-06-23T05:39:30Z",
       "thumbnail": "https://i.ytimg.com/vi/B0KM4PVZwCI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6249
+      "duration": 6249,
+      "status": "past",
+      "scheduledStart": "2025-06-23T03:37:00Z"
     },
     {
       "id": "vi6D2Bn1-x0",
@@ -1424,7 +1750,9 @@
       "published": "2025-06-20T13:19:38Z",
       "thumbnail": "https://i.ytimg.com/vi/vi6D2Bn1-x0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 34827
+      "duration": 34827,
+      "status": "past",
+      "scheduledStart": "2025-06-20T01:00:00Z"
     },
     {
       "id": "DZ28jL-Ddv8",
@@ -1432,7 +1760,9 @@
       "published": "2025-06-19T13:37:23Z",
       "thumbnail": "https://i.ytimg.com/vi/DZ28jL-Ddv8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8195
+      "duration": 8195,
+      "status": "past",
+      "scheduledStart": "2025-06-19T11:00:00Z"
     },
     {
       "id": "rcsPh4WD_U0",
@@ -1440,7 +1770,9 @@
       "published": "2025-06-18T05:28:02Z",
       "thumbnail": "https://i.ytimg.com/vi/rcsPh4WD_U0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11612
+      "duration": 11612,
+      "status": "past",
+      "scheduledStart": "2025-06-18T02:00:00Z"
     },
     {
       "id": "ymgsEfSIQcI",
@@ -1448,15 +1780,19 @@
       "published": "2025-06-15T05:00:09Z",
       "thumbnail": "https://i.ytimg.com/vi/ymgsEfSIQcI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13406
+      "duration": 13406,
+      "status": "past",
+      "scheduledStart": "2025-06-15T01:00:00Z"
     },
     {
       "id": "-mNV0d3aRe8",
       "title": "【MEMBERS ONLY】CHATTINI ASSEMBLE!",
-      "published": "2025-06-14T03:36:08Z",
+      "published": "2025-06-13T15:58:05Z",
       "thumbnail": "https://i.ytimg.com/vi/-mNV0d3aRe8/maxresdefault.jpg",
       "type": "member",
-      "duration": 4731
+      "duration": 4731,
+      "status": "past",
+      "scheduledStart": "2025-06-14T02:00:00Z"
     },
     {
       "id": "RB_v0q_nI4M",
@@ -1464,7 +1800,9 @@
       "published": "2025-06-13T14:26:59Z",
       "thumbnail": "https://i.ytimg.com/vi/RB_v0q_nI4M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6746
+      "duration": 6746,
+      "status": "past",
+      "scheduledStart": "2025-06-13T12:00:00Z"
     },
     {
       "id": "STZ73wIspHg",
@@ -1472,7 +1810,8 @@
       "published": "2025-06-13T01:37:43Z",
       "thumbnail": "https://i.ytimg.com/vi/STZ73wIspHg/maxresdefault.jpg",
       "type": "short",
-      "duration": 37
+      "duration": 37,
+      "status": "past"
     },
     {
       "id": "AnvhW-eFatE",
@@ -1480,7 +1819,9 @@
       "published": "2025-06-11T08:09:37Z",
       "thumbnail": "https://i.ytimg.com/vi/AnvhW-eFatE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13278
+      "duration": 13278,
+      "status": "past",
+      "scheduledStart": "2025-06-11T04:00:00Z"
     },
     {
       "id": "mDnWWjkF4nQ",
@@ -1488,7 +1829,9 @@
       "published": "2025-06-10T02:55:31Z",
       "thumbnail": "https://i.ytimg.com/vi/mDnWWjkF4nQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6210
+      "duration": 6210,
+      "status": "past",
+      "scheduledStart": "2025-06-10T01:00:00Z"
     },
     {
       "id": "uOVINg8O5m8",
@@ -1496,7 +1839,9 @@
       "published": "2025-06-08T09:22:12Z",
       "thumbnail": "https://i.ytimg.com/vi/uOVINg8O5m8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 24900
+      "duration": 24900,
+      "status": "past",
+      "scheduledStart": "2025-06-08T02:00:00Z"
     },
     {
       "id": "2W6pyLcyGkM",
@@ -1504,7 +1849,9 @@
       "published": "2025-06-06T07:08:54Z",
       "thumbnail": "https://i.ytimg.com/vi/2W6pyLcyGkM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10329
+      "duration": 10329,
+      "status": "past",
+      "scheduledStart": "2025-06-06T04:00:00Z"
     },
     {
       "id": "l8rBLfvkOag",
@@ -1512,7 +1859,9 @@
       "published": "2025-06-05T04:17:49Z",
       "thumbnail": "https://i.ytimg.com/vi/l8rBLfvkOag/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6167
+      "duration": 6167,
+      "status": "past",
+      "scheduledStart": "2025-06-05T02:20:00Z"
     },
     {
       "id": "iGIPggXq58Y",
@@ -1520,7 +1869,9 @@
       "published": "2025-06-03T14:45:26Z",
       "thumbnail": "https://i.ytimg.com/vi/iGIPggXq58Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9053
+      "duration": 9053,
+      "status": "past",
+      "scheduledStart": "2025-06-03T12:00:00Z"
     },
     {
       "id": "kt4HvssYeTA",
@@ -1528,7 +1879,9 @@
       "published": "2025-06-02T04:54:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kt4HvssYeTA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9251
+      "duration": 9251,
+      "status": "past",
+      "scheduledStart": "2025-06-02T02:00:00Z"
     },
     {
       "id": "bt--3zOWUfs",
@@ -1536,7 +1889,9 @@
       "published": "2025-06-01T07:58:06Z",
       "thumbnail": "https://i.ytimg.com/vi/bt--3zOWUfs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19543
+      "duration": 19543,
+      "status": "past",
+      "scheduledStart": "2025-06-01T02:00:00Z"
     },
     {
       "id": "SnZwxiPjAvk",
@@ -1544,7 +1899,9 @@
       "published": "2025-05-31T10:46:47Z",
       "thumbnail": "https://i.ytimg.com/vi/SnZwxiPjAvk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 27849
+      "duration": 27849,
+      "status": "past",
+      "scheduledStart": "2025-05-31T02:30:00Z"
     },
     {
       "id": "KENb_FClvA0",
@@ -1552,7 +1909,9 @@
       "published": "2025-05-28T16:06:17Z",
       "thumbnail": "https://i.ytimg.com/vi/KENb_FClvA0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10540
+      "duration": 10540,
+      "status": "past",
+      "scheduledStart": "2025-05-28T13:00:00Z"
     },
     {
       "id": "vuHvd6aUHk4",
@@ -1560,7 +1919,9 @@
       "published": "2025-05-27T05:17:24Z",
       "thumbnail": "https://i.ytimg.com/vi/vuHvd6aUHk4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11128
+      "duration": 11128,
+      "status": "past",
+      "scheduledStart": "2025-05-27T02:00:00Z"
     },
     {
       "id": "dGVc6mmT5LY",
@@ -1568,23 +1929,29 @@
       "published": "2025-05-23T18:35:25Z",
       "thumbnail": "https://i.ytimg.com/vi/dGVc6mmT5LY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14311
+      "duration": 14311,
+      "status": "past",
+      "scheduledStart": "2025-05-23T14:10:00Z"
     },
     {
       "id": "tdCEQ_nWh5U",
       "title": "【MEMBERS ONLY】AH",
-      "published": "2025-05-21T21:13:59Z",
+      "published": "2025-05-21T17:22:08Z",
       "thumbnail": "https://i.ytimg.com/vi/tdCEQ_nWh5U/maxresdefault.jpg",
       "type": "member",
-      "duration": 7016
+      "duration": 7016,
+      "status": "past",
+      "scheduledStart": "2025-05-21T19:00:00Z"
     },
     {
       "id": "9TN_Hb-cIJU",
       "title": "【MEMBERS ONLY】Hello Chattini!!! Keep me company a little bit!!!",
-      "published": "2025-05-19T19:08:38Z",
+      "published": "2025-05-19T13:26:03Z",
       "thumbnail": "https://i.ytimg.com/vi/9TN_Hb-cIJU/maxresdefault.jpg",
       "type": "member",
-      "duration": 7284
+      "duration": 7284,
+      "status": "past",
+      "scheduledStart": "2025-05-19T17:00:00Z"
     },
     {
       "id": "2Cr0ehBqMCg",
@@ -1592,7 +1959,9 @@
       "published": "2025-05-16T22:42:20Z",
       "thumbnail": "https://i.ytimg.com/vi/2Cr0ehBqMCg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12561
+      "duration": 12561,
+      "status": "past",
+      "scheduledStart": "2025-05-16T19:00:00Z"
     },
     {
       "id": "poPa_tyw3jo",
@@ -1600,7 +1969,9 @@
       "published": "2025-05-12T12:48:34Z",
       "thumbnail": "https://i.ytimg.com/vi/poPa_tyw3jo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 34274
+      "duration": 34274,
+      "status": "past",
+      "scheduledStart": "2025-05-12T02:30:00Z"
     },
     {
       "id": "neUwPDy7cbk",
@@ -1608,7 +1979,9 @@
       "published": "2025-05-11T03:21:48Z",
       "thumbnail": "https://i.ytimg.com/vi/neUwPDy7cbk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7902
+      "duration": 7902,
+      "status": "past",
+      "scheduledStart": "2025-05-11T01:00:00Z"
     },
     {
       "id": "yCBqA1L_3lU",
@@ -1616,7 +1989,9 @@
       "published": "2025-05-10T15:16:55Z",
       "thumbnail": "https://i.ytimg.com/vi/yCBqA1L_3lU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2073
+      "duration": 2073,
+      "status": "past",
+      "scheduledStart": "2025-05-10T14:30:00Z"
     },
     {
       "id": "m2OG5auudrQ",
@@ -1624,7 +1999,9 @@
       "published": "2025-05-10T04:06:52Z",
       "thumbnail": "https://i.ytimg.com/vi/m2OG5auudrQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13818
+      "duration": 13818,
+      "status": "past",
+      "scheduledStart": "2025-05-10T00:00:00Z"
     },
     {
       "id": "E-LGNO7JdO4",
@@ -1632,7 +2009,9 @@
       "published": "2025-05-09T04:30:39Z",
       "thumbnail": "https://i.ytimg.com/vi/E-LGNO7JdO4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11716
+      "duration": 11716,
+      "status": "past",
+      "scheduledStart": "2025-05-09T01:00:00Z"
     },
     {
       "id": "iWSC8XgRlqA",
@@ -1640,7 +2019,9 @@
       "published": "2025-05-08T05:35:51Z",
       "thumbnail": "https://i.ytimg.com/vi/iWSC8XgRlqA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18196
+      "duration": 18196,
+      "status": "past",
+      "scheduledStart": "2025-05-08T00:00:00Z"
     },
     {
       "id": "hpyRxse4zCw",
@@ -1648,7 +2029,9 @@
       "published": "2025-05-06T05:56:57Z",
       "thumbnail": "https://i.ytimg.com/vi/hpyRxse4zCw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11617
+      "duration": 11617,
+      "status": "past",
+      "scheduledStart": "2025-05-06T02:30:00Z"
     },
     {
       "id": "i54lsw-XjDA",
@@ -1656,7 +2039,9 @@
       "published": "2025-05-05T05:22:55Z",
       "thumbnail": "https://i.ytimg.com/vi/i54lsw-XjDA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19144
+      "duration": 19144,
+      "status": "past",
+      "scheduledStart": "2025-05-04T23:30:00Z"
     },
     {
       "id": "zmRDeC_aJUM",
@@ -1664,7 +2049,9 @@
       "published": "2025-05-04T05:28:45Z",
       "thumbnail": "https://i.ytimg.com/vi/zmRDeC_aJUM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11957
+      "duration": 11957,
+      "status": "past",
+      "scheduledStart": "2025-05-04T02:00:00Z"
     },
     {
       "id": "MeLBh4BTBNs",
@@ -1672,7 +2059,9 @@
       "published": "2025-05-02T06:32:00Z",
       "thumbnail": "https://i.ytimg.com/vi/MeLBh4BTBNs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5175
+      "duration": 5175,
+      "status": "past",
+      "scheduledStart": "2025-05-02T05:20:00Z"
     },
     {
       "id": "TbbY5wCBL2E",
@@ -1680,7 +2069,9 @@
       "published": "2025-05-01T07:20:06Z",
       "thumbnail": "https://i.ytimg.com/vi/TbbY5wCBL2E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14695
+      "duration": 14695,
+      "status": "past",
+      "scheduledStart": "2025-05-01T03:00:00Z"
     },
     {
       "id": "Zmd26irH7-c",
@@ -1688,7 +2079,9 @@
       "published": "2025-04-29T17:07:52Z",
       "thumbnail": "https://i.ytimg.com/vi/Zmd26irH7-c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6798
+      "duration": 6798,
+      "status": "past",
+      "scheduledStart": "2025-04-29T14:45:00Z"
     },
     {
       "id": "yoxu7xjdcMs",
@@ -1696,7 +2089,9 @@
       "published": "2025-04-29T05:52:06Z",
       "thumbnail": "https://i.ytimg.com/vi/yoxu7xjdcMs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10901
+      "duration": 10901,
+      "status": "past",
+      "scheduledStart": "2025-04-29T02:30:00Z"
     },
     {
       "id": "Sr2qZ3oV4xE",
@@ -1704,7 +2099,9 @@
       "published": "2025-04-28T14:13:57Z",
       "thumbnail": "https://i.ytimg.com/vi/Sr2qZ3oV4xE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10906
+      "duration": 10906,
+      "status": "past",
+      "scheduledStart": "2025-04-28T11:00:00Z"
     },
     {
       "id": "toMLBjb1BqA",
@@ -1712,7 +2109,9 @@
       "published": "2025-04-27T18:06:40Z",
       "thumbnail": "https://i.ytimg.com/vi/toMLBjb1BqA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17342
+      "duration": 17342,
+      "status": "past",
+      "scheduledStart": "2025-04-27T12:40:00Z"
     },
     {
       "id": "DpZrHnyH9OQ",
@@ -1720,7 +2119,9 @@
       "published": "2025-04-25T06:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/DpZrHnyH9OQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12483
+      "duration": 12483,
+      "status": "past",
+      "scheduledStart": "2025-04-25T02:30:00Z"
     },
     {
       "id": "usBLLXVSDrQ",
@@ -1728,7 +2129,9 @@
       "published": "2025-04-24T04:35:00Z",
       "thumbnail": "https://i.ytimg.com/vi/usBLLXVSDrQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8471
+      "duration": 8471,
+      "status": "past",
+      "scheduledStart": "2025-04-24T02:00:00Z"
     },
     {
       "id": "vO-DNog3zaU",
@@ -1736,7 +2139,9 @@
       "published": "2025-04-23T18:07:19Z",
       "thumbnail": "https://i.ytimg.com/vi/vO-DNog3zaU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22268
+      "duration": 22268,
+      "status": "past",
+      "scheduledStart": "2025-04-23T11:30:00Z"
     },
     {
       "id": "rQYK2xltcgk",
@@ -1744,7 +2149,9 @@
       "published": "2025-04-22T07:44:20Z",
       "thumbnail": "https://i.ytimg.com/vi/rQYK2xltcgk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19215
+      "duration": 19215,
+      "status": "past",
+      "scheduledStart": "2025-04-22T02:00:00Z"
     },
     {
       "id": "RjgQFkpQetw",
@@ -1752,7 +2159,9 @@
       "published": "2025-04-21T05:23:23Z",
       "thumbnail": "https://i.ytimg.com/vi/RjgQFkpQetw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11579
+      "duration": 11579,
+      "status": "past",
+      "scheduledStart": "2025-04-21T02:00:00Z"
     },
     {
       "id": "PTFSysfBGXE",
@@ -1760,7 +2169,9 @@
       "published": "2025-04-17T18:22:26Z",
       "thumbnail": "https://i.ytimg.com/vi/PTFSysfBGXE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18076
+      "duration": 18076,
+      "status": "past",
+      "scheduledStart": "2025-04-17T13:00:00Z"
     },
     {
       "id": "JcAEZ37zsa8",
@@ -1768,7 +2179,9 @@
       "published": "2025-04-16T12:13:59Z",
       "thumbnail": "https://i.ytimg.com/vi/JcAEZ37zsa8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9835
+      "duration": 9835,
+      "status": "past",
+      "scheduledStart": "2025-04-16T09:15:00Z"
     },
     {
       "id": "1SimGW3FGro",
@@ -1776,7 +2189,9 @@
       "published": "2025-04-14T04:21:19Z",
       "thumbnail": "https://i.ytimg.com/vi/1SimGW3FGro/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5281
+      "duration": 5281,
+      "status": "past",
+      "scheduledStart": "2025-04-14T02:00:00Z"
     },
     {
       "id": "Khp-BDYtHaQ",
@@ -1784,7 +2199,9 @@
       "published": "2025-04-13T02:15:55Z",
       "thumbnail": "https://i.ytimg.com/vi/Khp-BDYtHaQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10538
+      "duration": 10538,
+      "status": "past",
+      "scheduledStart": "2025-04-12T23:10:00Z"
     },
     {
       "id": "41cLBDZhYSk",
@@ -1792,7 +2209,9 @@
       "published": "2025-04-12T07:47:48Z",
       "thumbnail": "https://i.ytimg.com/vi/41cLBDZhYSk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15978
+      "duration": 15978,
+      "status": "past",
+      "scheduledStart": "2025-04-12T03:00:00Z"
     },
     {
       "id": "CV7ivk3Lf30",
@@ -1800,15 +2219,19 @@
       "published": "2025-04-11T02:26:16Z",
       "thumbnail": "https://i.ytimg.com/vi/CV7ivk3Lf30/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8079
+      "duration": 8079,
+      "status": "past",
+      "scheduledStart": "2025-04-11T00:00:00Z"
     },
     {
       "id": "Q3scA3ugZw0",
       "title": "【DRAWING】CHATTINI PRIVATE DRAWING SESSION!",
-      "published": "2025-04-09T18:00:53Z",
+      "published": "2025-04-09T09:56:07Z",
       "thumbnail": "https://i.ytimg.com/vi/Q3scA3ugZw0/maxresdefault.jpg",
       "type": "member",
-      "duration": 13739
+      "duration": 13739,
+      "status": "past",
+      "scheduledStart": "2025-04-09T14:00:00Z"
     },
     {
       "id": "M-DHQARbYMU",
@@ -1816,7 +2239,9 @@
       "published": "2025-04-09T05:31:10Z",
       "thumbnail": "https://i.ytimg.com/vi/M-DHQARbYMU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6713
+      "duration": 6713,
+      "status": "past",
+      "scheduledStart": "2025-04-09T03:00:00Z"
     },
     {
       "id": "ZJEzhtzEgLQ",
@@ -1824,7 +2249,9 @@
       "published": "2025-04-08T16:51:53Z",
       "thumbnail": "https://i.ytimg.com/vi/ZJEzhtzEgLQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14509
+      "duration": 14509,
+      "status": "past",
+      "scheduledStart": "2025-04-08T12:30:00Z"
     },
     {
       "id": "BMtynlMuCQw",
@@ -1832,7 +2259,9 @@
       "published": "2025-04-07T06:36:15Z",
       "thumbnail": "https://i.ytimg.com/vi/BMtynlMuCQw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12185
+      "duration": 12185,
+      "status": "past",
+      "scheduledStart": "2025-04-07T03:00:00Z"
     },
     {
       "id": "dP0Jjkqbjpo",
@@ -1840,7 +2269,9 @@
       "published": "2025-04-04T07:29:19Z",
       "thumbnail": "https://i.ytimg.com/vi/dP0Jjkqbjpo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11713
+      "duration": 11713,
+      "status": "past",
+      "scheduledStart": "2025-04-04T04:00:00Z"
     },
     {
       "id": "DXBpTF9C4gI",
@@ -1848,7 +2279,9 @@
       "published": "2025-04-04T03:35:29Z",
       "thumbnail": "https://i.ytimg.com/vi/DXBpTF9C4gI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6641
+      "duration": 6641,
+      "status": "past",
+      "scheduledStart": "2025-04-04T01:00:00Z"
     },
     {
       "id": "LkxRxpkx02Y",
@@ -1856,7 +2289,9 @@
       "published": "2025-04-03T14:40:48Z",
       "thumbnail": "https://i.ytimg.com/vi/LkxRxpkx02Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9020
+      "duration": 9020,
+      "status": "past",
+      "scheduledStart": "2025-04-03T12:00:00Z"
     },
     {
       "id": "_PVY-_Z0EDU",
@@ -1864,7 +2299,9 @@
       "published": "2025-04-02T16:29:07Z",
       "thumbnail": "https://i.ytimg.com/vi/_PVY-_Z0EDU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15198
+      "duration": 15198,
+      "status": "past",
+      "scheduledStart": "2025-04-02T12:00:00Z"
     },
     {
       "id": "R3BgJzwP_SI",
@@ -1872,7 +2309,9 @@
       "published": "2025-04-02T03:54:52Z",
       "thumbnail": "https://i.ytimg.com/vi/R3BgJzwP_SI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9662
+      "duration": 9662,
+      "status": "past",
+      "scheduledStart": "2025-04-02T01:00:00Z"
     },
     {
       "id": "-mnOeGGJVBk",
@@ -1880,7 +2319,9 @@
       "published": "2025-04-01T13:47:14Z",
       "thumbnail": "https://i.ytimg.com/vi/-mnOeGGJVBk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8103
+      "duration": 8103,
+      "status": "past",
+      "scheduledStart": "2025-04-01T11:15:00Z"
     },
     {
       "id": "Nj4eS-H9QP4",
@@ -1888,7 +2329,9 @@
       "published": "2025-03-29T13:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Nj4eS-H9QP4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9442
+      "duration": 9442,
+      "status": "past",
+      "scheduledStart": "2025-03-29T11:00:00Z"
     },
     {
       "id": "6j1_hOvSZ8k",
@@ -1896,7 +2339,9 @@
       "published": "2025-03-28T16:42:35Z",
       "thumbnail": "https://i.ytimg.com/vi/6j1_hOvSZ8k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15783
+      "duration": 15783,
+      "status": "past",
+      "scheduledStart": "2025-03-28T12:00:00Z"
     },
     {
       "id": "rza051PTYBo",
@@ -1904,7 +2349,9 @@
       "published": "2025-03-27T03:32:39Z",
       "thumbnail": "https://i.ytimg.com/vi/rza051PTYBo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8276
+      "duration": 8276,
+      "status": "past",
+      "scheduledStart": "2025-03-27T01:00:00Z"
     },
     {
       "id": "sX3MN3aT730",
@@ -1912,7 +2359,9 @@
       "published": "2025-03-26T17:22:03Z",
       "thumbnail": "https://i.ytimg.com/vi/sX3MN3aT730/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10756
+      "duration": 10756,
+      "status": "past",
+      "scheduledStart": "2025-03-26T14:30:00Z"
     },
     {
       "id": "WeGNPM4S9N8",
@@ -1920,7 +2369,9 @@
       "published": "2025-03-25T17:08:07Z",
       "thumbnail": "https://i.ytimg.com/vi/WeGNPM4S9N8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20984
+      "duration": 20984,
+      "status": "past",
+      "scheduledStart": "2025-03-25T11:00:00Z"
     },
     {
       "id": "hAeB505mpKc",
@@ -1928,7 +2379,9 @@
       "published": "2025-03-25T03:26:33Z",
       "thumbnail": "https://i.ytimg.com/vi/hAeB505mpKc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11753
+      "duration": 11753,
+      "status": "past",
+      "scheduledStart": "2025-03-25T00:00:00Z"
     },
     {
       "id": "iJTkLv8M1DM",
@@ -1936,7 +2389,9 @@
       "published": "2025-03-23T16:15:38Z",
       "thumbnail": "https://i.ytimg.com/vi/iJTkLv8M1DM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13792
+      "duration": 13792,
+      "status": "past",
+      "scheduledStart": "2025-03-23T12:10:00Z"
     },
     {
       "id": "CpU1zSsuTnI",
@@ -1944,7 +2399,9 @@
       "published": "2025-03-22T15:33:51Z",
       "thumbnail": "https://i.ytimg.com/vi/CpU1zSsuTnI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15077
+      "duration": 15077,
+      "status": "past",
+      "scheduledStart": "2025-03-22T11:00:00Z"
     },
     {
       "id": "WHGltJEF0N4",
@@ -1952,7 +2409,9 @@
       "published": "2025-03-21T03:18:54Z",
       "thumbnail": "https://i.ytimg.com/vi/WHGltJEF0N4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7499
+      "duration": 7499,
+      "status": "past",
+      "scheduledStart": "2025-03-21T01:00:00Z"
     },
     {
       "id": "h4TF-nziwfk",
@@ -1960,7 +2419,9 @@
       "published": "2025-03-19T14:21:18Z",
       "thumbnail": "https://i.ytimg.com/vi/h4TF-nziwfk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10804
+      "duration": 10804,
+      "status": "past",
+      "scheduledStart": "2025-03-19T11:00:00Z"
     },
     {
       "id": "f33xNO5i0eg",
@@ -1968,7 +2429,9 @@
       "published": "2025-03-19T03:35:39Z",
       "thumbnail": "https://i.ytimg.com/vi/f33xNO5i0eg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8668
+      "duration": 8668,
+      "status": "past",
+      "scheduledStart": "2025-03-19T01:00:00Z"
     },
     {
       "id": "8ngw9LGaBsY",
@@ -1976,7 +2439,9 @@
       "published": "2025-03-18T14:38:00Z",
       "thumbnail": "https://i.ytimg.com/vi/8ngw9LGaBsY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8744
+      "duration": 8744,
+      "status": "past",
+      "scheduledStart": "2025-03-18T12:00:00Z"
     },
     {
       "id": "k4yxhF_Suok",
@@ -1984,7 +2449,9 @@
       "published": "2025-03-15T14:36:11Z",
       "thumbnail": "https://i.ytimg.com/vi/k4yxhF_Suok/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8343
+      "duration": 8343,
+      "status": "past",
+      "scheduledStart": "2025-03-15T12:05:00Z"
     },
     {
       "id": "EMuW6_Ddzyg",
@@ -1992,7 +2459,9 @@
       "published": "2025-03-14T13:34:01Z",
       "thumbnail": "https://i.ytimg.com/vi/EMuW6_Ddzyg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7854
+      "duration": 7854,
+      "status": "past",
+      "scheduledStart": "2025-03-14T11:00:00Z"
     },
     {
       "id": "OfvR3QVRAso",
@@ -2000,7 +2469,9 @@
       "published": "2025-03-12T16:08:42Z",
       "thumbnail": "https://i.ytimg.com/vi/OfvR3QVRAso/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10421
+      "duration": 10421,
+      "status": "past",
+      "scheduledStart": "2025-03-12T13:00:00Z"
     },
     {
       "id": "0oDpzkGN-TE",
@@ -2008,7 +2479,9 @@
       "published": "2025-03-11T13:51:58Z",
       "thumbnail": "https://i.ytimg.com/vi/0oDpzkGN-TE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5998
+      "duration": 5998,
+      "status": "past",
+      "scheduledStart": "2025-03-11T12:00:00Z"
     },
     {
       "id": "I_tVHYSl4tQ",
@@ -2016,7 +2489,8 @@
       "published": "2025-03-04T17:37:41Z",
       "thumbnail": "https://i.ytimg.com/vi/I_tVHYSl4tQ/maxresdefault.jpg",
       "type": "short",
-      "duration": 54
+      "duration": 54,
+      "status": "past"
     },
     {
       "id": "a9UcN8J8Ijo",
@@ -2024,7 +2498,9 @@
       "published": "2025-03-04T17:18:15Z",
       "thumbnail": "https://i.ytimg.com/vi/a9UcN8J8Ijo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18094
+      "duration": 18094,
+      "status": "past",
+      "scheduledStart": "2025-03-04T12:00:00Z"
     },
     {
       "id": "n1ozdIoJbdE",
@@ -2032,7 +2508,9 @@
       "published": "2025-03-02T05:45:27Z",
       "thumbnail": "https://i.ytimg.com/vi/n1ozdIoJbdE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16039
+      "duration": 16039,
+      "status": "past",
+      "scheduledStart": "2025-03-02T01:00:00Z"
     },
     {
       "id": "9CFOp00X6jg",
@@ -2040,7 +2518,9 @@
       "published": "2025-03-01T09:19:30Z",
       "thumbnail": "https://i.ytimg.com/vi/9CFOp00X6jg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 29454
+      "duration": 29454,
+      "status": "past",
+      "scheduledStart": "2025-03-01T00:30:00Z"
     },
     {
       "id": "E2Zldcte4vI",
@@ -2048,7 +2528,9 @@
       "published": "2025-02-27T15:38:16Z",
       "thumbnail": "https://i.ytimg.com/vi/E2Zldcte4vI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11760
+      "duration": 11760,
+      "status": "past",
+      "scheduledStart": "2025-02-27T12:10:00Z"
     },
     {
       "id": "UExV5oAcmds",
@@ -2056,7 +2538,9 @@
       "published": "2025-02-26T15:31:41Z",
       "thumbnail": "https://i.ytimg.com/vi/UExV5oAcmds/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7496
+      "duration": 7496,
+      "status": "past",
+      "scheduledStart": "2025-02-26T13:10:00Z"
     },
     {
       "id": "FaJvIXTVNSY",
@@ -2064,15 +2548,9 @@
       "published": "2025-02-25T17:09:59Z",
       "thumbnail": "https://i.ytimg.com/vi/FaJvIXTVNSY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14206
-    },
-    {
-      "id": "sdaG5jLIS58",
-      "title": "【CHATTINI DAY】Movie Watchalong! Let's cry with Maquia: When The Promised Flower Blooms (1:54:48)",
-      "published": "2025-02-23T15:01:49Z",
-      "thumbnail": "https://i.ytimg.com/vi/sdaG5jLIS58/maxresdefault.jpg",
-      "type": "member",
-      "duration": 8296
+      "duration": 14206,
+      "status": "past",
+      "scheduledStart": "2025-02-25T13:00:00Z"
     },
     {
       "id": "2AcMBV1gIeA",
@@ -2080,7 +2558,9 @@
       "published": "2025-02-23T13:09:45Z",
       "thumbnail": "https://i.ytimg.com/vi/2AcMBV1gIeA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5407
+      "duration": 5407,
+      "status": "past",
+      "scheduledStart": "2025-02-23T11:00:00Z"
     },
     {
       "id": "JAtN8AACc6k",
@@ -2088,7 +2568,9 @@
       "published": "2025-02-23T11:16:34Z",
       "thumbnail": "https://i.ytimg.com/vi/JAtN8AACc6k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6398
+      "duration": 6398,
+      "status": "past",
+      "scheduledStart": "2025-02-23T09:15:00Z"
     },
     {
       "id": "ACwrQBfIO7s",
@@ -2096,15 +2578,29 @@
       "published": "2025-02-23T09:34:29Z",
       "thumbnail": "https://i.ytimg.com/vi/ACwrQBfIO7s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 25264
+      "duration": 25264,
+      "status": "past",
+      "scheduledStart": "2025-02-23T02:10:00Z"
+    },
+    {
+      "id": "sdaG5jLIS58",
+      "title": "【CHATTINI DAY】Movie Watchalong! Let's cry with Maquia: When The Promised Flower Blooms (1:54:48)",
+      "published": "2025-02-23T09:11:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/sdaG5jLIS58/maxresdefault.jpg",
+      "type": "member",
+      "duration": 8296,
+      "status": "past",
+      "scheduledStart": "2025-02-23T12:30:00Z"
     },
     {
       "id": "a15DJwnXkA0",
       "title": "【MEMBERS ONLY】ASMR practice and chatting with you~ 🩷",
-      "published": "2025-02-22T04:31:00Z",
+      "published": "2025-02-21T15:41:05Z",
       "thumbnail": "https://i.ytimg.com/vi/a15DJwnXkA0/maxresdefault.jpg",
       "type": "member",
-      "duration": 7871
+      "duration": 7871,
+      "status": "past",
+      "scheduledStart": "2025-02-22T02:10:00Z"
     },
     {
       "id": "ZhEV_7TRgnM",
@@ -2112,7 +2608,9 @@
       "published": "2025-02-20T15:46:36Z",
       "thumbnail": "https://i.ytimg.com/vi/ZhEV_7TRgnM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11075
+      "duration": 11075,
+      "status": "past",
+      "scheduledStart": "2025-02-20T12:30:00Z"
     },
     {
       "id": "vB_shAZuMZg",
@@ -2120,7 +2618,9 @@
       "published": "2025-02-19T17:28:53Z",
       "thumbnail": "https://i.ytimg.com/vi/vB_shAZuMZg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14330
+      "duration": 14330,
+      "status": "past",
+      "scheduledStart": "2025-02-19T13:15:00Z"
     },
     {
       "id": "BM7veMK_vqY",
@@ -2128,7 +2628,9 @@
       "published": "2025-02-18T16:41:31Z",
       "thumbnail": "https://i.ytimg.com/vi/BM7veMK_vqY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10416
+      "duration": 10416,
+      "status": "past",
+      "scheduledStart": "2025-02-18T02:10:00Z"
     },
     {
       "id": "Nz9zxNxUO7E",
@@ -2136,7 +2638,9 @@
       "published": "2025-02-18T13:43:44Z",
       "thumbnail": "https://i.ytimg.com/vi/Nz9zxNxUO7E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9055
+      "duration": 9055,
+      "status": "past",
+      "scheduledStart": "2025-02-18T11:00:00Z"
     },
     {
       "id": "SbrnuN8gSJU",
@@ -2144,15 +2648,9 @@
       "published": "2025-02-15T13:10:47Z",
       "thumbnail": "https://i.ytimg.com/vi/SbrnuN8gSJU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7214
-    },
-    {
-      "id": "Rf1D6HwJyHg",
-      "title": "【MEMBERS ONLY】Chattini will be my Valentine! 🩷",
-      "published": "2025-02-14T14:48:37Z",
-      "thumbnail": "https://i.ytimg.com/vi/Rf1D6HwJyHg/maxresdefault.jpg",
-      "type": "member",
-      "duration": 4186
+      "duration": 7214,
+      "status": "past",
+      "scheduledStart": "2025-02-15T11:00:00Z"
     },
     {
       "id": "9nSeGsKOwfc",
@@ -2160,7 +2658,19 @@
       "published": "2025-02-14T13:32:26Z",
       "thumbnail": "https://i.ytimg.com/vi/9nSeGsKOwfc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4633
+      "duration": 4633,
+      "status": "past",
+      "scheduledStart": "2025-02-14T12:00:00Z"
+    },
+    {
+      "id": "Rf1D6HwJyHg",
+      "title": "【MEMBERS ONLY】Chattini will be my Valentine! 🩷",
+      "published": "2025-02-14T11:45:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/Rf1D6HwJyHg/maxresdefault.jpg",
+      "type": "member",
+      "duration": 4186,
+      "status": "past",
+      "scheduledStart": "2025-02-14T13:30:00Z"
     },
     {
       "id": "1ewRiOIa6-E",
@@ -2168,7 +2678,9 @@
       "published": "2025-02-13T14:14:31Z",
       "thumbnail": "https://i.ytimg.com/vi/1ewRiOIa6-E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7419
+      "duration": 7419,
+      "status": "past",
+      "scheduledStart": "2025-02-13T12:00:00Z"
     },
     {
       "id": "Agp_Zj-1h3s",
@@ -2176,7 +2688,9 @@
       "published": "2025-02-12T05:15:38Z",
       "thumbnail": "https://i.ytimg.com/vi/Agp_Zj-1h3s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14483
+      "duration": 14483,
+      "status": "past",
+      "scheduledStart": "2025-02-12T01:00:00Z"
     },
     {
       "id": "w30OQWD6AEw",
@@ -2184,7 +2698,9 @@
       "published": "2025-02-11T13:42:56Z",
       "thumbnail": "https://i.ytimg.com/vi/w30OQWD6AEw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3955
+      "duration": 3955,
+      "status": "past",
+      "scheduledStart": "2025-02-11T12:15:00Z"
     },
     {
       "id": "vJTkhcYDvys",
@@ -2192,7 +2708,9 @@
       "published": "2025-02-08T17:32:00Z",
       "thumbnail": "https://i.ytimg.com/vi/vJTkhcYDvys/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18627
+      "duration": 18627,
+      "status": "past",
+      "scheduledStart": "2025-02-08T12:00:00Z"
     },
     {
       "id": "jiBm7FumGUg",
@@ -2200,7 +2718,9 @@
       "published": "2025-02-07T05:31:26Z",
       "thumbnail": "https://i.ytimg.com/vi/jiBm7FumGUg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11137
+      "duration": 11137,
+      "status": "past",
+      "scheduledStart": "2025-02-07T02:15:00Z"
     },
     {
       "id": "ow9NPmOZQ3g",
@@ -2208,7 +2728,9 @@
       "published": "2025-02-06T17:50:55Z",
       "thumbnail": "https://i.ytimg.com/vi/ow9NPmOZQ3g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 30064
+      "duration": 30064,
+      "status": "past",
+      "scheduledStart": "2025-02-06T09:00:00Z"
     },
     {
       "id": "DylxighPs7k",
@@ -2216,7 +2738,9 @@
       "published": "2025-02-06T04:49:59Z",
       "thumbnail": "https://i.ytimg.com/vi/DylxighPs7k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9634
+      "duration": 9634,
+      "status": "past",
+      "scheduledStart": "2025-02-06T02:00:00Z"
     },
     {
       "id": "zjZrKryeM_0",
@@ -2224,7 +2748,9 @@
       "published": "2025-02-04T08:56:16Z",
       "thumbnail": "https://i.ytimg.com/vi/zjZrKryeM_0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19676
+      "duration": 19676,
+      "status": "past",
+      "scheduledStart": "2025-02-04T03:00:00Z"
     },
     {
       "id": "XU8ORgCsWsc",
@@ -2232,7 +2758,8 @@
       "published": "2025-02-04T02:20:17Z",
       "thumbnail": "https://i.ytimg.com/vi/XU8ORgCsWsc/maxresdefault.jpg",
       "type": "short",
-      "duration": 34
+      "duration": 34,
+      "status": "past"
     },
     {
       "id": "Sck1CBK8PgM",
@@ -2240,7 +2767,9 @@
       "published": "2025-02-03T17:13:16Z",
       "thumbnail": "https://i.ytimg.com/vi/Sck1CBK8PgM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17690
+      "duration": 17690,
+      "status": "past",
+      "scheduledStart": "2025-02-03T12:00:00Z"
     },
     {
       "id": "Npu1_vwOktM",
@@ -2248,7 +2777,9 @@
       "published": "2025-02-02T15:45:21Z",
       "thumbnail": "https://i.ytimg.com/vi/Npu1_vwOktM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12777
+      "duration": 12777,
+      "status": "past",
+      "scheduledStart": "2025-02-02T12:00:00Z"
     },
     {
       "id": "M1pTltWMwRA",
@@ -2256,7 +2787,9 @@
       "published": "2025-02-01T12:49:53Z",
       "thumbnail": "https://i.ytimg.com/vi/M1pTltWMwRA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19702
+      "duration": 19702,
+      "status": "past",
+      "scheduledStart": "2025-02-01T07:00:00Z"
     },
     {
       "id": "1WYm28e9brk",
@@ -2264,7 +2797,9 @@
       "published": "2025-02-01T04:31:09Z",
       "thumbnail": "https://i.ytimg.com/vi/1WYm28e9brk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8354
+      "duration": 8354,
+      "status": "past",
+      "scheduledStart": "2025-02-01T02:00:00Z"
     },
     {
       "id": "SmFLHCvS7VA",
@@ -2272,7 +2807,9 @@
       "published": "2025-01-31T15:05:56Z",
       "thumbnail": "https://i.ytimg.com/vi/SmFLHCvS7VA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10214
+      "duration": 10214,
+      "status": "past",
+      "scheduledStart": "2025-01-31T12:00:00Z"
     },
     {
       "id": "ERZrpcrRW1Q",
@@ -2280,7 +2817,9 @@
       "published": "2025-01-30T15:35:07Z",
       "thumbnail": "https://i.ytimg.com/vi/ERZrpcrRW1Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8672
+      "duration": 8672,
+      "status": "past",
+      "scheduledStart": "2025-01-30T13:00:00Z"
     },
     {
       "id": "tdZszKlMTus",
@@ -2288,7 +2827,9 @@
       "published": "2025-01-30T05:39:51Z",
       "thumbnail": "https://i.ytimg.com/vi/tdZszKlMTus/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11617
+      "duration": 11617,
+      "status": "past",
+      "scheduledStart": "2025-01-30T02:10:00Z"
     },
     {
       "id": "ynuuCHGUD_Y",
@@ -2296,7 +2837,9 @@
       "published": "2025-01-28T16:30:47Z",
       "thumbnail": "https://i.ytimg.com/vi/ynuuCHGUD_Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14648
+      "duration": 14648,
+      "status": "past",
+      "scheduledStart": "2025-01-28T12:05:00Z"
     },
     {
       "id": "wgyZfKk610g",
@@ -2304,15 +2847,19 @@
       "published": "2025-01-27T14:24:23Z",
       "thumbnail": "https://i.ytimg.com/vi/wgyZfKk610g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7710
+      "duration": 7710,
+      "status": "past",
+      "scheduledStart": "2025-01-27T12:05:00Z"
     },
     {
       "id": "mj2J2FlD4RY",
       "title": "【GORILLA】I wanna draw pls keep me company!! SHORT STREAM",
-      "published": "2025-01-27T07:12:27Z",
+      "published": "2025-01-27T04:52:28Z",
       "thumbnail": "https://i.ytimg.com/vi/mj2J2FlD4RY/maxresdefault.jpg",
       "type": "member",
-      "duration": 7445
+      "duration": 7445,
+      "status": "past",
+      "scheduledStart": "2025-01-27T05:00:00Z"
     },
     {
       "id": "NhWPXvPRzuk",
@@ -2320,7 +2867,9 @@
       "published": "2025-01-26T16:18:47Z",
       "thumbnail": "https://i.ytimg.com/vi/NhWPXvPRzuk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7650
+      "duration": 7650,
+      "status": "past",
+      "scheduledStart": "2025-01-26T14:00:00Z"
     },
     {
       "id": "8Y5guZjnXt4",
@@ -2328,7 +2877,9 @@
       "published": "2025-01-25T15:26:07Z",
       "thumbnail": "https://i.ytimg.com/vi/8Y5guZjnXt4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7157
+      "duration": 7157,
+      "status": "past",
+      "scheduledStart": "2025-01-25T12:00:00Z"
     },
     {
       "id": "lm5EfAROXHQ",
@@ -2336,7 +2887,8 @@
       "published": "2025-01-22T22:29:27Z",
       "thumbnail": "https://i.ytimg.com/vi/lm5EfAROXHQ/maxresdefault.jpg",
       "type": "short",
-      "duration": 53
+      "duration": 53,
+      "status": "past"
     },
     {
       "id": "PV06dg5PK4g",
@@ -2344,15 +2896,19 @@
       "published": "2025-01-20T16:46:09Z",
       "thumbnail": "https://i.ytimg.com/vi/PV06dg5PK4g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12576
+      "duration": 12576,
+      "status": "past",
+      "scheduledStart": "2025-01-20T13:00:00Z"
     },
     {
       "id": "agUDB5qbVgw",
       "title": "【MEMBERS ONLY】Drawing with Chattini today and maybe they will tell me the LORE",
-      "published": "2025-01-19T19:34:15Z",
+      "published": "2025-01-19T11:14:19Z",
       "thumbnail": "https://i.ytimg.com/vi/agUDB5qbVgw/maxresdefault.jpg",
       "type": "member",
-      "duration": 14893
+      "duration": 14893,
+      "status": "past",
+      "scheduledStart": "2025-01-19T15:00:00Z"
     },
     {
       "id": "F7BFFaEBGgk",
@@ -2360,15 +2916,19 @@
       "published": "2025-01-18T20:20:12Z",
       "thumbnail": "https://i.ytimg.com/vi/F7BFFaEBGgk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7798
+      "duration": 7798,
+      "status": "past",
+      "scheduledStart": "2025-01-18T18:00:00Z"
     },
     {
       "id": "Ae_j4ga1BBk",
       "title": "【GORILLA】 Short Yapping Stream where I just yap for 1 hour AGAIN",
-      "published": "2025-01-17T15:23:29Z",
+      "published": "2025-01-17T12:23:53Z",
       "thumbnail": "https://i.ytimg.com/vi/Ae_j4ga1BBk/maxresdefault.jpg",
       "type": "member",
-      "duration": 6045
+      "duration": 6045,
+      "status": "past",
+      "scheduledStart": "2025-01-17T13:15:00Z"
     },
     {
       "id": "od-g9793FOg",
@@ -2376,7 +2936,9 @@
       "published": "2025-01-16T17:55:41Z",
       "thumbnail": "https://i.ytimg.com/vi/od-g9793FOg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16593
+      "duration": 16593,
+      "status": "past",
+      "scheduledStart": "2025-01-16T13:05:00Z"
     },
     {
       "id": "AqfA1__7u1w",
@@ -2384,15 +2946,19 @@
       "published": "2025-01-15T17:24:43Z",
       "thumbnail": "https://i.ytimg.com/vi/AqfA1__7u1w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14363
+      "duration": 14363,
+      "status": "past",
+      "scheduledStart": "2025-01-15T13:00:00Z"
     },
     {
       "id": "QKSVRE3Zjz0",
       "title": "【GORILLA】 Short Yapping Stream where I just yap for 1 hour",
-      "published": "2025-01-13T18:12:02Z",
+      "published": "2025-01-13T15:50:02Z",
       "thumbnail": "https://i.ytimg.com/vi/QKSVRE3Zjz0/maxresdefault.jpg",
       "type": "member",
-      "duration": 6196
+      "duration": 6196,
+      "status": "past",
+      "scheduledStart": "2025-01-13T16:15:00Z"
     },
     {
       "id": "dGYErHbusf0",
@@ -2400,7 +2966,9 @@
       "published": "2025-01-11T17:53:49Z",
       "thumbnail": "https://i.ytimg.com/vi/dGYErHbusf0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16705
+      "duration": 16705,
+      "status": "past",
+      "scheduledStart": "2025-01-11T13:00:00Z"
     },
     {
       "id": "ciwqptBfU4s",
@@ -2408,7 +2976,8 @@
       "published": "2025-01-10T21:59:10Z",
       "thumbnail": "https://i.ytimg.com/vi/ciwqptBfU4s/maxresdefault.jpg",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "VUBu6ckmh6g",
@@ -2416,7 +2985,9 @@
       "published": "2025-01-08T15:28:30Z",
       "thumbnail": "https://i.ytimg.com/vi/VUBu6ckmh6g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8058
+      "duration": 8058,
+      "status": "past",
+      "scheduledStart": "2025-01-08T13:00:00Z"
     },
     {
       "id": "0DZGHvc2A6w",
@@ -2424,7 +2995,9 @@
       "published": "2025-01-07T16:22:03Z",
       "thumbnail": "https://i.ytimg.com/vi/0DZGHvc2A6w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7173
+      "duration": 7173,
+      "status": "past",
+      "scheduledStart": "2025-01-07T14:00:00Z"
     },
     {
       "id": "wqbBBe0AW4Y",
@@ -2432,7 +3005,9 @@
       "published": "2025-01-06T16:58:56Z",
       "thumbnail": "https://i.ytimg.com/vi/wqbBBe0AW4Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9924
+      "duration": 9924,
+      "status": "past",
+      "scheduledStart": "2025-01-06T14:00:00Z"
     },
     {
       "id": "nv12fvb2MJk",
@@ -2440,7 +3015,9 @@
       "published": "2025-01-03T17:49:25Z",
       "thumbnail": "https://i.ytimg.com/vi/nv12fvb2MJk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15855
+      "duration": 15855,
+      "status": "past",
+      "scheduledStart": "2025-01-03T13:00:00Z"
     },
     {
       "id": "cwFJFR1-P0k",
@@ -2448,7 +3025,8 @@
       "published": "2025-01-03T11:02:47Z",
       "thumbnail": "https://i.ytimg.com/vi/cwFJFR1-P0k/maxresdefault.jpg",
       "type": "short",
-      "duration": 69
+      "duration": 69,
+      "status": "past"
     },
     {
       "id": "rOI0812UaXo",
@@ -2456,7 +3034,9 @@
       "published": "2025-01-02T17:00:03Z",
       "thumbnail": "https://i.ytimg.com/vi/rOI0812UaXo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13187
+      "duration": 13187,
+      "status": "past",
+      "scheduledStart": "2025-01-02T13:00:00Z"
     },
     {
       "id": "9xYlF78J8jk",
@@ -2464,7 +3044,9 @@
       "published": "2025-01-01T22:23:02Z",
       "thumbnail": "https://i.ytimg.com/vi/9xYlF78J8jk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4520
+      "duration": 4520,
+      "status": "past",
+      "scheduledStart": "2025-01-01T21:00:00Z"
     },
     {
       "id": "I0rswFEM0pg",
@@ -2472,7 +3054,9 @@
       "published": "2025-01-01T21:03:21Z",
       "thumbnail": "https://i.ytimg.com/vi/I0rswFEM0pg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1861
+      "duration": 1861,
+      "status": "past",
+      "scheduledStart": "2025-01-01T20:30:00Z"
     },
     {
       "id": "FR2K4FhC-Ss",
@@ -2480,7 +3064,9 @@
       "published": "2024-12-30T18:37:41Z",
       "thumbnail": "https://i.ytimg.com/vi/FR2K4FhC-Ss/maxresdefault.jpg",
       "type": "member",
-      "duration": 8527
+      "duration": 8527,
+      "status": "past",
+      "scheduledStart": "2024-12-30T14:00:00Z"
     },
     {
       "id": "TeGWvWWxiO8",
@@ -2488,7 +3074,9 @@
       "published": "2024-12-29T15:36:09Z",
       "thumbnail": "https://i.ytimg.com/vi/TeGWvWWxiO8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8861
+      "duration": 8861,
+      "status": "past",
+      "scheduledStart": "2024-12-29T13:00:00Z"
     },
     {
       "id": "JPrTM-wP39E",
@@ -2496,7 +3084,8 @@
       "published": "2024-12-27T18:10:40Z",
       "thumbnail": "https://i.ytimg.com/vi/JPrTM-wP39E/maxresdefault.jpg",
       "type": "short",
-      "duration": 36
+      "duration": 36,
+      "status": "past"
     },
     {
       "id": "QvJDRzOsYNs",
@@ -2504,7 +3093,9 @@
       "published": "2024-12-24T17:17:17Z",
       "thumbnail": "https://i.ytimg.com/vi/QvJDRzOsYNs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11054
+      "duration": 11054,
+      "status": "past",
+      "scheduledStart": "2024-12-24T14:00:00Z"
     },
     {
       "id": "9WB2ctfTS4s",
@@ -2512,15 +3103,18 @@
       "published": "2024-12-20T02:59:55Z",
       "thumbnail": "https://i.ytimg.com/vi/9WB2ctfTS4s/maxresdefault.jpg",
       "type": "short",
-      "duration": 52
+      "duration": 52,
+      "status": "past"
     },
     {
       "id": "-k6M45OmWeo",
       "title": "【MEMBERS ONLY】 Chit-Chattini!",
-      "published": "2024-12-19T11:34:10Z",
+      "published": "2024-12-19T09:28:36Z",
       "thumbnail": "https://i.ytimg.com/vi/-k6M45OmWeo/maxresdefault.jpg",
       "type": "member",
-      "duration": 1750
+      "duration": 1750,
+      "status": "past",
+      "scheduledStart": "2024-12-19T11:00:00Z"
     },
     {
       "id": "CtOwvXA7QEo",
@@ -2528,7 +3122,9 @@
       "published": "2024-12-19T05:07:04Z",
       "thumbnail": "https://i.ytimg.com/vi/CtOwvXA7QEo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8150
+      "duration": 8150,
+      "status": "past",
+      "scheduledStart": "2024-12-19T02:00:00Z"
     },
     {
       "id": "XUtVjOut5-Y",
@@ -2536,7 +3132,9 @@
       "published": "2024-12-16T17:48:22Z",
       "thumbnail": "https://i.ytimg.com/vi/XUtVjOut5-Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16114
+      "duration": 16114,
+      "status": "past",
+      "scheduledStart": "2024-12-16T13:00:00Z"
     },
     {
       "id": "aY-vY_Ao1gQ",
@@ -2544,7 +3142,9 @@
       "published": "2024-12-14T18:45:04Z",
       "thumbnail": "https://i.ytimg.com/vi/aY-vY_Ao1gQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19384
+      "duration": 19384,
+      "status": "past",
+      "scheduledStart": "2024-12-14T13:00:00Z"
     },
     {
       "id": "JPnjXunJJ6k",
@@ -2552,15 +3152,18 @@
       "published": "2024-12-14T02:34:22Z",
       "thumbnail": "https://i.ytimg.com/vi/JPnjXunJJ6k/maxresdefault.jpg",
       "type": "short",
-      "duration": 32
+      "duration": 32,
+      "status": "past"
     },
     {
       "id": "IYVRCEGO6vU",
       "title": "【MEMBERS ONLY】Ciao Chattini! Comfy Yap and Art today!",
-      "published": "2024-12-13T17:34:19Z",
+      "published": "2024-12-13T09:54:34Z",
       "thumbnail": "https://i.ytimg.com/vi/IYVRCEGO6vU/maxresdefault.jpg",
       "type": "member",
-      "duration": 19204
+      "duration": 19204,
+      "status": "past",
+      "scheduledStart": "2024-12-13T12:00:00Z"
     },
     {
       "id": "m6RACho9iZ0",
@@ -2568,7 +3171,9 @@
       "published": "2024-12-11T17:29:30Z",
       "thumbnail": "https://i.ytimg.com/vi/m6RACho9iZ0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15038
+      "duration": 15038,
+      "status": "past",
+      "scheduledStart": "2024-12-11T13:00:00Z"
     },
     {
       "id": "iR33LhNUysI",
@@ -2576,7 +3181,9 @@
       "published": "2024-12-11T03:41:34Z",
       "thumbnail": "https://i.ytimg.com/vi/iR33LhNUysI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8968
+      "duration": 8968,
+      "status": "past",
+      "scheduledStart": "2024-12-11T01:00:00Z"
     },
     {
       "id": "XNIW_XHwwIM",
@@ -2584,7 +3191,9 @@
       "published": "2024-12-09T03:15:19Z",
       "thumbnail": "https://i.ytimg.com/vi/XNIW_XHwwIM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7640
+      "duration": 7640,
+      "status": "past",
+      "scheduledStart": "2024-12-09T01:00:00Z"
     },
     {
       "id": "5Wgov8IRta4",
@@ -2592,7 +3201,9 @@
       "published": "2024-12-08T06:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/5Wgov8IRta4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21350
+      "duration": 21350,
+      "status": "past",
+      "scheduledStart": "2024-12-08T00:00:00Z"
     },
     {
       "id": "aEXxQkoljmM",
@@ -2600,7 +3211,9 @@
       "published": "2024-12-06T19:23:22Z",
       "thumbnail": "https://i.ytimg.com/vi/aEXxQkoljmM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21924
+      "duration": 21924,
+      "status": "past",
+      "scheduledStart": "2024-12-06T13:00:00Z"
     },
     {
       "id": "a1gwG2C3qfE",
@@ -2608,7 +3221,8 @@
       "published": "2024-12-06T02:22:06Z",
       "thumbnail": "https://i.ytimg.com/vi/a1gwG2C3qfE/maxresdefault.jpg",
       "type": "short",
-      "duration": 36
+      "duration": 36,
+      "status": "past"
     },
     {
       "id": "9FteZGEIjVo",
@@ -2616,7 +3230,9 @@
       "published": "2024-12-05T17:36:10Z",
       "thumbnail": "https://i.ytimg.com/vi/9FteZGEIjVo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15605
+      "duration": 15605,
+      "status": "past",
+      "scheduledStart": "2024-12-05T13:00:00Z"
     },
     {
       "id": "sRcpWHYWhFo",
@@ -2624,7 +3240,9 @@
       "published": "2024-12-05T04:31:27Z",
       "thumbnail": "https://i.ytimg.com/vi/sRcpWHYWhFo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7096
+      "duration": 7096,
+      "status": "past",
+      "scheduledStart": "2024-12-05T01:00:00Z"
     },
     {
       "id": "7Qm608FcxKo",
@@ -2632,7 +3250,9 @@
       "published": "2024-12-04T05:13:51Z",
       "thumbnail": "https://i.ytimg.com/vi/7Qm608FcxKo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10978
+      "duration": 10978,
+      "status": "past",
+      "scheduledStart": "2024-12-04T02:00:00Z"
     },
     {
       "id": "n0QdPF_Sk1g",
@@ -2640,15 +3260,9 @@
       "published": "2024-12-03T17:38:18Z",
       "thumbnail": "https://i.ytimg.com/vi/n0QdPF_Sk1g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15909
-    },
-    {
-      "id": "dXLjZ0WoC88",
-      "title": "【MEMBERS ONLY】 Let's draw my new YT Shorts and chit chat a bit!",
-      "published": "2024-12-02T14:31:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/dXLjZ0WoC88/maxresdefault.jpg",
-      "type": "member",
-      "duration": 10213
+      "duration": 15909,
+      "status": "past",
+      "scheduledStart": "2024-12-03T13:00:00Z"
     },
     {
       "id": "hlO4qb_v6hM",
@@ -2656,7 +3270,19 @@
       "published": "2024-12-02T14:23:13Z",
       "thumbnail": "https://i.ytimg.com/vi/hlO4qb_v6hM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-12-25T14:20:00Z"
+    },
+    {
+      "id": "dXLjZ0WoC88",
+      "title": "【MEMBERS ONLY】 Let's draw my new YT Shorts and chit chat a bit!",
+      "published": "2024-12-02T08:16:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/dXLjZ0WoC88/maxresdefault.jpg",
+      "type": "member",
+      "duration": 10213,
+      "status": "past",
+      "scheduledStart": "2024-12-02T11:30:00Z"
     },
     {
       "id": "U62CfuBaL_o",
@@ -2664,7 +3290,9 @@
       "published": "2024-12-01T18:19:18Z",
       "thumbnail": "https://i.ytimg.com/vi/U62CfuBaL_o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18222
+      "duration": 18222,
+      "status": "past",
+      "scheduledStart": "2024-12-01T13:00:00Z"
     },
     {
       "id": "iMbM_MlwiCo",
@@ -2672,7 +3300,9 @@
       "published": "2024-11-30T17:11:39Z",
       "thumbnail": "https://i.ytimg.com/vi/iMbM_MlwiCo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14142
+      "duration": 14142,
+      "status": "past",
+      "scheduledStart": "2024-11-30T13:00:00Z"
     },
     {
       "id": "oOrBLsAaz7c",
@@ -2680,7 +3310,9 @@
       "published": "2024-11-28T17:00:05Z",
       "thumbnail": "https://i.ytimg.com/vi/oOrBLsAaz7c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13662
+      "duration": 13662,
+      "status": "past",
+      "scheduledStart": "2024-11-28T13:00:00Z"
     },
     {
       "id": "Q8eRqGf9i7c",
@@ -2688,7 +3320,9 @@
       "published": "2024-11-27T17:23:15Z",
       "thumbnail": "https://i.ytimg.com/vi/Q8eRqGf9i7c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15019
+      "duration": 15019,
+      "status": "past",
+      "scheduledStart": "2024-11-27T13:00:00Z"
     },
     {
       "id": "mY9VyahNL64",
@@ -2696,7 +3330,9 @@
       "published": "2024-11-27T01:17:20Z",
       "thumbnail": "https://i.ytimg.com/vi/mY9VyahNL64/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7917
+      "duration": 7917,
+      "status": "past",
+      "scheduledStart": "2024-11-26T23:00:00Z"
     },
     {
       "id": "qJI8LRQKOgs",
@@ -2704,7 +3340,9 @@
       "published": "2024-11-26T04:34:55Z",
       "thumbnail": "https://i.ytimg.com/vi/qJI8LRQKOgs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12078
+      "duration": 12078,
+      "status": "past",
+      "scheduledStart": "2024-11-26T01:00:00Z"
     },
     {
       "id": "4K8FlnB5r9M",
@@ -2712,15 +3350,19 @@
       "published": "2024-11-24T16:49:37Z",
       "thumbnail": "https://i.ytimg.com/vi/4K8FlnB5r9M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13143
+      "duration": 13143,
+      "status": "past",
+      "scheduledStart": "2024-11-24T13:00:00Z"
     },
     {
       "id": "cwVOot9Nk90",
       "title": "【MEMBERS ONLY】A pink cat having conversations with her plushies nothing to see here",
-      "published": "2024-11-24T06:02:04Z",
+      "published": "2024-11-23T03:41:35Z",
       "thumbnail": "https://i.ytimg.com/vi/cwVOot9Nk90/maxresdefault.jpg",
       "type": "member",
-      "duration": 13681
+      "duration": 13681,
+      "status": "past",
+      "scheduledStart": "2024-11-24T02:00:00Z"
     },
     {
       "id": "zvCQy4WnJZI",
@@ -2728,7 +3370,9 @@
       "published": "2024-11-22T18:08:03Z",
       "thumbnail": "https://i.ytimg.com/vi/zvCQy4WnJZI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17375
+      "duration": 17375,
+      "status": "past",
+      "scheduledStart": "2024-11-22T13:00:00Z"
     },
     {
       "id": "gPMp1cwedak",
@@ -2736,7 +3380,9 @@
       "published": "2024-11-20T14:16:47Z",
       "thumbnail": "https://i.ytimg.com/vi/gPMp1cwedak/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7677
+      "duration": 7677,
+      "status": "past",
+      "scheduledStart": "2024-11-20T12:00:00Z"
     },
     {
       "id": "k2FUGAEIaGs",
@@ -2744,7 +3390,9 @@
       "published": "2024-11-20T12:29:36Z",
       "thumbnail": "https://i.ytimg.com/vi/k2FUGAEIaGs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7047
+      "duration": 7047,
+      "status": "past",
+      "scheduledStart": "2024-11-20T10:00:00Z"
     },
     {
       "id": "oIQFAInPYa4",
@@ -2752,7 +3400,9 @@
       "published": "2024-11-20T10:41:10Z",
       "thumbnail": "https://i.ytimg.com/vi/oIQFAInPYa4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7069
+      "duration": 7069,
+      "status": "past",
+      "scheduledStart": "2024-11-20T08:00:00Z"
     },
     {
       "id": "t9pu-MGYXKY",
@@ -2760,7 +3410,9 @@
       "published": "2024-11-20T08:17:09Z",
       "thumbnail": "https://i.ytimg.com/vi/t9pu-MGYXKY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20989
+      "duration": 20989,
+      "status": "past",
+      "scheduledStart": "2024-11-20T02:10:00Z"
     },
     {
       "id": "K5FhQBJNO6o",
@@ -2768,7 +3420,9 @@
       "published": "2024-11-19T14:06:07Z",
       "thumbnail": "https://i.ytimg.com/vi/K5FhQBJNO6o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10247
+      "duration": 10247,
+      "status": "past",
+      "scheduledStart": "2024-11-19T11:00:00Z"
     },
     {
       "id": "mcjWkXocQmg",
@@ -2776,7 +3430,9 @@
       "published": "2024-11-16T16:22:22Z",
       "thumbnail": "https://i.ytimg.com/vi/mcjWkXocQmg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14630
+      "duration": 14630,
+      "status": "past",
+      "scheduledStart": "2024-11-16T12:00:00Z"
     },
     {
       "id": "alOJF1Im1BY",
@@ -2784,7 +3440,9 @@
       "published": "2024-11-15T17:13:05Z",
       "thumbnail": "https://i.ytimg.com/vi/alOJF1Im1BY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17770
+      "duration": 17770,
+      "status": "past",
+      "scheduledStart": "2024-11-15T12:00:00Z"
     },
     {
       "id": "0sPg0TOoNcM",
@@ -2792,7 +3450,9 @@
       "published": "2024-11-14T07:30:15Z",
       "thumbnail": "https://i.ytimg.com/vi/0sPg0TOoNcM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15310
+      "duration": 15310,
+      "status": "past",
+      "scheduledStart": "2024-11-14T03:00:00Z"
     },
     {
       "id": "9KEaF0ze89Y",
@@ -2800,7 +3460,9 @@
       "published": "2024-11-13T15:01:46Z",
       "thumbnail": "https://i.ytimg.com/vi/9KEaF0ze89Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10081
+      "duration": 10081,
+      "status": "past",
+      "scheduledStart": "2024-11-13T12:00:00Z"
     },
     {
       "id": "QMY-5ed_IOI",
@@ -2808,7 +3470,9 @@
       "published": "2024-11-12T15:41:33Z",
       "thumbnail": "https://i.ytimg.com/vi/QMY-5ed_IOI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9280
+      "duration": 9280,
+      "status": "past",
+      "scheduledStart": "2024-11-12T13:00:00Z"
     },
     {
       "id": "RBq3-bQA5eE",
@@ -2816,7 +3480,9 @@
       "published": "2024-11-11T15:48:08Z",
       "thumbnail": "https://i.ytimg.com/vi/RBq3-bQA5eE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13032
+      "duration": 13032,
+      "status": "past",
+      "scheduledStart": "2024-11-11T12:00:00Z"
     },
     {
       "id": "EetBmC-NdYo",
@@ -2824,7 +3490,9 @@
       "published": "2024-11-09T16:09:09Z",
       "thumbnail": "https://i.ytimg.com/vi/EetBmC-NdYo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6870
+      "duration": 6870,
+      "status": "past",
+      "scheduledStart": "2024-11-09T13:35:00Z"
     },
     {
       "id": "7y5XB8sI7-A",
@@ -2832,7 +3500,9 @@
       "published": "2024-11-08T15:00:09Z",
       "thumbnail": "https://i.ytimg.com/vi/7y5XB8sI7-A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9893
+      "duration": 9893,
+      "status": "past",
+      "scheduledStart": "2024-11-08T12:10:00Z"
     },
     {
       "id": "WpJw22mINTU",
@@ -2840,7 +3510,9 @@
       "published": "2024-11-07T16:26:20Z",
       "thumbnail": "https://i.ytimg.com/vi/WpJw22mINTU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15053
+      "duration": 15053,
+      "status": "past",
+      "scheduledStart": "2024-11-07T12:00:00Z"
     },
     {
       "id": "J7C98PDXKwk",
@@ -2848,7 +3520,9 @@
       "published": "2024-11-06T16:19:37Z",
       "thumbnail": "https://i.ytimg.com/vi/J7C98PDXKwk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10996
+      "duration": 10996,
+      "status": "past",
+      "scheduledStart": "2024-11-06T13:00:00Z"
     },
     {
       "id": "6e2A6TR0sHg",
@@ -2856,7 +3530,9 @@
       "published": "2024-11-06T06:43:50Z",
       "thumbnail": "https://i.ytimg.com/vi/6e2A6TR0sHg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15489
+      "duration": 15489,
+      "status": "past",
+      "scheduledStart": "2024-11-06T02:10:00Z"
     },
     {
       "id": "BjORkanyedY",
@@ -2864,7 +3540,9 @@
       "published": "2024-11-04T10:51:23Z",
       "thumbnail": "https://i.ytimg.com/vi/BjORkanyedY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 33397
+      "duration": 33397,
+      "status": "past",
+      "scheduledStart": "2024-11-04T01:00:00Z"
     },
     {
       "id": "zqtAHz-Xw0w",
@@ -2872,7 +3550,9 @@
       "published": "2024-11-03T14:09:52Z",
       "thumbnail": "https://i.ytimg.com/vi/zqtAHz-Xw0w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10650
+      "duration": 10650,
+      "status": "past",
+      "scheduledStart": "2024-11-03T11:00:00Z"
     },
     {
       "id": "ILpEFrK1F5I",
@@ -2880,7 +3560,9 @@
       "published": "2024-11-03T14:00:07Z",
       "thumbnail": "https://i.ytimg.com/vi/ILpEFrK1F5I/maxresdefault.jpg",
       "type": "video",
-      "duration": 202
+      "duration": 202,
+      "status": "past",
+      "scheduledStart": "2024-11-03T14:00:00Z"
     },
     {
       "id": "YZtzmkjVDP0",
@@ -2888,7 +3570,9 @@
       "published": "2024-11-02T03:35:12Z",
       "thumbnail": "https://i.ytimg.com/vi/YZtzmkjVDP0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5256
+      "duration": 5256,
+      "status": "past",
+      "scheduledStart": "2024-11-02T02:00:00Z"
     },
     {
       "id": "OXsEVPaKOMk",
@@ -2896,7 +3580,9 @@
       "published": "2024-11-01T06:20:09Z",
       "thumbnail": "https://i.ytimg.com/vi/OXsEVPaKOMk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6099
+      "duration": 6099,
+      "status": "past",
+      "scheduledStart": "2024-11-01T03:00:00Z"
     },
     {
       "id": "zI39UWo_lMo",
@@ -2904,7 +3590,9 @@
       "published": "2024-10-31T15:15:17Z",
       "thumbnail": "https://i.ytimg.com/vi/zI39UWo_lMo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13948
+      "duration": 13948,
+      "status": "past",
+      "scheduledStart": "2024-10-31T11:05:00Z"
     },
     {
       "id": "pZTZzSQqncM",
@@ -2912,7 +3600,8 @@
       "published": "2024-10-31T08:27:49Z",
       "thumbnail": "https://i.ytimg.com/vi/pZTZzSQqncM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "past"
     },
     {
       "id": "1XFxcx-M3iM",
@@ -2920,7 +3609,9 @@
       "published": "2024-10-30T16:25:52Z",
       "thumbnail": "https://i.ytimg.com/vi/1XFxcx-M3iM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11671
+      "duration": 11671,
+      "status": "past",
+      "scheduledStart": "2024-10-30T13:00:00Z"
     },
     {
       "id": "GvRqZnBBWwc",
@@ -2928,7 +3619,9 @@
       "published": "2024-10-27T17:26:24Z",
       "thumbnail": "https://i.ytimg.com/vi/GvRqZnBBWwc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6988
+      "duration": 6988,
+      "status": "past",
+      "scheduledStart": "2024-10-27T15:00:00Z"
     },
     {
       "id": "t-GnwW639_o",
@@ -2936,7 +3629,9 @@
       "published": "2024-10-26T02:24:40Z",
       "thumbnail": "https://i.ytimg.com/vi/t-GnwW639_o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7386
+      "duration": 7386,
+      "status": "past",
+      "scheduledStart": "2024-10-26T00:00:00Z"
     },
     {
       "id": "vEV1zZ5hcU4",
@@ -2944,15 +3639,19 @@
       "published": "2024-10-25T17:48:23Z",
       "thumbnail": "https://i.ytimg.com/vi/vEV1zZ5hcU4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18505
+      "duration": 18505,
+      "status": "past",
+      "scheduledStart": "2024-10-25T12:30:00Z"
     },
     {
       "id": "zcTz6A1Hzes",
       "title": "【GORILLA】 MUTED ART STREAM for Chattini!! - Draw with me!~",
-      "published": "2024-10-25T07:47:16Z",
+      "published": "2024-10-25T04:10:00Z",
       "thumbnail": "https://i.ytimg.com/vi/zcTz6A1Hzes/maxresdefault.jpg",
       "type": "member",
-      "duration": 11137
+      "duration": 11137,
+      "status": "past",
+      "scheduledStart": "2024-10-25T04:30:00Z"
     },
     {
       "id": "T9On8dDt5JM",
@@ -2960,7 +3659,9 @@
       "published": "2024-10-25T03:16:25Z",
       "thumbnail": "https://i.ytimg.com/vi/T9On8dDt5JM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3814
+      "duration": 3814,
+      "status": "past",
+      "scheduledStart": "2024-10-25T02:00:00Z"
     },
     {
       "id": "6VhLzvwNwm8",
@@ -2968,7 +3669,9 @@
       "published": "2024-10-24T14:49:26Z",
       "thumbnail": "https://i.ytimg.com/vi/6VhLzvwNwm8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9167
+      "duration": 9167,
+      "status": "past",
+      "scheduledStart": "2024-10-24T12:10:00Z"
     },
     {
       "id": "oJAHkEsjPPc",
@@ -2976,7 +3679,9 @@
       "published": "2024-10-24T04:20:17Z",
       "thumbnail": "https://i.ytimg.com/vi/oJAHkEsjPPc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10395
+      "duration": 10395,
+      "status": "past",
+      "scheduledStart": "2024-10-24T01:15:00Z"
     },
     {
       "id": "wvN_jtNGfZo",
@@ -2984,7 +3689,9 @@
       "published": "2024-10-20T09:25:41Z",
       "thumbnail": "https://i.ytimg.com/vi/wvN_jtNGfZo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 28533
+      "duration": 28533,
+      "status": "past",
+      "scheduledStart": "2024-10-20T01:05:00Z"
     },
     {
       "id": "ETv7o-uYCIM",
@@ -2992,7 +3699,9 @@
       "published": "2024-10-17T17:26:07Z",
       "thumbnail": "https://i.ytimg.com/vi/ETv7o-uYCIM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22060
+      "duration": 22060,
+      "status": "past",
+      "scheduledStart": "2024-10-17T11:00:00Z"
     },
     {
       "id": "gHXDW54F4CI",
@@ -3000,7 +3709,9 @@
       "published": "2024-10-16T18:34:19Z",
       "thumbnail": "https://i.ytimg.com/vi/gHXDW54F4CI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22203
+      "duration": 22203,
+      "status": "past",
+      "scheduledStart": "2024-10-16T12:10:00Z"
     },
     {
       "id": "FPAwQEfASE0",
@@ -3008,7 +3719,9 @@
       "published": "2024-10-12T16:43:58Z",
       "thumbnail": "https://i.ytimg.com/vi/FPAwQEfASE0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16310
+      "duration": 16310,
+      "status": "past",
+      "scheduledStart": "2024-10-12T12:00:00Z"
     },
     {
       "id": "0Xax8TmExL0",
@@ -3016,7 +3729,9 @@
       "published": "2024-10-12T03:06:20Z",
       "thumbnail": "https://i.ytimg.com/vi/0Xax8TmExL0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10647
+      "duration": 10647,
+      "status": "past",
+      "scheduledStart": "2024-10-12T00:00:00Z"
     },
     {
       "id": "6x5RaNVOQ2k",
@@ -3024,7 +3739,9 @@
       "published": "2024-10-11T04:07:49Z",
       "thumbnail": "https://i.ytimg.com/vi/6x5RaNVOQ2k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14081
+      "duration": 14081,
+      "status": "past",
+      "scheduledStart": "2024-10-11T00:00:00Z"
     },
     {
       "id": "XTKsKbG418E",
@@ -3032,7 +3749,9 @@
       "published": "2024-10-10T14:33:25Z",
       "thumbnail": "https://i.ytimg.com/vi/XTKsKbG418E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11966
+      "duration": 11966,
+      "status": "past",
+      "scheduledStart": "2024-10-10T11:00:00Z"
     },
     {
       "id": "W7V67M0cuJg",
@@ -3040,7 +3759,9 @@
       "published": "2024-10-10T05:14:51Z",
       "thumbnail": "https://i.ytimg.com/vi/W7V67M0cuJg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18027
+      "duration": 18027,
+      "status": "past",
+      "scheduledStart": "2024-10-10T00:00:00Z"
     },
     {
       "id": "CTOUgAyxX3Q",
@@ -3048,7 +3769,9 @@
       "published": "2024-10-09T15:19:57Z",
       "thumbnail": "https://i.ytimg.com/vi/CTOUgAyxX3Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11297
+      "duration": 11297,
+      "status": "past",
+      "scheduledStart": "2024-10-09T12:00:00Z"
     },
     {
       "id": "HLnalLS97i4",
@@ -3056,15 +3779,19 @@
       "published": "2024-10-08T11:54:27Z",
       "thumbnail": "https://i.ytimg.com/vi/HLnalLS97i4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5822
+      "duration": 5822,
+      "status": "past",
+      "scheduledStart": "2024-10-08T10:00:00Z"
     },
     {
       "id": "_YDWpyy55cA",
       "title": "【MEMBERS WATCHALONG】LET'S WATCH A CLASSIC! THE THING (1982)",
-      "published": "2024-10-07T11:31:20Z",
+      "published": "2024-10-07T06:11:22Z",
       "thumbnail": "https://i.ytimg.com/vi/_YDWpyy55cA/maxresdefault.jpg",
       "type": "member",
-      "duration": 8608
+      "duration": 8608,
+      "status": "past",
+      "scheduledStart": "2024-10-07T09:00:00Z"
     },
     {
       "id": "Xg7JygcUhvg",
@@ -3072,7 +3799,9 @@
       "published": "2024-10-06T18:14:35Z",
       "thumbnail": "https://i.ytimg.com/vi/Xg7JygcUhvg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21330
+      "duration": 21330,
+      "status": "past",
+      "scheduledStart": "2024-10-06T12:10:00Z"
     },
     {
       "id": "_7a7asApegI",
@@ -3080,7 +3809,9 @@
       "published": "2024-10-05T18:11:48Z",
       "thumbnail": "https://i.ytimg.com/vi/_7a7asApegI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21235
+      "duration": 21235,
+      "status": "past",
+      "scheduledStart": "2024-10-05T12:00:00Z"
     },
     {
       "id": "L2g4qm3m1rM",
@@ -3088,7 +3819,9 @@
       "published": "2024-10-04T14:39:15Z",
       "thumbnail": "https://i.ytimg.com/vi/L2g4qm3m1rM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8811
+      "duration": 8811,
+      "status": "past",
+      "scheduledStart": "2024-10-04T12:00:00Z"
     },
     {
       "id": "vHnY_NgF2qQ",
@@ -3096,7 +3829,9 @@
       "published": "2024-10-03T17:51:18Z",
       "thumbnail": "https://i.ytimg.com/vi/vHnY_NgF2qQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19624
+      "duration": 19624,
+      "status": "past",
+      "scheduledStart": "2024-10-03T12:10:00Z"
     },
     {
       "id": "xH590IdD1BI",
@@ -3104,7 +3839,9 @@
       "published": "2024-10-03T06:22:21Z",
       "thumbnail": "https://i.ytimg.com/vi/xH590IdD1BI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4033
+      "duration": 4033,
+      "status": "past",
+      "scheduledStart": "2024-10-02T13:35:00Z"
     },
     {
       "id": "z4Ie038hQYw",
@@ -3112,7 +3849,9 @@
       "published": "2024-10-02T13:41:16Z",
       "thumbnail": "https://i.ytimg.com/vi/z4Ie038hQYw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5832
+      "duration": 5832,
+      "status": "past",
+      "scheduledStart": "2024-10-02T12:00:00Z"
     },
     {
       "id": "7pDGlZeqAo4",
@@ -3120,15 +3859,19 @@
       "published": "2024-10-02T07:13:53Z",
       "thumbnail": "https://i.ytimg.com/vi/7pDGlZeqAo4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18042
+      "duration": 18042,
+      "status": "past",
+      "scheduledStart": "2024-10-02T02:00:00Z"
     },
     {
       "id": "3oO8sWaGLQ4",
       "title": "【MEMBERS ONLY】I want to start a New Life in Stardew Valley!!!",
-      "published": "2024-09-30T16:20:06Z",
+      "published": "2024-09-30T02:47:10Z",
       "thumbnail": "https://i.ytimg.com/vi/3oO8sWaGLQ4/maxresdefault.jpg",
       "type": "member",
-      "duration": 14594
+      "duration": 14594,
+      "status": "past",
+      "scheduledStart": "2024-09-30T12:00:00Z"
     },
     {
       "id": "dK2lsya5Quk",
@@ -3136,7 +3879,9 @@
       "published": "2024-09-29T16:20:21Z",
       "thumbnail": "https://i.ytimg.com/vi/dK2lsya5Quk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14804
+      "duration": 14804,
+      "status": "past",
+      "scheduledStart": "2024-09-29T12:00:00Z"
     },
     {
       "id": "8Dr__CSFjrY",
@@ -3144,7 +3889,9 @@
       "published": "2024-09-28T15:21:09Z",
       "thumbnail": "https://i.ytimg.com/vi/8Dr__CSFjrY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9873
+      "duration": 9873,
+      "status": "past",
+      "scheduledStart": "2024-09-28T12:30:00Z"
     },
     {
       "id": "g76EzYOEglw",
@@ -3152,7 +3899,9 @@
       "published": "2024-09-26T15:36:20Z",
       "thumbnail": "https://i.ytimg.com/vi/g76EzYOEglw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12217
+      "duration": 12217,
+      "status": "past",
+      "scheduledStart": "2024-09-26T12:00:00Z"
     },
     {
       "id": "i-ZsjN2glvM",
@@ -3160,7 +3909,9 @@
       "published": "2024-09-26T05:10:04Z",
       "thumbnail": "https://i.ytimg.com/vi/i-ZsjN2glvM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13889
+      "duration": 13889,
+      "status": "past",
+      "scheduledStart": "2024-09-26T01:00:00Z"
     },
     {
       "id": "oOWdDTf3jBU",
@@ -3168,7 +3919,9 @@
       "published": "2024-09-25T16:39:44Z",
       "thumbnail": "https://i.ytimg.com/vi/oOWdDTf3jBU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15848
+      "duration": 15848,
+      "status": "past",
+      "scheduledStart": "2024-09-25T12:00:00Z"
     },
     {
       "id": "f8aws1yDM-0",
@@ -3176,7 +3929,9 @@
       "published": "2024-09-24T15:33:02Z",
       "thumbnail": "https://i.ytimg.com/vi/f8aws1yDM-0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12028
+      "duration": 12028,
+      "status": "past",
+      "scheduledStart": "2024-09-24T12:00:00Z"
     },
     {
       "id": "9TroI9swAuo",
@@ -3184,7 +3939,9 @@
       "published": "2024-09-24T08:57:39Z",
       "thumbnail": "https://i.ytimg.com/vi/9TroI9swAuo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21973
+      "duration": 21973,
+      "status": "past",
+      "scheduledStart": "2024-09-24T02:30:00Z"
     },
     {
       "id": "stYk02PVYmU",
@@ -3192,23 +3949,9 @@
       "published": "2024-09-23T15:49:06Z",
       "thumbnail": "https://i.ytimg.com/vi/stYk02PVYmU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13807
-    },
-    {
-      "id": "Txewh9T3V-8",
-      "title": "【CHATTINI DAY】Pokemon the First Movie - Members Watchalong!",
-      "published": "2024-09-21T14:14:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/Txewh9T3V-8/maxresdefault.jpg",
-      "type": "member",
-      "duration": 6388
-    },
-    {
-      "id": "UaRyCXltPNw",
-      "title": "【CHATTINI DAY】FALL GUYS with Members! (bc  you guys have NO JETPACKS!!! HAA!)",
-      "published": "2024-09-21T11:42:33Z",
-      "thumbnail": "https://i.ytimg.com/vi/UaRyCXltPNw/maxresdefault.jpg",
-      "type": "member",
-      "duration": 5496
+      "duration": 13807,
+      "status": "past",
+      "scheduledStart": "2024-09-23T12:00:00Z"
     },
     {
       "id": "eD84B_0t8e4",
@@ -3216,7 +3959,9 @@
       "published": "2024-09-21T10:21:28Z",
       "thumbnail": "https://i.ytimg.com/vi/eD84B_0t8e4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6974
+      "duration": 6974,
+      "status": "past",
+      "scheduledStart": "2024-09-21T08:00:00Z"
     },
     {
       "id": "wu8LPcBl6CA",
@@ -3224,7 +3969,29 @@
       "published": "2024-09-21T08:21:54Z",
       "thumbnail": "https://i.ytimg.com/vi/wu8LPcBl6CA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 25119
+      "duration": 25119,
+      "status": "past",
+      "scheduledStart": "2024-09-21T01:00:00Z"
+    },
+    {
+      "id": "Txewh9T3V-8",
+      "title": "【CHATTINI DAY】Pokemon the First Movie - Members Watchalong!",
+      "published": "2024-09-21T00:55:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/Txewh9T3V-8/maxresdefault.jpg",
+      "type": "member",
+      "duration": 6388,
+      "status": "past",
+      "scheduledStart": "2024-09-21T11:30:00Z"
+    },
+    {
+      "id": "UaRyCXltPNw",
+      "title": "【CHATTINI DAY】FALL GUYS with Members! (bc  you guys have NO JETPACKS!!! HAA!)",
+      "published": "2024-09-21T00:52:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/UaRyCXltPNw/maxresdefault.jpg",
+      "type": "member",
+      "duration": 5496,
+      "status": "past",
+      "scheduledStart": "2024-09-21T10:00:00Z"
     },
     {
       "id": "nBNFXbGaPpE",
@@ -3232,7 +3999,9 @@
       "published": "2024-09-18T16:30:07Z",
       "thumbnail": "https://i.ytimg.com/vi/nBNFXbGaPpE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7160
+      "duration": 7160,
+      "status": "past",
+      "scheduledStart": "2024-09-18T13:00:00Z"
     },
     {
       "id": "AtxxbjHECSo",
@@ -3240,7 +4009,9 @@
       "published": "2024-09-17T12:51:34Z",
       "thumbnail": "https://i.ytimg.com/vi/AtxxbjHECSo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9871
+      "duration": 9871,
+      "status": "past",
+      "scheduledStart": "2024-09-17T10:00:00Z"
     },
     {
       "id": "ggAAKmd9Om4",
@@ -3248,7 +4019,9 @@
       "published": "2024-09-15T16:40:01Z",
       "thumbnail": "https://i.ytimg.com/vi/ggAAKmd9Om4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12368
+      "duration": 12368,
+      "status": "past",
+      "scheduledStart": "2024-09-15T13:00:00Z"
     },
     {
       "id": "iajr0UIiVg0",
@@ -3256,23 +4029,29 @@
       "published": "2024-09-14T15:01:47Z",
       "thumbnail": "https://i.ytimg.com/vi/iajr0UIiVg0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13564
+      "duration": 13564,
+      "status": "past",
+      "scheduledStart": "2024-09-14T11:00:00Z"
     },
     {
       "id": "ZJPKhXl8QvU",
       "title": "【GORILLA】 i just wanna draw",
-      "published": "2024-09-13T16:10:35Z",
+      "published": "2024-09-13T13:19:35Z",
       "thumbnail": "https://i.ytimg.com/vi/ZJPKhXl8QvU/maxresdefault.jpg",
       "type": "member",
-      "duration": 9463
+      "duration": 9463,
+      "status": "past",
+      "scheduledStart": "2024-09-13T13:20:00Z"
     },
     {
       "id": "N-v4cCUhXJY",
       "title": "【MEMBERS WATCHALONG】IT IS TIME... We watch SHREK 2 !!!!",
-      "published": "2024-09-13T13:29:15Z",
+      "published": "2024-09-13T08:13:07Z",
       "thumbnail": "https://i.ytimg.com/vi/N-v4cCUhXJY/maxresdefault.jpg",
       "type": "member",
-      "duration": 8556
+      "duration": 8556,
+      "status": "past",
+      "scheduledStart": "2024-09-13T11:00:00Z"
     },
     {
       "id": "Q_ooCTjNhfo",
@@ -3280,7 +4059,9 @@
       "published": "2024-09-12T14:51:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Q_ooCTjNhfo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13167
+      "duration": 13167,
+      "status": "past",
+      "scheduledStart": "2024-09-12T11:00:00Z"
     },
     {
       "id": "3ul0pZH00iI",
@@ -3288,7 +4069,9 @@
       "published": "2024-09-11T14:44:39Z",
       "thumbnail": "https://i.ytimg.com/vi/3ul0pZH00iI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12539
+      "duration": 12539,
+      "status": "past",
+      "scheduledStart": "2024-09-11T11:00:00Z"
     },
     {
       "id": "jioNoWhXZN4",
@@ -3296,7 +4079,9 @@
       "published": "2024-09-10T14:14:31Z",
       "thumbnail": "https://i.ytimg.com/vi/jioNoWhXZN4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10937
+      "duration": 10937,
+      "status": "past",
+      "scheduledStart": "2024-09-10T11:00:00Z"
     },
     {
       "id": "yy9O5fQpkNM",
@@ -3304,7 +4089,9 @@
       "published": "2024-09-09T14:11:59Z",
       "thumbnail": "https://i.ytimg.com/vi/yy9O5fQpkNM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11005
+      "duration": 11005,
+      "status": "past",
+      "scheduledStart": "2024-09-09T11:00:00Z"
     },
     {
       "id": "pqqhKj6Sh-E",
@@ -3312,7 +4099,9 @@
       "published": "2024-09-09T14:01:28Z",
       "thumbnail": "https://i.ytimg.com/vi/pqqhKj6Sh-E/maxresdefault.jpg",
       "type": "video",
-      "duration": 245
+      "duration": 245,
+      "status": "past",
+      "scheduledStart": "2024-09-09T14:00:00Z"
     },
     {
       "id": "t_An7qrILm4",
@@ -3320,7 +4109,9 @@
       "published": "2024-09-08T15:25:24Z",
       "thumbnail": "https://i.ytimg.com/vi/t_An7qrILm4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14956
+      "duration": 14956,
+      "status": "past",
+      "scheduledStart": "2024-09-08T11:00:00Z"
     },
     {
       "id": "Gou89O6CzmY",
@@ -3328,7 +4119,9 @@
       "published": "2024-09-08T04:08:31Z",
       "thumbnail": "https://i.ytimg.com/vi/Gou89O6CzmY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10153
+      "duration": 10153,
+      "status": "past",
+      "scheduledStart": "2024-09-08T01:00:00Z"
     },
     {
       "id": "jsuNWwlvHW0",
@@ -3336,7 +4129,9 @@
       "published": "2024-09-07T10:54:19Z",
       "thumbnail": "https://i.ytimg.com/vi/jsuNWwlvHW0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6209
+      "duration": 6209,
+      "status": "past",
+      "scheduledStart": "2024-09-07T09:00:00Z"
     },
     {
       "id": "Rd0awHHBTiA",
@@ -3344,7 +4139,9 @@
       "published": "2024-09-07T04:37:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Rd0awHHBTiA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12538
+      "duration": 12538,
+      "status": "past",
+      "scheduledStart": "2024-09-07T01:00:00Z"
     },
     {
       "id": "laEINkg6W0I",
@@ -3352,7 +4149,9 @@
       "published": "2024-09-06T13:41:33Z",
       "thumbnail": "https://i.ytimg.com/vi/laEINkg6W0I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9020
+      "duration": 9020,
+      "status": "past",
+      "scheduledStart": "2024-09-06T11:00:00Z"
     },
     {
       "id": "xT6ChmC6CfU",
@@ -3360,7 +4159,9 @@
       "published": "2024-09-05T04:39:05Z",
       "thumbnail": "https://i.ytimg.com/vi/xT6ChmC6CfU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12225
+      "duration": 12225,
+      "status": "past",
+      "scheduledStart": "2024-09-05T01:00:00Z"
     },
     {
       "id": "76ieUZnZ_pY",
@@ -3368,7 +4169,9 @@
       "published": "2024-09-04T15:47:31Z",
       "thumbnail": "https://i.ytimg.com/vi/76ieUZnZ_pY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9257
+      "duration": 9257,
+      "status": "past",
+      "scheduledStart": "2024-09-04T13:00:00Z"
     },
     {
       "id": "Y0H168Iq8aY",
@@ -3376,7 +4179,9 @@
       "published": "2024-09-04T07:08:44Z",
       "thumbnail": "https://i.ytimg.com/vi/Y0H168Iq8aY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 24765
+      "duration": 24765,
+      "status": "past",
+      "scheduledStart": "2024-09-04T00:00:00Z"
     },
     {
       "id": "6VtHPTU1FB8",
@@ -3384,7 +4189,9 @@
       "published": "2024-09-03T09:28:38Z",
       "thumbnail": "https://i.ytimg.com/vi/6VtHPTU1FB8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 29176
+      "duration": 29176,
+      "status": "past",
+      "scheduledStart": "2024-09-03T01:00:00Z"
     },
     {
       "id": "qDhyA4-79ko",
@@ -3392,7 +4199,9 @@
       "published": "2024-09-02T05:13:47Z",
       "thumbnail": "https://i.ytimg.com/vi/qDhyA4-79ko/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11010
+      "duration": 11010,
+      "status": "past",
+      "scheduledStart": "2024-09-02T02:00:00Z"
     },
     {
       "id": "8ybUOw9NhMc",
@@ -3400,7 +4209,9 @@
       "published": "2024-09-01T07:39:55Z",
       "thumbnail": "https://i.ytimg.com/vi/8ybUOw9NhMc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18224
+      "duration": 18224,
+      "status": "past",
+      "scheduledStart": "2024-09-01T02:00:00Z"
     },
     {
       "id": "Tl2LYImSALQ",
@@ -3408,7 +4219,9 @@
       "published": "2024-08-31T22:10:56Z",
       "thumbnail": "https://i.ytimg.com/vi/Tl2LYImSALQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 30978
+      "duration": 30978,
+      "status": "past",
+      "scheduledStart": "2024-08-31T13:05:00Z"
     },
     {
       "id": "nttwU_cbTTE",
@@ -3416,7 +4229,9 @@
       "published": "2024-08-31T13:13:55Z",
       "thumbnail": "https://i.ytimg.com/vi/nttwU_cbTTE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7387
+      "duration": 7387,
+      "status": "past",
+      "scheduledStart": "2024-08-31T11:00:00Z"
     },
     {
       "id": "k8aq34D4QyY",
@@ -3424,7 +4239,9 @@
       "published": "2024-08-28T11:13:34Z",
       "thumbnail": "https://i.ytimg.com/vi/k8aq34D4QyY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7067
+      "duration": 7067,
+      "status": "past",
+      "scheduledStart": "2024-08-28T09:00:00Z"
     },
     {
       "id": "R_BcHBuqjnE",
@@ -3432,7 +4249,9 @@
       "published": "2024-08-27T16:41:37Z",
       "thumbnail": "https://i.ytimg.com/vi/R_BcHBuqjnE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15569
+      "duration": 15569,
+      "status": "past",
+      "scheduledStart": "2024-08-27T12:00:00Z"
     },
     {
       "id": "43aoYlPUbg8",
@@ -3440,7 +4259,9 @@
       "published": "2024-08-26T16:15:26Z",
       "thumbnail": "https://i.ytimg.com/vi/43aoYlPUbg8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14250
+      "duration": 14250,
+      "status": "past",
+      "scheduledStart": "2024-08-26T12:00:00Z"
     },
     {
       "id": "G7o1oj2IEHQ",
@@ -3448,7 +4269,9 @@
       "published": "2024-08-25T00:56:19Z",
       "thumbnail": "https://i.ytimg.com/vi/G7o1oj2IEHQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11378
+      "duration": 11378,
+      "status": "past",
+      "scheduledStart": "2024-08-24T21:30:00Z"
     },
     {
       "id": "CbSq-Pdmsx8",
@@ -3456,7 +4279,9 @@
       "published": "2024-08-23T21:47:04Z",
       "thumbnail": "https://i.ytimg.com/vi/CbSq-Pdmsx8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9066
+      "duration": 9066,
+      "status": "past",
+      "scheduledStart": "2024-08-23T19:00:00Z"
     },
     {
       "id": "EeLk1olaabQ",
@@ -3464,15 +4289,19 @@
       "published": "2024-08-21T16:00:44Z",
       "thumbnail": "https://i.ytimg.com/vi/EeLk1olaabQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6406
+      "duration": 6406,
+      "status": "past",
+      "scheduledStart": "2024-08-21T14:00:00Z"
     },
     {
       "id": "jQMMxdUxuxU",
       "title": "【MEMBERS ONLY!】Chattiniii! Let's draw new emotes for youu!! 💙",
-      "published": "2024-08-20T23:32:02Z",
+      "published": "2024-08-20T07:25:55Z",
       "thumbnail": "https://i.ytimg.com/vi/jQMMxdUxuxU/maxresdefault.jpg",
       "type": "member",
-      "duration": 12125
+      "duration": 12125,
+      "status": "past",
+      "scheduledStart": "2024-08-20T20:00:00Z"
     },
     {
       "id": "__G4poODqZY",
@@ -3480,7 +4309,9 @@
       "published": "2024-08-18T15:13:39Z",
       "thumbnail": "https://i.ytimg.com/vi/__G4poODqZY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10937
+      "duration": 10937,
+      "status": "past",
+      "scheduledStart": "2024-08-18T12:00:00Z"
     },
     {
       "id": "60VMmVryBk4",
@@ -3488,7 +4319,9 @@
       "published": "2024-08-17T15:41:51Z",
       "thumbnail": "https://i.ytimg.com/vi/60VMmVryBk4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12347
+      "duration": 12347,
+      "status": "past",
+      "scheduledStart": "2024-08-17T12:00:00Z"
     },
     {
       "id": "gnLMWFZ2YZA",
@@ -3496,7 +4329,9 @@
       "published": "2024-08-17T01:14:10Z",
       "thumbnail": "https://i.ytimg.com/vi/gnLMWFZ2YZA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10957
+      "duration": 10957,
+      "status": "past",
+      "scheduledStart": "2024-08-16T22:00:00Z"
     },
     {
       "id": "Q7SyO8k462w",
@@ -3504,7 +4339,9 @@
       "published": "2024-08-16T14:25:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Q7SyO8k462w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8016
+      "duration": 8016,
+      "status": "past",
+      "scheduledStart": "2024-08-16T12:00:00Z"
     },
     {
       "id": "5qBqJbjnZvc",
@@ -3512,15 +4349,19 @@
       "published": "2024-08-16T01:31:50Z",
       "thumbnail": "https://i.ytimg.com/vi/5qBqJbjnZvc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12080
+      "duration": 12080,
+      "status": "past",
+      "scheduledStart": "2024-08-15T22:00:00Z"
     },
     {
       "id": "P5-Rc-cE1us",
       "title": "【MEMBERS WATCHALONG】IT IS TIME... WE WATCH SHREK!!!!",
-      "published": "2024-08-14T13:11:21Z",
+      "published": "2024-08-13T22:44:00Z",
       "thumbnail": "https://i.ytimg.com/vi/P5-Rc-cE1us/maxresdefault.jpg",
       "type": "member",
-      "duration": 6931
+      "duration": 6931,
+      "status": "past",
+      "scheduledStart": "2024-08-14T11:00:00Z"
     },
     {
       "id": "6P8Qi4XXgWs",
@@ -3528,7 +4369,9 @@
       "published": "2024-08-13T13:42:53Z",
       "thumbnail": "https://i.ytimg.com/vi/6P8Qi4XXgWs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9110
+      "duration": 9110,
+      "status": "past",
+      "scheduledStart": "2024-08-13T11:00:00Z"
     },
     {
       "id": "fT_sXGqD8XA",
@@ -3536,7 +4379,9 @@
       "published": "2024-08-09T13:20:08Z",
       "thumbnail": "https://i.ytimg.com/vi/fT_sXGqD8XA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7809
+      "duration": 7809,
+      "status": "past",
+      "scheduledStart": "2024-08-09T11:00:00Z"
     },
     {
       "id": "iUFpUH20b4c",
@@ -3544,7 +4389,9 @@
       "published": "2024-08-08T13:52:28Z",
       "thumbnail": "https://i.ytimg.com/vi/iUFpUH20b4c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9729
+      "duration": 9729,
+      "status": "past",
+      "scheduledStart": "2024-08-08T11:00:00Z"
     },
     {
       "id": "BJ4S_DwKHco",
@@ -3552,7 +4399,9 @@
       "published": "2024-08-07T13:54:14Z",
       "thumbnail": "https://i.ytimg.com/vi/BJ4S_DwKHco/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9874
+      "duration": 9874,
+      "status": "past",
+      "scheduledStart": "2024-08-07T11:00:00Z"
     },
     {
       "id": "Prumn61dLd8",
@@ -3560,7 +4409,9 @@
       "published": "2024-08-06T22:51:26Z",
       "thumbnail": "https://i.ytimg.com/vi/Prumn61dLd8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7108
+      "duration": 7108,
+      "status": "past",
+      "scheduledStart": "2024-08-06T20:05:00Z"
     },
     {
       "id": "mqRbtAqy84E",
@@ -3568,15 +4419,19 @@
       "published": "2024-08-06T18:01:06Z",
       "thumbnail": "https://i.ytimg.com/vi/mqRbtAqy84E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17044
+      "duration": 17044,
+      "status": "past",
+      "scheduledStart": "2024-08-06T13:00:00Z"
     },
     {
       "id": "ySCwfy0W60M",
       "title": "【MEMBERS ONLY】 Art Practice and Yapping! RRRAAOOOO!",
-      "published": "2024-08-06T04:26:30Z",
+      "published": "2024-08-05T21:16:40Z",
       "thumbnail": "https://i.ytimg.com/vi/ySCwfy0W60M/maxresdefault.jpg",
       "type": "member",
-      "duration": 8203
+      "duration": 8203,
+      "status": "past",
+      "scheduledStart": "2024-08-06T02:00:00Z"
     },
     {
       "id": "Ss7T-7tH8Zk",
@@ -3584,7 +4439,9 @@
       "published": "2024-08-04T15:22:30Z",
       "thumbnail": "https://i.ytimg.com/vi/Ss7T-7tH8Zk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14829
+      "duration": 14829,
+      "status": "past",
+      "scheduledStart": "2024-08-04T11:00:00Z"
     },
     {
       "id": "AP3DkZX8xjw",
@@ -3592,7 +4449,9 @@
       "published": "2024-08-03T15:37:24Z",
       "thumbnail": "https://i.ytimg.com/vi/AP3DkZX8xjw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15466
+      "duration": 15466,
+      "status": "past",
+      "scheduledStart": "2024-08-03T11:00:00Z"
     },
     {
       "id": "XBZ3xkB2wpc",
@@ -3600,15 +4459,19 @@
       "published": "2024-08-03T00:17:41Z",
       "thumbnail": "https://i.ytimg.com/vi/XBZ3xkB2wpc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16056
+      "duration": 16056,
+      "status": "past",
+      "scheduledStart": "2024-08-02T11:00:00Z"
     },
     {
       "id": "_rA0Tu2mkXo",
       "title": "【MEMBERSHIPS WATCHALONG】Let' watch Train To Busan together!",
-      "published": "2024-08-01T17:51:34Z",
+      "published": "2024-08-01T06:52:02Z",
       "thumbnail": "https://i.ytimg.com/vi/_rA0Tu2mkXo/maxresdefault.jpg",
       "type": "member",
-      "duration": 9812
+      "duration": 9812,
+      "status": "past",
+      "scheduledStart": "2024-08-01T15:00:00Z"
     },
     {
       "id": "Bvuob9ddFwM",
@@ -3616,7 +4479,9 @@
       "published": "2024-08-01T06:15:15Z",
       "thumbnail": "https://i.ytimg.com/vi/Bvuob9ddFwM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14533
+      "duration": 14533,
+      "status": "past",
+      "scheduledStart": "2024-08-01T02:00:00Z"
     },
     {
       "id": "zwqjK7QHkzc",
@@ -3624,7 +4489,9 @@
       "published": "2024-07-31T07:49:30Z",
       "thumbnail": "https://i.ytimg.com/vi/zwqjK7QHkzc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9565
+      "duration": 9565,
+      "status": "past",
+      "scheduledStart": "2024-07-31T05:00:00Z"
     },
     {
       "id": "I0XwJAQi01A",
@@ -3632,7 +4499,9 @@
       "published": "2024-07-30T15:49:14Z",
       "thumbnail": "https://i.ytimg.com/vi/I0XwJAQi01A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7046
+      "duration": 7046,
+      "status": "past",
+      "scheduledStart": "2024-07-30T12:00:00Z"
     },
     {
       "id": "EIsfcG6lRGY",
@@ -3640,7 +4509,9 @@
       "published": "2024-07-30T07:26:27Z",
       "thumbnail": "https://i.ytimg.com/vi/EIsfcG6lRGY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18505
+      "duration": 18505,
+      "status": "past",
+      "scheduledStart": "2024-07-30T02:00:00Z"
     },
     {
       "id": "oJaHioW-zS4",
@@ -3648,7 +4519,9 @@
       "published": "2024-07-28T14:14:17Z",
       "thumbnail": "https://i.ytimg.com/vi/oJaHioW-zS4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13798
+      "duration": 13798,
+      "status": "past",
+      "scheduledStart": "2024-07-28T10:00:00Z"
     },
     {
       "id": "GVqngdb-OX0",
@@ -3656,7 +4529,9 @@
       "published": "2024-07-27T13:20:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GVqngdb-OX0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11066
+      "duration": 11066,
+      "status": "past",
+      "scheduledStart": "2024-07-27T10:00:00Z"
     },
     {
       "id": "VVWdtcxYKlI",
@@ -3664,7 +4539,9 @@
       "published": "2024-07-26T15:53:41Z",
       "thumbnail": "https://i.ytimg.com/vi/VVWdtcxYKlI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16391
+      "duration": 16391,
+      "status": "past",
+      "scheduledStart": "2024-07-26T11:00:00Z"
     },
     {
       "id": "VaTmVpKoMsQ",
@@ -3672,15 +4549,9 @@
       "published": "2024-07-25T05:45:37Z",
       "thumbnail": "https://i.ytimg.com/vi/VaTmVpKoMsQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12740
-    },
-    {
-      "id": "9WULVWV746s",
-      "title": "【Members Only Watchalong】Let's watch NOPE together!!!🩷",
-      "published": "2024-07-24T04:56:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/9WULVWV746s/maxresdefault.jpg",
-      "type": "member",
-      "duration": 10094
+      "duration": 12740,
+      "status": "past",
+      "scheduledStart": "2024-07-25T02:00:00Z"
     },
     {
       "id": "JP7IBW6HAlA",
@@ -3688,7 +4559,19 @@
       "published": "2024-07-23T13:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/JP7IBW6HAlA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9809
+      "duration": 9809,
+      "status": "past",
+      "scheduledStart": "2024-07-23T11:00:00Z"
+    },
+    {
+      "id": "9WULVWV746s",
+      "title": "【Members Only Watchalong】Let's watch NOPE together!!!🩷",
+      "published": "2024-07-23T08:41:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/9WULVWV746s/maxresdefault.jpg",
+      "type": "member",
+      "duration": 10094,
+      "status": "past",
+      "scheduledStart": "2024-07-24T02:00:00Z"
     },
     {
       "id": "MlYWNtcpP-4",
@@ -3696,7 +4579,9 @@
       "published": "2024-07-22T18:48:05Z",
       "thumbnail": "https://i.ytimg.com/vi/MlYWNtcpP-4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9674
+      "duration": 9674,
+      "status": "past",
+      "scheduledStart": "2024-07-22T16:00:00Z"
     },
     {
       "id": "WGfYZT_kXIY",
@@ -3704,7 +4589,9 @@
       "published": "2024-07-22T14:48:25Z",
       "thumbnail": "https://i.ytimg.com/vi/WGfYZT_kXIY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12925
+      "duration": 12925,
+      "status": "past",
+      "scheduledStart": "2024-07-22T11:00:00Z"
     },
     {
       "id": "hjki89CEn4w",
@@ -3712,7 +4599,9 @@
       "published": "2024-07-21T06:45:29Z",
       "thumbnail": "https://i.ytimg.com/vi/hjki89CEn4w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16141
+      "duration": 16141,
+      "status": "past",
+      "scheduledStart": "2024-07-21T02:00:00Z"
     },
     {
       "id": "ofecleyQi9o",
@@ -3720,7 +4609,9 @@
       "published": "2024-07-20T16:02:52Z",
       "thumbnail": "https://i.ytimg.com/vi/ofecleyQi9o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17353
+      "duration": 17353,
+      "status": "past",
+      "scheduledStart": "2024-07-20T11:00:00Z"
     },
     {
       "id": "OxT4MCQoDRA",
@@ -3728,7 +4619,9 @@
       "published": "2024-07-19T19:41:53Z",
       "thumbnail": "https://i.ytimg.com/vi/OxT4MCQoDRA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 29786
+      "duration": 29786,
+      "status": "past",
+      "scheduledStart": "2024-07-19T11:00:00Z"
     },
     {
       "id": "z7SjouyS7hI",
@@ -3736,7 +4629,9 @@
       "published": "2024-07-19T04:28:33Z",
       "thumbnail": "https://i.ytimg.com/vi/z7SjouyS7hI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7336
+      "duration": 7336,
+      "status": "past",
+      "scheduledStart": "2024-07-19T02:00:00Z"
     },
     {
       "id": "JUjYG44-9tY",
@@ -3744,7 +4639,9 @@
       "published": "2024-07-18T15:37:54Z",
       "thumbnail": "https://i.ytimg.com/vi/JUjYG44-9tY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15580
+      "duration": 15580,
+      "status": "past",
+      "scheduledStart": "2024-07-18T11:00:00Z"
     },
     {
       "id": "6hcRj7Vnqhg",
@@ -3752,7 +4649,9 @@
       "published": "2024-07-18T04:56:05Z",
       "thumbnail": "https://i.ytimg.com/vi/6hcRj7Vnqhg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9847
+      "duration": 9847,
+      "status": "past",
+      "scheduledStart": "2024-07-18T02:00:00Z"
     },
     {
       "id": "BWj6JJ4IbKA",
@@ -3760,7 +4659,9 @@
       "published": "2024-07-17T14:31:51Z",
       "thumbnail": "https://i.ytimg.com/vi/BWj6JJ4IbKA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11887
+      "duration": 11887,
+      "status": "past",
+      "scheduledStart": "2024-07-17T11:00:00Z"
     },
     {
       "id": "EAA8mZa1gTk",
@@ -3768,7 +4669,9 @@
       "published": "2024-07-16T13:30:38Z",
       "thumbnail": "https://i.ytimg.com/vi/EAA8mZa1gTk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8374
+      "duration": 8374,
+      "status": "past",
+      "scheduledStart": "2024-07-16T11:00:00Z"
     },
     {
       "id": "5qmMEr3Pa3w",
@@ -3776,7 +4679,9 @@
       "published": "2024-07-15T15:23:23Z",
       "thumbnail": "https://i.ytimg.com/vi/5qmMEr3Pa3w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14938
+      "duration": 14938,
+      "status": "past",
+      "scheduledStart": "2024-07-15T11:00:00Z"
     },
     {
       "id": "fNWs8srydow",
@@ -3784,7 +4689,9 @@
       "published": "2024-07-14T12:41:16Z",
       "thumbnail": "https://i.ytimg.com/vi/fNWs8srydow/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12608
+      "duration": 12608,
+      "status": "past",
+      "scheduledStart": "2024-07-14T09:00:00Z"
     },
     {
       "id": "5nHRPAPkags",
@@ -3792,7 +4699,9 @@
       "published": "2024-07-13T05:09:27Z",
       "thumbnail": "https://i.ytimg.com/vi/5nHRPAPkags/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10615
+      "duration": 10615,
+      "status": "past",
+      "scheduledStart": "2024-07-13T02:00:00Z"
     },
     {
       "id": "LTBfVnJgE_Y",
@@ -3800,7 +4709,9 @@
       "published": "2024-07-11T16:04:28Z",
       "thumbnail": "https://i.ytimg.com/vi/LTBfVnJgE_Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6965
+      "duration": 6965,
+      "status": "past",
+      "scheduledStart": "2024-07-11T14:00:00Z"
     },
     {
       "id": "Juj2D9ppFK4",
@@ -3808,7 +4719,9 @@
       "published": "2024-07-11T13:19:47Z",
       "thumbnail": "https://i.ytimg.com/vi/Juj2D9ppFK4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7865
+      "duration": 7865,
+      "status": "past",
+      "scheduledStart": "2024-07-11T11:00:00Z"
     },
     {
       "id": "p7w1QN_K9Ng",
@@ -3816,7 +4729,9 @@
       "published": "2024-07-10T13:29:58Z",
       "thumbnail": "https://i.ytimg.com/vi/p7w1QN_K9Ng/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8367
+      "duration": 8367,
+      "status": "past",
+      "scheduledStart": "2024-07-10T11:00:00Z"
     },
     {
       "id": "cRK3_lH-7h0",
@@ -3824,7 +4739,9 @@
       "published": "2024-07-09T07:04:46Z",
       "thumbnail": "https://i.ytimg.com/vi/cRK3_lH-7h0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10331
+      "duration": 10331,
+      "status": "past",
+      "scheduledStart": "2024-07-09T04:00:00Z"
     },
     {
       "id": "Ytf9JK9roRs",
@@ -3832,7 +4749,9 @@
       "published": "2024-07-08T14:54:06Z",
       "thumbnail": "https://i.ytimg.com/vi/Ytf9JK9roRs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13373
+      "duration": 13373,
+      "status": "past",
+      "scheduledStart": "2024-07-08T11:00:00Z"
     },
     {
       "id": "DlJcWdiMREQ",
@@ -3840,7 +4759,9 @@
       "published": "2024-07-07T20:09:50Z",
       "thumbnail": "https://i.ytimg.com/vi/DlJcWdiMREQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1988
+      "duration": 1988,
+      "status": "past",
+      "scheduledStart": "2024-07-07T19:30:00Z"
     },
     {
       "id": "AWS8R-bx_qI",
@@ -3848,7 +4769,9 @@
       "published": "2024-07-07T14:21:08Z",
       "thumbnail": "https://i.ytimg.com/vi/AWS8R-bx_qI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11288
+      "duration": 11288,
+      "status": "past",
+      "scheduledStart": "2024-07-07T11:00:00Z"
     },
     {
       "id": "_M9TDEC0rOE",
@@ -3856,7 +4779,9 @@
       "published": "2024-07-06T16:37:56Z",
       "thumbnail": "https://i.ytimg.com/vi/_M9TDEC0rOE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19082
+      "duration": 19082,
+      "status": "past",
+      "scheduledStart": "2024-07-06T11:00:00Z"
     },
     {
       "id": "As5hqLixNCg",
@@ -3864,7 +4789,9 @@
       "published": "2024-07-05T16:36:22Z",
       "thumbnail": "https://i.ytimg.com/vi/As5hqLixNCg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12077
+      "duration": 12077,
+      "status": "past",
+      "scheduledStart": "2024-07-05T11:10:00Z"
     },
     {
       "id": "BN__anvXpFI",
@@ -3872,7 +4799,9 @@
       "published": "2024-07-05T02:26:52Z",
       "thumbnail": "https://i.ytimg.com/vi/BN__anvXpFI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4505
+      "duration": 4505,
+      "status": "past",
+      "scheduledStart": "2024-07-05T01:00:00Z"
     },
     {
       "id": "cVdFlcfBnuI",
@@ -3880,7 +4809,9 @@
       "published": "2024-07-04T14:43:19Z",
       "thumbnail": "https://i.ytimg.com/vi/cVdFlcfBnuI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12171
+      "duration": 12171,
+      "status": "past",
+      "scheduledStart": "2024-07-04T11:00:00Z"
     },
     {
       "id": "DcD0kbllncg",
@@ -3888,7 +4819,9 @@
       "published": "2024-07-03T14:58:20Z",
       "thumbnail": "https://i.ytimg.com/vi/DcD0kbllncg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13495
+      "duration": 13495,
+      "status": "past",
+      "scheduledStart": "2024-07-03T11:00:00Z"
     },
     {
       "id": "MkGVOKWvZpE",
@@ -3896,7 +4829,9 @@
       "published": "2024-07-02T13:38:38Z",
       "thumbnail": "https://i.ytimg.com/vi/MkGVOKWvZpE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8902
+      "duration": 8902,
+      "status": "past",
+      "scheduledStart": "2024-07-02T11:00:00Z"
     },
     {
       "id": "VfxI99eZIz4",
@@ -3904,7 +4839,9 @@
       "published": "2024-07-01T14:14:43Z",
       "thumbnail": "https://i.ytimg.com/vi/VfxI99eZIz4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10848
+      "duration": 10848,
+      "status": "past",
+      "scheduledStart": "2024-07-01T11:00:00Z"
     },
     {
       "id": "PTtW-ETL_Xc",
@@ -3912,7 +4849,9 @@
       "published": "2024-06-30T15:39:29Z",
       "thumbnail": "https://i.ytimg.com/vi/PTtW-ETL_Xc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15470
+      "duration": 15470,
+      "status": "past",
+      "scheduledStart": "2024-06-30T11:00:00Z"
     },
     {
       "id": "CTpt9rJSJrc",
@@ -3920,7 +4859,9 @@
       "published": "2024-06-29T13:49:20Z",
       "thumbnail": "https://i.ytimg.com/vi/CTpt9rJSJrc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9491
+      "duration": 9491,
+      "status": "past",
+      "scheduledStart": "2024-06-29T11:00:00Z"
     },
     {
       "id": "RjdbQ_mU1qM",
@@ -3928,7 +4869,9 @@
       "published": "2024-06-28T20:19:57Z",
       "thumbnail": "https://i.ytimg.com/vi/RjdbQ_mU1qM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7973
+      "duration": 7973,
+      "status": "past",
+      "scheduledStart": "2024-06-28T18:00:00Z"
     },
     {
       "id": "x20nJw8QilU",
@@ -3936,7 +4879,9 @@
       "published": "2024-06-28T15:26:09Z",
       "thumbnail": "https://i.ytimg.com/vi/x20nJw8QilU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15023
+      "duration": 15023,
+      "status": "past",
+      "scheduledStart": "2024-06-28T11:00:00Z"
     },
     {
       "id": "_LkbcEcJYzI",
@@ -3944,7 +4889,9 @@
       "published": "2024-06-27T13:21:47Z",
       "thumbnail": "https://i.ytimg.com/vi/_LkbcEcJYzI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7882
+      "duration": 7882,
+      "status": "past",
+      "scheduledStart": "2024-06-27T11:00:00Z"
     },
     {
       "id": "F_NfN-M3_k4",
@@ -3952,7 +4899,9 @@
       "published": "2024-06-26T13:51:27Z",
       "thumbnail": "https://i.ytimg.com/vi/F_NfN-M3_k4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9608
+      "duration": 9608,
+      "status": "past",
+      "scheduledStart": "2024-06-26T11:00:00Z"
     },
     {
       "id": "UTti5QB8VgY",
@@ -3960,7 +4909,9 @@
       "published": "2024-06-25T15:33:20Z",
       "thumbnail": "https://i.ytimg.com/vi/UTti5QB8VgY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15346
+      "duration": 15346,
+      "status": "past",
+      "scheduledStart": "2024-06-25T11:00:00Z"
     },
     {
       "id": "7PRppexCARQ",
@@ -3968,7 +4919,9 @@
       "published": "2024-06-24T13:49:52Z",
       "thumbnail": "https://i.ytimg.com/vi/7PRppexCARQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9383
+      "duration": 9383,
+      "status": "past",
+      "scheduledStart": "2024-06-24T11:00:00Z"
     },
     {
       "id": "Ze00tlwTQRc",
@@ -3976,7 +4929,9 @@
       "published": "2024-06-23T14:06:12Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze00tlwTQRc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10494
+      "duration": 10494,
+      "status": "past",
+      "scheduledStart": "2024-06-23T11:00:00Z"
     },
     {
       "id": "JW7j8tKMOfY",
@@ -3984,7 +4939,9 @@
       "published": "2024-06-23T04:28:21Z",
       "thumbnail": "https://i.ytimg.com/vi/JW7j8tKMOfY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2533
+      "duration": 2533,
+      "status": "past",
+      "scheduledStart": "2024-06-23T03:45:00Z"
     },
     {
       "id": "UwIhbV_wuKI",
@@ -3992,7 +4949,9 @@
       "published": "2024-06-23T04:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/UwIhbV_wuKI/maxresdefault.jpg",
       "type": "video",
-      "duration": 207
+      "duration": 207,
+      "status": "past",
+      "scheduledStart": "2024-06-23T04:25:00Z"
     },
     {
       "id": "fUBXSyXulOs",
@@ -4000,7 +4959,8 @@
       "published": "2024-06-20T15:00:39Z",
       "thumbnail": "https://i.ytimg.com/vi/fUBXSyXulOs/maxresdefault.jpg",
       "type": "short",
-      "duration": 19
+      "duration": 19,
+      "status": "past"
     },
     {
       "id": "n4oH-SK2Sho",
@@ -4008,7 +4968,8 @@
       "published": "2024-06-19T04:33:45Z",
       "thumbnail": "https://i.ytimg.com/vi/n4oH-SK2Sho/maxresdefault.jpg",
       "type": "video",
-      "duration": 38
+      "duration": 38,
+      "status": "past"
     }
   ]
 }

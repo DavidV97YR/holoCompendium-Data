@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
     "bannerUrl": "https://yt3.googleusercontent.com/wkioFy6NFpeZJi6LkB521yFmJxPhvUvunQyVLkGJqXszKiffPUtfeICzg0ZPxOI_NTHVBdH2dxc=s0"
   },
-  "lastUpdated": "2026-06-20T15:57:55.410Z",
+  "lastUpdated": "2026-06-25T13:59:58.680Z",
   "videoCount": 305,
   "videos": [
     {
@@ -16,7 +16,9 @@
       "published": "2026-06-18T22:13:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Y8Vni2s3epM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7616
+      "duration": 7616,
+      "status": "past",
+      "scheduledStart": "2026-06-18T20:00:00Z"
     },
     {
       "id": "cRRFdgxCOgg",
@@ -24,7 +26,9 @@
       "published": "2026-06-14T22:19:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cRRFdgxCOgg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10433
+      "duration": 10433,
+      "status": "past",
+      "scheduledStart": "2026-06-14T19:00:00Z"
     },
     {
       "id": "5Yth4ePvmYI",
@@ -32,7 +36,8 @@
       "published": "2026-06-10T10:00:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5Yth4ePvmYI/maxresdefault.jpg",
       "type": "video",
-      "duration": 311
+      "duration": 311,
+      "status": "past"
     },
     {
       "id": "PBOXHzxl3oU",
@@ -40,7 +45,8 @@
       "published": "2026-06-04T10:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/PBOXHzxl3oU/maxresdefault.jpg",
       "type": "short",
-      "duration": 76
+      "duration": 76,
+      "status": "past"
     },
     {
       "id": "6HUbJshXMAI",
@@ -48,7 +54,9 @@
       "published": "2026-05-30T03:58:02Z",
       "thumbnail": "https://i.ytimg.com/vi/6HUbJshXMAI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10264
+      "duration": 10264,
+      "status": "past",
+      "scheduledStart": "2026-05-30T01:00:00Z"
     },
     {
       "id": "FzangfLML4E",
@@ -56,7 +64,9 @@
       "published": "2026-05-29T07:38:36Z",
       "thumbnail": "https://i.ytimg.com/vi/FzangfLML4E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8022
+      "duration": 8022,
+      "status": "past",
+      "scheduledStart": "2026-05-29T05:30:00Z"
     },
     {
       "id": "8J7aGAe42EE",
@@ -64,7 +74,9 @@
       "published": "2026-05-29T04:10:22Z",
       "thumbnail": "https://i.ytimg.com/vi/8J7aGAe42EE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10406
+      "duration": 10406,
+      "status": "past",
+      "scheduledStart": "2026-05-29T01:00:00Z"
     },
     {
       "id": "HEWSty8elxo",
@@ -72,7 +84,9 @@
       "published": "2026-05-28T05:33:38Z",
       "thumbnail": "https://i.ytimg.com/vi/HEWSty8elxo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15616
+      "duration": 15616,
+      "status": "past",
+      "scheduledStart": "2026-05-28T01:00:00Z"
     },
     {
       "id": "rg_rZ8reBVA",
@@ -80,7 +94,9 @@
       "published": "2026-05-27T05:03:50Z",
       "thumbnail": "https://i.ytimg.com/vi/rg_rZ8reBVA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14223
+      "duration": 14223,
+      "status": "past",
+      "scheduledStart": "2026-05-27T01:00:00Z"
     },
     {
       "id": "7SzxeEiLGFs",
@@ -88,7 +104,9 @@
       "published": "2026-05-26T05:30:05Z",
       "thumbnail": "https://i.ytimg.com/vi/7SzxeEiLGFs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15692
+      "duration": 15692,
+      "status": "past",
+      "scheduledStart": "2026-05-26T01:00:00Z"
     },
     {
       "id": "2rnclFeQ5EM",
@@ -96,7 +114,9 @@
       "published": "2026-05-25T05:27:39Z",
       "thumbnail": "https://i.ytimg.com/vi/2rnclFeQ5EM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12440
+      "duration": 12440,
+      "status": "past",
+      "scheduledStart": "2026-05-25T02:00:00Z"
     },
     {
       "id": "FyKuuCb_u1o",
@@ -104,7 +124,8 @@
       "published": "2026-05-23T22:30:21Z",
       "thumbnail": "https://i.ytimg.com/vi/FyKuuCb_u1o/maxresdefault.jpg",
       "type": "video",
-      "duration": 226
+      "duration": 226,
+      "status": "past"
     },
     {
       "id": "xylll7Mp0jk",
@@ -112,15 +133,8 @@
       "published": "2026-05-19T22:30:21Z",
       "thumbnail": "https://i.ytimg.com/vi/xylll7Mp0jk/maxresdefault.jpg",
       "type": "video",
-      "duration": 203
-    },
-    {
-      "id": "eK3LA4iFmR0",
-      "title": "【MEMBERSHIP】Back To The Future 3 Movie Watch-A-Long ~! 💄",
-      "published": "2026-05-17T23:56:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/eK3LA4iFmR0/maxresdefault.jpg",
-      "type": "member",
-      "duration": 11000
+      "duration": 203,
+      "status": "past"
     },
     {
       "id": "UKo8ixqRMZY",
@@ -128,7 +142,8 @@
       "published": "2026-05-16T23:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/UKo8ixqRMZY/maxresdefault.jpg",
       "type": "video",
-      "duration": 309
+      "duration": 309,
+      "status": "past"
     },
     {
       "id": "zp3vzw8xzWc",
@@ -136,7 +151,8 @@
       "published": "2026-05-14T19:00:51Z",
       "thumbnail": "https://i.ytimg.com/vi/zp3vzw8xzWc/maxresdefault.jpg",
       "type": "video",
-      "duration": 306
+      "duration": 306,
+      "status": "past"
     },
     {
       "id": "iwnHChZq0N8",
@@ -144,7 +160,8 @@
       "published": "2026-05-12T19:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/iwnHChZq0N8/maxresdefault.jpg",
       "type": "video",
-      "duration": 206
+      "duration": 206,
+      "status": "past"
     },
     {
       "id": "vGKcRSrLTuk",
@@ -152,15 +169,29 @@
       "published": "2026-05-11T01:48:05Z",
       "thumbnail": "https://i.ytimg.com/vi/vGKcRSrLTuk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10883
+      "duration": 10883,
+      "status": "past",
+      "scheduledStart": "2026-05-10T22:30:00Z"
+    },
+    {
+      "id": "eK3LA4iFmR0",
+      "title": "【MEMBERSHIP】Back To The Future 3 Movie Watch-A-Long ~! 💄",
+      "published": "2026-05-10T22:07:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/eK3LA4iFmR0/maxresdefault.jpg",
+      "type": "member",
+      "duration": 11000,
+      "status": "past",
+      "scheduledStart": "2026-05-17T19:00:00Z"
     },
     {
       "id": "Y7skhzyqviA",
       "title": "【MEMBERSHIP】Back To The Future 2 Movie Watch-A-Long ~! 💄",
-      "published": "2026-05-10T22:35:43Z",
+      "published": "2026-05-10T05:53:20Z",
       "thumbnail": "https://i.ytimg.com/vi/Y7skhzyqviA/maxresdefault.jpg",
       "type": "member",
-      "duration": 12271
+      "duration": 12271,
+      "status": "past",
+      "scheduledStart": "2026-05-10T19:00:00Z"
     },
     {
       "id": "LTPi3UtR7pw",
@@ -168,7 +199,9 @@
       "published": "2026-05-10T01:18:43Z",
       "thumbnail": "https://i.ytimg.com/vi/LTPi3UtR7pw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5599
+      "duration": 5599,
+      "status": "past",
+      "scheduledStart": "2026-05-09T23:15:00Z"
     },
     {
       "id": "bHp06fE210g",
@@ -176,7 +209,8 @@
       "published": "2026-05-09T19:00:35Z",
       "thumbnail": "https://i.ytimg.com/vi/bHp06fE210g/maxresdefault.jpg",
       "type": "video",
-      "duration": 179
+      "duration": 179,
+      "status": "past"
     },
     {
       "id": "-knzJF4pp1g",
@@ -184,7 +218,8 @@
       "published": "2026-05-07T19:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/-knzJF4pp1g/maxresdefault.jpg",
       "type": "video",
-      "duration": 287
+      "duration": 287,
+      "status": "past"
     },
     {
       "id": "z7NC9iRoW-E",
@@ -192,7 +227,8 @@
       "published": "2026-05-05T19:00:50Z",
       "thumbnail": "https://i.ytimg.com/vi/z7NC9iRoW-E/maxresdefault.jpg",
       "type": "video",
-      "duration": 190
+      "duration": 190,
+      "status": "past"
     },
     {
       "id": "Y9eiIQRNwNY",
@@ -200,7 +236,9 @@
       "published": "2026-05-05T03:22:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Y9eiIQRNwNY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19444
+      "duration": 19444,
+      "status": "past",
+      "scheduledStart": "2026-05-04T21:30:00Z"
     },
     {
       "id": "nQaLN5bJoiA",
@@ -208,7 +246,8 @@
       "published": "2026-05-01T00:31:47Z",
       "thumbnail": "https://i.ytimg.com/vi/nQaLN5bJoiA/maxresdefault.jpg",
       "type": "video",
-      "duration": 205
+      "duration": 205,
+      "status": "past"
     },
     {
       "id": "KW77gP3XvA4",
@@ -216,7 +255,9 @@
       "published": "2026-04-29T20:09:17Z",
       "thumbnail": "https://i.ytimg.com/vi/KW77gP3XvA4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2027-08-19T09:00:00Z"
     },
     {
       "id": "SmAwXFCHd5U",
@@ -224,7 +265,8 @@
       "published": "2026-04-29T03:41:33Z",
       "thumbnail": "https://i.ytimg.com/vi/SmAwXFCHd5U/maxresdefault.jpg",
       "type": "video",
-      "duration": 54
+      "duration": 54,
+      "status": "past"
     },
     {
       "id": "UbxwW-ZM6Os",
@@ -232,15 +274,9 @@
       "published": "2026-04-28T23:27:56Z",
       "thumbnail": "https://i.ytimg.com/vi/UbxwW-ZM6Os/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11981
-    },
-    {
-      "id": "dXQDhbOMlE0",
-      "title": "【MEMBERSHIP】ET Movie Watch-A-Long ~! 💄",
-      "published": "2026-04-26T21:01:33Z",
-      "thumbnail": "https://i.ytimg.com/vi/dXQDhbOMlE0/maxresdefault.jpg",
-      "type": "member",
-      "duration": 10176
+      "duration": 11981,
+      "status": "past",
+      "scheduledStart": "2026-04-28T20:00:00Z"
     },
     {
       "id": "PGppUhILuP4",
@@ -248,15 +284,9 @@
       "published": "2026-04-25T13:03:23Z",
       "thumbnail": "https://i.ytimg.com/vi/PGppUhILuP4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3485
-    },
-    {
-      "id": "d9KEUxYutCY",
-      "title": "【MEMBERSHIP】Dirty Dancing Movie Watch-A-Long ~! 💄",
-      "published": "2026-04-23T20:56:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/d9KEUxYutCY/maxresdefault.jpg",
-      "type": "member",
-      "duration": 8767
+      "duration": 3485,
+      "status": "past",
+      "scheduledStart": "2026-04-25T12:00:00Z"
     },
     {
       "id": "r-zBg7a1sFk",
@@ -264,15 +294,8 @@
       "published": "2026-04-22T19:22:28Z",
       "thumbnail": "https://i.ytimg.com/vi/r-zBg7a1sFk/maxresdefault.jpg",
       "type": "short",
-      "duration": 37
-    },
-    {
-      "id": "i43pR5GogAM",
-      "title": "【MEMBERSHIP】Back To The Future Movie Watch-A-Long ~! 💄",
-      "published": "2026-04-19T20:22:05Z",
-      "thumbnail": "https://i.ytimg.com/vi/i43pR5GogAM/maxresdefault.jpg",
-      "type": "member",
-      "duration": 7822
+      "duration": 37,
+      "status": "past"
     },
     {
       "id": "aMojzTRVbJM",
@@ -280,7 +303,9 @@
       "published": "2026-04-17T13:49:24Z",
       "thumbnail": "https://i.ytimg.com/vi/aMojzTRVbJM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6076
+      "duration": 6076,
+      "status": "past",
+      "scheduledStart": "2026-04-17T12:00:00Z"
     },
     {
       "id": "5p6i0GEob-A",
@@ -288,7 +313,9 @@
       "published": "2026-04-16T21:54:06Z",
       "thumbnail": "https://i.ytimg.com/vi/5p6i0GEob-A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9844
+      "duration": 9844,
+      "status": "past",
+      "scheduledStart": "2026-04-16T19:00:00Z"
     },
     {
       "id": "daYHapH3ozY",
@@ -296,15 +323,49 @@
       "published": "2026-04-15T20:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/daYHapH3ozY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8800
+      "duration": 8800,
+      "status": "past",
+      "scheduledStart": "2026-04-15T17:30:00Z"
+    },
+    {
+      "id": "dXQDhbOMlE0",
+      "title": "【MEMBERSHIP】ET Movie Watch-A-Long ~! 💄",
+      "published": "2026-04-12T02:32:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/dXQDhbOMlE0/maxresdefault.jpg",
+      "type": "member",
+      "duration": 10176,
+      "status": "past",
+      "scheduledStart": "2026-04-26T18:00:00Z"
+    },
+    {
+      "id": "d9KEUxYutCY",
+      "title": "【MEMBERSHIP】Dirty Dancing Movie Watch-A-Long ~! 💄",
+      "published": "2026-04-12T02:16:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/d9KEUxYutCY/maxresdefault.jpg",
+      "type": "member",
+      "duration": 8767,
+      "status": "past",
+      "scheduledStart": "2026-04-23T18:00:00Z"
+    },
+    {
+      "id": "i43pR5GogAM",
+      "title": "【MEMBERSHIP】Back To The Future Movie Watch-A-Long ~! 💄",
+      "published": "2026-04-12T02:07:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/i43pR5GogAM/maxresdefault.jpg",
+      "type": "member",
+      "duration": 7822,
+      "status": "past",
+      "scheduledStart": "2026-04-19T18:00:00Z"
     },
     {
       "id": "etC2mqaeH-k",
       "title": "【MEMBERSHIP】Footloose Movie Watch-A-Long ~! 💄",
-      "published": "2026-04-12T22:01:30Z",
+      "published": "2026-04-12T01:56:12Z",
       "thumbnail": "https://i.ytimg.com/vi/etC2mqaeH-k/maxresdefault.jpg",
       "type": "member",
-      "duration": 13858
+      "duration": 13858,
+      "status": "past",
+      "scheduledStart": "2026-04-12T18:00:00Z"
     },
     {
       "id": "cqYz-zwKU-8",
@@ -312,7 +373,8 @@
       "published": "2026-04-10T19:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/cqYz-zwKU-8/maxresdefault.jpg",
       "type": "video",
-      "duration": 1691
+      "duration": 1691,
+      "status": "past"
     },
     {
       "id": "YnSQiI-RBDg",
@@ -320,7 +382,9 @@
       "published": "2026-04-10T03:19:39Z",
       "thumbnail": "https://i.ytimg.com/vi/YnSQiI-RBDg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11341
+      "duration": 11341,
+      "status": "past",
+      "scheduledStart": "2026-04-10T00:00:00Z"
     },
     {
       "id": "_pv18gHgjQI",
@@ -328,15 +392,19 @@
       "published": "2026-03-17T22:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/_pv18gHgjQI/maxresdefault.jpg",
       "type": "video",
-      "duration": 229
+      "duration": 229,
+      "status": "past",
+      "scheduledStart": "2026-03-17T22:00:00Z"
     },
     {
       "id": "0c7EynclgP0",
       "title": "【MEMBERSHIP】Powerful Queen Makes Powerful Bags Of Treats whilst Yapping ~! 💄",
-      "published": "2026-03-02T00:12:52Z",
+      "published": "2026-03-01T20:46:07Z",
       "thumbnail": "https://i.ytimg.com/vi/0c7EynclgP0/maxresdefault.jpg",
       "type": "member",
-      "duration": 10585
+      "duration": 10585,
+      "status": "past",
+      "scheduledStart": "2026-03-01T21:00:00Z"
     },
     {
       "id": "sL8WXMMEiCw",
@@ -344,7 +412,9 @@
       "published": "2026-02-22T23:48:21Z",
       "thumbnail": "https://i.ytimg.com/vi/sL8WXMMEiCw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11231
+      "duration": 11231,
+      "status": "past",
+      "scheduledStart": "2026-02-22T20:30:00Z"
     },
     {
       "id": "LoqiPbgrAXw",
@@ -352,7 +422,9 @@
       "published": "2026-02-22T02:29:18Z",
       "thumbnail": "https://i.ytimg.com/vi/LoqiPbgrAXw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4831
+      "duration": 4831,
+      "status": "past",
+      "scheduledStart": "2026-02-22T01:00:00Z"
     },
     {
       "id": "bsq8YT5CbvI",
@@ -360,7 +432,9 @@
       "published": "2026-02-20T14:51:05Z",
       "thumbnail": "https://i.ytimg.com/vi/bsq8YT5CbvI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6112
+      "duration": 6112,
+      "status": "past",
+      "scheduledStart": "2026-02-20T13:00:00Z"
     },
     {
       "id": "mWDPEwpPUSQ",
@@ -368,7 +442,9 @@
       "published": "2026-02-19T22:41:09Z",
       "thumbnail": "https://i.ytimg.com/vi/mWDPEwpPUSQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7840
+      "duration": 7840,
+      "status": "past",
+      "scheduledStart": "2026-02-19T20:15:00Z"
     },
     {
       "id": "-hUG1YWM2O0",
@@ -376,7 +452,8 @@
       "published": "2026-02-17T20:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/-hUG1YWM2O0/maxresdefault.jpg",
       "type": "short",
-      "duration": 41
+      "duration": 41,
+      "status": "past"
     },
     {
       "id": "Vr754pOQzgA",
@@ -384,15 +461,19 @@
       "published": "2026-02-16T03:45:16Z",
       "thumbnail": "https://i.ytimg.com/vi/Vr754pOQzgA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6840
+      "duration": 6840,
+      "status": "past",
+      "scheduledStart": "2026-02-16T01:00:00Z"
     },
     {
       "id": "uP6eI3X5epM",
       "title": "【MEMBERSHIP】Austin Powers: 3rd Movie Watch-A-Long ~! 💄",
-      "published": "2026-02-15T23:30:12Z",
+      "published": "2026-02-15T16:52:53Z",
       "thumbnail": "https://i.ytimg.com/vi/uP6eI3X5epM/maxresdefault.jpg",
       "type": "member",
-      "duration": 14113
+      "duration": 14113,
+      "status": "past",
+      "scheduledStart": "2026-02-15T19:15:00Z"
     },
     {
       "id": "SArVaqhJwzM",
@@ -400,7 +481,9 @@
       "published": "2026-02-13T16:14:13Z",
       "thumbnail": "https://i.ytimg.com/vi/SArVaqhJwzM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9022
+      "duration": 9022,
+      "status": "past",
+      "scheduledStart": "2026-02-13T13:30:00Z"
     },
     {
       "id": "RXNzYh2Q6H0",
@@ -408,7 +491,9 @@
       "published": "2026-02-11T15:29:08Z",
       "thumbnail": "https://i.ytimg.com/vi/RXNzYh2Q6H0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7045
+      "duration": 7045,
+      "status": "past",
+      "scheduledStart": "2026-02-11T13:00:00Z"
     },
     {
       "id": "axNcbPe7Vok",
@@ -416,7 +501,8 @@
       "published": "2026-02-10T23:39:11Z",
       "thumbnail": "https://i.ytimg.com/vi/axNcbPe7Vok/maxresdefault.jpg",
       "type": "short",
-      "duration": 27
+      "duration": 27,
+      "status": "past"
     },
     {
       "id": "-k79d-oFtek",
@@ -424,15 +510,19 @@
       "published": "2026-02-10T00:08:19Z",
       "thumbnail": "https://i.ytimg.com/vi/-k79d-oFtek/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13876
+      "duration": 13876,
+      "status": "past",
+      "scheduledStart": "2026-02-09T20:00:00Z"
     },
     {
       "id": "34eON4hrK-4",
       "title": "【MEMBERSHIP】Austin Powers: 2nd Movie Watch-A-Long ~! 💄",
-      "published": "2026-02-08T23:32:31Z",
+      "published": "2026-02-08T00:05:34Z",
       "thumbnail": "https://i.ytimg.com/vi/34eON4hrK-4/maxresdefault.jpg",
       "type": "member",
-      "duration": 13799
+      "duration": 13799,
+      "status": "past",
+      "scheduledStart": "2026-02-08T19:00:00Z"
     },
     {
       "id": "AqpUtZAZex8",
@@ -440,7 +530,9 @@
       "published": "2026-02-05T23:14:28Z",
       "thumbnail": "https://i.ytimg.com/vi/AqpUtZAZex8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10855
+      "duration": 10855,
+      "status": "past",
+      "scheduledStart": "2026-02-05T20:00:00Z"
     },
     {
       "id": "VBBy4TGnJ2w",
@@ -448,7 +540,9 @@
       "published": "2026-02-04T04:02:56Z",
       "thumbnail": "https://i.ytimg.com/vi/VBBy4TGnJ2w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3523
+      "duration": 3523,
+      "status": "past",
+      "scheduledStart": "2026-02-04T03:00:00Z"
     },
     {
       "id": "_96hTFZgv7M",
@@ -456,7 +550,8 @@
       "published": "2026-02-03T20:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/_96hTFZgv7M/maxresdefault.jpg",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "9d354Nu-awM",
@@ -464,7 +559,9 @@
       "published": "2026-01-31T16:43:52Z",
       "thumbnail": "https://i.ytimg.com/vi/9d354Nu-awM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9082
+      "duration": 9082,
+      "status": "past",
+      "scheduledStart": "2026-01-31T14:00:00Z"
     },
     {
       "id": "ddtgs_jdXek",
@@ -472,7 +569,9 @@
       "published": "2026-01-28T04:43:07Z",
       "thumbnail": "https://i.ytimg.com/vi/ddtgs_jdXek/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9060
+      "duration": 9060,
+      "status": "past",
+      "scheduledStart": "2026-01-28T01:30:00Z"
     },
     {
       "id": "KvDa2eVnOYU",
@@ -480,15 +579,18 @@
       "published": "2026-01-27T21:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/KvDa2eVnOYU/maxresdefault.jpg",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "qA2OJjsQ0YE",
       "title": "【MEMBERSHIP】Chit Chat whilst I multitask ~! 💄",
-      "published": "2026-01-26T02:19:55Z",
+      "published": "2026-01-25T17:27:01Z",
       "thumbnail": "https://i.ytimg.com/vi/qA2OJjsQ0YE/maxresdefault.jpg",
       "type": "member",
-      "duration": 25129
+      "duration": 25129,
+      "status": "past",
+      "scheduledStart": "2026-01-25T19:00:00Z"
     },
     {
       "id": "9x1RSPP5jxg",
@@ -496,7 +598,9 @@
       "published": "2026-01-23T04:58:35Z",
       "thumbnail": "https://i.ytimg.com/vi/9x1RSPP5jxg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5552
+      "duration": 5552,
+      "status": "past",
+      "scheduledStart": "2026-01-23T03:00:00Z"
     },
     {
       "id": "OacYUpW1G10",
@@ -504,15 +608,18 @@
       "published": "2026-01-20T20:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/OacYUpW1G10/maxresdefault.jpg",
       "type": "short",
-      "duration": 18
+      "duration": 18,
+      "status": "past"
     },
     {
       "id": "AzCXbFjrse4",
       "title": "【MEMBERSHIP】Chit Chat for 1 hour ~! 💄",
-      "published": "2026-01-18T21:23:30Z",
+      "published": "2026-01-18T03:37:05Z",
       "thumbnail": "https://i.ytimg.com/vi/AzCXbFjrse4/maxresdefault.jpg",
       "type": "member",
-      "duration": 8286
+      "duration": 8286,
+      "status": "past",
+      "scheduledStart": "2026-01-18T19:00:00Z"
     },
     {
       "id": "Ytnmr1uwrQE",
@@ -520,7 +627,9 @@
       "published": "2026-01-15T23:32:31Z",
       "thumbnail": "https://i.ytimg.com/vi/Ytnmr1uwrQE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9030
+      "duration": 9030,
+      "status": "past",
+      "scheduledStart": "2026-01-15T21:00:00Z"
     },
     {
       "id": "sHGtgHI72-s",
@@ -528,7 +637,8 @@
       "published": "2026-01-14T01:04:34Z",
       "thumbnail": "https://i.ytimg.com/vi/sHGtgHI72-s/maxresdefault.jpg",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "5BxNRNcOSzc",
@@ -536,15 +646,18 @@
       "published": "2026-01-06T21:15:56Z",
       "thumbnail": "https://i.ytimg.com/vi/5BxNRNcOSzc/maxresdefault.jpg",
       "type": "video",
-      "duration": 207
+      "duration": 207,
+      "status": "past"
     },
     {
       "id": "JIjGkoftDWs",
       "title": "【MEMBERSHIP】Austin Powers: International Man of Mystery Watch-A-Long ~! 💄",
-      "published": "2026-01-04T23:34:56Z",
+      "published": "2026-01-03T18:37:37Z",
       "thumbnail": "https://i.ytimg.com/vi/JIjGkoftDWs/maxresdefault.jpg",
       "type": "member",
-      "duration": 15691
+      "duration": 15691,
+      "status": "past",
+      "scheduledStart": "2026-01-04T19:00:00Z"
     },
     {
       "id": "su8zgxTe3zA",
@@ -552,7 +665,9 @@
       "published": "2026-01-02T15:37:06Z",
       "thumbnail": "https://i.ytimg.com/vi/su8zgxTe3zA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6978
+      "duration": 6978,
+      "status": "past",
+      "scheduledStart": "2026-01-02T13:00:00Z"
     },
     {
       "id": "4t_6WilKu4Y",
@@ -560,15 +675,18 @@
       "published": "2025-12-30T20:08:45Z",
       "thumbnail": "https://i.ytimg.com/vi/4t_6WilKu4Y/maxresdefault.jpg",
       "type": "short",
-      "duration": 42
+      "duration": 42,
+      "status": "past"
     },
     {
       "id": "w2kTb7PY6X4",
       "title": "【MEMBERSHIP】Bridget Jones's Diary Watch-A-Long ~! 💄",
-      "published": "2025-12-28T23:07:05Z",
+      "published": "2025-12-28T03:58:38Z",
       "thumbnail": "https://i.ytimg.com/vi/w2kTb7PY6X4/maxresdefault.jpg",
       "type": "member",
-      "duration": 10594
+      "duration": 10594,
+      "status": "past",
+      "scheduledStart": "2025-12-28T20:00:00Z"
     },
     {
       "id": "UcfyJC4rhHU",
@@ -576,15 +694,19 @@
       "published": "2025-12-25T16:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/UcfyJC4rhHU/maxresdefault.jpg",
       "type": "video",
-      "duration": 708
+      "duration": 708,
+      "status": "past",
+      "scheduledStart": "2025-12-25T16:00:00Z"
     },
     {
       "id": "AXyAJl-8NCo",
       "title": "【MEMBERSHIP】Dear Santa Watch-A-Long ~! 💄",
-      "published": "2025-12-22T00:13:59Z",
+      "published": "2025-12-21T17:05:10Z",
       "thumbnail": "https://i.ytimg.com/vi/AXyAJl-8NCo/maxresdefault.jpg",
       "type": "member",
-      "duration": 13906
+      "duration": 13906,
+      "status": "past",
+      "scheduledStart": "2025-12-21T20:00:00Z"
     },
     {
       "id": "cIRfv9hHWwc",
@@ -592,7 +714,9 @@
       "published": "2025-12-19T04:07:10Z",
       "thumbnail": "https://i.ytimg.com/vi/cIRfv9hHWwc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8632
+      "duration": 8632,
+      "status": "past",
+      "scheduledStart": "2025-12-19T01:30:00Z"
     },
     {
       "id": "QmR2tCTwbvc",
@@ -600,15 +724,8 @@
       "published": "2025-12-16T23:31:07Z",
       "thumbnail": "https://i.ytimg.com/vi/QmR2tCTwbvc/maxresdefault.jpg",
       "type": "short",
-      "duration": 40
-    },
-    {
-      "id": "n9VAepmWz6Q",
-      "title": "【MEMBERSHIP】How the Grinch Stole Christmas Watch-A-Long ~! 💄",
-      "published": "2025-12-15T00:22:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/n9VAepmWz6Q/maxresdefault.jpg",
-      "type": "member",
-      "duration": 14695
+      "duration": 40,
+      "status": "past"
     },
     {
       "id": "ALV4gg9gyp8",
@@ -616,7 +733,9 @@
       "published": "2025-12-13T23:23:36Z",
       "thumbnail": "https://i.ytimg.com/vi/ALV4gg9gyp8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9593
+      "duration": 9593,
+      "status": "past",
+      "scheduledStart": "2025-12-13T20:30:00Z"
     },
     {
       "id": "NFnrbe6Jt1I",
@@ -624,7 +743,9 @@
       "published": "2025-12-13T15:33:15Z",
       "thumbnail": "https://i.ytimg.com/vi/NFnrbe6Jt1I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6958
+      "duration": 6958,
+      "status": "past",
+      "scheduledStart": "2025-12-13T13:00:00Z"
     },
     {
       "id": "bwd8t2dJ6wM",
@@ -632,23 +753,8 @@
       "published": "2025-12-10T01:00:43Z",
       "thumbnail": "https://i.ytimg.com/vi/bwd8t2dJ6wM/maxresdefault.jpg",
       "type": "short",
-      "duration": 31
-    },
-    {
-      "id": "kXhxsE95Kew",
-      "title": "【MEMBERSHIP】The Polar Express Watch-A-Long ~! 💄",
-      "published": "2025-12-07T22:53:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/kXhxsE95Kew/maxresdefault.jpg",
-      "type": "member",
-      "duration": 9877
-    },
-    {
-      "id": "TLu-cET1_TY",
-      "title": "【MEMBERSHIP】Work N Chill ~! 💄",
-      "published": "2025-12-03T00:32:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/TLu-cET1_TY/maxresdefault.jpg",
-      "type": "member",
-      "duration": 14919
+      "duration": 31,
+      "status": "past"
     },
     {
       "id": "ebLSWUUlOfg",
@@ -656,23 +762,58 @@
       "published": "2025-12-02T22:04:24Z",
       "thumbnail": "https://i.ytimg.com/vi/ebLSWUUlOfg/maxresdefault.jpg",
       "type": "short",
-      "duration": 29
+      "duration": 29,
+      "status": "past"
+    },
+    {
+      "id": "TLu-cET1_TY",
+      "title": "【MEMBERSHIP】Work N Chill ~! 💄",
+      "published": "2025-12-02T20:13:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/TLu-cET1_TY/maxresdefault.jpg",
+      "type": "member",
+      "duration": 14919,
+      "status": "past",
+      "scheduledStart": "2025-12-02T20:15:00Z"
+    },
+    {
+      "id": "n9VAepmWz6Q",
+      "title": "【MEMBERSHIP】How the Grinch Stole Christmas Watch-A-Long ~! 💄",
+      "published": "2025-11-27T19:10:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/n9VAepmWz6Q/maxresdefault.jpg",
+      "type": "member",
+      "duration": 14695,
+      "status": "past",
+      "scheduledStart": "2025-12-14T20:00:00Z"
+    },
+    {
+      "id": "kXhxsE95Kew",
+      "title": "【MEMBERSHIP】The Polar Express Watch-A-Long ~! 💄",
+      "published": "2025-11-27T18:55:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/kXhxsE95Kew/maxresdefault.jpg",
+      "type": "member",
+      "duration": 9877,
+      "status": "past",
+      "scheduledStart": "2025-12-07T20:00:00Z"
     },
     {
       "id": "E2F0uWcdxEQ",
       "title": "【MEMBERSHIP】Rise of the Guardians Watch-A-Long ~! 💄",
-      "published": "2025-11-30T23:15:24Z",
+      "published": "2025-11-27T18:47:27Z",
       "thumbnail": "https://i.ytimg.com/vi/E2F0uWcdxEQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 11120
+      "duration": 11120,
+      "status": "past",
+      "scheduledStart": "2025-11-30T20:00:00Z"
     },
     {
       "id": "DVS6agqJijs",
       "title": "【MEMBERSHIP】Klaus Watch-A-Long ~! 💄",
-      "published": "2025-11-23T22:47:32Z",
+      "published": "2025-11-23T17:23:52Z",
       "thumbnail": "https://i.ytimg.com/vi/DVS6agqJijs/maxresdefault.jpg",
       "type": "member",
-      "duration": 9573
+      "duration": 9573,
+      "status": "past",
+      "scheduledStart": "2025-11-23T20:00:00Z"
     },
     {
       "id": "DJyNUCkbew0",
@@ -680,7 +821,9 @@
       "published": "2025-11-21T23:08:36Z",
       "thumbnail": "https://i.ytimg.com/vi/DJyNUCkbew0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6792
+      "duration": 6792,
+      "status": "past",
+      "scheduledStart": "2025-11-21T21:00:00Z"
     },
     {
       "id": "UymQdioElCg",
@@ -688,15 +831,8 @@
       "published": "2025-11-19T07:42:12Z",
       "thumbnail": "https://i.ytimg.com/vi/UymQdioElCg/maxresdefault.jpg",
       "type": "short",
-      "duration": 26
-    },
-    {
-      "id": "DYdz6g4dovg",
-      "title": "【MEMBERSHIP】Corpse Bride Watch-A-Long ~! 💄",
-      "published": "2025-11-16T23:53:48Z",
-      "thumbnail": "https://i.ytimg.com/vi/DYdz6g4dovg/maxresdefault.jpg",
-      "type": "member",
-      "duration": 13023
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "ksP7-TnEvKo",
@@ -704,7 +840,19 @@
       "published": "2025-11-16T15:55:37Z",
       "thumbnail": "https://i.ytimg.com/vi/ksP7-TnEvKo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10120
+      "duration": 10120,
+      "status": "past",
+      "scheduledStart": "2025-11-16T13:00:00Z"
+    },
+    {
+      "id": "DYdz6g4dovg",
+      "title": "【MEMBERSHIP】Corpse Bride Watch-A-Long ~! 💄",
+      "published": "2025-11-16T02:29:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/DYdz6g4dovg/maxresdefault.jpg",
+      "type": "member",
+      "duration": 13023,
+      "status": "past",
+      "scheduledStart": "2025-11-16T20:00:00Z"
     },
     {
       "id": "4bWfw5fMbu0",
@@ -712,15 +860,19 @@
       "published": "2025-11-13T18:48:52Z",
       "thumbnail": "https://i.ytimg.com/vi/4bWfw5fMbu0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9337
+      "duration": 9337,
+      "status": "past",
+      "scheduledStart": "2025-11-13T16:00:00Z"
     },
     {
       "id": "hBxuSrNpOb0",
       "title": "【MEMBERSHIP】Stranger Things - S1 - EP 7 & 8 PLUS = S2 Ep1 Watch-A-Long ~! 💄",
-      "published": "2025-11-10T00:21:18Z",
+      "published": "2025-11-08T04:53:58Z",
       "thumbnail": "https://i.ytimg.com/vi/hBxuSrNpOb0/maxresdefault.jpg",
       "type": "member",
-      "duration": 14303
+      "duration": 14303,
+      "status": "past",
+      "scheduledStart": "2025-11-09T20:00:00Z"
     },
     {
       "id": "7dK0r-WoV58",
@@ -728,7 +880,9 @@
       "published": "2025-11-02T20:43:33Z",
       "thumbnail": "https://i.ytimg.com/vi/7dK0r-WoV58/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6005
+      "duration": 6005,
+      "status": "past",
+      "scheduledStart": "2025-11-02T19:00:00Z"
     },
     {
       "id": "fNugCYXlblw",
@@ -736,7 +890,9 @@
       "published": "2025-11-01T20:32:59Z",
       "thumbnail": "https://i.ytimg.com/vi/fNugCYXlblw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1861
+      "duration": 1861,
+      "status": "past",
+      "scheduledStart": "2025-11-01T20:00:00Z"
     },
     {
       "id": "x7WPM9FSGko",
@@ -744,7 +900,9 @@
       "published": "2025-11-01T01:58:05Z",
       "thumbnail": "https://i.ytimg.com/vi/x7WPM9FSGko/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10133
+      "duration": 10133,
+      "status": "past",
+      "scheduledStart": "2025-10-31T23:00:00Z"
     },
     {
       "id": "NDEkkwrKEjY",
@@ -752,7 +910,9 @@
       "published": "2025-10-21T13:55:04Z",
       "thumbnail": "https://i.ytimg.com/vi/NDEkkwrKEjY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9709
+      "duration": 9709,
+      "status": "past",
+      "scheduledStart": "2025-10-21T11:00:00Z"
     },
     {
       "id": "bV_OIC4PAWA",
@@ -760,15 +920,19 @@
       "published": "2025-10-20T22:10:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bV_OIC4PAWA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10487
+      "duration": 10487,
+      "status": "past",
+      "scheduledStart": "2025-10-20T19:00:00Z"
     },
     {
       "id": "cCsanK5-O1M",
       "title": "【MEMBERSHIP】Stranger Things - S1 - EP 5 & 6 Watch-A-Long ~! 💄",
-      "published": "2025-10-20T01:06:46Z",
+      "published": "2025-10-19T17:43:32Z",
       "thumbnail": "https://i.ytimg.com/vi/cCsanK5-O1M/maxresdefault.jpg",
       "type": "member",
-      "duration": 20950
+      "duration": 20950,
+      "status": "past",
+      "scheduledStart": "2025-10-19T19:00:00Z"
     },
     {
       "id": "bNoVsoLRaYg",
@@ -776,15 +940,19 @@
       "published": "2025-10-16T21:13:50Z",
       "thumbnail": "https://i.ytimg.com/vi/bNoVsoLRaYg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6647
+      "duration": 6647,
+      "status": "past",
+      "scheduledStart": "2025-10-16T19:00:00Z"
     },
     {
       "id": "EY1_p-kWkfU",
       "title": "【MEMBERSHIP】Stranger Things - S1 - EP 3 & 4 Watch-A-Long ~! 💄",
-      "published": "2025-10-12T23:23:32Z",
+      "published": "2025-10-12T04:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/EY1_p-kWkfU/maxresdefault.jpg",
       "type": "member",
-      "duration": 11340
+      "duration": 11340,
+      "status": "past",
+      "scheduledStart": "2025-10-12T20:00:00Z"
     },
     {
       "id": "nkx3skM7dNo",
@@ -792,23 +960,28 @@
       "published": "2025-10-07T01:56:51Z",
       "thumbnail": "https://i.ytimg.com/vi/nkx3skM7dNo/maxresdefault.jpg",
       "type": "short",
-      "duration": 18
+      "duration": 18,
+      "status": "past"
     },
     {
       "id": "v8md6BIswu4",
       "title": "【MEMBERSHIP】Stranger Things - S1 - EP 1 & 2 Watch-A-Long ~! 💄",
-      "published": "2025-09-30T21:48:44Z",
+      "published": "2025-09-30T05:45:02Z",
       "thumbnail": "https://i.ytimg.com/vi/v8md6BIswu4/maxresdefault.jpg",
       "type": "member",
-      "duration": 8927
+      "duration": 8927,
+      "status": "past",
+      "scheduledStart": "2025-09-30T19:00:00Z"
     },
     {
       "id": "QAWuk3KNxPg",
       "title": "【MEMBERSHIP】The School for Good and Evil Watch-A-Long ~! 💄",
-      "published": "2025-09-28T23:18:41Z",
+      "published": "2025-09-28T16:52:33Z",
       "thumbnail": "https://i.ytimg.com/vi/QAWuk3KNxPg/maxresdefault.jpg",
       "type": "member",
-      "duration": 14667
+      "duration": 14667,
+      "status": "past",
+      "scheduledStart": "2025-09-28T19:00:00Z"
     },
     {
       "id": "VUURP218SOc",
@@ -816,7 +989,9 @@
       "published": "2025-09-28T16:31:45Z",
       "thumbnail": "https://i.ytimg.com/vi/VUURP218SOc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12041
+      "duration": 12041,
+      "status": "past",
+      "scheduledStart": "2025-09-28T13:00:00Z"
     },
     {
       "id": "TZiMgUFHN_Y",
@@ -824,15 +999,19 @@
       "published": "2025-09-28T04:32:32Z",
       "thumbnail": "https://i.ytimg.com/vi/TZiMgUFHN_Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5882
+      "duration": 5882,
+      "status": "past",
+      "scheduledStart": "2025-09-28T02:45:00Z"
     },
     {
       "id": "sTZzvG_MAi4",
       "title": "【MEMBERSHIP】Doodle Stream ~! 💄",
-      "published": "2025-09-21T23:11:16Z",
+      "published": "2025-09-21T14:47:34Z",
       "thumbnail": "https://i.ytimg.com/vi/sTZzvG_MAi4/maxresdefault.jpg",
       "type": "member",
-      "duration": 14286
+      "duration": 14286,
+      "status": "past",
+      "scheduledStart": "2025-09-21T19:00:00Z"
     },
     {
       "id": "S9u8zcJEY0k",
@@ -840,15 +1019,18 @@
       "published": "2025-09-19T00:29:31Z",
       "thumbnail": "https://i.ytimg.com/vi/S9u8zcJEY0k/maxresdefault.jpg",
       "type": "short",
-      "duration": 27
+      "duration": 27,
+      "status": "past"
     },
     {
       "id": "69Edd4xnwEw",
       "title": "【MEMBERSHIP】Minecraft Movie Watch-A-Long ~! 💄",
-      "published": "2025-09-14T21:38:32Z",
+      "published": "2025-09-14T05:58:35Z",
       "thumbnail": "https://i.ytimg.com/vi/69Edd4xnwEw/maxresdefault.jpg",
       "type": "member",
-      "duration": 9052
+      "duration": 9052,
+      "status": "past",
+      "scheduledStart": "2025-09-14T19:00:00Z"
     },
     {
       "id": "J5d-bZt-H38",
@@ -856,7 +1038,9 @@
       "published": "2025-09-14T01:57:21Z",
       "thumbnail": "https://i.ytimg.com/vi/J5d-bZt-H38/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6231
+      "duration": 6231,
+      "status": "past",
+      "scheduledStart": "2025-09-14T00:00:00Z"
     },
     {
       "id": "pN6WdNZ5KsY",
@@ -864,7 +1048,8 @@
       "published": "2025-09-11T23:20:33Z",
       "thumbnail": "https://i.ytimg.com/vi/pN6WdNZ5KsY/maxresdefault.jpg",
       "type": "short",
-      "duration": 6
+      "duration": 6,
+      "status": "past"
     },
     {
       "id": "29Y5sDhNRKI",
@@ -872,7 +1057,8 @@
       "published": "2025-09-07T23:12:00Z",
       "thumbnail": "https://i.ytimg.com/vi/29Y5sDhNRKI/maxresdefault.jpg",
       "type": "short",
-      "duration": 18
+      "duration": 18,
+      "status": "past"
     },
     {
       "id": "guw_5nLqBzE",
@@ -880,7 +1066,8 @@
       "published": "2025-09-04T22:00:58Z",
       "thumbnail": "https://i.ytimg.com/vi/guw_5nLqBzE/maxresdefault.jpg",
       "type": "short",
-      "duration": 16
+      "duration": 16,
+      "status": "past"
     },
     {
       "id": "wgP_4s7mJ-Y",
@@ -888,7 +1075,9 @@
       "published": "2025-08-31T17:21:59Z",
       "thumbnail": "https://i.ytimg.com/vi/wgP_4s7mJ-Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7306
+      "duration": 7306,
+      "status": "past",
+      "scheduledStart": "2025-08-31T15:15:00Z"
     },
     {
       "id": "c0SOBdjBkpg",
@@ -896,7 +1085,9 @@
       "published": "2025-08-30T00:49:50Z",
       "thumbnail": "https://i.ytimg.com/vi/c0SOBdjBkpg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11639
+      "duration": 11639,
+      "status": "past",
+      "scheduledStart": "2025-08-29T21:30:00Z"
     },
     {
       "id": "6pmOCnAbork",
@@ -904,15 +1095,18 @@
       "published": "2025-08-18T08:55:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6pmOCnAbork/maxresdefault.jpg",
       "type": "short",
-      "duration": 31
+      "duration": 31,
+      "status": "past"
     },
     {
       "id": "vtPQzYKU-bc",
       "title": "【MEMBERSHIP】Doodle Doodle Doodle ~! 💄",
-      "published": "2025-08-17T22:43:51Z",
+      "published": "2025-08-17T19:50:22Z",
       "thumbnail": "https://i.ytimg.com/vi/vtPQzYKU-bc/maxresdefault.jpg",
       "type": "member",
-      "duration": 8903
+      "duration": 8903,
+      "status": "past",
+      "scheduledStart": "2025-08-17T20:15:00Z"
     },
     {
       "id": "Ar8VP6fNeuA",
@@ -920,7 +1114,9 @@
       "published": "2025-08-15T15:48:11Z",
       "thumbnail": "https://i.ytimg.com/vi/Ar8VP6fNeuA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5925
+      "duration": 5925,
+      "status": "past",
+      "scheduledStart": "2025-08-15T13:30:00Z"
     },
     {
       "id": "K8GRFiQAUOU",
@@ -928,7 +1124,8 @@
       "published": "2025-08-11T07:00:30Z",
       "thumbnail": "https://i.ytimg.com/vi/K8GRFiQAUOU/maxresdefault.jpg",
       "type": "video",
-      "duration": 254
+      "duration": 254,
+      "status": "past"
     },
     {
       "id": "5XamR6FIPzc",
@@ -936,7 +1133,8 @@
       "published": "2025-08-11T05:00:07Z",
       "thumbnail": "https://i.ytimg.com/vi/5XamR6FIPzc/maxresdefault.jpg",
       "type": "video",
-      "duration": 259
+      "duration": 259,
+      "status": "past"
     },
     {
       "id": "moV0thh4v6o",
@@ -944,7 +1142,8 @@
       "published": "2025-08-11T03:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/moV0thh4v6o/maxresdefault.jpg",
       "type": "video",
-      "duration": 361
+      "duration": 361,
+      "status": "past"
     },
     {
       "id": "YwkmRvi1MEE",
@@ -952,7 +1151,8 @@
       "published": "2025-08-11T01:00:38Z",
       "thumbnail": "https://i.ytimg.com/vi/YwkmRvi1MEE/maxresdefault.jpg",
       "type": "video",
-      "duration": 262
+      "duration": 262,
+      "status": "past"
     },
     {
       "id": "Z0z__KDu54Q",
@@ -960,7 +1160,8 @@
       "published": "2025-08-10T23:00:39Z",
       "thumbnail": "https://i.ytimg.com/vi/Z0z__KDu54Q/maxresdefault.jpg",
       "type": "video",
-      "duration": 222
+      "duration": 222,
+      "status": "past"
     },
     {
       "id": "EN6iol6sJoA",
@@ -968,7 +1169,8 @@
       "published": "2025-08-10T21:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/EN6iol6sJoA/maxresdefault.jpg",
       "type": "video",
-      "duration": 269
+      "duration": 269,
+      "status": "past"
     },
     {
       "id": "e-Pfpq1ksZg",
@@ -976,7 +1178,8 @@
       "published": "2025-08-10T19:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/e-Pfpq1ksZg/maxresdefault.jpg",
       "type": "video",
-      "duration": 212
+      "duration": 212,
+      "status": "past"
     },
     {
       "id": "Rk03Rh8P9ps",
@@ -984,7 +1187,9 @@
       "published": "2025-08-02T17:04:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Rk03Rh8P9ps/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7912
+      "duration": 7912,
+      "status": "past",
+      "scheduledStart": "2025-08-02T14:45:00Z"
     },
     {
       "id": "q0Uhp8IN5-w",
@@ -992,7 +1197,9 @@
       "published": "2025-08-02T01:08:01Z",
       "thumbnail": "https://i.ytimg.com/vi/q0Uhp8IN5-w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3989
+      "duration": 3989,
+      "status": "past",
+      "scheduledStart": "2025-08-02T00:00:00Z"
     },
     {
       "id": "J07lSfUD6ew",
@@ -1000,7 +1207,9 @@
       "published": "2025-07-26T13:24:10Z",
       "thumbnail": "https://i.ytimg.com/vi/J07lSfUD6ew/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7871
+      "duration": 7871,
+      "status": "past",
+      "scheduledStart": "2025-07-26T10:45:00Z"
     },
     {
       "id": "LwaDbamHgy8",
@@ -1008,7 +1217,9 @@
       "published": "2025-07-25T11:23:26Z",
       "thumbnail": "https://i.ytimg.com/vi/LwaDbamHgy8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1231
+      "duration": 1231,
+      "status": "past",
+      "scheduledStart": "2025-07-25T11:00:00Z"
     },
     {
       "id": "mp_hIWUFzLk",
@@ -1016,7 +1227,8 @@
       "published": "2025-07-18T03:01:03Z",
       "thumbnail": "https://i.ytimg.com/vi/mp_hIWUFzLk/maxresdefault.jpg",
       "type": "short",
-      "duration": 56
+      "duration": 56,
+      "status": "past"
     },
     {
       "id": "ZTRraH-w-0o",
@@ -1024,7 +1236,8 @@
       "published": "2025-07-16T01:00:35Z",
       "thumbnail": "https://i.ytimg.com/vi/ZTRraH-w-0o/maxresdefault.jpg",
       "type": "short",
-      "duration": 57
+      "duration": 57,
+      "status": "past"
     },
     {
       "id": "RQgHcGsBvts",
@@ -1032,7 +1245,8 @@
       "published": "2025-07-13T15:30:23Z",
       "thumbnail": "https://i.ytimg.com/vi/RQgHcGsBvts/maxresdefault.jpg",
       "type": "short",
-      "duration": 13
+      "duration": 13,
+      "status": "past"
     },
     {
       "id": "QhCdNBXM7Y8",
@@ -1040,15 +1254,19 @@
       "published": "2025-07-13T06:03:07Z",
       "thumbnail": "https://i.ytimg.com/vi/QhCdNBXM7Y8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15032
+      "duration": 15032,
+      "status": "past",
+      "scheduledStart": "2025-07-13T01:00:00Z"
     },
     {
       "id": "I3o9-esNss8",
       "title": "【MEMBERSHIP】KPop Demon Hunters Watch-A-Long ~! 💄",
-      "published": "2025-07-06T15:44:21Z",
+      "published": "2025-07-05T15:15:08Z",
       "thumbnail": "https://i.ytimg.com/vi/I3o9-esNss8/maxresdefault.jpg",
       "type": "member",
-      "duration": 9095
+      "duration": 9095,
+      "status": "past",
+      "scheduledStart": "2025-07-06T13:00:00Z"
     },
     {
       "id": "fV0erlSovhc",
@@ -1056,7 +1274,9 @@
       "published": "2025-07-03T16:45:58Z",
       "thumbnail": "https://i.ytimg.com/vi/fV0erlSovhc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9012
+      "duration": 9012,
+      "status": "past",
+      "scheduledStart": "2025-07-03T14:00:00Z"
     },
     {
       "id": "e9rY7slCeOw",
@@ -1064,15 +1284,19 @@
       "published": "2025-07-03T16:45:06Z",
       "thumbnail": "https://i.ytimg.com/vi/e9rY7slCeOw/maxresdefault.jpg",
       "type": "video",
-      "duration": 108
+      "duration": 108,
+      "status": "past",
+      "scheduledStart": "2025-07-03T16:45:00Z"
     },
     {
       "id": "UYMVlTIYmN0",
       "title": "【MEMBERSHIP】Quick catch up ~! 💄",
-      "published": "2025-06-12T00:41:25Z",
+      "published": "2025-06-11T21:41:54Z",
       "thumbnail": "https://i.ytimg.com/vi/UYMVlTIYmN0/maxresdefault.jpg",
       "type": "member",
-      "duration": 9587
+      "duration": 9587,
+      "status": "past",
+      "scheduledStart": "2025-06-11T22:00:00Z"
     },
     {
       "id": "8PMfZg8N03Y",
@@ -1080,7 +1304,9 @@
       "published": "2025-06-03T17:01:55Z",
       "thumbnail": "https://i.ytimg.com/vi/8PMfZg8N03Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10391
+      "duration": 10391,
+      "status": "past",
+      "scheduledStart": "2025-06-03T14:00:00Z"
     },
     {
       "id": "pQPYPc41Zzc",
@@ -1088,7 +1314,9 @@
       "published": "2025-06-03T03:31:43Z",
       "thumbnail": "https://i.ytimg.com/vi/pQPYPc41Zzc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8468
+      "duration": 8468,
+      "status": "past",
+      "scheduledStart": "2025-06-03T01:00:00Z"
     },
     {
       "id": "z1eAppIiaZM",
@@ -1096,7 +1324,9 @@
       "published": "2025-05-27T15:14:14Z",
       "thumbnail": "https://i.ytimg.com/vi/z1eAppIiaZM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7317
+      "duration": 7317,
+      "status": "past",
+      "scheduledStart": "2025-05-27T13:00:00Z"
     },
     {
       "id": "sBZryaghe9M",
@@ -1104,7 +1334,9 @@
       "published": "2025-05-25T00:52:46Z",
       "thumbnail": "https://i.ytimg.com/vi/sBZryaghe9M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5089
+      "duration": 5089,
+      "status": "past",
+      "scheduledStart": "2025-05-24T23:15:00Z"
     },
     {
       "id": "kQeopZTlqog",
@@ -1112,7 +1344,9 @@
       "published": "2025-05-12T05:11:10Z",
       "thumbnail": "https://i.ytimg.com/vi/kQeopZTlqog/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7200
+      "duration": 7200,
+      "status": "past",
+      "scheduledStart": "2025-05-12T03:00:00Z"
     },
     {
       "id": "b-jTHH6GK5w",
@@ -1120,7 +1354,9 @@
       "published": "2025-05-11T03:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/b-jTHH6GK5w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7823
+      "duration": 7823,
+      "status": "past",
+      "scheduledStart": "2025-05-11T00:30:00Z"
     },
     {
       "id": "sDjysXFWYbI",
@@ -1128,7 +1364,9 @@
       "published": "2025-05-10T04:46:23Z",
       "thumbnail": "https://i.ytimg.com/vi/sDjysXFWYbI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16187
+      "duration": 16187,
+      "status": "past",
+      "scheduledStart": "2025-05-10T00:00:00Z"
     },
     {
       "id": "uEB2dIe37oo",
@@ -1136,7 +1374,9 @@
       "published": "2025-05-09T04:56:18Z",
       "thumbnail": "https://i.ytimg.com/vi/uEB2dIe37oo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 26256
+      "duration": 26256,
+      "status": "past",
+      "scheduledStart": "2025-05-08T20:30:00Z"
     },
     {
       "id": "9gL4We5utAk",
@@ -1144,7 +1384,9 @@
       "published": "2025-05-08T04:59:11Z",
       "thumbnail": "https://i.ytimg.com/vi/9gL4We5utAk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15941
+      "duration": 15941,
+      "status": "past",
+      "scheduledStart": "2025-05-08T00:15:00Z"
     },
     {
       "id": "1tE2N1kP2YA",
@@ -1152,7 +1394,9 @@
       "published": "2025-05-07T15:10:04Z",
       "thumbnail": "https://i.ytimg.com/vi/1tE2N1kP2YA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12892
+      "duration": 12892,
+      "status": "past",
+      "scheduledStart": "2025-05-07T11:00:00Z"
     },
     {
       "id": "vbppXmxXo7o",
@@ -1160,7 +1404,9 @@
       "published": "2025-05-07T01:27:41Z",
       "thumbnail": "https://i.ytimg.com/vi/vbppXmxXo7o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 24022
+      "duration": 24022,
+      "status": "past",
+      "scheduledStart": "2025-05-06T18:00:00Z"
     },
     {
       "id": "CVF91CqGD80",
@@ -1168,7 +1414,9 @@
       "published": "2025-05-06T02:30:07Z",
       "thumbnail": "https://i.ytimg.com/vi/CVF91CqGD80/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10218
+      "duration": 10218,
+      "status": "past",
+      "scheduledStart": "2025-05-05T23:30:00Z"
     },
     {
       "id": "wnQuawM-3Jc",
@@ -1176,7 +1424,9 @@
       "published": "2025-05-05T05:26:18Z",
       "thumbnail": "https://i.ytimg.com/vi/wnQuawM-3Jc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14957
+      "duration": 14957,
+      "status": "past",
+      "scheduledStart": "2025-05-05T01:00:00Z"
     },
     {
       "id": "2toZfafpyW8",
@@ -1184,7 +1434,9 @@
       "published": "2025-05-04T05:39:32Z",
       "thumbnail": "https://i.ytimg.com/vi/2toZfafpyW8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12040
+      "duration": 12040,
+      "status": "past",
+      "scheduledStart": "2025-05-04T02:00:00Z"
     },
     {
       "id": "9LOIKZC8W1Y",
@@ -1192,7 +1444,9 @@
       "published": "2025-05-02T23:37:52Z",
       "thumbnail": "https://i.ytimg.com/vi/9LOIKZC8W1Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8012
+      "duration": 8012,
+      "status": "past",
+      "scheduledStart": "2025-05-02T21:15:00Z"
     },
     {
       "id": "eU2ED67DCN8",
@@ -1200,7 +1454,9 @@
       "published": "2025-04-25T22:24:49Z",
       "thumbnail": "https://i.ytimg.com/vi/eU2ED67DCN8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11588
+      "duration": 11588,
+      "status": "past",
+      "scheduledStart": "2025-04-25T19:00:00Z"
     },
     {
       "id": "1OSCNdXa2Zs",
@@ -1208,7 +1464,9 @@
       "published": "2025-04-25T11:52:18Z",
       "thumbnail": "https://i.ytimg.com/vi/1OSCNdXa2Zs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6380
+      "duration": 6380,
+      "status": "past",
+      "scheduledStart": "2025-04-25T10:00:00Z"
     },
     {
       "id": "GJwjpe2LuQE",
@@ -1216,7 +1474,9 @@
       "published": "2025-04-24T01:18:01Z",
       "thumbnail": "https://i.ytimg.com/vi/GJwjpe2LuQE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7045
+      "duration": 7045,
+      "status": "past",
+      "scheduledStart": "2025-04-23T23:15:00Z"
     },
     {
       "id": "MU40vqlgfjA",
@@ -1224,23 +1484,29 @@
       "published": "2025-04-16T12:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/MU40vqlgfjA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9498
+      "duration": 9498,
+      "status": "past",
+      "scheduledStart": "2025-04-16T09:00:00Z"
     },
     {
       "id": "BQiD-LvI-YI",
       "title": "【MEMBERSHIP】The Last Unicorn Watch-A-Long ~! 💄",
-      "published": "2025-04-09T21:32:18Z",
+      "published": "2025-04-09T01:25:19Z",
       "thumbnail": "https://i.ytimg.com/vi/BQiD-LvI-YI/maxresdefault.jpg",
       "type": "member",
-      "duration": 8511
+      "duration": 8511,
+      "status": "past",
+      "scheduledStart": "2025-04-09T19:00:00Z"
     },
     {
       "id": "7ZiVvjlM-0Q",
       "title": "【MEMBERSHIP】A Whisker Away Watch-A-Long ~! 💄",
-      "published": "2025-04-06T21:45:01Z",
+      "published": "2025-04-06T17:53:08Z",
       "thumbnail": "https://i.ytimg.com/vi/7ZiVvjlM-0Q/maxresdefault.jpg",
       "type": "member",
-      "duration": 9141
+      "duration": 9141,
+      "status": "past",
+      "scheduledStart": "2025-04-06T19:00:00Z"
     },
     {
       "id": "xlvI03HHAuE",
@@ -1248,7 +1514,9 @@
       "published": "2025-04-06T02:38:18Z",
       "thumbnail": "https://i.ytimg.com/vi/xlvI03HHAuE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8969
+      "duration": 8969,
+      "status": "past",
+      "scheduledStart": "2025-04-06T00:00:00Z"
     },
     {
       "id": "M1ltgbdxiug",
@@ -1256,15 +1524,19 @@
       "published": "2025-04-05T22:39:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M1ltgbdxiug/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12543
+      "duration": 12543,
+      "status": "past",
+      "scheduledStart": "2025-04-05T19:00:00Z"
     },
     {
       "id": "b3RNgNmNeP0",
       "title": "【MEMBERSHIP】My Oni Girl Watch-A-Long ~! 💄",
-      "published": "2025-03-30T22:03:00Z",
+      "published": "2025-03-29T23:34:20Z",
       "thumbnail": "https://i.ytimg.com/vi/b3RNgNmNeP0/maxresdefault.jpg",
       "type": "member",
-      "duration": 10036
+      "duration": 10036,
+      "status": "past",
+      "scheduledStart": "2025-03-30T19:00:00Z"
     },
     {
       "id": "GykesVOj3nQ",
@@ -1272,15 +1544,18 @@
       "published": "2025-03-26T11:19:40Z",
       "thumbnail": "https://i.ytimg.com/vi/GykesVOj3nQ/maxresdefault.jpg",
       "type": "short",
-      "duration": 22
+      "duration": 22,
+      "status": "past"
     },
     {
       "id": "Lq5kKs9A_gk",
       "title": "【MEMBERSHIP】Suzume Watch-A-Long ~! 💄",
-      "published": "2025-03-23T23:02:30Z",
+      "published": "2025-03-23T18:31:55Z",
       "thumbnail": "https://i.ytimg.com/vi/Lq5kKs9A_gk/maxresdefault.jpg",
       "type": "member",
-      "duration": 10717
+      "duration": 10717,
+      "status": "past",
+      "scheduledStart": "2025-03-23T20:00:00Z"
     },
     {
       "id": "g3YPK_SaPKU",
@@ -1288,7 +1563,9 @@
       "published": "2025-03-20T23:57:49Z",
       "thumbnail": "https://i.ytimg.com/vi/g3YPK_SaPKU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12440
+      "duration": 12440,
+      "status": "past",
+      "scheduledStart": "2025-03-20T20:15:00Z"
     },
     {
       "id": "R0sxa62ta2o",
@@ -1296,7 +1573,9 @@
       "published": "2025-03-16T18:42:31Z",
       "thumbnail": "https://i.ytimg.com/vi/R0sxa62ta2o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9759
+      "duration": 9759,
+      "status": "past",
+      "scheduledStart": "2025-03-16T16:00:00Z"
     },
     {
       "id": "MdVSJmyCn4g",
@@ -1304,7 +1583,9 @@
       "published": "2025-03-14T21:17:57Z",
       "thumbnail": "https://i.ytimg.com/vi/MdVSJmyCn4g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7635
+      "duration": 7635,
+      "status": "past",
+      "scheduledStart": "2025-03-14T19:00:00Z"
     },
     {
       "id": "MHveDiXFW2E",
@@ -1312,15 +1593,18 @@
       "published": "2025-03-06T22:16:48Z",
       "thumbnail": "https://i.ytimg.com/vi/MHveDiXFW2E/maxresdefault.jpg",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "OLfvCQbktg8",
       "title": "【MEMBERSHIP】The Adventure Zone - Listen-A-Long 02 ~! 💄",
-      "published": "2025-03-02T23:08:12Z",
+      "published": "2025-03-02T04:21:46Z",
       "thumbnail": "https://i.ytimg.com/vi/OLfvCQbktg8/maxresdefault.jpg",
       "type": "member",
-      "duration": 9617
+      "duration": 9617,
+      "status": "past",
+      "scheduledStart": "2025-03-02T20:15:00Z"
     },
     {
       "id": "-qQU7pD73cc",
@@ -1328,7 +1612,9 @@
       "published": "2025-02-26T22:31:11Z",
       "thumbnail": "https://i.ytimg.com/vi/-qQU7pD73cc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12050
+      "duration": 12050,
+      "status": "past",
+      "scheduledStart": "2025-02-26T19:00:00Z"
     },
     {
       "id": "V4w29MCy8mE",
@@ -1336,7 +1622,9 @@
       "published": "2025-02-26T13:20:38Z",
       "thumbnail": "https://i.ytimg.com/vi/V4w29MCy8mE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4412
+      "duration": 4412,
+      "status": "past",
+      "scheduledStart": "2025-02-26T12:00:00Z"
     },
     {
       "id": "Co4aSyCHZmE",
@@ -1344,7 +1632,9 @@
       "published": "2025-02-25T22:43:33Z",
       "thumbnail": "https://i.ytimg.com/vi/Co4aSyCHZmE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12669
+      "duration": 12669,
+      "status": "past",
+      "scheduledStart": "2025-02-25T19:00:00Z"
     },
     {
       "id": "k5JwODzByms",
@@ -1352,7 +1642,9 @@
       "published": "2025-02-22T22:09:05Z",
       "thumbnail": "https://i.ytimg.com/vi/k5JwODzByms/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10566
+      "duration": 10566,
+      "status": "past",
+      "scheduledStart": "2025-02-22T19:00:00Z"
     },
     {
       "id": "h6EzCHC46Jw",
@@ -1360,7 +1652,9 @@
       "published": "2025-02-21T20:06:43Z",
       "thumbnail": "https://i.ytimg.com/vi/h6EzCHC46Jw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7157
+      "duration": 7157,
+      "status": "past",
+      "scheduledStart": "2025-02-21T18:00:00Z"
     },
     {
       "id": "tBzZss_kh_0",
@@ -1368,7 +1662,9 @@
       "published": "2025-02-21T20:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/tBzZss_kh_0/maxresdefault.jpg",
       "type": "video",
-      "duration": 263
+      "duration": 263,
+      "status": "past",
+      "scheduledStart": "2025-02-21T20:00:00Z"
     },
     {
       "id": "lQ_WDww3WhM",
@@ -1376,7 +1672,9 @@
       "published": "2025-02-20T22:49:16Z",
       "thumbnail": "https://i.ytimg.com/vi/lQ_WDww3WhM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13166
+      "duration": 13166,
+      "status": "past",
+      "scheduledStart": "2025-02-20T19:00:00Z"
     },
     {
       "id": "brMTfRnWUXU",
@@ -1384,15 +1682,19 @@
       "published": "2025-02-20T00:06:13Z",
       "thumbnail": "https://i.ytimg.com/vi/brMTfRnWUXU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17322
+      "duration": 17322,
+      "status": "past",
+      "scheduledStart": "2025-02-19T19:00:00Z"
     },
     {
       "id": "BGvzvvNb-cg",
       "title": "【MEMBERSHIP】Isn't It Romantic Watch-A-Long ~! 💄",
-      "published": "2025-02-16T23:04:35Z",
+      "published": "2025-02-16T14:43:54Z",
       "thumbnail": "https://i.ytimg.com/vi/BGvzvvNb-cg/maxresdefault.jpg",
       "type": "member",
-      "duration": 10413
+      "duration": 10413,
+      "status": "past",
+      "scheduledStart": "2025-02-16T20:00:00Z"
     },
     {
       "id": "hA76VLtyKI0",
@@ -1400,15 +1702,19 @@
       "published": "2025-02-13T00:32:28Z",
       "thumbnail": "https://i.ytimg.com/vi/hA76VLtyKI0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12053
+      "duration": 12053,
+      "status": "past",
+      "scheduledStart": "2025-02-12T21:00:00Z"
     },
     {
       "id": "HTrE07LrJBc",
       "title": "【MEMBERSHIP】Van Helsing Watch-A-Long ~! 💄",
-      "published": "2025-02-09T19:03:33Z",
+      "published": "2025-02-09T04:35:39Z",
       "thumbnail": "https://i.ytimg.com/vi/HTrE07LrJBc/maxresdefault.jpg",
       "type": "member",
-      "duration": 10217
+      "duration": 10217,
+      "status": "past",
+      "scheduledStart": "2025-02-09T16:00:00Z"
     },
     {
       "id": "uXL2WAyqWJc",
@@ -1416,7 +1722,9 @@
       "published": "2025-02-08T16:20:45Z",
       "thumbnail": "https://i.ytimg.com/vi/uXL2WAyqWJc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10242
+      "duration": 10242,
+      "status": "past",
+      "scheduledStart": "2025-02-08T13:30:00Z"
     },
     {
       "id": "-Glwt7BJD5c",
@@ -1424,7 +1732,9 @@
       "published": "2025-02-07T11:02:40Z",
       "thumbnail": "https://i.ytimg.com/vi/-Glwt7BJD5c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12593
+      "duration": 12593,
+      "status": "past",
+      "scheduledStart": "2025-02-07T07:30:00Z"
     },
     {
       "id": "QeUwFu7AB3w",
@@ -1432,7 +1742,9 @@
       "published": "2025-02-06T04:09:57Z",
       "thumbnail": "https://i.ytimg.com/vi/QeUwFu7AB3w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8438
+      "duration": 8438,
+      "status": "past",
+      "scheduledStart": "2025-02-06T01:30:00Z"
     },
     {
       "id": "LzWM_6UUaNw",
@@ -1440,15 +1752,19 @@
       "published": "2025-02-05T01:43:58Z",
       "thumbnail": "https://i.ytimg.com/vi/LzWM_6UUaNw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15853
+      "duration": 15853,
+      "status": "past",
+      "scheduledStart": "2025-02-04T21:00:00Z"
     },
     {
       "id": "mDUd0OvwgTg",
       "title": "【MEMBERSHIP】Iron man Watch-A-Long ~! 💄",
-      "published": "2025-02-03T00:39:48Z",
+      "published": "2025-02-02T13:57:13Z",
       "thumbnail": "https://i.ytimg.com/vi/mDUd0OvwgTg/maxresdefault.jpg",
       "type": "member",
-      "duration": 15797
+      "duration": 15797,
+      "status": "past",
+      "scheduledStart": "2025-02-02T20:00:00Z"
     },
     {
       "id": "JwC5rwW8LaI",
@@ -1456,7 +1772,9 @@
       "published": "2025-01-31T04:18:00Z",
       "thumbnail": "https://i.ytimg.com/vi/JwC5rwW8LaI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7622
+      "duration": 7622,
+      "status": "past",
+      "scheduledStart": "2025-01-31T02:00:00Z"
     },
     {
       "id": "gs8QtnwImyc",
@@ -1464,7 +1782,9 @@
       "published": "2025-01-30T23:08:19Z",
       "thumbnail": "https://i.ytimg.com/vi/gs8QtnwImyc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10701
+      "duration": 10701,
+      "status": "past",
+      "scheduledStart": "2025-01-30T20:00:00Z"
     },
     {
       "id": "RA6SgGSobjw",
@@ -1472,15 +1792,19 @@
       "published": "2025-01-30T00:47:25Z",
       "thumbnail": "https://i.ytimg.com/vi/RA6SgGSobjw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14623
+      "duration": 14623,
+      "status": "past",
+      "scheduledStart": "2025-01-29T20:00:00Z"
     },
     {
       "id": "0iqj8yTXCS0",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 10 ~! 💄",
-      "published": "2025-01-27T00:12:22Z",
+      "published": "2025-01-26T19:34:13Z",
       "thumbnail": "https://i.ytimg.com/vi/0iqj8yTXCS0/maxresdefault.jpg",
       "type": "member",
-      "duration": 13800
+      "duration": 13800,
+      "status": "past",
+      "scheduledStart": "2025-01-26T20:00:00Z"
     },
     {
       "id": "VxhdDv6cnoA",
@@ -1488,7 +1812,9 @@
       "published": "2025-01-25T23:50:13Z",
       "thumbnail": "https://i.ytimg.com/vi/VxhdDv6cnoA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10466
+      "duration": 10466,
+      "status": "past",
+      "scheduledStart": "2025-01-25T20:45:00Z"
     },
     {
       "id": "HQd0zQjBgpg",
@@ -1496,7 +1822,9 @@
       "published": "2025-01-24T17:57:12Z",
       "thumbnail": "https://i.ytimg.com/vi/HQd0zQjBgpg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12941
+      "duration": 12941,
+      "status": "past",
+      "scheduledStart": "2025-01-24T14:00:00Z"
     },
     {
       "id": "EEsWWB5jf5w",
@@ -1504,7 +1832,9 @@
       "published": "2025-01-23T23:54:06Z",
       "thumbnail": "https://i.ytimg.com/vi/EEsWWB5jf5w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11971
+      "duration": 11971,
+      "status": "past",
+      "scheduledStart": "2025-01-23T20:30:00Z"
     },
     {
       "id": "s_CzysIgrNE",
@@ -1512,15 +1842,9 @@
       "published": "2025-01-23T02:27:48Z",
       "thumbnail": "https://i.ytimg.com/vi/s_CzysIgrNE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10921
-    },
-    {
-      "id": "TsS-go3TSJg",
-      "title": "【MEMBERSHIP】DR Who Watch-A-Long 09 ~! 💄",
-      "published": "2025-01-19T22:19:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/TsS-go3TSJg/maxresdefault.jpg",
-      "type": "member",
-      "duration": 7310
+      "duration": 10921,
+      "status": "past",
+      "scheduledStart": "2025-01-22T22:30:00Z"
     },
     {
       "id": "H6OuE5MPjFk",
@@ -1528,7 +1852,9 @@
       "published": "2025-01-19T16:36:28Z",
       "thumbnail": "https://i.ytimg.com/vi/H6OuE5MPjFk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8604
+      "duration": 8604,
+      "status": "past",
+      "scheduledStart": "2025-01-19T14:00:00Z"
     },
     {
       "id": "EP1dECHEue0",
@@ -1536,7 +1862,9 @@
       "published": "2025-01-18T23:13:17Z",
       "thumbnail": "https://i.ytimg.com/vi/EP1dECHEue0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6303
+      "duration": 6303,
+      "status": "past",
+      "scheduledStart": "2025-01-18T21:15:00Z"
     },
     {
       "id": "jqFPgcMt_Jo",
@@ -1544,7 +1872,9 @@
       "published": "2025-01-18T21:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/jqFPgcMt_Jo/maxresdefault.jpg",
       "type": "video",
-      "duration": 229
+      "duration": 229,
+      "status": "past",
+      "scheduledStart": "2025-01-18T21:00:00Z"
     },
     {
       "id": "IBxTwNL0-Ds",
@@ -1552,7 +1882,9 @@
       "published": "2025-01-18T13:16:43Z",
       "thumbnail": "https://i.ytimg.com/vi/IBxTwNL0-Ds/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10573
+      "duration": 10573,
+      "status": "past",
+      "scheduledStart": "2025-01-18T10:00:00Z"
     },
     {
       "id": "-skCkwcKbts",
@@ -1560,7 +1892,19 @@
       "published": "2025-01-15T00:09:29Z",
       "thumbnail": "https://i.ytimg.com/vi/-skCkwcKbts/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13950
+      "duration": 13950,
+      "status": "past",
+      "scheduledStart": "2025-01-14T20:00:00Z"
+    },
+    {
+      "id": "TsS-go3TSJg",
+      "title": "【MEMBERSHIP】DR Who Watch-A-Long 09 ~! 💄",
+      "published": "2025-01-14T15:09:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/TsS-go3TSJg/maxresdefault.jpg",
+      "type": "member",
+      "duration": 7310,
+      "status": "past",
+      "scheduledStart": "2025-01-19T20:00:00Z"
     },
     {
       "id": "BuLIolGKeGQ",
@@ -1568,15 +1912,19 @@
       "published": "2025-01-13T02:17:54Z",
       "thumbnail": "https://i.ytimg.com/vi/BuLIolGKeGQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12332
+      "duration": 12332,
+      "status": "past",
+      "scheduledStart": "2025-01-12T22:30:00Z"
     },
     {
       "id": "gE__2zFt6Ik",
       "title": "【MEMBERSHIP】D&D Movie Watch-A-Long ~! 💄",
-      "published": "2025-01-12T00:00:12Z",
+      "published": "2025-01-11T13:11:33Z",
       "thumbnail": "https://i.ytimg.com/vi/gE__2zFt6Ik/maxresdefault.jpg",
       "type": "member",
-      "duration": 12855
+      "duration": 12855,
+      "status": "past",
+      "scheduledStart": "2025-01-11T20:00:00Z"
     },
     {
       "id": "ZpMlgGX7YjI",
@@ -1584,7 +1932,9 @@
       "published": "2025-01-10T00:22:29Z",
       "thumbnail": "https://i.ytimg.com/vi/ZpMlgGX7YjI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14445
+      "duration": 14445,
+      "status": "past",
+      "scheduledStart": "2025-01-09T20:00:00Z"
     },
     {
       "id": "GJMOvMXcsx8",
@@ -1592,7 +1942,9 @@
       "published": "2025-01-08T16:20:17Z",
       "thumbnail": "https://i.ytimg.com/vi/GJMOvMXcsx8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14716
+      "duration": 14716,
+      "status": "past",
+      "scheduledStart": "2025-01-08T12:00:00Z"
     },
     {
       "id": "zYttDhMGRgg",
@@ -1600,7 +1952,9 @@
       "published": "2025-01-07T22:45:52Z",
       "thumbnail": "https://i.ytimg.com/vi/zYttDhMGRgg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9703
+      "duration": 9703,
+      "status": "past",
+      "scheduledStart": "2025-01-07T20:00:00Z"
     },
     {
       "id": "JwGpVbl4YYQ",
@@ -1608,15 +1962,19 @@
       "published": "2025-01-07T18:22:59Z",
       "thumbnail": "https://i.ytimg.com/vi/JwGpVbl4YYQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8229
+      "duration": 8229,
+      "status": "past",
+      "scheduledStart": "2025-01-07T16:00:00Z"
     },
     {
       "id": "UwMaP3rgrYo",
       "title": "【MEMBERSHIP】The Adventure Zone - Listen-A-Long 01 ~! 💄",
-      "published": "2025-01-05T22:19:04Z",
+      "published": "2025-01-05T17:49:37Z",
       "thumbnail": "https://i.ytimg.com/vi/UwMaP3rgrYo/maxresdefault.jpg",
       "type": "member",
-      "duration": 10453
+      "duration": 10453,
+      "status": "past",
+      "scheduledStart": "2025-01-05T19:00:00Z"
     },
     {
       "id": "YCkTxk9CR7w",
@@ -1624,7 +1982,8 @@
       "published": "2025-01-03T22:47:36Z",
       "thumbnail": "https://i.ytimg.com/vi/YCkTxk9CR7w/maxresdefault.jpg",
       "type": "short",
-      "duration": 40
+      "duration": 40,
+      "status": "past"
     },
     {
       "id": "CsU5lWxCDDI",
@@ -1632,7 +1991,9 @@
       "published": "2025-01-02T23:41:07Z",
       "thumbnail": "https://i.ytimg.com/vi/CsU5lWxCDDI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4875
+      "duration": 4875,
+      "status": "past",
+      "scheduledStart": "2025-01-02T22:00:00Z"
     },
     {
       "id": "KUy6mtsxKDU",
@@ -1640,7 +2001,9 @@
       "published": "2025-01-01T19:33:18Z",
       "thumbnail": "https://i.ytimg.com/vi/KUy6mtsxKDU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1885
+      "duration": 1885,
+      "status": "past",
+      "scheduledStart": "2025-01-01T19:00:00Z"
     },
     {
       "id": "ZrU2Jn94sIU",
@@ -1648,7 +2011,9 @@
       "published": "2024-12-28T23:08:30Z",
       "thumbnail": "https://i.ytimg.com/vi/ZrU2Jn94sIU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4008
+      "duration": 4008,
+      "status": "past",
+      "scheduledStart": "2024-12-28T22:00:00Z"
     },
     {
       "id": "LJrBHzPv_nc",
@@ -1656,7 +2021,9 @@
       "published": "2024-12-28T01:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/LJrBHzPv_nc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12298
+      "duration": 12298,
+      "status": "past",
+      "scheduledStart": "2024-12-27T22:00:00Z"
     },
     {
       "id": "bvkenTRCZyM",
@@ -1664,7 +2031,9 @@
       "published": "2024-12-26T22:42:31Z",
       "thumbnail": "https://i.ytimg.com/vi/bvkenTRCZyM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6511
+      "duration": 6511,
+      "status": "past",
+      "scheduledStart": "2024-12-26T20:00:00Z"
     },
     {
       "id": "JBPc2ezXYJE",
@@ -1672,15 +2041,19 @@
       "published": "2024-12-25T16:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/JBPc2ezXYJE/maxresdefault.jpg",
       "type": "video",
-      "duration": 382
+      "duration": 382,
+      "status": "past",
+      "scheduledStart": "2024-12-25T16:00:00Z"
     },
     {
       "id": "7NypZPhjChE",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 08 ~! 💄",
-      "published": "2024-12-22T22:29:33Z",
+      "published": "2024-12-22T17:14:39Z",
       "thumbnail": "https://i.ytimg.com/vi/7NypZPhjChE/maxresdefault.jpg",
       "type": "member",
-      "duration": 8483
+      "duration": 8483,
+      "status": "past",
+      "scheduledStart": "2024-12-22T20:00:00Z"
     },
     {
       "id": "S00ZhY5Biyo",
@@ -1688,7 +2061,9 @@
       "published": "2024-12-18T17:29:52Z",
       "thumbnail": "https://i.ytimg.com/vi/S00ZhY5Biyo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7189
+      "duration": 7189,
+      "status": "past",
+      "scheduledStart": "2024-12-18T15:00:00Z"
     },
     {
       "id": "qXDTjLL4-H0",
@@ -1696,23 +2071,29 @@
       "published": "2024-12-17T21:08:08Z",
       "thumbnail": "https://i.ytimg.com/vi/qXDTjLL4-H0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5585
+      "duration": 5585,
+      "status": "past",
+      "scheduledStart": "2024-12-17T19:00:00Z"
     },
     {
       "id": "9gdX5zwTZEE",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 07 ~! 💄",
-      "published": "2024-12-14T23:25:26Z",
+      "published": "2024-12-14T18:24:24Z",
       "thumbnail": "https://i.ytimg.com/vi/9gdX5zwTZEE/maxresdefault.jpg",
       "type": "member",
-      "duration": 11047
+      "duration": 11047,
+      "status": "past",
+      "scheduledStart": "2024-12-14T20:00:00Z"
     },
     {
       "id": "bKruxdv8rAE",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 06 ~! 💄",
-      "published": "2024-12-08T23:43:16Z",
+      "published": "2024-12-08T18:16:53Z",
       "thumbnail": "https://i.ytimg.com/vi/bKruxdv8rAE/maxresdefault.jpg",
       "type": "member",
-      "duration": 7035
+      "duration": 7035,
+      "status": "past",
+      "scheduledStart": "2024-12-08T20:00:00Z"
     },
     {
       "id": "Gtft6Mp-CB4",
@@ -1720,7 +2101,9 @@
       "published": "2024-12-08T02:56:46Z",
       "thumbnail": "https://i.ytimg.com/vi/Gtft6Mp-CB4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10367
+      "duration": 10367,
+      "status": "past",
+      "scheduledStart": "2024-12-08T00:00:00Z"
     },
     {
       "id": "s_qsyiNNZWo",
@@ -1728,7 +2111,9 @@
       "published": "2024-12-07T14:45:20Z",
       "thumbnail": "https://i.ytimg.com/vi/s_qsyiNNZWo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9169
+      "duration": 9169,
+      "status": "past",
+      "scheduledStart": "2024-12-07T12:00:00Z"
     },
     {
       "id": "HeB6Z2zGGRQ",
@@ -1736,7 +2121,9 @@
       "published": "2024-12-06T23:35:23Z",
       "thumbnail": "https://i.ytimg.com/vi/HeB6Z2zGGRQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12251
+      "duration": 12251,
+      "status": "past",
+      "scheduledStart": "2024-12-06T20:00:00Z"
     },
     {
       "id": "cBekcLjAW00",
@@ -1744,7 +2131,9 @@
       "published": "2024-11-30T04:08:06Z",
       "thumbnail": "https://i.ytimg.com/vi/cBekcLjAW00/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7108
+      "duration": 7108,
+      "status": "past",
+      "scheduledStart": "2024-11-30T02:00:00Z"
     },
     {
       "id": "_MJEjpQRCbE",
@@ -1752,7 +2141,9 @@
       "published": "2024-11-27T01:18:43Z",
       "thumbnail": "https://i.ytimg.com/vi/_MJEjpQRCbE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7775
+      "duration": 7775,
+      "status": "past",
+      "scheduledStart": "2024-11-26T23:00:00Z"
     },
     {
       "id": "xrdUzJB5xV8",
@@ -1760,7 +2151,9 @@
       "published": "2024-11-19T23:24:29Z",
       "thumbnail": "https://i.ytimg.com/vi/xrdUzJB5xV8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8423
+      "duration": 8423,
+      "status": "past",
+      "scheduledStart": "2024-11-19T21:00:00Z"
     },
     {
       "id": "eCRLPfFYN4c",
@@ -1768,7 +2161,9 @@
       "published": "2024-11-18T05:02:53Z",
       "thumbnail": "https://i.ytimg.com/vi/eCRLPfFYN4c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10157
+      "duration": 10157,
+      "status": "past",
+      "scheduledStart": "2024-11-18T02:00:00Z"
     },
     {
       "id": "o26WztlCRJQ",
@@ -1776,7 +2171,9 @@
       "published": "2024-11-17T23:13:29Z",
       "thumbnail": "https://i.ytimg.com/vi/o26WztlCRJQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11263
+      "duration": 11263,
+      "status": "past",
+      "scheduledStart": "2024-11-17T20:00:00Z"
     },
     {
       "id": "T5VttZ423u8",
@@ -1784,7 +2181,9 @@
       "published": "2024-11-15T16:14:39Z",
       "thumbnail": "https://i.ytimg.com/vi/T5VttZ423u8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10963
+      "duration": 10963,
+      "status": "past",
+      "scheduledStart": "2024-11-15T13:00:00Z"
     },
     {
       "id": "DwK9SlwPDjA",
@@ -1792,15 +2191,19 @@
       "published": "2024-11-12T23:16:49Z",
       "thumbnail": "https://i.ytimg.com/vi/DwK9SlwPDjA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11801
+      "duration": 11801,
+      "status": "past",
+      "scheduledStart": "2024-11-12T20:00:00Z"
     },
     {
       "id": "vr_fcIrwWis",
       "title": "【MEMBERSHIP】Book Of Life - Movie Watch-A-Long ~! 💄",
-      "published": "2024-11-10T22:19:53Z",
+      "published": "2024-11-10T13:29:24Z",
       "thumbnail": "https://i.ytimg.com/vi/vr_fcIrwWis/maxresdefault.jpg",
       "type": "member",
-      "duration": 7079
+      "duration": 7079,
+      "status": "past",
+      "scheduledStart": "2024-11-10T20:00:00Z"
     },
     {
       "id": "X6gzWA41bkQ",
@@ -1808,7 +2211,8 @@
       "published": "2024-11-09T19:34:11Z",
       "thumbnail": "https://i.ytimg.com/vi/X6gzWA41bkQ/maxresdefault.jpg",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "ChlljjNLlGM",
@@ -1816,7 +2220,8 @@
       "published": "2024-11-07T19:13:32Z",
       "thumbnail": "https://i.ytimg.com/vi/ChlljjNLlGM/maxresdefault.jpg",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "MyjGbvQFh4U",
@@ -1824,7 +2229,9 @@
       "published": "2024-11-07T14:18:30Z",
       "thumbnail": "https://i.ytimg.com/vi/MyjGbvQFh4U/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5677
+      "duration": 5677,
+      "status": "past",
+      "scheduledStart": "2024-11-07T12:30:00Z"
     },
     {
       "id": "HQlZTLGIC-g",
@@ -1832,7 +2239,9 @@
       "published": "2024-11-05T23:43:47Z",
       "thumbnail": "https://i.ytimg.com/vi/HQlZTLGIC-g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12763
+      "duration": 12763,
+      "status": "past",
+      "scheduledStart": "2024-11-05T20:00:00Z"
     },
     {
       "id": "vy7fEjpg4-E",
@@ -1840,7 +2249,8 @@
       "published": "2024-11-05T19:01:01Z",
       "thumbnail": "https://i.ytimg.com/vi/vy7fEjpg4-E/maxresdefault.jpg",
       "type": "short",
-      "duration": 50
+      "duration": 50,
+      "status": "past"
     },
     {
       "id": "bdwGIYhBXuU",
@@ -1848,7 +2258,9 @@
       "published": "2024-11-01T06:55:35Z",
       "thumbnail": "https://i.ytimg.com/vi/bdwGIYhBXuU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6927
+      "duration": 6927,
+      "status": "past",
+      "scheduledStart": "2024-11-01T04:00:00Z"
     },
     {
       "id": "q9Uqqc1J-H8",
@@ -1856,7 +2268,9 @@
       "published": "2024-10-31T19:23:53Z",
       "thumbnail": "https://i.ytimg.com/vi/q9Uqqc1J-H8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11357
+      "duration": 11357,
+      "status": "past",
+      "scheduledStart": "2024-10-31T16:00:00Z"
     },
     {
       "id": "iRtYWW-5G4U",
@@ -1864,7 +2278,9 @@
       "published": "2024-10-28T22:35:18Z",
       "thumbnail": "https://i.ytimg.com/vi/iRtYWW-5G4U/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8720
+      "duration": 8720,
+      "status": "past",
+      "scheduledStart": "2024-10-28T20:00:00Z"
     },
     {
       "id": "wH2f7TGXXfs",
@@ -1872,7 +2288,9 @@
       "published": "2024-10-27T18:33:39Z",
       "thumbnail": "https://i.ytimg.com/vi/wH2f7TGXXfs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1572
+      "duration": 1572,
+      "status": "past",
+      "scheduledStart": "2024-10-27T18:00:00Z"
     },
     {
       "id": "0_4kL3rODrA",
@@ -1880,7 +2298,9 @@
       "published": "2024-10-24T22:57:28Z",
       "thumbnail": "https://i.ytimg.com/vi/0_4kL3rODrA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12725
+      "duration": 12725,
+      "status": "past",
+      "scheduledStart": "2024-10-24T19:00:00Z"
     },
     {
       "id": "euOFfD-l-zM",
@@ -1888,7 +2308,9 @@
       "published": "2024-10-24T14:58:05Z",
       "thumbnail": "https://i.ytimg.com/vi/euOFfD-l-zM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9605
+      "duration": 9605,
+      "status": "past",
+      "scheduledStart": "2024-10-24T12:00:00Z"
     },
     {
       "id": "QAPasXCYkPU",
@@ -1896,7 +2318,9 @@
       "published": "2024-10-20T20:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/QAPasXCYkPU/maxresdefault.jpg",
       "type": "video",
-      "duration": 263
+      "duration": 263,
+      "status": "past",
+      "scheduledStart": "2024-10-20T20:00:00Z"
     },
     {
       "id": "y8Nn0CdTlzU",
@@ -1904,7 +2328,9 @@
       "published": "2024-10-15T21:29:40Z",
       "thumbnail": "https://i.ytimg.com/vi/y8Nn0CdTlzU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10846
+      "duration": 10846,
+      "status": "past",
+      "scheduledStart": "2024-10-15T18:00:00Z"
     },
     {
       "id": "4UZA-AKJHGo",
@@ -1912,7 +2338,9 @@
       "published": "2024-10-12T21:55:30Z",
       "thumbnail": "https://i.ytimg.com/vi/4UZA-AKJHGo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8935
+      "duration": 8935,
+      "status": "past",
+      "scheduledStart": "2024-10-12T19:15:00Z"
     },
     {
       "id": "Epwhauo2YdY",
@@ -1920,7 +2348,8 @@
       "published": "2024-10-11T17:06:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Epwhauo2YdY/maxresdefault.jpg",
       "type": "short",
-      "duration": 60
+      "duration": 60,
+      "status": "past"
     },
     {
       "id": "PxvatDpLsUU",
@@ -1928,15 +2357,19 @@
       "published": "2024-10-10T00:13:22Z",
       "thumbnail": "https://i.ytimg.com/vi/PxvatDpLsUU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10067
+      "duration": 10067,
+      "status": "past",
+      "scheduledStart": "2024-10-09T21:15:00Z"
     },
     {
       "id": "6a7JkqZ4Deg",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 05 ~! 💄",
-      "published": "2024-10-06T21:14:17Z",
+      "published": "2024-10-06T16:55:53Z",
       "thumbnail": "https://i.ytimg.com/vi/6a7JkqZ4Deg/maxresdefault.jpg",
       "type": "member",
-      "duration": 10797
+      "duration": 10797,
+      "status": "past",
+      "scheduledStart": "2024-10-06T18:00:00Z"
     },
     {
       "id": "lozndyt62NI",
@@ -1944,7 +2377,9 @@
       "published": "2024-10-06T13:27:12Z",
       "thumbnail": "https://i.ytimg.com/vi/lozndyt62NI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8285
+      "duration": 8285,
+      "status": "past",
+      "scheduledStart": "2024-10-06T11:00:00Z"
     },
     {
       "id": "Sn9z6-5dNcw",
@@ -1952,7 +2387,9 @@
       "published": "2024-10-05T23:24:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Sn9z6-5dNcw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14965
+      "duration": 14965,
+      "status": "past",
+      "scheduledStart": "2024-10-05T19:00:00Z"
     },
     {
       "id": "D6priUlfgnM",
@@ -1960,15 +2397,19 @@
       "published": "2024-10-02T23:46:21Z",
       "thumbnail": "https://i.ytimg.com/vi/D6priUlfgnM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16176
+      "duration": 16176,
+      "status": "past",
+      "scheduledStart": "2024-10-02T19:00:00Z"
     },
     {
       "id": "e3qMyZcVQB4",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 04 ~! 💄",
-      "published": "2024-09-29T22:01:43Z",
+      "published": "2024-09-29T17:09:27Z",
       "thumbnail": "https://i.ytimg.com/vi/e3qMyZcVQB4/maxresdefault.jpg",
       "type": "member",
-      "duration": 9683
+      "duration": 9683,
+      "status": "past",
+      "scheduledStart": "2024-09-29T19:00:00Z"
     },
     {
       "id": "MtYZyx1AMH4",
@@ -1976,7 +2417,9 @@
       "published": "2024-09-28T22:06:11Z",
       "thumbnail": "https://i.ytimg.com/vi/MtYZyx1AMH4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10517
+      "duration": 10517,
+      "status": "past",
+      "scheduledStart": "2024-09-28T19:00:00Z"
     },
     {
       "id": "Sv2izhi7gFg",
@@ -1984,15 +2427,19 @@
       "published": "2024-09-26T21:28:39Z",
       "thumbnail": "https://i.ytimg.com/vi/Sv2izhi7gFg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11685
+      "duration": 11685,
+      "status": "past",
+      "scheduledStart": "2024-09-26T18:00:00Z"
     },
     {
       "id": "hMFVEyMgKoc",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 03 ~! 💄",
-      "published": "2024-09-22T21:59:41Z",
+      "published": "2024-09-22T14:07:47Z",
       "thumbnail": "https://i.ytimg.com/vi/hMFVEyMgKoc/maxresdefault.jpg",
       "type": "member",
-      "duration": 12079
+      "duration": 12079,
+      "status": "past",
+      "scheduledStart": "2024-09-22T18:30:00Z"
     },
     {
       "id": "LLUqjxkVel8",
@@ -2000,15 +2447,19 @@
       "published": "2024-09-21T17:29:18Z",
       "thumbnail": "https://i.ytimg.com/vi/LLUqjxkVel8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15049
+      "duration": 15049,
+      "status": "past",
+      "scheduledStart": "2024-09-21T13:00:00Z"
     },
     {
       "id": "M28n4JJ0yjY",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 02 ~! 💄",
-      "published": "2024-09-15T22:33:22Z",
+      "published": "2024-09-15T04:29:24Z",
       "thumbnail": "https://i.ytimg.com/vi/M28n4JJ0yjY/maxresdefault.jpg",
       "type": "member",
-      "duration": 13315
+      "duration": 13315,
+      "status": "past",
+      "scheduledStart": "2024-09-15T18:30:00Z"
     },
     {
       "id": "sDmtRFaNIUk",
@@ -2016,7 +2467,9 @@
       "published": "2024-09-10T21:46:06Z",
       "thumbnail": "https://i.ytimg.com/vi/sDmtRFaNIUk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12753
+      "duration": 12753,
+      "status": "past",
+      "scheduledStart": "2024-09-10T18:00:00Z"
     },
     {
       "id": "_urPfTQnLes",
@@ -2024,7 +2477,9 @@
       "published": "2024-09-08T04:24:01Z",
       "thumbnail": "https://i.ytimg.com/vi/_urPfTQnLes/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20108
+      "duration": 20108,
+      "status": "past",
+      "scheduledStart": "2024-09-07T22:30:00Z"
     },
     {
       "id": "Gw0dZbPKTG4",
@@ -2032,7 +2487,9 @@
       "published": "2024-09-06T23:51:15Z",
       "thumbnail": "https://i.ytimg.com/vi/Gw0dZbPKTG4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8217
+      "duration": 8217,
+      "status": "past",
+      "scheduledStart": "2024-09-06T21:30:00Z"
     },
     {
       "id": "5R01-igo4sM",
@@ -2040,7 +2497,9 @@
       "published": "2024-09-06T05:25:22Z",
       "thumbnail": "https://i.ytimg.com/vi/5R01-igo4sM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11553
+      "duration": 11553,
+      "status": "past",
+      "scheduledStart": "2024-09-06T02:00:00Z"
     },
     {
       "id": "1_dhGL0K5-k",
@@ -2048,7 +2507,9 @@
       "published": "2024-09-05T05:41:29Z",
       "thumbnail": "https://i.ytimg.com/vi/1_dhGL0K5-k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12791
+      "duration": 12791,
+      "status": "past",
+      "scheduledStart": "2024-09-05T02:00:00Z"
     },
     {
       "id": "dCNrMstGc3I",
@@ -2056,7 +2517,9 @@
       "published": "2024-09-04T05:26:49Z",
       "thumbnail": "https://i.ytimg.com/vi/dCNrMstGc3I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10181
+      "duration": 10181,
+      "status": "past",
+      "scheduledStart": "2024-09-04T02:30:00Z"
     },
     {
       "id": "oVguNTPnDww",
@@ -2064,7 +2527,9 @@
       "published": "2024-09-03T03:52:17Z",
       "thumbnail": "https://i.ytimg.com/vi/oVguNTPnDww/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9963
+      "duration": 9963,
+      "status": "past",
+      "scheduledStart": "2024-09-03T01:00:00Z"
     },
     {
       "id": "M3cuDNZrIKM",
@@ -2072,7 +2537,9 @@
       "published": "2024-09-02T05:07:30Z",
       "thumbnail": "https://i.ytimg.com/vi/M3cuDNZrIKM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11131
+      "duration": 11131,
+      "status": "past",
+      "scheduledStart": "2024-09-02T02:00:00Z"
     },
     {
       "id": "2qiX7084obE",
@@ -2080,7 +2547,9 @@
       "published": "2024-09-01T05:56:03Z",
       "thumbnail": "https://i.ytimg.com/vi/2qiX7084obE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13407
+      "duration": 13407,
+      "status": "past",
+      "scheduledStart": "2024-09-01T02:00:00Z"
     },
     {
       "id": "oZufzBfeXlU",
@@ -2088,7 +2557,9 @@
       "published": "2024-08-27T11:15:57Z",
       "thumbnail": "https://i.ytimg.com/vi/oZufzBfeXlU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7255
+      "duration": 7255,
+      "status": "past",
+      "scheduledStart": "2024-08-27T09:00:00Z"
     },
     {
       "id": "et_wNL1Qt-s",
@@ -2096,15 +2567,19 @@
       "published": "2024-08-26T22:43:17Z",
       "thumbnail": "https://i.ytimg.com/vi/et_wNL1Qt-s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12699
+      "duration": 12699,
+      "status": "past",
+      "scheduledStart": "2024-08-26T19:00:00Z"
     },
     {
       "id": "poDYSi_spbA",
       "title": "【MEMBERSHIP】Drawing! Fan-Mascot Multiverse OC ~! 💄",
-      "published": "2024-08-22T21:44:56Z",
+      "published": "2024-08-22T14:44:27Z",
       "thumbnail": "https://i.ytimg.com/vi/poDYSi_spbA/maxresdefault.jpg",
       "type": "member",
-      "duration": 11451
+      "duration": 11451,
+      "status": "past",
+      "scheduledStart": "2024-08-22T18:30:00Z"
     },
     {
       "id": "zmF_4TxXsng",
@@ -2112,7 +2587,9 @@
       "published": "2024-08-22T12:46:18Z",
       "thumbnail": "https://i.ytimg.com/vi/zmF_4TxXsng/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12447
+      "duration": 12447,
+      "status": "past",
+      "scheduledStart": "2024-08-22T09:00:00Z"
     },
     {
       "id": "dpYv9bJrgss",
@@ -2120,7 +2597,9 @@
       "published": "2024-08-21T22:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/dpYv9bJrgss/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12153
+      "duration": 12153,
+      "status": "past",
+      "scheduledStart": "2024-08-21T18:30:00Z"
     },
     {
       "id": "Wtf5mc1Yq3c",
@@ -2128,7 +2607,9 @@
       "published": "2024-08-20T21:34:15Z",
       "thumbnail": "https://i.ytimg.com/vi/Wtf5mc1Yq3c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11907
+      "duration": 11907,
+      "status": "past",
+      "scheduledStart": "2024-08-20T18:00:00Z"
     },
     {
       "id": "eP29jR49UDs",
@@ -2136,7 +2617,9 @@
       "published": "2024-08-18T21:09:54Z",
       "thumbnail": "https://i.ytimg.com/vi/eP29jR49UDs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7057
+      "duration": 7057,
+      "status": "past",
+      "scheduledStart": "2024-08-18T19:00:00Z"
     },
     {
       "id": "7HQg4ysQ1Us",
@@ -2144,15 +2627,19 @@
       "published": "2024-08-14T21:18:23Z",
       "thumbnail": "https://i.ytimg.com/vi/7HQg4ysQ1Us/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14706
+      "duration": 14706,
+      "status": "past",
+      "scheduledStart": "2024-08-14T17:00:00Z"
     },
     {
       "id": "ZJ31oaYAUfA",
       "title": "【MEMBERSHIP】DR Who Watch-A-Long 01 ~! 💄",
-      "published": "2024-08-10T22:19:46Z",
+      "published": "2024-08-10T17:22:18Z",
       "thumbnail": "https://i.ytimg.com/vi/ZJ31oaYAUfA/maxresdefault.jpg",
       "type": "member",
-      "duration": 14347
+      "duration": 14347,
+      "status": "past",
+      "scheduledStart": "2024-08-10T18:00:00Z"
     },
     {
       "id": "GHZmimVJslE",
@@ -2160,7 +2647,9 @@
       "published": "2024-08-09T00:55:09Z",
       "thumbnail": "https://i.ytimg.com/vi/GHZmimVJslE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13433
+      "duration": 13433,
+      "status": "past",
+      "scheduledStart": "2024-08-08T21:00:00Z"
     },
     {
       "id": "lY_DwurJ0iM",
@@ -2168,7 +2657,9 @@
       "published": "2024-08-08T19:32:27Z",
       "thumbnail": "https://i.ytimg.com/vi/lY_DwurJ0iM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8641
+      "duration": 8641,
+      "status": "past",
+      "scheduledStart": "2024-08-08T17:00:00Z"
     },
     {
       "id": "NHDlgPjY9fM",
@@ -2176,7 +2667,9 @@
       "published": "2024-08-06T22:13:07Z",
       "thumbnail": "https://i.ytimg.com/vi/NHDlgPjY9fM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6833
+      "duration": 6833,
+      "status": "past",
+      "scheduledStart": "2024-08-06T20:00:00Z"
     },
     {
       "id": "PuselUTM590",
@@ -2184,7 +2677,9 @@
       "published": "2024-08-05T21:21:24Z",
       "thumbnail": "https://i.ytimg.com/vi/PuselUTM590/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6525
+      "duration": 6525,
+      "status": "past",
+      "scheduledStart": "2024-08-05T19:00:00Z"
     },
     {
       "id": "_if-b00-7tg",
@@ -2192,7 +2687,9 @@
       "published": "2024-07-30T14:46:24Z",
       "thumbnail": "https://i.ytimg.com/vi/_if-b00-7tg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7742
+      "duration": 7742,
+      "status": "past",
+      "scheduledStart": "2024-07-30T12:00:00Z"
     },
     {
       "id": "dj_JcwU6LFA",
@@ -2200,7 +2697,9 @@
       "published": "2024-07-29T23:05:16Z",
       "thumbnail": "https://i.ytimg.com/vi/dj_JcwU6LFA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17466
+      "duration": 17466,
+      "status": "past",
+      "scheduledStart": "2024-07-29T18:00:00Z"
     },
     {
       "id": "dyJopvLJliU",
@@ -2208,7 +2707,9 @@
       "published": "2024-07-28T20:11:29Z",
       "thumbnail": "https://i.ytimg.com/vi/dyJopvLJliU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11069
+      "duration": 11069,
+      "status": "past",
+      "scheduledStart": "2024-07-28T17:00:00Z"
     },
     {
       "id": "W2yN6BCpfBo",
@@ -2216,7 +2717,9 @@
       "published": "2024-07-26T23:47:50Z",
       "thumbnail": "https://i.ytimg.com/vi/W2yN6BCpfBo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12977
+      "duration": 12977,
+      "status": "past",
+      "scheduledStart": "2024-07-26T20:00:00Z"
     },
     {
       "id": "cZeCCiX9V-8",
@@ -2224,7 +2727,9 @@
       "published": "2024-07-24T23:48:54Z",
       "thumbnail": "https://i.ytimg.com/vi/cZeCCiX9V-8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8685
+      "duration": 8685,
+      "status": "past",
+      "scheduledStart": "2024-07-24T21:00:00Z"
     },
     {
       "id": "CVIbK0Xaa3w",
@@ -2232,7 +2737,9 @@
       "published": "2024-07-24T19:17:22Z",
       "thumbnail": "https://i.ytimg.com/vi/CVIbK0Xaa3w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8083
+      "duration": 8083,
+      "status": "past",
+      "scheduledStart": "2024-07-24T17:00:00Z"
     },
     {
       "id": "brFG95mUUg8",
@@ -2240,7 +2747,9 @@
       "published": "2024-07-22T19:14:33Z",
       "thumbnail": "https://i.ytimg.com/vi/brFG95mUUg8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11057
+      "duration": 11057,
+      "status": "past",
+      "scheduledStart": "2024-07-22T16:00:00Z"
     },
     {
       "id": "fxvyyBIBNA8",
@@ -2248,7 +2757,9 @@
       "published": "2024-07-22T03:27:52Z",
       "thumbnail": "https://i.ytimg.com/vi/fxvyyBIBNA8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7536
+      "duration": 7536,
+      "status": "past",
+      "scheduledStart": "2024-07-22T01:00:00Z"
     },
     {
       "id": "tXbrw-i0kkc",
@@ -2256,7 +2767,9 @@
       "published": "2024-07-22T00:03:04Z",
       "thumbnail": "https://i.ytimg.com/vi/tXbrw-i0kkc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6961
+      "duration": 6961,
+      "status": "past",
+      "scheduledStart": "2024-07-21T22:00:00Z"
     },
     {
       "id": "hFnEdol3oZw",
@@ -2264,7 +2777,9 @@
       "published": "2024-07-21T18:54:16Z",
       "thumbnail": "https://i.ytimg.com/vi/hFnEdol3oZw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9556
+      "duration": 9556,
+      "status": "past",
+      "scheduledStart": "2024-07-21T15:00:00Z"
     },
     {
       "id": "tNaF7e9XRYw",
@@ -2272,7 +2787,9 @@
       "published": "2024-07-20T21:06:14Z",
       "thumbnail": "https://i.ytimg.com/vi/tNaF7e9XRYw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3746
+      "duration": 3746,
+      "status": "past",
+      "scheduledStart": "2024-07-20T20:00:00Z"
     },
     {
       "id": "zxapgYwDkco",
@@ -2280,7 +2797,9 @@
       "published": "2024-07-19T20:53:34Z",
       "thumbnail": "https://i.ytimg.com/vi/zxapgYwDkco/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6375
+      "duration": 6375,
+      "status": "past",
+      "scheduledStart": "2024-07-19T18:15:00Z"
     },
     {
       "id": "oNs2q_PLpe8",
@@ -2288,7 +2807,9 @@
       "published": "2024-07-18T21:02:49Z",
       "thumbnail": "https://i.ytimg.com/vi/oNs2q_PLpe8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13282
+      "duration": 13282,
+      "status": "past",
+      "scheduledStart": "2024-07-18T17:00:00Z"
     },
     {
       "id": "QolpOsUVh_M",
@@ -2296,7 +2817,9 @@
       "published": "2024-07-17T01:18:33Z",
       "thumbnail": "https://i.ytimg.com/vi/QolpOsUVh_M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10711
+      "duration": 10711,
+      "status": "past",
+      "scheduledStart": "2024-07-16T22:00:00Z"
     },
     {
       "id": "CbGy_dthT_0",
@@ -2304,7 +2827,9 @@
       "published": "2024-07-15T21:40:16Z",
       "thumbnail": "https://i.ytimg.com/vi/CbGy_dthT_0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12687
+      "duration": 12687,
+      "status": "past",
+      "scheduledStart": "2024-07-15T18:00:00Z"
     },
     {
       "id": "H2cZ3yPPqIk",
@@ -2312,7 +2837,9 @@
       "published": "2024-07-14T20:45:05Z",
       "thumbnail": "https://i.ytimg.com/vi/H2cZ3yPPqIk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11901
+      "duration": 11901,
+      "status": "past",
+      "scheduledStart": "2024-07-14T17:00:00Z"
     },
     {
       "id": "a5eqICKPnek",
@@ -2320,7 +2847,9 @@
       "published": "2024-07-14T02:46:33Z",
       "thumbnail": "https://i.ytimg.com/vi/a5eqICKPnek/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9677
+      "duration": 9677,
+      "status": "past",
+      "scheduledStart": "2024-07-14T00:00:00Z"
     },
     {
       "id": "WasWmE5MsAg",
@@ -2328,7 +2857,9 @@
       "published": "2024-07-08T23:47:29Z",
       "thumbnail": "https://i.ytimg.com/vi/WasWmE5MsAg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19965
+      "duration": 19965,
+      "status": "past",
+      "scheduledStart": "2024-07-08T18:00:00Z"
     },
     {
       "id": "T68MKhkRS-g",
@@ -2336,7 +2867,9 @@
       "published": "2024-07-07T18:35:07Z",
       "thumbnail": "https://i.ytimg.com/vi/T68MKhkRS-g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1991
+      "duration": 1991,
+      "status": "past",
+      "scheduledStart": "2024-07-07T18:00:00Z"
     },
     {
       "id": "wUzCkIYB_CQ",
@@ -2344,7 +2877,8 @@
       "published": "2024-07-06T23:33:09Z",
       "thumbnail": "https://i.ytimg.com/vi/wUzCkIYB_CQ/maxresdefault.jpg",
       "type": "short",
-      "duration": 58
+      "duration": 58,
+      "status": "past"
     },
     {
       "id": "g0HLlIXj5ks",
@@ -2352,7 +2886,9 @@
       "published": "2024-07-06T05:19:30Z",
       "thumbnail": "https://i.ytimg.com/vi/g0HLlIXj5ks/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4943
+      "duration": 4943,
+      "status": "past",
+      "scheduledStart": "2024-07-06T03:00:00Z"
     },
     {
       "id": "oTP1YGH6qhU",
@@ -2360,7 +2896,9 @@
       "published": "2024-07-04T21:52:34Z",
       "thumbnail": "https://i.ytimg.com/vi/oTP1YGH6qhU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13263
+      "duration": 13263,
+      "status": "past",
+      "scheduledStart": "2024-07-04T18:00:00Z"
     },
     {
       "id": "j2GacYNEm8s",
@@ -2368,7 +2906,9 @@
       "published": "2024-07-03T20:18:59Z",
       "thumbnail": "https://i.ytimg.com/vi/j2GacYNEm8s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11317
+      "duration": 11317,
+      "status": "past",
+      "scheduledStart": "2024-07-03T17:00:00Z"
     },
     {
       "id": "SjbxGrMevWg",
@@ -2376,7 +2916,8 @@
       "published": "2024-07-02T20:31:52Z",
       "thumbnail": "https://i.ytimg.com/vi/SjbxGrMevWg/maxresdefault.jpg",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "nXNDnqdTJ2w",
@@ -2384,7 +2925,9 @@
       "published": "2024-06-30T20:39:11Z",
       "thumbnail": "https://i.ytimg.com/vi/nXNDnqdTJ2w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9045
+      "duration": 9045,
+      "status": "past",
+      "scheduledStart": "2024-06-30T18:00:00Z"
     },
     {
       "id": "lWhR8sk-0xo",
@@ -2392,7 +2935,9 @@
       "published": "2024-06-28T20:22:11Z",
       "thumbnail": "https://i.ytimg.com/vi/lWhR8sk-0xo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7727
+      "duration": 7727,
+      "status": "past",
+      "scheduledStart": "2024-06-28T18:00:00Z"
     },
     {
       "id": "6yo3vLlqprs",
@@ -2400,7 +2945,9 @@
       "published": "2024-06-24T21:34:21Z",
       "thumbnail": "https://i.ytimg.com/vi/6yo3vLlqprs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12191
+      "duration": 12191,
+      "status": "past",
+      "scheduledStart": "2024-06-24T18:00:00Z"
     },
     {
       "id": "5CM2dON8xhY",
@@ -2408,7 +2955,9 @@
       "published": "2024-06-23T20:13:54Z",
       "thumbnail": "https://i.ytimg.com/vi/5CM2dON8xhY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3783
+      "duration": 3783,
+      "status": "past",
+      "scheduledStart": "2024-06-23T19:00:00Z"
     },
     {
       "id": "j89Phi0oom8",
@@ -2416,7 +2965,9 @@
       "published": "2024-06-23T05:40:44Z",
       "thumbnail": "https://i.ytimg.com/vi/j89Phi0oom8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3606
+      "duration": 3606,
+      "status": "past",
+      "scheduledStart": "2024-06-23T04:30:00Z"
     },
     {
       "id": "NdlSHUEVCj8",
@@ -2424,7 +2975,9 @@
       "published": "2024-06-22T03:46:34Z",
       "thumbnail": "https://i.ytimg.com/vi/NdlSHUEVCj8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2605
+      "duration": 2605,
+      "status": "past",
+      "scheduledStart": "2024-06-22T03:00:00Z"
     },
     {
       "id": "zZXW_iXIrss",
@@ -2432,7 +2985,9 @@
       "published": "2024-06-22T03:40:18Z",
       "thumbnail": "https://i.ytimg.com/vi/zZXW_iXIrss/maxresdefault.jpg",
       "type": "video",
-      "duration": 186
+      "duration": 186,
+      "status": "past",
+      "scheduledStart": "2024-06-22T03:40:00Z"
     },
     {
       "id": "of2fXW-VmrY",
@@ -2440,7 +2995,8 @@
       "published": "2024-06-20T15:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/of2fXW-VmrY/maxresdefault.jpg",
       "type": "short",
-      "duration": 13
+      "duration": 13,
+      "status": "past"
     },
     {
       "id": "EDzEeX8thOo",
@@ -2448,7 +3004,8 @@
       "published": "2024-06-19T04:33:46Z",
       "thumbnail": "https://i.ytimg.com/vi/EDzEeX8thOo/maxresdefault.jpg",
       "type": "video",
-      "duration": 38
+      "duration": 38,
+      "status": "past"
     }
   ]
 }

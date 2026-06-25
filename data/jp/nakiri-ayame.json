@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
     "bannerUrl": "https://yt3.googleusercontent.com/JafmaaGU8bTW-rPXpH_NdUn7w1we8KQH4lxgOYj4TvX4gtPbzi-MgG_kwlepLEEsH4hmkaVD=s0"
   },
-  "lastUpdated": "2026-06-03T03:02:47.258Z",
+  "lastUpdated": "2026-06-25T13:02:02.982Z",
   "videoCount": 493,
   "videos": [
     {
@@ -16,7 +16,9 @@
       "published": "2026-05-26T11:15:38Z",
       "thumbnail": "https://i.ytimg.com/vi/g1jF4SJP2-E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4168
+      "duration": 4168,
+      "status": "past",
+      "scheduledStart": "2026-05-26T10:00:00Z"
     },
     {
       "id": "cHe1fVaXqEk",
@@ -24,7 +26,9 @@
       "published": "2026-05-03T14:09:00Z",
       "thumbnail": "https://i.ytimg.com/vi/cHe1fVaXqEk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6973
+      "duration": 6973,
+      "status": "past",
+      "scheduledStart": "2026-05-03T12:00:00Z"
     },
     {
       "id": "V1yGuLLbHJo",
@@ -32,7 +36,9 @@
       "published": "2026-04-29T14:59:58Z",
       "thumbnail": "https://i.ytimg.com/vi/V1yGuLLbHJo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10006
+      "duration": 10006,
+      "status": "past",
+      "scheduledStart": "2026-04-29T12:00:00Z"
     },
     {
       "id": "yXjPu4K1Vkg",
@@ -40,7 +46,9 @@
       "published": "2026-04-26T14:45:41Z",
       "thumbnail": "https://i.ytimg.com/vi/yXjPu4K1Vkg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8616
+      "duration": 8616,
+      "status": "past",
+      "scheduledStart": "2026-04-26T12:00:00Z"
     },
     {
       "id": "e7JvA7J1jNs",
@@ -48,7 +56,9 @@
       "published": "2026-04-25T17:52:49Z",
       "thumbnail": "https://i.ytimg.com/vi/e7JvA7J1jNs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20147
+      "duration": 20147,
+      "status": "past",
+      "scheduledStart": "2026-04-25T12:00:00Z"
     },
     {
       "id": "9QzgnlmSdJY",
@@ -56,7 +66,9 @@
       "published": "2026-04-22T14:59:04Z",
       "thumbnail": "https://i.ytimg.com/vi/9QzgnlmSdJY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6341
+      "duration": 6341,
+      "status": "past",
+      "scheduledStart": "2026-04-22T13:00:00Z"
     },
     {
       "id": "QoOrIeK9Zqo",
@@ -64,7 +76,9 @@
       "published": "2026-04-19T12:54:54Z",
       "thumbnail": "https://i.ytimg.com/vi/QoOrIeK9Zqo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6369
+      "duration": 6369,
+      "status": "past",
+      "scheduledStart": "2026-04-19T11:00:00Z"
     },
     {
       "id": "lVaCdidMYhs",
@@ -72,7 +86,9 @@
       "published": "2026-04-07T17:54:50Z",
       "thumbnail": "https://i.ytimg.com/vi/lVaCdidMYhs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19700
+      "duration": 19700,
+      "status": "past",
+      "scheduledStart": "2026-04-07T12:00:00Z"
     },
     {
       "id": "dr2emPsEh5w",
@@ -80,7 +96,9 @@
       "published": "2026-04-03T13:23:35Z",
       "thumbnail": "https://i.ytimg.com/vi/dr2emPsEh5w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4216
+      "duration": 4216,
+      "status": "past",
+      "scheduledStart": "2026-04-03T12:00:00Z"
     },
     {
       "id": "E1DuNe3uIrY",
@@ -88,7 +106,9 @@
       "published": "2026-03-31T16:42:27Z",
       "thumbnail": "https://i.ytimg.com/vi/E1DuNe3uIrY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16134
+      "duration": 16134,
+      "status": "past",
+      "scheduledStart": "2026-03-31T12:00:00Z"
     },
     {
       "id": "2srqHwe62vE",
@@ -96,15 +116,19 @@
       "published": "2026-03-28T13:33:31Z",
       "thumbnail": "https://i.ytimg.com/vi/2srqHwe62vE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15390
+      "duration": 15390,
+      "status": "past",
+      "scheduledStart": "2026-03-28T09:00:00Z"
     },
     {
       "id": "_WtnFRQMdv0",
       "title": "【メン限】ゆるゆるメン限雑談 membership only【百鬼あやめ/ホロライブ】",
-      "published": "2026-03-27T17:00:47Z",
+      "published": "2026-03-27T11:05:55Z",
       "thumbnail": "https://i.ytimg.com/vi/_WtnFRQMdv0/maxresdefault.jpg",
       "type": "member",
-      "duration": 13517
+      "duration": 13517,
+      "status": "past",
+      "scheduledStart": "2026-03-27T13:00:00Z"
     },
     {
       "id": "HWfkOXe3ThY",
@@ -112,7 +136,9 @@
       "published": "2026-03-25T16:34:27Z",
       "thumbnail": "https://i.ytimg.com/vi/HWfkOXe3ThY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11838
+      "duration": 11838,
+      "status": "past",
+      "scheduledStart": "2026-03-25T13:00:00Z"
     },
     {
       "id": "lV5pwvzvcO0",
@@ -120,7 +146,9 @@
       "published": "2026-03-22T03:54:09Z",
       "thumbnail": "https://i.ytimg.com/vi/lV5pwvzvcO0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9257
+      "duration": 9257,
+      "status": "past",
+      "scheduledStart": "2026-03-22T01:00:00Z"
     },
     {
       "id": "it6ThVMv5BY",
@@ -128,7 +156,9 @@
       "published": "2026-03-21T14:06:57Z",
       "thumbnail": "https://i.ytimg.com/vi/it6ThVMv5BY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10478
+      "duration": 10478,
+      "status": "past",
+      "scheduledStart": "2026-03-21T11:00:00Z"
     },
     {
       "id": "JqaYwRmGKHQ",
@@ -136,7 +166,9 @@
       "published": "2026-03-19T13:33:34Z",
       "thumbnail": "https://i.ytimg.com/vi/JqaYwRmGKHQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4992
+      "duration": 4992,
+      "status": "past",
+      "scheduledStart": "2026-03-19T12:00:00Z"
     },
     {
       "id": "4tjcBCqoLkE",
@@ -144,7 +176,9 @@
       "published": "2026-03-18T13:24:59Z",
       "thumbnail": "https://i.ytimg.com/vi/4tjcBCqoLkE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11548
+      "duration": 11548,
+      "status": "past",
+      "scheduledStart": "2026-03-18T10:00:00Z"
     },
     {
       "id": "lkNoLMeFPpQ",
@@ -152,7 +186,9 @@
       "published": "2026-03-17T16:16:15Z",
       "thumbnail": "https://i.ytimg.com/vi/lkNoLMeFPpQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10852
+      "duration": 10852,
+      "status": "past",
+      "scheduledStart": "2026-03-17T13:00:00Z"
     },
     {
       "id": "Oi4HHboBJrw",
@@ -160,7 +196,9 @@
       "published": "2026-03-15T13:26:47Z",
       "thumbnail": "https://i.ytimg.com/vi/Oi4HHboBJrw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4660
+      "duration": 4660,
+      "status": "past",
+      "scheduledStart": "2026-03-15T12:00:00Z"
     },
     {
       "id": "ycX26rZyjTE",
@@ -168,7 +206,9 @@
       "published": "2026-03-14T14:24:36Z",
       "thumbnail": "https://i.ytimg.com/vi/ycX26rZyjTE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11133
+      "duration": 11133,
+      "status": "past",
+      "scheduledStart": "2026-03-14T11:00:00Z"
     },
     {
       "id": "U41oC6fXQ2M",
@@ -176,7 +216,9 @@
       "published": "2026-03-09T14:45:50Z",
       "thumbnail": "https://i.ytimg.com/vi/U41oC6fXQ2M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9170
+      "duration": 9170,
+      "status": "past",
+      "scheduledStart": "2026-03-09T12:00:00Z"
     },
     {
       "id": "n4yLsTkrNg0",
@@ -184,7 +226,9 @@
       "published": "2026-03-08T17:17:57Z",
       "thumbnail": "https://i.ytimg.com/vi/n4yLsTkrNg0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17793
+      "duration": 17793,
+      "status": "past",
+      "scheduledStart": "2026-03-08T12:00:00Z"
     },
     {
       "id": "DqdkBWhDPgg",
@@ -192,15 +236,19 @@
       "published": "2026-02-26T12:37:21Z",
       "thumbnail": "https://i.ytimg.com/vi/DqdkBWhDPgg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5288
+      "duration": 5288,
+      "status": "past",
+      "scheduledStart": "2026-02-26T11:00:00Z"
     },
     {
       "id": "uXTh0gOG4zk",
       "title": "【メン限】メン限 chill雑談 membership only【百鬼あやめ/ホロライブ】",
-      "published": "2026-02-18T15:42:19Z",
+      "published": "2026-02-18T11:20:30Z",
       "thumbnail": "https://i.ytimg.com/vi/uXTh0gOG4zk/maxresdefault.jpg",
       "type": "member",
-      "duration": 12520
+      "duration": 12520,
+      "status": "past",
+      "scheduledStart": "2026-02-18T12:00:00Z"
     },
     {
       "id": "7RG6f33ZOvU",
@@ -208,7 +256,9 @@
       "published": "2026-02-14T15:19:45Z",
       "thumbnail": "https://i.ytimg.com/vi/7RG6f33ZOvU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11030
+      "duration": 11030,
+      "status": "past",
+      "scheduledStart": "2026-02-14T12:00:00Z"
     },
     {
       "id": "7tomVCWzzx4",
@@ -216,7 +266,9 @@
       "published": "2026-02-13T14:41:39Z",
       "thumbnail": "https://i.ytimg.com/vi/7tomVCWzzx4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9077
+      "duration": 9077,
+      "status": "past",
+      "scheduledStart": "2026-02-13T12:00:00Z"
     },
     {
       "id": "XFx_tC6mMVY",
@@ -224,7 +276,9 @@
       "published": "2026-02-11T14:42:23Z",
       "thumbnail": "https://i.ytimg.com/vi/XFx_tC6mMVY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8578
+      "duration": 8578,
+      "status": "past",
+      "scheduledStart": "2026-02-11T12:00:00Z"
     },
     {
       "id": "hhsGMjt_Ix0",
@@ -232,7 +286,9 @@
       "published": "2026-02-08T15:12:54Z",
       "thumbnail": "https://i.ytimg.com/vi/hhsGMjt_Ix0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10603
+      "duration": 10603,
+      "status": "past",
+      "scheduledStart": "2026-02-08T12:00:00Z"
     },
     {
       "id": "pDAeiEJCwI4",
@@ -240,7 +296,9 @@
       "published": "2026-02-03T13:03:44Z",
       "thumbnail": "https://i.ytimg.com/vi/pDAeiEJCwI4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6727
+      "duration": 6727,
+      "status": "past",
+      "scheduledStart": "2026-02-03T11:00:00Z"
     },
     {
       "id": "F1DVOOBHaBI",
@@ -248,7 +306,9 @@
       "published": "2026-01-07T15:32:39Z",
       "thumbnail": "https://i.ytimg.com/vi/F1DVOOBHaBI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12048
+      "duration": 12048,
+      "status": "past",
+      "scheduledStart": "2026-01-07T12:00:00Z"
     },
     {
       "id": "-omBoA9QfJ4",
@@ -256,7 +316,9 @@
       "published": "2026-01-02T14:39:05Z",
       "thumbnail": "https://i.ytimg.com/vi/-omBoA9QfJ4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8866
+      "duration": 8866,
+      "status": "past",
+      "scheduledStart": "2026-01-02T12:00:00Z"
     },
     {
       "id": "rb-09lBtuAo",
@@ -264,7 +326,9 @@
       "published": "2025-12-31T09:00:11Z",
       "thumbnail": "https://i.ytimg.com/vi/rb-09lBtuAo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9431
+      "duration": 9431,
+      "status": "past",
+      "scheduledStart": "2025-12-31T06:00:00Z"
     },
     {
       "id": "F9rtc6sop2A",
@@ -272,7 +336,9 @@
       "published": "2025-12-24T12:50:32Z",
       "thumbnail": "https://i.ytimg.com/vi/F9rtc6sop2A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9198
+      "duration": 9198,
+      "status": "past",
+      "scheduledStart": "2025-12-24T10:00:00Z"
     },
     {
       "id": "UhN5f0lz5bE",
@@ -280,7 +346,9 @@
       "published": "2025-12-22T17:42:47Z",
       "thumbnail": "https://i.ytimg.com/vi/UhN5f0lz5bE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6433
+      "duration": 6433,
+      "status": "past",
+      "scheduledStart": "2025-12-22T11:00:00Z"
     },
     {
       "id": "dYAQb7dysn4",
@@ -288,7 +356,9 @@
       "published": "2025-12-13T14:37:45Z",
       "thumbnail": "https://i.ytimg.com/vi/dYAQb7dysn4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13483
+      "duration": 13483,
+      "status": "past",
+      "scheduledStart": "2025-12-13T10:30:00Z"
     },
     {
       "id": "wrdX3OJYvkI",
@@ -296,7 +366,9 @@
       "published": "2025-12-12T17:49:04Z",
       "thumbnail": "https://i.ytimg.com/vi/wrdX3OJYvkI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11226
+      "duration": 11226,
+      "status": "past",
+      "scheduledStart": "2025-12-12T14:30:00Z"
     },
     {
       "id": "vcqm3j4fQ3A",
@@ -304,7 +376,9 @@
       "published": "2025-11-16T14:36:54Z",
       "thumbnail": "https://i.ytimg.com/vi/vcqm3j4fQ3A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10339
+      "duration": 10339,
+      "status": "past",
+      "scheduledStart": "2025-11-16T11:30:00Z"
     },
     {
       "id": "XlMH2wmCMTw",
@@ -312,7 +386,9 @@
       "published": "2025-11-16T11:27:00Z",
       "thumbnail": "https://i.ytimg.com/vi/XlMH2wmCMTw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4444
+      "duration": 4444,
+      "status": "past",
+      "scheduledStart": "2025-11-16T10:00:00Z"
     },
     {
       "id": "jFi544Ac9uQ",
@@ -320,7 +396,9 @@
       "published": "2025-11-15T14:14:10Z",
       "thumbnail": "https://i.ytimg.com/vi/jFi544Ac9uQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8659
+      "duration": 8659,
+      "status": "past",
+      "scheduledStart": "2025-11-15T11:30:00Z"
     },
     {
       "id": "3pOqL7Iicvg",
@@ -328,7 +406,9 @@
       "published": "2025-11-13T15:34:24Z",
       "thumbnail": "https://i.ytimg.com/vi/3pOqL7Iicvg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7315
+      "duration": 7315,
+      "status": "past",
+      "scheduledStart": "2025-11-13T13:20:00Z"
     },
     {
       "id": "LA8w_IJWY94",
@@ -336,7 +416,9 @@
       "published": "2025-11-13T13:28:27Z",
       "thumbnail": "https://i.ytimg.com/vi/LA8w_IJWY94/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11020
+      "duration": 11020,
+      "status": "past",
+      "scheduledStart": "2025-11-13T10:00:00Z"
     },
     {
       "id": "GjGO_T8hZQY",
@@ -344,7 +426,9 @@
       "published": "2025-11-12T15:50:48Z",
       "thumbnail": "https://i.ytimg.com/vi/GjGO_T8hZQY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8967
+      "duration": 8967,
+      "status": "past",
+      "scheduledStart": "2025-11-12T13:00:00Z"
     },
     {
       "id": "sDMJBt4YLE8",
@@ -352,7 +436,9 @@
       "published": "2025-11-09T10:36:12Z",
       "thumbnail": "https://i.ytimg.com/vi/sDMJBt4YLE8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20712
+      "duration": 20712,
+      "status": "past",
+      "scheduledStart": "2025-11-09T04:00:00Z"
     },
     {
       "id": "d1j5cJQyfzo",
@@ -360,7 +446,9 @@
       "published": "2025-11-08T15:02:01Z",
       "thumbnail": "https://i.ytimg.com/vi/d1j5cJQyfzo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22726
+      "duration": 22726,
+      "status": "past",
+      "scheduledStart": "2025-11-08T08:15:00Z"
     },
     {
       "id": "A7GNqnjpl5E",
@@ -368,7 +456,9 @@
       "published": "2025-11-07T17:59:22Z",
       "thumbnail": "https://i.ytimg.com/vi/A7GNqnjpl5E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21487
+      "duration": 21487,
+      "status": "past",
+      "scheduledStart": "2025-11-07T11:30:00Z"
     },
     {
       "id": "h9zCwBOBr_g",
@@ -376,7 +466,9 @@
       "published": "2025-11-06T17:17:12Z",
       "thumbnail": "https://i.ytimg.com/vi/h9zCwBOBr_g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22927
+      "duration": 22927,
+      "status": "past",
+      "scheduledStart": "2025-11-06T10:30:00Z"
     },
     {
       "id": "3fxxpBnhbZw",
@@ -384,7 +476,9 @@
       "published": "2025-11-05T18:24:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3fxxpBnhbZw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 28517
+      "duration": 28517,
+      "status": "past",
+      "scheduledStart": "2025-11-05T10:00:00Z"
     },
     {
       "id": "qBVZw90APDU",
@@ -392,7 +486,9 @@
       "published": "2025-11-03T16:50:41Z",
       "thumbnail": "https://i.ytimg.com/vi/qBVZw90APDU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21212
+      "duration": 21212,
+      "status": "past",
+      "scheduledStart": "2025-11-03T10:30:00Z"
     },
     {
       "id": "zygVJq_DaV8",
@@ -400,7 +496,9 @@
       "published": "2025-11-02T16:52:38Z",
       "thumbnail": "https://i.ytimg.com/vi/zygVJq_DaV8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21337
+      "duration": 21337,
+      "status": "past",
+      "scheduledStart": "2025-11-02T10:30:00Z"
     },
     {
       "id": "b5UOXcp65fU",
@@ -408,7 +506,9 @@
       "published": "2025-11-01T17:10:38Z",
       "thumbnail": "https://i.ytimg.com/vi/b5UOXcp65fU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13841
+      "duration": 13841,
+      "status": "past",
+      "scheduledStart": "2025-11-01T13:00:00Z"
     },
     {
       "id": "qoNEDzHqAuU",
@@ -416,7 +516,9 @@
       "published": "2025-11-01T13:01:05Z",
       "thumbnail": "https://i.ytimg.com/vi/qoNEDzHqAuU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5607
+      "duration": 5607,
+      "status": "past",
+      "scheduledStart": "2025-11-01T11:15:00Z"
     },
     {
       "id": "BxrIJzA4DpU",
@@ -424,7 +526,9 @@
       "published": "2025-10-31T19:00:11Z",
       "thumbnail": "https://i.ytimg.com/vi/BxrIJzA4DpU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22365
+      "duration": 22365,
+      "status": "past",
+      "scheduledStart": "2025-10-31T12:30:00Z"
     },
     {
       "id": "P4aKFkmV9Tk",
@@ -432,7 +536,9 @@
       "published": "2025-10-30T18:23:58Z",
       "thumbnail": "https://i.ytimg.com/vi/P4aKFkmV9Tk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18343
+      "duration": 18343,
+      "status": "past",
+      "scheduledStart": "2025-10-30T13:00:00Z"
     },
     {
       "id": "_p0828ivKrA",
@@ -440,7 +546,9 @@
       "published": "2025-09-24T12:05:03Z",
       "thumbnail": "https://i.ytimg.com/vi/_p0828ivKrA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3640
+      "duration": 3640,
+      "status": "past",
+      "scheduledStart": "2025-09-24T11:00:00Z"
     },
     {
       "id": "6rwF8U-Zh4I",
@@ -448,15 +556,9 @@
       "published": "2025-09-04T15:09:18Z",
       "thumbnail": "https://i.ytimg.com/vi/6rwF8U-Zh4I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13524
-    },
-    {
-      "id": "Kb-Zkkdyz6c",
-      "title": "【 #百鬼あやめ7周年新衣装3D 】メンバーシップ限定 百鬼あやめ7周年記念ライブ ~天女繚華~  Encore Live Members Only【百鬼あやめ/ホロライブ】",
-      "published": "2025-09-03T12:38:24Z",
-      "thumbnail": "https://i.ytimg.com/vi/Kb-Zkkdyz6c/maxresdefault.jpg",
-      "type": "member",
-      "duration": 1010
+      "duration": 13524,
+      "status": "past",
+      "scheduledStart": "2025-09-04T11:00:00Z"
     },
     {
       "id": "uRa-uLMea7w",
@@ -464,7 +566,9 @@
       "published": "2025-09-03T12:10:48Z",
       "thumbnail": "https://i.ytimg.com/vi/uRa-uLMea7w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3731
+      "duration": 3731,
+      "status": "past",
+      "scheduledStart": "2025-09-03T11:00:00Z"
     },
     {
       "id": "aOcYn6YAO5E",
@@ -472,7 +576,19 @@
       "published": "2025-09-03T12:03:07Z",
       "thumbnail": "https://i.ytimg.com/vi/aOcYn6YAO5E/maxresdefault.jpg",
       "type": "video",
-      "duration": 207
+      "duration": 207,
+      "status": "past",
+      "scheduledStart": "2025-09-03T12:03:00Z"
+    },
+    {
+      "id": "Kb-Zkkdyz6c",
+      "title": "【 #百鬼あやめ7周年新衣装3D 】メンバーシップ限定 百鬼あやめ7周年記念ライブ ~天女繚華~  Encore Live Members Only【百鬼あやめ/ホロライブ】",
+      "published": "2025-09-03T09:00:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/Kb-Zkkdyz6c/maxresdefault.jpg",
+      "type": "member",
+      "duration": 1010,
+      "status": "past",
+      "scheduledStart": "2025-09-03T12:15:00Z"
     },
     {
       "id": "IiDk7VXOs0k",
@@ -480,7 +596,9 @@
       "published": "2025-09-02T16:42:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IiDk7VXOs0k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7354
+      "duration": 7354,
+      "status": "past",
+      "scheduledStart": "2025-09-02T14:30:00Z"
     },
     {
       "id": "5wOimVAtXoA",
@@ -488,7 +606,9 @@
       "published": "2025-08-24T16:02:44Z",
       "thumbnail": "https://i.ytimg.com/vi/5wOimVAtXoA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13540
+      "duration": 13540,
+      "status": "past",
+      "scheduledStart": "2025-08-24T12:00:00Z"
     },
     {
       "id": "SzuAlTDREsc",
@@ -496,7 +616,9 @@
       "published": "2025-08-21T11:22:21Z",
       "thumbnail": "https://i.ytimg.com/vi/SzuAlTDREsc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4425
+      "duration": 4425,
+      "status": "past",
+      "scheduledStart": "2025-08-21T10:00:00Z"
     },
     {
       "id": "08tWy9YWmsA",
@@ -504,7 +626,9 @@
       "published": "2025-08-19T18:17:59Z",
       "thumbnail": "https://i.ytimg.com/vi/08tWy9YWmsA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21130
+      "duration": 21130,
+      "status": "past",
+      "scheduledStart": "2025-08-19T12:00:00Z"
     },
     {
       "id": "d9pq4ZLjGos",
@@ -512,7 +636,9 @@
       "published": "2025-08-16T14:22:09Z",
       "thumbnail": "https://i.ytimg.com/vi/d9pq4ZLjGos/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11417
+      "duration": 11417,
+      "status": "past",
+      "scheduledStart": "2025-08-16T11:00:00Z"
     },
     {
       "id": "sYyeIVErpPo",
@@ -520,7 +646,9 @@
       "published": "2025-08-02T15:06:30Z",
       "thumbnail": "https://i.ytimg.com/vi/sYyeIVErpPo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9994
+      "duration": 9994,
+      "status": "past",
+      "scheduledStart": "2025-08-02T12:00:00Z"
     },
     {
       "id": "CsVDCNUwFUg",
@@ -528,7 +656,9 @@
       "published": "2025-08-02T09:41:49Z",
       "thumbnail": "https://i.ytimg.com/vi/CsVDCNUwFUg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10711
+      "duration": 10711,
+      "status": "past",
+      "scheduledStart": "2025-08-02T06:30:00Z"
     },
     {
       "id": "fAjrfM5Yyj8",
@@ -536,7 +666,9 @@
       "published": "2025-07-29T14:06:50Z",
       "thumbnail": "https://i.ytimg.com/vi/fAjrfM5Yyj8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10440
+      "duration": 10440,
+      "status": "past",
+      "scheduledStart": "2025-07-29T11:00:00Z"
     },
     {
       "id": "0NLw4O-z95c",
@@ -544,7 +676,9 @@
       "published": "2025-07-28T14:10:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0NLw4O-z95c/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7276
+      "duration": 7276,
+      "status": "past",
+      "scheduledStart": "2025-07-28T12:00:00Z"
     },
     {
       "id": "VudFkMLdoYQ",
@@ -552,7 +686,9 @@
       "published": "2025-07-20T12:13:51Z",
       "thumbnail": "https://i.ytimg.com/vi/VudFkMLdoYQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21741
+      "duration": 21741,
+      "status": "past",
+      "scheduledStart": "2025-07-20T05:30:00Z"
     },
     {
       "id": "HtOdEmp6WI8",
@@ -560,7 +696,9 @@
       "published": "2025-07-19T14:18:25Z",
       "thumbnail": "https://i.ytimg.com/vi/HtOdEmp6WI8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18057
+      "duration": 18057,
+      "status": "past",
+      "scheduledStart": "2025-07-19T09:00:00Z"
     },
     {
       "id": "qkcBNoLaCQU",
@@ -568,7 +706,9 @@
       "published": "2025-07-18T17:14:34Z",
       "thumbnail": "https://i.ytimg.com/vi/qkcBNoLaCQU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16924
+      "duration": 16924,
+      "status": "past",
+      "scheduledStart": "2025-07-18T12:15:00Z"
     },
     {
       "id": "IuRtRMsRuyQ",
@@ -576,7 +716,9 @@
       "published": "2025-07-17T16:38:43Z",
       "thumbnail": "https://i.ytimg.com/vi/IuRtRMsRuyQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12184
+      "duration": 12184,
+      "status": "past",
+      "scheduledStart": "2025-07-17T13:00:00Z"
     },
     {
       "id": "qq5Cm2vrg4s",
@@ -584,7 +726,8 @@
       "published": "2025-07-17T09:30:25Z",
       "thumbnail": "https://i.ytimg.com/vi/qq5Cm2vrg4s/maxresdefault.jpg",
       "type": "short",
-      "duration": 93
+      "duration": 93,
+      "status": "past"
     },
     {
       "id": "d63ZIAUHpR0",
@@ -592,7 +735,9 @@
       "published": "2025-07-16T14:53:00Z",
       "thumbnail": "https://i.ytimg.com/vi/d63ZIAUHpR0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7722
+      "duration": 7722,
+      "status": "past",
+      "scheduledStart": "2025-07-16T12:30:00Z"
     },
     {
       "id": "dlZiFqmlQEo",
@@ -600,7 +745,9 @@
       "published": "2025-07-09T15:49:50Z",
       "thumbnail": "https://i.ytimg.com/vi/dlZiFqmlQEo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9286
+      "duration": 9286,
+      "status": "past",
+      "scheduledStart": "2025-07-09T13:00:00Z"
     },
     {
       "id": "IVZKfS_obNA",
@@ -608,7 +755,9 @@
       "published": "2025-07-06T14:03:30Z",
       "thumbnail": "https://i.ytimg.com/vi/IVZKfS_obNA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9378
+      "duration": 9378,
+      "status": "past",
+      "scheduledStart": "2025-07-06T11:00:00Z"
     },
     {
       "id": "wDVBMYPBvf4",
@@ -616,7 +765,9 @@
       "published": "2025-07-03T16:01:12Z",
       "thumbnail": "https://i.ytimg.com/vi/wDVBMYPBvf4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10011
+      "duration": 10011,
+      "status": "past",
+      "scheduledStart": "2025-07-03T13:00:00Z"
     },
     {
       "id": "qQw7eJJbYd8",
@@ -624,7 +775,9 @@
       "published": "2025-07-02T17:54:29Z",
       "thumbnail": "https://i.ytimg.com/vi/qQw7eJJbYd8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13222
+      "duration": 13222,
+      "status": "past",
+      "scheduledStart": "2025-07-02T14:00:00Z"
     },
     {
       "id": "1CFlQycr7pA",
@@ -632,15 +785,19 @@
       "published": "2025-06-29T14:06:16Z",
       "thumbnail": "https://i.ytimg.com/vi/1CFlQycr7pA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13423
+      "duration": 13423,
+      "status": "past",
+      "scheduledStart": "2025-06-29T10:00:00Z"
     },
     {
       "id": "a2BpPwMssgQ",
       "title": "【メン限】『ハリー・ポッターと謎のプリンス』同時視聴会 member ship only【百鬼あやめ/ホロライブ】",
-      "published": "2025-06-27T16:16:22Z",
+      "published": "2025-06-27T10:56:35Z",
       "thumbnail": "https://i.ytimg.com/vi/a2BpPwMssgQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 13208
+      "duration": 13208,
+      "status": "past",
+      "scheduledStart": "2025-06-27T12:00:00Z"
     },
     {
       "id": "2ovSj-fsiM8",
@@ -648,7 +805,9 @@
       "published": "2025-06-23T00:17:36Z",
       "thumbnail": "https://i.ytimg.com/vi/2ovSj-fsiM8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6021
+      "duration": 6021,
+      "status": "past",
+      "scheduledStart": "2025-06-22T22:30:00Z"
     },
     {
       "id": "x2Foz4JaMYc",
@@ -656,7 +815,9 @@
       "published": "2025-06-17T04:45:45Z",
       "thumbnail": "https://i.ytimg.com/vi/x2Foz4JaMYc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9040
+      "duration": 9040,
+      "status": "past",
+      "scheduledStart": "2025-06-17T02:00:00Z"
     },
     {
       "id": "IQNJqLNHe4g",
@@ -664,15 +825,19 @@
       "published": "2025-06-14T14:45:48Z",
       "thumbnail": "https://i.ytimg.com/vi/IQNJqLNHe4g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8592
+      "duration": 8592,
+      "status": "past",
+      "scheduledStart": "2025-06-14T12:00:00Z"
     },
     {
       "id": "Bmp9uOLePNI",
       "title": "【メン限】『ハリー・ポッターと不死鳥の騎士団』同時視聴会 member ship only【百鬼あやめ/ホロライブ】",
-      "published": "2025-06-13T17:35:25Z",
+      "published": "2025-06-13T09:32:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Bmp9uOLePNI/maxresdefault.jpg",
       "type": "member",
-      "duration": 18816
+      "duration": 18816,
+      "status": "past",
+      "scheduledStart": "2025-06-13T12:00:00Z"
     },
     {
       "id": "ru5wYOdYSHU",
@@ -680,7 +845,9 @@
       "published": "2025-06-10T17:09:09Z",
       "thumbnail": "https://i.ytimg.com/vi/ru5wYOdYSHU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14064
+      "duration": 14064,
+      "status": "past",
+      "scheduledStart": "2025-06-10T13:00:00Z"
     },
     {
       "id": "z5w2JfYSViU",
@@ -688,7 +855,9 @@
       "published": "2025-06-07T15:39:01Z",
       "thumbnail": "https://i.ytimg.com/vi/z5w2JfYSViU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12175
+      "duration": 12175,
+      "status": "past",
+      "scheduledStart": "2025-06-07T12:00:00Z"
     },
     {
       "id": "k8tDVSzTWWA",
@@ -696,7 +865,9 @@
       "published": "2025-06-06T15:01:33Z",
       "thumbnail": "https://i.ytimg.com/vi/k8tDVSzTWWA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10089
+      "duration": 10089,
+      "status": "past",
+      "scheduledStart": "2025-06-06T12:00:00Z"
     },
     {
       "id": "AuwZPnHs0WU",
@@ -704,7 +875,9 @@
       "published": "2025-06-05T14:24:58Z",
       "thumbnail": "https://i.ytimg.com/vi/AuwZPnHs0WU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7403
+      "duration": 7403,
+      "status": "past",
+      "scheduledStart": "2025-06-05T12:00:00Z"
     },
     {
       "id": "LQYQKV8m-Yc",
@@ -712,15 +885,19 @@
       "published": "2025-05-31T15:46:19Z",
       "thumbnail": "https://i.ytimg.com/vi/LQYQKV8m-Yc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12300
+      "duration": 12300,
+      "status": "past",
+      "scheduledStart": "2025-05-31T12:00:00Z"
     },
     {
       "id": "Eg-5Us3MwwI",
       "title": "【メン限】新しい設定にしてみたので試します membership only【百鬼あやめ/ホロライブ】",
-      "published": "2025-05-27T17:29:22Z",
+      "published": "2025-05-27T10:55:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Eg-5Us3MwwI/maxresdefault.jpg",
       "type": "member",
-      "duration": 14938
+      "duration": 14938,
+      "status": "past",
+      "scheduledStart": "2025-05-27T13:00:00Z"
     },
     {
       "id": "lUULGBMLJ3g",
@@ -728,7 +905,9 @@
       "published": "2025-05-13T17:44:13Z",
       "thumbnail": "https://i.ytimg.com/vi/lUULGBMLJ3g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18938
+      "duration": 18938,
+      "status": "past",
+      "scheduledStart": "2025-05-13T12:00:00Z"
     },
     {
       "id": "oqVBAFOV6Rs",
@@ -736,7 +915,9 @@
       "published": "2025-05-06T18:41:01Z",
       "thumbnail": "https://i.ytimg.com/vi/oqVBAFOV6Rs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22322
+      "duration": 22322,
+      "status": "past",
+      "scheduledStart": "2025-05-06T12:00:00Z"
     },
     {
       "id": "1xq_7Y_vq64",
@@ -744,7 +925,9 @@
       "published": "2025-05-04T16:48:51Z",
       "thumbnail": "https://i.ytimg.com/vi/1xq_7Y_vq64/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19726
+      "duration": 19726,
+      "status": "past",
+      "scheduledStart": "2025-05-04T11:00:00Z"
     },
     {
       "id": "m7IMrXzB8go",
@@ -752,7 +935,9 @@
       "published": "2025-03-10T09:39:34Z",
       "thumbnail": "https://i.ytimg.com/vi/m7IMrXzB8go/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4917
+      "duration": 4917,
+      "status": "past",
+      "scheduledStart": "2025-03-10T08:00:00Z"
     },
     {
       "id": "kO35itkD2cw",
@@ -760,7 +945,9 @@
       "published": "2025-02-14T14:26:51Z",
       "thumbnail": "https://i.ytimg.com/vi/kO35itkD2cw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8181
+      "duration": 8181,
+      "status": "past",
+      "scheduledStart": "2025-02-14T12:00:00Z"
     },
     {
       "id": "55boWU5nWys",
@@ -768,7 +955,9 @@
       "published": "2025-02-02T15:33:24Z",
       "thumbnail": "https://i.ytimg.com/vi/55boWU5nWys/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14312
+      "duration": 14312,
+      "status": "past",
+      "scheduledStart": "2025-02-02T11:00:00Z"
     },
     {
       "id": "_YRhzET4LWk",
@@ -776,7 +965,9 @@
       "published": "2025-01-27T15:06:32Z",
       "thumbnail": "https://i.ytimg.com/vi/_YRhzET4LWk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9851
+      "duration": 9851,
+      "status": "past",
+      "scheduledStart": "2025-01-27T12:00:00Z"
     },
     {
       "id": "wmiitBstJXY",
@@ -784,23 +975,29 @@
       "published": "2025-01-26T15:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/wmiitBstJXY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8675
+      "duration": 8675,
+      "status": "past",
+      "scheduledStart": "2025-01-26T13:00:00Z"
     },
     {
       "id": "VIuwDWiMX4Q",
       "title": "【メン限】『ハリー・ポッターと炎のゴブレット』同時視聴会 member ship only【百鬼あやめ/ホロライブ】",
-      "published": "2025-01-24T16:46:35Z",
+      "published": "2025-01-24T12:31:10Z",
       "thumbnail": "https://i.ytimg.com/vi/VIuwDWiMX4Q/maxresdefault.jpg",
       "type": "member",
-      "duration": 14092
+      "duration": 14092,
+      "status": "past",
+      "scheduledStart": "2025-01-24T12:30:00Z"
     },
     {
       "id": "QWIPisprSZo",
       "title": "【メン限】『ハリー・ポッターと炎のゴブレット』同時視聴会 member ship only【百鬼あやめ/ホロライブ】",
-      "published": "2025-01-24T12:32:24Z",
+      "published": "2025-01-24T10:15:00Z",
       "thumbnail": "https://i.ytimg.com/vi/QWIPisprSZo/maxresdefault.jpg",
       "type": "member",
-      "duration": 1204
+      "duration": 1204,
+      "status": "past",
+      "scheduledStart": "2025-01-24T12:00:00Z"
     },
     {
       "id": "APCPEZpL0i0",
@@ -808,7 +1005,9 @@
       "published": "2025-01-19T16:13:12Z",
       "thumbnail": "https://i.ytimg.com/vi/APCPEZpL0i0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9433
+      "duration": 9433,
+      "status": "past",
+      "scheduledStart": "2025-01-19T13:00:00Z"
     },
     {
       "id": "0RG5AxPcRCQ",
@@ -816,7 +1015,9 @@
       "published": "2025-01-18T15:13:51Z",
       "thumbnail": "https://i.ytimg.com/vi/0RG5AxPcRCQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10726
+      "duration": 10726,
+      "status": "past",
+      "scheduledStart": "2025-01-18T12:00:00Z"
     },
     {
       "id": "SaYAPbxc3ms",
@@ -824,7 +1025,9 @@
       "published": "2025-01-14T12:11:16Z",
       "thumbnail": "https://i.ytimg.com/vi/SaYAPbxc3ms/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3900
+      "duration": 3900,
+      "status": "past",
+      "scheduledStart": "2025-01-14T11:00:00Z"
     },
     {
       "id": "LovFhtSbG0g",
@@ -832,15 +1035,19 @@
       "published": "2025-01-13T13:39:00Z",
       "thumbnail": "https://i.ytimg.com/vi/LovFhtSbG0g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16652
+      "duration": 16652,
+      "status": "past",
+      "scheduledStart": "2025-01-13T08:45:00Z"
     },
     {
       "id": "UAUk97OjKUE",
       "title": "【メン限】『ハリー・ポッターとアズカバンの囚人』同時視聴会member ship only【百鬼あやめ/ホロライブ】",
-      "published": "2025-01-10T18:29:06Z",
+      "published": "2025-01-10T09:17:23Z",
       "thumbnail": "https://i.ytimg.com/vi/UAUk97OjKUE/maxresdefault.jpg",
       "type": "member",
-      "duration": 21771
+      "duration": 21771,
+      "status": "past",
+      "scheduledStart": "2025-01-10T12:00:00Z"
     },
     {
       "id": "r8bYEXkz7fI",
@@ -848,7 +1055,9 @@
       "published": "2025-01-07T13:52:01Z",
       "thumbnail": "https://i.ytimg.com/vi/r8bYEXkz7fI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9547
+      "duration": 9547,
+      "status": "past",
+      "scheduledStart": "2025-01-07T11:00:00Z"
     },
     {
       "id": "FTs607SsnF0",
@@ -856,7 +1065,9 @@
       "published": "2025-01-05T15:28:37Z",
       "thumbnail": "https://i.ytimg.com/vi/FTs607SsnF0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9847
+      "duration": 9847,
+      "status": "past",
+      "scheduledStart": "2025-01-05T12:30:00Z"
     },
     {
       "id": "hAaP1bUUUT8",
@@ -864,15 +1075,19 @@
       "published": "2024-12-31T18:14:07Z",
       "thumbnail": "https://i.ytimg.com/vi/hAaP1bUUUT8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17503
+      "duration": 17503,
+      "status": "past",
+      "scheduledStart": "2024-12-31T13:00:00Z"
     },
     {
       "id": "-LlkkU-zaL0",
       "title": "【メン限】クリスマス映画鑑賞!「ホームアローン」member ship only【百鬼あやめ/ホロライブ】",
-      "published": "2024-12-25T15:14:53Z",
+      "published": "2024-12-25T10:21:42Z",
       "thumbnail": "https://i.ytimg.com/vi/-LlkkU-zaL0/maxresdefault.jpg",
       "type": "member",
-      "duration": 9840
+      "duration": 9840,
+      "status": "past",
+      "scheduledStart": "2024-12-25T12:15:00Z"
     },
     {
       "id": "MK2zTP_Y1fo",
@@ -880,7 +1095,9 @@
       "published": "2024-12-24T18:13:31Z",
       "thumbnail": "https://i.ytimg.com/vi/MK2zTP_Y1fo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17490
+      "duration": 17490,
+      "status": "past",
+      "scheduledStart": "2024-12-24T13:00:00Z"
     },
     {
       "id": "-s7_EV3e-tA",
@@ -888,15 +1105,9 @@
       "published": "2024-12-14T13:15:17Z",
       "thumbnail": "https://i.ytimg.com/vi/-s7_EV3e-tA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15255
-    },
-    {
-      "id": "yPyMnuRPKTE",
-      "title": "【 #百鬼あやめ生誕祭2024】Dream Festival‼ ~Nakiriayame 7th BirthDay~ メンバーシップ限定ライブ  member ship only",
-      "published": "2024-12-13T12:29:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/yPyMnuRPKTE/maxresdefault.jpg",
-      "type": "member",
-      "duration": 708
+      "duration": 15255,
+      "status": "past",
+      "scheduledStart": "2024-12-14T08:15:00Z"
     },
     {
       "id": "d4l17lJKhDE",
@@ -904,7 +1115,19 @@
       "published": "2024-12-13T11:57:25Z",
       "thumbnail": "https://i.ytimg.com/vi/d4l17lJKhDE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3113
+      "duration": 3113,
+      "status": "past",
+      "scheduledStart": "2024-12-13T11:00:00Z"
+    },
+    {
+      "id": "yPyMnuRPKTE",
+      "title": "【 #百鬼あやめ生誕祭2024】Dream Festival‼ ~Nakiriayame 7th BirthDay~ メンバーシップ限定ライブ  member ship only",
+      "published": "2024-12-13T07:31:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/yPyMnuRPKTE/maxresdefault.jpg",
+      "type": "member",
+      "duration": 708,
+      "status": "past",
+      "scheduledStart": "2024-12-13T12:15:00Z"
     },
     {
       "id": "vV1wZ8eKTIQ",
@@ -912,7 +1135,9 @@
       "published": "2024-12-12T18:09:12Z",
       "thumbnail": "https://i.ytimg.com/vi/vV1wZ8eKTIQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12393
+      "duration": 12393,
+      "status": "past",
+      "scheduledStart": "2024-12-12T14:30:00Z"
     },
     {
       "id": "iqREj8RMq8A",
@@ -920,7 +1145,9 @@
       "published": "2024-12-11T16:11:16Z",
       "thumbnail": "https://i.ytimg.com/vi/iqREj8RMq8A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13976
+      "duration": 13976,
+      "status": "past",
+      "scheduledStart": "2024-12-11T12:00:00Z"
     },
     {
       "id": "PBPxW43Yylk",
@@ -928,7 +1155,9 @@
       "published": "2024-12-02T12:03:59Z",
       "thumbnail": "https://i.ytimg.com/vi/PBPxW43Yylk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3348
+      "duration": 3348,
+      "status": "past",
+      "scheduledStart": "2024-12-02T11:00:00Z"
     },
     {
       "id": "hJ4nxRk3Isg",
@@ -936,7 +1165,9 @@
       "published": "2024-11-26T11:33:26Z",
       "thumbnail": "https://i.ytimg.com/vi/hJ4nxRk3Isg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4887
+      "duration": 4887,
+      "status": "past",
+      "scheduledStart": "2024-11-26T10:00:00Z"
     },
     {
       "id": "wvPyJuVrHvc",
@@ -944,7 +1175,9 @@
       "published": "2024-11-25T18:55:02Z",
       "thumbnail": "https://i.ytimg.com/vi/wvPyJuVrHvc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8618
+      "duration": 8618,
+      "status": "past",
+      "scheduledStart": "2024-11-25T16:15:00Z"
     },
     {
       "id": "O6zWA8QqDgA",
@@ -952,7 +1185,9 @@
       "published": "2024-11-06T16:58:34Z",
       "thumbnail": "https://i.ytimg.com/vi/O6zWA8QqDgA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 23745
+      "duration": 23745,
+      "status": "past",
+      "scheduledStart": "2024-11-06T10:00:00Z"
     },
     {
       "id": "an1igiYaRpg",
@@ -960,7 +1195,9 @@
       "published": "2024-11-03T14:42:24Z",
       "thumbnail": "https://i.ytimg.com/vi/an1igiYaRpg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12226
+      "duration": 12226,
+      "status": "past",
+      "scheduledStart": "2024-11-03T11:00:00Z"
     },
     {
       "id": "QCRzo8hkjIg",
@@ -968,7 +1205,9 @@
       "published": "2024-10-11T13:35:08Z",
       "thumbnail": "https://i.ytimg.com/vi/QCRzo8hkjIg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12132
+      "duration": 12132,
+      "status": "past",
+      "scheduledStart": "2024-10-11T10:00:00Z"
     },
     {
       "id": "EH9oqGrgar8",
@@ -976,7 +1215,9 @@
       "published": "2024-09-25T15:13:48Z",
       "thumbnail": "https://i.ytimg.com/vi/EH9oqGrgar8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7167
+      "duration": 7167,
+      "status": "past",
+      "scheduledStart": "2024-09-25T13:00:00Z"
     },
     {
       "id": "q8Kbl-HjkQ8",
@@ -984,7 +1225,9 @@
       "published": "2024-09-23T17:56:45Z",
       "thumbnail": "https://i.ytimg.com/vi/q8Kbl-HjkQ8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 27089
+      "duration": 27089,
+      "status": "past",
+      "scheduledStart": "2024-09-23T10:00:00Z"
     },
     {
       "id": "LkLNJ-K3368",
@@ -992,7 +1235,9 @@
       "published": "2024-09-22T16:31:38Z",
       "thumbnail": "https://i.ytimg.com/vi/LkLNJ-K3368/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22307
+      "duration": 22307,
+      "status": "past",
+      "scheduledStart": "2024-09-22T10:00:00Z"
     },
     {
       "id": "M25h40KyC3M",
@@ -1000,7 +1245,9 @@
       "published": "2024-09-21T16:39:10Z",
       "thumbnail": "https://i.ytimg.com/vi/M25h40KyC3M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22321
+      "duration": 22321,
+      "status": "past",
+      "scheduledStart": "2024-09-21T10:00:00Z"
     },
     {
       "id": "F0UZkCJS0Hc",
@@ -1008,7 +1255,9 @@
       "published": "2024-09-20T16:50:01Z",
       "thumbnail": "https://i.ytimg.com/vi/F0UZkCJS0Hc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18993
+      "duration": 18993,
+      "status": "past",
+      "scheduledStart": "2024-09-20T11:00:00Z"
     },
     {
       "id": "rf5WuO8f-K0",
@@ -1016,7 +1265,9 @@
       "published": "2024-09-19T16:38:18Z",
       "thumbnail": "https://i.ytimg.com/vi/rf5WuO8f-K0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22529
+      "duration": 22529,
+      "status": "past",
+      "scheduledStart": "2024-09-19T10:00:00Z"
     },
     {
       "id": "JObFBptSfjc",
@@ -1024,7 +1275,9 @@
       "published": "2024-09-18T16:29:41Z",
       "thumbnail": "https://i.ytimg.com/vi/JObFBptSfjc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22118
+      "duration": 22118,
+      "status": "past",
+      "scheduledStart": "2024-09-18T10:00:00Z"
     },
     {
       "id": "Uxd8B4IqUps",
@@ -1032,7 +1285,9 @@
       "published": "2024-09-18T04:40:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Uxd8B4IqUps/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5126
+      "duration": 5126,
+      "status": "past",
+      "scheduledStart": "2024-09-15T11:00:00Z"
     },
     {
       "id": "1iz9AxcgvPg",
@@ -1040,7 +1295,9 @@
       "published": "2024-09-17T16:40:50Z",
       "thumbnail": "https://i.ytimg.com/vi/1iz9AxcgvPg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22601
+      "duration": 22601,
+      "status": "past",
+      "scheduledStart": "2024-09-17T10:00:00Z"
     },
     {
       "id": "MgM4gOBOGvU",
@@ -1048,7 +1305,9 @@
       "published": "2024-09-06T15:28:04Z",
       "thumbnail": "https://i.ytimg.com/vi/MgM4gOBOGvU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11725
+      "duration": 11725,
+      "status": "past",
+      "scheduledStart": "2024-09-06T12:00:00Z"
     },
     {
       "id": "t8ER_WC8OaE",
@@ -1056,7 +1315,9 @@
       "published": "2024-09-03T15:24:09Z",
       "thumbnail": "https://i.ytimg.com/vi/t8ER_WC8OaE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14660
+      "duration": 14660,
+      "status": "past",
+      "scheduledStart": "2024-09-03T11:00:00Z"
     },
     {
       "id": "GDCq9cNnk50",
@@ -1064,7 +1325,9 @@
       "published": "2024-09-03T13:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/GDCq9cNnk50/maxresdefault.jpg",
       "type": "video",
-      "duration": 226
+      "duration": 226,
+      "status": "past",
+      "scheduledStart": "2024-09-03T13:00:00Z"
     },
     {
       "id": "RjVOWeHbOQE",
@@ -1072,7 +1335,9 @@
       "published": "2024-09-02T19:18:00Z",
       "thumbnail": "https://i.ytimg.com/vi/RjVOWeHbOQE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16233
+      "duration": 16233,
+      "status": "past",
+      "scheduledStart": "2024-09-02T14:30:00Z"
     },
     {
       "id": "CZUropAFzms",
@@ -1080,7 +1345,9 @@
       "published": "2024-08-31T14:41:40Z",
       "thumbnail": "https://i.ytimg.com/vi/CZUropAFzms/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11841
+      "duration": 11841,
+      "status": "past",
+      "scheduledStart": "2024-08-31T11:00:00Z"
     },
     {
       "id": "u0H5ctcCL88",
@@ -1088,7 +1355,9 @@
       "published": "2024-08-26T14:33:19Z",
       "thumbnail": "https://i.ytimg.com/vi/u0H5ctcCL88/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12052
+      "duration": 12052,
+      "status": "past",
+      "scheduledStart": "2024-08-26T11:00:00Z"
     },
     {
       "id": "nKYJKC_9JN0",
@@ -1096,7 +1365,9 @@
       "published": "2024-08-21T15:32:09Z",
       "thumbnail": "https://i.ytimg.com/vi/nKYJKC_9JN0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11779
+      "duration": 11779,
+      "status": "past",
+      "scheduledStart": "2024-08-21T12:00:00Z"
     },
     {
       "id": "WWtpc7kuN88",
@@ -1104,7 +1375,9 @@
       "published": "2024-08-12T11:52:22Z",
       "thumbnail": "https://i.ytimg.com/vi/WWtpc7kuN88/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18537
+      "duration": 18537,
+      "status": "past",
+      "scheduledStart": "2024-08-12T06:30:00Z"
     },
     {
       "id": "nSAt9UDpqhI",
@@ -1112,7 +1385,8 @@
       "published": "2024-08-05T09:00:42Z",
       "thumbnail": "https://i.ytimg.com/vi/nSAt9UDpqhI/maxresdefault.jpg",
       "type": "short",
-      "duration": 23
+      "duration": 23,
+      "status": "past"
     },
     {
       "id": "Ecckr7rCJTo",
@@ -1120,7 +1394,9 @@
       "published": "2024-07-29T18:45:01Z",
       "thumbnail": "https://i.ytimg.com/vi/Ecckr7rCJTo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 23133
+      "duration": 23133,
+      "status": "past",
+      "scheduledStart": "2024-07-29T12:00:00Z"
     },
     {
       "id": "IBaKWz4SkEo",
@@ -1128,7 +1404,9 @@
       "published": "2024-07-26T14:05:21Z",
       "thumbnail": "https://i.ytimg.com/vi/IBaKWz4SkEo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 25167
+      "duration": 25167,
+      "status": "past",
+      "scheduledStart": "2024-07-26T06:45:00Z"
     },
     {
       "id": "03klm_3TYNw",
@@ -1136,7 +1414,9 @@
       "published": "2024-07-25T17:43:35Z",
       "thumbnail": "https://i.ytimg.com/vi/03klm_3TYNw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19497
+      "duration": 19497,
+      "status": "past",
+      "scheduledStart": "2024-07-25T12:00:00Z"
     },
     {
       "id": "7YysmPdnNoc",
@@ -1144,7 +1424,9 @@
       "published": "2024-07-24T17:42:26Z",
       "thumbnail": "https://i.ytimg.com/vi/7YysmPdnNoc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22551
+      "duration": 22551,
+      "status": "past",
+      "scheduledStart": "2024-07-24T11:00:00Z"
     },
     {
       "id": "Y6C5YkUx6WQ",
@@ -1152,7 +1434,9 @@
       "published": "2024-07-23T17:11:36Z",
       "thumbnail": "https://i.ytimg.com/vi/Y6C5YkUx6WQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20553
+      "duration": 20553,
+      "status": "past",
+      "scheduledStart": "2024-07-23T11:00:00Z"
     },
     {
       "id": "yVbHrWYZCtw",
@@ -1160,7 +1444,9 @@
       "published": "2024-07-22T17:28:33Z",
       "thumbnail": "https://i.ytimg.com/vi/yVbHrWYZCtw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21110
+      "duration": 21110,
+      "status": "past",
+      "scheduledStart": "2024-07-22T11:10:00Z"
     },
     {
       "id": "ij7rO4MtUBg",
@@ -1168,15 +1454,19 @@
       "published": "2024-07-21T17:02:05Z",
       "thumbnail": "https://i.ytimg.com/vi/ij7rO4MtUBg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13183
+      "duration": 13183,
+      "status": "past",
+      "scheduledStart": "2024-07-21T13:00:00Z"
     },
     {
       "id": "2gdDvDWGZFQ",
       "title": "【メン限】みんなのお悩みき聞こうの会 membership only【百鬼あやめ/ホロライブ】",
-      "published": "2024-05-26T16:56:12Z",
+      "published": "2024-05-26T10:54:51Z",
       "thumbnail": "https://i.ytimg.com/vi/2gdDvDWGZFQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 16910
+      "duration": 16910,
+      "status": "past",
+      "scheduledStart": "2024-05-26T12:00:00Z"
     },
     {
       "id": "z5GZpyJ6VOQ",
@@ -1184,7 +1474,9 @@
       "published": "2024-05-24T17:39:02Z",
       "thumbnail": "https://i.ytimg.com/vi/z5GZpyJ6VOQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18430
+      "duration": 18430,
+      "status": "past",
+      "scheduledStart": "2024-05-24T12:00:00Z"
     },
     {
       "id": "IOU5D84EaOE",
@@ -1192,7 +1484,9 @@
       "published": "2024-05-18T17:26:46Z",
       "thumbnail": "https://i.ytimg.com/vi/IOU5D84EaOE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12022
+      "duration": 12022,
+      "status": "past",
+      "scheduledStart": "2024-05-18T13:45:00Z"
     },
     {
       "id": "LbdzYDXnUWs",
@@ -1200,7 +1494,9 @@
       "published": "2024-05-14T19:28:32Z",
       "thumbnail": "https://i.ytimg.com/vi/LbdzYDXnUWs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21979
+      "duration": 21979,
+      "status": "past",
+      "scheduledStart": "2024-05-14T13:00:00Z"
     },
     {
       "id": "_oX-_Z4VmEg",
@@ -1208,7 +1504,9 @@
       "published": "2024-05-06T11:24:32Z",
       "thumbnail": "https://i.ytimg.com/vi/_oX-_Z4VmEg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4822
+      "duration": 4822,
+      "status": "past",
+      "scheduledStart": "2024-05-06T10:00:00Z"
     },
     {
       "id": "jVGJdbA7gGg",
@@ -1216,7 +1514,9 @@
       "published": "2024-05-05T14:40:53Z",
       "thumbnail": "https://i.ytimg.com/vi/jVGJdbA7gGg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12411
+      "duration": 12411,
+      "status": "past",
+      "scheduledStart": "2024-05-05T11:00:00Z"
     },
     {
       "id": "vuqXdLQBEDs",
@@ -1224,15 +1524,19 @@
       "published": "2024-05-04T16:25:19Z",
       "thumbnail": "https://i.ytimg.com/vi/vuqXdLQBEDs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8190
+      "duration": 8190,
+      "status": "past",
+      "scheduledStart": "2024-05-04T14:00:00Z"
     },
     {
       "id": "KHaUguD9utg",
       "title": "【メン限】ゆるゆる~~~~~~ membership only【百鬼あやめ/ホロライブ】",
-      "published": "2024-05-02T17:43:44Z",
+      "published": "2024-05-02T12:46:03Z",
       "thumbnail": "https://i.ytimg.com/vi/KHaUguD9utg/maxresdefault.jpg",
       "type": "member",
-      "duration": 14879
+      "duration": 14879,
+      "status": "past",
+      "scheduledStart": "2024-05-02T13:15:00Z"
     },
     {
       "id": "xJ54jXWtVRY",
@@ -1240,7 +1544,9 @@
       "published": "2024-04-28T16:19:07Z",
       "thumbnail": "https://i.ytimg.com/vi/xJ54jXWtVRY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11193
+      "duration": 11193,
+      "status": "past",
+      "scheduledStart": "2024-04-28T13:00:00Z"
     },
     {
       "id": "VYQHDRKTVEw",
@@ -1248,7 +1554,9 @@
       "published": "2024-04-24T16:12:13Z",
       "thumbnail": "https://i.ytimg.com/vi/VYQHDRKTVEw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10786
+      "duration": 10786,
+      "status": "past",
+      "scheduledStart": "2024-04-24T13:00:00Z"
     },
     {
       "id": "fRt1-vIbnyc",
@@ -1256,7 +1564,9 @@
       "published": "2024-04-21T19:08:26Z",
       "thumbnail": "https://i.ytimg.com/vi/fRt1-vIbnyc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 24188
+      "duration": 24188,
+      "status": "past",
+      "scheduledStart": "2024-04-21T12:00:00Z"
     },
     {
       "id": "ALWu6_NCqXY",
@@ -1264,7 +1574,9 @@
       "published": "2024-04-19T21:29:06Z",
       "thumbnail": "https://i.ytimg.com/vi/ALWu6_NCqXY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 28955
+      "duration": 28955,
+      "status": "past",
+      "scheduledStart": "2024-04-19T13:00:00Z"
     },
     {
       "id": "vgX5FiOzor8",
@@ -1272,7 +1584,9 @@
       "published": "2024-04-18T21:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/vgX5FiOzor8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 28833
+      "duration": 28833,
+      "status": "past",
+      "scheduledStart": "2024-04-18T13:00:00Z"
     },
     {
       "id": "Bby16eQtnDk",
@@ -1280,7 +1594,9 @@
       "published": "2024-04-17T21:23:13Z",
       "thumbnail": "https://i.ytimg.com/vi/Bby16eQtnDk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 25152
+      "duration": 25152,
+      "status": "past",
+      "scheduledStart": "2024-04-17T14:00:00Z"
     },
     {
       "id": "-U7vL9K6juI",
@@ -1288,7 +1604,9 @@
       "published": "2024-04-16T19:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/-U7vL9K6juI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15190
+      "duration": 15190,
+      "status": "past",
+      "scheduledStart": "2024-04-16T14:30:00Z"
     },
     {
       "id": "ixjnz8wkmbA",
@@ -1296,7 +1614,9 @@
       "published": "2024-04-15T21:13:36Z",
       "thumbnail": "https://i.ytimg.com/vi/ixjnz8wkmbA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 31826
+      "duration": 31826,
+      "status": "past",
+      "scheduledStart": "2024-04-15T12:50:00Z"
     },
     {
       "id": "BTw4DLeHZ0Y",
@@ -1304,7 +1624,9 @@
       "published": "2024-04-13T20:21:11Z",
       "thumbnail": "https://i.ytimg.com/vi/BTw4DLeHZ0Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7931
+      "duration": 7931,
+      "status": "past",
+      "scheduledStart": "2024-04-13T18:00:00Z"
     },
     {
       "id": "M3EBQkpMO6Q",
@@ -1312,7 +1634,9 @@
       "published": "2024-04-13T14:34:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M3EBQkpMO6Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15099
+      "duration": 15099,
+      "status": "past",
+      "scheduledStart": "2024-04-13T10:00:00Z"
     },
     {
       "id": "hSmivjPHf0g",
@@ -1320,7 +1644,9 @@
       "published": "2024-04-12T15:48:50Z",
       "thumbnail": "https://i.ytimg.com/vi/hSmivjPHf0g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12876
+      "duration": 12876,
+      "status": "past",
+      "scheduledStart": "2024-04-12T12:00:00Z"
     },
     {
       "id": "Nxj3exDxjqM",
@@ -1328,7 +1654,9 @@
       "published": "2024-03-18T16:41:29Z",
       "thumbnail": "https://i.ytimg.com/vi/Nxj3exDxjqM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19060
+      "duration": 19060,
+      "status": "past",
+      "scheduledStart": "2024-03-18T11:00:00Z"
     },
     {
       "id": "04wObit0nS4",
@@ -1336,7 +1664,9 @@
       "published": "2024-02-11T16:02:52Z",
       "thumbnail": "https://i.ytimg.com/vi/04wObit0nS4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10209
+      "duration": 10209,
+      "status": "past",
+      "scheduledStart": "2024-02-11T13:00:00Z"
     },
     {
       "id": "acSGWc8v5j4",
@@ -1344,15 +1674,19 @@
       "published": "2024-02-03T14:00:17Z",
       "thumbnail": "https://i.ytimg.com/vi/acSGWc8v5j4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10119
+      "duration": 10119,
+      "status": "past",
+      "scheduledStart": "2024-02-03T11:00:00Z"
     },
     {
       "id": "zh5LZIl9Yfc",
       "title": "【メン限】『ハリー・ポッターと秘密の部屋』同時視聴会【百鬼あやめ/ホロライブ】",
-      "published": "2024-01-28T16:03:54Z",
+      "published": "2024-01-28T11:13:44Z",
       "thumbnail": "https://i.ytimg.com/vi/zh5LZIl9Yfc/maxresdefault.jpg",
       "type": "member",
-      "duration": 12944
+      "duration": 12944,
+      "status": "past",
+      "scheduledStart": "2024-01-28T12:15:00Z"
     },
     {
       "id": "DXmf9wbd0Uw",
@@ -1360,7 +1694,9 @@
       "published": "2024-01-25T18:36:12Z",
       "thumbnail": "https://i.ytimg.com/vi/DXmf9wbd0Uw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19126
+      "duration": 19126,
+      "status": "past",
+      "scheduledStart": "2024-01-25T13:00:00Z"
     },
     {
       "id": "1e6GNF687Dc",
@@ -1368,15 +1704,19 @@
       "published": "2024-01-24T16:57:10Z",
       "thumbnail": "https://i.ytimg.com/vi/1e6GNF687Dc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20319
+      "duration": 20319,
+      "status": "past",
+      "scheduledStart": "2024-01-24T11:00:00Z"
     },
     {
       "id": "LX4fLnypWDg",
       "title": "【メン限】ハリーポッターと賢者の石同時視聴会【百鬼あやめ/ホロライブ】",
-      "published": "2024-01-14T15:24:53Z",
+      "published": "2024-01-14T11:49:24Z",
       "thumbnail": "https://i.ytimg.com/vi/LX4fLnypWDg/maxresdefault.jpg",
       "type": "member",
-      "duration": 11438
+      "duration": 11438,
+      "status": "past",
+      "scheduledStart": "2024-01-14T12:00:00Z"
     },
     {
       "id": "98exkqLgtp0",
@@ -1384,7 +1724,9 @@
       "published": "2024-01-13T16:25:25Z",
       "thumbnail": "https://i.ytimg.com/vi/98exkqLgtp0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10517
+      "duration": 10517,
+      "status": "past",
+      "scheduledStart": "2024-01-13T13:15:00Z"
     },
     {
       "id": "XQA-rbQ1zWc",
@@ -1392,7 +1734,9 @@
       "published": "2024-01-08T09:17:30Z",
       "thumbnail": "https://i.ytimg.com/vi/XQA-rbQ1zWc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1846
+      "duration": 1846,
+      "status": "past",
+      "scheduledStart": "2024-01-08T08:45:00Z"
     },
     {
       "id": "IHrI7ypYkbs",
@@ -1400,7 +1744,9 @@
       "published": "2024-01-07T08:55:23Z",
       "thumbnail": "https://i.ytimg.com/vi/IHrI7ypYkbs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2344
+      "duration": 2344,
+      "status": "past",
+      "scheduledStart": "2024-01-07T08:15:00Z"
     },
     {
       "id": "x-WiRmSqE6I",
@@ -1408,7 +1754,9 @@
       "published": "2024-01-06T15:14:04Z",
       "thumbnail": "https://i.ytimg.com/vi/x-WiRmSqE6I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7415
+      "duration": 7415,
+      "status": "past",
+      "scheduledStart": "2024-01-06T13:00:00Z"
     },
     {
       "id": "YheymNxBXcE",
@@ -1416,15 +1764,19 @@
       "published": "2023-12-24T14:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/YheymNxBXcE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8152
+      "duration": 8152,
+      "status": "past",
+      "scheduledStart": "2023-12-24T11:30:00Z"
     },
     {
       "id": "EyKbWd8P4AM",
       "title": "【メン限】のんびりしますか member ship only",
-      "published": "2023-12-17T16:04:51Z",
+      "published": "2023-12-17T10:48:04Z",
       "thumbnail": "https://i.ytimg.com/vi/EyKbWd8P4AM/maxresdefault.jpg",
       "type": "member",
-      "duration": 10217
+      "duration": 10217,
+      "status": "past",
+      "scheduledStart": "2023-12-17T13:00:00Z"
     },
     {
       "id": "jZDCbRsBf7s",
@@ -1432,7 +1784,8 @@
       "published": "2023-12-15T01:03:43Z",
       "thumbnail": "https://i.ytimg.com/vi/jZDCbRsBf7s/maxresdefault.jpg",
       "type": "video",
-      "duration": 272
+      "duration": 272,
+      "status": "past"
     },
     {
       "id": "qQqHUcmtKXU",
@@ -1440,15 +1793,9 @@
       "published": "2023-12-14T17:59:20Z",
       "thumbnail": "https://i.ytimg.com/vi/qQqHUcmtKXU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16980
-    },
-    {
-      "id": "Ukoljft3SGM",
-      "title": "【 #百鬼あやめ生誕祭2023 】Nakiriayame 6th BirthDay ~Shoot the heart~ メン限パート  member ship only",
-      "published": "2023-12-13T13:35:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/Ukoljft3SGM/maxresdefault.jpg",
-      "type": "member",
-      "duration": 745
+      "duration": 16980,
+      "status": "past",
+      "scheduledStart": "2023-12-14T13:00:00Z"
     },
     {
       "id": "FOai83VIogA",
@@ -1456,7 +1803,19 @@
       "published": "2023-12-13T12:57:27Z",
       "thumbnail": "https://i.ytimg.com/vi/FOai83VIogA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3162
+      "duration": 3162,
+      "status": "past",
+      "scheduledStart": "2023-12-13T12:00:00Z"
+    },
+    {
+      "id": "Ukoljft3SGM",
+      "title": "【 #百鬼あやめ生誕祭2023 】Nakiriayame 6th BirthDay ~Shoot the heart~ メン限パート  member ship only",
+      "published": "2023-12-13T08:22:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ukoljft3SGM/maxresdefault.jpg",
+      "type": "member",
+      "duration": 745,
+      "status": "past",
+      "scheduledStart": "2023-12-13T13:20:00Z"
     },
     {
       "id": "IeoSkxkMSK8",
@@ -1464,7 +1823,9 @@
       "published": "2023-11-28T12:06:44Z",
       "thumbnail": "https://i.ytimg.com/vi/IeoSkxkMSK8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3681
+      "duration": 3681,
+      "status": "past",
+      "scheduledStart": "2023-11-28T11:00:00Z"
     },
     {
       "id": "mE45wINuBPY",
@@ -1472,7 +1833,9 @@
       "published": "2023-11-19T15:40:54Z",
       "thumbnail": "https://i.ytimg.com/vi/mE45wINuBPY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 23833
+      "duration": 23833,
+      "status": "past",
+      "scheduledStart": "2023-11-19T08:30:00Z"
     },
     {
       "id": "7opZBjYVkcs",
@@ -1480,7 +1843,9 @@
       "published": "2023-11-18T15:45:21Z",
       "thumbnail": "https://i.ytimg.com/vi/7opZBjYVkcs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12299
+      "duration": 12299,
+      "status": "past",
+      "scheduledStart": "2023-11-18T12:00:00Z"
     },
     {
       "id": "0jX5Fphlmbw",
@@ -1488,7 +1853,9 @@
       "published": "2023-11-17T17:52:35Z",
       "thumbnail": "https://i.ytimg.com/vi/0jX5Fphlmbw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18327
+      "duration": 18327,
+      "status": "past",
+      "scheduledStart": "2023-11-17T12:30:00Z"
     },
     {
       "id": "4fC-Dk1pGVc",
@@ -1496,7 +1863,9 @@
       "published": "2023-11-16T18:41:38Z",
       "thumbnail": "https://i.ytimg.com/vi/4fC-Dk1pGVc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14366
+      "duration": 14366,
+      "status": "past",
+      "scheduledStart": "2023-11-16T14:30:00Z"
     },
     {
       "id": "GAjBuyrd_zk",
@@ -1504,7 +1873,9 @@
       "published": "2023-11-15T19:35:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GAjBuyrd_zk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 27249
+      "duration": 27249,
+      "status": "past",
+      "scheduledStart": "2023-11-15T12:30:00Z"
     },
     {
       "id": "9FSrt9CfbDY",
@@ -1512,7 +1883,9 @@
       "published": "2023-11-14T20:49:34Z",
       "thumbnail": "https://i.ytimg.com/vi/9FSrt9CfbDY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 30109
+      "duration": 30109,
+      "status": "past",
+      "scheduledStart": "2023-11-14T12:00:00Z"
     },
     {
       "id": "nQfY6hyyUT8",
@@ -1520,7 +1893,9 @@
       "published": "2023-11-13T19:49:08Z",
       "thumbnail": "https://i.ytimg.com/vi/nQfY6hyyUT8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16301
+      "duration": 16301,
+      "status": "past",
+      "scheduledStart": "2023-11-13T15:00:00Z"
     },
     {
       "id": "DWRAvM786MU",
@@ -1528,7 +1903,9 @@
       "published": "2023-11-09T20:10:04Z",
       "thumbnail": "https://i.ytimg.com/vi/DWRAvM786MU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18749
+      "duration": 18749,
+      "status": "past",
+      "scheduledStart": "2023-11-09T14:30:00Z"
     },
     {
       "id": "qf6iqsbWrUw",
@@ -1536,7 +1913,9 @@
       "published": "2023-11-09T11:03:32Z",
       "thumbnail": "https://i.ytimg.com/vi/qf6iqsbWrUw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3629
+      "duration": 3629,
+      "status": "past",
+      "scheduledStart": "2023-11-09T10:00:00Z"
     },
     {
       "id": "cnHtO-m7N9s",
@@ -1544,7 +1923,9 @@
       "published": "2023-11-07T17:13:50Z",
       "thumbnail": "https://i.ytimg.com/vi/cnHtO-m7N9s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12406
+      "duration": 12406,
+      "status": "past",
+      "scheduledStart": "2023-11-07T13:30:00Z"
     },
     {
       "id": "VQxOXJ3HTRU",
@@ -1552,7 +1933,9 @@
       "published": "2023-11-06T20:51:02Z",
       "thumbnail": "https://i.ytimg.com/vi/VQxOXJ3HTRU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19866
+      "duration": 19866,
+      "status": "past",
+      "scheduledStart": "2023-11-06T15:00:00Z"
     },
     {
       "id": "tHP7bd8Jtm0",
@@ -1560,7 +1943,9 @@
       "published": "2023-11-04T12:49:18Z",
       "thumbnail": "https://i.ytimg.com/vi/tHP7bd8Jtm0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12554
+      "duration": 12554,
+      "status": "past",
+      "scheduledStart": "2023-11-04T09:00:00Z"
     },
     {
       "id": "c9BIio0E9hY",
@@ -1568,7 +1953,9 @@
       "published": "2023-10-28T16:38:18Z",
       "thumbnail": "https://i.ytimg.com/vi/c9BIio0E9hY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8949
+      "duration": 8949,
+      "status": "past",
+      "scheduledStart": "2023-10-28T14:00:00Z"
     },
     {
       "id": "GFdo2R-TXnI",
@@ -1576,7 +1963,9 @@
       "published": "2023-10-22T18:34:39Z",
       "thumbnail": "https://i.ytimg.com/vi/GFdo2R-TXnI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 22346
+      "duration": 22346,
+      "status": "past",
+      "scheduledStart": "2023-10-22T12:00:00Z"
     },
     {
       "id": "Q__QStsIo44",
@@ -1584,7 +1973,9 @@
       "published": "2023-10-01T11:30:24Z",
       "thumbnail": "https://i.ytimg.com/vi/Q__QStsIo44/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5255
+      "duration": 5255,
+      "status": "past",
+      "scheduledStart": "2023-10-01T10:00:00Z"
     },
     {
       "id": "UaYXMlJHYAk",
@@ -1592,7 +1983,9 @@
       "published": "2023-09-23T15:32:44Z",
       "thumbnail": "https://i.ytimg.com/vi/UaYXMlJHYAk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11974
+      "duration": 11974,
+      "status": "past",
+      "scheduledStart": "2023-09-23T12:00:00Z"
     },
     {
       "id": "t2cIH3o1WA4",
@@ -1600,7 +1993,9 @@
       "published": "2023-09-14T15:29:24Z",
       "thumbnail": "https://i.ytimg.com/vi/t2cIH3o1WA4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11098
+      "duration": 11098,
+      "status": "past",
+      "scheduledStart": "2023-09-14T12:00:00Z"
     },
     {
       "id": "gybNKVMAJ3U",
@@ -1608,7 +2003,9 @@
       "published": "2023-09-08T16:28:39Z",
       "thumbnail": "https://i.ytimg.com/vi/gybNKVMAJ3U/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15392
+      "duration": 15392,
+      "status": "past",
+      "scheduledStart": "2023-09-08T12:00:00Z"
     },
     {
       "id": "nwBxJMXRBbQ",
@@ -1616,7 +2013,9 @@
       "published": "2023-09-03T13:23:05Z",
       "thumbnail": "https://i.ytimg.com/vi/nwBxJMXRBbQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7993
+      "duration": 7993,
+      "status": "past",
+      "scheduledStart": "2023-09-03T11:00:00Z"
     },
     {
       "id": "isKfR7BopUU",
@@ -1624,15 +2023,19 @@
       "published": "2023-09-03T13:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/isKfR7BopUU/maxresdefault.jpg",
       "type": "video",
-      "duration": 217
+      "duration": 217,
+      "status": "past",
+      "scheduledStart": "2023-09-03T13:00:00Z"
     },
     {
       "id": "wO44n_Xa4Bg",
       "title": "【メン限】のんびり~~ membership only",
-      "published": "2023-08-29T15:28:48Z",
+      "published": "2023-08-29T10:36:25Z",
       "thumbnail": "https://i.ytimg.com/vi/wO44n_Xa4Bg/maxresdefault.jpg",
       "type": "member",
-      "duration": 11907
+      "duration": 11907,
+      "status": "past",
+      "scheduledStart": "2023-08-29T12:00:00Z"
     },
     {
       "id": "Yo15scrIbFg",
@@ -1640,7 +2043,9 @@
       "published": "2023-08-19T16:32:28Z",
       "thumbnail": "https://i.ytimg.com/vi/Yo15scrIbFg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15375
+      "duration": 15375,
+      "status": "past",
+      "scheduledStart": "2023-08-19T12:00:00Z"
     },
     {
       "id": "wh-e1z9MuPg",
@@ -1648,7 +2053,9 @@
       "published": "2023-08-03T14:24:21Z",
       "thumbnail": "https://i.ytimg.com/vi/wh-e1z9MuPg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14840
+      "duration": 14840,
+      "status": "past",
+      "scheduledStart": "2023-08-03T10:00:00Z"
     },
     {
       "id": "hLWhG9XKpBk",
@@ -1656,7 +2063,9 @@
       "published": "2023-08-01T12:22:40Z",
       "thumbnail": "https://i.ytimg.com/vi/hLWhG9XKpBk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8033
+      "duration": 8033,
+      "status": "past",
+      "scheduledStart": "2023-08-01T10:00:00Z"
     },
     {
       "id": "0pG5J1N3--8",
@@ -1664,7 +2073,9 @@
       "published": "2023-07-31T15:23:09Z",
       "thumbnail": "https://i.ytimg.com/vi/0pG5J1N3--8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7998
+      "duration": 7998,
+      "status": "past",
+      "scheduledStart": "2023-07-31T13:00:00Z"
     },
     {
       "id": "kvw9xAlppR8",
@@ -1672,7 +2083,8 @@
       "published": "2023-07-11T03:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/kvw9xAlppR8/maxresdefault.jpg",
       "type": "short",
-      "duration": 44
+      "duration": 44,
+      "status": "past"
     },
     {
       "id": "LcES_1wsQBU",
@@ -1680,7 +2092,9 @@
       "published": "2023-07-09T16:58:23Z",
       "thumbnail": "https://i.ytimg.com/vi/LcES_1wsQBU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11792
+      "duration": 11792,
+      "status": "past",
+      "scheduledStart": "2023-07-09T13:30:00Z"
     },
     {
       "id": "33gLXRHMXio",
@@ -1688,7 +2102,9 @@
       "published": "2023-07-03T17:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/33gLXRHMXio/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19353
+      "duration": 19353,
+      "status": "past",
+      "scheduledStart": "2023-07-03T12:00:00Z"
     },
     {
       "id": "0DDMc-NtSIY",
@@ -1696,7 +2112,9 @@
       "published": "2023-07-02T16:39:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0DDMc-NtSIY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12359
+      "duration": 12359,
+      "status": "past",
+      "scheduledStart": "2023-07-02T13:00:00Z"
     },
     {
       "id": "mySACB_aVAE",
@@ -1704,7 +2122,9 @@
       "published": "2023-06-30T12:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/mySACB_aVAE/maxresdefault.jpg",
       "type": "video",
-      "duration": 217
+      "duration": 217,
+      "status": "past",
+      "scheduledStart": "2023-06-30T12:00:00Z"
     },
     {
       "id": "t3WgB_gGzOg",
@@ -1712,7 +2132,9 @@
       "published": "2023-06-20T14:56:04Z",
       "thumbnail": "https://i.ytimg.com/vi/t3WgB_gGzOg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12357
+      "duration": 12357,
+      "status": "past",
+      "scheduledStart": "2023-06-20T11:00:00Z"
     },
     {
       "id": "UBaPrMu-lys",
@@ -1720,7 +2142,9 @@
       "published": "2023-04-29T06:32:36Z",
       "thumbnail": "https://i.ytimg.com/vi/UBaPrMu-lys/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8293
+      "duration": 8293,
+      "status": "past",
+      "scheduledStart": "2023-04-29T04:00:00Z"
     },
     {
       "id": "aXq6Wkz__dQ",
@@ -1728,7 +2152,9 @@
       "published": "2023-04-28T17:27:04Z",
       "thumbnail": "https://i.ytimg.com/vi/aXq6Wkz__dQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13609
+      "duration": 13609,
+      "status": "past",
+      "scheduledStart": "2023-04-28T13:15:00Z"
     },
     {
       "id": "hgNaHOK-mcc",
@@ -1736,15 +2162,19 @@
       "published": "2023-04-23T15:30:24Z",
       "thumbnail": "https://i.ytimg.com/vi/hgNaHOK-mcc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11199
+      "duration": 11199,
+      "status": "past",
+      "scheduledStart": "2023-04-23T12:00:00Z"
     },
     {
       "id": "tSLhG4z5IbQ",
       "title": "【メン限】最終日!?ギリギリ滑り込み4th fes同時視聴会!member only",
-      "published": "2023-04-21T15:46:21Z",
+      "published": "2023-04-21T08:29:16Z",
       "thumbnail": "https://i.ytimg.com/vi/tSLhG4z5IbQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 15449
+      "duration": 15449,
+      "status": "past",
+      "scheduledStart": "2023-04-21T11:00:00Z"
     },
     {
       "id": "y2JaT3VmNCM",
@@ -1752,7 +2182,9 @@
       "published": "2023-04-13T16:21:53Z",
       "thumbnail": "https://i.ytimg.com/vi/y2JaT3VmNCM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11009
+      "duration": 11009,
+      "status": "past",
+      "scheduledStart": "2023-04-13T13:00:00Z"
     },
     {
       "id": "id6mGNNq4ac",
@@ -1760,7 +2192,9 @@
       "published": "2023-04-06T11:33:13Z",
       "thumbnail": "https://i.ytimg.com/vi/id6mGNNq4ac/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7420
+      "duration": 7420,
+      "status": "past",
+      "scheduledStart": "2023-04-06T08:00:00Z"
     },
     {
       "id": "3z1NjGqz9LE",
@@ -1768,7 +2202,9 @@
       "published": "2023-04-04T15:49:25Z",
       "thumbnail": "https://i.ytimg.com/vi/3z1NjGqz9LE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12654
+      "duration": 12654,
+      "status": "past",
+      "scheduledStart": "2023-04-04T12:30:00Z"
     },
     {
       "id": "MTCC2S5onHc",
@@ -1776,15 +2212,9 @@
       "published": "2023-03-29T15:16:24Z",
       "thumbnail": "https://i.ytimg.com/vi/MTCC2S5onHc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11531
-    },
-    {
-      "id": "q2fxKFPYw-0",
-      "title": "【メン限】メンバーシップ限定4th fes holo27 stage 同時視聴会!",
-      "published": "2023-03-27T18:25:22Z",
-      "thumbnail": "https://i.ytimg.com/vi/q2fxKFPYw-0/maxresdefault.jpg",
-      "type": "member",
-      "duration": 15899
+      "duration": 11531,
+      "status": "past",
+      "scheduledStart": "2023-03-29T11:00:00Z"
     },
     {
       "id": "hu404LVySXc",
@@ -1792,7 +2222,19 @@
       "published": "2023-03-27T12:42:49Z",
       "thumbnail": "https://i.ytimg.com/vi/hu404LVySXc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5255
+      "duration": 5255,
+      "status": "past",
+      "scheduledStart": "2023-03-27T11:00:00Z"
+    },
+    {
+      "id": "q2fxKFPYw-0",
+      "title": "【メン限】メンバーシップ限定4th fes holo27 stage 同時視聴会!",
+      "published": "2023-03-27T10:41:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/q2fxKFPYw-0/maxresdefault.jpg",
+      "type": "member",
+      "duration": 15899,
+      "status": "past",
+      "scheduledStart": "2023-03-27T13:15:00Z"
     },
     {
       "id": "eRPMlb6IAiM",
@@ -1800,7 +2242,9 @@
       "published": "2023-03-20T16:58:10Z",
       "thumbnail": "https://i.ytimg.com/vi/eRPMlb6IAiM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14990
+      "duration": 14990,
+      "status": "past",
+      "scheduledStart": "2023-03-20T12:00:00Z"
     },
     {
       "id": "6NVWbCRXRp8",
@@ -1808,7 +2252,9 @@
       "published": "2023-02-18T13:06:29Z",
       "thumbnail": "https://i.ytimg.com/vi/6NVWbCRXRp8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6517
+      "duration": 6517,
+      "status": "past",
+      "scheduledStart": "2023-02-18T11:00:00Z"
     },
     {
       "id": "k4IJROgvWHc",
@@ -1816,7 +2262,9 @@
       "published": "2023-02-14T11:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/k4IJROgvWHc/maxresdefault.jpg",
       "type": "video",
-      "duration": 117
+      "duration": 117,
+      "status": "past",
+      "scheduledStart": "2023-02-14T11:00:00Z"
     },
     {
       "id": "QbDSMCie9hk",
@@ -1824,15 +2272,19 @@
       "published": "2023-01-31T16:24:32Z",
       "thumbnail": "https://i.ytimg.com/vi/QbDSMCie9hk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10513
+      "duration": 10513,
+      "status": "past",
+      "scheduledStart": "2023-01-31T13:00:00Z"
     },
     {
       "id": "pFGXUVKFlUo",
       "title": "【メン限】アンチャーテッドみる!!!!!!!!!!member only",
-      "published": "2023-01-28T17:03:14Z",
+      "published": "2023-01-28T12:00:19Z",
       "thumbnail": "https://i.ytimg.com/vi/pFGXUVKFlUo/maxresdefault.jpg",
       "type": "member",
-      "duration": 12521
+      "duration": 12521,
+      "status": "past",
+      "scheduledStart": "2023-01-28T13:00:00Z"
     },
     {
       "id": "L7AAFGBiaks",
@@ -1840,7 +2292,9 @@
       "published": "2023-01-27T16:56:29Z",
       "thumbnail": "https://i.ytimg.com/vi/L7AAFGBiaks/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17983
+      "duration": 17983,
+      "status": "past",
+      "scheduledStart": "2023-01-27T11:00:00Z"
     },
     {
       "id": "lmMvmtKojyk",
@@ -1848,7 +2302,9 @@
       "published": "2023-01-26T13:24:55Z",
       "thumbnail": "https://i.ytimg.com/vi/lmMvmtKojyk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7456
+      "duration": 7456,
+      "status": "past",
+      "scheduledStart": "2023-01-26T11:00:00Z"
     },
     {
       "id": "c9ZmCn0krG8",
@@ -1856,15 +2312,19 @@
       "published": "2023-01-17T16:55:33Z",
       "thumbnail": "https://i.ytimg.com/vi/c9ZmCn0krG8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15617
+      "duration": 15617,
+      "status": "past",
+      "scheduledStart": "2023-01-17T12:00:00Z"
     },
     {
       "id": "0fbBu1WaMrY",
       "title": "【メン限】ゆるざつだん",
-      "published": "2023-01-15T18:25:23Z",
+      "published": "2023-01-15T13:14:09Z",
       "thumbnail": "https://i.ytimg.com/vi/0fbBu1WaMrY/maxresdefault.jpg",
       "type": "member",
-      "duration": 15545
+      "duration": 15545,
+      "status": "past",
+      "scheduledStart": "2023-01-15T13:45:00Z"
     },
     {
       "id": "VIeUROHP5ck",
@@ -1872,7 +2332,9 @@
       "published": "2023-01-09T07:17:36Z",
       "thumbnail": "https://i.ytimg.com/vi/VIeUROHP5ck/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5373
+      "duration": 5373,
+      "status": "past",
+      "scheduledStart": "2023-01-09T05:00:00Z"
     },
     {
       "id": "FRQ3pM1dKLU",
@@ -1880,7 +2342,9 @@
       "published": "2023-01-08T16:49:52Z",
       "thumbnail": "https://i.ytimg.com/vi/FRQ3pM1dKLU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16121
+      "duration": 16121,
+      "status": "past",
+      "scheduledStart": "2023-01-08T12:00:00Z"
     },
     {
       "id": "ZyW_PbdSfsM",
@@ -1888,7 +2352,9 @@
       "published": "2023-01-07T09:01:50Z",
       "thumbnail": "https://i.ytimg.com/vi/ZyW_PbdSfsM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2807
+      "duration": 2807,
+      "status": "past",
+      "scheduledStart": "2023-01-07T08:15:00Z"
     },
     {
       "id": "4uQH85VJRGM",
@@ -1896,7 +2362,9 @@
       "published": "2023-01-07T06:56:39Z",
       "thumbnail": "https://i.ytimg.com/vi/4uQH85VJRGM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3508
+      "duration": 3508,
+      "status": "past",
+      "scheduledStart": "2023-01-07T05:45:00Z"
     },
     {
       "id": "Xm_YWcbqly0",
@@ -1904,15 +2372,19 @@
       "published": "2022-12-25T07:41:38Z",
       "thumbnail": "https://i.ytimg.com/vi/Xm_YWcbqly0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1130
+      "duration": 1130,
+      "status": "past",
+      "scheduledStart": "2022-12-25T07:20:00Z"
     },
     {
       "id": "0axEwSk08i8",
       "title": "【メン限】クリスマスASMR🎄 ※直前にメン限に変わります!",
-      "published": "2022-12-24T16:23:02Z",
+      "published": "2022-12-24T01:47:07Z",
       "thumbnail": "https://i.ytimg.com/vi/0axEwSk08i8/maxresdefault.jpg",
       "type": "member",
-      "duration": 7498
+      "duration": 7498,
+      "status": "past",
+      "scheduledStart": "2022-12-24T14:00:00Z"
     },
     {
       "id": "y7QaeFBZSeY",
@@ -1920,15 +2392,9 @@
       "published": "2022-12-17T17:46:52Z",
       "thumbnail": "https://i.ytimg.com/vi/y7QaeFBZSeY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16045
-    },
-    {
-      "id": "q8n1kNVbd90",
-      "title": "【メン限】メンバーみんなでお誕生日ASMR🎂(※枠が始まる時にメン限に変わります!)member only",
-      "published": "2022-12-13T17:42:15Z",
-      "thumbnail": "https://i.ytimg.com/vi/q8n1kNVbd90/maxresdefault.jpg",
-      "type": "member",
-      "duration": 5542
+      "duration": 16045,
+      "status": "past",
+      "scheduledStart": "2022-12-17T13:00:00Z"
     },
     {
       "id": "ojz7pUMiXtI",
@@ -1936,7 +2402,9 @@
       "published": "2022-12-13T13:24:34Z",
       "thumbnail": "https://i.ytimg.com/vi/ojz7pUMiXtI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7738
+      "duration": 7738,
+      "status": "past",
+      "scheduledStart": "2022-12-13T11:00:00Z"
     },
     {
       "id": "irMD1KMIYE4",
@@ -1944,7 +2412,19 @@
       "published": "2022-12-13T13:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/irMD1KMIYE4/maxresdefault.jpg",
       "type": "video",
-      "duration": 230
+      "duration": 230,
+      "status": "past",
+      "scheduledStart": "2022-12-13T13:00:00Z"
+    },
+    {
+      "id": "q8n1kNVbd90",
+      "title": "【メン限】メンバーみんなでお誕生日ASMR🎂(※枠が始まる時にメン限に変わります!)member only",
+      "published": "2022-12-13T07:50:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/q8n1kNVbd90/maxresdefault.jpg",
+      "type": "member",
+      "duration": 5542,
+      "status": "past",
+      "scheduledStart": "2022-12-13T14:30:00Z"
     },
     {
       "id": "dafJZHFybUA",
@@ -1952,7 +2432,9 @@
       "published": "2022-12-12T16:27:28Z",
       "thumbnail": "https://i.ytimg.com/vi/dafJZHFybUA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6437
+      "duration": 6437,
+      "status": "past",
+      "scheduledStart": "2022-12-12T14:30:00Z"
     },
     {
       "id": "YilIMtJ_KY0",
@@ -1960,7 +2442,9 @@
       "published": "2022-12-11T16:40:26Z",
       "thumbnail": "https://i.ytimg.com/vi/YilIMtJ_KY0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15431
+      "duration": 15431,
+      "status": "past",
+      "scheduledStart": "2022-12-11T12:00:00Z"
     },
     {
       "id": "vXUVCOhnFv8",
@@ -1968,7 +2452,9 @@
       "published": "2022-12-09T19:12:14Z",
       "thumbnail": "https://i.ytimg.com/vi/vXUVCOhnFv8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21420
+      "duration": 21420,
+      "status": "past",
+      "scheduledStart": "2022-12-09T12:30:00Z"
     },
     {
       "id": "n64iaqGTNNc",
@@ -1976,15 +2462,19 @@
       "published": "2022-12-07T19:36:47Z",
       "thumbnail": "https://i.ytimg.com/vi/n64iaqGTNNc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14922
+      "duration": 14922,
+      "status": "past",
+      "scheduledStart": "2022-12-07T15:00:00Z"
     },
     {
       "id": "JKVrX7Rbxe0",
       "title": "【メン限】機材新調後のASMRどうかなぁ~",
-      "published": "2022-11-26T17:50:23Z",
+      "published": "2022-11-26T12:08:09Z",
       "thumbnail": "https://i.ytimg.com/vi/JKVrX7Rbxe0/maxresdefault.jpg",
       "type": "member",
-      "duration": 7902
+      "duration": 7902,
+      "status": "past",
+      "scheduledStart": "2022-11-26T14:00:00Z"
     },
     {
       "id": "CfALcaasl5A",
@@ -1992,7 +2482,9 @@
       "published": "2022-11-25T17:42:38Z",
       "thumbnail": "https://i.ytimg.com/vi/CfALcaasl5A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11877
+      "duration": 11877,
+      "status": "past",
+      "scheduledStart": "2022-11-25T14:00:00Z"
     },
     {
       "id": "r-64EAl3ZTw",
@@ -2000,7 +2492,9 @@
       "published": "2022-11-17T15:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/r-64EAl3ZTw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9733
+      "duration": 9733,
+      "status": "past",
+      "scheduledStart": "2022-11-17T12:30:00Z"
     },
     {
       "id": "Qoq7PICHReA",
@@ -2008,7 +2502,9 @@
       "published": "2022-11-16T16:09:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Qoq7PICHReA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10480
+      "duration": 10480,
+      "status": "past",
+      "scheduledStart": "2022-11-16T13:00:00Z"
     },
     {
       "id": "gvLng6_O_wE",
@@ -2016,7 +2512,9 @@
       "published": "2022-11-11T18:23:11Z",
       "thumbnail": "https://i.ytimg.com/vi/gvLng6_O_wE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16809
+      "duration": 16809,
+      "status": "past",
+      "scheduledStart": "2022-11-11T12:00:00Z"
     },
     {
       "id": "BDu7VP2uY-Q",
@@ -2024,7 +2522,9 @@
       "published": "2022-11-04T12:09:23Z",
       "thumbnail": "https://i.ytimg.com/vi/BDu7VP2uY-Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3594
+      "duration": 3594,
+      "status": "past",
+      "scheduledStart": "2022-11-04T11:00:00Z"
     },
     {
       "id": "5_IYro0Ch_4",
@@ -2032,7 +2532,9 @@
       "published": "2022-10-13T20:11:49Z",
       "thumbnail": "https://i.ytimg.com/vi/5_IYro0Ch_4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18279
+      "duration": 18279,
+      "status": "past",
+      "scheduledStart": "2022-10-13T14:45:00Z"
     },
     {
       "id": "h0zNvpONM_A",
@@ -2040,7 +2542,9 @@
       "published": "2022-10-10T18:35:55Z",
       "thumbnail": "https://i.ytimg.com/vi/h0zNvpONM_A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17219
+      "duration": 17219,
+      "status": "past",
+      "scheduledStart": "2022-10-10T13:00:00Z"
     },
     {
       "id": "4doa3Ongv_Q",
@@ -2048,15 +2552,19 @@
       "published": "2022-09-27T19:29:05Z",
       "thumbnail": "https://i.ytimg.com/vi/4doa3Ongv_Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21373
+      "duration": 21373,
+      "status": "past",
+      "scheduledStart": "2022-09-27T13:00:00Z"
     },
     {
       "id": "C73D8bSw-zg",
       "title": "【メン限】初めてのメン限ASMRに挑戦・・・!!!!!",
-      "published": "2022-09-25T15:50:58Z",
+      "published": "2022-09-25T12:27:18Z",
       "thumbnail": "https://i.ytimg.com/vi/C73D8bSw-zg/maxresdefault.jpg",
       "type": "member",
-      "duration": 6056
+      "duration": 6056,
+      "status": "past",
+      "scheduledStart": "2022-09-25T13:30:00Z"
     },
     {
       "id": "wo0mTA1iSD8",
@@ -2064,7 +2572,9 @@
       "published": "2022-09-23T14:57:20Z",
       "thumbnail": "https://i.ytimg.com/vi/wo0mTA1iSD8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9239
+      "duration": 9239,
+      "status": "past",
+      "scheduledStart": "2022-09-23T12:00:00Z"
     },
     {
       "id": "ma28TY9JyA8",
@@ -2072,7 +2582,9 @@
       "published": "2022-09-10T15:39:07Z",
       "thumbnail": "https://i.ytimg.com/vi/ma28TY9JyA8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11285
+      "duration": 11285,
+      "status": "past",
+      "scheduledStart": "2022-09-10T12:00:00Z"
     },
     {
       "id": "zryLA2VZ8H0",
@@ -2080,7 +2592,9 @@
       "published": "2022-09-05T14:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/zryLA2VZ8H0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4156
+      "duration": 4156,
+      "status": "past",
+      "scheduledStart": "2022-09-05T13:00:00Z"
     },
     {
       "id": "5QVq6BaDdFg",
@@ -2088,15 +2602,9 @@
       "published": "2022-09-04T14:55:29Z",
       "thumbnail": "https://i.ytimg.com/vi/5QVq6BaDdFg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9401
-    },
-    {
-      "id": "hTOWLzVRgEo",
-      "title": "【#百鬼あやめ4周年記念 / 3DLIVE】Nakiriayame 4th anniversary ~Hapiness to you ♡~  メン限パート",
-      "published": "2022-09-03T12:42:49Z",
-      "thumbnail": "https://i.ytimg.com/vi/hTOWLzVRgEo/maxresdefault.jpg",
-      "type": "member",
-      "duration": 1412
+      "duration": 9401,
+      "status": "past",
+      "scheduledStart": "2022-09-04T12:00:00Z"
     },
     {
       "id": "mwJGZ8YU7o4",
@@ -2104,7 +2612,19 @@
       "published": "2022-09-03T12:23:01Z",
       "thumbnail": "https://i.ytimg.com/vi/mwJGZ8YU7o4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4563
+      "duration": 4563,
+      "status": "past",
+      "scheduledStart": "2022-09-03T11:00:00Z"
+    },
+    {
+      "id": "hTOWLzVRgEo",
+      "title": "【#百鬼あやめ4周年記念 / 3DLIVE】Nakiriayame 4th anniversary ~Hapiness to you ♡~  メン限パート",
+      "published": "2022-09-03T10:22:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/hTOWLzVRgEo/maxresdefault.jpg",
+      "type": "member",
+      "duration": 1412,
+      "status": "past",
+      "scheduledStart": "2022-09-03T12:00:00Z"
     },
     {
       "id": "YPyHgTU7Hjg",
@@ -2112,7 +2632,9 @@
       "published": "2022-09-02T17:21:29Z",
       "thumbnail": "https://i.ytimg.com/vi/YPyHgTU7Hjg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13556
+      "duration": 13556,
+      "status": "past",
+      "scheduledStart": "2022-09-02T13:00:00Z"
     },
     {
       "id": "sAHqu-Vywi4",
@@ -2120,7 +2642,9 @@
       "published": "2022-06-13T17:20:45Z",
       "thumbnail": "https://i.ytimg.com/vi/sAHqu-Vywi4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14742
+      "duration": 14742,
+      "status": "past",
+      "scheduledStart": "2022-06-13T13:00:00Z"
     },
     {
       "id": "QH17HGMM7fo",
@@ -2128,7 +2652,9 @@
       "published": "2022-06-08T17:17:41Z",
       "thumbnail": "https://i.ytimg.com/vi/QH17HGMM7fo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10848
+      "duration": 10848,
+      "status": "past",
+      "scheduledStart": "2022-06-08T14:00:00Z"
     },
     {
       "id": "bzGegZoav-I",
@@ -2136,7 +2662,9 @@
       "published": "2022-06-03T12:49:35Z",
       "thumbnail": "https://i.ytimg.com/vi/bzGegZoav-I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8792
+      "duration": 8792,
+      "status": "past",
+      "scheduledStart": "2022-06-03T10:00:00Z"
     },
     {
       "id": "l-hgfjVN7BM",
@@ -2144,7 +2672,9 @@
       "published": "2022-05-29T12:55:38Z",
       "thumbnail": "https://i.ytimg.com/vi/l-hgfjVN7BM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5662
+      "duration": 5662,
+      "status": "past",
+      "scheduledStart": "2022-05-29T11:00:00Z"
     },
     {
       "id": "ObE-AeFGRJA",
@@ -2152,7 +2682,9 @@
       "published": "2022-05-28T11:47:26Z",
       "thumbnail": "https://i.ytimg.com/vi/ObE-AeFGRJA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1943
+      "duration": 1943,
+      "status": "past",
+      "scheduledStart": "2022-05-28T11:00:00Z"
     },
     {
       "id": "IWx6mh4WKOM",
@@ -2160,7 +2692,9 @@
       "published": "2022-04-01T14:58:49Z",
       "thumbnail": "https://i.ytimg.com/vi/IWx6mh4WKOM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6219
+      "duration": 6219,
+      "status": "past",
+      "scheduledStart": "2022-04-01T13:00:00Z"
     },
     {
       "id": "QXOSOs4SITc",
@@ -2168,7 +2702,9 @@
       "published": "2022-03-31T14:44:54Z",
       "thumbnail": "https://i.ytimg.com/vi/QXOSOs4SITc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5004
+      "duration": 5004,
+      "status": "past",
+      "scheduledStart": "2022-03-31T13:00:00Z"
     },
     {
       "id": "MF9UpVX-dAo",
@@ -2176,7 +2712,9 @@
       "published": "2022-03-11T15:33:11Z",
       "thumbnail": "https://i.ytimg.com/vi/MF9UpVX-dAo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12603
+      "duration": 12603,
+      "status": "past",
+      "scheduledStart": "2022-03-11T11:30:00Z"
     },
     {
       "id": "mJxiSWb2q1M",
@@ -2184,7 +2722,9 @@
       "published": "2022-02-19T15:28:07Z",
       "thumbnail": "https://i.ytimg.com/vi/mJxiSWb2q1M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7867
+      "duration": 7867,
+      "status": "past",
+      "scheduledStart": "2022-02-19T13:00:00Z"
     },
     {
       "id": "GVwMDJeMLpc",
@@ -2192,7 +2732,9 @@
       "published": "2022-02-14T16:58:15Z",
       "thumbnail": "https://i.ytimg.com/vi/GVwMDJeMLpc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10623
+      "duration": 10623,
+      "status": "past",
+      "scheduledStart": "2022-02-14T13:45:00Z"
     },
     {
       "id": "zmEqLY0Vy_M",
@@ -2200,7 +2742,9 @@
       "published": "2022-02-11T11:44:17Z",
       "thumbnail": "https://i.ytimg.com/vi/zmEqLY0Vy_M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5794
+      "duration": 5794,
+      "status": "past",
+      "scheduledStart": "2022-02-11T10:00:00Z"
     },
     {
       "id": "MiktlqTanck",
@@ -2208,7 +2752,9 @@
       "published": "2022-02-09T17:20:22Z",
       "thumbnail": "https://i.ytimg.com/vi/MiktlqTanck/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15159
+      "duration": 15159,
+      "status": "past",
+      "scheduledStart": "2022-02-09T12:30:00Z"
     },
     {
       "id": "3enlAJJriIE",
@@ -2216,7 +2762,9 @@
       "published": "2022-01-23T17:03:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3enlAJJriIE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6961
+      "duration": 6961,
+      "status": "past",
+      "scheduledStart": "2022-01-23T15:00:00Z"
     },
     {
       "id": "cWlluVQStVI",
@@ -2224,7 +2772,9 @@
       "published": "2022-01-07T05:07:40Z",
       "thumbnail": "https://i.ytimg.com/vi/cWlluVQStVI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2573
+      "duration": 2573,
+      "status": "past",
+      "scheduledStart": "2022-01-07T04:30:00Z"
     },
     {
       "id": "qkawmOxU11Y",
@@ -2232,15 +2782,18 @@
       "published": "2022-01-02T19:28:54Z",
       "thumbnail": "https://i.ytimg.com/vi/qkawmOxU11Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14678
+      "duration": 14678,
+      "status": "past",
+      "scheduledStart": "2022-01-02T15:00:00Z"
     },
     {
       "id": "Opr2GrA7BTk",
       "title": "クリスマスふぁっしょんショー🎅🦌⛄",
-      "published": "2021-12-25T10:46:41Z",
+      "published": "2021-12-25T10:45:23Z",
       "thumbnail": "https://i.ytimg.com/vi/Opr2GrA7BTk/maxresdefault.jpg",
       "type": "member",
-      "duration": 244
+      "duration": 244,
+      "status": "past"
     },
     {
       "id": "YrYgXgPbxmI",
@@ -2248,7 +2801,8 @@
       "published": "2021-12-25T10:29:30Z",
       "thumbnail": "https://i.ytimg.com/vi/YrYgXgPbxmI/maxresdefault.jpg",
       "type": "video",
-      "duration": 15
+      "duration": 15,
+      "status": "past"
     },
     {
       "id": "SrHRlSW7as0",
@@ -2256,15 +2810,19 @@
       "published": "2021-12-25T10:07:11Z",
       "thumbnail": "https://i.ytimg.com/vi/SrHRlSW7as0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 1597
+      "duration": 1597,
+      "status": "past",
+      "scheduledStart": "2021-12-25T09:45:00Z"
     },
     {
       "id": "_t22dtTNKng",
       "title": "【メン限】クリスマス映画デート!!",
-      "published": "2021-12-24T17:44:00Z",
+      "published": "2021-12-24T12:50:22Z",
       "thumbnail": "https://i.ytimg.com/vi/_t22dtTNKng/maxresdefault.jpg",
       "type": "member",
-      "duration": 14105
+      "duration": 14105,
+      "status": "past",
+      "scheduledStart": "2021-12-24T13:30:00Z"
     },
     {
       "id": "JU5oiEYkbmE",
@@ -2272,7 +2830,9 @@
       "published": "2021-12-23T14:57:37Z",
       "thumbnail": "https://i.ytimg.com/vi/JU5oiEYkbmE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9608
+      "duration": 9608,
+      "status": "past",
+      "scheduledStart": "2021-12-23T12:00:00Z"
     },
     {
       "id": "9r3c-C96Irs",
@@ -2280,15 +2840,19 @@
       "published": "2021-12-19T17:37:15Z",
       "thumbnail": "https://i.ytimg.com/vi/9r3c-C96Irs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13781
+      "duration": 13781,
+      "status": "past",
+      "scheduledStart": "2021-12-19T13:30:00Z"
     },
     {
       "id": "0Ox1ZEn1SvQ",
       "title": "【メン限】お誕生日ののんびりアフタートーク🎂",
-      "published": "2021-12-13T19:16:43Z",
+      "published": "2021-12-13T14:34:59Z",
       "thumbnail": "https://i.ytimg.com/vi/0Ox1ZEn1SvQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 15317
+      "duration": 15317,
+      "status": "past",
+      "scheduledStart": "2021-12-13T14:45:00Z"
     },
     {
       "id": "bn7OaRnM9-A",
@@ -2296,7 +2860,9 @@
       "published": "2021-12-13T12:08:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bn7OaRnM9-A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3699
+      "duration": 3699,
+      "status": "past",
+      "scheduledStart": "2021-12-13T11:00:00Z"
     },
     {
       "id": "xaFIGjRembM",
@@ -2304,7 +2870,9 @@
       "published": "2021-12-09T19:18:52Z",
       "thumbnail": "https://i.ytimg.com/vi/xaFIGjRembM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12629
+      "duration": 12629,
+      "status": "past",
+      "scheduledStart": "2021-12-09T15:30:00Z"
     },
     {
       "id": "2xwmZMqMup8",
@@ -2312,7 +2880,9 @@
       "published": "2021-12-06T17:18:37Z",
       "thumbnail": "https://i.ytimg.com/vi/2xwmZMqMup8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17201
+      "duration": 17201,
+      "status": "past",
+      "scheduledStart": "2021-12-06T12:00:00Z"
     },
     {
       "id": "ECkxzFgbJqQ",
@@ -2320,23 +2890,18 @@
       "published": "2021-11-03T11:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ECkxzFgbJqQ/maxresdefault.jpg",
       "type": "video",
-      "duration": 264
-    },
-    {
-      "id": "0U-TkCRp7nA",
-      "title": "【メン限】3周年記念ライブアフタートーク🌸",
-      "published": "2021-10-02T16:40:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/0U-TkCRp7nA/maxresdefault.jpg",
-      "type": "member",
-      "duration": 5567
+      "duration": 264,
+      "status": "past",
+      "scheduledStart": "2021-11-03T11:00:00Z"
     },
     {
       "id": "Mu6vBw-0eks",
       "title": "3Dライブoff動画👀✨",
-      "published": "2021-10-02T14:46:47Z",
+      "published": "2021-10-02T14:45:29Z",
       "thumbnail": "https://i.ytimg.com/vi/Mu6vBw-0eks/maxresdefault.jpg",
       "type": "member",
-      "duration": 212
+      "duration": 212,
+      "status": "past"
     },
     {
       "id": "N0mQHlL7Qo4",
@@ -2344,7 +2909,19 @@
       "published": "2021-10-02T12:09:06Z",
       "thumbnail": "https://i.ytimg.com/vi/N0mQHlL7Qo4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3810
+      "duration": 3810,
+      "status": "past",
+      "scheduledStart": "2021-10-02T11:00:00Z"
+    },
+    {
+      "id": "0U-TkCRp7nA",
+      "title": "【メン限】3周年記念ライブアフタートーク🌸",
+      "published": "2021-10-01T16:12:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/0U-TkCRp7nA/maxresdefault.jpg",
+      "type": "member",
+      "duration": 5567,
+      "status": "past",
+      "scheduledStart": "2021-10-02T15:00:00Z"
     },
     {
       "id": "wX6brfXzSXE",
@@ -2352,7 +2929,9 @@
       "published": "2021-09-27T19:03:13Z",
       "thumbnail": "https://i.ytimg.com/vi/wX6brfXzSXE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 14605
+      "duration": 14605,
+      "status": "past",
+      "scheduledStart": "2021-09-27T14:30:00Z"
     },
     {
       "id": "Tr78G5PJHNo",
@@ -2360,7 +2939,9 @@
       "published": "2021-09-26T12:06:30Z",
       "thumbnail": "https://i.ytimg.com/vi/Tr78G5PJHNo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3460
+      "duration": 3460,
+      "status": "past",
+      "scheduledStart": "2021-09-26T11:00:00Z"
     },
     {
       "id": "4H3Na-dhIY4",
@@ -2368,7 +2949,9 @@
       "published": "2021-09-10T16:56:11Z",
       "thumbnail": "https://i.ytimg.com/vi/4H3Na-dhIY4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10261
+      "duration": 10261,
+      "status": "past",
+      "scheduledStart": "2021-09-10T13:30:00Z"
     },
     {
       "id": "ylL8dKpG9QI",
@@ -2376,7 +2959,9 @@
       "published": "2021-09-06T18:28:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ylL8dKpG9QI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18398
+      "duration": 18398,
+      "status": "past",
+      "scheduledStart": "2021-09-06T13:00:00Z"
     },
     {
       "id": "tJI7JKgLOnY",
@@ -2384,7 +2969,9 @@
       "published": "2021-09-03T13:31:01Z",
       "thumbnail": "https://i.ytimg.com/vi/tJI7JKgLOnY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4960
+      "duration": 4960,
+      "status": "past",
+      "scheduledStart": "2021-09-03T12:00:00Z"
     },
     {
       "id": "FNBIsexCXM0",
@@ -2392,7 +2979,9 @@
       "published": "2021-08-27T13:22:26Z",
       "thumbnail": "https://i.ytimg.com/vi/FNBIsexCXM0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7228
+      "duration": 7228,
+      "status": "past",
+      "scheduledStart": "2021-08-27T11:00:00Z"
     },
     {
       "id": "qtHoQ71M9ok",
@@ -2400,7 +2989,9 @@
       "published": "2021-08-25T15:13:07Z",
       "thumbnail": "https://i.ytimg.com/vi/qtHoQ71M9ok/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8634
+      "duration": 8634,
+      "status": "past",
+      "scheduledStart": "2021-08-25T12:30:00Z"
     },
     {
       "id": "4lr7Osefzoc",
@@ -2408,15 +2999,19 @@
       "published": "2021-08-16T17:43:19Z",
       "thumbnail": "https://i.ytimg.com/vi/4lr7Osefzoc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9217
+      "duration": 9217,
+      "status": "past",
+      "scheduledStart": "2021-08-16T14:45:00Z"
     },
     {
       "id": "ZE2Qmw_70Kg",
       "title": "【メン限】歌ってみた投稿してみました",
-      "published": "2021-08-08T18:37:37Z",
+      "published": "2021-08-08T14:03:34Z",
       "thumbnail": "https://i.ytimg.com/vi/ZE2Qmw_70Kg/maxresdefault.jpg",
       "type": "member",
-      "duration": 11824
+      "duration": 11824,
+      "status": "past",
+      "scheduledStart": "2021-08-08T15:00:00Z"
     },
     {
       "id": "eGfyyU9qouA",
@@ -2424,7 +3019,9 @@
       "published": "2021-08-08T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/eGfyyU9qouA/maxresdefault.jpg",
       "type": "video",
-      "duration": 251
+      "duration": 251,
+      "status": "past",
+      "scheduledStart": "2021-08-08T12:00:00Z"
     },
     {
       "id": "Phlmweq_EcA",
@@ -2432,15 +3029,19 @@
       "published": "2021-07-31T14:11:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Phlmweq_EcA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4851
+      "duration": 4851,
+      "status": "past",
+      "scheduledStart": "2021-07-31T12:30:00Z"
     },
     {
       "id": "Fc5jUcj-3w0",
       "title": "【メン限】雑談&お悩み相談会~~~~~~!",
-      "published": "2021-07-28T17:46:38Z",
+      "published": "2021-07-28T13:39:44Z",
       "thumbnail": "https://i.ytimg.com/vi/Fc5jUcj-3w0/maxresdefault.jpg",
       "type": "member",
-      "duration": 12827
+      "duration": 12827,
+      "status": "past",
+      "scheduledStart": "2021-07-28T14:00:00Z"
     },
     {
       "id": "d50ydKyP8vA",
@@ -2448,7 +3049,9 @@
       "published": "2021-07-20T14:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/d50ydKyP8vA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6249
+      "duration": 6249,
+      "status": "past",
+      "scheduledStart": "2021-07-20T12:00:00Z"
     },
     {
       "id": "exIS9Etx71s",
@@ -2456,7 +3059,9 @@
       "published": "2021-07-16T14:17:20Z",
       "thumbnail": "https://i.ytimg.com/vi/exIS9Etx71s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5897
+      "duration": 5897,
+      "status": "past",
+      "scheduledStart": "2021-07-16T12:00:00Z"
     },
     {
       "id": "VZuRwKIr34k",
@@ -2464,7 +3069,9 @@
       "published": "2021-07-08T15:29:20Z",
       "thumbnail": "https://i.ytimg.com/vi/VZuRwKIr34k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6530
+      "duration": 6530,
+      "status": "past",
+      "scheduledStart": "2021-07-08T13:30:00Z"
     },
     {
       "id": "df7hQS1JfDM",
@@ -2472,15 +3079,19 @@
       "published": "2021-07-06T14:21:11Z",
       "thumbnail": "https://i.ytimg.com/vi/df7hQS1JfDM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10259
+      "duration": 10259,
+      "status": "past",
+      "scheduledStart": "2021-07-06T11:00:00Z"
     },
     {
       "id": "utm4FmoJrEs",
       "title": "【メン限】新しい回線てすと配信!!!",
-      "published": "2021-06-12T19:22:11Z",
+      "published": "2021-06-12T14:40:42Z",
       "thumbnail": "https://i.ytimg.com/vi/utm4FmoJrEs/maxresdefault.jpg",
       "type": "member",
-      "duration": 14623
+      "duration": 14623,
+      "status": "past",
+      "scheduledStart": "2021-06-12T15:00:00Z"
     },
     {
       "id": "z1W4c7ym49Y",
@@ -2488,7 +3099,9 @@
       "published": "2021-05-22T12:00:16Z",
       "thumbnail": "https://i.ytimg.com/vi/z1W4c7ym49Y/maxresdefault.jpg",
       "type": "video",
-      "duration": 172
+      "duration": 172,
+      "status": "past",
+      "scheduledStart": "2021-05-22T12:00:00Z"
     },
     {
       "id": "tRCzC1TJUo8",
@@ -2496,7 +3109,9 @@
       "published": "2021-05-16T18:23:07Z",
       "thumbnail": "https://i.ytimg.com/vi/tRCzC1TJUo8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13457
+      "duration": 13457,
+      "status": "past",
+      "scheduledStart": "2021-05-16T14:00:00Z"
     },
     {
       "id": "pElhBw9EGt8",
@@ -2504,7 +3119,9 @@
       "published": "2021-05-13T17:40:40Z",
       "thumbnail": "https://i.ytimg.com/vi/pElhBw9EGt8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15262
+      "duration": 15262,
+      "status": "past",
+      "scheduledStart": "2021-05-13T13:00:00Z"
     },
     {
       "id": "VH_lVKwgB-4",
@@ -2512,15 +3129,19 @@
       "published": "2021-05-09T18:34:07Z",
       "thumbnail": "https://i.ytimg.com/vi/VH_lVKwgB-4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13074
+      "duration": 13074,
+      "status": "past",
+      "scheduledStart": "2021-05-09T14:00:00Z"
     },
     {
       "id": "YfJKQn4dO1Q",
       "title": "【メン限】グランドイリュージョン映画鑑賞会!!",
-      "published": "2021-05-05T19:29:03Z",
+      "published": "2021-05-05T13:41:53Z",
       "thumbnail": "https://i.ytimg.com/vi/YfJKQn4dO1Q/maxresdefault.jpg",
       "type": "member",
-      "duration": 16196
+      "duration": 16196,
+      "status": "past",
+      "scheduledStart": "2021-05-05T14:15:00Z"
     },
     {
       "id": "dYtnP9s3QXs",
@@ -2528,7 +3149,9 @@
       "published": "2021-05-02T17:02:05Z",
       "thumbnail": "https://i.ytimg.com/vi/dYtnP9s3QXs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15572
+      "duration": 15572,
+      "status": "past",
+      "scheduledStart": "2021-05-02T12:00:00Z"
     },
     {
       "id": "K8V_SP5iulw",
@@ -2536,7 +3159,9 @@
       "published": "2021-04-29T18:08:25Z",
       "thumbnail": "https://i.ytimg.com/vi/K8V_SP5iulw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13915
+      "duration": 13915,
+      "status": "past",
+      "scheduledStart": "2021-04-29T14:00:00Z"
     },
     {
       "id": "uTO0KnDsVH0",
@@ -2544,7 +3169,9 @@
       "published": "2021-04-29T11:00:17Z",
       "thumbnail": "https://i.ytimg.com/vi/uTO0KnDsVH0/maxresdefault.jpg",
       "type": "video",
-      "duration": 137
+      "duration": 137,
+      "status": "past",
+      "scheduledStart": "2021-04-29T11:00:00Z"
     },
     {
       "id": "_BcPYef-66g",
@@ -2552,7 +3179,9 @@
       "published": "2021-04-26T20:09:16Z",
       "thumbnail": "https://i.ytimg.com/vi/_BcPYef-66g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17179
+      "duration": 17179,
+      "status": "past",
+      "scheduledStart": "2021-04-26T15:00:00Z"
     },
     {
       "id": "ZyUvqo-cu_g",
@@ -2560,7 +3189,9 @@
       "published": "2021-04-18T18:19:08Z",
       "thumbnail": "https://i.ytimg.com/vi/ZyUvqo-cu_g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12452
+      "duration": 12452,
+      "status": "past",
+      "scheduledStart": "2021-04-18T14:30:00Z"
     },
     {
       "id": "wV1AGU0rxpw",
@@ -2568,7 +3199,9 @@
       "published": "2021-04-07T17:56:26Z",
       "thumbnail": "https://i.ytimg.com/vi/wV1AGU0rxpw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9568
+      "duration": 9568,
+      "status": "past",
+      "scheduledStart": "2021-04-07T14:30:00Z"
     },
     {
       "id": "FGhIbI9AJr0",
@@ -2576,7 +3209,9 @@
       "published": "2021-04-05T17:26:47Z",
       "thumbnail": "https://i.ytimg.com/vi/FGhIbI9AJr0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12869
+      "duration": 12869,
+      "status": "past",
+      "scheduledStart": "2021-04-05T13:30:00Z"
     },
     {
       "id": "rv6WD8R3lTo",
@@ -2584,7 +3219,9 @@
       "published": "2021-04-03T19:33:12Z",
       "thumbnail": "https://i.ytimg.com/vi/rv6WD8R3lTo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16110
+      "duration": 16110,
+      "status": "past",
+      "scheduledStart": "2021-04-03T14:30:00Z"
     },
     {
       "id": "B1ErENTsf2s",
@@ -2592,7 +3229,9 @@
       "published": "2021-03-28T16:57:16Z",
       "thumbnail": "https://i.ytimg.com/vi/B1ErENTsf2s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8246
+      "duration": 8246,
+      "status": "past",
+      "scheduledStart": "2021-03-28T14:30:00Z"
     },
     {
       "id": "c1cYfAw915A",
@@ -2600,7 +3239,9 @@
       "published": "2021-03-27T18:24:41Z",
       "thumbnail": "https://i.ytimg.com/vi/c1cYfAw915A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12587
+      "duration": 12587,
+      "status": "past",
+      "scheduledStart": "2021-03-27T14:30:00Z"
     },
     {
       "id": "Q8bHuJdgzqg",
@@ -2608,7 +3249,9 @@
       "published": "2021-03-19T18:56:48Z",
       "thumbnail": "https://i.ytimg.com/vi/Q8bHuJdgzqg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13014
+      "duration": 13014,
+      "status": "past",
+      "scheduledStart": "2021-03-19T15:00:00Z"
     },
     {
       "id": "3kMSj4JuUqE",
@@ -2616,15 +3259,19 @@
       "published": "2021-03-12T16:09:11Z",
       "thumbnail": "https://i.ytimg.com/vi/3kMSj4JuUqE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10422
+      "duration": 10422,
+      "status": "past",
+      "scheduledStart": "2021-03-12T13:00:00Z"
     },
     {
       "id": "LQoJOya3ljY",
       "title": "【メン限】みんなでぷろふぃーる作り!!!!",
-      "published": "2021-03-10T17:35:20Z",
+      "published": "2021-03-10T10:43:00Z",
       "thumbnail": "https://i.ytimg.com/vi/LQoJOya3ljY/maxresdefault.jpg",
       "type": "member",
-      "duration": 17919
+      "duration": 17919,
+      "status": "past",
+      "scheduledStart": "2021-03-10T12:00:00Z"
     },
     {
       "id": "ctNrfRXsg4I",
@@ -2632,15 +3279,19 @@
       "published": "2021-03-07T19:30:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ctNrfRXsg4I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 26686
+      "duration": 26686,
+      "status": "past",
+      "scheduledStart": "2021-03-07T11:30:00Z"
     },
     {
       "id": "YevBuAxZAU4",
       "title": "【メン限】キングスマン：ゴールデン・サークルでぇと~~~!",
-      "published": "2021-03-06T18:49:16Z",
+      "published": "2021-03-06T12:26:31Z",
       "thumbnail": "https://i.ytimg.com/vi/YevBuAxZAU4/maxresdefault.jpg",
       "type": "member",
-      "duration": 17942
+      "duration": 17942,
+      "status": "past",
+      "scheduledStart": "2021-03-06T13:15:00Z"
     },
     {
       "id": "43NsdiPXeMQ",
@@ -2648,7 +3299,9 @@
       "published": "2021-03-05T19:41:17Z",
       "thumbnail": "https://i.ytimg.com/vi/43NsdiPXeMQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15959
+      "duration": 15959,
+      "status": "past",
+      "scheduledStart": "2021-03-05T14:45:00Z"
     },
     {
       "id": "DdF3cl-IBlM",
@@ -2656,7 +3309,9 @@
       "published": "2021-03-05T13:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/DdF3cl-IBlM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18077
+      "duration": 18077,
+      "status": "past",
+      "scheduledStart": "2021-03-05T07:30:00Z"
     },
     {
       "id": "3LUoe_-zrv8",
@@ -2664,7 +3319,9 @@
       "published": "2021-03-03T19:57:54Z",
       "thumbnail": "https://i.ytimg.com/vi/3LUoe_-zrv8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19938
+      "duration": 19938,
+      "status": "past",
+      "scheduledStart": "2021-03-03T14:00:00Z"
     },
     {
       "id": "P817n2JNdfI",
@@ -2672,23 +3329,29 @@
       "published": "2021-02-25T07:18:08Z",
       "thumbnail": "https://i.ytimg.com/vi/P817n2JNdfI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6480
+      "duration": 6480,
+      "status": "past",
+      "scheduledStart": "2021-02-25T05:15:00Z"
     },
     {
       "id": "T2DejCmQJMU",
       "title": "【メン限】映画キングスマンでぇと~~~!!!",
-      "published": "2021-02-23T17:21:22Z",
+      "published": "2021-02-23T12:47:16Z",
       "thumbnail": "https://i.ytimg.com/vi/T2DejCmQJMU/maxresdefault.jpg",
       "type": "member",
-      "duration": 12263
+      "duration": 12263,
+      "status": "past",
+      "scheduledStart": "2021-02-23T13:10:00Z"
     },
     {
       "id": "C2-pKsOGUHc",
       "title": "【メンバー限定】Bloom,ライブ同時視聴会!!!",
-      "published": "2021-02-21T19:16:51Z",
+      "published": "2021-02-21T13:39:18Z",
       "thumbnail": "https://i.ytimg.com/vi/C2-pKsOGUHc/maxresdefault.jpg",
       "type": "member",
-      "duration": 18849
+      "duration": 18849,
+      "status": "past",
+      "scheduledStart": "2021-02-21T13:45:00Z"
     },
     {
       "id": "1BGPJ0tVPWs",
@@ -2696,7 +3359,9 @@
       "published": "2021-02-18T18:53:54Z",
       "thumbnail": "https://i.ytimg.com/vi/1BGPJ0tVPWs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15416
+      "duration": 15416,
+      "status": "past",
+      "scheduledStart": "2021-02-18T14:00:00Z"
     },
     {
       "id": "rG0mRyPLQ6A",
@@ -2704,7 +3369,9 @@
       "published": "2021-02-15T18:02:22Z",
       "thumbnail": "https://i.ytimg.com/vi/rG0mRyPLQ6A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12914
+      "duration": 12914,
+      "status": "past",
+      "scheduledStart": "2021-02-15T14:00:00Z"
     },
     {
       "id": "0nBTiAt2kbc",
@@ -2712,7 +3379,9 @@
       "published": "2021-02-11T18:16:22Z",
       "thumbnail": "https://i.ytimg.com/vi/0nBTiAt2kbc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13952
+      "duration": 13952,
+      "status": "past",
+      "scheduledStart": "2021-02-11T14:00:00Z"
     },
     {
       "id": "VmkbHpO1As0",
@@ -2720,7 +3389,9 @@
       "published": "2021-02-08T17:18:05Z",
       "thumbnail": "https://i.ytimg.com/vi/VmkbHpO1As0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8889
+      "duration": 8889,
+      "status": "past",
+      "scheduledStart": "2021-02-08T14:30:00Z"
     },
     {
       "id": "pYl9ftYGYR8",
@@ -2728,7 +3399,9 @@
       "published": "2021-02-07T21:59:31Z",
       "thumbnail": "https://i.ytimg.com/vi/pYl9ftYGYR8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 23845
+      "duration": 23845,
+      "status": "past",
+      "scheduledStart": "2021-02-07T14:30:00Z"
     },
     {
       "id": "mIkObWAwMnc",
@@ -2736,7 +3409,9 @@
       "published": "2021-02-05T17:38:16Z",
       "thumbnail": "https://i.ytimg.com/vi/mIkObWAwMnc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12983
+      "duration": 12983,
+      "status": "past",
+      "scheduledStart": "2021-02-05T13:45:00Z"
     },
     {
       "id": "jHd7SPreuAQ",
@@ -2744,15 +3419,19 @@
       "published": "2021-01-29T16:12:31Z",
       "thumbnail": "https://i.ytimg.com/vi/jHd7SPreuAQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10021
+      "duration": 10021,
+      "status": "past",
+      "scheduledStart": "2021-01-29T13:00:00Z"
     },
     {
       "id": "cEBhJqdWGyU",
       "title": "【メン限】最近会った事のお話し!!!",
-      "published": "2021-01-25T16:00:28Z",
+      "published": "2021-01-25T11:50:57Z",
       "thumbnail": "https://i.ytimg.com/vi/cEBhJqdWGyU/maxresdefault.jpg",
       "type": "member",
-      "duration": 9267
+      "duration": 9267,
+      "status": "past",
+      "scheduledStart": "2021-01-25T13:00:00Z"
     },
     {
       "id": "aCau4w0ZFJ0",
@@ -2760,7 +3439,9 @@
       "published": "2021-01-24T11:46:00Z",
       "thumbnail": "https://i.ytimg.com/vi/aCau4w0ZFJ0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10529
+      "duration": 10529,
+      "status": "past",
+      "scheduledStart": "2021-01-24T08:20:00Z"
     },
     {
       "id": "h9isLVXCfEI",
@@ -2768,15 +3449,19 @@
       "published": "2021-01-20T17:53:01Z",
       "thumbnail": "https://i.ytimg.com/vi/h9isLVXCfEI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7958
+      "duration": 7958,
+      "status": "past",
+      "scheduledStart": "2021-01-20T15:30:00Z"
     },
     {
       "id": "Htra_d89-68",
       "title": "【メン限】初めてのメン限晩酌!!新年会するぞぉぉお~!",
-      "published": "2021-01-13T16:40:05Z",
+      "published": "2021-01-13T13:06:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Htra_d89-68/maxresdefault.jpg",
       "type": "member",
-      "duration": 9668
+      "duration": 9668,
+      "status": "past",
+      "scheduledStart": "2021-01-13T13:30:00Z"
     },
     {
       "id": "xrQP_QPj33I",
@@ -2784,7 +3469,9 @@
       "published": "2021-01-10T16:23:05Z",
       "thumbnail": "https://i.ytimg.com/vi/xrQP_QPj33I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7806
+      "duration": 7806,
+      "status": "past",
+      "scheduledStart": "2021-01-10T14:00:00Z"
     },
     {
       "id": "LMs6wjPP3aI",
@@ -2792,7 +3479,9 @@
       "published": "2021-01-07T15:53:59Z",
       "thumbnail": "https://i.ytimg.com/vi/LMs6wjPP3aI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7743
+      "duration": 7743,
+      "status": "past",
+      "scheduledStart": "2021-01-07T13:30:00Z"
     },
     {
       "id": "Nu0vyXUrdvU",
@@ -2800,7 +3489,9 @@
       "published": "2021-01-05T17:10:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Nu0vyXUrdvU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8814
+      "duration": 8814,
+      "status": "past",
+      "scheduledStart": "2021-01-05T14:30:00Z"
     },
     {
       "id": "e7KI9_0zsck",
@@ -2808,15 +3499,19 @@
       "published": "2021-01-01T04:14:52Z",
       "thumbnail": "https://i.ytimg.com/vi/e7KI9_0zsck/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3917
+      "duration": 3917,
+      "status": "past",
+      "scheduledStart": "2021-01-01T03:00:00Z"
     },
     {
       "id": "Ww2_1jNb6D0",
       "title": "【メン限】今年最後のメン限!!!!!!!!!!!",
-      "published": "2020-12-29T14:01:03Z",
+      "published": "2020-12-29T10:53:46Z",
       "thumbnail": "https://i.ytimg.com/vi/Ww2_1jNb6D0/maxresdefault.jpg",
       "type": "member",
-      "duration": 6494
+      "duration": 6494,
+      "status": "past",
+      "scheduledStart": "2020-12-29T12:00:00Z"
     },
     {
       "id": "4TYKG157gEQ",
@@ -2824,7 +3519,9 @@
       "published": "2020-12-28T14:20:34Z",
       "thumbnail": "https://i.ytimg.com/vi/4TYKG157gEQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7711
+      "duration": 7711,
+      "status": "past",
+      "scheduledStart": "2020-12-28T12:00:00Z"
     },
     {
       "id": "NdGs2gKFyMA",
@@ -2832,7 +3529,9 @@
       "published": "2020-12-26T16:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/NdGs2gKFyMA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8156
+      "duration": 8156,
+      "status": "past",
+      "scheduledStart": "2020-12-26T14:00:00Z"
     },
     {
       "id": "CiQQ8zJUWOk",
@@ -2840,7 +3539,9 @@
       "published": "2020-12-20T15:56:31Z",
       "thumbnail": "https://i.ytimg.com/vi/CiQQ8zJUWOk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5527
+      "duration": 5527,
+      "status": "past",
+      "scheduledStart": "2020-12-20T14:15:00Z"
     },
     {
       "id": "8G3umZ9iMqw",
@@ -2848,7 +3549,9 @@
       "published": "2020-12-19T18:01:23Z",
       "thumbnail": "https://i.ytimg.com/vi/8G3umZ9iMqw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10014
+      "duration": 10014,
+      "status": "past",
+      "scheduledStart": "2020-12-19T15:00:00Z"
     },
     {
       "id": "_m2hQrFdiP4",
@@ -2856,7 +3559,9 @@
       "published": "2020-12-13T14:02:08Z",
       "thumbnail": "https://i.ytimg.com/vi/_m2hQrFdiP4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6460
+      "duration": 6460,
+      "status": "past",
+      "scheduledStart": "2020-12-13T12:00:00Z"
     },
     {
       "id": "bG-FMPrxNA0",
@@ -2864,7 +3569,9 @@
       "published": "2020-12-12T16:04:25Z",
       "thumbnail": "https://i.ytimg.com/vi/bG-FMPrxNA0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3907
+      "duration": 3907,
+      "status": "past",
+      "scheduledStart": "2020-12-12T14:45:00Z"
     },
     {
       "id": "475ryoXOIFk",
@@ -2872,7 +3579,9 @@
       "published": "2020-12-12T08:32:35Z",
       "thumbnail": "https://i.ytimg.com/vi/475ryoXOIFk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7947
+      "duration": 7947,
+      "status": "past",
+      "scheduledStart": "2020-12-11T14:00:00Z"
     },
     {
       "id": "8d5M0ZU0H1M",
@@ -2880,7 +3589,9 @@
       "published": "2020-12-10T16:02:14Z",
       "thumbnail": "https://i.ytimg.com/vi/8d5M0ZU0H1M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6496
+      "duration": 6496,
+      "status": "past",
+      "scheduledStart": "2020-12-10T14:00:00Z"
     },
     {
       "id": "GzFln4dVQBQ",
@@ -2888,7 +3599,9 @@
       "published": "2020-12-08T14:53:44Z",
       "thumbnail": "https://i.ytimg.com/vi/GzFln4dVQBQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4567
+      "duration": 4567,
+      "status": "past",
+      "scheduledStart": "2020-12-08T13:30:00Z"
     },
     {
       "id": "JTVA3yn2GyU",
@@ -2896,15 +3609,19 @@
       "published": "2020-12-04T16:16:56Z",
       "thumbnail": "https://i.ytimg.com/vi/JTVA3yn2GyU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6820
+      "duration": 6820,
+      "status": "past",
+      "scheduledStart": "2020-12-04T14:00:00Z"
     },
     {
       "id": "IJHu_9AK940",
       "title": "【メン限】初めてのメン限お悩み相談室",
-      "published": "2020-11-28T16:05:43Z",
+      "published": "2020-11-28T12:50:36Z",
       "thumbnail": "https://i.ytimg.com/vi/IJHu_9AK940/maxresdefault.jpg",
       "type": "member",
-      "duration": 6489
+      "duration": 6489,
+      "status": "past",
+      "scheduledStart": "2020-11-28T14:00:00Z"
     },
     {
       "id": "4RYpR073iWw",
@@ -2912,7 +3629,9 @@
       "published": "2020-11-26T16:02:51Z",
       "thumbnail": "https://i.ytimg.com/vi/4RYpR073iWw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5933
+      "duration": 5933,
+      "status": "past",
+      "scheduledStart": "2020-11-26T14:15:00Z"
     },
     {
       "id": "o6NRRekF9fI",
@@ -2920,7 +3639,9 @@
       "published": "2020-11-23T15:05:34Z",
       "thumbnail": "https://i.ytimg.com/vi/o6NRRekF9fI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5100
+      "duration": 5100,
+      "status": "past",
+      "scheduledStart": "2020-11-23T13:30:00Z"
     },
     {
       "id": "36wK5Hg6ahA",
@@ -2928,7 +3649,9 @@
       "published": "2020-11-18T14:03:43Z",
       "thumbnail": "https://i.ytimg.com/vi/36wK5Hg6ahA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6252
+      "duration": 6252,
+      "status": "past",
+      "scheduledStart": "2020-11-18T12:00:00Z"
     },
     {
       "id": "YvHGsgjbLDE",
@@ -2936,7 +3659,9 @@
       "published": "2020-11-15T14:54:55Z",
       "thumbnail": "https://i.ytimg.com/vi/YvHGsgjbLDE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5903
+      "duration": 5903,
+      "status": "past",
+      "scheduledStart": "2020-11-15T13:10:00Z"
     },
     {
       "id": "c-86erW1RgQ",
@@ -2944,7 +3669,9 @@
       "published": "2020-11-12T15:29:51Z",
       "thumbnail": "https://i.ytimg.com/vi/c-86erW1RgQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8094
+      "duration": 8094,
+      "status": "past",
+      "scheduledStart": "2020-11-12T13:00:00Z"
     },
     {
       "id": "n2jR-hOP3Hg",
@@ -2952,7 +3679,9 @@
       "published": "2020-11-10T14:16:37Z",
       "thumbnail": "https://i.ytimg.com/vi/n2jR-hOP3Hg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7149
+      "duration": 7149,
+      "status": "past",
+      "scheduledStart": "2020-11-10T12:00:00Z"
     },
     {
       "id": "8ak-tuqLPLw",
@@ -2960,7 +3689,9 @@
       "published": "2020-11-08T14:14:48Z",
       "thumbnail": "https://i.ytimg.com/vi/8ak-tuqLPLw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7534
+      "duration": 7534,
+      "status": "past",
+      "scheduledStart": "2020-11-08T12:00:00Z"
     },
     {
       "id": "KpzmKFDAVHE",
@@ -2968,7 +3699,9 @@
       "published": "2020-11-04T14:11:48Z",
       "thumbnail": "https://i.ytimg.com/vi/KpzmKFDAVHE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7068
+      "duration": 7068,
+      "status": "past",
+      "scheduledStart": "2020-11-04T12:00:00Z"
     },
     {
       "id": "ewfY1I2iOV4",
@@ -2976,7 +3709,9 @@
       "published": "2020-11-03T13:40:35Z",
       "thumbnail": "https://i.ytimg.com/vi/ewfY1I2iOV4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5309
+      "duration": 5309,
+      "status": "past",
+      "scheduledStart": "2020-11-03T12:00:00Z"
     },
     {
       "id": "f59gisLhZ2I",
@@ -2984,7 +3719,9 @@
       "published": "2020-10-31T16:28:29Z",
       "thumbnail": "https://i.ytimg.com/vi/f59gisLhZ2I/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8181
+      "duration": 8181,
+      "status": "past",
+      "scheduledStart": "2020-10-31T14:00:00Z"
     },
     {
       "id": "7LyiPKjUnPI",
@@ -2992,7 +3729,9 @@
       "published": "2020-10-29T17:21:46Z",
       "thumbnail": "https://i.ytimg.com/vi/7LyiPKjUnPI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11242
+      "duration": 11242,
+      "status": "past",
+      "scheduledStart": "2020-10-29T14:00:00Z"
     },
     {
       "id": "8X2JLwR2tEk",
@@ -3000,7 +3739,9 @@
       "published": "2020-10-27T13:47:07Z",
       "thumbnail": "https://i.ytimg.com/vi/8X2JLwR2tEk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4183
+      "duration": 4183,
+      "status": "past",
+      "scheduledStart": "2020-10-27T12:30:00Z"
     },
     {
       "id": "8IWHjP0_YRE",
@@ -3008,7 +3749,9 @@
       "published": "2020-10-26T12:12:26Z",
       "thumbnail": "https://i.ytimg.com/vi/8IWHjP0_YRE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3688
+      "duration": 3688,
+      "status": "past",
+      "scheduledStart": "2020-10-26T11:00:00Z"
     },
     {
       "id": "dENBslwgSTY",
@@ -3016,7 +3759,9 @@
       "published": "2020-09-30T13:35:35Z",
       "thumbnail": "https://i.ytimg.com/vi/dENBslwgSTY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11209
+      "duration": 11209,
+      "status": "past",
+      "scheduledStart": "2020-09-30T10:00:00Z"
     },
     {
       "id": "3MIDH2SnOgI",
@@ -3024,7 +3769,9 @@
       "published": "2020-09-24T17:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/3MIDH2SnOgI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11902
+      "duration": 11902,
+      "status": "past",
+      "scheduledStart": "2020-09-24T14:10:00Z"
     },
     {
       "id": "UdNpNN5YKKM",
@@ -3032,7 +3779,9 @@
       "published": "2020-09-20T17:20:40Z",
       "thumbnail": "https://i.ytimg.com/vi/UdNpNN5YKKM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10758
+      "duration": 10758,
+      "status": "past",
+      "scheduledStart": "2020-09-20T14:00:00Z"
     },
     {
       "id": "hAo6NGQlkOA",
@@ -3040,7 +3789,9 @@
       "published": "2020-09-15T16:30:41Z",
       "thumbnail": "https://i.ytimg.com/vi/hAo6NGQlkOA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7068
+      "duration": 7068,
+      "status": "past",
+      "scheduledStart": "2020-09-15T14:00:00Z"
     },
     {
       "id": "3DVDPgPEprg",
@@ -3048,7 +3799,9 @@
       "published": "2020-09-13T17:21:05Z",
       "thumbnail": "https://i.ytimg.com/vi/3DVDPgPEprg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9059
+      "duration": 9059,
+      "status": "past",
+      "scheduledStart": "2020-09-13T14:05:00Z"
     },
     {
       "id": "_RsDFaGnYV8",
@@ -3056,7 +3809,9 @@
       "published": "2020-09-13T13:41:51Z",
       "thumbnail": "https://i.ytimg.com/vi/_RsDFaGnYV8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5533
+      "duration": 5533,
+      "status": "past",
+      "scheduledStart": "2020-09-13T12:00:00Z"
     },
     {
       "id": "THs2a9vUTsg",
@@ -3064,7 +3819,9 @@
       "published": "2020-09-11T16:14:06Z",
       "thumbnail": "https://i.ytimg.com/vi/THs2a9vUTsg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8738
+      "duration": 8738,
+      "status": "past",
+      "scheduledStart": "2020-09-11T13:30:00Z"
     },
     {
       "id": "bd7brSeQ-nA",
@@ -3072,7 +3829,9 @@
       "published": "2020-09-07T15:59:49Z",
       "thumbnail": "https://i.ytimg.com/vi/bd7brSeQ-nA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9376
+      "duration": 9376,
+      "status": "past",
+      "scheduledStart": "2020-09-07T13:00:00Z"
     },
     {
       "id": "t6cnyE-tQA0",
@@ -3080,7 +3839,9 @@
       "published": "2020-09-05T18:54:23Z",
       "thumbnail": "https://i.ytimg.com/vi/t6cnyE-tQA0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7607
+      "duration": 7607,
+      "status": "past",
+      "scheduledStart": "2020-09-05T16:15:00Z"
     },
     {
       "id": "TDcuzEGHDSE",
@@ -3088,7 +3849,9 @@
       "published": "2020-09-05T16:08:46Z",
       "thumbnail": "https://i.ytimg.com/vi/TDcuzEGHDSE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6616
+      "duration": 6616,
+      "status": "past",
+      "scheduledStart": "2020-09-05T14:00:00Z"
     },
     {
       "id": "ClrzryIkpTA",
@@ -3096,7 +3859,9 @@
       "published": "2020-09-03T13:10:51Z",
       "thumbnail": "https://i.ytimg.com/vi/ClrzryIkpTA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3776
+      "duration": 3776,
+      "status": "past",
+      "scheduledStart": "2020-09-03T12:00:00Z"
     },
     {
       "id": "eEYaw4Bgpig",
@@ -3104,7 +3869,9 @@
       "published": "2020-09-02T17:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eEYaw4Bgpig/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9748
+      "duration": 9748,
+      "status": "past",
+      "scheduledStart": "2020-09-02T14:00:00Z"
     },
     {
       "id": "soEBBr9mmfM",
@@ -3112,7 +3879,9 @@
       "published": "2020-09-01T16:23:07Z",
       "thumbnail": "https://i.ytimg.com/vi/soEBBr9mmfM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7800
+      "duration": 7800,
+      "status": "past",
+      "scheduledStart": "2020-09-01T14:00:00Z"
     },
     {
       "id": "QAKS6rSbZT0",
@@ -3120,7 +3889,9 @@
       "published": "2020-08-28T17:04:10Z",
       "thumbnail": "https://i.ytimg.com/vi/QAKS6rSbZT0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6675
+      "duration": 6675,
+      "status": "past",
+      "scheduledStart": "2020-08-28T15:00:00Z"
     },
     {
       "id": "UgpasSMG6RY",
@@ -3128,7 +3899,9 @@
       "published": "2020-08-27T01:35:26Z",
       "thumbnail": "https://i.ytimg.com/vi/UgpasSMG6RY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9083
+      "duration": 9083,
+      "status": "past",
+      "scheduledStart": "2020-08-26T13:00:00Z"
     },
     {
       "id": "DBdsciM5f_k",
@@ -3136,7 +3909,9 @@
       "published": "2020-08-24T14:29:13Z",
       "thumbnail": "https://i.ytimg.com/vi/DBdsciM5f_k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4452
+      "duration": 4452,
+      "status": "past",
+      "scheduledStart": "2020-08-24T13:00:00Z"
     },
     {
       "id": "WCTnR6oS6oI",
@@ -3144,7 +3919,9 @@
       "published": "2020-08-21T18:02:43Z",
       "thumbnail": "https://i.ytimg.com/vi/WCTnR6oS6oI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9760
+      "duration": 9760,
+      "status": "past",
+      "scheduledStart": "2020-08-21T15:00:00Z"
     },
     {
       "id": "c9VYairGvn4",
@@ -3152,7 +3929,9 @@
       "published": "2020-08-18T17:01:02Z",
       "thumbnail": "https://i.ytimg.com/vi/c9VYairGvn4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9198
+      "duration": 9198,
+      "status": "past",
+      "scheduledStart": "2020-08-18T14:00:00Z"
     },
     {
       "id": "IxaSkrTJtiE",
@@ -3160,15 +3939,19 @@
       "published": "2020-08-16T19:36:48Z",
       "thumbnail": "https://i.ytimg.com/vi/IxaSkrTJtiE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18267
+      "duration": 18267,
+      "status": "past",
+      "scheduledStart": "2020-08-16T14:05:00Z"
     },
     {
       "id": "Scj3L_C-vrQ",
       "title": "【 メン限 】第2回メン限雑談会~~~!",
-      "published": "2020-08-13T17:05:28Z",
+      "published": "2020-08-13T13:01:18Z",
       "thumbnail": "https://i.ytimg.com/vi/Scj3L_C-vrQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 10395
+      "duration": 10395,
+      "status": "past",
+      "scheduledStart": "2020-08-13T14:00:00Z"
     },
     {
       "id": "d5aO-Q6NPck",
@@ -3176,7 +3959,9 @@
       "published": "2020-08-09T17:55:41Z",
       "thumbnail": "https://i.ytimg.com/vi/d5aO-Q6NPck/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9519
+      "duration": 9519,
+      "status": "past",
+      "scheduledStart": "2020-08-09T15:00:00Z"
     },
     {
       "id": "PFeITK7BgbE",
@@ -3184,7 +3969,9 @@
       "published": "2020-08-06T15:59:56Z",
       "thumbnail": "https://i.ytimg.com/vi/PFeITK7BgbE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9453
+      "duration": 9453,
+      "status": "past",
+      "scheduledStart": "2020-08-06T13:00:00Z"
     },
     {
       "id": "pBdcdVmIwzE",
@@ -3192,7 +3979,9 @@
       "published": "2020-08-03T17:43:16Z",
       "thumbnail": "https://i.ytimg.com/vi/pBdcdVmIwzE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11928
+      "duration": 11928,
+      "status": "past",
+      "scheduledStart": "2020-08-03T14:00:00Z"
     },
     {
       "id": "XpDCule6Cyg",
@@ -3200,7 +3989,9 @@
       "published": "2020-08-02T12:48:52Z",
       "thumbnail": "https://i.ytimg.com/vi/XpDCule6Cyg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11844
+      "duration": 11844,
+      "status": "past",
+      "scheduledStart": "2020-08-02T09:00:00Z"
     },
     {
       "id": "qZCGxpyAgSk",
@@ -3208,7 +3999,9 @@
       "published": "2020-08-02T08:49:38Z",
       "thumbnail": "https://i.ytimg.com/vi/qZCGxpyAgSk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4882
+      "duration": 4882,
+      "status": "past",
+      "scheduledStart": "2020-08-02T07:10:00Z"
     },
     {
       "id": "H4gO1FhRIjc",
@@ -3216,7 +4009,9 @@
       "published": "2020-07-31T14:21:44Z",
       "thumbnail": "https://i.ytimg.com/vi/H4gO1FhRIjc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4304
+      "duration": 4304,
+      "status": "past",
+      "scheduledStart": "2020-07-31T13:00:00Z"
     },
     {
       "id": "gsSYyGrtEAU",
@@ -3224,7 +4019,9 @@
       "published": "2020-07-30T19:30:29Z",
       "thumbnail": "https://i.ytimg.com/vi/gsSYyGrtEAU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7926
+      "duration": 7926,
+      "status": "past",
+      "scheduledStart": "2020-07-30T16:45:00Z"
     },
     {
       "id": "KPnGhtn1VVs",
@@ -3232,7 +4029,9 @@
       "published": "2020-07-28T17:15:09Z",
       "thumbnail": "https://i.ytimg.com/vi/KPnGhtn1VVs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8970
+      "duration": 8970,
+      "status": "past",
+      "scheduledStart": "2020-07-28T14:30:00Z"
     },
     {
       "id": "GIurudkLM58",
@@ -3240,15 +4039,19 @@
       "published": "2020-07-25T16:38:26Z",
       "thumbnail": "https://i.ytimg.com/vi/GIurudkLM58/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8408
+      "duration": 8408,
+      "status": "past",
+      "scheduledStart": "2020-07-25T14:00:00Z"
     },
     {
       "id": "M_LBUGTry6I",
       "title": "【メン限】初めてのメン限雑談かもしれない",
-      "published": "2020-07-18T19:54:10Z",
+      "published": "2020-07-18T15:13:45Z",
       "thumbnail": "https://i.ytimg.com/vi/M_LBUGTry6I/maxresdefault.jpg",
       "type": "member",
-      "duration": 11768
+      "duration": 11768,
+      "status": "past",
+      "scheduledStart": "2020-07-18T16:00:00Z"
     },
     {
       "id": "EMet3PGXzoQ",
@@ -3256,7 +4059,9 @@
       "published": "2020-07-09T18:31:23Z",
       "thumbnail": "https://i.ytimg.com/vi/EMet3PGXzoQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7943
+      "duration": 7943,
+      "status": "past",
+      "scheduledStart": "2020-07-09T16:00:00Z"
     },
     {
       "id": "s0GxtS29X9k",
@@ -3264,7 +4069,9 @@
       "published": "2020-07-07T19:18:34Z",
       "thumbnail": "https://i.ytimg.com/vi/s0GxtS29X9k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 17439
+      "duration": 17439,
+      "status": "past",
+      "scheduledStart": "2020-07-07T14:00:00Z"
     },
     {
       "id": "bC4nQRgTV_0",
@@ -3272,7 +4079,9 @@
       "published": "2020-07-03T17:11:59Z",
       "thumbnail": "https://i.ytimg.com/vi/bC4nQRgTV_0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8767
+      "duration": 8767,
+      "status": "past",
+      "scheduledStart": "2020-07-03T14:30:00Z"
     },
     {
       "id": "DZCLsGHS2jM",
@@ -3280,7 +4089,9 @@
       "published": "2020-07-01T17:43:01Z",
       "thumbnail": "https://i.ytimg.com/vi/DZCLsGHS2jM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8704
+      "duration": 8704,
+      "status": "past",
+      "scheduledStart": "2020-07-01T15:00:00Z"
     },
     {
       "id": "ngQAlMmTJPU",
@@ -3288,7 +4099,9 @@
       "published": "2020-06-22T17:24:10Z",
       "thumbnail": "https://i.ytimg.com/vi/ngQAlMmTJPU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7152
+      "duration": 7152,
+      "status": "past",
+      "scheduledStart": "2020-06-22T15:00:00Z"
     },
     {
       "id": "druH6vW_OJI",
@@ -3296,7 +4109,9 @@
       "published": "2020-06-17T17:41:30Z",
       "thumbnail": "https://i.ytimg.com/vi/druH6vW_OJI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7536
+      "duration": 7536,
+      "status": "past",
+      "scheduledStart": "2020-06-17T15:00:00Z"
     },
     {
       "id": "DYijjS3Twag",
@@ -3304,7 +4119,9 @@
       "published": "2020-06-14T13:32:03Z",
       "thumbnail": "https://i.ytimg.com/vi/DYijjS3Twag/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3183
+      "duration": 3183,
+      "status": "past",
+      "scheduledStart": "2020-06-14T12:30:00Z"
     },
     {
       "id": "r6aaEdEWUXg",
@@ -3312,7 +4129,9 @@
       "published": "2020-06-13T16:59:20Z",
       "thumbnail": "https://i.ytimg.com/vi/r6aaEdEWUXg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4687
+      "duration": 4687,
+      "status": "past",
+      "scheduledStart": "2020-06-13T15:00:00Z"
     },
     {
       "id": "UiR0fCmW7OU",
@@ -3320,7 +4139,9 @@
       "published": "2020-06-10T15:55:18Z",
       "thumbnail": "https://i.ytimg.com/vi/UiR0fCmW7OU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5616
+      "duration": 5616,
+      "status": "past",
+      "scheduledStart": "2020-06-10T14:00:00Z"
     },
     {
       "id": "FQabDyuC_wQ",
@@ -3328,7 +4149,9 @@
       "published": "2020-06-09T13:12:54Z",
       "thumbnail": "https://i.ytimg.com/vi/FQabDyuC_wQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3848
+      "duration": 3848,
+      "status": "past",
+      "scheduledStart": "2020-06-09T12:00:00Z"
     },
     {
       "id": "mx2ST27iK8U",
@@ -3336,7 +4159,9 @@
       "published": "2020-06-06T15:10:27Z",
       "thumbnail": "https://i.ytimg.com/vi/mx2ST27iK8U/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3477
+      "duration": 3477,
+      "status": "past",
+      "scheduledStart": "2020-06-06T14:00:00Z"
     },
     {
       "id": "WPu7jvZUeHI",
@@ -3344,7 +4169,9 @@
       "published": "2020-06-01T14:46:57Z",
       "thumbnail": "https://i.ytimg.com/vi/WPu7jvZUeHI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5685
+      "duration": 5685,
+      "status": "past",
+      "scheduledStart": "2020-06-01T13:00:00Z"
     },
     {
       "id": "TgNy5t8IaNk",
@@ -3352,7 +4179,9 @@
       "published": "2020-05-21T18:14:23Z",
       "thumbnail": "https://i.ytimg.com/vi/TgNy5t8IaNk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7139
+      "duration": 7139,
+      "status": "past",
+      "scheduledStart": "2020-05-21T16:00:00Z"
     },
     {
       "id": "437PWLz5JqM",
@@ -3360,7 +4189,9 @@
       "published": "2020-05-19T17:34:47Z",
       "thumbnail": "https://i.ytimg.com/vi/437PWLz5JqM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6651
+      "duration": 6651,
+      "status": "past",
+      "scheduledStart": "2020-05-19T15:00:00Z"
     },
     {
       "id": "AOoxcw4Kl4k",
@@ -3368,7 +4199,9 @@
       "published": "2020-05-13T19:08:47Z",
       "thumbnail": "https://i.ytimg.com/vi/AOoxcw4Kl4k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8935
+      "duration": 8935,
+      "status": "past",
+      "scheduledStart": "2020-05-13T16:00:00Z"
     },
     {
       "id": "cjraJKf0yrk",
@@ -3376,7 +4209,9 @@
       "published": "2020-04-27T17:24:54Z",
       "thumbnail": "https://i.ytimg.com/vi/cjraJKf0yrk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6452
+      "duration": 6452,
+      "status": "past",
+      "scheduledStart": "2020-04-27T15:00:00Z"
     },
     {
       "id": "HN_2wCEaR_A",
@@ -3384,7 +4219,9 @@
       "published": "2020-04-15T13:38:49Z",
       "thumbnail": "https://i.ytimg.com/vi/HN_2wCEaR_A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7022
+      "duration": 7022,
+      "status": "past",
+      "scheduledStart": "2020-04-15T11:00:00Z"
     },
     {
       "id": "dyngXZ_EkEM",
@@ -3392,7 +4229,9 @@
       "published": "2020-04-03T15:57:36Z",
       "thumbnail": "https://i.ytimg.com/vi/dyngXZ_EkEM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4802
+      "duration": 4802,
+      "status": "past",
+      "scheduledStart": "2020-04-03T14:00:00Z"
     },
     {
       "id": "35VBv-WfzB0",
@@ -3400,7 +4239,9 @@
       "published": "2020-04-02T15:38:42Z",
       "thumbnail": "https://i.ytimg.com/vi/35VBv-WfzB0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6918
+      "duration": 6918,
+      "status": "past",
+      "scheduledStart": "2020-04-02T13:00:00Z"
     },
     {
       "id": "pNlA04uQ5J0",
@@ -3408,7 +4249,9 @@
       "published": "2020-03-29T15:49:15Z",
       "thumbnail": "https://i.ytimg.com/vi/pNlA04uQ5J0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7551
+      "duration": 7551,
+      "status": "past",
+      "scheduledStart": "2020-03-29T13:00:00Z"
     },
     {
       "id": "dm2VoQocFfg",
@@ -3416,7 +4259,9 @@
       "published": "2020-03-19T17:00:25Z",
       "thumbnail": "https://i.ytimg.com/vi/dm2VoQocFfg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5002
+      "duration": 5002,
+      "status": "past",
+      "scheduledStart": "2020-03-19T15:00:00Z"
     },
     {
       "id": "24WeV1UsQwI",
@@ -3424,7 +4269,9 @@
       "published": "2020-03-14T13:41:40Z",
       "thumbnail": "https://i.ytimg.com/vi/24WeV1UsQwI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3936
+      "duration": 3936,
+      "status": "past",
+      "scheduledStart": "2020-03-14T12:00:00Z"
     },
     {
       "id": "tmMoK1AxbZY",
@@ -3432,7 +4279,9 @@
       "published": "2020-03-11T17:38:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tmMoK1AxbZY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5429
+      "duration": 5429,
+      "status": "past",
+      "scheduledStart": "2020-03-11T15:30:00Z"
     },
     {
       "id": "oItsMVr6s6o",
@@ -3440,7 +4289,9 @@
       "published": "2020-03-08T14:37:13Z",
       "thumbnail": "https://i.ytimg.com/vi/oItsMVr6s6o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6799
+      "duration": 6799,
+      "status": "past",
+      "scheduledStart": "2020-03-08T12:00:00Z"
     },
     {
       "id": "-ORdtZrgzHk",
@@ -3448,7 +4299,9 @@
       "published": "2020-02-23T15:33:56Z",
       "thumbnail": "https://i.ytimg.com/vi/-ORdtZrgzHk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6854
+      "duration": 6854,
+      "status": "past",
+      "scheduledStart": "2020-02-23T13:00:00Z"
     },
     {
       "id": "AP_xo2HzqO0",
@@ -3456,7 +4309,9 @@
       "published": "2019-11-20T12:24:41Z",
       "thumbnail": "https://i.ytimg.com/vi/AP_xo2HzqO0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5990
+      "duration": 5990,
+      "status": "past",
+      "scheduledStart": "2019-11-20T10:00:00Z"
     },
     {
       "id": "NLyA5oCguSo",
@@ -3464,7 +4319,9 @@
       "published": "2019-11-07T15:46:05Z",
       "thumbnail": "https://i.ytimg.com/vi/NLyA5oCguSo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3830
+      "duration": 3830,
+      "status": "past",
+      "scheduledStart": "2019-11-07T14:00:00Z"
     },
     {
       "id": "Kj731Cuu_zI",
@@ -3472,7 +4329,9 @@
       "published": "2019-11-06T14:39:56Z",
       "thumbnail": "https://i.ytimg.com/vi/Kj731Cuu_zI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3782
+      "duration": 3782,
+      "status": "past",
+      "scheduledStart": "2019-11-06T13:00:00Z"
     },
     {
       "id": "75HbTB7jIp0",
@@ -3480,7 +4339,9 @@
       "published": "2019-11-05T14:41:36Z",
       "thumbnail": "https://i.ytimg.com/vi/75HbTB7jIp0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3880
+      "duration": 3880,
+      "status": "past",
+      "scheduledStart": "2019-11-05T13:00:00Z"
     },
     {
       "id": "ENQIWpSOzUk",
@@ -3488,7 +4349,9 @@
       "published": "2019-11-03T17:02:16Z",
       "thumbnail": "https://i.ytimg.com/vi/ENQIWpSOzUk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8394
+      "duration": 8394,
+      "status": "past",
+      "scheduledStart": "2019-11-03T14:00:00Z"
     },
     {
       "id": "NDdvFrVDJY0",
@@ -3496,7 +4359,9 @@
       "published": "2019-10-24T16:09:25Z",
       "thumbnail": "https://i.ytimg.com/vi/NDdvFrVDJY0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8746
+      "duration": 8746,
+      "status": "past",
+      "scheduledStart": "2019-10-24T13:00:00Z"
     },
     {
       "id": "VzFlfZl58RQ",
@@ -3504,7 +4369,9 @@
       "published": "2019-10-18T14:42:54Z",
       "thumbnail": "https://i.ytimg.com/vi/VzFlfZl58RQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3887
+      "duration": 3887,
+      "status": "past",
+      "scheduledStart": "2019-10-18T13:00:00Z"
     },
     {
       "id": "3FL5_ZsM4Ow",
@@ -3512,7 +4379,9 @@
       "published": "2019-10-15T14:47:17Z",
       "thumbnail": "https://i.ytimg.com/vi/3FL5_ZsM4Ow/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4138
+      "duration": 4138,
+      "status": "past",
+      "scheduledStart": "2019-10-15T13:00:00Z"
     },
     {
       "id": "FGe0f7lE-EI",
@@ -3520,7 +4389,9 @@
       "published": "2019-10-14T19:53:20Z",
       "thumbnail": "https://i.ytimg.com/vi/FGe0f7lE-EI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 19882
+      "duration": 19882,
+      "status": "past",
+      "scheduledStart": "2019-10-14T12:00:00Z"
     },
     {
       "id": "6FM3bUOZ_ig",
@@ -3528,7 +4399,9 @@
       "published": "2019-10-13T15:20:05Z",
       "thumbnail": "https://i.ytimg.com/vi/6FM3bUOZ_ig/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4326
+      "duration": 4326,
+      "status": "past",
+      "scheduledStart": "2019-10-13T13:30:00Z"
     },
     {
       "id": "yEfU_Xtp6aw",
@@ -3536,7 +4409,9 @@
       "published": "2019-09-23T15:40:55Z",
       "thumbnail": "https://i.ytimg.com/vi/yEfU_Xtp6aw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3816
+      "duration": 3816,
+      "status": "past",
+      "scheduledStart": "2019-09-23T14:00:00Z"
     },
     {
       "id": "TDVWuItyPJw",
@@ -3544,7 +4419,9 @@
       "published": "2019-09-21T18:33:52Z",
       "thumbnail": "https://i.ytimg.com/vi/TDVWuItyPJw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6750
+      "duration": 6750,
+      "status": "past",
+      "scheduledStart": "2019-09-21T16:00:00Z"
     },
     {
       "id": "zaj1AZ9Er1M",
@@ -3552,7 +4429,9 @@
       "published": "2019-09-19T14:30:39Z",
       "thumbnail": "https://i.ytimg.com/vi/zaj1AZ9Er1M/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6448
+      "duration": 6448,
+      "status": "past",
+      "scheduledStart": "2019-09-19T12:00:00Z"
     },
     {
       "id": "zmW5WTBlTz8",
@@ -3560,7 +4439,9 @@
       "published": "2019-09-13T15:45:42Z",
       "thumbnail": "https://i.ytimg.com/vi/zmW5WTBlTz8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3995
+      "duration": 3995,
+      "status": "past",
+      "scheduledStart": "2019-09-13T14:00:00Z"
     },
     {
       "id": "hoqc8I8yvDo",
@@ -3568,7 +4449,9 @@
       "published": "2019-09-10T18:24:54Z",
       "thumbnail": "https://i.ytimg.com/vi/hoqc8I8yvDo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8894
+      "duration": 8894,
+      "status": "past",
+      "scheduledStart": "2019-09-10T15:00:00Z"
     },
     {
       "id": "cCgofxDRHig",
@@ -3576,7 +4459,9 @@
       "published": "2019-09-07T15:48:42Z",
       "thumbnail": "https://i.ytimg.com/vi/cCgofxDRHig/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4180
+      "duration": 4180,
+      "status": "past",
+      "scheduledStart": "2019-09-07T14:00:00Z"
     },
     {
       "id": "q1gUzLTMWKs",
@@ -3584,7 +4469,9 @@
       "published": "2019-09-01T14:50:12Z",
       "thumbnail": "https://i.ytimg.com/vi/q1gUzLTMWKs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4323
+      "duration": 4323,
+      "status": "past",
+      "scheduledStart": "2019-09-01T13:00:00Z"
     },
     {
       "id": "soIbQLzS4v4",
@@ -3592,7 +4479,9 @@
       "published": "2019-08-29T13:50:18Z",
       "thumbnail": "https://i.ytimg.com/vi/soIbQLzS4v4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4123
+      "duration": 4123,
+      "status": "past",
+      "scheduledStart": "2019-08-29T12:00:00Z"
     },
     {
       "id": "NDM79IC-uac",
@@ -3600,7 +4489,9 @@
       "published": "2019-08-24T05:21:25Z",
       "thumbnail": "https://i.ytimg.com/vi/NDM79IC-uac/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6033
+      "duration": 6033,
+      "status": "past",
+      "scheduledStart": "2019-08-24T03:00:00Z"
     },
     {
       "id": "8E7yWfFQWzc",
@@ -3608,7 +4499,9 @@
       "published": "2019-08-18T12:48:04Z",
       "thumbnail": "https://i.ytimg.com/vi/8E7yWfFQWzc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3911
+      "duration": 3911,
+      "status": "past",
+      "scheduledStart": "2019-08-18T11:00:00Z"
     },
     {
       "id": "Lc1NPKY9JWs",
@@ -3616,7 +4509,9 @@
       "published": "2019-08-06T11:41:51Z",
       "thumbnail": "https://i.ytimg.com/vi/Lc1NPKY9JWs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3892
+      "duration": 3892,
+      "status": "past",
+      "scheduledStart": "2019-08-06T10:00:00Z"
     },
     {
       "id": "PEbdjFkFOHQ",
@@ -3624,7 +4519,9 @@
       "published": "2019-08-05T13:42:18Z",
       "thumbnail": "https://i.ytimg.com/vi/PEbdjFkFOHQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3721
+      "duration": 3721,
+      "status": "past",
+      "scheduledStart": "2019-08-05T12:00:00Z"
     },
     {
       "id": "sKBUED-Sj2g",
@@ -3632,7 +4529,9 @@
       "published": "2019-07-25T13:55:57Z",
       "thumbnail": "https://i.ytimg.com/vi/sKBUED-Sj2g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4228
+      "duration": 4228,
+      "status": "past",
+      "scheduledStart": "2019-07-25T12:00:00Z"
     },
     {
       "id": "T9KX533ze2w",
@@ -3640,7 +4539,9 @@
       "published": "2019-07-18T16:45:39Z",
       "thumbnail": "https://i.ytimg.com/vi/T9KX533ze2w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4024
+      "duration": 4024,
+      "status": "past",
+      "scheduledStart": "2019-07-18T15:00:00Z"
     },
     {
       "id": "VNaZMkPtv7o",
@@ -3648,7 +4549,9 @@
       "published": "2019-07-10T15:41:50Z",
       "thumbnail": "https://i.ytimg.com/vi/VNaZMkPtv7o/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3733
+      "duration": 3733,
+      "status": "past",
+      "scheduledStart": "2019-07-10T14:00:00Z"
     },
     {
       "id": "B6NbCs5pt20",
@@ -3656,7 +4559,9 @@
       "published": "2019-07-04T15:43:34Z",
       "thumbnail": "https://i.ytimg.com/vi/B6NbCs5pt20/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3759
+      "duration": 3759,
+      "status": "past",
+      "scheduledStart": "2019-07-04T14:00:00Z"
     },
     {
       "id": "s_UcjHthxc0",
@@ -3664,7 +4569,9 @@
       "published": "2019-06-29T15:51:59Z",
       "thumbnail": "https://i.ytimg.com/vi/s_UcjHthxc0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4127
+      "duration": 4127,
+      "status": "past",
+      "scheduledStart": "2019-06-29T14:00:00Z"
     },
     {
       "id": "-UN5oxiKw5U",
@@ -3672,7 +4579,9 @@
       "published": "2019-06-21T15:50:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-UN5oxiKw5U/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3969
+      "duration": 3969,
+      "status": "past",
+      "scheduledStart": "2019-06-21T14:00:00Z"
     },
     {
       "id": "ao0fpioDJOE",
@@ -3680,7 +4589,9 @@
       "published": "2019-06-19T16:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/ao0fpioDJOE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5382
+      "duration": 5382,
+      "status": "past",
+      "scheduledStart": "2019-06-19T14:00:00Z"
     },
     {
       "id": "2bqcwqRWv3Q",
@@ -3688,7 +4599,9 @@
       "published": "2019-06-17T15:44:33Z",
       "thumbnail": "https://i.ytimg.com/vi/2bqcwqRWv3Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3781
+      "duration": 3781,
+      "status": "past",
+      "scheduledStart": "2019-06-17T14:00:00Z"
     },
     {
       "id": "ujx-czBUd_Y",
@@ -3696,7 +4609,9 @@
       "published": "2019-06-14T13:56:21Z",
       "thumbnail": "https://i.ytimg.com/vi/ujx-czBUd_Y/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4277
+      "duration": 4277,
+      "status": "past",
+      "scheduledStart": "2019-06-14T12:00:00Z"
     },
     {
       "id": "Vwr0eUhAGHY",
@@ -3704,7 +4619,9 @@
       "published": "2019-06-13T15:02:29Z",
       "thumbnail": "https://i.ytimg.com/vi/Vwr0eUhAGHY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4539
+      "duration": 4539,
+      "status": "past",
+      "scheduledStart": "2019-06-13T13:00:00Z"
     },
     {
       "id": "o_TfemFjME0",
@@ -3712,7 +4629,9 @@
       "published": "2019-06-10T14:49:02Z",
       "thumbnail": "https://i.ytimg.com/vi/o_TfemFjME0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3948
+      "duration": 3948,
+      "status": "past",
+      "scheduledStart": "2019-06-10T13:00:00Z"
     },
     {
       "id": "3GUg1uGTIF0",
@@ -3720,7 +4639,9 @@
       "published": "2019-06-05T12:45:12Z",
       "thumbnail": "https://i.ytimg.com/vi/3GUg1uGTIF0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 665
+      "duration": 665,
+      "status": "past",
+      "scheduledStart": "2019-06-05T12:00:00Z"
     },
     {
       "id": "jCAF2e7V6_w",
@@ -3728,7 +4649,9 @@
       "published": "2019-05-28T15:04:34Z",
       "thumbnail": "https://i.ytimg.com/vi/jCAF2e7V6_w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3425
+      "duration": 3425,
+      "status": "past",
+      "scheduledStart": "2019-05-28T13:30:00Z"
     },
     {
       "id": "tgPOIvx5Ngk",
@@ -3736,7 +4659,9 @@
       "published": "2019-05-21T16:08:45Z",
       "thumbnail": "https://i.ytimg.com/vi/tgPOIvx5Ngk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4457
+      "duration": 4457,
+      "status": "past",
+      "scheduledStart": "2019-05-21T14:00:00Z"
     },
     {
       "id": "RH4gW-1_4Qc",
@@ -3744,7 +4669,8 @@
       "published": "2019-05-21T14:14:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RH4gW-1_4Qc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3773
+      "duration": 3773,
+      "status": "past"
     },
     {
       "id": "Y8syqWkoQXc",
@@ -3752,7 +4678,9 @@
       "published": "2019-05-20T14:31:16Z",
       "thumbnail": "https://i.ytimg.com/vi/Y8syqWkoQXc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3226
+      "duration": 3226,
+      "status": "past",
+      "scheduledStart": "2019-05-20T13:00:00Z"
     },
     {
       "id": "L2dmOGbE5n8",
@@ -3760,7 +4688,9 @@
       "published": "2019-05-19T15:47:50Z",
       "thumbnail": "https://i.ytimg.com/vi/L2dmOGbE5n8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4055
+      "duration": 4055,
+      "status": "past",
+      "scheduledStart": "2019-05-19T14:00:00Z"
     },
     {
       "id": "GyPd77ttGt4",
@@ -3768,7 +4698,9 @@
       "published": "2019-05-15T14:39:46Z",
       "thumbnail": "https://i.ytimg.com/vi/GyPd77ttGt4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3676
+      "duration": 3676,
+      "status": "past",
+      "scheduledStart": "2019-05-15T13:00:00Z"
     },
     {
       "id": "cC8fs4iyATg",
@@ -3776,7 +4708,8 @@
       "published": "2019-05-10T13:03:50Z",
       "thumbnail": "https://i.ytimg.com/vi/cC8fs4iyATg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4478
+      "duration": 4478,
+      "status": "past"
     },
     {
       "id": "M52TUm11A1E",
@@ -3784,7 +4717,9 @@
       "published": "2019-05-10T11:13:45Z",
       "thumbnail": "https://i.ytimg.com/vi/M52TUm11A1E/maxresdefault.jpg",
       "type": "stream",
-      "duration": 350
+      "duration": 350,
+      "status": "past",
+      "scheduledStart": "2019-05-10T11:00:00Z"
     },
     {
       "id": "ajxsmz5L35g",
@@ -3792,7 +4727,9 @@
       "published": "2019-04-08T13:34:35Z",
       "thumbnail": "https://i.ytimg.com/vi/ajxsmz5L35g/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6777
+      "duration": 6777,
+      "status": "past",
+      "scheduledStart": "2019-04-08T11:00:00Z"
     },
     {
       "id": "R3dY8Ez5pA0",
@@ -3800,7 +4737,9 @@
       "published": "2019-03-30T16:33:27Z",
       "thumbnail": "https://i.ytimg.com/vi/R3dY8Ez5pA0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6678
+      "duration": 6678,
+      "status": "past",
+      "scheduledStart": "2019-03-30T14:00:00Z"
     },
     {
       "id": "D-oDqG82FIg",
@@ -3808,7 +4747,9 @@
       "published": "2019-03-29T17:33:28Z",
       "thumbnail": "https://i.ytimg.com/vi/D-oDqG82FIg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9143
+      "duration": 9143,
+      "status": "past",
+      "scheduledStart": "2019-03-29T14:00:00Z"
     },
     {
       "id": "vmEb0UtwU5s",
@@ -3816,7 +4757,9 @@
       "published": "2019-03-28T12:49:52Z",
       "thumbnail": "https://i.ytimg.com/vi/vmEb0UtwU5s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4278
+      "duration": 4278,
+      "status": "past",
+      "scheduledStart": "2019-03-28T11:00:00Z"
     },
     {
       "id": "aIG9o-S6cN4",
@@ -3824,7 +4767,9 @@
       "published": "2019-03-27T13:41:19Z",
       "thumbnail": "https://i.ytimg.com/vi/aIG9o-S6cN4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7353
+      "duration": 7353,
+      "status": "past",
+      "scheduledStart": "2019-03-27T11:00:00Z"
     },
     {
       "id": "0yExE1kXkto",
@@ -3832,7 +4777,9 @@
       "published": "2019-03-13T13:36:34Z",
       "thumbnail": "https://i.ytimg.com/vi/0yExE1kXkto/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7186
+      "duration": 7186,
+      "status": "past",
+      "scheduledStart": "2019-03-13T11:00:00Z"
     },
     {
       "id": "4X4l58ChYDA",
@@ -3840,7 +4787,9 @@
       "published": "2019-03-12T16:48:54Z",
       "thumbnail": "https://i.ytimg.com/vi/4X4l58ChYDA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4276
+      "duration": 4276,
+      "status": "past",
+      "scheduledStart": "2019-03-12T15:00:00Z"
     },
     {
       "id": "vhk1cD71rM0",
@@ -3848,7 +4797,9 @@
       "published": "2019-03-07T13:56:50Z",
       "thumbnail": "https://i.ytimg.com/vi/vhk1cD71rM0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4707
+      "duration": 4707,
+      "status": "past",
+      "scheduledStart": "2019-03-07T12:00:00Z"
     },
     {
       "id": "t-ES9KW_Ij8",
@@ -3856,7 +4807,9 @@
       "published": "2019-03-06T14:39:30Z",
       "thumbnail": "https://i.ytimg.com/vi/t-ES9KW_Ij8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3686
+      "duration": 3686,
+      "status": "past",
+      "scheduledStart": "2019-03-06T13:00:00Z"
     },
     {
       "id": "G2JfFK4q06Q",
@@ -3864,7 +4817,8 @@
       "published": "2019-03-02T17:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/G2JfFK4q06Q/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2653
+      "duration": 2653,
+      "status": "past"
     },
     {
       "id": "To-FnfaBCBo",
@@ -3872,7 +4826,9 @@
       "published": "2019-01-10T10:50:19Z",
       "thumbnail": "https://i.ytimg.com/vi/To-FnfaBCBo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3630
+      "duration": 3630,
+      "status": "past",
+      "scheduledStart": "2019-01-10T09:00:00Z"
     },
     {
       "id": "XgBeGLwf4VE",
@@ -3880,7 +4836,9 @@
       "published": "2018-12-25T11:52:38Z",
       "thumbnail": "https://i.ytimg.com/vi/XgBeGLwf4VE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3788
+      "duration": 3788,
+      "status": "past",
+      "scheduledStart": "2018-12-25T11:00:00Z"
     },
     {
       "id": "1adhR6tImMU",
@@ -3888,7 +4846,9 @@
       "published": "2018-12-19T15:45:55Z",
       "thumbnail": "https://i.ytimg.com/vi/1adhR6tImMU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4010
+      "duration": 4010,
+      "status": "past",
+      "scheduledStart": "2018-12-19T14:00:00Z"
     },
     {
       "id": "fFryRADvBVo",
@@ -3896,7 +4856,9 @@
       "published": "2018-12-10T15:35:36Z",
       "thumbnail": "https://i.ytimg.com/vi/fFryRADvBVo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3371
+      "duration": 3371,
+      "status": "past",
+      "scheduledStart": "2018-12-10T14:00:00Z"
     },
     {
       "id": "a4KYPYOcN74",
@@ -3904,7 +4866,9 @@
       "published": "2018-12-08T16:37:11Z",
       "thumbnail": "https://i.ytimg.com/vi/a4KYPYOcN74/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3361
+      "duration": 3361,
+      "status": "past",
+      "scheduledStart": "2018-12-08T15:00:00Z"
     },
     {
       "id": "J7Blv4tC80U",
@@ -3912,7 +4876,8 @@
       "published": "2018-12-02T15:29:58Z",
       "thumbnail": "https://i.ytimg.com/vi/J7Blv4tC80U/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6199
+      "duration": 6199,
+      "status": "past"
     },
     {
       "id": "-VX03G-m8Zc",
@@ -3920,7 +4885,9 @@
       "published": "2018-11-07T14:49:26Z",
       "thumbnail": "https://i.ytimg.com/vi/-VX03G-m8Zc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4056
+      "duration": 4056,
+      "status": "past",
+      "scheduledStart": "2018-11-07T13:00:00Z"
     },
     {
       "id": "AI75JFtCxLs",
@@ -3928,7 +4895,9 @@
       "published": "2018-10-21T13:31:14Z",
       "thumbnail": "https://i.ytimg.com/vi/AI75JFtCxLs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 2996
+      "duration": 2996,
+      "status": "past",
+      "scheduledStart": "2018-10-21T12:00:00Z"
     },
     {
       "id": "iUZpxMfALXI",
@@ -3936,7 +4905,9 @@
       "published": "2018-10-13T13:52:18Z",
       "thumbnail": "https://i.ytimg.com/vi/iUZpxMfALXI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6766
+      "duration": 6766,
+      "status": "past",
+      "scheduledStart": "2018-10-13T11:00:00Z"
     },
     {
       "id": "gV5voSVa1kc",
@@ -3944,7 +4915,9 @@
       "published": "2018-10-06T13:43:42Z",
       "thumbnail": "https://i.ytimg.com/vi/gV5voSVa1kc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3602
+      "duration": 3602,
+      "status": "past",
+      "scheduledStart": "2018-10-06T12:00:00Z"
     },
     {
       "id": "jchmBjT8JPw",
@@ -3952,7 +4925,9 @@
       "published": "2018-09-29T16:40:44Z",
       "thumbnail": "https://i.ytimg.com/vi/jchmBjT8JPw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3506
+      "duration": 3506,
+      "status": "past",
+      "scheduledStart": "2018-09-29T15:00:00Z"
     }
   ]
 }
