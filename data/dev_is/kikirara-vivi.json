@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A",
     "bannerUrl": "https://yt3.googleusercontent.com/k1vCsIbtcRaU9OwygWrxTpMWhbsqQO0qC0wm0X31nBYmkbwmqG3TAt1HdM3Z4JWc5YqGz2mLZ84=s0"
   },
-  "lastUpdated": "2026-06-26T00:06:22.165Z",
-  "videoCount": 999,
+  "lastUpdated": "2026-06-26T02:06:38.536Z",
+  "videoCount": 1000,
   "videos": [
     {
-      "id": "4ksSmg-Co4Y",
-      "title": "【W杯同時視聴】サッカー日本代表VSスウェーデン!ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-      "published": "2026-06-25T12:19:37.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/4ksSmg-Co4Y/maxresdefault.jpg",
+      "id": "nrH0SN1ARrQ",
+      "title": "【 みんなのリズム天国 】人生初!リズム天国に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published": "2026-06-26T01:42:49.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nrH0SN1ARrQ/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-06-26T09:00:00.000Z"
+    },
+    {
+      "id": "4ksSmg-Co4Y",
+      "title": "【W杯同時視聴】サッカー日本代表VSスウェーデン！ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "published": "2026-06-26T01:14:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4ksSmg-Co4Y/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 8406,
+      "status": "past",
       "scheduledStart": "2026-06-25T22:45:00.000Z"
     },
     {
