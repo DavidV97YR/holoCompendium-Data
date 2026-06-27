@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
     "bannerUrl": "https://yt3.googleusercontent.com/h2U0OUQ6wVPh0it2H8HRDmcdprY76zjXrAhzE9dj6N9YOlK1pMxQfEkrP1xRNOj1LPaX-Mutwg=s0"
   },
-  "lastUpdated": "2026-06-27T09:35:23.587Z",
-  "videoCount": 1635,
+  "lastUpdated": "2026-06-27T15:35:44.438Z",
+  "videoCount": 1636,
   "videos": [
     {
-      "id": "ZroLHUSLZM0",
-      "title": "【バイオハザード5】絆と恐怖の物語をソロで打開していく #01 ーRESIDENT EVIL 5⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
-      "published": "2026-06-27T02:40:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZroLHUSLZM0/maxresdefault.jpg",
+      "id": "HJHdqL5AYYE",
+      "title": "【バイオハザード5】絆と恐怖の物語をソロで打開していく #02 ーRESIDENT EVIL 5⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
+      "published": "2026-06-27T14:35:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HJHdqL5AYYE/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-06-28T09:00:00.000Z"
+    },
+    {
+      "id": "ZroLHUSLZM0",
+      "title": "【バイオハザード5】絆と恐怖の物語をソロで打開していく ＃01 ーRESIDENT EVIL 5⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
+      "published": "2026-06-27T14:30:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZroLHUSLZM0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 18706,
+      "status": "past",
       "scheduledStart": "2026-06-27T09:00:00.000Z"
     },
     {
