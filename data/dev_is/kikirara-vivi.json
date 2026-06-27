@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A",
     "bannerUrl": "https://yt3.googleusercontent.com/k1vCsIbtcRaU9OwygWrxTpMWhbsqQO0qC0wm0X31nBYmkbwmqG3TAt1HdM3Z4JWc5YqGz2mLZ84=s0"
   },
-  "lastUpdated": "2026-06-26T14:07:29.997Z",
-  "videoCount": 1001,
+  "lastUpdated": "2026-06-27T08:06:48.742Z",
+  "videoCount": 1003,
   "videos": [
+    {
+      "id": "KlzUqQPar4o",
+      "title": "お姫様の作り方",
+      "published": "2026-06-27T08:00:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/KlzUqQPar4o/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 36,
+      "status": "past"
+    },
+    {
+      "id": "c976rdyC99A",
+      "title": "【 3Dでみんなのリズム天国 】人生初!リズム天国に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published": "2026-06-27T06:12:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/c976rdyC99A/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-06-27T09:00:00.000Z"
+    },
     {
       "id": "nrH0SN1ARrQ",
       "title": "【 みんなのリズム天国 】人生初！リズム天国に挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -41,11 +60,11 @@
     },
     {
       "id": "EIlBB3ZHsMg",
-      "title": "【 みんなのリズム天国 】人生初！リズム天国に挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "title": "【 みんなのリズム天国 】人生初!リズム天国に挑戦!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published": "2026-06-25T11:46:13Z",
       "thumbnail": "https://i.ytimg.com/vi/EIlBB3ZHsMg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9574,
+      "duration": 9583,
       "status": "past",
       "scheduledStart": "2026-06-25T09:00:00Z"
     },
