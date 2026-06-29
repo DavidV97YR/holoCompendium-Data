@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/Q1klv3Pc0K18nttrFlNxOU3Zg3KVaQHGluAUCbqTu8ENgE2agu6EdYepT3Trh7YtDhxBmC5B8Q=s0"
   },
-  "lastUpdated": "2026-06-29T06:01:38.219Z",
-  "videoCount": 7,
+  "lastUpdated": "2026-06-29T10:05:24.466Z",
+  "videoCount": 9,
   "videos": [
+    {
+      "id": "0a4xeysALAM",
+      "title": "小鳥の声に救われた話🐣 #由比河ひなみ #ACHRORA #mekpark",
+      "published": "2026-06-29T09:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/0a4xeysALAM/maxresdefault.jpg",
+      "type": "short",
+      "duration": 54,
+      "status": "past"
+    },
+    {
+      "id": "jwzG5gmcPW4",
+      "title": "【#墨汐さやな】今何しよっと~?話そ~! #ACHRORA",
+      "published": "2026-06-29T08:11:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jwzG5gmcPW4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-06-29T14:00:00.000Z"
+    },
     {
       "id": "Pp0Sfsxaq9k",
       "title": "【#琉海垣りらら】はじめての個人枠🐳🫧#あくろら24 打ち上げしよ!🍻✨#ACHRORA",
@@ -17,7 +36,7 @@
       "thumbnail": "https://i.ytimg.com/vi/Pp0Sfsxaq9k/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-06-29T10:00:00.000Z"
     },
     {
