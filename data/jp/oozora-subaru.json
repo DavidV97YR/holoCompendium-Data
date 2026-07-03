@@ -7,17 +7,37 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-07-03T13:16:12.857Z",
-  "videoCount": 2114,
+  "lastUpdated": "2026-07-03T17:16:23.664Z",
+  "videoCount": 2116,
   "videos": [
     {
-      "id": "PD4kizfQV7s",
-      "title": "【#真最終回】PSYCHO-PASS サイコパスみるしゅばああああああああああああああああああああああああああああああ!!!!!!!!!!!!【ホロライブ/大空スバル】",
-      "published": "2026-07-02T14:36:56.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/PD4kizfQV7s/maxresdefault.jpg",
+      "id": "8ffHdIPAIL4",
+      "title": "【#7】逆転裁判3やるしゅばああああああああああ!!!!!：Phoenix Wright: Ace Attorney - Trials and Tribulations【ネタバレあり】",
+      "published": "2026-07-03T15:53:33.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8ffHdIPAIL4/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-07-04T04:00:00.000Z"
+    },
+    {
+      "id": "QJK4U5PTvK0",
+      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
+      "published": "2026-07-03T15:52:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/QJK4U5PTvK0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-04T01:00:00.000Z"
+    },
+    {
+      "id": "PD4kizfQV7s",
+      "title": "【#真最終回】PSYCHO-PASS サイコパスみるしゅばああああああああああああああああああああああああああああああ！！！！！！！！！！！！【ホロライブ/大空スバル】",
+      "published": "2026-07-03T15:40:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PD4kizfQV7s/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 8979,
+      "status": "past",
       "scheduledStart": "2026-07-03T13:00:00.000Z"
     },
     {
