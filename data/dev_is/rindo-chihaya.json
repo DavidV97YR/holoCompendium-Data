@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-07-03T12:06:51.202Z",
+  "lastUpdated": "2026-07-03T14:06:28.208Z",
   "videoCount": 686,
   "videos": [
+    {
+      "id": "1St8ndArWKk",
+      "title": "【同時視聴】フェラーリ！🚙一緒に見よ～～～！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-07-03T14:01:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/1St8ndArWKk/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 10137,
+      "status": "past",
+      "scheduledStart": "2026-07-03T11:00:00.000Z"
+    },
     {
       "id": "9iOPlgvOLeY",
       "title": "【F1同時視聴】イギリスGP!スプリント予選!!! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -18,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-03T14:30:00.000Z"
+      "scheduledStart": "2026-07-03T15:00:00.000Z"
     },
     {
       "id": "2f8G5mMgMKQ",
@@ -27,16 +37,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2f8G5mMgMKQ/maxresdefault.jpg",
       "type": "short",
       "duration": 12
-    },
-    {
-      "id": "1St8ndArWKk",
-      "title": "【同時視聴】フェラーリ!🚙一緒に見よ~~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-07-03T04:06:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/1St8ndArWKk/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-03T11:00:00.000Z"
     },
     {
       "id": "zYRo9EosGPA",
