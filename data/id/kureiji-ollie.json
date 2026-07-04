@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-07-04T13:45:44.748Z",
+  "lastUpdated": "2026-07-04T15:46:19.073Z",
   "videoCount": 1728,
   "videos": [
+    {
+      "id": "fbAn44xOKZ8",
+      "title": "【BUM SIMULATOR】 SPARE CHANGE? SPARE CHANGE MA'AM? 【Kureiji Ollie】",
+      "published": "2026-07-04T15:06:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fbAn44xOKZ8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 3790,
+      "status": "past",
+      "scheduledStart": "2026-07-04T13:00:00.000Z"
+    },
     {
       "id": "CqjcC4yI6nc",
       "title": "【EN CONCERT WATCHALONG - DAY 1】 ONE TIME IN A LIFETIME!! #holoSerendipity 【Kureiji Ollie】",
@@ -29,16 +39,6 @@
       "duration": 11435,
       "status": "past",
       "scheduledStart": "2026-07-03T13:00:00.000Z"
-    },
-    {
-      "id": "fbAn44xOKZ8",
-      "title": "【BUM SIMULATOR】 SPARE CHANGE? SPARE CHANGE MA'AM?  【Kureiji Ollie】",
-      "published": "2026-07-03T11:36:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fbAn44xOKZ8/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-04T13:00:00.000Z"
     },
     {
       "id": "I0CpLFqA5c8",
