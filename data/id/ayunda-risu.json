@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-04T11:42:42.492Z",
-  "videoCount": 1649,
+  "lastUpdated": "2026-07-05T07:42:41.868Z",
+  "videoCount": 1650,
   "videos": [
+    {
+      "id": "kdONpGsi4EA",
+      "title": "Diving in the water",
+      "published": "2026-07-05T06:00:49.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kdONpGsi4EA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-05T08:00:00.000Z"
+    },
     {
       "id": "6AN0zzmufD0",
       "title": "YAPYAPPERSSSSSS w/@sammybollivienn",
@@ -26,7 +36,7 @@
       "published": "2026-07-03T13:21:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0rXR5_9P0t8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6744,
+      "duration": 6743,
       "status": "past",
       "scheduledStart": "2026-07-03T10:15:00.000Z"
     },
