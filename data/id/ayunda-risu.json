@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-06T07:42:46.374Z",
-  "videoCount": 1651,
+  "lastUpdated": "2026-07-06T13:43:17.865Z",
+  "videoCount": 1652,
   "videos": [
     {
       "id": "pGJtuEhc6Mw",
@@ -17,7 +17,7 @@
       "thumbnail": "https://i.ytimg.com/vi/pGJtuEhc6Mw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-06T12:00:00.000Z"
     },
     {
@@ -57,6 +57,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3OR7DQW9cTI/maxresdefault.jpg",
       "type": "member",
       "duration": 11380
+    },
+    {
+      "id": "omEjy1L93xQ",
+      "title": "LET'S PLAY GRAND CHASE !!",
+      "published": "2026-07-03T09:38:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/omEjy1L93xQ/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-07T13:00:00.000Z"
     },
     {
       "id": "7fPNNW5tVd4",
