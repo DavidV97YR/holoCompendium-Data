@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-07-06T15:08:17.611Z",
-  "videoCount": 1780,
+  "lastUpdated": "2026-07-06T17:08:17.939Z",
+  "videoCount": 1781,
   "videos": [
     {
-      "id": "ZgHCNLsYb4I",
-      "title": "『 #今だから言える叶わなかった夢』 #アキちょこナイパレ 第41回 ~ホロライブ深夜ラジオ~",
-      "published": "2026-07-06T14:30:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZgHCNLsYb4I/maxresdefault.jpg",
+      "id": "J44qEVCv0Gk",
+      "title": "『 #人生で一度は行きたい所』 #アキちょこナイパレ 第42回 ~ホロライブ深夜ラジオ~",
+      "published": "2026-07-06T15:18:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/J44qEVCv0Gk/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-07-13T14:40:00.000Z"
+    },
+    {
+      "id": "ZgHCNLsYb4I",
+      "title": "『 #今だから言える叶わなかった夢』 #アキちょこナイパレ 第41回 ～ホロライブ深夜ラジオ～",
+      "published": "2026-07-06T15:11:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ZgHCNLsYb4I/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 1507,
+      "status": "past",
       "scheduledStart": "2026-07-06T14:40:00.000Z"
     },
     {
