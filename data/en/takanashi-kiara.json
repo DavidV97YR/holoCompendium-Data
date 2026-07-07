@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
     "bannerUrl": "https://yt3.googleusercontent.com/etTxNyV-Ex52BMiKXuSIMHu9reDymW_xa0BKz9a151VrEDHKzXj30yIUuVuNZcCKQDQ9o2GQ=s0"
   },
-  "lastUpdated": "2026-07-06T09:51:50.210Z",
-  "videoCount": 1693,
+  "lastUpdated": "2026-07-06T23:51:58.337Z",
+  "videoCount": 1694,
   "videos": [
+    {
+      "id": "foUgVcpF4x8",
+      "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+      "published": "2026-07-06T23:14:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/foUgVcpF4x8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-06T23:15:00.000Z"
+    },
     {
       "id": "-S5o6ZPf92A",
       "title": "【BDAY COUNTDOWN】Call Ins and Counting Down in LA✨#kfp #キアライブ",
@@ -28,7 +38,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-07T00:10:00.000Z"
+      "scheduledStart": "2026-07-07T00:35:00.000Z"
     },
     {
       "id": "FTB3hkuCNs0",
@@ -36,8 +46,8 @@
       "published": "2026-07-03T18:49:53.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FTB3hkuCNs0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 631,
+      "status": "past",
       "scheduledStart": "2026-07-06T23:00:00.000Z"
     },
     {
