@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
     "bannerUrl": "https://yt3.googleusercontent.com/FJwvN5n0ZEDxnNxWKwo8RXB6K-9Z9nDcGWUmIMLG4ssCsBX_mF6-z2rwVBN6-87XKwQIHCJLdG4=s0"
   },
-  "lastUpdated": "2026-07-11T01:54:34.546Z",
-  "videoCount": 811,
+  "lastUpdated": "2026-07-11T03:54:55.311Z",
+  "videoCount": 812,
   "videos": [
+    {
+      "id": "xF4BlRbwjB0",
+      "title": "MUSE - IRyS【Original Song 3D MV】",
+      "published": "2026-07-10T23:01:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xF4BlRbwjB0/maxresdefault.jpg",
+      "type": "video",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-11T04:05:00.000Z"
+    },
     {
       "id": "7sPt3CmB7Qk",
       "title": "DANGERyS is here!! 💿🥹#shorts #vtuber #ホロライブ #unboxing",
@@ -54,7 +64,7 @@
       "thumbnail": "https://i.ytimg.com/vi/gEp7-SgCods/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-11T03:00:00.000Z"
     },
     {
