@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-07-11T14:02:20.719Z",
-  "videoCount": 507,
+  "lastUpdated": "2026-07-11T18:01:31.743Z",
+  "videoCount": 508,
   "videos": [
+    {
+      "id": "xu1_bo10Vyk",
+      "title": "【POKÉMON LEAF GREEN】Friendship ended by a crit【SOUL-LINK NUZLOCKE】",
+      "published": "2026-07-11T17:47:14.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xu1_bo10Vyk/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-12T15:00:00.000Z"
+    },
     {
       "id": "eRbxlDpxIPc",
       "title": "CHATTINI ASSEMBLE!",
       "published": "2026-07-11T12:43:29.000Z",
       "thumbnail": "https://i.ytimg.com/vi/eRbxlDpxIPc/maxresdefault.jpg",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 10217,
+      "status": "past",
       "scheduledStart": "2026-07-11T14:00:00.000Z"
     },
     {
