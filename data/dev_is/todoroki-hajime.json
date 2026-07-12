@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q",
     "bannerUrl": "https://yt3.googleusercontent.com/Mcxb7cXgFyaAngB1JLDa6tLaJXQXDiw9aMn9SlL922-yb3o0doUl3DxRisBlHHf0Y0ykf95rtQ=s0"
   },
-  "lastUpdated": "2026-07-12T14:03:43.258Z",
-  "videoCount": 1056,
+  "lastUpdated": "2026-07-12T16:04:15.019Z",
+  "videoCount": 1057,
   "videos": [
+    {
+      "id": "ZfyeMto0IZc",
+      "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+      "published": "2026-07-12T15:43:37.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZfyeMto0IZc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-13T11:00:00.000Z"
+    },
     {
       "id": "srmdCAJOHz0",
       "title": "【リズム天国ミラクルスターズ】全ハイレベル耐久いくぜっ【轟はじめ/ReGLOSS】",
-      "published": "2026-07-12T03:32:06.000Z",
+      "published": "2026-07-12T15:37:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/srmdCAJOHz0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 12339,
+      "status": "past",
       "scheduledStart": "2026-07-12T12:00:00.000Z"
     },
     {
