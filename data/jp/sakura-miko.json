@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/lF50Hj_6-5MVitUbhIYdgaHCZAXEUnRtOPfaGF25_QFUNcW21w26cTm3LADOY2CagncnNw9F=s0"
   },
-  "lastUpdated": "2026-07-11T17:06:07.677Z",
+  "lastUpdated": "2026-07-12T00:43:06.802Z",
   "videoCount": 2289,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T11:00:00.000Z"
+      "scheduledStart": "2026-07-12T11:00:00Z"
     },
     {
       "id": "EyAbYUmDYts",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 10100,
       "status": "past",
-      "scheduledStart": "2026-07-11T13:00:00.000Z"
+      "scheduledStart": "2026-07-11T13:00:00Z"
     },
     {
       "id": "wL7DOrQ7n0A",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 7085,
       "status": "past",
-      "scheduledStart": "2026-07-10T11:00:00.000Z"
+      "scheduledStart": "2026-07-10T11:00:00Z"
     },
     {
       "id": "HZR3gJCYtA8",
@@ -57,17 +57,17 @@
       "type": "stream",
       "duration": 7330,
       "status": "past",
-      "scheduledStart": "2026-07-09T13:00:00.000Z"
+      "scheduledStart": "2026-07-09T13:00:00Z"
     },
     {
       "id": "H6jFgLOMGxc",
       "title": "【メンバー限定】VRChatでみことデートにぇえええええええ!!!!!!!!!【ホロライブ/さくらみこ】",
       "published": "2026-07-08T06:26:53.000Z",
       "thumbnail": "https://i.ytimg.com/vi/H6jFgLOMGxc/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 4891,
       "status": "past",
-      "scheduledStart": "2026-07-08T13:30:00.000Z"
+      "scheduledStart": "2026-07-08T13:30:00Z"
     },
     {
       "id": "MKjXgiJSB_o",
@@ -77,7 +77,7 @@
       "type": "stream",
       "duration": 6567,
       "status": "past",
-      "scheduledStart": "2026-07-07T11:00:00.000Z"
+      "scheduledStart": "2026-07-07T11:00:00Z"
     },
     {
       "id": "S8cHTG-c9e0",
@@ -87,17 +87,17 @@
       "type": "stream",
       "duration": 6388,
       "status": "past",
-      "scheduledStart": "2026-07-05T11:00:00.000Z"
+      "scheduledStart": "2026-07-05T11:00:00Z"
     },
     {
       "id": "wrzJxt3KyNI",
       "title": "【メンバー限定】ちょこっとカラオケするよ~~ん【ホロライブ/さくらみこ】",
       "published": "2026-07-05T12:46:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wrzJxt3KyNI/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 6819,
       "status": "past",
-      "scheduledStart": "2026-07-05T13:30:00.000Z"
+      "scheduledStart": "2026-07-05T13:30:00Z"
     },
     {
       "id": "Lt3z3yJvl8k",
@@ -107,7 +107,7 @@
       "type": "stream",
       "duration": 19532,
       "status": "past",
-      "scheduledStart": "2026-07-04T11:00:00.000Z"
+      "scheduledStart": "2026-07-04T11:00:00Z"
     },
     {
       "id": "9caAYEEkRac",
@@ -126,7 +126,7 @@
       "type": "stream",
       "duration": 13690,
       "status": "past",
-      "scheduledStart": "2026-07-03T12:00:00.000Z"
+      "scheduledStart": "2026-07-03T12:00:00Z"
     },
     {
       "id": "VYfGImMuODE",
@@ -136,7 +136,7 @@
       "type": "stream",
       "duration": 17751,
       "status": "past",
-      "scheduledStart": "2026-07-02T11:00:00.000Z"
+      "scheduledStart": "2026-07-02T11:00:00Z"
     },
     {
       "id": "YaWWNlDwklg",
@@ -146,7 +146,7 @@
       "type": "stream",
       "duration": 12077,
       "status": "past",
-      "scheduledStart": "2026-07-01T12:00:00.000Z"
+      "scheduledStart": "2026-07-01T12:00:00Z"
     },
     {
       "id": "ti-KRie2_LY",
@@ -156,7 +156,7 @@
       "type": "stream",
       "duration": 8794,
       "status": "past",
-      "scheduledStart": "2026-06-30T11:00:00.000Z"
+      "scheduledStart": "2026-06-30T11:00:00Z"
     },
     {
       "id": "DSoMW4Bbg0Y",
@@ -166,7 +166,7 @@
       "type": "stream",
       "duration": 16296,
       "status": "past",
-      "scheduledStart": "2026-06-29T11:00:00.000Z"
+      "scheduledStart": "2026-06-29T11:00:00Z"
     },
     {
       "id": "-c4CJP8mw3w",
@@ -176,7 +176,7 @@
       "type": "stream",
       "duration": 6771,
       "status": "past",
-      "scheduledStart": "2026-06-28T13:00:00.000Z"
+      "scheduledStart": "2026-06-28T13:00:00Z"
     },
     {
       "id": "ivLS0UfojjU",
@@ -186,7 +186,7 @@
       "type": "stream",
       "duration": 17707,
       "status": "past",
-      "scheduledStart": "2026-06-28T04:00:00.000Z"
+      "scheduledStart": "2026-06-28T04:00:00Z"
     },
     {
       "id": "fggTJeRnKPo",
@@ -196,7 +196,7 @@
       "type": "stream",
       "duration": 23031,
       "status": "past",
-      "scheduledStart": "2026-06-27T10:30:00.000Z"
+      "scheduledStart": "2026-06-27T10:30:00Z"
     },
     {
       "id": "Wx_jGCdLkKU",
@@ -206,7 +206,7 @@
       "type": "stream",
       "duration": 15089,
       "status": "past",
-      "scheduledStart": "2026-06-27T05:00:00.000Z"
+      "scheduledStart": "2026-06-27T05:00:00Z"
     },
     {
       "id": "JRh1TloOX6M",
@@ -216,7 +216,7 @@
       "type": "stream",
       "duration": 27806,
       "status": "past",
-      "scheduledStart": "2026-06-26T10:00:00.000Z"
+      "scheduledStart": "2026-06-26T10:00:00Z"
     },
     {
       "id": "bQXNRpOBhLE",
@@ -312,7 +312,7 @@
       "title": "【 メンバー限定 】みこちの気まぐれ放送局 #12【ホロライブ/さくらみこ】",
       "published": "2026-06-16T10:32:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/QH0MMUrao9E/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 7746,
       "status": "past",
       "scheduledStart": "2026-06-16T13:00:00Z"
@@ -19097,7 +19097,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-05T14:55:00.000Z"
+      "scheduledStart": "2027-03-05T14:55:00Z"
     },
     {
       "id": "abuyCDr3snU",

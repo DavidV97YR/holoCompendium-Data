@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-07-10T13:48:50.766Z",
+  "lastUpdated": "2026-07-12T01:34:03.573Z",
   "videoCount": 1010,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T12:00:00.000Z"
+      "scheduledStart": "2026-07-12T12:00:00Z"
     },
     {
       "id": "dFun5at7iLU",
@@ -26,9 +26,9 @@
       "published": "2026-07-10T05:24:41+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dFun5at7iLU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9212,
+      "duration": 9213,
       "status": "past",
-      "scheduledStart": "2026-07-10T02:45:00.000Z"
+      "scheduledStart": "2026-07-10T02:45:00Z"
     },
     {
       "id": "XVJ94F5vPbs",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 9972,
       "status": "past",
-      "scheduledStart": "2026-06-29T14:00:00.000Z"
+      "scheduledStart": "2026-06-29T14:00:00Z"
     },
     {
       "id": "ZCxVNcZx4Vs",
@@ -57,7 +57,7 @@
       "type": "stream",
       "duration": 5164,
       "status": "past",
-      "scheduledStart": "2026-06-28T02:30:00.000Z"
+      "scheduledStart": "2026-06-28T02:30:00Z"
     },
     {
       "id": "3e0UsIdq0g4",
@@ -67,7 +67,7 @@
       "type": "stream",
       "duration": 6024,
       "status": "past",
-      "scheduledStart": "2026-06-25T14:00:00.000Z"
+      "scheduledStart": "2026-06-25T14:00:00Z"
     },
     {
       "id": "N56LfNu2lBM",
@@ -94,7 +94,7 @@
       "title": "【Chat】Life Update!",
       "published": "2026-06-22T12:19:58.000Z",
       "thumbnail": "https://i.ytimg.com/vi/IoMA0Bg9NY8/maxresdefault.jpg",
-      "type": "member",
+      "type": "stream",
       "duration": 3769
     },
     {
@@ -8880,7 +8880,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00.000Z"
+      "scheduledStart": "2026-11-07T12:00:00Z"
     },
     {
       "id": "gW_1YVaqR-k",

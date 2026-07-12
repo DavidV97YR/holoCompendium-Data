@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-07-11T20:07:06.625Z",
+  "lastUpdated": "2026-07-12T01:55:15.861Z",
   "videoCount": 700,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 18850,
       "status": "past",
-      "scheduledStart": "2026-07-11T13:30:00.000Z"
+      "scheduledStart": "2026-07-11T13:30:00Z"
     },
     {
       "id": "YAL0OwMKtPo",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 8361,
       "status": "past",
-      "scheduledStart": "2026-07-09T10:30:00.000Z"
+      "scheduledStart": "2026-07-09T10:30:00Z"
     },
     {
       "id": "rStbWuXoGKo",
@@ -38,7 +38,17 @@
       "type": "video",
       "duration": 1735,
       "status": "past",
-      "scheduledStart": "2026-07-09T09:00:00.000Z"
+      "scheduledStart": "2026-07-09T09:00:00Z"
+    },
+    {
+      "id": "-dqLfiQ5IHU",
+      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
+      "published": "2026-07-08T12:11:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/-dqLfiQ5IHU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 4270,
+      "status": "past",
+      "scheduledStart": "2026-07-08T11:00:00Z"
     },
     {
       "id": "ose8Cq4OmNA",
@@ -48,7 +58,7 @@
       "type": "video",
       "duration": 208,
       "status": "past",
-      "scheduledStart": "2026-07-08T12:08:00.000Z"
+      "scheduledStart": "2026-07-08T12:08:00Z"
     },
     {
       "id": "vWQTbrZWXDw",
@@ -85,7 +95,7 @@
       "type": "stream",
       "duration": 4301,
       "status": "past",
-      "scheduledStart": "2026-07-07T14:00:00.000Z"
+      "scheduledStart": "2026-07-07T14:00:00Z"
     },
     {
       "id": "EpJTd9Xlvlk",
@@ -101,10 +111,10 @@
       "title": "【 メンバー限定 】Flat Out  アンコール会場【#輪堂千速生誕祭2026 】",
       "published": "2026-07-06T16:27:53.000Z",
       "thumbnail": "https://i.ytimg.com/vi/_Q4oL3uTKU8/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 1156,
       "status": "past",
-      "scheduledStart": "2026-07-08T12:15:00.000Z"
+      "scheduledStart": "2026-07-08T12:15:00Z"
     },
     {
       "id": "2N5jkTRmZwA",
@@ -114,7 +124,7 @@
       "type": "stream",
       "duration": 9541,
       "status": "past",
-      "scheduledStart": "2026-07-06T10:00:00.000Z"
+      "scheduledStart": "2026-07-06T10:00:00Z"
     },
     {
       "id": "NCjaCBe2zSs",
@@ -124,7 +134,7 @@
       "type": "stream",
       "duration": 10387,
       "status": "past",
-      "scheduledStart": "2026-07-05T13:30:00.000Z"
+      "scheduledStart": "2026-07-05T13:30:00Z"
     },
     {
       "id": "_Jho64QWtOM",
@@ -134,7 +144,7 @@
       "type": "stream",
       "duration": 4099,
       "status": "past",
-      "scheduledStart": "2026-07-05T09:00:00.000Z"
+      "scheduledStart": "2026-07-05T09:00:00Z"
     },
     {
       "id": "oZX6CAUOQZA",
@@ -153,7 +163,7 @@
       "type": "stream",
       "duration": 5810,
       "status": "past",
-      "scheduledStart": "2026-07-03T15:00:00.000Z"
+      "scheduledStart": "2026-07-03T15:00:00Z"
     },
     {
       "id": "1St8ndArWKk",
@@ -163,7 +173,7 @@
       "type": "stream",
       "duration": 10135,
       "status": "past",
-      "scheduledStart": "2026-07-03T11:00:00.000Z"
+      "scheduledStart": "2026-07-03T11:00:00Z"
     },
     {
       "id": "2f8G5mMgMKQ",
@@ -171,7 +181,8 @@
       "published": "2026-07-03T08:04:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2f8G5mMgMKQ/maxresdefault.jpg",
       "type": "short",
-      "duration": 12
+      "duration": 12,
+      "status": "past"
     },
     {
       "id": "zYRo9EosGPA",
@@ -181,17 +192,7 @@
       "type": "stream",
       "duration": 3711,
       "status": "past",
-      "scheduledStart": "2026-07-02T11:00:00.000Z"
-    },
-    {
-      "id": "-dqLfiQ5IHU",
-      "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 Summer Fes!🔧【#輪堂千速生誕祭2026 】",
-      "published": "2026-07-02T09:31:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-dqLfiQ5IHU/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 4270,
-      "status": "past",
-      "scheduledStart": "2026-07-08T11:00:00.000Z"
+      "scheduledStart": "2026-07-02T11:00:00Z"
     },
     {
       "id": "dKIg4vLzRVk",
@@ -210,7 +211,7 @@
       "type": "stream",
       "duration": 11653,
       "status": "past",
-      "scheduledStart": "2026-07-01T12:00:00.000Z"
+      "scheduledStart": "2026-07-01T12:00:00Z"
     },
     {
       "id": "CsebRyEQupE",
@@ -228,7 +229,8 @@
       "thumbnail": "https://i.ytimg.com/vi/sjZ-cW5xgFQ/maxresdefault.jpg",
       "type": "stream",
       "duration": 1150,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-06-30T13:20:00Z"
     },
     {
       "id": "MJfTFYWM1z0",
@@ -236,7 +238,9 @@
       "published": "2026-06-30T13:26:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/MJfTFYWM1z0/maxresdefault.jpg",
       "type": "member",
-      "duration": 10259
+      "duration": 10259,
+      "status": "past",
+      "scheduledStart": "2026-06-30T13:41:34Z"
     },
     {
       "id": "ayx2NDknAvo",
@@ -246,7 +250,7 @@
       "type": "stream",
       "duration": 12646,
       "status": "past",
-      "scheduledStart": "2026-06-29T15:15:00.000Z"
+      "scheduledStart": "2026-06-29T15:15:00Z"
     },
     {
       "id": "QBDA85cPJ6k",
@@ -265,7 +269,7 @@
       "type": "stream",
       "duration": 9094,
       "status": "past",
-      "scheduledStart": "2026-06-28T12:30:00.000Z"
+      "scheduledStart": "2026-06-28T12:30:00Z"
     },
     {
       "id": "JMDKcU1QeqI",
@@ -275,7 +279,7 @@
       "type": "stream",
       "duration": 18733,
       "status": "past",
-      "scheduledStart": "2026-06-28T06:00:00.000Z"
+      "scheduledStart": "2026-06-28T06:00:00Z"
     },
     {
       "id": "Y-zI6VtNimk",
@@ -294,7 +298,7 @@
       "type": "stream",
       "duration": 11324,
       "status": "past",
-      "scheduledStart": "2026-06-27T13:30:00.000Z"
+      "scheduledStart": "2026-06-27T13:30:00Z"
     },
     {
       "id": "CCa_53gwgVU",
@@ -304,7 +308,7 @@
       "type": "stream",
       "duration": 19788,
       "status": "past",
-      "scheduledStart": "2026-06-27T06:00:00.000Z"
+      "scheduledStart": "2026-06-27T06:00:00Z"
     },
     {
       "id": "vUj5dSgZUK8",
@@ -323,7 +327,7 @@
       "type": "stream",
       "duration": 8961,
       "status": "past",
-      "scheduledStart": "2026-06-26T11:00:00.000Z"
+      "scheduledStart": "2026-06-26T11:00:00Z"
     },
     {
       "id": "_qp49KSEd1o",
@@ -333,7 +337,7 @@
       "type": "stream",
       "duration": 8044,
       "status": "past",
-      "scheduledStart": "2026-06-26T08:30:00.000Z"
+      "scheduledStart": "2026-06-26T08:30:00Z"
     },
     {
       "id": "4d6jLSfGWPE",
@@ -343,7 +347,7 @@
       "type": "stream",
       "duration": 14079,
       "status": "past",
-      "scheduledStart": "2026-06-25T11:00:00.000Z"
+      "scheduledStart": "2026-06-25T11:00:00Z"
     },
     {
       "id": "MZhe_GfI190",
@@ -6268,7 +6272,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00.000Z"
+      "scheduledStart": "2026-12-30T15:00:00Z"
     },
     {
       "id": "SjEF6bluuJE",

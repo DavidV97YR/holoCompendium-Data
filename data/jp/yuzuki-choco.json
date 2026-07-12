@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
     "bannerUrl": "https://yt3.googleusercontent.com/AnNPRrfMcNbahc8l2TMgGBqaVmpSwCPIzVxyiUpY36mmOx4ROOVTnLk6GxpytYpVRl3Hf4BV=s0"
   },
-  "lastUpdated": "2026-07-04T11:14:50.170Z",
+  "lastUpdated": "2026-07-12T00:53:20.161Z",
   "videoCount": 1133,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "video",
       "duration": 2528,
       "status": "past",
-      "scheduledStart": "2026-07-04T09:00:00.000Z"
+      "scheduledStart": "2026-07-04T09:00:00Z"
     },
     {
       "id": "FHKXawCBVJM",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 6257,
       "status": "past",
-      "scheduledStart": "2026-06-28T16:00:00.000Z"
+      "scheduledStart": "2026-06-28T16:00:00Z"
     },
     {
       "id": "PLVRmXtNHts",
@@ -73,7 +73,7 @@
       "title": "【original】お陰様で/癒月ちょこ【ホロライブ】",
       "published": "2026-06-13T17:09:33.000Z",
       "thumbnail": "https://i.ytimg.com/vi/hM9DIJPWXzk/maxresdefault.jpg",
-      "type": "video",
+      "type": "stream",
       "duration": 0
     },
     {
@@ -11263,7 +11263,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-10-31T14:55:00.000Z"
+      "scheduledStart": "2027-10-31T14:55:00Z"
     },
     {
       "id": "SCOEeN_vHzc",

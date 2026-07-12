@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo",
     "bannerUrl": "https://yt3.googleusercontent.com/xHg2zMwBbYTQlvXejI0BseK05dp9wd5mBhuNOVEF-ssgnFv2PCaKk5daHteNkVbU_UdSYv0kjHM=s0"
   },
-  "lastUpdated": "2026-07-11T11:04:21.588Z",
+  "lastUpdated": "2026-07-12T00:41:07.490Z",
   "videoCount": 1391,
   "videos": [
     {
@@ -36,7 +36,7 @@
       "type": "stream",
       "duration": 9936,
       "status": "past",
-      "scheduledStart": "2026-07-09T13:00:00.000Z"
+      "scheduledStart": "2026-07-09T13:00:00Z"
     },
     {
       "id": "M1mZrusy-xY",
@@ -55,7 +55,7 @@
       "type": "stream",
       "duration": 6860,
       "status": "past",
-      "scheduledStart": "2026-07-08T13:00:00.000Z"
+      "scheduledStart": "2026-07-08T13:00:00Z"
     },
     {
       "id": "KQn_4mpsqYw",
@@ -73,7 +73,7 @@
       "thumbnail": "https://i.ytimg.com/vi/r2ot7u3_6J0/maxresdefault.jpg",
       "type": "short",
       "duration": 32,
-      "status": "new"
+      "status": "past"
     },
     {
       "id": "es-1awCFWYE",
@@ -83,17 +83,17 @@
       "type": "stream",
       "duration": 14628,
       "status": "past",
-      "scheduledStart": "2026-07-05T13:00:00.000Z"
+      "scheduledStart": "2026-07-05T13:00:00Z"
     },
     {
       "id": "G8PvwXqfg2E",
       "title": "【メン限】月イチみんなとまったり雑談!7月ここだけの話!【ホロライブ / AZKi】",
       "published": "2026-07-04T08:55:20.000Z",
       "thumbnail": "https://i.ytimg.com/vi/G8PvwXqfg2E/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 21701,
       "status": "past",
-      "scheduledStart": "2026-07-04T13:00:00.000Z"
+      "scheduledStart": "2026-07-04T13:00:00Z"
     },
     {
       "id": "oToQ8ZL8wK8",
@@ -103,7 +103,7 @@
       "type": "stream",
       "duration": 17045,
       "status": "past",
-      "scheduledStart": "2026-07-02T10:00:00.000Z"
+      "scheduledStart": "2026-07-02T10:00:00Z"
     },
     {
       "id": "sqJb4GkRhK4",
@@ -122,7 +122,7 @@
       "type": "stream",
       "duration": 4666,
       "status": "past",
-      "scheduledStart": "2026-07-01T11:00:00.000Z"
+      "scheduledStart": "2026-07-01T11:00:00Z"
     },
     {
       "id": "LRiJcTQU9QQ",
@@ -132,17 +132,17 @@
       "type": "stream",
       "duration": 4006,
       "status": "past",
-      "scheduledStart": "2026-06-30T14:30:00.000Z"
+      "scheduledStart": "2026-06-30T14:30:00Z"
     },
     {
       "id": "TeBHP6Hn3TE",
       "title": "【MemberOnly】アンコールLIVE / AZKi 8th Birthday Live \"Cross Over\"【#AZKi生誕ライブ2026】",
       "published": "2026-06-30T09:41:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TeBHP6Hn3TE/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 1190,
       "status": "past",
-      "scheduledStart": "2026-07-01T12:20:00.000Z"
+      "scheduledStart": "2026-07-01T12:20:00Z"
     },
     {
       "id": "vcFNKYPvpuE",
@@ -161,7 +161,7 @@
       "type": "stream",
       "duration": 15776,
       "status": "past",
-      "scheduledStart": "2026-06-28T13:00:00.000Z"
+      "scheduledStart": "2026-06-28T13:00:00Z"
     },
     {
       "id": "faCsVAsv06k",
@@ -332,7 +332,7 @@
       "title": "【メン限】月イチみんなとまったり雑談!6月ここだけの話!【ホロライブ / AZKi】",
       "published": "2026-06-03T12:46:11.000Z",
       "thumbnail": "https://i.ytimg.com/vi/VkKeJgBkeCg/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 13968,
       "status": "past",
       "scheduledStart": "2026-06-03T13:00:00Z"

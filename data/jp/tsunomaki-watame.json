@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
     "bannerUrl": "https://yt3.googleusercontent.com/qayRHMxLu8da1JWWG9B7km4vvFZU56OqXiKfHfHJlHJkOuaxG2mDZMNnT4Y7rD5Bx2E6pPP4lDk=s0"
   },
-  "lastUpdated": "2026-07-11T21:28:27.304Z",
+  "lastUpdated": "2026-07-12T01:09:38.815Z",
   "videoCount": 3408,
   "videos": [
     {
@@ -26,7 +26,8 @@
       "thumbnail": "https://i.ytimg.com/vi/LnaiI-rtR3Y/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "new"
+      "status": "upcoming",
+      "scheduledStart": "2026-07-12T11:00:00Z"
     },
     {
       "id": "QEzaOaiXLxg",
@@ -60,10 +61,10 @@
       "title": "【メンバー限定配信】開設6年4ヶ月目!「ひつじ探偵団 / The Sheep Detectives」同時視聴!【角巻わため/ホロライブ4期生】",
       "published": "2026-07-08T20:04:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/6zRzBt2DtWI/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 18520,
       "status": "past",
-      "scheduledStart": "2026-07-09T13:00:00.000Z"
+      "scheduledStart": "2026-07-09T13:00:00Z"
     },
     {
       "id": "cAhQRAw5Dj8",
@@ -73,7 +74,7 @@
       "type": "stream",
       "duration": 18623,
       "status": "past",
-      "scheduledStart": "2026-07-08T13:00:00.000Z"
+      "scheduledStart": "2026-07-08T13:00:00Z"
     },
     {
       "id": "3TDWECAjg4c",
@@ -209,7 +210,7 @@
       "type": "stream",
       "duration": 18172,
       "status": "past",
-      "scheduledStart": "2026-06-30T13:00:00.000Z"
+      "scheduledStart": "2026-06-30T13:00:00Z"
     },
     {
       "id": "CPQxtsiReWY",
@@ -228,7 +229,7 @@
       "type": "stream",
       "duration": 22626,
       "status": "past",
-      "scheduledStart": "2026-06-29T13:00:00.000Z"
+      "scheduledStart": "2026-06-29T13:00:00Z"
     },
     {
       "id": "Mud0pKg3aSM",
@@ -265,7 +266,7 @@
       "type": "stream",
       "duration": 8557,
       "status": "past",
-      "scheduledStart": "2026-06-26T11:50:00.000Z"
+      "scheduledStart": "2026-06-26T11:50:00Z"
     },
     {
       "id": "-anGLmy6sbA",
@@ -284,7 +285,7 @@
       "type": "stream",
       "duration": 12522,
       "status": "past",
-      "scheduledStart": "2026-06-25T13:00:00.000Z"
+      "scheduledStart": "2026-06-25T13:00:00Z"
     },
     {
       "id": "7UFUpCDrXRc",
@@ -384,7 +385,7 @@
       "title": "【メンバー限定/MemberOnly】アンコール3DLIVE!\"アニソン Night Fever2\"【 #角巻わため生誕祭2026 】",
       "published": "2026-06-21T16:52:14.000Z",
       "thumbnail": "https://i.ytimg.com/vi/PnhM8uJ1amc/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 1330,
       "status": "past",
       "scheduledStart": "2026-06-24T13:15:00Z"
@@ -636,7 +637,7 @@
       "title": "【メンバー限定配信】開設6年3ヶ月目!まったり雑談...🍀【角巻わため/ホロライブ4期生】",
       "published": "2026-06-08T07:55:44.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Ktc5kgFOvSU/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 29685,
       "status": "past",
       "scheduledStart": "2026-06-08T13:00:00Z"

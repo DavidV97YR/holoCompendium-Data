@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
     "bannerUrl": "https://yt3.googleusercontent.com/lmw46V4yJqqgCAsf09Vj0UNjCDvxLhOipv_1wRA_Z7V9t8r0OQ0z4flcWkhOFUOVW0buB9aTQFc=s0"
   },
-  "lastUpdated": "2026-07-11T03:59:42.604Z",
+  "lastUpdated": "2026-07-12T01:46:39.914Z",
   "videoCount": 993,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 8375,
       "status": "past",
-      "scheduledStart": "2026-07-11T01:00:00.000Z"
+      "scheduledStart": "2026-07-11T01:00:00Z"
     },
     {
       "id": "5B3wU4vws7o",
@@ -37,7 +37,7 @@
       "type": "stream",
       "duration": 7950,
       "status": "past",
-      "scheduledStart": "2026-06-30T00:00:00.000Z"
+      "scheduledStart": "2026-06-30T00:00:00Z"
     },
     {
       "id": "Oqx3Ez-ibms",
@@ -55,8 +55,8 @@
       "thumbnail": "https://i.ytimg.com/vi/U8POeCzQqkE/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-12T01:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-07-12T01:00:00Z"
     },
     {
       "id": "krXYfveyjkU",
@@ -75,7 +75,7 @@
       "type": "stream",
       "duration": 2841,
       "status": "past",
-      "scheduledStart": "2026-06-28T11:20:00.000Z"
+      "scheduledStart": "2026-06-28T11:20:00Z"
     },
     {
       "id": "9ZO5XCNu2uY",
@@ -85,7 +85,7 @@
       "type": "stream",
       "duration": 6990,
       "status": "past",
-      "scheduledStart": "2026-06-27T01:00:00.000Z"
+      "scheduledStart": "2026-06-27T01:00:00Z"
     },
     {
       "id": "JUIRtO5THj4",
@@ -111,7 +111,7 @@
       "title": "【FALL GUYS PARTICIPATION 参加型】being a bit too silly, falling with you 🐾【MEMBERS ONLY】",
       "published": "2026-06-21T13:36:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FEUq2yGygLQ/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 7362,
       "status": "past",
       "scheduledStart": "2026-06-23T01:00:00Z"

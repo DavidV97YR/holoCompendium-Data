@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
     "bannerUrl": "https://yt3.googleusercontent.com/etTxNyV-Ex52BMiKXuSIMHu9reDymW_xa0BKz9a151VrEDHKzXj30yIUuVuNZcCKQDQ9o2GQ=s0"
   },
-  "lastUpdated": "2026-07-11T21:52:14.621Z",
+  "lastUpdated": "2026-07-12T01:38:39.215Z",
   "videoCount": 1699,
   "videos": [
+    {
+      "id": "P1Mxyz6iR-Y",
+      "title": "【NORWAY vs ENGLAND】I ROW IRL EVERYTIME THE CROWD ROWS【Kiara's Football Fever Frenzy】",
+      "published": "2026-07-12T00:13:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/P1Mxyz6iR-Y/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 12694,
+      "status": "past",
+      "scheduledStart": "2026-07-11T20:30:00Z"
+    },
     {
       "id": "gKYJNaNVkmg",
       "title": "【WATCHALONG】ARGENTINA vs SWITZERLAND【Kiara's Football Fever Frenzy】",
@@ -17,18 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/gKYJNaNVkmg/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-12T00:30:00.000Z"
-    },
-    {
-      "id": "P1Mxyz6iR-Y",
-      "title": "【NORWAY vs ENGLAND】I ROW IRL EVERYTIME THE CROWD ROWS【Kiara's Football Fever Frenzy】",
-      "published": "2026-07-11T06:45:56.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/P1Mxyz6iR-Y/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-07-11T20:30:00.000Z"
+      "scheduledStart": "2026-07-12T00:40:00Z"
     },
     {
       "id": "_l4fbHjYus0",
@@ -36,7 +36,9 @@
       "published": "2026-07-09T19:34:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/_l4fbHjYus0/maxresdefault.jpg",
       "type": "member",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-13T17:00:00Z"
     },
     {
       "id": "u1lTnRxpQkI",
@@ -46,7 +48,7 @@
       "type": "stream",
       "duration": 11638,
       "status": "past",
-      "scheduledStart": "2026-07-09T16:00:00.000Z"
+      "scheduledStart": "2026-07-09T16:00:00Z"
     },
     {
       "id": "vp0xomQIn5Y",
@@ -56,7 +58,7 @@
       "type": "stream",
       "duration": 21233,
       "status": "past",
-      "scheduledStart": "2026-07-08T17:15:00.000Z"
+      "scheduledStart": "2026-07-08T17:15:00Z"
     },
     {
       "id": "foUgVcpF4x8",
@@ -66,7 +68,7 @@
       "type": "stream",
       "duration": 4199,
       "status": "past",
-      "scheduledStart": "2026-07-06T23:15:00.000Z"
+      "scheduledStart": "2026-07-06T23:15:00Z"
     },
     {
       "id": "K75bu9iq5Ro",
@@ -76,7 +78,7 @@
       "type": "video",
       "duration": 199,
       "status": "past",
-      "scheduledStart": "2026-07-07T00:30:00.000Z"
+      "scheduledStart": "2026-07-07T00:30:00Z"
     },
     {
       "id": "-S5o6ZPf92A",
@@ -86,7 +88,7 @@
       "type": "stream",
       "duration": 8041,
       "status": "past",
-      "scheduledStart": "2026-07-06T06:00:00.000Z"
+      "scheduledStart": "2026-07-06T06:00:00Z"
     },
     {
       "id": "FTB3hkuCNs0",
@@ -106,7 +108,7 @@
       "type": "stream",
       "duration": 8968,
       "status": "past",
-      "scheduledStart": "2026-06-30T20:30:00.000Z"
+      "scheduledStart": "2026-06-30T20:30:00Z"
     },
     {
       "id": "p-DnSNIxoZE",
@@ -126,7 +128,7 @@
       "type": "stream",
       "duration": 9366,
       "status": "past",
-      "scheduledStart": "2026-06-30T16:30:00.000Z"
+      "scheduledStart": "2026-06-30T16:30:00Z"
     },
     {
       "id": "TjgSCoQjOAU",
@@ -136,7 +138,7 @@
       "type": "stream",
       "duration": 12896,
       "status": "past",
-      "scheduledStart": "2026-06-29T20:00:00.000Z"
+      "scheduledStart": "2026-06-29T20:00:00Z"
     },
     {
       "id": "o7p6O7qIU9Y",
@@ -146,7 +148,7 @@
       "type": "stream",
       "duration": 9613,
       "status": "past",
-      "scheduledStart": "2026-06-29T16:30:00.000Z"
+      "scheduledStart": "2026-06-29T16:30:00Z"
     },
     {
       "id": "3dlSGGCKrOk",
@@ -156,7 +158,7 @@
       "type": "stream",
       "duration": 4126,
       "status": "past",
-      "scheduledStart": "2026-06-28T03:00:00.000Z"
+      "scheduledStart": "2026-06-28T03:00:00Z"
     },
     {
       "id": "-yY1-W5o5wU",
@@ -166,7 +168,7 @@
       "type": "stream",
       "duration": 13817,
       "status": "past",
-      "scheduledStart": "2026-06-27T14:00:00.000Z"
+      "scheduledStart": "2026-06-27T14:00:00Z"
     },
     {
       "id": "6YPxGO7uX4M",
@@ -176,7 +178,7 @@
       "type": "stream",
       "duration": 12328,
       "status": "past",
-      "scheduledStart": "2026-06-26T18:30:00.000Z"
+      "scheduledStart": "2026-06-26T18:30:00Z"
     },
     {
       "id": "aUkvIE9KaE8",
@@ -186,7 +188,7 @@
       "type": "stream",
       "duration": 14113,
       "status": "past",
-      "scheduledStart": "2026-06-25T16:00:00.000Z"
+      "scheduledStart": "2026-06-25T16:00:00Z"
     },
     {
       "id": "jSwuiH2wskM",
@@ -272,7 +274,7 @@
       "title": "【MEMBERS ONLY】KIARAOKE!! REBROADCAST!!! YIPPEEEEE",
       "published": "2026-06-16T20:56:58.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5QNi_qmslNw/maxresdefault.jpg",
-      "type": "member",
+      "type": "stream",
       "duration": 61839
     },
     {
@@ -390,7 +392,7 @@
       "title": "【MEMBERS ONLY】KIARAOKE!! UNARCHIVED!!! YIPPEEEEE",
       "published": "2026-06-04T11:39:29.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jz545PpR4uo/maxresdefault.jpg",
-      "type": "member",
+      "type": "stream",
       "duration": 11742
     },
     {

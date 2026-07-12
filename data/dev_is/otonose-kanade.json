@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ",
     "bannerUrl": "https://yt3.googleusercontent.com/qFbTxpnxmdXTKeOxYoWd2HaRJ7gGjGPCq5I1pghiNSiDgQZNU6BXa0SPAI0ND6K371-kEv9p=s0"
   },
-  "lastUpdated": "2026-07-11T10:02:25.534Z",
+  "lastUpdated": "2026-07-12T01:49:46.098Z",
   "videoCount": 927,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 5559,
       "status": "past",
-      "scheduledStart": "2026-07-11T03:00:00.000Z"
+      "scheduledStart": "2026-07-11T03:00:00Z"
     },
     {
       "id": "TktGPteN2_0",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 7862,
       "status": "past",
-      "scheduledStart": "2026-07-09T13:00:00.000Z"
+      "scheduledStart": "2026-07-09T13:00:00Z"
     },
     {
       "id": "j1LXO9pzRFU",
@@ -38,7 +38,7 @@
       "type": "stream",
       "duration": 10343,
       "status": "past",
-      "scheduledStart": "2026-07-06T10:00:00.000Z"
+      "scheduledStart": "2026-07-06T10:00:00Z"
     },
     {
       "id": "KnktV4SgC_k",
@@ -48,7 +48,7 @@
       "type": "stream",
       "duration": 3454,
       "status": "past",
-      "scheduledStart": "2026-07-02T09:00:00.000Z"
+      "scheduledStart": "2026-07-02T09:00:00Z"
     },
     {
       "id": "MAfmPk0cqd8",
@@ -73,10 +73,10 @@
       "title": "【 メン限 】お掃除とカメレオン【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published": "2026-06-30T05:48:31.000Z",
       "thumbnail": "https://i.ytimg.com/vi/pCfZYi_aVro/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 12254,
       "status": "past",
-      "scheduledStart": "2026-06-30T10:00:00.000Z"
+      "scheduledStart": "2026-06-30T10:00:00Z"
     },
     {
       "id": "4flP14V9uRI",
@@ -86,7 +86,7 @@
       "type": "stream",
       "duration": 6618,
       "status": "past",
-      "scheduledStart": "2026-06-29T12:00:00.000Z"
+      "scheduledStart": "2026-06-29T12:00:00Z"
     },
     {
       "id": "jqIF3RnMpY8",
@@ -105,7 +105,7 @@
       "type": "stream",
       "duration": 11620,
       "status": "past",
-      "scheduledStart": "2026-06-27T05:00:00.000Z"
+      "scheduledStart": "2026-06-27T05:00:00Z"
     },
     {
       "id": "O998m8gWbFo",
@@ -113,7 +113,9 @@
       "published": "2026-06-26T14:00:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/O998m8gWbFo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6871
+      "duration": 6871,
+      "status": "past",
+      "scheduledStart": "2026-06-26T11:00:00Z"
     },
     {
       "id": "u9lKyUg-h-s",
@@ -256,7 +258,7 @@
       "title": "【 全部俺 】 #GREATEST リレーダンスで踊ってみた😎【 音乃瀬奏 】#shorts #hololive #dance",
       "published": "2026-06-09T09:28:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/irIGA7HBZuA/maxresdefault.jpg",
-      "type": "short",
+      "type": "stream",
       "duration": 36
     },
     {
@@ -8994,7 +8996,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-09T15:00:00.000Z"
+      "scheduledStart": "2026-09-09T15:00:00Z"
     },
     {
       "id": "eytPidhJ6cI",

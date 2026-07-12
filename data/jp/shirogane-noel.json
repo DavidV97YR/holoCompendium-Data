@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0"
   },
-  "lastUpdated": "2026-07-11T15:25:25.777Z",
+  "lastUpdated": "2026-07-12T01:05:18.579Z",
   "videoCount": 1745,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 10216,
       "status": "past",
-      "scheduledStart": "2026-07-11T12:00:00.000Z"
+      "scheduledStart": "2026-07-11T12:00:00Z"
     },
     {
       "id": "NUDjV2_dwBc",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/NUDjV2_dwBc/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-12T01:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-07-12T01:00:00Z"
     },
     {
       "id": "UKBldVNiN6M",
@@ -38,14 +38,14 @@
       "type": "stream",
       "duration": 17248,
       "status": "past",
-      "scheduledStart": "2026-07-11T02:00:00.000Z"
+      "scheduledStart": "2026-07-11T02:00:00Z"
     },
     {
       "id": "jlcroClkbWs",
       "title": "【お姉さま♡ラヴコール】ラプちゃんのお姉さまはこの私♡#白銀ノエル #vtuber #shorts #ラプラスダークネス",
       "published": "2026-07-08T03:15:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jlcroClkbWs/maxresdefault.jpg",
-      "type": "stream",
+      "type": "short",
       "duration": 32,
       "status": "past"
     },
@@ -57,7 +57,7 @@
       "type": "stream",
       "duration": 8329,
       "status": "past",
-      "scheduledStart": "2026-07-07T13:00:00.000Z"
+      "scheduledStart": "2026-07-07T13:00:00Z"
     },
     {
       "id": "d9OB_x8JVfc",
@@ -67,17 +67,17 @@
       "type": "stream",
       "duration": 11395,
       "status": "past",
-      "scheduledStart": "2026-07-05T01:00:00.000Z"
+      "scheduledStart": "2026-07-05T01:00:00Z"
     },
     {
       "id": "ewyIDh7o_H8",
       "title": "【ASMR】季節の変わり目にお耳も心も癒される吐息♡囁き♡耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
       "published": "2026-07-04T14:56:50.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ewyIDh7o_H8/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 2355,
       "status": "past",
-      "scheduledStart": "2026-07-05T14:00:00.000Z"
+      "scheduledStart": "2026-07-05T14:00:00Z"
     },
     {
       "id": "UTWVQkbkjJI",
@@ -87,7 +87,7 @@
       "type": "stream",
       "duration": 8737,
       "status": "past",
-      "scheduledStart": "2026-07-04T12:00:00.000Z"
+      "scheduledStart": "2026-07-04T12:00:00Z"
     },
     {
       "id": "CgqV9sGvgo4",
@@ -103,10 +103,10 @@
       "title": "【メンバー限定】お仕事終わりにちょっとだけお喋り🍵【白銀ノエル/ホロライブ】",
       "published": "2026-06-30T08:18:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/T3KHXHNsO84/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 5093,
       "status": "past",
-      "scheduledStart": "2026-06-30T13:00:00.000Z"
+      "scheduledStart": "2026-06-30T13:00:00Z"
     },
     {
       "id": "Vk4AwNOFvwM",
@@ -116,7 +116,7 @@
       "type": "stream",
       "duration": 7217,
       "status": "past",
-      "scheduledStart": "2026-06-28T12:00:00.000Z"
+      "scheduledStart": "2026-06-28T12:00:00Z"
     },
     {
       "id": "99f7sLRAHHM",
@@ -126,7 +126,7 @@
       "type": "stream",
       "duration": 7781,
       "status": "past",
-      "scheduledStart": "2026-06-28T01:00:00.000Z"
+      "scheduledStart": "2026-06-28T01:00:00Z"
     },
     {
       "id": "TrrD5iQGCGA",
@@ -136,7 +136,7 @@
       "type": "stream",
       "duration": 6868,
       "status": "past",
-      "scheduledStart": "2026-06-27T02:00:00.000Z"
+      "scheduledStart": "2026-06-27T02:00:00Z"
     },
     {
       "id": "NlbAbj6Njxg",
@@ -146,7 +146,7 @@
       "type": "video",
       "duration": 2091,
       "status": "past",
-      "scheduledStart": "2026-06-26T10:00:00.000Z"
+      "scheduledStart": "2026-06-26T10:00:00Z"
     },
     {
       "id": "OnzyCcj3-70",
@@ -156,7 +156,7 @@
       "type": "stream",
       "duration": 5751,
       "status": "past",
-      "scheduledStart": "2026-06-25T12:00:00.000Z"
+      "scheduledStart": "2026-06-25T12:00:00Z"
     },
     {
       "id": "OifuuDe6tKI",
@@ -3489,7 +3489,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-24T03:00:00.000Z"
+      "scheduledStart": "2026-11-24T03:00:00Z"
     },
     {
       "id": "SJTIUeh0s2Y",

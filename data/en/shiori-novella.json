@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
     "bannerUrl": "https://yt3.googleusercontent.com/ZxVUd_igMHK3L8yrZ07icqzCK7BtWRtu1J2DKh6zzGOAHgM50Mb7G73uMF9TmSBUJQgMWAZ9=s0"
   },
-  "lastUpdated": "2026-07-11T23:57:16.127Z",
+  "lastUpdated": "2026-07-12T01:44:43.776Z",
   "videoCount": 972,
   "videos": [
     {
@@ -27,7 +27,7 @@
       "type": "stream",
       "duration": 3479,
       "status": "past",
-      "scheduledStart": "2026-07-11T21:00:00.000Z"
+      "scheduledStart": "2026-07-11T21:00:00Z"
     },
     {
       "id": "JNuifWynpXo",
@@ -37,7 +37,7 @@
       "type": "stream",
       "duration": 9143,
       "status": "past",
-      "scheduledStart": "2026-07-10T23:00:00.000Z"
+      "scheduledStart": "2026-07-10T23:00:00Z"
     },
     {
       "id": "JhNms3qc_IM",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 6882,
       "status": "past",
-      "scheduledStart": "2026-07-10T02:00:00.000Z"
+      "scheduledStart": "2026-07-10T02:00:00Z"
     },
     {
       "id": "Nd9rzBUcOHA",
@@ -57,7 +57,7 @@
       "type": "stream",
       "duration": 8882,
       "status": "past",
-      "scheduledStart": "2026-07-08T21:00:00.000Z"
+      "scheduledStart": "2026-07-08T21:00:00Z"
     },
     {
       "id": "T2S3E2II7qk",
@@ -65,7 +65,8 @@
       "published": "2026-07-06T08:44:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/T2S3E2II7qk/maxresdefault.jpg",
       "type": "member",
-      "duration": 382
+      "duration": 382,
+      "status": "past"
     },
     {
       "id": "rV-yDqh9k4o",
@@ -93,7 +94,7 @@
       "type": "stream",
       "duration": 8167,
       "status": "past",
-      "scheduledStart": "2026-06-30T00:00:00.000Z"
+      "scheduledStart": "2026-06-30T00:00:00Z"
     },
     {
       "id": "EscDjFd5sZo",
@@ -103,7 +104,7 @@
       "type": "stream",
       "duration": 11937,
       "status": "past",
-      "scheduledStart": "2026-06-28T20:00:00.000Z"
+      "scheduledStart": "2026-06-28T20:00:00Z"
     },
     {
       "id": "3rjqvgICTes",
@@ -113,7 +114,7 @@
       "type": "member",
       "duration": 11941,
       "status": "past",
-      "scheduledStart": "2026-06-27T00:45:00.000Z"
+      "scheduledStart": "2026-06-27T00:45:00Z"
     },
     {
       "id": "Nn17wL6VsCQ",
@@ -9358,7 +9359,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-05-03T02:00:00.000Z"
+      "scheduledStart": "2027-05-03T02:00:00Z"
     },
     {
       "id": "rVNL6MJBQvk",

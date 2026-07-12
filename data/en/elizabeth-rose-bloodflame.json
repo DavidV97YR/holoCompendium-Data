@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
     "bannerUrl": "https://yt3.googleusercontent.com/wkioFy6NFpeZJi6LkB521yFmJxPhvUvunQyVLkGJqXszKiffPUtfeICzg0ZPxOI_NTHVBdH2dxc=s0"
   },
-  "lastUpdated": "2026-07-10T14:00:34.353Z",
+  "lastUpdated": "2026-07-12T01:47:47.257Z",
   "videoCount": 313,
   "videos": [
     {
@@ -36,7 +36,7 @@
       "type": "stream",
       "duration": 9485,
       "status": "past",
-      "scheduledStart": "2026-06-30T00:00:00.000Z"
+      "scheduledStart": "2026-06-30T00:00:00Z"
     },
     {
       "id": "ypRMJ19Xsfk",
@@ -55,17 +55,17 @@
       "type": "stream",
       "duration": 5569,
       "status": "past",
-      "scheduledStart": "2026-06-28T18:00:00.000Z"
+      "scheduledStart": "2026-06-28T18:00:00Z"
     },
     {
       "id": "RCcRBfYDEZE",
       "title": "【MEMBERSHIP】Art with the community ~! 💄",
       "published": "2026-06-28T05:08:05.000Z",
       "thumbnail": "https://i.ytimg.com/vi/RCcRBfYDEZE/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 7710,
       "status": "past",
-      "scheduledStart": "2026-06-28T20:00:00.000Z"
+      "scheduledStart": "2026-06-28T20:00:00Z"
     },
     {
       "id": "jJFEMT7r9Zs",
@@ -75,7 +75,7 @@
       "type": "stream",
       "duration": 9084,
       "status": "past",
-      "scheduledStart": "2026-06-26T19:00:00.000Z"
+      "scheduledStart": "2026-06-26T19:00:00Z"
     },
     {
       "id": "d0MCMEHJ4Eo",
@@ -85,7 +85,7 @@
       "type": "stream",
       "duration": 6948,
       "status": "past",
-      "scheduledStart": "2026-06-25T21:00:00.000Z"
+      "scheduledStart": "2026-06-25T21:00:00Z"
     },
     {
       "id": "Y8Vni2s3epM",
@@ -334,7 +334,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-19T09:00:00.000Z"
+      "scheduledStart": "2027-08-19T09:00:00Z"
     },
     {
       "id": "SmAwXFCHd5U",

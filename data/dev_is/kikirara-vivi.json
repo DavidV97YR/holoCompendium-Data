@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A",
     "bannerUrl": "https://yt3.googleusercontent.com/k1vCsIbtcRaU9OwygWrxTpMWhbsqQO0qC0wm0X31nBYmkbwmqG3TAt1HdM3Z4JWc5YqGz2mLZ84=s0"
   },
-  "lastUpdated": "2026-07-12T00:06:55.555Z",
+  "lastUpdated": "2026-07-12T01:56:06.725Z",
   "videoCount": 1041,
   "videos": [
+    {
+      "id": "1V1pB32e2x8",
+      "title": "【W杯同時視聴】ノルウェーVSイングランド！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+      "published": "2026-07-12T00:10:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/1V1pB32e2x8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 11727,
+      "status": "past",
+      "scheduledStart": "2026-07-11T20:45:00Z"
+    },
     {
       "id": "neJ8GlmqrUw",
       "title": "【W杯同時視聴】アルゼンチンVSスイス!ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
@@ -17,18 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/neJ8GlmqrUw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-12T00:45:00.000Z"
-    },
-    {
-      "id": "1V1pB32e2x8",
-      "title": "【W杯同時視聴】ノルウェーVSイングランド!みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-      "published": "2026-07-11T13:09:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/1V1pB32e2x8/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 11727,
-      "status": "past",
-      "scheduledStart": "2026-07-11T20:45:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-07-12T00:45:00Z"
     },
     {
       "id": "8coIKIDe2pQ",
@@ -56,7 +56,7 @@
       "type": "stream",
       "duration": 8892,
       "status": "past",
-      "scheduledStart": "2026-07-10T18:45:00.000Z"
+      "scheduledStart": "2026-07-10T18:45:00Z"
     },
     {
       "id": "WH-qpOOauzw",
@@ -66,7 +66,7 @@
       "type": "stream",
       "duration": 9280,
       "status": "past",
-      "scheduledStart": "2026-07-10T09:00:00.000Z"
+      "scheduledStart": "2026-07-10T09:00:00Z"
     },
     {
       "id": "fDJStsfXDOs",
@@ -85,7 +85,7 @@
       "type": "stream",
       "duration": 8784,
       "status": "past",
-      "scheduledStart": "2026-07-09T19:45:00.000Z"
+      "scheduledStart": "2026-07-09T19:45:00Z"
     },
     {
       "id": "nfez0CQ-yro",
@@ -95,7 +95,7 @@
       "type": "stream",
       "duration": 7601,
       "status": "past",
-      "scheduledStart": "2026-07-09T09:00:00.000Z"
+      "scheduledStart": "2026-07-09T09:00:00Z"
     },
     {
       "id": "k5DB67RVc74",
@@ -105,6 +105,16 @@
       "type": "short",
       "duration": 17,
       "status": "past"
+    },
+    {
+      "id": "zrTA0d2FnR0",
+      "title": "緊急🚨ゲリララジオ📻Vivi Ch. 綺々羅々ヴィヴィ がライブ配信中!",
+      "published": "2026-07-08T10:06:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/zrTA0d2FnR0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 1748,
+      "status": "past",
+      "scheduledStart": "2026-01-21T12:38:39Z"
     },
     {
       "id": "qXh3oBKM9zU",
@@ -123,7 +133,7 @@
       "type": "stream",
       "duration": 6704,
       "status": "past",
-      "scheduledStart": "2026-07-07T09:00:00.000Z"
+      "scheduledStart": "2026-07-07T09:00:00Z"
     },
     {
       "id": "JKk9J0Re3c8",
@@ -142,7 +152,7 @@
       "type": "stream",
       "duration": 6639,
       "status": "past",
-      "scheduledStart": "2026-07-06T09:00:00.000Z"
+      "scheduledStart": "2026-07-06T09:00:00Z"
     },
     {
       "id": "XXORXgMCGhM",
@@ -161,7 +171,7 @@
       "type": "stream",
       "duration": 9419,
       "status": "past",
-      "scheduledStart": "2026-07-05T19:45:00.000Z"
+      "scheduledStart": "2026-07-05T19:45:00Z"
     },
     {
       "id": "AtMkKpVDVKo",
@@ -171,7 +181,7 @@
       "type": "stream",
       "duration": 4149,
       "status": "past",
-      "scheduledStart": "2026-07-05T09:00:00.000Z"
+      "scheduledStart": "2026-07-05T09:00:00Z"
     },
     {
       "id": "6Ae1dgSkWGE",
@@ -190,7 +200,7 @@
       "type": "stream",
       "duration": 12279,
       "status": "past",
-      "scheduledStart": "2026-07-04T08:10:00.000Z"
+      "scheduledStart": "2026-07-04T08:10:00Z"
     },
     {
       "id": "nYXLY1nDkmA",
@@ -209,7 +219,7 @@
       "type": "stream",
       "duration": 21983,
       "status": "past",
-      "scheduledStart": "2026-07-03T09:00:00.000Z"
+      "scheduledStart": "2026-07-03T09:00:00Z"
     },
     {
       "id": "J5sKYx1Rko4",
@@ -228,7 +238,7 @@
       "type": "stream",
       "duration": 11729,
       "status": "past",
-      "scheduledStart": "2026-07-02T08:30:00.000Z"
+      "scheduledStart": "2026-07-02T08:30:00Z"
     },
     {
       "id": "MHj7xj-CBXI",
@@ -247,7 +257,7 @@
       "type": "stream",
       "duration": 7971,
       "status": "past",
-      "scheduledStart": "2026-07-01T09:00:00.000Z"
+      "scheduledStart": "2026-07-01T09:00:00Z"
     },
     {
       "id": "taSEy3WsF5I",
@@ -265,7 +275,8 @@
       "thumbnail": "https://i.ytimg.com/vi/xGGW8LQQjLs/maxresdefault.jpg",
       "type": "stream",
       "duration": 12831,
-      "status": "new"
+      "status": "past",
+      "scheduledStart": "2026-06-30T12:00:00Z"
     },
     {
       "id": "ruxXMQDvXu4",
@@ -275,7 +286,7 @@
       "type": "stream",
       "duration": 6817,
       "status": "past",
-      "scheduledStart": "2026-06-30T09:00:00.000Z"
+      "scheduledStart": "2026-06-30T09:00:00Z"
     },
     {
       "id": "_Y1cUrMq0TU",
@@ -294,7 +305,7 @@
       "type": "stream",
       "duration": 11817,
       "status": "past",
-      "scheduledStart": "2026-06-29T12:00:00.000Z"
+      "scheduledStart": "2026-06-29T12:00:00Z"
     },
     {
       "id": "dzp8L8tipmU",
@@ -313,7 +324,7 @@
       "type": "stream",
       "duration": 754,
       "status": "past",
-      "scheduledStart": "2026-06-28T12:30:00.000Z"
+      "scheduledStart": "2026-06-28T12:30:00Z"
     },
     {
       "id": "YFyMMVLM4AQ",
@@ -321,7 +332,19 @@
       "published": "2026-06-28T12:40:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YFyMMVLM4AQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 12389
+      "duration": 12389,
+      "status": "past",
+      "scheduledStart": "2026-06-28T12:45:30Z"
+    },
+    {
+      "id": "0MBS8MolGPQ",
+      "title": "【 縦型雑談 】みんなとゆったり話したい!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published": "2026-06-28T12:37:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/0MBS8MolGPQ/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 13626,
+      "status": "past",
+      "scheduledStart": "2026-06-28T08:32:47.000Z"
     },
     {
       "id": "N5FbPKAb184",
@@ -340,7 +363,7 @@
       "type": "stream",
       "duration": 703,
       "status": "past",
-      "scheduledStart": "2026-06-27T12:00:00.000Z"
+      "scheduledStart": "2026-06-27T12:00:00Z"
     },
     {
       "id": "YhnCyYGTPyg",
@@ -348,7 +371,9 @@
       "published": "2026-06-27T12:13:16+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YhnCyYGTPyg/maxresdefault.jpg",
       "type": "member",
-      "duration": 18523
+      "duration": 18523,
+      "status": "past",
+      "scheduledStart": "2026-06-27T12:18:16Z"
     },
     {
       "id": "c976rdyC99A",
@@ -358,14 +383,14 @@
       "type": "stream",
       "duration": 5922,
       "status": "past",
-      "scheduledStart": "2026-06-27T08:30:00.000Z"
+      "scheduledStart": "2026-06-27T08:30:00Z"
     },
     {
       "id": "KlzUqQPar4o",
       "title": "お姫様の作り方👸 #イコラブ 【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts",
       "published": "2026-06-27T08:00:19.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KlzUqQPar4o/maxresdefault.jpg",
-      "type": "stream",
+      "type": "short",
       "duration": 36,
       "status": "past"
     },
@@ -377,14 +402,14 @@
       "type": "stream",
       "duration": 13328,
       "status": "past",
-      "scheduledStart": "2026-06-26T09:00:00.000Z"
+      "scheduledStart": "2026-06-26T09:00:00Z"
     },
     {
       "id": "JY9BjBZTYmc",
       "title": "123🎶ときはなて!踊ってみた【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts",
       "published": "2026-06-26T08:00:39.000Z",
       "thumbnail": "https://i.ytimg.com/vi/JY9BjBZTYmc/maxresdefault.jpg",
-      "type": "stream",
+      "type": "short",
       "duration": 14,
       "status": "past"
     },
@@ -396,7 +421,7 @@
       "type": "stream",
       "duration": 8411,
       "status": "past",
-      "scheduledStart": "2026-06-25T22:45:00.000Z"
+      "scheduledStart": "2026-06-25T22:45:00Z"
     },
     {
       "id": "EIlBB3ZHsMg",
@@ -512,16 +537,6 @@
       "type": "stream",
       "duration": 10081,
       "status": "past"
-    },
-    {
-      "id": "0MBS8MolGPQ",
-      "title": "【 縦型雑談 】みんなとゆったり話したい!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "published": "2026-06-21T09:55:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/0MBS8MolGPQ/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 13626,
-      "status": "past",
-      "scheduledStart": "2026-06-28T08:32:47.000Z"
     },
     {
       "id": "ilPtkvD-A-Q",
@@ -3779,15 +3794,6 @@
       "duration": 7216,
       "status": "past",
       "scheduledStart": "2026-01-21T12:45:00Z"
-    },
-    {
-      "id": "zrTA0d2FnR0",
-      "title": "緊急🚨ゲリララジオ📻Vivi Ch. 綺々羅々ヴィヴィ がライブ配信中!",
-      "published": "2026-01-21T12:38:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/zrTA0d2FnR0/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 1748,
-      "status": "past"
     },
     {
       "id": "ruDwPvyvHYo",
@@ -9476,7 +9482,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00.000Z"
+      "scheduledStart": "2027-12-31T14:45:00Z"
     },
     {
       "id": "SrH6XQ8H9oo",

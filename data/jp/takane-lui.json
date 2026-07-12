@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-07-11T19:39:11.273Z",
+  "lastUpdated": "2026-07-12T01:22:29.422Z",
   "videoCount": 2312,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T05:00:00.000Z"
+      "scheduledStart": "2026-07-12T05:00:00Z"
     },
     {
       "id": "ajQK6LLDLyk",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ajQK6LLDLyk/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-12T00:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-07-12T00:00:00Z"
     },
     {
       "id": "W6iKva0sV-M",
@@ -38,7 +38,7 @@
       "type": "stream",
       "duration": 22631,
       "status": "past",
-      "scheduledStart": "2026-07-11T03:00:00.000Z"
+      "scheduledStart": "2026-07-11T03:00:00Z"
     },
     {
       "id": "qUrzo5DSfWM",
@@ -48,7 +48,7 @@
       "type": "stream",
       "duration": 3677,
       "status": "past",
-      "scheduledStart": "2026-07-10T16:30:00.000Z"
+      "scheduledStart": "2026-07-10T16:30:00Z"
     },
     {
       "id": "LyxvRkQycus",
@@ -58,7 +58,7 @@
       "type": "stream",
       "duration": 5054,
       "status": "past",
-      "scheduledStart": "2026-07-10T14:00:00.000Z"
+      "scheduledStart": "2026-07-10T14:00:00Z"
     },
     {
       "id": "pJeJcX12n50",
@@ -68,7 +68,7 @@
       "type": "stream",
       "duration": 12775,
       "status": "past",
-      "scheduledStart": "2026-07-10T09:00:00.000Z"
+      "scheduledStart": "2026-07-10T09:00:00Z"
     },
     {
       "id": "sgwshFCjyX8",
@@ -96,7 +96,7 @@
       "type": "member",
       "duration": 8359,
       "status": "past",
-      "scheduledStart": "2026-07-08T14:00:00.000Z"
+      "scheduledStart": "2026-07-08T14:00:00Z"
     },
     {
       "id": "rM_JNZ-Zqmc",
@@ -106,7 +106,7 @@
       "type": "stream",
       "duration": 10901,
       "status": "past",
-      "scheduledStart": "2026-07-08T08:00:00.000Z"
+      "scheduledStart": "2026-07-08T08:00:00Z"
     },
     {
       "id": "yVV9hQjLfpg",
@@ -134,7 +134,7 @@
       "type": "stream",
       "duration": 6148,
       "status": "past",
-      "scheduledStart": "2026-07-05T05:30:00.000Z"
+      "scheduledStart": "2026-07-05T05:30:00Z"
     },
     {
       "id": "otPR2IOrDjE",
@@ -144,7 +144,7 @@
       "type": "stream",
       "duration": 11685,
       "status": "past",
-      "scheduledStart": "2026-07-05T00:00:00.000Z"
+      "scheduledStart": "2026-07-05T00:00:00Z"
     },
     {
       "id": "do0PGiL22o0",
@@ -163,7 +163,7 @@
       "type": "stream",
       "duration": 17780,
       "status": "past",
-      "scheduledStart": "2026-07-04T01:00:00.000Z"
+      "scheduledStart": "2026-07-04T01:00:00Z"
     },
     {
       "id": "VJcNK87I8Do",
@@ -173,7 +173,7 @@
       "type": "stream",
       "duration": 5225,
       "status": "past",
-      "scheduledStart": "2026-07-03T14:00:00.000Z"
+      "scheduledStart": "2026-07-03T14:00:00Z"
     },
     {
       "id": "rImJJGtuC44",
@@ -181,7 +181,9 @@
       "published": "2026-07-03T12:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/rImJJGtuC44/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13483
+      "duration": 13483,
+      "status": "past",
+      "scheduledStart": "2026-07-03T08:00:00Z"
     },
     {
       "id": "ofsc2W9AQHw",
@@ -218,7 +220,7 @@
       "type": "stream",
       "duration": 8737,
       "status": "past",
-      "scheduledStart": "2026-06-28T05:00:00.000Z"
+      "scheduledStart": "2026-06-28T05:00:00Z"
     },
     {
       "id": "ObW6CLETbqk",
@@ -228,7 +230,7 @@
       "type": "stream",
       "duration": 7507,
       "status": "past",
-      "scheduledStart": "2026-06-27T10:00:00.000Z"
+      "scheduledStart": "2026-06-27T10:00:00Z"
     },
     {
       "id": "Q9uYZaIWZmY",
@@ -238,7 +240,7 @@
       "type": "stream",
       "duration": 22825,
       "status": "past",
-      "scheduledStart": "2026-06-27T03:00:00.000Z"
+      "scheduledStart": "2026-06-27T03:00:00Z"
     },
     {
       "id": "1qp52YrGtnI",
@@ -512,7 +514,7 @@
       "title": "【Membership限定】差分たっくさん!!3D新衣装撮影会📷✨ 【鷹嶺ルイ/ホロライブ】",
       "published": "2026-06-11T03:14:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ChOIlaPVsKE/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 1427,
       "status": "past",
       "scheduledStart": "2026-06-11T12:20:00Z"

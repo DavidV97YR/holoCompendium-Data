@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
     "bannerUrl": "https://yt3.googleusercontent.com/O8AT2TqQ__ZxIZcr4F5kTBGeEXe-1sdEfVAZX7L7znev8O1gtCqndxHUrGOOycVqZ9W3A9Nb=s0"
   },
-  "lastUpdated": "2026-07-10T07:58:19.342Z",
+  "lastUpdated": "2026-07-12T01:45:55.310Z",
   "videoCount": 656,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 7757,
       "status": "past",
-      "scheduledStart": "2026-07-10T01:00:00.000Z"
+      "scheduledStart": "2026-07-10T01:00:00Z"
     },
     {
       "id": "9Ac1uamTQtg",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/9Ac1uamTQtg/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-12T01:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-07-12T01:00:00Z"
     },
     {
       "id": "Zn4d54bMmwo",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 7910,
       "status": "past",
-      "scheduledStart": "2026-06-30T00:00:00.000Z"
+      "scheduledStart": "2026-06-30T00:00:00Z"
     },
     {
       "id": "ZINB546CMEw",
@@ -75,7 +75,7 @@
       "type": "stream",
       "duration": 19164,
       "status": "past",
-      "scheduledStart": "2026-06-27T01:00:00.000Z"
+      "scheduledStart": "2026-06-27T01:00:00Z"
     },
     {
       "id": "ULuI4Ktpea8",
@@ -127,7 +127,7 @@
       "title": "FINAL FANTASY VII REVELATION!!!!!!!!! | Members-Only",
       "published": "2026-06-05T14:56:14.000Z",
       "thumbnail": "https://i.ytimg.com/vi/GNzyXYyI4nc/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 7497,
       "status": "past",
       "scheduledStart": "2026-06-06T01:00:00Z"
@@ -6318,7 +6318,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-05-31T04:45:00.000Z"
+      "scheduledStart": "2028-05-31T04:45:00Z"
     },
     {
       "id": "5BdUa7aAgnM",

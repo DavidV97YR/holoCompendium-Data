@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-07-11T18:01:31.743Z",
+  "lastUpdated": "2026-07-12T01:49:02.077Z",
   "videoCount": 508,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T15:00:00.000Z"
+      "scheduledStart": "2026-07-12T15:00:00Z"
     },
     {
       "id": "eRbxlDpxIPc",
@@ -28,7 +28,7 @@
       "type": "member",
       "duration": 10217,
       "status": "past",
-      "scheduledStart": "2026-07-11T14:00:00.000Z"
+      "scheduledStart": "2026-07-11T14:00:00Z"
     },
     {
       "id": "cYMepl6QWlQ",
@@ -38,7 +38,7 @@
       "type": "stream",
       "duration": 15530,
       "status": "past",
-      "scheduledStart": "2026-07-10T14:00:00.000Z"
+      "scheduledStart": "2026-07-10T14:00:00Z"
     },
     {
       "id": "VaoSrki2vKE",
@@ -57,7 +57,7 @@
       "type": "stream",
       "duration": 8799,
       "status": "past",
-      "scheduledStart": "2026-06-30T14:00:00.000Z"
+      "scheduledStart": "2026-06-30T14:00:00Z"
     },
     {
       "id": "Bkd_sRV_CU8",
@@ -67,7 +67,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-07-10T14:00:00.000Z"
+      "scheduledStart": "2027-07-10T14:00:00Z"
     },
     {
       "id": "WeOlr8WBLDw",
@@ -77,7 +77,7 @@
       "type": "stream",
       "duration": 13923,
       "status": "past",
-      "scheduledStart": "2026-06-27T14:00:00.000Z"
+      "scheduledStart": "2026-06-27T14:00:00Z"
     },
     {
       "id": "zz1EQBjkjkw",
@@ -96,7 +96,7 @@
       "type": "stream",
       "duration": 11238,
       "status": "past",
-      "scheduledStart": "2026-06-25T11:00:00.000Z"
+      "scheduledStart": "2026-06-25T11:00:00Z"
     },
     {
       "id": "TVk1q6i08D8",
@@ -3350,7 +3350,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-25T14:20:00.000Z"
+      "scheduledStart": "2026-12-25T14:20:00Z"
     },
     {
       "id": "dXLjZ0WoC88",

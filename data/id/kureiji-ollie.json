@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-07-11T15:46:12.162Z",
+  "lastUpdated": "2026-07-12T01:30:59.899Z",
   "videoCount": 1731,
   "videos": [
     {
@@ -16,7 +16,9 @@
       "published": "2026-07-11T14:10:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xm8mKqg7mOI/maxresdefault.jpg",
       "type": "member",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-12T13:00:00Z"
     },
     {
       "id": "gij9NVZBqqU",
@@ -36,7 +38,7 @@
       "type": "stream",
       "duration": 11707,
       "status": "past",
-      "scheduledStart": "2026-07-09T12:30:00.000Z"
+      "scheduledStart": "2026-07-09T12:30:00Z"
     },
     {
       "id": "h6iL4-_bs38",
@@ -46,7 +48,7 @@
       "type": "stream",
       "duration": 4451,
       "status": "past",
-      "scheduledStart": "2026-07-06T02:00:00.000Z"
+      "scheduledStart": "2026-07-06T02:00:00Z"
     },
     {
       "id": "LYAl1tlseE4",
@@ -56,7 +58,7 @@
       "type": "stream",
       "duration": 11743,
       "status": "past",
-      "scheduledStart": "2026-07-05T02:30:00.000Z"
+      "scheduledStart": "2026-07-05T02:30:00Z"
     },
     {
       "id": "fbAn44xOKZ8",
@@ -66,7 +68,7 @@
       "type": "stream",
       "duration": 3803,
       "status": "past",
-      "scheduledStart": "2026-07-04T13:00:00.000Z"
+      "scheduledStart": "2026-07-04T13:00:00Z"
     },
     {
       "id": "CqjcC4yI6nc",
@@ -76,7 +78,7 @@
       "type": "stream",
       "duration": 10431,
       "status": "past",
-      "scheduledStart": "2026-07-04T02:30:00.000Z"
+      "scheduledStart": "2026-07-04T02:30:00Z"
     },
     {
       "id": "m-A5tI3quKA",
@@ -86,7 +88,7 @@
       "type": "stream",
       "duration": 11444,
       "status": "past",
-      "scheduledStart": "2026-07-03T13:00:00.000Z"
+      "scheduledStart": "2026-07-03T13:00:00Z"
     },
     {
       "id": "I0CpLFqA5c8",
@@ -105,7 +107,7 @@
       "type": "stream",
       "duration": 8491,
       "status": "past",
-      "scheduledStart": "2026-07-03T02:00:00.000Z"
+      "scheduledStart": "2026-07-03T02:00:00Z"
     },
     {
       "id": "GA8hOzQxY7U",
@@ -113,7 +115,9 @@
       "published": "2026-07-01T16:57:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GA8hOzQxY7U/maxresdefault.jpg",
       "type": "member",
-      "duration": 14471
+      "duration": 14471,
+      "status": "past",
+      "scheduledStart": "2026-07-05T13:00:00Z"
     },
     {
       "id": "1YmpbSWWDaI",
@@ -123,7 +127,7 @@
       "type": "stream",
       "duration": 6624,
       "status": "past",
-      "scheduledStart": "2026-06-30T12:00:00.000Z"
+      "scheduledStart": "2026-06-30T12:00:00Z"
     },
     {
       "id": "b7sighIuPIU",
@@ -142,7 +146,7 @@
       "type": "stream",
       "duration": 5163,
       "status": "past",
-      "scheduledStart": "2026-06-28T02:00:00.000Z"
+      "scheduledStart": "2026-06-28T02:00:00Z"
     },
     {
       "id": "Ryx2HuMhN8M",
@@ -152,7 +156,7 @@
       "type": "stream",
       "duration": 4099,
       "status": "past",
-      "scheduledStart": "2026-06-28T11:00:00.000Z"
+      "scheduledStart": "2026-06-28T11:00:00Z"
     },
     {
       "id": "mUD4CqJ265s",
@@ -160,7 +164,9 @@
       "published": "2026-06-27T17:32:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/mUD4CqJ265s/maxresdefault.jpg",
       "type": "member",
-      "duration": 13571
+      "duration": 13571,
+      "status": "past",
+      "scheduledStart": "2026-06-28T13:00:00Z"
     },
     {
       "id": "-cx6R5q5reg",
@@ -170,7 +176,7 @@
       "type": "stream",
       "duration": 10261,
       "status": "past",
-      "scheduledStart": "2026-06-27T13:00:00.000Z"
+      "scheduledStart": "2026-06-27T13:00:00Z"
     },
     {
       "id": "E8UhEzoDaI0",
@@ -180,7 +186,7 @@
       "type": "stream",
       "duration": 6081,
       "status": "past",
-      "scheduledStart": "2026-06-25T14:00:00.000Z"
+      "scheduledStart": "2026-06-25T14:00:00Z"
     },
     {
       "id": "2zI4rSHj3os",
@@ -373,7 +379,7 @@
       "title": "【ZOMILY - FREETALK】 IF YOU DON'T COME YOU HATE ME 【Kureiji Ollie】",
       "published": "2026-06-06T06:38:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/CYRIvch8nlA/maxresdefault.jpg",
-      "type": "member",
+      "type": "stream",
       "duration": 18436
     },
     {
@@ -13197,7 +13203,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-01-27T05:00:00.000Z"
+      "scheduledStart": "2028-01-27T05:00:00Z"
     },
     {
       "id": "WLRBngUXWGY",

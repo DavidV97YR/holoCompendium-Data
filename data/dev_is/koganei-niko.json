@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q",
     "bannerUrl": "https://yt3.googleusercontent.com/If9aCx40rDmjZvnbZwzJZ40YR1k9tFzwOuq1ozbpn0RdW9XtBld7_MblDMmMHWzZU4r_NRDLwdA=s0"
   },
-  "lastUpdated": "2026-07-11T16:05:53.675Z",
+  "lastUpdated": "2026-07-12T01:53:53.625Z",
   "videoCount": 736,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T02:00:00.000Z"
+      "scheduledStart": "2026-07-12T02:00:00Z"
     },
     {
       "id": "aTKVYDzsdws",
@@ -28,7 +28,7 @@
       "type": "member",
       "duration": 5483,
       "status": "past",
-      "scheduledStart": "2026-07-11T13:30:00.000Z"
+      "scheduledStart": "2026-07-11T13:30:00Z"
     },
     {
       "id": "eQI6BwAzBxY",
@@ -38,7 +38,7 @@
       "type": "stream",
       "duration": 3622,
       "status": "past",
-      "scheduledStart": "2026-07-11T00:00:00.000Z"
+      "scheduledStart": "2026-07-11T00:00:00Z"
     },
     {
       "id": "qfGoQ_PE6hg",
@@ -48,7 +48,7 @@
       "type": "stream",
       "duration": 2259,
       "status": "past",
-      "scheduledStart": "2026-07-10T09:00:00.000Z"
+      "scheduledStart": "2026-07-10T09:00:00Z"
     },
     {
       "id": "JCQRLGhT2TM",
@@ -58,7 +58,7 @@
       "type": "stream",
       "duration": 5150,
       "status": "past",
-      "scheduledStart": "2026-07-07T09:30:00.000Z"
+      "scheduledStart": "2026-07-07T09:30:00Z"
     },
     {
       "id": "AB6ht8g5Z3s",
@@ -68,17 +68,17 @@
       "type": "stream",
       "duration": 3628,
       "status": "past",
-      "scheduledStart": "2026-07-04T00:00:00.000Z"
+      "scheduledStart": "2026-07-04T00:00:00Z"
     },
     {
       "id": "tAZxSLRAEog",
       "title": "【スナックきわこ/メン限】担ちゃんたち...♥久しぶり....♥【きわこママ】",
       "published": "2026-07-03T09:35:56.000Z",
       "thumbnail": "https://i.ytimg.com/vi/tAZxSLRAEog/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 14955,
       "status": "past",
-      "scheduledStart": "2026-07-03T11:00:00.000Z"
+      "scheduledStart": "2026-07-03T11:00:00Z"
     },
     {
       "id": "mc3ugVL_RaE",
@@ -97,7 +97,7 @@
       "type": "stream",
       "duration": 5863,
       "status": "past",
-      "scheduledStart": "2026-07-02T06:31:37.000Z"
+      "scheduledStart": "2026-07-02T06:31:37Z"
     },
     {
       "id": "F2PCjO3lek0",
@@ -116,7 +116,7 @@
       "type": "stream",
       "duration": 2923,
       "status": "past",
-      "scheduledStart": "2026-06-30T10:00:00.000Z"
+      "scheduledStart": "2026-06-30T10:00:00Z"
     },
     {
       "id": "lldRTUJsZlE",
@@ -126,7 +126,7 @@
       "type": "stream",
       "duration": 3708,
       "status": "past",
-      "scheduledStart": "2026-06-28T00:00:00.000Z"
+      "scheduledStart": "2026-06-28T00:00:00Z"
     },
     {
       "id": "DiVL1hH2PjM",
@@ -136,14 +136,14 @@
       "type": "member",
       "duration": 5129,
       "status": "past",
-      "scheduledStart": "2026-06-26T13:30:00.000Z"
+      "scheduledStart": "2026-06-26T13:30:00Z"
     },
     {
       "id": "LIudb4mzvfY",
       "title": "本家さま エルフ/Ado",
       "published": "2026-06-23T10:31:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/LIudb4mzvfY/maxresdefault.jpg",
-      "type": "short",
+      "type": "member",
       "duration": 28,
       "status": "past"
     },
@@ -211,7 +211,7 @@
       "title": "エルフ/虎金妃笑虎(cover)",
       "published": "2026-06-19T10:38:47.000Z",
       "thumbnail": "https://i.ytimg.com/vi/0sSdbzWxciE/maxresdefault.jpg",
-      "type": "member",
+      "type": "stream",
       "duration": 43
     },
     {
@@ -238,7 +238,7 @@
       "title": "【メン限 】マシュマロ読みしちゃうぞー!【虎金妃笑虎】",
       "published": "2026-06-17T02:48:47.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1hgy__b_v0I/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 5276,
       "status": "past",
       "scheduledStart": "2026-06-17T13:00:00Z"
@@ -297,7 +297,7 @@
       "title": "【メン限/歌枠】担たちのためにうたうよ✨🌌【虎金妃笑虎】",
       "published": "2026-06-09T09:13:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/QmJzgYKGyBY/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 10213,
       "status": "past",
       "scheduledStart": "2026-06-09T11:00:00Z"

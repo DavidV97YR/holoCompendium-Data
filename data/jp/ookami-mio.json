@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-07-11T19:19:01.386Z",
+  "lastUpdated": "2026-07-12T00:57:59.427Z",
   "videoCount": 1595,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T04:00:00.000Z"
+      "scheduledStart": "2026-07-12T04:00:00Z"
     },
     {
       "id": "vhGo-ZnYPhY",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 16956,
       "status": "past",
-      "scheduledStart": "2026-07-11T04:00:00.000Z"
+      "scheduledStart": "2026-07-11T04:00:00Z"
     },
     {
       "id": "STHc-jJnhuQ",
@@ -38,7 +38,7 @@
       "type": "stream",
       "duration": 4785,
       "status": "past",
-      "scheduledStart": "2026-07-08T12:00:00.000Z"
+      "scheduledStart": "2026-07-08T12:00:00Z"
     },
     {
       "id": "LW7kBqQd7qg",
@@ -48,7 +48,7 @@
       "type": "stream",
       "duration": 12251,
       "status": "past",
-      "scheduledStart": "2026-06-30T11:00:00.000Z"
+      "scheduledStart": "2026-06-30T11:00:00Z"
     },
     {
       "id": "Mj86Wb1CWos",
@@ -56,7 +56,9 @@
       "published": "2026-06-29T12:13:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Mj86Wb1CWos/maxresdefault.jpg",
       "type": "member",
-      "duration": 3770
+      "duration": 3770,
+      "status": "past",
+      "scheduledStart": "2026-06-29T14:00:00Z"
     },
     {
       "id": "HEtXhtSxWWM",
@@ -66,7 +68,7 @@
       "type": "stream",
       "duration": 7405,
       "status": "past",
-      "scheduledStart": "2026-06-29T10:00:00.000Z"
+      "scheduledStart": "2026-06-29T10:00:00Z"
     },
     {
       "id": "Q5hVTKiT04s",
@@ -76,7 +78,7 @@
       "type": "stream",
       "duration": 4275,
       "status": "past",
-      "scheduledStart": "2026-06-28T22:30:00.000Z"
+      "scheduledStart": "2026-06-28T22:30:00Z"
     },
     {
       "id": "3UrhLQNJIk8",
@@ -86,17 +88,17 @@
       "type": "stream",
       "duration": 16777,
       "status": "past",
-      "scheduledStart": "2026-06-27T04:00:00.000Z"
+      "scheduledStart": "2026-06-27T04:00:00Z"
     },
     {
       "id": "wfW46coBaUk",
       "title": "【メンバーシップ限定】一緒につよいパソコンの音を聞いてみよう【月1ASMR(5月分)】",
       "published": "2026-06-26T10:13:57.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wfW46coBaUk/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 3037,
       "status": "past",
-      "scheduledStart": "2026-06-26T14:00:00.000Z"
+      "scheduledStart": "2026-06-26T14:00:00Z"
     },
     {
       "id": "ghNOj_SEims",

@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q",
     "bannerUrl": "https://yt3.googleusercontent.com/Mcxb7cXgFyaAngB1JLDa6tLaJXQXDiw9aMn9SlL922-yb3o0doUl3DxRisBlHHf0Y0ykf95rtQ=s0"
   },
-  "lastUpdated": "2026-07-10T08:03:48.060Z",
+  "lastUpdated": "2026-07-12T01:52:08.303Z",
   "videoCount": 1055,
   "videos": [
     {
@@ -26,7 +26,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wO05UY257Ig/maxresdefault.jpg",
       "type": "short",
       "duration": 39,
-      "status": "new"
+      "status": "past"
     },
     {
       "id": "LmLcTFr4oWw",
@@ -36,7 +36,7 @@
       "type": "stream",
       "duration": 4183,
       "status": "past",
-      "scheduledStart": "2026-07-06T13:00:00.000Z"
+      "scheduledStart": "2026-07-06T13:00:00Z"
     },
     {
       "id": "gacJXDHpC_s",
@@ -46,7 +46,7 @@
       "type": "stream",
       "duration": 18169,
       "status": "past",
-      "scheduledStart": "2026-07-05T10:00:00.000Z"
+      "scheduledStart": "2026-07-05T10:00:00Z"
     },
     {
       "id": "azcxHPeeTXA",
@@ -83,7 +83,7 @@
       "type": "stream",
       "duration": 9792,
       "status": "past",
-      "scheduledStart": "2026-07-01T15:00:00.000Z"
+      "scheduledStart": "2026-07-01T15:00:00Z"
     },
     {
       "id": "cG7f32SamIU",
@@ -92,7 +92,7 @@
       "thumbnail": "https://i.ytimg.com/vi/cG7f32SamIU/maxresdefault.jpg",
       "type": "short",
       "duration": 46,
-      "status": "new"
+      "status": "past"
     },
     {
       "id": "Wxn2M9twiXs",
@@ -102,7 +102,7 @@
       "type": "stream",
       "duration": 8729,
       "status": "past",
-      "scheduledStart": "2026-06-30T11:00:00.000Z"
+      "scheduledStart": "2026-06-30T11:00:00Z"
     },
     {
       "id": "d1M_4JYXZA0",
@@ -111,7 +111,7 @@
       "thumbnail": "https://i.ytimg.com/vi/d1M_4JYXZA0/maxresdefault.jpg",
       "type": "short",
       "duration": 34,
-      "status": "new"
+      "status": "past"
     },
     {
       "id": "q_l5MNBxulw",
@@ -121,7 +121,7 @@
       "type": "stream",
       "duration": 4949,
       "status": "past",
-      "scheduledStart": "2026-06-29T12:00:00.000Z"
+      "scheduledStart": "2026-06-29T12:00:00Z"
     },
     {
       "id": "fMWm-sAoxLo",
@@ -130,7 +130,7 @@
       "thumbnail": "https://i.ytimg.com/vi/fMWm-sAoxLo/maxresdefault.jpg",
       "type": "short",
       "duration": 31,
-      "status": "new"
+      "status": "past"
     },
     {
       "id": "aPYS9WQdqVs",
@@ -140,7 +140,7 @@
       "type": "stream",
       "duration": 28383,
       "status": "past",
-      "scheduledStart": "2026-06-27T09:00:00.000Z"
+      "scheduledStart": "2026-06-27T09:00:00Z"
     },
     {
       "id": "bC2MF3TvYLM",
@@ -148,7 +148,8 @@
       "published": "2026-06-26T08:00:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bC2MF3TvYLM/maxresdefault.jpg",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "xfzYeqjwPDA",
@@ -229,7 +230,7 @@
       "title": "【メン限】めんげんだー!!【轟はじめ/ReGLOSS】",
       "published": "2026-06-17T12:06:44.000Z",
       "thumbnail": "https://i.ytimg.com/vi/N5KzkaFraMs/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 5751,
       "status": "past",
       "scheduledStart": "2026-06-18T14:00:00Z"

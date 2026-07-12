@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow",
     "bannerUrl": "https://yt3.googleusercontent.com/w_n8yUnJiwX4WfpFKYDPFKtMrk0my03WJSNpraNZ79bu0OfgXEIPtKm77dERXitsmQ_Y4bH7Jg=s0"
   },
-  "lastUpdated": "2026-07-11T17:22:55.425Z",
+  "lastUpdated": "2026-07-12T01:02:32.135Z",
   "videoCount": 2669,
   "videos": [
     {
@@ -16,7 +16,9 @@
       "published": "2026-07-11T15:20:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0oPw4fI3E3k/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-12T00:45:00Z"
     },
     {
       "id": "bd79DNzPDQs",
@@ -26,7 +28,7 @@
       "type": "stream",
       "duration": 18070,
       "status": "past",
-      "scheduledStart": "2026-07-11T10:00:00.000Z"
+      "scheduledStart": "2026-07-11T10:00:00Z"
     },
     {
       "id": "RamJn2xiSIg",
@@ -36,7 +38,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T10:00:00.000Z"
+      "scheduledStart": "2026-07-12T10:00:00Z"
     },
     {
       "id": "aqKC6uV8E_Y",
@@ -46,7 +48,7 @@
       "type": "stream",
       "duration": 2494,
       "status": "past",
-      "scheduledStart": "2026-07-10T11:00:00.000Z"
+      "scheduledStart": "2026-07-10T11:00:00Z"
     },
     {
       "id": "7KEjKt4mMLw",
@@ -56,7 +58,7 @@
       "type": "stream",
       "duration": 10027,
       "status": "past",
-      "scheduledStart": "2026-07-09T12:00:00.000Z"
+      "scheduledStart": "2026-07-09T12:00:00Z"
     },
     {
       "id": "kJTovys8urU",
@@ -75,7 +77,7 @@
       "type": "stream",
       "duration": 18093,
       "status": "past",
-      "scheduledStart": "2026-07-08T10:00:00.000Z"
+      "scheduledStart": "2026-07-08T10:00:00Z"
     },
     {
       "id": "y1b3YSqcQrI",
@@ -83,7 +85,9 @@
       "published": "2026-07-07T18:25:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/y1b3YSqcQrI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8918
+      "duration": 8918,
+      "status": "past",
+      "scheduledStart": "2026-07-07T15:45:00Z"
     },
     {
       "id": "-NdBu39ZNLY",
@@ -93,7 +97,7 @@
       "type": "stream",
       "duration": 8195,
       "status": "past",
-      "scheduledStart": "2026-07-07T13:00:00.000Z"
+      "scheduledStart": "2026-07-07T13:00:00Z"
     },
     {
       "id": "r_u-nHz3_bQ",
@@ -103,7 +107,7 @@
       "type": "stream",
       "duration": 17121,
       "status": "past",
-      "scheduledStart": "2026-07-06T10:00:00.000Z"
+      "scheduledStart": "2026-07-06T10:00:00Z"
     },
     {
       "id": "HQkN2AHtJIQ",
@@ -113,7 +117,7 @@
       "type": "stream",
       "duration": 14233,
       "status": "past",
-      "scheduledStart": "2026-07-05T10:00:00.000Z"
+      "scheduledStart": "2026-07-05T10:00:00Z"
     },
     {
       "id": "rzpGSaqcMU0",
@@ -123,7 +127,7 @@
       "type": "stream",
       "duration": 18763,
       "status": "past",
-      "scheduledStart": "2026-07-04T11:00:00.000Z"
+      "scheduledStart": "2026-07-04T11:00:00Z"
     },
     {
       "id": "lvglSXv1dM0",
@@ -142,7 +146,7 @@
       "type": "stream",
       "duration": 11381,
       "status": "past",
-      "scheduledStart": "2026-07-03T21:40:00.000Z"
+      "scheduledStart": "2026-07-03T21:40:00Z"
     },
     {
       "id": "6-9qQ0ifz2Y",
@@ -152,7 +156,7 @@
       "type": "stream",
       "duration": 11833,
       "status": "past",
-      "scheduledStart": "2026-07-02T12:00:00.000Z"
+      "scheduledStart": "2026-07-02T12:00:00Z"
     },
     {
       "id": "5sVgV5vorRM",
@@ -171,7 +175,7 @@
       "type": "stream",
       "duration": 3591,
       "status": "past",
-      "scheduledStart": "2026-07-01T12:00:00.000Z"
+      "scheduledStart": "2026-07-01T12:00:00Z"
     },
     {
       "id": "TTYnB9poAvw",
@@ -181,7 +185,7 @@
       "type": "stream",
       "duration": 9289,
       "status": "past",
-      "scheduledStart": "2026-06-30T12:00:00.000Z"
+      "scheduledStart": "2026-06-30T12:00:00Z"
     },
     {
       "id": "hStA--0BNi8",
@@ -191,7 +195,7 @@
       "type": "stream",
       "duration": 9745,
       "status": "past",
-      "scheduledStart": "2026-06-29T16:30:00.000Z"
+      "scheduledStart": "2026-06-29T16:30:00Z"
     },
     {
       "id": "ufvkWOE-GZQ",
@@ -210,17 +214,17 @@
       "type": "stream",
       "duration": 7515,
       "status": "past",
-      "scheduledStart": "2026-06-28T10:00:00.000Z"
+      "scheduledStart": "2026-06-28T10:00:00Z"
     },
     {
       "id": "GZy15TNN6go",
       "title": "【メンバー限定】ナツいアツが来たZE★【ホロライブ/兎田ぺこら】",
       "published": "2026-06-28T12:05:47.000Z",
       "thumbnail": "https://i.ytimg.com/vi/GZy15TNN6go/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 4345,
       "status": "past",
-      "scheduledStart": "2026-06-29T11:00:00.000Z"
+      "scheduledStart": "2026-06-29T11:00:00Z"
     },
     {
       "id": "PtHSYVmHMgU",
@@ -230,7 +234,7 @@
       "type": "stream",
       "duration": 18138,
       "status": "past",
-      "scheduledStart": "2026-06-28T03:00:00.000Z"
+      "scheduledStart": "2026-06-28T03:00:00Z"
     },
     {
       "id": "4YlZ6nOO3Ro",
@@ -240,7 +244,7 @@
       "type": "stream",
       "duration": 20015,
       "status": "past",
-      "scheduledStart": "2026-06-27T09:00:00.000Z"
+      "scheduledStart": "2026-06-27T09:00:00Z"
     },
     {
       "id": "FTjEZFjDIV0",
@@ -250,7 +254,7 @@
       "type": "stream",
       "duration": 14716,
       "status": "past",
-      "scheduledStart": "2026-06-26T12:00:00.000Z"
+      "scheduledStart": "2026-06-26T12:00:00Z"
     },
     {
       "id": "jCnUpNVPJ20",
@@ -269,7 +273,7 @@
       "type": "stream",
       "duration": 10028,
       "status": "past",
-      "scheduledStart": "2026-06-25T12:00:00.000Z"
+      "scheduledStart": "2026-06-25T12:00:00Z"
     },
     {
       "id": "3_muxecQKlY",

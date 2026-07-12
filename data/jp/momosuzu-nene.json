@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-07-05T05:34:27.982Z",
+  "lastUpdated": "2026-07-12T01:17:00.738Z",
   "videoCount": 1375,
   "videos": [
     {
@@ -27,7 +27,7 @@
       "type": "stream",
       "duration": 4609,
       "status": "past",
-      "scheduledStart": "2026-07-03T09:00:00.000Z"
+      "scheduledStart": "2026-07-03T09:00:00Z"
     },
     {
       "id": "eO63kDtyT20",
@@ -37,7 +37,7 @@
       "type": "stream",
       "duration": 5785,
       "status": "past",
-      "scheduledStart": "2026-07-02T09:00:00.000Z"
+      "scheduledStart": "2026-07-02T09:00:00Z"
     },
     {
       "id": "4YgdoAYze9U",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 6123,
       "status": "past",
-      "scheduledStart": "2026-07-01T09:00:00.000Z"
+      "scheduledStart": "2026-07-01T09:00:00Z"
     },
     {
       "id": "sEE00Gc4F0k",
@@ -57,7 +57,7 @@
       "type": "stream",
       "duration": 7011,
       "status": "past",
-      "scheduledStart": "2026-06-30T09:00:00.000Z"
+      "scheduledStart": "2026-06-30T09:00:00Z"
     },
     {
       "id": "VQ_7eTzhNBw",
@@ -67,7 +67,7 @@
       "type": "member",
       "duration": 3810,
       "status": "past",
-      "scheduledStart": "2026-06-29T11:00:00.000Z"
+      "scheduledStart": "2026-06-29T11:00:00Z"
     },
     {
       "id": "rmJIEptlpAg",
@@ -77,7 +77,7 @@
       "type": "stream",
       "duration": 8137,
       "status": "past",
-      "scheduledStart": "2026-06-28T09:00:00.000Z"
+      "scheduledStart": "2026-06-28T09:00:00Z"
     },
     {
       "id": "6GzX4iJbX2M",
@@ -5857,7 +5857,7 @@
       "thumbnail": "https://i.ytimg.com/vi/xbJ8tbA_Phw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "unavailable",
+      "status": "upcoming",
       "scheduledStart": "2024-07-06T15:00:00Z"
     },
     {

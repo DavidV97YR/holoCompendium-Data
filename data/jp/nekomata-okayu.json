@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0"
   },
-  "lastUpdated": "2026-07-11T17:20:18.600Z",
+  "lastUpdated": "2026-07-12T00:59:27.386Z",
   "videoCount": 1822,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 11973,
       "status": "past",
-      "scheduledStart": "2026-07-11T12:00:00.000Z"
+      "scheduledStart": "2026-07-11T12:00:00Z"
     },
     {
       "id": "JL9jZTdvLS0",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-12T09:00:00.000Z"
+      "scheduledStart": "2026-07-12T09:00:00Z"
     },
     {
       "id": "XE1rCOutjQs",
@@ -38,17 +38,17 @@
       "type": "stream",
       "duration": 18252,
       "status": "past",
-      "scheduledStart": "2026-07-10T10:00:00.000Z"
+      "scheduledStart": "2026-07-10T10:00:00Z"
     },
     {
       "id": "Iln-OR3q1ps",
       "title": "【 🟣月一企画メン限 】今日は一緒にねんね💜⸝⸝⸝【 猫又おかゆ/ホロライブ 】",
       "published": "2026-07-08T21:25:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Iln-OR3q1ps/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 4664,
       "status": "past",
-      "scheduledStart": "2026-07-09T13:00:00.000Z"
+      "scheduledStart": "2026-07-09T13:00:00Z"
     },
     {
       "id": "bWK2juN5IJc",
@@ -58,7 +58,7 @@
       "type": "stream",
       "duration": 15496,
       "status": "past",
-      "scheduledStart": "2026-07-08T13:00:00.000Z"
+      "scheduledStart": "2026-07-08T13:00:00Z"
     },
     {
       "id": "MWGJeKo87b8",
@@ -68,7 +68,7 @@
       "type": "stream",
       "duration": 18760,
       "status": "past",
-      "scheduledStart": "2026-07-07T10:00:00.000Z"
+      "scheduledStart": "2026-07-07T10:00:00Z"
     },
     {
       "id": "ah7H23Ibp6A",
@@ -77,7 +77,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ah7H23Ibp6A/maxresdefault.jpg",
       "type": "stream",
       "duration": 14817,
-      "status": "new"
+      "status": "past",
+      "scheduledStart": "2026-07-05T11:00:00Z"
     },
     {
       "id": "6Yium_uVEns",
@@ -87,7 +88,7 @@
       "type": "stream",
       "duration": 15196,
       "status": "past",
-      "scheduledStart": "2026-07-04T11:00:00.000Z"
+      "scheduledStart": "2026-07-04T11:00:00Z"
     },
     {
       "id": "uzoMQs_RTOQ",
@@ -97,7 +98,7 @@
       "type": "stream",
       "duration": 16891,
       "status": "past",
-      "scheduledStart": "2026-07-03T10:00:00.000Z"
+      "scheduledStart": "2026-07-03T10:00:00Z"
     },
     {
       "id": "7fuuQmx4r20",
@@ -107,7 +108,7 @@
       "type": "stream",
       "duration": 7677,
       "status": "past",
-      "scheduledStart": "2026-07-02T10:00:00.000Z"
+      "scheduledStart": "2026-07-02T10:00:00Z"
     },
     {
       "id": "2uf39cdcJ58",
@@ -117,7 +118,7 @@
       "type": "stream",
       "duration": 14843,
       "status": "past",
-      "scheduledStart": "2026-06-30T10:00:00.000Z"
+      "scheduledStart": "2026-06-30T10:00:00Z"
     },
     {
       "id": "w02joq6Npm4",
@@ -127,7 +128,7 @@
       "type": "stream",
       "duration": 3691,
       "status": "past",
-      "scheduledStart": "2026-06-29T10:00:00.000Z"
+      "scheduledStart": "2026-06-29T10:00:00Z"
     },
     {
       "id": "ie3moZQzDH8",

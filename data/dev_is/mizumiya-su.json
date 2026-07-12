@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-07-11T20:06:36.535Z",
+  "lastUpdated": "2026-07-12T01:54:42.292Z",
   "videoCount": 985,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 14486,
       "status": "past",
-      "scheduledStart": "2026-07-11T13:55:00.000Z"
+      "scheduledStart": "2026-07-11T13:55:00Z"
     },
     {
       "id": "iuT3A0S7Nrs",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 16171,
       "status": "past",
-      "scheduledStart": "2026-07-10T13:30:00.000Z"
+      "scheduledStart": "2026-07-10T13:30:00Z"
     },
     {
       "id": "5LIX8VLXmb8",
@@ -64,7 +64,9 @@
       "published": "2026-07-09T16:35:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/03YykSTLPR0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10539
+      "duration": 10539,
+      "status": "past",
+      "scheduledStart": "2026-07-09T13:30:00Z"
     },
     {
       "id": "5drdCGenDgw",
@@ -83,7 +85,7 @@
       "type": "stream",
       "duration": 8010,
       "status": "past",
-      "scheduledStart": "2026-07-08T14:00:00.000Z"
+      "scheduledStart": "2026-07-08T14:00:00Z"
     },
     {
       "id": "t8udCUPu1pI",
@@ -101,7 +103,8 @@
       "thumbnail": "https://i.ytimg.com/vi/N-ZBhbWOQRM/maxresdefault.jpg",
       "type": "stream",
       "duration": 1086,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-07-07T14:40:00Z"
     },
     {
       "id": "ja13ujYquIY",
@@ -110,7 +113,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ja13ujYquIY/maxresdefault.jpg",
       "type": "stream",
       "duration": 578,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-07-07T14:30:00Z"
     },
     {
       "id": "H5t4_eFYwg4",
@@ -120,7 +124,7 @@
       "type": "stream",
       "duration": 3132,
       "status": "past",
-      "scheduledStart": "2026-07-07T13:30:00.000Z"
+      "scheduledStart": "2026-07-07T13:30:00Z"
     },
     {
       "id": "y7DxKXRhmSg",
@@ -139,7 +143,7 @@
       "type": "stream",
       "duration": 18226,
       "status": "past",
-      "scheduledStart": "2026-07-06T08:00:00.000Z"
+      "scheduledStart": "2026-07-06T08:00:00Z"
     },
     {
       "id": "5XEeW7VcbMk",
@@ -158,7 +162,7 @@
       "type": "stream",
       "duration": 4169,
       "status": "past",
-      "scheduledStart": "2026-07-05T09:00:00.000Z"
+      "scheduledStart": "2026-07-05T09:00:00Z"
     },
     {
       "id": "2FHbSERAiPk",
@@ -166,7 +170,9 @@
       "published": "2026-07-05T10:10:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2FHbSERAiPk/maxresdefault.jpg",
       "type": "video",
-      "duration": 209
+      "duration": 209,
+      "status": "past",
+      "scheduledStart": "2026-07-05T10:10:00Z"
     },
     {
       "id": "p5HZVNhIj64",
@@ -185,7 +191,7 @@
       "type": "stream",
       "duration": 11701,
       "status": "past",
-      "scheduledStart": "2026-07-04T13:30:00.000Z"
+      "scheduledStart": "2026-07-04T13:30:00Z"
     },
     {
       "id": "I7bSrN6X3EA",
@@ -213,7 +219,7 @@
       "type": "stream",
       "duration": 7756,
       "status": "past",
-      "scheduledStart": "2026-07-02T22:31:18.000Z"
+      "scheduledStart": "2026-07-02T22:31:18Z"
     },
     {
       "id": "YGWeyKiIHzg",
@@ -223,7 +229,7 @@
       "type": "stream",
       "duration": 11739,
       "status": "past",
-      "scheduledStart": "2026-07-02T13:30:00.000Z"
+      "scheduledStart": "2026-07-02T13:30:00Z"
     },
     {
       "id": "Qwc4c1MjfPo",
@@ -242,7 +248,7 @@
       "type": "stream",
       "duration": 8004,
       "status": "past",
-      "scheduledStart": "2026-07-01T13:30:00.000Z"
+      "scheduledStart": "2026-07-01T13:30:00Z"
     },
     {
       "id": "NYeFSp-vL_c",
@@ -261,7 +267,7 @@
       "type": "stream",
       "duration": 10610,
       "status": "past",
-      "scheduledStart": "2026-06-30T13:30:00.000Z"
+      "scheduledStart": "2026-06-30T13:30:00Z"
     },
     {
       "id": "DSwxsWCTDRY",
@@ -280,7 +286,7 @@
       "type": "stream",
       "duration": 12396,
       "status": "past",
-      "scheduledStart": "2026-06-29T14:00:00.000Z"
+      "scheduledStart": "2026-06-29T14:00:00Z"
     },
     {
       "id": "_sf2X8Iiytk",
@@ -299,7 +305,7 @@
       "type": "stream",
       "duration": 7968,
       "status": "past",
-      "scheduledStart": "2026-06-28T08:55:49.000Z"
+      "scheduledStart": "2026-06-28T08:55:49Z"
     },
     {
       "id": "oeHmt_OCbj0",
@@ -318,7 +324,7 @@
       "type": "stream",
       "duration": 6029,
       "status": "past",
-      "scheduledStart": "2026-06-28T02:30:00.000Z"
+      "scheduledStart": "2026-06-28T02:30:00Z"
     },
     {
       "id": "CGKxbNEyLoQ",
@@ -328,7 +334,7 @@
       "type": "stream",
       "duration": 10759,
       "status": "past",
-      "scheduledStart": "2026-06-27T08:00:21.000Z"
+      "scheduledStart": "2026-06-27T08:00:21Z"
     },
     {
       "id": "pZktclZbCYc",
@@ -347,7 +353,7 @@
       "type": "stream",
       "duration": 4038,
       "status": "past",
-      "scheduledStart": "2026-06-26T15:00:00.000Z"
+      "scheduledStart": "2026-06-26T15:00:00Z"
     },
     {
       "id": "dNPMppKpWSY",
@@ -404,7 +410,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00.000Z"
+      "scheduledStart": "2028-06-30T14:30:00Z"
     },
     {
       "id": "bzecknsOFZI",
@@ -430,7 +436,7 @@
       "title": "#うみゃうにゃはっぴーらいふ/踊ってみた #hololive #vtuber #dance",
       "published": "2026-06-23T08:00:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/06THMoV85c0/maxresdefault.jpg",
-      "type": "short",
+      "type": "stream",
       "duration": 29
     },
     {
@@ -619,7 +625,7 @@
       "title": "UCHIDA 1 /踊ってみた #hololive #vtuber #danc",
       "published": "2026-06-16T08:00:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/-n9V2GvU7Ug/maxresdefault.jpg",
-      "type": "short",
+      "type": "stream",
       "duration": 15,
       "status": "past"
     },
