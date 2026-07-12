@@ -142,6 +142,32 @@ async function fetchYouTubeVideoDetails(videoIds, apiKey) {
   return out;
 }
 
+// Fully paginated playlistItems fetch — same technique bootstrap.js uses to
+// derive `type` on day one. Unlike the RSS feeds (capped at ~15 most recent
+// entries, and just a public XML scrape that can occasionally drop entries),
+// this walks the entire playlist via nextPageToken and is authoritative.
+// Costs 1 quota unit per page of up to 50 items.
+async function fetchYouTubePlaylistItemIds(playlistId, apiKey) {
+  const ids = [];
+  let pageToken = '';
+  do {
+    const params = { part: 'contentDetails', playlistId, maxResults: 50 };
+    if (pageToken) params.pageToken = pageToken;
+    const qs = new URLSearchParams({ ...params, key: apiKey }).toString();
+    const url = `https://www.googleapis.com/youtube/v3/playlistItems?${qs}`;
+    const { status, body } = await get(url);
+    if (status !== 200) {
+      if (/"reason":\s*"playlistNotFound"/.test(body)) return ids; // channel has none of this type
+      throw new Error(`YouTube API ${status}: ${body.slice(0, 200)}`);
+    }
+    const data = JSON.parse(body);
+    for (const item of (data.items || [])) ids.push(item.contentDetails?.videoId);
+    pageToken = data.nextPageToken || '';
+    if (pageToken) await new Promise(r => setTimeout(r, 150));
+  } while (pageToken);
+  return ids;
+}
+
 // ── RSS ───────────────────────────────────────────────────────────────────────
 
 async function fetchRSS(playlistId) {
@@ -307,10 +333,11 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     }
   }
 
-  // ── 1b. Backfill (manual heavy pass): re-enrich EVERY existing video ──────
+  // ── 1b. Backfill (heavy pass): re-enrich EVERY existing video ─────────────
   // Normal runs only touch new videos + the 15 most recent. Backfill re-checks the
   // whole catalog against authoritative YouTube data so schema additions and any
-  // drift in title/duration/published reach old records too. Opt-in via checkbox.
+  // drift in title/duration/published/type reach old records too. Opt-in via
+  // checkbox (manual runs) or the scheduled Full Recheck workflow.
   if (backfill) {
     const ytKey = process.env.YT_API_KEY;
     if (!ytKey) {
@@ -335,6 +362,44 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
         console.log(`    ✓ Backfill applied ${fixed} field update(s) across ${allIds.length} video(s)`);
       } catch(e) {
         console.log(`    ⚠ Backfill failed: ${e.message}`);
+      }
+
+      // ── 1b-ii. Backfill: reclassify `type` via playlistItems ────────────
+      // The Data API's /videos endpoint (used just above) has no "isShort"
+      // field, so that pass alone can never fix `type` — this closes that
+      // gap using the same full-catalog set-membership technique
+      // bootstrap.js already relies on, instead of the ~15-item-capped RSS
+      // feeds normal runs use.
+      console.log(`  [${Name}] Backfill: reclassifying type via playlistItems...`);
+      try {
+        const [ytVideoIds, ytShortIds, ytMemberIds] = await Promise.all([
+          fetchYouTubePlaylistItemIds(`UULF${suffix}`, ytKey),
+          fetchYouTubePlaylistItemIds(`UUSH${suffix}`, ytKey),
+          fetchYouTubePlaylistItemIds(`UUMO${suffix}`, ytKey),
+        ]);
+        const videoSet  = new Set(ytVideoIds);
+        const shortSet  = new Set(ytShortIds);
+        const memberSet = new Set(ytMemberIds);
+
+        let typeFixed = 0;
+        for (const lv of local.videos) {
+          // Elimination, same order bootstrap.js uses: video < short < member.
+          // Anything already in our catalog that matches none of the three
+          // specialty playlists is a regular stream by definition.
+          let trueType = 'stream';
+          if (videoSet.has(lv.id))  trueType = 'video';
+          if (shortSet.has(lv.id))  trueType = 'short';
+          if (memberSet.has(lv.id)) trueType = 'member';
+          if (trueType !== lv.type) {
+            console.log(`    ↻ Type fix [${lv.id}]: ${lv.type} → ${trueType}`);
+            lv.type = trueType;
+            changed = true;
+            typeFixed++;
+          }
+        }
+        console.log(`    ✓ Reclassified ${typeFixed} video(s)`);
+      } catch(e) {
+        console.log(`    ⚠ Type reclassification failed: ${e.message}`);
       }
     }
   }
