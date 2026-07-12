@@ -1,0 +1,56 @@
+name: Full Recheck (Daily)
+
+# Runs backfill mode against every channel. Triggered externally by
+# cron-job.org hitting the workflow_dispatch webhook — same pattern as
+# fetch-views.yml — rather than GitHub's native `schedule:` trigger, which
+# is best-effort and can run late or get skipped entirely during high-load
+# periods. Also runnable manually from the Actions tab.
+#
+# Uses YT_API_KEY_RECHECK (a second, separate YouTube Data API key/quota
+# from the one Update Channel Data / Bootstrap use), so a bad day here
+# can't eat into the quota the frequent update runs depend on.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  full-recheck:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run full recheck (backfill mode, all channels)
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ secrets.CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY_RECHECK }}
+          ROWS:            all
+          BACKFILL:        'true'
+          DATA_DIR:        ./data
+        run: node scripts/update.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "full recheck: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Wider retry budget than the other workflows: this run can take
+          # several minutes end-to-end (full catalog, paginated API calls),
+          # so it's more likely to overlap with a shorter update.yml /
+          # fetch-views.yml run that's already mid-push. Not time-sensitive,
+          # so it's fine to just wait it out rather than give up in ~30s.
+          for i in $(seq 1 15); do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 15
+          done
+          echo "push failed after 15 attempts" >&2; exit 1
