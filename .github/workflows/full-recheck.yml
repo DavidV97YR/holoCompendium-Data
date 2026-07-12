@@ -49,8 +49,19 @@ jobs:
           # so it's more likely to overlap with a shorter update.yml /
           # fetch-views.yml run that's already mid-push. Not time-sensitive,
           # so it's fine to just wait it out rather than give up in ~30s.
+          #
+          # -X theirs: on a genuine content conflict (both jobs touched the
+          # same field), prefer THIS run's freshly re-verified value — during
+          # a rebase "theirs" means the commit being replayed, i.e. our own,
+          # not upstream's, despite how that reads. Non-conflicting changes
+          # from the other side (e.g. a brand-new video Update Channel Data
+          # just added) still merge in normally; only truly overlapping
+          # lines get resolved in Full Recheck's favor. This also prevents
+          # the "unresolved conflict" deadlock the retry loop couldn't
+          # recover from — a real conflict now resolves instead of leaving
+          # the tree stuck through every retry.
           for i in $(seq 1 15); do
-            git pull --rebase origin main && git push && exit 0
+            git pull --rebase -X theirs origin main && git push && exit 0
             echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 15
           done
           echo "push failed after 15 attempts" >&2; exit 1
