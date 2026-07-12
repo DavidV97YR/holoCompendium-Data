@@ -44,8 +44,13 @@ jobs:
           git add data/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "views: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && exit 0
-            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 5
+          # -X ours: defer to whatever's already on origin on a genuine
+          # conflict (e.g. a Full Recheck correction) rather than overwrite
+          # it — view counts get refreshed again next run anyway. Also
+          # prevents the rebase from ever getting stuck on an unresolved
+          # conflict, which plain retries couldn't recover from.
+          for i in $(seq 1 10); do
+            git pull --rebase -X ours origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 10
           done
-          echo "push failed after 5 attempts" >&2; exit 1
+          echo "push failed after 10 attempts" >&2; exit 1
