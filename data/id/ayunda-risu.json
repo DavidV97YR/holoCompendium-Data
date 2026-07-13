@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-13T05:51:19.955Z",
-  "videoCount": 1658,
+  "lastUpdated": "2026-07-13T07:43:23.674Z",
+  "videoCount": 1660,
   "videos": [
+    {
+      "id": "aTXxXY_x8KM",
+      "title": "EL_BERPEDANG.PNG",
+      "published": "2026-07-13T07:11:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/aTXxXY_x8KM/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-13T07:30:00.000Z"
+    },
+    {
+      "id": "UWEmRyCI9Io",
+      "title": "Monday Malam Malas = M.M.M.",
+      "published": "2026-07-13T06:33:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/UWEmRyCI9Io/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-13T12:00:00.000Z"
+    },
     {
       "id": "NJmpHyyDHaQ",
       "title": "Tanam Tanam Tanaman",
@@ -1110,7 +1130,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-04T06:15:00Z"
+      "scheduledStart": "2028-03-04T06:15:00.000Z"
     },
     {
       "id": "_5igdoWVG1U",
