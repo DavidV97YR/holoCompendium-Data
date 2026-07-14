@@ -7,16 +7,26 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-07-14T08:01:46.991Z",
-  "videoCount": 508,
+  "lastUpdated": "2026-07-14T13:58:45.576Z",
+  "videoCount": 509,
   "videos": [
+    {
+      "id": "EoIp7g2zaYc",
+      "title": "【Girls' Frontline 2: Exilium】Commander Raora Reporting for Duty!",
+      "published": "2026-07-14T12:22:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EoIp7g2zaYc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-16T14:00:00.000Z"
+    },
     {
       "id": "xu1_bo10Vyk",
       "title": "【POKÉMON LEAF GREEN】Friendship ended by a crit【SOUL-LINK NUZLOCKE】",
       "published": "2026-07-12T19:29:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xu1_bo10Vyk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11882,
+      "duration": 11885,
       "status": "past",
       "scheduledStart": "2026-07-12T16:00:00Z"
     },
