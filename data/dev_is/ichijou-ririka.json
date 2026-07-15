@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ",
     "bannerUrl": "https://yt3.googleusercontent.com/PgezTfp527qrpgL6IwaBVcvnb1vgD7qnSJzf4KnWgfVYWO7QJc3SQOv_YzlZiKeWhDRXfkgNlA8=s0"
   },
-  "lastUpdated": "2026-07-15T04:01:45.068Z",
+  "lastUpdated": "2026-07-15T06:14:19.404Z",
   "videoCount": 1252,
   "videos": [
+    {
+      "id": "ZnYED532-mA",
+      "title": "まつり先輩は敵ですか??味方ですか??【#一条莉々華の限界飯】",
+      "published": "2026-07-15T03:30:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZnYED532-mA/maxresdefault.jpg",
+      "type": "video",
+      "duration": 868,
+      "status": "past",
+      "scheduledStart": "2026-07-15T03:30:00Z"
+    },
     {
       "id": "WM0XE6Susds",
       "title": "【時間未定】どうせ配信外でやるなら配信した方が皆と一緒にいられてお得じゃない？？？？？Shadowverse: Worlds Beyond【一条莉々華/hololive DEV_IS　ReGLOSS】",
@@ -19,16 +29,6 @@
       "duration": 10017,
       "status": "past",
       "scheduledStart": "2026-07-14T14:10:00Z"
-    },
-    {
-      "id": "ZnYED532-mA",
-      "title": "まつり先輩は敵ですか??味方ですか??【#一条莉々華の限界飯】",
-      "published": "2026-07-14T17:06:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZnYED532-mA/maxresdefault.jpg",
-      "type": "video",
-      "duration": 868,
-      "status": "past",
-      "scheduledStart": "2026-07-15T03:30:00.000Z"
     },
     {
       "id": "JCTOUzRhsP8",
@@ -944,7 +944,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-04-20T13:00:00.000Z"
+      "scheduledStart": "2028-04-20T13:00:00Z"
     },
     {
       "id": "9FGw9FTrltY",
@@ -12255,7 +12255,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-04-01T16:35:00.000Z"
+      "scheduledStart": "2028-04-01T16:35:00Z"
     },
     {
       "id": "LcRPCdV_wSs",
