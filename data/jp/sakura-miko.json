@@ -7,18 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/lF50Hj_6-5MVitUbhIYdgaHCZAXEUnRtOPfaGF25_QFUNcW21w26cTm3LADOY2CagncnNw9F=s0"
   },
-  "lastUpdated": "2026-07-16T17:07:07.185Z",
-  "videoCount": 2292,
+  "lastUpdated": "2026-07-16T19:05:55.852Z",
+  "videoCount": 2293,
   "videos": [
+    {
+      "id": "H4tPesC4DzA",
+      "title": "【 はいしんよてちぃ~】【ホロライブ/さくらみこ】",
+      "published": "2026-07-16T18:46:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/H4tPesC4DzA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-17T13:00:00.000Z"
+    },
     {
       "id": "YyqYBAg1pO8",
       "title": "【初見】沼スーパードンキーコングやるにぇえええええええええ‼③【ホロライブ/さくらみこ】",
-      "published": "2026-07-16T11:04:24+00:00",
+      "published": "2026-07-16T17:32:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/YyqYBAg1pO8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-16T12:00:00Z"
+      "duration": 18517,
+      "status": "past",
+      "scheduledStart": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "-Ixb_4HfIB8",
@@ -19127,7 +19137,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-05T14:55:00Z"
+      "scheduledStart": "2027-03-05T14:55:00.000Z"
     },
     {
       "id": "abuyCDr3snU",
