@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
     "bannerUrl": "https://yt3.googleusercontent.com/vNCRYP8INcAEM3Z85s1UmVMaZ1lvD0FF1ID0sC61bkCPhLqB8zv9d3-UysiE3UcgMMLEk2qGEXU=s0"
   },
-  "lastUpdated": "2026-07-17T11:40:50.588Z",
+  "lastUpdated": "2026-07-17T13:40:57.466Z",
   "videoCount": 3334,
   "videos": [
+    {
+      "id": "RxNX3EdFjHs",
+      "title": "【漢字でGOGO!】頭脳なので珍解答とか出せないと思いますごめんネ☆（尚、理数系）【博衣こより/ホロライブ】",
+      "published": "2026-07-17T12:20:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RxNX3EdFjHs/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7809,
+      "status": "past",
+      "scheduledStart": "2026-07-17T10:00:00.000Z"
+    },
     {
       "id": "cSUKNXq4AAI",
       "title": "【ファイアーエムブレム 風花雪月】完全初見!クラシックでいく金鹿ルート!12月出撃から! #7 【博衣こより/ホロライブ】",
@@ -36,7 +46,7 @@
       "thumbnail": "https://i.ytimg.com/vi/rvbYgVKyT04/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-17T13:00:00.000Z"
     },
     {
@@ -48,16 +58,6 @@
       "duration": 8530,
       "status": "past",
       "scheduledStart": "2026-07-16T14:00:00Z"
-    },
-    {
-      "id": "RxNX3EdFjHs",
-      "title": "【漢字でGOGO!】頭脳なので珍解答とか出せないと思いますごめんネ☆(尚、理数系)【博衣こより/ホロライブ】",
-      "published": "2026-07-16T13:59:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/RxNX3EdFjHs/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-17T10:00:00.000Z"
     },
     {
       "id": "uU7s00d7mMI",
@@ -80,11 +80,11 @@
     },
     {
       "id": "qP91ub94n1w",
-      "title": "【ToHeart】完全初見！伝説のギャルゲーやってみる！心に刺さった子のEDまで２日でいくぞ！！！【博衣こより/ホロライブ】",
+      "title": "【ToHeart】完全初見!伝説のギャルゲーやってみる!心に刺さった子のEDまで2日でいくぞ!!!【博衣こより/ホロライブ】",
       "published": "2026-07-15T17:40:35Z",
       "thumbnail": "https://i.ytimg.com/vi/qP91ub94n1w/maxresdefault.jpg",
       "type": "stream",
-      "duration": 26440,
+      "duration": 26439,
       "status": "past",
       "scheduledStart": "2026-07-15T10:00:00Z"
     },
