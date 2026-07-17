@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-17T05:51:38.239Z",
-  "videoCount": 1666,
+  "lastUpdated": "2026-07-17T07:43:00.013Z",
+  "videoCount": 1667,
   "videos": [
+    {
+      "id": "KwrIVOwkF9w",
+      "title": "Easy Peasy #holodori !?!?",
+      "published": "2026-07-17T05:01:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/KwrIVOwkF9w/maxresdefault.jpg",
+      "type": "short",
+      "duration": 51,
+      "status": "past"
+    },
     {
       "id": "Jrmw_SywnuU",
       "title": "Risu is (not) considering it  #ayundarisu #kuukiyomi #hololive #gaming",
@@ -25,7 +34,7 @@
       "published": "2026-07-15T12:11:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VG3bLJaVzbc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9184,
+      "duration": 9173,
       "status": "past",
       "scheduledStart": "2026-07-15T09:30:00Z"
     },
@@ -105,7 +114,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-17T12:00:00Z"
+      "scheduledStart": "2026-07-17T12:00:00.000Z"
     },
     {
       "id": "7zhOGkVPfDk",
@@ -1187,7 +1196,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-04T06:15:00Z"
+      "scheduledStart": "2028-03-04T06:15:00.000Z"
     },
     {
       "id": "_5igdoWVG1U",
