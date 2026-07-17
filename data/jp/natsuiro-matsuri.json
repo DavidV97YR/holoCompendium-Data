@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-07-17T17:15:17.120Z",
+  "lastUpdated": "2026-07-17T19:12:49.722Z",
   "videoCount": 1877,
   "videos": [
     {
       "id": "ktZkFIMS7Y4",
       "title": "【Solarpunk】深夜のまったりスローライフ【ホロライブ/夏色まつり】",
-      "published": "2026-07-17T15:35:15.000Z",
+      "published": "2026-07-17T17:41:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ktZkFIMS7Y4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-17T15:35:15Z"
+      "duration": 6941,
+      "status": "past",
+      "scheduledStart": "2026-07-17T15:35:15.000Z"
     },
     {
       "id": "I8wZbim14a4",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-18T07:00:00Z"
+      "scheduledStart": "2026-07-18T07:00:00.000Z"
     },
     {
       "id": "IT5zPafOmmw",
@@ -18348,7 +18348,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z"
+      "scheduledStart": "2025-12-24T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "IW5b7btfayI",
