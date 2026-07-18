@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw",
     "bannerUrl": "https://yt3.googleusercontent.com/m6wL54-0Zrt5xi-1hq73ZSFObjzJeYANoHeOKVZCICd_1cua-YamuJdGJQTIEPF_-xuFvoUbm3s=s0"
   },
-  "lastUpdated": "2026-07-18T14:04:07.554Z",
+  "lastUpdated": "2026-07-18T18:14:14.838Z",
   "videoCount": 873,
   "videos": [
     {
@@ -17,7 +17,8 @@
       "thumbnail": "https://i.ytimg.com/vi/WgRR2ERIHTA/maxresdefault.jpg",
       "type": "stream",
       "duration": 262,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-07-18T13:20:00Z"
     },
     {
       "id": "TbDUr-al4gQ",
@@ -25,7 +26,9 @@
       "published": "2026-07-18T13:27:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TbDUr-al4gQ/maxresdefault.jpg",
       "type": "member",
-      "duration": 0
+      "duration": 6280,
+      "status": "past",
+      "scheduledStart": "2026-07-18T13:28:49Z"
     },
     {
       "id": "nXEz2Tx36ow",
@@ -41,7 +44,7 @@
       "title": "【メン限同時視聴】温泉シャーク!!!!!見る!!!!【儒烏風亭らでん #ReGLOSS 】",
       "published": "2026-07-18T07:04:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8EqfY4iONac/maxresdefault.jpg",
-      "type": "member",
+      "type": "stream",
       "duration": 1090
     },
     {
@@ -8400,7 +8403,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-01T04:15:00.000Z"
+      "scheduledStart": "2027-03-01T04:15:00Z"
     },
     {
       "id": "13OuVho09qI",
