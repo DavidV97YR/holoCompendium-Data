@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
     "bannerUrl": "https://yt3.googleusercontent.com/7ONLBzfLI1l1HdGA7hIHkiaqrTwobf_YTGfJCA0Ghu6oRDronIJxkdbIGjr0KDUGsyI74zc0YA=s0"
   },
-  "lastUpdated": "2026-07-18T05:58:43.757Z",
-  "videoCount": 2001,
+  "lastUpdated": "2026-07-18T13:48:12.108Z",
+  "videoCount": 2002,
   "videos": [
+    {
+      "id": "Kbjw6-L5NMU",
+      "title": "【007 First Light】Final Chapter! Agent Reine's Homestretch Haste【Pavolia Reine/holoID gen 2】",
+      "published": "2026-07-18T13:04:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Kbjw6-L5NMU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-18T14:00:00.000Z"
+    },
     {
       "id": "kw7LZBnVAGY",
       "title": "Managing My Own Thrift Shop【Thrifty Business】",
@@ -26,7 +36,7 @@
       "published": "2026-07-16T18:25:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/BQP4R8CGoTg/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8252,
+      "duration": 8263,
       "status": "past",
       "scheduledStart": "2026-07-16T16:00:00Z"
     },
