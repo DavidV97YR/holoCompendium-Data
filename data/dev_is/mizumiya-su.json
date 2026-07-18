@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-07-18T06:20:44.853Z",
-  "videoCount": 999,
+  "lastUpdated": "2026-07-18T08:06:19.256Z",
+  "videoCount": 1000,
   "videos": [
+    {
+      "id": "3nteQqfgj1w",
+      "title": "【アソビ大全】1時間練習【水宮枢/ホロライブDEV_IS】",
+      "published": "2026-07-18T03:51:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3nteQqfgj1w/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-18T07:30:00.000Z"
+    },
     {
       "id": "BzxRubKQxaU",
       "title": "ワールドイズマイン/ 超かぐや姫!踊ってみた #ホロライブ #vtuber #dance",
@@ -27,7 +37,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-18T13:30:00Z"
+      "scheduledStart": "2026-07-18T13:30:00.000Z"
     },
     {
       "id": "tz069iavpCs",
@@ -543,7 +553,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",

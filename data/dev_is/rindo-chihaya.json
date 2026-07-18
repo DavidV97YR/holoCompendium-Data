@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-07-18T06:21:20.274Z",
+  "lastUpdated": "2026-07-18T08:06:49.394Z",
   "videoCount": 711,
   "videos": [
+    {
+      "id": "YbCspLC7xD8",
+      "title": "きらめきDRIVE / 輪堂千速 (official)",
+      "published": "2026-07-18T07:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YbCspLC7xD8/maxresdefault.jpg",
+      "type": "video",
+      "duration": 187,
+      "status": "past",
+      "scheduledStart": "2026-07-18T07:00:00.000Z"
+    },
     {
       "id": "PVZz4dgNWwc",
       "title": "女の名前間違えるのはやべえ #shorts #切り抜き",
@@ -46,17 +56,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-19T07:00:00Z"
-    },
-    {
-      "id": "YbCspLC7xD8",
-      "title": "きらめきDRIVE / 輪堂千速 (official)",
-      "published": "2026-07-16T06:16:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YbCspLC7xD8/maxresdefault.jpg",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-18T07:00:00Z"
+      "scheduledStart": "2026-07-19T07:00:00.000Z"
     },
     {
       "id": "tjkSABeTE9g",
@@ -6377,7 +6377,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00Z"
+      "scheduledStart": "2026-12-30T15:00:00.000Z"
     },
     {
       "id": "SjEF6bluuJE",
