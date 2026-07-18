@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-07-18T07:12:49.822Z",
+  "lastUpdated": "2026-07-18T09:12:45.119Z",
   "videoCount": 1877,
   "videos": [
+    {
+      "id": "I8wZbim14a4",
+      "title": "【セルフ3D】「VAVAVA！バーチャル大分」の振り入れしちゃいます⚔️【ホロライブ/夏色まつり】",
+      "published": "2026-07-18T08:03:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/I8wZbim14a4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 3669,
+      "status": "past",
+      "scheduledStart": "2026-07-18T07:00:00.000Z"
+    },
     {
       "id": "ktZkFIMS7Y4",
       "title": "【Solarpunk】深夜のまったりスローライフ【ホロライブ/夏色まつり】",
@@ -19,16 +29,6 @@
       "duration": 6941,
       "status": "past",
       "scheduledStart": "2026-07-17T15:35:15Z"
-    },
-    {
-      "id": "I8wZbim14a4",
-      "title": "【セルフ3D】「VAVAVA!バーチャル大分」の振り入れしちゃいます⚔️【ホロライブ/夏色まつり】",
-      "published": "2026-07-17T03:07:48.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/I8wZbim14a4/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-18T07:00:00.000Z"
     },
     {
       "id": "IT5zPafOmmw",
@@ -18347,9 +18347,8 @@
       "thumbnail": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2025-12-24T15:00:00Z"
     },
     {
       "id": "IW5b7btfayI",
