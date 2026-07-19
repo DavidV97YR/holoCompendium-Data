@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-07-19T06:19:53.049Z",
+  "lastUpdated": "2026-07-19T08:06:35.957Z",
   "videoCount": 715,
   "videos": [
+    {
+      "id": "A3xqc1E3cxk",
+      "title": "【競馬/小倉記念】夏競馬だ～～～～～！🎋【 輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-07-19T07:12:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/A3xqc1E3cxk/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 5385,
+      "status": "past",
+      "scheduledStart": "2026-07-19T05:30:00.000Z"
+    },
+    {
+      "id": "fGjR_DSvAZw",
+      "title": "BeatYourSelf / 輪堂千速 (official)",
+      "published": "2026-07-19T07:00:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fGjR_DSvAZw/maxresdefault.jpg",
+      "type": "video",
+      "duration": 254,
+      "status": "past",
+      "scheduledStart": "2026-07-19T07:00:00.000Z"
+    },
     {
       "id": "G-8ssRSOEYE",
       "title": "【FF6】#5 初めてのFF!ケフカに会いに行くぞ〜〜!!※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -17,18 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/G-8ssRSOEYE/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-19T08:00:00Z"
-    },
-    {
-      "id": "A3xqc1E3cxk",
-      "title": "【競馬/小倉記念】夏競馬だ~~~~~!🎋【 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-07-19T04:27:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/A3xqc1E3cxk/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-07-19T05:30:00Z"
+      "scheduledStart": "2026-07-19T08:00:00.000Z"
     },
     {
       "id": "T_YSC5b_4Mk",
@@ -48,7 +58,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-19T12:30:00Z"
+      "scheduledStart": "2026-07-19T12:30:00.000Z"
     },
     {
       "id": "YbCspLC7xD8",
@@ -87,16 +97,6 @@
       "type": "short",
       "duration": 22,
       "status": "past"
-    },
-    {
-      "id": "fGjR_DSvAZw",
-      "title": "BeatYourSelf / 輪堂千速 (official)",
-      "published": "2026-07-16T06:21:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fGjR_DSvAZw/maxresdefault.jpg",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-07-19T07:00:00Z"
     },
     {
       "id": "tjkSABeTE9g",
@@ -6417,7 +6417,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00Z"
+      "scheduledStart": "2026-12-30T15:00:00.000Z"
     },
     {
       "id": "SjEF6bluuJE",

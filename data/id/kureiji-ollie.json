@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-07-19T05:55:26.977Z",
+  "lastUpdated": "2026-07-19T07:45:54.813Z",
   "videoCount": 1739,
   "videos": [
+    {
+      "id": "cGrzxm0YDIU",
+      "title": "【Supermarket Chaos】 THIS SUPERMARKET NEEDS SOME CLEANING 【Kureiji Ollie】",
+      "published": "2026-07-19T06:04:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cGrzxm0YDIU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 13692,
+      "status": "past",
+      "scheduledStart": "2026-07-19T02:00:00Z"
+    },
     {
       "id": "-ftoppTes5I",
       "title": "【SENRAN KAGURA Bon Appétit! - Full Course】 SERVING!! LEAVING NO CRUMBS 【Kureiji Ollie】",
@@ -70,16 +80,6 @@
       "scheduledStart": "2026-07-14T13:00:00Z"
     },
     {
-      "id": "cGrzxm0YDIU",
-      "title": "【Supermarket Chaos】 THIS SUPERMARKET NEEDS SOME CLEANING 【Kureiji Ollie】",
-      "published": "2026-07-13T12:51:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/cGrzxm0YDIU/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 13692,
-      "status": "past",
-      "scheduledStart": "2026-07-19T02:00:00Z"
-    },
-    {
       "id": "rE_Vkhbssto",
       "title": "【ZOMILY - FREETALK】 WEEKLY ZOMILY!! LET'S TALK AS PER USUAL~ 【Kureiji Ollie】",
       "published": "2026-07-13T12:47:10.000Z",
@@ -87,7 +87,7 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-19T13:00:00Z"
+      "scheduledStart": "2026-07-19T13:00:00.000Z"
     },
     {
       "id": "xm8mKqg7mOI",
@@ -13282,7 +13282,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-01-27T05:00:00Z"
+      "scheduledStart": "2028-01-27T05:00:00.000Z"
     },
     {
       "id": "WLRBngUXWGY",
