@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-07-19T14:06:32.596Z",
-  "videoCount": 715,
+  "lastUpdated": "2026-07-19T16:07:09.186Z",
+  "videoCount": 716,
   "videos": [
+    {
+      "id": "zKbFwnV9mTk",
+      "title": "【ガンプラ/カメラあり】バンシィ・ノルン!!!!!!つくっていく! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published": "2026-07-19T15:38:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zKbFwnV9mTk/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-20T03:00:00.000Z"
+    },
+    {
+      "id": "rM5RsZeekSQ",
+      "title": "【F1同時視聴】ベルギーGP！スパ決勝だよ～！ 【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-07-19T15:22:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rM5RsZeekSQ/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 9771,
+      "status": "past",
+      "scheduledStart": "2026-07-19T12:30:00.000Z"
+    },
     {
       "id": "G-8ssRSOEYE",
       "title": "【FF6】#5 初めてのFF！ケフカに会いに行くぞ〜〜！！※ネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
@@ -49,16 +69,6 @@
       "duration": 7467,
       "status": "past",
       "scheduledStart": "2026-07-18T13:45:00Z"
-    },
-    {
-      "id": "rM5RsZeekSQ",
-      "title": "【F1同時視聴】ベルギーGP!スパ決勝だよ~! 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-07-18T11:01:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rM5RsZeekSQ/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-19T12:30:00.000Z"
     },
     {
       "id": "YbCspLC7xD8",
