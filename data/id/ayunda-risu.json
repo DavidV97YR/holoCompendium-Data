@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-20T13:42:56.705Z",
-  "videoCount": 1673,
+  "lastUpdated": "2026-07-20T15:43:26.878Z",
+  "videoCount": 1674,
   "videos": [
     {
-      "id": "jx1hmcZbUlA",
-      "title": "M.M.M. Monday Monday Monday",
-      "published": "2026-07-20T08:28:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jx1hmcZbUlA/maxresdefault.jpg",
+      "id": "WZ54yTgCYig",
+      "title": "Login Els Duls",
+      "published": "2026-07-20T14:18:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/WZ54yTgCYig/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
       "status": "live",
+      "scheduledStart": "2026-07-20T14:30:00.000Z"
+    },
+    {
+      "id": "jx1hmcZbUlA",
+      "title": "M.M.M. Monday Monday Monday",
+      "published": "2026-07-20T14:16:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jx1hmcZbUlA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7468,
+      "status": "past",
       "scheduledStart": "2026-07-20T12:00:00.000Z"
     },
     {
@@ -55,7 +65,7 @@
       "published": "2026-07-18T20:31:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PKkCfAdjUc0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13807,
+      "duration": 13809,
       "status": "past",
       "scheduledStart": "2026-07-18T16:30:00Z"
     },
