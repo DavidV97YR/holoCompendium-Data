@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A",
     "bannerUrl": "https://yt3.googleusercontent.com/k1vCsIbtcRaU9OwygWrxTpMWhbsqQO0qC0wm0X31nBYmkbwmqG3TAt1HdM3Z4JWc5YqGz2mLZ84=s0"
   },
-  "lastUpdated": "2026-07-20T06:21:41.792Z",
-  "videoCount": 1061,
+  "lastUpdated": "2026-07-20T08:07:41.873Z",
+  "videoCount": 1062,
   "videos": [
+    {
+      "id": "SJIVtNhoThg",
+      "title": "KYUTO",
+      "published": "2026-07-20T08:00:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SJIVtNhoThg/maxresdefault.jpg",
+      "type": "short",
+      "duration": 14,
+      "status": "past"
+    },
     {
       "id": "cze8CH62xUU",
       "title": "【 Toilet 8 】8番出口ライク!?トイレで異変を探す!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -18,7 +27,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-20T09:00:00Z"
+      "scheduledStart": "2026-07-20T09:00:00.000Z"
     },
     {
       "id": "uLLEvHdXYw4",
@@ -9674,7 +9683,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00Z"
+      "scheduledStart": "2027-12-31T14:45:00.000Z"
     },
     {
       "id": "SrH6XQ8H9oo",
