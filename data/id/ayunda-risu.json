@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-21T05:50:43.885Z",
-  "videoCount": 1674,
+  "lastUpdated": "2026-07-21T07:43:03.232Z",
+  "videoCount": 1675,
   "videos": [
+    {
+      "id": "A1OlmHiFV9c",
+      "title": "ATMIN MEMASAK",
+      "published": "2026-07-21T06:50:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/A1OlmHiFV9c/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-21T07:15:00.000Z"
+    },
     {
       "id": "WZ54yTgCYig",
       "title": "Login Els Duls",
@@ -1265,7 +1275,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-04T06:15:00Z"
+      "scheduledStart": "2028-03-04T06:15:00.000Z"
     },
     {
       "id": "_5igdoWVG1U",

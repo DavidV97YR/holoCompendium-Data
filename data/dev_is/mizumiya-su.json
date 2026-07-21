@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-07-21T06:17:09.854Z",
-  "videoCount": 1006,
+  "lastUpdated": "2026-07-21T08:05:53.750Z",
+  "videoCount": 1007,
   "videos": [
+    {
+      "id": "qc-u34Zsvs0",
+      "title": "INTERNET OVERDOSE/ 踊ってみた #ホロライブ #vtuber #dance",
+      "published": "2026-07-21T08:00:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qc-u34Zsvs0/maxresdefault.jpg",
+      "type": "short",
+      "duration": 25,
+      "status": "past"
+    },
     {
       "id": "k1Fo9gKmj8g",
       "title": "【R･E･P･O】大初心者🔰オシャレになりたい!!✨️!【水宮枢/ホロライブDEV_IS】",
@@ -18,7 +27,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-21T12:00:00Z"
+      "scheduledStart": "2026-07-21T12:00:00.000Z"
     },
     {
       "id": "5reph4nF1OM",
@@ -611,7 +620,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
