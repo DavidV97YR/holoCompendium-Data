@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-07-22T17:43:17.706Z",
+  "lastUpdated": "2026-07-22T17:52:42.658Z",
   "videoCount": 1678,
   "videos": [
     {
       "id": "IM1ixLagvTo",
       "title": "LOG IN DAILY",
-      "published": "2026-07-22T16:15:23+00:00",
+      "published": "2026-07-22T16:15:23Z",
       "thumbnail": "https://i.ytimg.com/vi/IM1ixLagvTo/maxresdefault.jpg",
       "type": "stream",
       "duration": 10254,
       "status": "past",
-      "scheduledStart": "2026-07-22T13:00:00.000Z"
+      "scheduledStart": "2026-07-22T13:00:00Z"
     },
     {
       "id": "1O_2Yd2JDEE",
@@ -1303,7 +1303,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-04T06:15:00.000Z"
+      "scheduledStart": "2028-03-04T06:15:00Z"
     },
     {
       "id": "_5igdoWVG1U",
