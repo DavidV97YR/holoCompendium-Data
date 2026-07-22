@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-07-22T09:12:54.276Z",
-  "videoCount": 1883,
+  "lastUpdated": "2026-07-22T11:12:50.378Z",
+  "videoCount": 1884,
   "videos": [
     {
       "id": "yQAxENvatMU",
@@ -30,6 +30,16 @@
       "scheduledStart": "2026-07-21T12:00:00Z"
     },
     {
+      "id": "kgvB7YRGZvA",
+      "title": "【オリジナル曲】美少女戦士まつりみっとZero【ホロライブ/夏色まつり/佐藤貴文】",
+      "published": "2026-07-21T16:11:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kgvB7YRGZvA/maxresdefault.jpg",
+      "type": "video",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-22T12:00:00.000Z"
+    },
+    {
       "id": "iW0hohFYKGA",
       "title": "【ホロライブドリームス】ホロライブ最速プレイ!待ちわびた神ゲーきちゃ✨【ホロライブ/夏色まつり】",
       "published": "2026-07-20T14:19:09.000Z",
@@ -46,7 +56,7 @@
       "thumbnail": "https://i.ytimg.com/vi/pgCNuoTMxtM/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-22T11:00:00.000Z"
     },
     {

@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-07-22T08:07:00.491Z",
-  "videoCount": 60,
+  "lastUpdated": "2026-07-22T12:07:29.219Z",
+  "videoCount": 61,
   "videos": [
+    {
+      "id": "km9LqHKAtcg",
+      "title": "夜の踊り子やってみた。【 #UNIT_B 】",
+      "published": "2026-07-22T11:30:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/km9LqHKAtcg/maxresdefault.jpg",
+      "type": "short",
+      "duration": 14,
+      "status": "past"
+    },
     {
       "id": "mA9GuNIO0OE",
       "title": "【元気に】爽やか曲で暑さを吹き飛ばそう🎐【 #UNIT_B / #清澄ライラ】",
@@ -27,7 +36,7 @@
       "thumbnail": "https://i.ytimg.com/vi/tj_Tv0TTOMw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-22T12:00:00.000Z"
     },
     {
