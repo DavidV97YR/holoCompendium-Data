@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-07-23T07:12:42.784Z",
+  "lastUpdated": "2026-07-23T09:12:50.304Z",
   "videoCount": 1884,
   "videos": [
+    {
+      "id": "iW0hohFYKGA",
+      "title": "【ホロライブドリームス】ホロライブ最速プレイ！待ちわびた神ゲーきちゃ✨【ホロライブ/夏色まつり】",
+      "published": "2026-07-23T08:41:26+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iW0hohFYKGA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 9379,
+      "status": "past",
+      "scheduledStart": "2026-07-23T06:00:00.000Z"
+    },
     {
       "id": "pgCNuoTMxtM",
       "title": "【 #夏色まつり新衣装 】清楚担当らしい衣装をお披露目ですわよ💓【ホロライブ/夏色まつり】",
@@ -48,16 +58,6 @@
       "duration": 14618,
       "status": "past",
       "scheduledStart": "2026-07-21T12:00:00Z"
-    },
-    {
-      "id": "iW0hohFYKGA",
-      "title": "【ホロライブドリームス】ホロライブ最速プレイ!待ちわびた神ゲーきちゃ✨【ホロライブ/夏色まつり】",
-      "published": "2026-07-20T14:19:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/iW0hohFYKGA/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-23T06:00:00.000Z"
     },
     {
       "id": "T-9wvhhyc6o",
@@ -1020,7 +1020,7 @@
     },
     {
       "id": "5M10Z3xv4NQ",
-      "title": "【Phasmophobia】夏色吹雪見守り隊！さぁ、モコリオナ行っておいで！【ホロライブ/夏色まつり】",
+      "title": "【Phasmophobia】夏色吹雪見守り隊!さぁ、モコリオナ行っておいで!【ホロライブ/夏色まつり】",
       "published": "2026-04-11T13:41:35Z",
       "thumbnail": "https://i.ytimg.com/vi/5M10Z3xv4NQ/maxresdefault.jpg",
       "type": "stream",
@@ -18416,9 +18416,8 @@
       "thumbnail": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2025-12-24T15:00:00Z"
     },
     {
       "id": "IW5b7btfayI",
