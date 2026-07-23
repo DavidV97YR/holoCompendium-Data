@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-07-23T06:17:01.243Z",
-  "videoCount": 1010,
+  "lastUpdated": "2026-07-23T08:05:57.187Z",
+  "videoCount": 1011,
   "videos": [
+    {
+      "id": "mUBifDS6f3I",
+      "title": "ポケダンス/みにみやと踊ってみた #ホロライブ #vtuber #dance",
+      "published": "2026-07-23T08:00:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mUBifDS6f3I/maxresdefault.jpg",
+      "type": "short",
+      "duration": 16,
+      "status": "past"
+    },
     {
       "id": "T6YB0Ep0XgQ",
       "title": "【ウマ娘プリティーダービー】天井は見ないルーラーシップガチャ＆育成【水宮枢／ホロライブDEV_IS】",
@@ -648,7 +657,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",

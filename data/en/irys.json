@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
     "bannerUrl": "https://yt3.googleusercontent.com/FJwvN5n0ZEDxnNxWKwo8RXB6K-9Z9nDcGWUmIMLG4ssCsBX_mF6-z2rwVBN6-87XKwQIHCJLdG4=s0"
   },
-  "lastUpdated": "2026-07-23T06:03:54.830Z",
-  "videoCount": 816,
+  "lastUpdated": "2026-07-23T07:54:22.903Z",
+  "videoCount": 817,
   "videos": [
+    {
+      "id": "1a6GDQiTcCg",
+      "title": "【Hololive Dreams】 THE HOLOLIVE GAME IS HERE!ホロドリ来たーーーー!!",
+      "published": "2026-07-23T05:21:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1a6GDQiTcCg/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-23T06:00:00.000Z"
+    },
     {
       "id": "uExsUpuCzEE",
       "title": "My own song is in #holodori !!✨ #vtuber #hololive #shorts",
@@ -6494,7 +6504,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-31T03:00:00Z"
+      "scheduledStart": "2026-07-31T03:00:00.000Z"
     },
     {
       "id": "ocQSSdsrFN8",

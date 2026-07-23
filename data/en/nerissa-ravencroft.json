@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
     "bannerUrl": "https://yt3.googleusercontent.com/O8AT2TqQ__ZxIZcr4F5kTBGeEXe-1sdEfVAZX7L7znev8O1gtCqndxHUrGOOycVqZ9W3A9Nb=s0"
   },
-  "lastUpdated": "2026-07-23T06:08:27.162Z",
-  "videoCount": 660,
+  "lastUpdated": "2026-07-23T07:58:26.423Z",
+  "videoCount": 661,
   "videos": [
     {
       "id": "VhFhnxeeFUU",
@@ -19,6 +19,16 @@
       "duration": 6627,
       "status": "past",
       "scheduledStart": "2026-07-23T01:00:00Z"
+    },
+    {
+      "id": "zcGdKK_cQbE",
+      "title": "【ENGLISH COVER】Bad Apple!! (Nerissa Ravencroft)",
+      "published": "2026-07-22T23:42:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zcGdKK_cQbE/maxresdefault.jpg",
+      "type": "video",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-25T15:00:00.000Z"
     },
     {
       "id": "xgGqifCMhv4",
@@ -6357,7 +6367,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-05-31T04:45:00Z"
+      "scheduledStart": "2028-05-31T04:45:00.000Z"
     },
     {
       "id": "5BdUa7aAgnM",
