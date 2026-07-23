@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
     "bannerUrl": "https://yt3.googleusercontent.com/O8AT2TqQ__ZxIZcr4F5kTBGeEXe-1sdEfVAZX7L7znev8O1gtCqndxHUrGOOycVqZ9W3A9Nb=s0"
   },
-  "lastUpdated": "2026-07-23T11:59:16.637Z",
+  "lastUpdated": "2026-07-23T18:11:55.859Z",
   "videoCount": 663,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-24T01:00:00.000Z"
+      "scheduledStart": "2026-07-24T01:00:00Z"
     },
     {
       "id": "hphf24-Fkqw",
@@ -27,7 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/hphf24-Fkqw/maxresdefault.jpg",
       "type": "stream",
       "duration": 5011,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-07-23T06:00:00Z"
     },
     {
       "id": "VhFhnxeeFUU",
@@ -47,7 +48,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-25T15:00:00.000Z"
+      "scheduledStart": "2026-07-25T15:00:00Z"
     },
     {
       "id": "xgGqifCMhv4",
@@ -6386,7 +6387,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-05-31T04:45:00.000Z"
+      "scheduledStart": "2028-05-31T04:45:00Z"
     },
     {
       "id": "5BdUa7aAgnM",
