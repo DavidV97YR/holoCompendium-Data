@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
     "bannerUrl": "https://yt3.googleusercontent.com/m4hI8Er_vGrR-Ycxic0Sahx2uUOaIHflx9BTDJe_6HruUGOIHwZjrhwR8LGAJlYaR5o7_Ks=s0"
   },
-  "lastUpdated": "2026-07-24T17:31:02.289Z",
+  "lastUpdated": "2026-07-24T17:37:00.384Z",
   "videoCount": 1625,
   "videos": [
     {
       "id": "ffLyj-uUIIY",
       "title": "【 ホロドリ 】steam版で遊んでみるのらね！！！hololive Dreams【姫森ルーナ/ホロライブ】",
-      "published": "2026-07-24T17:01:19+00:00",
+      "published": "2026-07-24T17:01:19Z",
       "thumbnail": "https://i.ytimg.com/vi/ffLyj-uUIIY/maxresdefault.jpg",
       "type": "stream",
       "duration": 10379,
       "status": "past",
-      "scheduledStart": "2026-07-24T14:00:00.000Z"
+      "scheduledStart": "2026-07-24T14:00:00Z"
     },
     {
       "id": "fJj8Ek0p6wc",
@@ -26,7 +26,9 @@
       "published": "2026-07-24T05:23:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fJj8Ek0p6wc/maxresdefault.jpg",
       "type": "member",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-25T11:00:00Z"
     },
     {
       "id": "tiRozA9tyKI",
@@ -10146,7 +10148,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-10-10T14:55:00.000Z"
+      "scheduledStart": "2027-10-10T14:55:00Z"
     },
     {
       "id": "vlqVuLuZl00",

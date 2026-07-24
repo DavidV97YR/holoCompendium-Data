@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0"
   },
-  "lastUpdated": "2026-07-24T17:20:11.482Z",
+  "lastUpdated": "2026-07-24T17:23:41.349Z",
   "videoCount": 1836,
   "videos": [
     {
       "id": "wsnmUBn1g3Y",
       "title": "【 パワプロ2026 】初めての栄冠ナイン!! 2年目夏甲子園から🌞【 猫又おかゆ/ホロライブ 】#パワプロケモミミリーグ",
-      "published": "2026-07-24T15:29:27+00:00",
+      "published": "2026-07-24T15:29:27Z",
       "thumbnail": "https://i.ytimg.com/vi/wsnmUBn1g3Y/maxresdefault.jpg",
       "type": "stream",
       "duration": 18962,
       "status": "past",
-      "scheduledStart": "2026-07-24T10:00:00.000Z"
+      "scheduledStart": "2026-07-24T10:00:00Z"
     },
     {
       "id": "zoe_UJjS4Y4",
@@ -26,7 +26,9 @@
       "published": "2026-07-24T15:18:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/zoe_UJjS4Y4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-25T11:00:00Z"
     },
     {
       "id": "wA2K3usJhno",
