@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ",
     "bannerUrl": "https://yt3.googleusercontent.com/qFbTxpnxmdXTKeOxYoWd2HaRJ7gGjGPCq5I1pghiNSiDgQZNU6BXa0SPAI0ND6K371-kEv9p=s0"
   },
-  "lastUpdated": "2026-07-25T12:02:16.249Z",
+  "lastUpdated": "2026-07-25T18:14:46.913Z",
   "videoCount": 936,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 5079,
       "status": "past",
-      "scheduledStart": "2026-07-25T08:00:00.000Z"
+      "scheduledStart": "2026-07-25T08:00:00Z"
     },
     {
       "id": "W09ZY-8oDbk",
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/W09ZY-8oDbk/maxresdefault.jpg",
       "type": "stream",
       "duration": 7991,
-      "status": "unavailable",
-      "scheduledStart": "2026-07-24T10:00:00.000Z"
+      "status": "past",
+      "scheduledStart": "2026-07-24T10:00:00Z"
     },
     {
       "id": "CgugcxW72Us",
@@ -9086,7 +9086,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-09T15:00:00.000Z"
+      "scheduledStart": "2026-09-09T15:00:00Z"
     },
     {
       "id": "eytPidhJ6cI",
