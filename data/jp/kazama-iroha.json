@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-07-26T03:41:56.975Z",
-  "videoCount": 1243,
+  "lastUpdated": "2026-07-26T05:42:05.881Z",
+  "videoCount": 1244,
   "videos": [
+    {
+      "id": "vzCu8Q-PD8U",
+      "title": "風真いろはの #ねるまえらじお 📻❣ #18",
+      "published": "2026-07-26T03:59:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/vzCu8Q-PD8U/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-26T15:30:00.000Z"
+    },
     {
       "id": "2V6DBknuFaI",
       "title": "【#ホロドリ】『推し』の完凸だぞ。。。【風真いろは/ホロライブ】",
@@ -17,7 +27,7 @@
       "thumbnail": "https://i.ytimg.com/vi/2V6DBknuFaI/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-26T04:00:00.000Z"
     },
     {
