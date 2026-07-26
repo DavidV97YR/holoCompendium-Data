@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-07-26T09:38:56.102Z",
-  "videoCount": 2331,
+  "lastUpdated": "2026-07-26T11:39:08.311Z",
+  "videoCount": 2332,
   "videos": [
+    {
+      "id": "UqZmm3dskP0",
+      "title": "【 アソビ大全 】告知あり！獅子神レオナちゃんと最強勝負…。勝つのはどっちだ⁉【鷹嶺ルイ/ホロライブ】",
+      "published": "2026-07-26T11:04:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UqZmm3dskP0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 5386,
+      "status": "past",
+      "scheduledStart": "2026-07-26T09:00:00.000Z"
+    },
+    {
+      "id": "VgkvRRcI6F4",
+      "title": "ザムザ / 鷹嶺ルイ×獅子神レオナ (cover)",
+      "published": "2026-07-26T10:30:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VgkvRRcI6F4/maxresdefault.jpg",
+      "type": "video",
+      "duration": 213,
+      "status": "past"
+    },
     {
       "id": "0xsqyOBAS38",
       "title": "【 関屋記念＆東海S 】夏競馬、今日も勝ちます。【鷹嶺ルイ/ホロライブ】",
@@ -19,16 +38,6 @@
       "duration": 6816,
       "status": "past",
       "scheduledStart": "2026-07-26T05:15:00.000Z"
-    },
-    {
-      "id": "UqZmm3dskP0",
-      "title": "【 アソビ大全 】告知あり!獅子神レオナちゃんと最強勝負…。勝つのはどっちだ⁉【鷹嶺ルイ/ホロライブ】",
-      "published": "2026-07-26T03:36:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UqZmm3dskP0/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-26T09:00:00.000Z"
     },
     {
       "id": "1rK3fl8mA2E",
@@ -56,7 +65,7 @@
       "published": "2026-07-24T15:35:04+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wiQzciDmhAE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5204,
+      "duration": 5163,
       "status": "past",
       "scheduledStart": "2026-07-24T14:00:00Z"
     },
