@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0"
   },
-  "lastUpdated": "2026-07-26T05:29:47.280Z",
+  "lastUpdated": "2026-07-26T07:25:01.685Z",
   "videoCount": 1752,
   "videos": [
+    {
+      "id": "nK2VbTDbhg8",
+      "title": "【朝活雑談】39度のとろけそうな日【白銀ノエル/ホロライブ】",
+      "published": "2026-07-26T06:52:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nK2VbTDbhg8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 20370,
+      "status": "past",
+      "scheduledStart": "2026-07-26T01:00:00.000Z"
+    },
     {
       "id": "X2QgJmJnrBA",
       "title": "【ASMR】季節の変わり目にお耳も心も癒される吐息♡囁き♡耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
@@ -18,17 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-26T14:00:00Z"
-    },
-    {
-      "id": "nK2VbTDbhg8",
-      "title": "【朝活雑談】39度のとろけそうな日【白銀ノエル/ホロライブ】",
-      "published": "2026-07-25T15:21:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/nK2VbTDbhg8/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-07-26T01:00:00Z"
+      "scheduledStart": "2026-07-26T14:00:00.000Z"
     },
     {
       "id": "At__QYJKER8",
@@ -36,7 +36,7 @@
       "published": "2026-07-24T11:39:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/At__QYJKER8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9171,
+      "duration": 9125,
       "status": "past",
       "scheduledStart": "2026-07-24T09:00:00Z"
     },
@@ -3558,7 +3558,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-24T03:00:00Z"
+      "scheduledStart": "2026-11-24T03:00:00.000Z"
     },
     {
       "id": "SJTIUeh0s2Y",
