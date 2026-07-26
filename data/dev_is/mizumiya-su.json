@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-07-26T16:06:46.163Z",
+  "lastUpdated": "2026-07-26T18:17:51.830Z",
   "videoCount": 1020,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 949,
       "status": "past",
-      "scheduledStart": "2026-07-26T14:00:00.000Z"
+      "scheduledStart": "2026-07-26T14:00:00Z"
     },
     {
       "id": "Y6ICx8tlncY",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 9669,
       "status": "past",
-      "scheduledStart": "2026-07-26T08:30:00.000Z"
+      "scheduledStart": "2026-07-26T08:30:00Z"
     },
     {
       "id": "18kQPW5QMVI",
@@ -63,10 +63,10 @@
       "title": "【メン限】ASMR甘々囁き多め…?♡【水宮枢/ホロライブDEV_IS】",
       "published": "2026-07-24T22:10:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ORH8I8YM5tA/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 4449,
       "status": "past",
-      "scheduledStart": "2026-07-26T14:20:00.000Z"
+      "scheduledStart": "2026-07-26T14:20:00Z"
     },
     {
       "id": "4V_BC9BcaP0",
@@ -744,7 +744,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00.000Z"
+      "scheduledStart": "2028-06-30T14:30:00Z"
     },
     {
       "id": "bzecknsOFZI",
