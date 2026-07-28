@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
     "bannerUrl": "https://yt3.googleusercontent.com/iBaGLA10FOOPnKA8dJP-KYJJW099KsNFrZEgjWH-8IBTArRVsm455XrcSAZdxT9ev7xHdrL4z7o=s0"
   },
-  "lastUpdated": "2026-07-27T22:01:26.046Z",
-  "videoCount": 512,
+  "lastUpdated": "2026-07-28T02:00:36.353Z",
+  "videoCount": 513,
   "videos": [
+    {
+      "id": "VC5LRtLe6JY",
+      "title": "【hololive Dreams】NOEL-SENPAI DEKAI!!!!!!!!",
+      "published": "2026-07-28T01:36:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VC5LRtLe6JY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-28T02:15:00.000Z"
+    },
     {
       "id": "iSwYbJ5Ajzc",
       "title": "【hololive Dreams】i tried to resist the siren's calls but i could not",
-      "published": "2026-07-27T11:06:59.000Z",
+      "published": "2026-07-28T01:19:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iSwYbJ5Ajzc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 14706,
+      "status": "past",
       "scheduledStart": "2026-07-27T21:00:00.000Z"
     },
     {
