@@ -7,9 +7,39 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-07-28T06:01:26.833Z",
-  "videoCount": 1879,
+  "lastUpdated": "2026-07-28T07:51:29.152Z",
+  "videoCount": 1882,
   "videos": [
+    {
+      "id": "d0ce8qQxEhU",
+      "title": "【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive",
+      "published": "2026-07-28T05:13:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/d0ce8qQxEhU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-31T02:00:00.000Z"
+    },
+    {
+      "id": "vhJlRuYCD98",
+      "title": "mori calliope returns from summer vacation! #calliolive",
+      "published": "2026-07-28T05:07:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/vhJlRuYCD98/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "id": "7lvZcUpHbFA",
+      "title": "【member's only】off #calliolive",
+      "published": "2026-07-28T04:59:52.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7lvZcUpHbFA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-28T13:00:00.000Z"
+    },
     {
       "id": "PnSbj0n238A",
       "title": "WHERE ARE THEY!?!? #mecchachameleon #hololive #anime #animation #vtuber",
@@ -185,9 +215,8 @@
       "thumbnail": "https://i.ytimg.com/vi/HFCvn1Fw4Js/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2027-06-06T19:15:00.000Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2027-06-06T19:15:00.000Z"
     },
     {
       "id": "0OoToPU1Mbo",
