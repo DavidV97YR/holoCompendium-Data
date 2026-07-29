@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-07-29T08:06:41.353Z",
-  "videoCount": 727,
+  "lastUpdated": "2026-07-29T10:07:19.719Z",
+  "videoCount": 729,
   "videos": [
+    {
+      "id": "wZmYx-1GdtM",
+      "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #14【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published": "2026-07-29T08:55:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wZmYx-1GdtM/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-29T14:00:00.000Z"
+    },
+    {
+      "id": "kxxNJoPNOdc",
+      "title": "【FF6】#8 初めてのFF!みんなを探し出すぞ!!!!!!※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published": "2026-07-29T08:28:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kxxNJoPNOdc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-07-29T11:00:00.000Z"
+    },
     {
       "id": "f4EZ7LDp-cI",
       "title": "【耐久歌枠/KARAOKE】遂に60万人目前!一緒に迎えたいです!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -17,7 +37,7 @@
       "thumbnail": "https://i.ytimg.com/vi/f4EZ7LDp-cI/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-07-29T09:00:00.000Z"
     },
     {
