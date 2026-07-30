@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-07-30T07:15:34.910Z",
+  "lastUpdated": "2026-07-30T09:12:57.104Z",
   "videoCount": 1892,
   "videos": [
     {
@@ -51,7 +51,7 @@
     },
     {
       "id": "G9StjYx5rOA",
-      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました！🏎【ホロライブ/夏色まつり】",
+      "title": "【レーシングマスター】すべてが激アツな神レースゲームと聞きました!🏎【ホロライブ/夏色まつり】",
       "published": "2026-07-28T12:21:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/G9StjYx5rOA/maxresdefault.jpg",
       "type": "stream",
@@ -77,7 +77,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-07-30T10:00:00.000Z"
+      "scheduledStart": "2026-07-30T10:00:00.000Z",
+      "missStreak": 1
     },
     {
       "id": "RfrleUDUdAs",
@@ -18494,9 +18495,8 @@
       "thumbnail": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2025-12-24T15:00:00Z"
     },
     {
       "id": "IW5b7btfayI",
