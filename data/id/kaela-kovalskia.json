@@ -7,16 +7,26 @@
     "avatarUrl": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
     "bannerUrl": "https://yt3.googleusercontent.com/JhknNUVHVa8KZ9zxZ0MGMi3pV3BevLvL1TQNVUCZU9MlKLnH20rU1-ZF_zXCRiuP29ye3U24d5w=s0"
   },
-  "lastUpdated": "2026-07-31T05:58:17.672Z",
-  "videoCount": 1707,
+  "lastUpdated": "2026-07-31T07:49:33.799Z",
+  "videoCount": 1708,
   "videos": [
+    {
+      "id": "HTTp3EVJBkc",
+      "title": "【hololive Dreams】this is a POKAJAN stream, unless world distracts me hard enough",
+      "published": "2026-07-31T03:57:44.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HTTp3EVJBkc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-07-31T05:30:00.000Z"
+    },
     {
       "id": "lnfApqsyeeM",
       "title": "【hololive Dreams】finally Kaela Kovalskia can play holodori the RIGHT way 🪙🪙",
       "published": "2026-07-29T11:00:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lnfApqsyeeM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 16661,
+      "duration": 16666,
       "status": "past",
       "scheduledStart": "2026-07-29T06:00:00Z"
     },
@@ -14648,7 +14658,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-25T23:09:00Z"
+      "scheduledStart": "2028-03-25T23:09:00.000Z"
     },
     {
       "id": "cIpAXFkE8gk",
