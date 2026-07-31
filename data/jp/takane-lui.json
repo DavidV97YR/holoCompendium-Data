@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-07-31T17:28:14.692Z",
+  "lastUpdated": "2026-07-31T17:46:51.615Z",
   "videoCount": 2338,
   "videos": [
     {
@@ -26,10 +26,10 @@
       "title": "【メンバーシップ限定】夏ですねぇ~~~ 【鷹嶺ルイ/ホロライブ】",
       "published": "2026-07-31T10:58:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/PrtLlQCWlDk/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 5298,
       "status": "past",
-      "scheduledStart": "2026-07-31T14:00:00.000Z"
+      "scheduledStart": "2026-07-31T14:00:00Z"
     },
     {
       "id": "18FoBknzzYs",
@@ -39,7 +39,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-01T10:30:00.000Z"
+      "scheduledStart": "2026-08-01T10:30:00Z"
     },
     {
       "id": "XpL-LcXl3x4",
