@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
     "bannerUrl": "https://yt3.googleusercontent.com/HkdBYiIHoZdS3jhzfTtLCAf6upeuzDb_yNeMyMi4fH3JGh57C-S1leqJG2VksyUTpPPKE2jcRSk=s0"
   },
-  "lastUpdated": "2026-08-01T15:50:56.679Z",
-  "videoCount": 800,
+  "lastUpdated": "2026-08-01T17:59:51.170Z",
+  "videoCount": 801,
   "videos": [
+    {
+      "id": "zwLbl7YcKuU",
+      "title": "【ELSWORD】Grinding and chilling",
+      "published": "2026-08-01T17:49:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zwLbl7YcKuU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-02T02:00:00Z"
+    },
     {
       "id": "d3X7rbNaETQ",
       "title": "【hololive Dreams】Enjoying rhythm game and pokajan 😎✨",
@@ -18,7 +28,7 @@
       "type": "stream",
       "duration": 9947,
       "status": "past",
-      "scheduledStart": "2026-08-01T12:30:00.000Z"
+      "scheduledStart": "2026-08-01T12:30:00Z"
     },
     {
       "id": "GhgaTQ_2V7A",
