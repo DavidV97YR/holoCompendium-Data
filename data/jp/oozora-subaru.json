@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-08-01T01:16:18.616Z",
+  "lastUpdated": "2026-08-01T03:16:29.622Z",
   "videoCount": 2142,
   "videos": [
+    {
+      "id": "hq5-D6hv_X0",
+      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+      "published": "2026-08-01T03:00:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hq5-D6hv_X0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 6881,
+      "status": "past",
+      "scheduledStart": "2026-08-01T01:00:00.000Z"
+    },
     {
       "id": "gyeo_J_F28g",
       "title": "【#2】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
@@ -29,16 +39,6 @@
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-08-02T04:00:00.000Z"
-    },
-    {
-      "id": "hq5-D6hv_X0",
-      "title": "【#生スバル】おはすば!：FREE TALK【ホロライブ/大空スバル】",
-      "published": "2026-07-31T12:38:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/hq5-D6hv_X0/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-01T01:00:00.000Z"
     },
     {
       "id": "m6QqokYtLV4",
