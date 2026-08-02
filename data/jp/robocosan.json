@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
     "bannerUrl": "https://yt3.googleusercontent.com/y8hWElFNjX7rDqZHo0D_379Fu9om7rAk18KeXFOAejA4CcaTqrkrDZugYgpDl1KqrFcjAoFOGnQ=s0"
   },
-  "lastUpdated": "2026-08-02T07:03:09.664Z",
-  "videoCount": 2149,
+  "lastUpdated": "2026-08-02T11:03:18.361Z",
+  "videoCount": 2151,
   "videos": [
+    {
+      "id": "Bzy5Cxg3Bpg",
+      "title": "【3DLIVE】メンバー限定✨ 魅惑のアンコールライブ #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】",
+      "published": "2026-08-02T09:30:44.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Bzy5Cxg3Bpg/maxresdefault.jpg",
+      "type": "member",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-02T12:00:00.000Z"
+    },
+    {
+      "id": "_buc53b7gs8",
+      "title": "【???】21:02に何かが出る!?【ホロライブ/ロボ子さん】",
+      "published": "2026-08-02T09:05:54.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/_buc53b7gs8/maxresdefault.jpg",
+      "type": "video",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-02T12:02:00.000Z"
+    },
     {
       "id": "bU8nPZvro-8",
       "title": "本日20時からは #ロボ子海底3Dライブ ✨️重大告知はなんだ⁉️ #vtuber  #hololive  #ロボ子さん",
@@ -55,7 +75,7 @@
       "thumbnail": "https://i.ytimg.com/vi/9uv6ihLUXtQ/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-08-02T11:00:00.000Z"
     },
     {
