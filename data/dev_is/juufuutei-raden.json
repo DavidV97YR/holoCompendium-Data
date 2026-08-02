@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw",
     "bannerUrl": "https://yt3.googleusercontent.com/m6wL54-0Zrt5xi-1hq73ZSFObjzJeYANoHeOKVZCICd_1cua-YamuJdGJQTIEPF_-xuFvoUbm3s=s0"
   },
-  "lastUpdated": "2026-08-02T02:03:37.229Z",
+  "lastUpdated": "2026-08-02T04:03:22.697Z",
   "videoCount": 887,
   "videos": [
+    {
+      "id": "ry8xwlQktO0",
+      "title": "【らでん自習室】8月2日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "published": "2026-08-02T02:39:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ry8xwlQktO0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 3949,
+      "status": "past",
+      "scheduledStart": "2026-08-02T01:00:00.000Z"
+    },
     {
       "id": "wg2BTTC0Mic",
       "title": "【らでん自習室】8月1日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
@@ -19,16 +29,6 @@
       "duration": 4074,
       "status": "past",
       "scheduledStart": "2026-08-01T01:00:00Z"
-    },
-    {
-      "id": "ry8xwlQktO0",
-      "title": "【らでん自習室】8月2日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-      "published": "2026-08-01T02:10:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ry8xwlQktO0/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-02T01:00:00.000Z"
     },
     {
       "id": "lhELE09P530",
