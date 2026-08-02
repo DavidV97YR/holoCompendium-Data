@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw",
     "bannerUrl": "https://yt3.googleusercontent.com/m6wL54-0Zrt5xi-1hq73ZSFObjzJeYANoHeOKVZCICd_1cua-YamuJdGJQTIEPF_-xuFvoUbm3s=s0"
   },
-  "lastUpdated": "2026-08-02T06:17:15.530Z",
-  "videoCount": 887,
+  "lastUpdated": "2026-08-02T08:05:21.491Z",
+  "videoCount": 888,
   "videos": [
+    {
+      "id": "AkvOR0Gfvgg",
+      "title": "【メン限】3周年にむけて！企画会議！！【儒烏風亭らでん/ReGLOSS】",
+      "published": "2026-08-02T07:27:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/AkvOR0Gfvgg/maxresdefault.jpg",
+      "type": "member",
+      "duration": 0
+    },
     {
       "id": "ry8xwlQktO0",
       "title": "【らでん自習室】8月2日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
@@ -36,7 +44,7 @@
       "published": "2026-07-31T13:01:50+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lhELE09P530/maxresdefault.jpg",
       "type": "stream",
-      "duration": 5264,
+      "duration": 5258,
       "status": "past",
       "scheduledStart": "2026-07-31T11:00:00Z"
     },
@@ -8540,7 +8548,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-01T04:15:00Z"
+      "scheduledStart": "2027-03-01T04:15:00.000Z"
     },
     {
       "id": "13OuVho09qI",
