@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-08-03T11:06:01.076Z",
-  "videoCount": 2314,
+  "lastUpdated": "2026-08-03T15:05:59.328Z",
+  "videoCount": 2315,
   "videos": [
+    {
+      "id": "TL7ze9Ckvks",
+      "title": "【 バイト募集】新たな事業をはじめるにぇ――――。【ホロライブ/さくらみこ】",
+      "published": "2026-08-03T13:38:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TL7ze9Ckvks/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-04T12:00:00.000Z"
+    },
     {
       "id": "KRbcfZPUe6M",
       "title": "【メンバー限定】35P集会2ndアルバム&ソロライブ決まったにぇ~~~~~‼🌸【ホロライブ/さくらみこ】",
       "published": "2026-08-03T09:41:11.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KRbcfZPUe6M/maxresdefault.jpg",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 7759,
+      "status": "past",
       "scheduledStart": "2026-08-03T11:00:00.000Z"
     },
     {
