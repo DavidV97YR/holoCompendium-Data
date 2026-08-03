@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE",
     "bannerUrl": "https://yt3.googleusercontent.com/dbbNztNjuw_czY4jLlucj5zngSUl121soCOM8llWgR1VxsGtQjWOXNvRRamWr47JkW1we6seUg=s0"
   },
-  "lastUpdated": "2026-08-03T06:17:38.154Z",
-  "videoCount": 838,
+  "lastUpdated": "2026-08-03T08:04:50.679Z",
+  "videoCount": 839,
   "videos": [
+    {
+      "id": "jWKJxTqXdeI",
+      "title": "最近の発見💡:パラパラ楽しい #vtuber #shorts #dance",
+      "published": "2026-08-03T08:00:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jWKJxTqXdeI/maxresdefault.jpg",
+      "type": "short",
+      "duration": 15,
+      "status": "past"
+    },
     {
       "id": "rspObYlowes",
       "title": "【 メンバーシップ限定 】メン限インターネットチェキ会❤【ホロライブ DEV_IS 響咲リオナ】",
@@ -18,7 +27,8 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-03T13:00:00Z"
+      "scheduledStart": "2026-08-03T13:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "gokwtyh4G_8",
@@ -28,7 +38,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-03T08:00:00Z"
+      "scheduledStart": "2026-08-03T08:00:00.000Z"
     },
     {
       "id": "F1JRjwFTEc8",
