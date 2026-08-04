@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-08-04T13:16:36.732Z",
-  "videoCount": 2143,
+  "lastUpdated": "2026-08-04T15:16:35.253Z",
+  "videoCount": 2144,
   "videos": [
     {
-      "id": "9n8ZF9NdYKs",
-      "title": "【#ホロ夏AmongUs】among usやるしゅばああああああああああああああああああああああああああああああああああああああああああ!!!!!!!!!【ホロライブ/大空スバル】",
-      "published": "2026-08-03T15:29:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9n8ZF9NdYKs/maxresdefault.jpg",
+      "id": "npR1Nqg65ec",
+      "title": "【】【ホロライブ/大空スバル】",
+      "published": "2026-08-04T15:09:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/npR1Nqg65ec/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "9n8ZF9NdYKs",
+      "title": "【#ホロ夏AmongUs】among usやるしゅばああああああああああああああああああああああああああああああああああああああああああ！！！！！！！！！【ホロライブ/大空スバル】",
+      "published": "2026-08-04T14:33:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/9n8ZF9NdYKs/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 8540,
+      "status": "past",
       "scheduledStart": "2026-08-04T12:00:00.000Z"
     },
     {
