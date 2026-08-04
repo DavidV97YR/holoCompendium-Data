@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-08-04T07:35:00.530Z",
-  "videoCount": 1384,
+  "lastUpdated": "2026-08-04T09:35:45.067Z",
+  "videoCount": 1385,
   "videos": [
+    {
+      "id": "EuR-HaXvjRo",
+      "title": "【 #ホロ夏AmongUs 】涼しげに全員KILLします【 桃鈴ねね / hololive 】",
+      "published": "2026-08-04T08:58:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EuR-HaXvjRo/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-04T12:00:00.000Z"
+    },
     {
       "id": "SIlH4P5SICE",
       "title": "【 漢字でGOGO！ 】常識常識パーフェクトですわぁ～～～～～～！！！！！！！！【 桃鈴ねね / hololive 】",
@@ -5944,9 +5954,8 @@
       "thumbnail": "https://i.ytimg.com/vi/xbJ8tbA_Phw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2024-07-06T15:00:00Z"
     },
     {
       "id": "HDcWxGpE2Aw",
