@@ -7,18 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
     "bannerUrl": "https://yt3.googleusercontent.com/AdfMkW0X3-K2YokSpzUoEwuJQmC-Kep53sJa63CAO-vajiXu2I4cyqKtm18Gdeg2-tKwKIMdWg=s0"
   },
-  "lastUpdated": "2026-08-04T11:26:25.110Z",
-  "videoCount": 1695,
+  "lastUpdated": "2026-08-04T13:26:43.660Z",
+  "videoCount": 1696,
   "videos": [
     {
       "id": "AZX3tWkfk3M",
       "title": "お酒のんじゃお♪♪♪【ホロライブ/宝鐘マリン】",
-      "published": "2026-08-04T05:54:32.000Z",
+      "published": "2026-08-04T12:07:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/AZX3tWkfk3M/maxresdefault.jpg",
       "type": "stream",
+      "duration": 3754,
+      "status": "past",
+      "scheduledStart": "2026-08-04T11:00:00.000Z"
+    },
+    {
+      "id": "1dIBTHsw3RA",
+      "title": "【メンゲン】あまい【ホロライブ/宝鐘マリン】",
+      "published": "2026-08-04T11:57:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1dIBTHsw3RA/maxresdefault.jpg",
+      "type": "member",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-08-04T11:00:00.000Z"
+      "scheduledStart": "2026-08-04T12:00:00.000Z"
     },
     {
       "id": "TKssnQ_c91Y",
