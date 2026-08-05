@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
     "bannerUrl": "https://yt3.googleusercontent.com/WMGd5fRjaxWor-Z-6MBeIAl5RylNcbkd4StAGSc-KGvrGtjhYnenyJDG_lAvpULdNMfqNlBMQQ=s0"
   },
-  "lastUpdated": "2026-08-05T05:28:50.464Z",
-  "videoCount": 1863,
+  "lastUpdated": "2026-08-05T11:24:11.299Z",
+  "videoCount": 1864,
   "videos": [
+    {
+      "id": "adr2JWRLlvM",
+      "title": "【雑談】最近あったこととかホロドリの話とか【不知火フレア/ホロライブ】",
+      "published": "2026-08-05T09:39:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/adr2JWRLlvM/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-05T13:00:00.000Z"
+    },
     {
       "id": "1PnooiQQ64U",
       "title": "#05【Outbound 】Hi！ダーリン！一か月振りってマジ？！【不知火フレア/ホロライブ】",
@@ -22,11 +32,11 @@
     },
     {
       "id": "lYHgHlgqdTw",
-      "title": "【ホロライブ ドリームス】PC版で遊んでみっる！【不知火フレア/ホロライブ】",
+      "title": "【ホロライブ ドリームス】PC版で遊んでみっる!【不知火フレア/ホロライブ】",
       "published": "2026-08-03T15:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/lYHgHlgqdTw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 8242,
+      "duration": 8259,
       "status": "past",
       "scheduledStart": "2026-08-03T13:00:00Z"
     },
