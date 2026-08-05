@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw",
     "bannerUrl": "https://yt3.googleusercontent.com/m6wL54-0Zrt5xi-1hq73ZSFObjzJeYANoHeOKVZCICd_1cua-YamuJdGJQTIEPF_-xuFvoUbm3s=s0"
   },
-  "lastUpdated": "2026-08-05T06:02:48.297Z",
+  "lastUpdated": "2026-08-05T06:17:14.885Z",
   "videoCount": 894,
   "videos": [
+    {
+      "id": "Acbs1tKDQCw",
+      "title": "【らでん自習室】8月5日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+      "published": "2026-08-05T02:57:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/Acbs1tKDQCw/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 4350,
+      "status": "past",
+      "scheduledStart": "2026-08-05T01:00:00Z"
+    },
     {
       "id": "h6TTIgm4ThA",
       "title": "【 博物ふぇすてぃばる! 】博フェスで何買った!?購入品を紹介します!【儒烏風亭らでん #ReGLOSS 】",
@@ -18,17 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-05T12:00:00.000Z"
-    },
-    {
-      "id": "Acbs1tKDQCw",
-      "title": "【らでん自習室】8月5日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-      "published": "2026-08-04T17:11:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Acbs1tKDQCw/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 4350,
-      "status": "past",
-      "scheduledStart": "2026-08-05T01:00:00.000Z"
+      "scheduledStart": "2026-08-05T12:00:00Z"
     },
     {
       "id": "SnxEkGpNT9k",
@@ -45,7 +45,7 @@
       "title": "【らでん自習室】8月4日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
       "published": "2026-08-04T03:03:29Z",
       "thumbnail": "https://i.ytimg.com/vi/M8XGagAzSWM/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 5272,
       "status": "past",
       "scheduledStart": "2026-08-04T01:00:00Z"
@@ -65,7 +65,7 @@
       "title": "【らでん自習室】8月3日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
       "published": "2026-08-03T03:20:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/EDJtY-cNgtA/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 4681,
       "status": "past",
       "scheduledStart": "2026-08-03T01:00:00Z"
@@ -8610,7 +8610,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-01T04:15:00.000Z"
+      "scheduledStart": "2027-03-01T04:15:00Z"
     },
     {
       "id": "13OuVho09qI",
