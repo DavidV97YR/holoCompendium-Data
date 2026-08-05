@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-08-05T05:42:15.038Z",
-  "videoCount": 1385,
+  "lastUpdated": "2026-08-05T09:35:03.391Z",
+  "videoCount": 1386,
   "videos": [
+    {
+      "id": "yenHV47ZdOY",
+      "title": "【 ホロドリ 】やっとポカジャン解放できました!!!みんなが沼っていうから...対戦よろしく!【 桃鈴ねね / hololive 】",
+      "published": "2026-08-05T07:53:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/yenHV47ZdOY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-05T09:00:00.000Z"
+    },
     {
       "id": "EuR-HaXvjRo",
       "title": "【 #ホロ夏AmongUs 】涼しげに全員KILLします【 桃鈴ねね / hololive 】",
@@ -22,11 +32,11 @@
     },
     {
       "id": "SIlH4P5SICE",
-      "title": "【 漢字でGOGO！ 】常識常識パーフェクトですわぁ～～～～～～！！！！！！！！【 桃鈴ねね / hololive 】",
+      "title": "【 漢字でGOGO! 】常識常識パーフェクトですわぁ~~~~~~!!!!!!!!【 桃鈴ねね / hololive 】",
       "published": "2026-08-03T11:07:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SIlH4P5SICE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7087,
+      "duration": 7088,
       "status": "past",
       "scheduledStart": "2026-08-03T09:00:00Z"
     },
@@ -5955,7 +5965,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",
