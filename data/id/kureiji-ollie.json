@@ -7,9 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-08-06T07:46:42.230Z",
-  "videoCount": 1751,
+  "lastUpdated": "2026-08-06T13:46:21.244Z",
+  "videoCount": 1753,
   "videos": [
+    {
+      "id": "sD8EPO2Mhgs",
+      "title": "【ZOMILY - FREETALK】 IT'S BEEN GETTING HOT LATELY 【Kureiji Ollie】",
+      "published": "2026-08-06T11:48:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/sD8EPO2Mhgs/maxresdefault.jpg",
+      "type": "member",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-08T13:00:00.000Z"
+    },
+    {
+      "id": "A7LcPA4gaPg",
+      "title": "【ZOMILY - KARAOKE】 SINGING, JUST A LITTLE BIT 【Kureiji Ollie】",
+      "published": "2026-08-06T11:46:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/A7LcPA4gaPg/maxresdefault.jpg",
+      "type": "member",
+      "duration": 0
+    },
     {
       "id": "otOyCJ3awWE",
       "title": "【Scritchy Scratchy】 IM GONNA BE RICH 【Kureiji Ollie】",
@@ -46,8 +64,8 @@
       "published": "2026-08-04T16:57:22.000Z",
       "thumbnail": "https://i.ytimg.com/vi/_HB7v530TEA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 5439,
+      "status": "past",
       "scheduledStart": "2026-08-06T12:00:00.000Z"
     },
     {
