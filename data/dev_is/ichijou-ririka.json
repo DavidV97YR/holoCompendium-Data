@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ",
     "bannerUrl": "https://yt3.googleusercontent.com/PgezTfp527qrpgL6IwaBVcvnb1vgD7qnSJzf4KnWgfVYWO7QJc3SQOv_YzlZiKeWhDRXfkgNlA8=s0"
   },
-  "lastUpdated": "2026-08-06T10:03:11.128Z",
+  "lastUpdated": "2026-08-06T12:03:37.589Z",
   "videoCount": 1280,
   "videos": [
+    {
+      "id": "gogcP73JeM8",
+      "title": "【歌ってみた】酔いどれ知らず【りりらでん】#hololive",
+      "published": "2026-08-06T12:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gogcP73JeM8/maxresdefault.jpg",
+      "type": "video",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-06T12:00:00.000Z"
+    },
     {
       "id": "-yp_0O0zr_w",
       "title": "ソロバージョンも出たよ🎶 #shorts    #ReGLOSS #LuckyLoud",
@@ -18,16 +28,6 @@
       "type": "short",
       "duration": 27,
       "status": "past"
-    },
-    {
-      "id": "gogcP73JeM8",
-      "title": "【歌ってみた】酔いどれ知らず【りりらでん】#hololive",
-      "published": "2026-08-06T06:37:57.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/gogcP73JeM8/maxresdefault.jpg",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-06T12:00:00.000Z"
     },
     {
       "id": "0RGVNGtUaGQ",
@@ -46,7 +46,7 @@
       "thumbnail": "https://i.ytimg.com/vi/VmKCcGnOv2c/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-08-06T11:00:00.000Z"
     },
     {

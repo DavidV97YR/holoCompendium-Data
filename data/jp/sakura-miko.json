@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-08-06T09:05:59.338Z",
-  "videoCount": 2317,
+  "lastUpdated": "2026-08-06T11:05:51.309Z",
+  "videoCount": 2318,
   "videos": [
+    {
+      "id": "EnqViu_hRKA",
+      "title": "【ホロドリ】【ホロライブ/さくらみこ】",
+      "published": "2026-08-06T10:04:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EnqViu_hRKA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-06T12:00:00.000Z"
+    },
     {
       "id": "qn5TIAOSitI",
       "title": "【ミニオンズ&モンスターズ】ミニオンへの愛を語る!ここでしか見れないアテレコも…⁉【ホロライブ/さくらみこ】",
-      "published": "2026-08-06T07:33:57.000Z",
+      "published": "2026-08-06T10:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qn5TIAOSitI/maxresdefault.jpg",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 1423,
+      "status": "past",
       "scheduledStart": "2026-08-06T10:00:00.000Z"
     },
     {
@@ -31,11 +41,11 @@
     },
     {
       "id": "TL7ze9Ckvks",
-      "title": "【Waterpark Simulator】本日から開業！！！！！新たな事業をはじめるにぇ――――。【ホロライブ/さくらみこ】",
+      "title": "【Waterpark Simulator】本日から開業!!!!!新たな事業をはじめるにぇ――――。【ホロライブ/さくらみこ】",
       "published": "2026-08-04T15:23:57Z",
       "thumbnail": "https://i.ytimg.com/vi/TL7ze9Ckvks/maxresdefault.jpg",
       "type": "stream",
-      "duration": 11204,
+      "duration": 10890,
       "status": "past",
       "scheduledStart": "2026-08-04T12:00:00Z"
     },
