@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ",
     "bannerUrl": "https://yt3.googleusercontent.com/PgezTfp527qrpgL6IwaBVcvnb1vgD7qnSJzf4KnWgfVYWO7QJc3SQOv_YzlZiKeWhDRXfkgNlA8=s0"
   },
-  "lastUpdated": "2026-08-06T06:15:05.451Z",
-  "videoCount": 1278,
+  "lastUpdated": "2026-08-06T08:04:10.402Z",
+  "videoCount": 1279,
   "videos": [
+    {
+      "id": "gogcP73JeM8",
+      "title": "【歌ってみた】酔いどれ知らず【りりらでん】#hololive",
+      "published": "2026-08-06T06:37:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/gogcP73JeM8/maxresdefault.jpg",
+      "type": "video",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-06T12:00:00.000Z"
+    },
     {
       "id": "0RGVNGtUaGQ",
       "title": "【シャドバから逃げるな】CRリーグのための練習【一条莉々華/hololive DEV_IS　ReGLOSS】",
@@ -28,7 +38,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-06T11:00:00Z"
+      "scheduledStart": "2026-08-06T11:00:00.000Z"
     },
     {
       "id": "cN_YcYFhZ2s",
@@ -1199,7 +1209,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-04-20T13:00:00Z"
+      "scheduledStart": "2028-04-20T13:00:00.000Z"
     },
     {
       "id": "9FGw9FTrltY",
@@ -12510,7 +12520,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-04-01T16:35:00Z"
+      "scheduledStart": "2028-04-01T16:35:00.000Z"
     },
     {
       "id": "LcRPCdV_wSs",
