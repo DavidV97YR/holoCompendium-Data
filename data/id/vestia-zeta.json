@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-08-07T11:49:51.521Z",
-  "videoCount": 1026,
+  "lastUpdated": "2026-08-07T13:50:09.223Z",
+  "videoCount": 1027,
   "videos": [
+    {
+      "id": "GeojFgx24yw",
+      "title": "LOVE MISSION♡ DANCE",
+      "published": "2026-08-07T12:09:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GeojFgx24yw/maxresdefault.jpg",
+      "type": "short",
+      "duration": 33,
+      "status": "past"
+    },
+    {
+      "id": "XdgzEDySUS8",
+      "title": "'LOVE MISSION♡' MV / Vestia Zeta",
+      "published": "2026-08-07T12:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/XdgzEDySUS8/maxresdefault.jpg",
+      "type": "video",
+      "duration": 177,
+      "status": "past",
+      "scheduledStart": "2026-08-07T12:00:00.000Z"
+    },
     {
       "id": "V_09zQsoH1o",
       "title": "'LOVE MISSION♡' Fanchant Guide",
@@ -36,18 +55,8 @@
       "thumbnail": "https://i.ytimg.com/vi/U83ZaZwuPgY/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-08-07T12:30:00.000Z"
-    },
-    {
-      "id": "XdgzEDySUS8",
-      "title": "'LOVE MISSION♡' MV / Vestia Zeta",
-      "published": "2026-08-06T11:48:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/XdgzEDySUS8/maxresdefault.jpg",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-07T12:00:00.000Z"
     },
     {
       "id": "l1Nopa2Y2jo",
