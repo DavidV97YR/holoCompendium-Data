@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-08-07T06:23:19.214Z",
-  "videoCount": 1044,
+  "lastUpdated": "2026-08-07T08:07:09.887Z",
+  "videoCount": 1045,
   "videos": [
+    {
+      "id": "8ddrHhYHDN4",
+      "title": "プロポーズ/みにみやが踊ってみた #hololive #vtuber #dance",
+      "published": "2026-08-07T08:00:33.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8ddrHhYHDN4/maxresdefault.jpg",
+      "type": "short",
+      "duration": 11,
+      "status": "past"
+    },
     {
       "id": "otPr96TPQ5E",
       "title": "【バイオハザードRE:4】完全初見❕ホラー苦手が行く #6【水宮枢/ホロライブDEV_IS】",
@@ -18,7 +27,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-07T13:30:00Z"
+      "scheduledStart": "2026-08-07T13:30:00.000Z"
     },
     {
       "id": "-TT2aKZThyk",
@@ -973,7 +982,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
