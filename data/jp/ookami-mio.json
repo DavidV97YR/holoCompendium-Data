@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-08-09T09:19:01.401Z",
-  "videoCount": 1619,
+  "lastUpdated": "2026-08-09T11:19:07.448Z",
+  "videoCount": 1620,
   "videos": [
+    {
+      "id": "jVY3JfQ7XcU",
+      "title": "【#朝ミオ 】月曜日だよ~!おはみぉーん!",
+      "published": "2026-08-09T10:30:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jVY3JfQ7XcU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-09T22:30:00.000Z"
+    },
     {
       "id": "nDMjhAzNXcc",
       "title": "【らーめんシミュレーター】美味しそうなラーメンを作って食べた気になりたい【ホロライブ/大神ミオ】",
-      "published": "2026-08-09T07:44:27.000Z",
+      "published": "2026-08-09T10:15:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nDMjhAzNXcc/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4242,
+      "status": "past",
       "scheduledStart": "2026-08-09T09:00:00.000Z"
     },
     {
