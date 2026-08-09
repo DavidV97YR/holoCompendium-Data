@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-08-09T15:42:44.454Z",
+  "lastUpdated": "2026-08-09T17:42:25.885Z",
   "videoCount": 1252,
   "videos": [
+    {
+      "id": "0WEZ2cVcyNU",
+      "title": "風真いろはの #ねるまえらじお 📻❣ #20",
+      "published": "2026-08-09T16:42:16+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0WEZ2cVcyNU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 1880,
+      "status": "past",
+      "scheduledStart": "2026-08-09T15:30:00.000Z"
+    },
     {
       "id": "ufbZgdek7XU",
       "title": "【ELDENRING】ラスボス目の前にして数か月ぶりだが大丈夫だろうか【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
@@ -19,16 +29,6 @@
       "duration": 18816,
       "status": "past",
       "scheduledStart": "2026-08-09T05:00:00.000Z"
-    },
-    {
-      "id": "0WEZ2cVcyNU",
-      "title": "風真いろはの #ねるまえらじお 📻❣ #20",
-      "published": "2026-08-09T04:54:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/0WEZ2cVcyNU/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-09T15:30:00.000Z"
     },
     {
       "id": "MShIcv1cizk",
