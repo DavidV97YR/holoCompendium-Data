@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ",
     "bannerUrl": "https://yt3.googleusercontent.com/qFbTxpnxmdXTKeOxYoWd2HaRJ7gGjGPCq5I1pghiNSiDgQZNU6BXa0SPAI0ND6K371-kEv9p=s0"
   },
-  "lastUpdated": "2026-08-09T06:16:29.462Z",
+  "lastUpdated": "2026-08-09T08:02:15.087Z",
   "videoCount": 948,
   "videos": [
+    {
+      "id": "6qcM1XVVzKg",
+      "title": "【 #しゅぴなで 】リベンジ！！！！初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "published": "2026-08-09T07:42:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6qcM1XVVzKg/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 5832,
+      "status": "past",
+      "scheduledStart": "2026-08-09T06:00:00.000Z"
+    },
     {
       "id": "yRP_4tvVPww",
       "title": "【 #しゅぴなで 】初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
@@ -19,16 +29,6 @@
       "duration": 4924,
       "status": "past",
       "scheduledStart": "2026-08-08T12:00:00Z"
-    },
-    {
-      "id": "6qcM1XVVzKg",
-      "title": "【 #しゅぴなで 】リベンジ!!!!初代マリオ!1時間並走!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-      "published": "2026-08-08T13:27:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/6qcM1XVVzKg/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-09T06:00:00Z"
     },
     {
       "id": "pXdstQF--Iw",
@@ -41,11 +41,11 @@
     },
     {
       "id": "8JNJ8GYgTQk",
-      "title": "【 縦型歌枠 】呼吸！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+      "title": "【 縦型歌枠 】呼吸!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published": "2026-08-07T12:13:01+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8JNJ8GYgTQk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4085,
+      "duration": 4086,
       "status": "past",
       "scheduledStart": "2026-08-07T11:00:00Z"
     },
@@ -9202,7 +9202,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-09T15:00:00Z"
+      "scheduledStart": "2026-09-09T15:00:00.000Z"
     },
     {
       "id": "eytPidhJ6cI",
