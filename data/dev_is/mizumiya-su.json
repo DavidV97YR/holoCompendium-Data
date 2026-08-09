@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-08-09T06:06:46.856Z",
+  "lastUpdated": "2026-08-09T06:21:38.349Z",
   "videoCount": 1048,
   "videos": [
     {
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-08-09T06:00:00.000Z"
+      "scheduledStart": "2026-08-09T06:00:00Z"
     },
     {
       "id": "QDI1pDu8akA",
@@ -1011,7 +1011,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00.000Z"
+      "scheduledStart": "2028-06-30T14:30:00Z"
     },
     {
       "id": "bzecknsOFZI",
