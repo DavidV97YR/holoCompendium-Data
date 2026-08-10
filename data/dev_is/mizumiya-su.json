@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-08-10T06:19:29.636Z",
-  "videoCount": 1049,
+  "lastUpdated": "2026-08-10T08:06:36.308Z",
+  "videoCount": 1051,
   "videos": [
+    {
+      "id": "9lh6NNRRqJg",
+      "title": "反省しないみにみやさん #vtuber #ホロライブ",
+      "published": "2026-08-10T08:00:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9lh6NNRRqJg/maxresdefault.jpg",
+      "type": "short",
+      "duration": 9,
+      "status": "past"
+    },
+    {
+      "id": "1oy5DSY2je4",
+      "title": "【バイオハザードRE:4】完全初見❕ホラー苦手が行く #6 【水宮枢/ホロライブDEV_IS】",
+      "published": "2026-08-10T06:26:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1oy5DSY2je4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-10T13:30:00.000Z"
+    },
     {
       "id": "MvF2oOnSF3A",
       "title": "ソンナコトナイヨー/踊ってみた  #hololive #vtuber #dance",
@@ -1020,7 +1039,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
