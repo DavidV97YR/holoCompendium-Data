@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A",
     "bannerUrl": "https://yt3.googleusercontent.com/k1vCsIbtcRaU9OwygWrxTpMWhbsqQO0qC0wm0X31nBYmkbwmqG3TAt1HdM3Z4JWc5YqGz2mLZ84=s0"
   },
-  "lastUpdated": "2026-08-11T06:21:09.316Z",
-  "videoCount": 1108,
+  "lastUpdated": "2026-08-11T08:07:53.464Z",
+  "videoCount": 1110,
   "videos": [
+    {
+      "id": "AoQNRPj6rxc",
+      "title": "君と夏フェス/SHISHAMO踊ってみた!【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts",
+      "published": "2026-08-11T05:23:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/AoQNRPj6rxc/maxresdefault.jpg",
+      "type": "short",
+      "duration": 31,
+      "status": "past"
+    },
     {
       "id": "2gP2efJQhrQ",
       "title": "【日本事故物件監視協会3】リベンジ！実在する事故物件を監視します！たすけて！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
@@ -639,6 +648,16 @@
       "duration": 6542,
       "status": "past",
       "scheduledStart": "2026-07-12T08:32:05.000Z"
+    },
+    {
+      "id": "LFHLGp2KWOw",
+      "title": "【 縦型歌枠 】70万人耐久歌枠!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published": "2026-07-12T10:22:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/LFHLGp2KWOw/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-11T07:00:26.000Z"
     },
     {
       "id": "neJ8GlmqrUw",
@@ -10121,7 +10140,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00Z"
+      "scheduledStart": "2027-12-31T14:45:00.000Z"
     },
     {
       "id": "SrH6XQ8H9oo",
