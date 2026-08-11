@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
     "bannerUrl": "https://yt3.googleusercontent.com/AdfMkW0X3-K2YokSpzUoEwuJQmC-Kep53sJa63CAO-vajiXu2I4cyqKtm18Gdeg2-tKwKIMdWg=s0"
   },
-  "lastUpdated": "2026-08-11T15:26:53.054Z",
+  "lastUpdated": "2026-08-11T17:31:37.564Z",
   "videoCount": 1705,
   "videos": [
     {
@@ -27,7 +27,7 @@
       "type": "stream",
       "duration": 3962,
       "status": "past",
-      "scheduledStart": "2026-08-11T12:00:00.000Z"
+      "scheduledStart": "2026-08-11T12:00:00Z"
     },
     {
       "id": "-H4bB6hxeEs",
@@ -37,17 +37,17 @@
       "type": "video",
       "duration": 202,
       "status": "past",
-      "scheduledStart": "2026-08-11T13:05:00.000Z"
+      "scheduledStart": "2026-08-11T13:05:00Z"
     },
     {
       "id": "CY7TnKdpysI",
       "title": "【メンバーシップ限定】水着新衣装3D撮影会【ホロライブ/宝鐘マリン】",
       "published": "2026-08-10T14:58:17.000Z",
       "thumbnail": "https://i.ytimg.com/vi/CY7TnKdpysI/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 1393,
       "status": "past",
-      "scheduledStart": "2026-08-11T13:20:00.000Z"
+      "scheduledStart": "2026-08-11T13:20:00Z"
     },
     {
       "id": "hM5NnBU0LLs",
