@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/Q1klv3Pc0K18nttrFlNxOU3Zg3KVaQHGluAUCbqTu8ENgE2agu6EdYepT3Trh7YtDhxBmC5B8Q=s0"
   },
-  "lastUpdated": "2026-08-12T22:09:00.381Z",
-  "videoCount": 121,
+  "lastUpdated": "2026-08-13T00:08:52.289Z",
+  "videoCount": 122,
   "videos": [
+    {
+      "id": "8WwBihwbKoY",
+      "title": "【#玲銘ミラ】UNIT_Bから玲銘さん家のミラちゃんが来てくれたよ🩹ミラちゃん、よろしくね【#あさやなストレッチ夏】＃墨汐さやな ＃さやな時間",
+      "published": "2026-08-12T22:46:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8WwBihwbKoY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 2348,
+      "status": "past",
+      "scheduledStart": "2026-08-12T22:00:00.000Z"
+    },
     {
       "id": "0FuGE1U7_HM",
       "title": "【UNDERTALE】Nルートクリア😭初見プレイ！攻撃よけるの難しすぎ😭でも負けません💪 #3 ＃墨汐さやな ＃さやな時間",
@@ -19,6 +29,16 @@
       "duration": 18358,
       "status": "past",
       "scheduledStart": "2026-08-12T11:00:00Z"
+    },
+    {
+      "id": "A8ke2JFzZpQ",
+      "title": "【お父さん】今日でちょうど2週間🖤一緒にストレッチしよう【#あさやなストレッチ夏】#墨汐さやな #さやな時間",
+      "published": "2026-08-12T16:09:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/A8ke2JFzZpQ/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-13T22:00:00.000Z"
     },
     {
       "id": "SH2CMfcUxcM",
@@ -50,16 +70,6 @@
       "scheduledStart": "2026-08-11T22:00:00Z"
     },
     {
-      "id": "8WwBihwbKoY",
-      "title": "【#玲銘ミラ】UNIT_Bから玲銘さん家のミラちゃんが来てくれたよ🩹ミラちゃん、よろしくね【#あさやなストレッチ夏】#墨汐さやな #さやな時間",
-      "published": "2026-08-11T22:27:18.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/8WwBihwbKoY/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-12T22:00:00.000Z"
-    },
-    {
       "id": "YICNyssXBwk",
       "title": "あさやなストレッチ夏って知ってる?#ACHRORA #mekpark",
       "published": "2026-08-11T09:00:34.000Z",
@@ -74,7 +84,7 @@
       "published": "2026-08-11T05:05:27Z",
       "thumbnail": "https://i.ytimg.com/vi/af6GdH-Fxt8/maxresdefault.jpg",
       "type": "stream",
-      "duration": 3782,
+      "duration": 3784,
       "status": "past",
       "scheduledStart": "2026-08-11T03:00:00Z"
     },
