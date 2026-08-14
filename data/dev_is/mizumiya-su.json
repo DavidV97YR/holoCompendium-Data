@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY",
     "bannerUrl": "https://yt3.googleusercontent.com/pms6909_V_v3dInYbMbmQ9p7lircEbyD5AZkArB5ip1T9Lvt4cx3boUhneuNFuGp-JhW9tWl=s0"
   },
-  "lastUpdated": "2026-08-14T06:19:10.660Z",
-  "videoCount": 1062,
+  "lastUpdated": "2026-08-14T08:07:36.880Z",
+  "videoCount": 1063,
   "videos": [
+    {
+      "id": "GqFltaLvcd0",
+      "title": "ゴロンとドロン/みにみやと踊ってみた #hololive #vtuber #dance",
+      "published": "2026-08-14T03:00:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GqFltaLvcd0/maxresdefault.jpg",
+      "type": "short",
+      "duration": 17,
+      "status": "past"
+    },
     {
       "id": "zGr5cfKAeTw",
       "title": "【Machine Party】初コラボで友情破壊ゲー⁉️【すうヴィヴィ×のぞめる】",
@@ -18,7 +27,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-15T13:00:00Z"
+      "scheduledStart": "2026-08-15T13:00:00.000Z"
     },
     {
       "id": "Ng1wcY3zOhE",
@@ -28,7 +37,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-14T09:00:00Z"
+      "scheduledStart": "2026-08-14T09:00:00.000Z"
     },
     {
       "id": "Ua9qdaAZhYc",
@@ -1146,7 +1155,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
