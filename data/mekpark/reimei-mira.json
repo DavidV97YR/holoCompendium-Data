@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-08-14T06:20:45.131Z",
-  "videoCount": 92,
+  "lastUpdated": "2026-08-14T10:09:05.229Z",
+  "videoCount": 93,
   "videos": [
     {
       "id": "Hkcqzgkwn-w",
@@ -30,12 +30,22 @@
       "scheduledStart": "2026-08-13T09:00:00Z"
     },
     {
+      "id": "CSQJa03wBRc",
+      "title": "【コラボ】画伯なんていない!!【 #UNIT_B /#ACRORA 】",
+      "published": "2026-08-13T05:21:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CSQJa03wBRc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-14T10:00:00.000Z"
+    },
+    {
       "id": "dCEbATyuSbw",
       "title": "【リズム天国】うんたんうんたん【 #UNIT_B / #玲銘ミラ】",
       "published": "2026-08-12T14:30:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dCEbATyuSbw/maxresdefault.jpg",
       "type": "stream",
-      "duration": 12006,
+      "duration": 12004,
       "status": "past",
       "scheduledStart": "2026-08-12T11:00:00Z"
     },
