@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-08-15T07:40:00.672Z",
+  "lastUpdated": "2026-08-15T11:39:39.169Z",
   "videoCount": 2363,
   "videos": [
+    {
+      "id": "SDw5DqWcteI",
+      "title": "【 バイオハザード RE:4 】初プレイ！またひとりぼっちレオンくん #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
+      "published": "2026-08-15T10:27:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SDw5DqWcteI/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 25177,
+      "status": "past",
+      "scheduledStart": "2026-08-15T03:00:00.000Z"
+    },
     {
       "id": "mbeegoeBjx0",
       "title": "【 青鬼2 】ホラゲウィーク最終夜/ブルーベリー色のアイツがくる👻 #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
@@ -19,16 +29,6 @@
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-08-15T14:00:00.000Z"
-    },
-    {
-      "id": "SDw5DqWcteI",
-      "title": "【 バイオハザード RE:4 】初プレイ!またひとりぼっちレオンくん #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
-      "published": "2026-08-14T11:41:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/SDw5DqWcteI/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-15T03:00:00.000Z"
     },
     {
       "id": "Ia2dFm-y7h8",
@@ -52,11 +52,11 @@
     },
     {
       "id": "tw0N47Z9yTE",
-      "title": "【 みつめ 】ホラゲウィーク第肆夜／怖がりな二人で深夜の大学をさまよいます👻 #ホラゲウィーク2026【#ルイころ/ホロライブ】",
+      "title": "【 みつめ 】ホラゲウィーク第肆夜/怖がりな二人で深夜の大学をさまよいます👻 #ホラゲウィーク2026【#ルイころ/ホロライブ】",
       "published": "2026-08-13T15:08:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tw0N47Z9yTE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7220,
+      "duration": 7217,
       "status": "past",
       "scheduledStart": "2026-08-13T13:00:00Z"
     },
