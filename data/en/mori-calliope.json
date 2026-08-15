@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-08-15T06:02:12.208Z",
-  "videoCount": 1899,
+  "lastUpdated": "2026-08-15T07:52:45.915Z",
+  "videoCount": 1900,
   "videos": [
+    {
+      "id": "3ZdEw-ePZJ4",
+      "title": "【Big Walk Collab】walking my kouhai today #calliolive",
+      "published": "2026-08-15T06:33:41.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3ZdEw-ePZJ4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-16T01:00:00.000Z"
+    },
+    {
+      "id": "OjCksETbxpA",
+      "title": "【ZELDA: A LINK TO THE PAST】golly (part 3) #calliolive",
+      "published": "2026-08-15T06:31:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OjCksETbxpA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 23944,
+      "status": "past",
+      "scheduledStart": "2026-08-14T23:30:00.000Z"
+    },
     {
       "id": "7JhIlbotWpo",
       "title": "【pokajan】pokajan #calliolive",
@@ -47,16 +67,6 @@
       "type": "short",
       "duration": 36,
       "status": "past"
-    },
-    {
-      "id": "OjCksETbxpA",
-      "title": "【ZELDA: A LINK TO THE PAST】golly (part 3) #calliolive",
-      "published": "2026-08-11T09:35:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/OjCksETbxpA/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-14T23:30:00Z"
     },
     {
       "id": "iY_CcwePejc",

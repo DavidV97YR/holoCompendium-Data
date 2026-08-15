@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-08-15T06:21:29.971Z",
-  "videoCount": 94,
+  "lastUpdated": "2026-08-15T08:09:50.125Z",
+  "videoCount": 95,
   "videos": [
+    {
+      "id": "O8h_-YB2Xv8",
+      "title": "【最高縛り耐久】音楽家なら1日で全クリできるよね!!?【 #UNIT_B / #清澄ライラ】",
+      "published": "2026-08-15T05:08:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/O8h_-YB2Xv8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-15T05:30:00.000Z"
+    },
     {
       "id": "CSQJa03wBRc",
       "title": "【コラボ】画伯なんていない！！【 #UNIT_B /#ACHRORA 】",
@@ -35,7 +45,7 @@
       "published": "2026-08-13T11:55:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/-R7lkrSwbew/maxresdefault.jpg",
       "type": "stream",
-      "duration": 10157,
+      "duration": 10050,
       "status": "past",
       "scheduledStart": "2026-08-13T09:00:00Z"
     },
@@ -46,9 +56,8 @@
       "thumbnail": "https://i.ytimg.com/vi/cOQJ0UFMm2Q/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-15T04:00:00.000Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-08-15T04:00:00.000Z"
     },
     {
       "id": "dCEbATyuSbw",
