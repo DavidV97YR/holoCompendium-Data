@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6zeu9LBfch4o940kNvgBLKBPzmHlAg2rImOclLmeFcM9_J68GkLk2Gx6LMBDJhvIhc_R33t6oPk=s0"
   },
-  "lastUpdated": "2026-08-16T06:21:43.531Z",
-  "videoCount": 751,
+  "lastUpdated": "2026-08-16T08:07:53.401Z",
+  "videoCount": 753,
   "videos": [
+    {
+      "id": "4ZbpqWFfOLQ",
+      "title": "【輪堂千速コラボ】みんなでニュル北を走るぞ!!【レーシングマスター】",
+      "published": "2026-08-16T08:00:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/4ZbpqWFfOLQ/maxresdefault.jpg",
+      "type": "video",
+      "duration": 486,
+      "status": "past"
+    },
+    {
+      "id": "H2rqfEBphSg",
+      "title": "【FF6】#13 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-08-16T07:18:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/H2rqfEBphSg/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-16T08:00:00.000Z"
+    },
     {
       "id": "HqkwS_LVac8",
       "title": "【同時視聴/ドールハウス】夏休みはホラー強化週間だ・・・【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
@@ -6764,7 +6783,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00Z"
+      "scheduledStart": "2026-12-30T15:00:00.000Z"
     },
     {
       "id": "SjEF6bluuJE",
