@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-08-16T11:46:06.356Z",
+  "lastUpdated": "2026-08-16T13:46:30.861Z",
   "videoCount": 1771,
   "videos": [
+    {
+      "id": "nN7c7EgLbhg",
+      "title": "【 Original Song 】 Lucu Juga【 Airani Iofifteen | イオフィ 】",
+      "published": "2026-08-16T13:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nN7c7EgLbhg/maxresdefault.jpg",
+      "type": "video",
+      "duration": 198,
+      "status": "past",
+      "scheduledStart": "2026-08-16T13:00:00.000Z"
+    },
     {
       "id": "xJ6wQD5d1Gs",
       "title": "Original Song Behind The Scenes Talk 【 iofi / hololiveID 】",
@@ -17,7 +27,7 @@
       "thumbnail": "https://i.ytimg.com/vi/xJ6wQD5d1Gs/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-08-16T13:30:00.000Z"
     },
     {
@@ -26,8 +36,8 @@
       "published": "2026-08-16T10:31:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/IVI6wjmXWuI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 5075,
+      "status": "past",
       "scheduledStart": "2026-08-16T11:30:00.000Z"
     },
     {
@@ -39,16 +49,6 @@
       "duration": 8317,
       "status": "past",
       "scheduledStart": "2026-08-15T14:00:00Z"
-    },
-    {
-      "id": "nN7c7EgLbhg",
-      "title": "【 Original Song 】 Lucu Juga【 Airani Iofifteen | イオフィ 】",
-      "published": "2026-08-13T18:13:52.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/nN7c7EgLbhg/maxresdefault.jpg",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-16T13:00:00.000Z"
     },
     {
       "id": "iTkheD46Skk",
