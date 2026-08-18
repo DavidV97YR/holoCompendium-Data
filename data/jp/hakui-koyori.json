@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
     "bannerUrl": "https://yt3.googleusercontent.com/vNCRYP8INcAEM3Z85s1UmVMaZ1lvD0FF1ID0sC61bkCPhLqB8zv9d3-UysiE3UcgMMLEk2qGEXU=s0"
   },
-  "lastUpdated": "2026-08-18T05:41:09.087Z",
+  "lastUpdated": "2026-08-18T05:50:49.638Z",
   "videoCount": 3397,
   "videos": [
+    {
+      "id": "XtwnRKd7944",
+      "title": "【 MLBxhololive 】ドジャース（大谷翔平、山本由伸、佐々木朗希所属）vs ロッキーズ（菅野智之所属）の試合をGamedayを使って一緒に応援しよう！【博衣こより/ホロライブ】",
+      "published": "2026-08-18T03:45:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/XtwnRKd7944/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 11044,
+      "status": "past",
+      "scheduledStart": "2026-08-18T00:30:00Z"
+    },
     {
       "id": "yG1OqK1r9xQ",
       "title": "【 #朝こよ 】お盆明けな火曜日の朝も～！朝こよ！☀ #294 【博衣こより/hololive】",
@@ -18,17 +28,7 @@
       "type": "stream",
       "duration": 3875,
       "status": "past",
-      "scheduledStart": "2026-08-17T22:00:00.000Z"
-    },
-    {
-      "id": "XtwnRKd7944",
-      "title": "【 MLBxhololive 】ドジャース（大谷翔平、山本由伸、佐々木朗希所属）vs ロッキーズ（菅野智之所属）の試合をGamedayを使って一緒に応援しよう！【博衣こより/ホロライブ】",
-      "published": "2026-08-17T12:56:55.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/XtwnRKd7944/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 11044,
-      "status": "past",
-      "scheduledStart": "2026-08-18T00:30:00.000Z"
+      "scheduledStart": "2026-08-17T22:00:00Z"
     },
     {
       "id": "ZfPjjyYL6ws",
@@ -117,7 +117,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-22T10:00:00.000Z"
+      "scheduledStart": "2026-08-22T10:00:00Z"
     },
     {
       "id": "8-a0nzm2xwY",
@@ -4612,7 +4612,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-14T15:00:00.000Z"
+      "scheduledStart": "2027-03-14T15:00:00Z"
     },
     {
       "id": "KM2sym0uBtk",
