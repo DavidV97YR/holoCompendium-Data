@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-08-18T20:08:37.955Z",
+  "lastUpdated": "2026-08-19T06:24:15.760Z",
   "videoCount": 1125,
   "videos": [
     {
@@ -24,10 +24,10 @@
       "title": "【メンバー限定】ここだけの話ゆったりはなそ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
       "published": "2026-08-18T02:27:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/HCMyl3spSsM/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 12327,
       "status": "past",
-      "scheduledStart": "2026-08-18T13:00:00.000Z"
+      "scheduledStart": "2026-08-18T13:00:00Z"
     },
     {
       "id": "GZ5O2oEQyR0",
@@ -10283,7 +10283,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00.000Z"
+      "scheduledStart": "2027-12-31T14:45:00Z"
     },
     {
       "id": "SrH6XQ8H9oo",
