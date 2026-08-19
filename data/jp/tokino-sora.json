@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
     "bannerUrl": "https://yt3.googleusercontent.com/H1uaozFWgDgdCfwNOmAkWxPRhJ5-35plC827hkH-CxEf8KZLGWbqogLaKXwLQroBtIZ8gPf2EA=s0"
   },
-  "lastUpdated": "2026-08-19T17:01:43.519Z",
+  "lastUpdated": "2026-08-19T17:02:06.775Z",
   "videoCount": 1964,
   "videos": [
     {
       "id": "4JkhFFcBWzY",
       "title": "【ゼルダの伝説 神々のトライフォース 】＃３ なんか新しい世界はじまるみたい【ホロライブ/ときのそら】",
-      "published": "2026-08-19T16:03:52+00:00",
+      "published": "2026-08-19T16:03:52Z",
       "thumbnail": "https://i.ytimg.com/vi/4JkhFFcBWzY/maxresdefault.jpg",
       "type": "stream",
       "duration": 10287,
       "status": "past",
-      "scheduledStart": "2026-08-19T13:00:00.000Z"
+      "scheduledStart": "2026-08-19T13:00:00Z"
     },
     {
       "id": "ptrfxedn0-E",
@@ -26,7 +26,8 @@
       "published": "2026-08-19T11:00:17+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ptrfxedn0-E/maxresdefault.jpg",
       "type": "short",
-      "duration": 6
+      "duration": 6,
+      "status": "past"
     },
     {
       "id": "lmZ0w30CVbk",
