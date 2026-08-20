@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-08-20T06:20:08.168Z",
-  "videoCount": 1073,
+  "lastUpdated": "2026-08-20T08:07:31.600Z",
+  "videoCount": 1074,
   "videos": [
+    {
+      "id": "7t5TRN6FqmI",
+      "title": "オドループ/みにみやと踊ってみた #VTuber #hololive #dance",
+      "published": "2026-08-20T08:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7t5TRN6FqmI/maxresdefault.jpg",
+      "type": "short",
+      "duration": 31,
+      "status": "past"
+    },
     {
       "id": "6PD0uUy_LRQ",
       "title": "【Fast Food Simulator】しゅぴなで店💙🐥【水宮枢/ホロライブDEV_IS】",
@@ -18,7 +27,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-20T11:00:00Z"
+      "scheduledStart": "2026-08-20T11:00:00.000Z"
     },
     {
       "id": "TVxUH0RHhOA",
@@ -1250,7 +1259,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",

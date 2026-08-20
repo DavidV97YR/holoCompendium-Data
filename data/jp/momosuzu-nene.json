@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-08-20T05:42:00.756Z",
-  "videoCount": 1393,
+  "lastUpdated": "2026-08-20T07:35:15.724Z",
+  "videoCount": 1394,
   "videos": [
+    {
+      "id": "3gR2G_bPmzY",
+      "title": "【レーシングマスター】ねねのマシンが最強に決まってるよね!【 桃鈴ねね / hololive 】",
+      "published": "2026-08-20T03:53:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3gR2G_bPmzY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-20T11:00:00.000Z"
+    },
     {
       "id": "jTPdEzpxmIw",
       "title": "【 アソビ大全 】にこたん、ねねにもっとにこたんのこと教えてよ♡【 桃鈴ねね / 虎金妃笑虎 / hololive 】",
@@ -28,7 +38,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-22T05:00:00Z"
+      "scheduledStart": "2026-08-22T05:00:00.000Z"
     },
     {
       "id": "stmI9QkpKuw",
@@ -6034,7 +6044,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",
