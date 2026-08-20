@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-08-20T15:06:09.251Z",
+  "lastUpdated": "2026-08-20T17:07:11.732Z",
   "videoCount": 2333,
   "videos": [
     {
@@ -15,10 +15,10 @@
       "title": "【 メンバー限定 】みこちの気まぐれ放送局 #13【ホロライブ/さくらみこ】",
       "published": "2026-08-20T08:50:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/APih3gtrDfI/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 4604,
       "status": "past",
-      "scheduledStart": "2026-08-20T13:00:00.000Z"
+      "scheduledStart": "2026-08-20T13:00:00Z"
     },
     {
       "id": "ErhNO4WYC1I",
@@ -97,7 +97,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-21T11:40:00.000Z"
+      "scheduledStart": "2026-08-21T11:40:00Z"
     },
     {
       "id": "6ipiYsirbRg",
@@ -19529,7 +19529,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-05T14:55:00.000Z"
+      "scheduledStart": "2027-03-05T14:55:00Z"
     },
     {
       "id": "abuyCDr3snU",
