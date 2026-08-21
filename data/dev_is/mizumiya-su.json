@@ -7,9 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-08-21T06:19:50.914Z",
-  "videoCount": 1075,
+  "lastUpdated": "2026-08-21T08:07:36.353Z",
+  "videoCount": 1077,
   "videos": [
+    {
+      "id": "S6QygSPvJL0",
+      "title": "ダダダダダル/踊ってみた #VTuber #hololive #dance",
+      "published": "2026-08-21T08:02:49.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/S6QygSPvJL0/maxresdefault.jpg",
+      "type": "short",
+      "duration": 18,
+      "status": "past"
+    },
+    {
+      "id": "u6rNDNjOnDI",
+      "title": "【#ホロ3Dアモアス】初3DAmong Usだ〜❕✨️まあ任せて下さいよ💪",
+      "published": "2026-08-21T04:20:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/u6rNDNjOnDI/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-21T13:00:00.000Z"
+    },
     {
       "id": "ZRDi5Mo6BV8",
       "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険?!完全初見 ※ネタバレ有【水宮枢/ホロライブDEV_IS】",
@@ -18,7 +37,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-22T13:30:00Z"
+      "scheduledStart": "2026-08-22T13:30:00.000Z"
     },
     {
       "id": "6PD0uUy_LRQ",
@@ -1269,7 +1288,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
