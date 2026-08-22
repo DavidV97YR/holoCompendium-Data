@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-08-22T14:09:00.606Z",
-  "videoCount": 764,
+  "lastUpdated": "2026-08-22T16:09:00.064Z",
+  "videoCount": 765,
   "videos": [
+    {
+      "id": "fJjhRl8WjT4",
+      "title": "【雑談/chat】深夜のゆる雑談【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published": "2026-08-22T15:31:37.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fJjhRl8WjT4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-22T15:40:00.000Z"
+    },
     {
       "id": "oIiPKdvggRI",
       "title": "【F1同時視聴】後半戦はじまった!!!オランダGP予選!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published": "2026-08-22T04:51:41.000Z",
       "thumbnail": "https://i.ytimg.com/vi/oIiPKdvggRI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 6547,
+      "status": "past",
       "scheduledStart": "2026-08-22T13:30:00.000Z"
     },
     {
