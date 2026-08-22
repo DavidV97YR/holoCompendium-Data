@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-08-22T05:41:43.839Z",
+  "lastUpdated": "2026-08-22T07:35:43.171Z",
   "videoCount": 1394,
   "videos": [
+    {
+      "id": "gcLzb7bj60M",
+      "title": "超開花同時視聴！！ねねのファーストライブを振り返る！【 桃鈴ねね / hololive 】",
+      "published": "2026-08-22T07:33:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gcLzb7bj60M/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 8723,
+      "status": "past",
+      "scheduledStart": "2026-08-22T05:00:00.000Z"
+    },
     {
       "id": "3gR2G_bPmzY",
       "title": "【レーシングマスター】ねねのマシンが最強に決まってるよね！【 桃鈴ねね / hololive 】",
@@ -29,16 +39,6 @@
       "duration": 3587,
       "status": "past",
       "scheduledStart": "2026-08-19T12:00:00Z"
-    },
-    {
-      "id": "gcLzb7bj60M",
-      "title": "超開花同時視聴!!ねねのファーストライブを振り返る!【 桃鈴ねね / hololive 】",
-      "published": "2026-08-18T08:01:46.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/gcLzb7bj60M/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-22T05:00:00Z"
     },
     {
       "id": "stmI9QkpKuw",
@@ -6044,7 +6044,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",

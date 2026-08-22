@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0"
   },
-  "lastUpdated": "2026-08-22T06:10:22.194Z",
-  "videoCount": 903,
+  "lastUpdated": "2026-08-22T08:00:00.727Z",
+  "videoCount": 904,
   "videos": [
+    {
+      "id": "nhzRPsOFCjI",
+      "title": "Let's go!! サキミダレアッパレード♪",
+      "published": "2026-08-22T03:00:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nhzRPsOFCjI/maxresdefault.jpg",
+      "type": "short",
+      "duration": 36,
+      "status": "past"
+    },
     {
       "id": "Ln0CJTxpZxs",
       "title": "【Waterpark Simulator】Makin a splash【Advent Collab】",
@@ -8536,7 +8545,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-07T02:30:00Z"
+      "scheduledStart": "2026-09-07T02:30:00.000Z"
     },
     {
       "id": "ry6tv4TelAo",
