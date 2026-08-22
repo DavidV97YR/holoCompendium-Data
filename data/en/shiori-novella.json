@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
     "bannerUrl": "https://yt3.googleusercontent.com/ZxVUd_igMHK3L8yrZ07icqzCK7BtWRtu1J2DKh6zzGOAHgM50Mb7G73uMF9TmSBUJQgMWAZ9=s0"
   },
-  "lastUpdated": "2026-08-22T03:58:17.027Z",
+  "lastUpdated": "2026-08-22T06:09:40.730Z",
   "videoCount": 1012,
   "videos": [
+    {
+      "id": "lNpOfFG4HlQ",
+      "title": "POOF! You Turned Into a Cat! 【Meowgic】",
+      "published": "2026-08-22T03:17:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/lNpOfFG4HlQ/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7752,
+      "status": "past",
+      "scheduledStart": "2026-08-22T01:00:00Z"
+    },
     {
       "id": "78e416BLGo4",
       "title": "[FINALE] Into The Void - Episode 4: No Restraint (Original Motion Comic)",
@@ -18,17 +28,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-23T01:00:00.000Z"
-    },
-    {
-      "id": "lNpOfFG4HlQ",
-      "title": "POOF! You Turned Into a Cat! 【Meowgic】",
-      "published": "2026-08-20T22:14:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/lNpOfFG4HlQ/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 7752,
-      "status": "past",
-      "scheduledStart": "2026-08-22T01:00:00.000Z"
+      "scheduledStart": "2026-08-23T01:00:00Z"
     },
     {
       "id": "BCwy8TXOXjs",
@@ -9753,7 +9753,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-05-03T02:00:00.000Z"
+      "scheduledStart": "2027-05-03T02:00:00Z"
     },
     {
       "id": "rVNL6MJBQvk",

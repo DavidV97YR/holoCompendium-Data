@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-08-22T03:49:00.961Z",
+  "lastUpdated": "2026-08-22T05:58:56.362Z",
   "videoCount": 1034,
   "videos": [
+    {
+      "id": "XfZXadrIZKs",
+      "title": "【Meowgic】wanna see a magic trick?",
+      "published": "2026-08-22T03:17:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/XfZXadrIZKs/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7705,
+      "status": "past",
+      "scheduledStart": "2026-08-22T01:00:00Z"
+    },
     {
       "id": "ey3d05sFcOU",
       "title": "🍝【SPAGHET】🍝",
@@ -18,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-24T09:00:00.000Z"
+      "scheduledStart": "2026-08-24T09:00:00Z"
     },
     {
       "id": "vBwNbx3l5R0",
@@ -28,17 +38,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-23T11:00:00.000Z"
-    },
-    {
-      "id": "XfZXadrIZKs",
-      "title": "【Meowgic】wanna see a magic trick?",
-      "published": "2026-08-21T17:43:58.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/XfZXadrIZKs/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 7705,
-      "status": "past",
-      "scheduledStart": "2026-08-22T01:00:00.000Z"
+      "scheduledStart": "2026-08-23T11:00:00Z"
     },
     {
       "id": "KIf5vVa5XNQ",
@@ -9113,7 +9113,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00.000Z"
+      "scheduledStart": "2026-11-07T12:00:00Z"
     },
     {
       "id": "gW_1YVaqR-k",
