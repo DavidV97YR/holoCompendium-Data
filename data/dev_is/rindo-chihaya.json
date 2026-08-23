@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-08-23T10:09:11.346Z",
+  "lastUpdated": "2026-08-23T12:08:19.455Z",
   "videoCount": 768,
   "videos": [
+    {
+      "id": "6sas-lcpc6Q",
+      "title": "【ぷよぷよテトリス2】#ホロぷよテト大会 どっちの方ができるんだ？！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-08-23T11:09:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/6sas-lcpc6Q/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7358,
+      "status": "past",
+      "scheduledStart": "2026-08-23T09:00:00.000Z"
+    },
     {
       "id": "4a8WD3AC9uQ",
       "title": "【F1同時視聴】後半戦はじまった!!!オランダGP決勝!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
@@ -27,18 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/mJvZwCP3sU4/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-23T11:00:00.000Z"
-    },
-    {
-      "id": "6sas-lcpc6Q",
-      "title": "【ぷよぷよテトリス2】#ホロぷよテト大会 どっちの方ができるんだ?!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-08-23T08:26:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/6sas-lcpc6Q/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-08-23T09:00:00.000Z"
+      "scheduledStart": "2026-08-23T11:00:00.000Z"
     },
     {
       "id": "fJjhRl8WjT4",
@@ -62,7 +62,7 @@
     },
     {
       "id": "riG3zEzI9qc",
-      "title": "【3D Among us】 #ホロ3Dアモアス はじめての３Dアモアス！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "title": "【3D Among us】 #ホロ3Dアモアス  はじめての3Dアモアス!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published": "2026-08-21T15:07:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/riG3zEzI9qc/maxresdefault.jpg",
       "type": "stream",
