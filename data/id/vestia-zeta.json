@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-08-23T11:49:38.637Z",
+  "lastUpdated": "2026-08-23T15:49:45.512Z",
   "videoCount": 1034,
   "videos": [
+    {
+      "id": "vBwNbx3l5R0",
+      "title": "【MECCHA CHAMELEON】 i am dust u don't see me",
+      "published": "2026-08-23T14:01:10+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vBwNbx3l5R0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 10100,
+      "status": "past",
+      "scheduledStart": "2026-08-23T11:00:00.000Z"
+    },
     {
       "id": "XfZXadrIZKs",
       "title": "【Meowgic】wanna see a magic trick?",
@@ -29,16 +39,6 @@
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-08-24T09:00:00.000Z"
-    },
-    {
-      "id": "vBwNbx3l5R0",
-      "title": "【MECCHA CHAMELEON】 i am dust u don't see me",
-      "published": "2026-08-21T18:21:11.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/vBwNbx3l5R0/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-23T11:00:00.000Z"
     },
     {
       "id": "KIf5vVa5XNQ",
