@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
     "bannerUrl": "https://yt3.googleusercontent.com/H1uaozFWgDgdCfwNOmAkWxPRhJ5-35plC827hkH-CxEf8KZLGWbqogLaKXwLQroBtIZ8gPf2EA=s0"
   },
-  "lastUpdated": "2026-08-23T17:01:45.912Z",
+  "lastUpdated": "2026-08-23T17:02:00.839Z",
   "videoCount": 1972,
   "videos": [
     {
       "id": "qn-rpYT0dD4",
       "title": "【hololive Dreams】またイベントを見てみよう♪【ホロライブ/ときのそら】",
-      "published": "2026-08-23T16:33:15+00:00",
+      "published": "2026-08-23T16:33:15Z",
       "thumbnail": "https://i.ytimg.com/vi/qn-rpYT0dD4/maxresdefault.jpg",
       "type": "stream",
       "duration": 11234,
       "status": "past",
-      "scheduledStart": "2026-08-23T13:15:00.000Z"
+      "scheduledStart": "2026-08-23T13:15:00Z"
     },
     {
       "id": "OoJkGWCcyog",
@@ -26,7 +26,8 @@
       "published": "2026-08-23T11:00:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OoJkGWCcyog/maxresdefault.jpg",
       "type": "video",
-      "duration": 487
+      "duration": 487,
+      "status": "past"
     },
     {
       "id": "_NS688sEr8Q",
