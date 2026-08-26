@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
     "bannerUrl": "https://yt3.googleusercontent.com/WMGd5fRjaxWor-Z-6MBeIAl5RylNcbkd4StAGSc-KGvrGtjhYnenyJDG_lAvpULdNMfqNlBMQQ=s0"
   },
-  "lastUpdated": "2026-08-26T13:24:43.114Z",
-  "videoCount": 1884,
+  "lastUpdated": "2026-08-26T15:24:46.902Z",
+  "videoCount": 1885,
   "videos": [
     {
-      "id": "YVDonl7K-NI",
-      "title": "【ホロライブ ドリームス】推しイベだ!参加型!みんなで遊ぼうー!【不知火フレア/ホロライブ】",
-      "published": "2026-08-26T09:05:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/YVDonl7K-NI/maxresdefault.jpg",
+      "id": "rj8LXXiJTOE",
+      "title": "#08【ほの暮しの庭】3種の神器集めるぞ!【不知火フレア/ホロライブ】※ネタバレあり",
+      "published": "2026-08-26T15:15:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rj8LXXiJTOE/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-08-26T16:00:00.000Z"
+    },
+    {
+      "id": "YVDonl7K-NI",
+      "title": "【ホロライブ ドリームス】推しイベだ！参加型！みんなで遊ぼうー！【不知火フレア/ホロライブ】",
+      "published": "2026-08-26T15:01:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YVDonl7K-NI/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 6682,
+      "status": "past",
       "scheduledStart": "2026-08-26T13:00:00.000Z"
     },
     {
