@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
     "bannerUrl": "https://yt3.googleusercontent.com/pBQF7Za9aoeNWs4LmbOk4YiBJuUjtrd4IlQF4iggrybXD7PF_29x99AAd3ujt6R17RNqMN6yYTw=s0"
   },
-  "lastUpdated": "2026-08-26T06:08:15.629Z",
-  "videoCount": 763,
+  "lastUpdated": "2026-08-26T07:57:03.328Z",
+  "videoCount": 764,
   "videos": [
     {
       "id": "00Y_juzzrYY",
@@ -19,6 +19,16 @@
       "duration": 15423,
       "status": "past",
       "scheduledStart": "2026-08-26T01:00:00Z"
+    },
+    {
+      "id": "aZf5U7Aiat4",
+      "title": "【Future Games Show】Watchalong Time With @IRyS",
+      "published": "2026-08-26T05:22:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/aZf5U7Aiat4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-26T17:00:00.000Z"
     },
     {
       "id": "waPjpIg29J4",
@@ -2918,7 +2928,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-14T22:00:00Z"
+      "scheduledStart": "2027-03-14T22:00:00.000Z"
     },
     {
       "id": "nnAY-x9AtNk",
