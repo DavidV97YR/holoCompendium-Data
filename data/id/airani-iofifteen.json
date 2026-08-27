@@ -7,18 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-08-27T09:46:22.273Z",
-  "videoCount": 1785,
+  "lastUpdated": "2026-08-27T11:46:35.626Z",
+  "videoCount": 1786,
   "videos": [
     {
       "id": "5a1MepmZ_Is",
       "title": "【Windrose】ioMoona Ahoy【 iofi / hololiveID 】",
-      "published": "2026-08-27T05:07:53.000Z",
+      "published": "2026-08-27T11:36:19+00:00",
       "thumbnail": "https://i.ytimg.com/vi/5a1MepmZ_Is/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 11828,
+      "status": "past",
       "scheduledStart": "2026-08-27T08:00:00.000Z"
+    },
+    {
+      "id": "Q_IW_hS-6j4",
+      "title": "【Sonic Racing: CrossWorlds】P Balap【 iofi / hololiveID 】",
+      "published": "2026-08-27T11:28:14.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q_IW_hS-6j4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-27T14:00:00.000Z"
     },
     {
       "id": "y5rIc29LwyY",
