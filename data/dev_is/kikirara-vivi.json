@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-08-27T14:10:30.500Z",
+  "lastUpdated": "2026-08-27T18:22:29.118Z",
   "videoCount": 1146,
   "videos": [
+    {
+      "id": "1WDHebAydJ4",
+      "title": "【 3D LIVE 】重大告知あり！＃ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+      "published": "2026-08-27T12:10:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/1WDHebAydJ4/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 4126,
+      "status": "past",
+      "scheduledStart": "2026-08-27T11:00:00Z"
+    },
     {
       "id": "rIJIzTTQZZY",
       "title": "生誕ライブ会場まで大移動!",
@@ -63,10 +73,10 @@
       "title": "【メンバーシップ限定】#ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW  】",
       "published": "2026-08-26T00:08:51.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1vIQx95QDhE/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 1367,
       "status": "past",
-      "scheduledStart": "2026-08-27T12:10:00.000Z"
+      "scheduledStart": "2026-08-27T12:10:00Z"
     },
     {
       "id": "jlt6HHrZnpE",
@@ -200,16 +210,6 @@
       "type": "short",
       "duration": 18,
       "status": "past"
-    },
-    {
-      "id": "1WDHebAydJ4",
-      "title": "【 3D LIVE 】重大告知あり！＃ヴィヴィ生誕祭2026【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-      "published": "2026-08-19T05:56:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/1WDHebAydJ4/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 4126,
-      "status": "past",
-      "scheduledStart": "2026-08-27T11:00:00.000Z"
     },
     {
       "id": "bSbtXh36r5o",
@@ -10484,7 +10484,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00.000Z"
+      "scheduledStart": "2027-12-31T14:45:00Z"
     },
     {
       "id": "SrH6XQ8H9oo",
