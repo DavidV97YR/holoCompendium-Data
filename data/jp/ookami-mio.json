@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-08-27T15:19:37.067Z",
-  "videoCount": 1632,
+  "lastUpdated": "2026-08-27T17:19:28.722Z",
+  "videoCount": 1633,
   "videos": [
+    {
+      "id": "sIM8eUgp3LM",
+      "title": "【Moo Who?】うちは本物のオオカミだよーーーー!!!!【大神ミオ視点】",
+      "published": "2026-08-27T15:43:48.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/sIM8eUgp3LM/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-28T13:00:00.000Z"
+    },
     {
       "id": "apk_hvB7jy0",
       "title": "【深夜雑談】ちょっと作業しつつ雑談してみる【ホロライブ/大神ミオ】",
-      "published": "2026-08-27T12:36:32.000Z",
+      "published": "2026-08-27T15:43:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/apk_hvB7jy0/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 5682,
+      "status": "past",
       "scheduledStart": "2026-08-27T14:00:00.000Z"
     },
     {
