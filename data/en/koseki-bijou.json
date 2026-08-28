@@ -7,18 +7,28 @@
     "avatarUrl": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0"
   },
-  "lastUpdated": "2026-08-27T23:59:49.240Z",
-  "videoCount": 912,
+  "lastUpdated": "2026-08-28T02:00:17.076Z",
+  "videoCount": 913,
   "videos": [
     {
       "id": "iAcpLTG4FrE",
       "title": "【DON'T SCREAM TOGETHER】oh beep here we go again【Advent Collab】",
-      "published": "2026-08-27T23:02:33.000Z",
+      "published": "2026-08-28T01:36:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/iAcpLTG4FrE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 1418,
+      "status": "past",
       "scheduledStart": "2026-08-28T01:00:00.000Z"
+    },
+    {
+      "id": "jBhHeHyjiQY",
+      "title": "【Waterpark Simulator】Dont swim together【Advent Collab】",
+      "published": "2026-08-28T01:23:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jBhHeHyjiQY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-28T01:25:00.000Z"
     },
     {
       "id": "H1mnBqcyQfs",
@@ -36,7 +46,7 @@
       "published": "2026-08-26T06:09:04Z",
       "thumbnail": "https://i.ytimg.com/vi/zYymA9q5UgI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 24285,
+      "duration": 24289,
       "status": "past",
       "scheduledStart": "2026-08-25T23:00:00Z"
     },

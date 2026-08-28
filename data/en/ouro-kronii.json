@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
     "bannerUrl": "https://yt3.googleusercontent.com/pBQF7Za9aoeNWs4LmbOk4YiBJuUjtrd4IlQF4iggrybXD7PF_29x99AAd3ujt6R17RNqMN6yYTw=s0"
   },
-  "lastUpdated": "2026-08-27T19:57:32.933Z",
-  "videoCount": 764,
+  "lastUpdated": "2026-08-28T01:57:28.983Z",
+  "videoCount": 765,
   "videos": [
+    {
+      "id": "qgOsC74iqnM",
+      "title": "【Hollow Knight: Silksong】Act 3 Yay",
+      "published": "2026-08-28T01:02:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qgOsC74iqnM/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-28T03:00:00.000Z"
+    },
     {
       "id": "aZf5U7Aiat4",
       "title": "【Future Games Show】Watchalong Time With @IRyS",
@@ -26,7 +36,7 @@
       "published": "2026-08-26T05:32:01Z",
       "thumbnail": "https://i.ytimg.com/vi/00Y_juzzrYY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 15423,
+      "duration": 15410,
       "status": "past",
       "scheduledStart": "2026-08-26T01:00:00Z"
     },
