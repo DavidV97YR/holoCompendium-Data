@@ -7,16 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-08-28T17:05:57.277Z",
+  "lastUpdated": "2026-08-28T17:07:12.713Z",
   "videoCount": 2342,
   "videos": [
     {
       "id": "_gFulU0JSGk",
       "title": "【 ぷよテト】ぷよぷよ特訓すんぞ・・・・※視聴注意【ホロライブ/さくらみこ】",
-      "published": "2026-08-28T15:24:00+00:00",
+      "published": "2026-08-28T15:24:00Z",
       "thumbnail": "https://i.ytimg.com/vi/_gFulU0JSGk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7225
+      "duration": 7225,
+      "status": "past",
+      "scheduledStart": "2026-08-28T13:15:00Z"
     },
     {
       "id": "03T6NhJ9u-I",
@@ -19615,7 +19617,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-05T14:55:00.000Z"
+      "scheduledStart": "2027-03-05T14:55:00Z"
     },
     {
       "id": "abuyCDr3snU",

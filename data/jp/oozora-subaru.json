@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-08-28T17:16:43.116Z",
+  "lastUpdated": "2026-08-28T17:19:41.871Z",
   "videoCount": 2177,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-30T04:00:00.000Z"
+      "scheduledStart": "2026-08-30T04:00:00Z"
     },
     {
       "id": "zp14xy6cn0E",
@@ -28,25 +28,27 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-29T04:00:00.000Z"
+      "scheduledStart": "2026-08-29T04:00:00Z"
     },
     {
       "id": "XhMIpRBksAk",
       "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-      "published": "2026-08-28T16:51:17+00:00",
+      "published": "2026-08-28T16:51:17.000Z",
       "thumbnail": "https://i.ytimg.com/vi/XhMIpRBksAk/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-29T01:00:00Z"
     },
     {
       "id": "48-u34oXXR0",
       "title": "【#最終回】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-      "published": "2026-08-28T16:00:59+00:00",
+      "published": "2026-08-28T16:00:59Z",
       "thumbnail": "https://i.ytimg.com/vi/48-u34oXXR0/maxresdefault.jpg",
       "type": "stream",
       "duration": 10174,
       "status": "past",
-      "scheduledStart": "2026-08-28T13:00:00.000Z"
+      "scheduledStart": "2026-08-28T13:00:00Z"
     },
     {
       "id": "lX93c6xwtG0",
@@ -13700,7 +13702,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-31T04:00:00.000Z"
+      "scheduledStart": "2026-10-31T04:00:00Z"
     },
     {
       "id": "cvWU1pP8-ls",
