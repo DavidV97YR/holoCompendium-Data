@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0"
   },
-  "lastUpdated": "2026-08-28T07:59:42.604Z",
-  "videoCount": 913,
+  "lastUpdated": "2026-08-28T16:00:36.494Z",
+  "videoCount": 914,
   "videos": [
+    {
+      "id": "mnMPPEB9DcQ",
+      "title": "【Puyo Puyo Tetris 2】GETTING COACHED BY THE SUISEI SENPAI FT. FUWAMOCO  #ホロぷよテト大会",
+      "published": "2026-08-28T15:03:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mnMPPEB9DcQ/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-29T03:00:00.000Z"
+    },
     {
       "id": "jBhHeHyjiQY",
       "title": "【Waterpark Simulator】Dont swim together【Advent Collab】",
@@ -36,7 +46,7 @@
       "published": "2026-08-26T21:26:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/H1mnBqcyQfs/maxresdefault.jpg",
       "type": "stream",
-      "duration": 6225,
+      "duration": 6234,
       "status": "past",
       "scheduledStart": "2026-08-26T17:00:00Z"
     },
