@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-08-28T09:19:42.733Z",
+  "lastUpdated": "2026-08-28T13:19:48.532Z",
   "videoCount": 1633,
   "videos": [
+    {
+      "id": "tQdDi81s2qE",
+      "title": "【 #ホロ甲2026 】群馬県わおーん高校、始動です！【 ホロライブ / 大神ミオ 】",
+      "published": "2026-08-28T12:02:38+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tQdDi81s2qE/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 9822,
+      "status": "past",
+      "scheduledStart": "2026-08-28T09:00:00.000Z"
+    },
     {
       "id": "sIM8eUgp3LM",
       "title": "【Moo Who?】うちは本物のオオカミだよーーーー!!!!【大神ミオ視点】",
@@ -17,7 +27,7 @@
       "thumbnail": "https://i.ytimg.com/vi/sIM8eUgp3LM/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-08-28T13:00:00.000Z"
     },
     {
@@ -29,16 +39,6 @@
       "duration": 5682,
       "status": "past",
       "scheduledStart": "2026-08-27T14:00:00Z"
-    },
-    {
-      "id": "tQdDi81s2qE",
-      "title": "【 #ホロ甲2026 】群馬県わおーん高校、始動です!【 ホロライブ / 大神ミオ 】",
-      "published": "2026-08-26T15:48:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/tQdDi81s2qE/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-28T09:00:00.000Z"
     },
     {
       "id": "bKEN_FN2Svs",
