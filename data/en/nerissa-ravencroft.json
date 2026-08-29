@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
     "bannerUrl": "https://yt3.googleusercontent.com/O8AT2TqQ__ZxIZcr4F5kTBGeEXe-1sdEfVAZX7L7znev8O1gtCqndxHUrGOOycVqZ9W3A9Nb=s0"
   },
-  "lastUpdated": "2026-08-29T03:59:46.618Z",
+  "lastUpdated": "2026-08-29T06:14:05.799Z",
   "videoCount": 681,
   "videos": [
+    {
+      "id": "yVYcPOUoduE",
+      "title": "Let's enjoy the #AzureWaves ! | SWIMSUIT OUTFIT DEBUT",
+      "published": "2026-08-29T02:07:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/yVYcPOUoduE/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 4128,
+      "status": "past",
+      "scheduledStart": "2026-08-29T01:00:00Z"
+    },
     {
       "id": "DdOrG_i26-M",
       "title": "THIS WAS THE PLAN ALONG! | #holoAdvent WATERPARK SIMULATOR",
@@ -39,16 +49,6 @@
       "duration": 5328,
       "status": "past",
       "scheduledStart": "2026-08-23T01:00:00Z"
-    },
-    {
-      "id": "yVYcPOUoduE",
-      "title": "Let's enjoy the #AzureWaves ! | SWIMSUIT OUTFIT DEBUT",
-      "published": "2026-08-22T13:05:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/yVYcPOUoduE/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 4128,
-      "status": "past",
-      "scheduledStart": "2026-08-29T01:00:00.000Z"
     },
     {
       "id": "jAF7sZz4Y1E",
@@ -6565,7 +6565,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-05-31T04:45:00.000Z"
+      "scheduledStart": "2028-05-31T04:45:00Z"
     },
     {
       "id": "5BdUa7aAgnM",

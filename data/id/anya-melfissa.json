@@ -7,16 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
     "bannerUrl": "https://yt3.googleusercontent.com/t-qfe1FvO8_VCsEYqzGSGeaRid25fJ3A0_PQ8pBQ7pvMkZDF3g8cH2PYrQgOsZwvLWdRxXnT6A=s0"
   },
-  "lastUpdated": "2026-08-29T05:47:48.150Z",
+  "lastUpdated": "2026-08-29T05:59:28.989Z",
   "videoCount": 1224,
   "videos": [
     {
       "id": "SvM9B9yZwgY",
       "title": "【Toilet 8】Toilet Is Overrated Anyway【hololive ID 2nd Generation | Anya Melfissa】",
-      "published": "2026-08-28T21:30:59+00:00",
+      "published": "2026-08-29T04:54:16Z",
       "thumbnail": "https://i.ytimg.com/vi/SvM9B9yZwgY/maxresdefault.jpg",
       "type": "stream",
-      "duration": 9896
+      "duration": 9896,
+      "status": "past",
+      "scheduledStart": "2026-08-29T02:00:00Z"
     },
     {
       "id": "d3_WENDT9A4",
@@ -8624,7 +8626,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-29T17:00:00.000Z"
+      "scheduledStart": "2026-11-29T17:00:00Z"
     },
     {
       "id": "_abC4wygo1I",
@@ -10054,7 +10056,7 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-31T23:00:00.000Z"
+      "scheduledStart": "2026-10-31T23:00:00Z"
     },
     {
       "id": "oceTe2nU-YE",
