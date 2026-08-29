@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
     "bannerUrl": "https://yt3.googleusercontent.com/JhknNUVHVa8KZ9zxZ0MGMi3pV3BevLvL1TQNVUCZU9MlKLnH20rU1-ZF_zXCRiuP29ye3U24d5w=s0"
   },
-  "lastUpdated": "2026-08-29T18:00:37.330Z",
+  "lastUpdated": "2026-08-29T19:51:22.112Z",
   "videoCount": 1729,
   "videos": [
+    {
+      "id": "YzIPpdwu1Rw",
+      "title": "【2026 BIRTHDAY COUNTDOWN】tomorrow is my birthday so i wanna check on games ha...hahaha...ha.ha.ha.ha",
+      "published": "2026-08-29T18:33:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YzIPpdwu1Rw/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 10120,
+      "status": "past",
+      "scheduledStart": "2026-08-29T15:30:00.000Z"
+    },
     {
       "id": "tZ_ZI_-dEDM",
       "title": "speedrunning birthday",
@@ -18,16 +28,6 @@
       "type": "short",
       "duration": 14,
       "status": "past"
-    },
-    {
-      "id": "YzIPpdwu1Rw",
-      "title": "【2026 BIRTHDAY COUNTDOWN】tomorrow is my birthday so i wanna check on games ha...hahaha...ha.ha.ha.ha",
-      "published": "2026-08-29T06:31:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/YzIPpdwu1Rw/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-29T15:30:00Z"
     },
     {
       "id": "GoXpT795vSQ",
@@ -47,7 +47,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-30T12:45:00Z"
+      "scheduledStart": "2026-08-30T12:45:00.000Z"
     },
     {
       "id": "cnEtj-K9r8c",
@@ -14864,7 +14864,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-25T23:09:00Z"
+      "scheduledStart": "2028-03-25T23:09:00.000Z"
     },
     {
       "id": "cIpAXFkE8gk",
