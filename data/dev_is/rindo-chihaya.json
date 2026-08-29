@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-08-29T18:09:21.126Z",
+  "lastUpdated": "2026-08-29T18:21:21.876Z",
   "videoCount": 778,
   "videos": [
     {
@@ -18,17 +18,17 @@
       "type": "stream",
       "duration": 4417,
       "status": "past",
-      "scheduledStart": "2026-08-29T10:15:00.000Z"
+      "scheduledStart": "2026-08-29T10:15:00Z"
     },
     {
       "id": "1HEKaQuZtsQ",
       "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #15【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published": "2026-08-28T17:17:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1HEKaQuZtsQ/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 12749,
       "status": "past",
-      "scheduledStart": "2026-08-29T13:00:00.000Z"
+      "scheduledStart": "2026-08-29T13:00:00Z"
     },
     {
       "id": "7qXkC06yDpw",
@@ -7030,7 +7030,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00.000Z"
+      "scheduledStart": "2026-12-30T15:00:00Z"
     },
     {
       "id": "SjEF6bluuJE",

@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
     "bannerUrl": "https://yt3.googleusercontent.com/WMGd5fRjaxWor-Z-6MBeIAl5RylNcbkd4StAGSc-KGvrGtjhYnenyJDG_lAvpULdNMfqNlBMQQ=s0"
   },
-  "lastUpdated": "2026-08-29T17:24:50.777Z",
+  "lastUpdated": "2026-08-29T17:28:40.558Z",
   "videoCount": 1889,
   "videos": [
     {
@@ -18,7 +18,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-30T13:00:00.000Z"
+      "scheduledStart": "2026-08-30T13:00:00Z"
     },
     {
       "id": "QqYwVzHGN9U",
@@ -35,10 +35,10 @@
       "title": "【MemberOnly/同時視聴】amazon primeで「劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語」をみよう【不知火フレア/ホロライブ】",
       "published": "2026-08-28T13:00:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/MEpProUxztI/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 14991,
       "status": "past",
-      "scheduledStart": "2026-08-29T12:00:00.000Z"
+      "scheduledStart": "2026-08-29T12:00:00Z"
     },
     {
       "id": "nMHfsj73uCQ",
@@ -11651,7 +11651,7 @@
       "title": "ノエルツーショット",
       "published": "2022-02-20T14:55:48Z",
       "thumbnail": "https://i.ytimg.com/vi/I9nD2UC_qj8/maxresdefault.jpg",
-      "type": "video",
+      "type": "stream",
       "duration": 30,
       "status": "past"
     },

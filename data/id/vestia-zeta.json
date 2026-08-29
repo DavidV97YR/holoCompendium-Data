@@ -7,16 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-08-29T17:50:17.391Z",
+  "lastUpdated": "2026-08-29T17:59:23.474Z",
   "videoCount": 1035,
   "videos": [
     {
       "id": "LOeEAFI5DPI",
       "title": "【PUYO PUYO TETRIS 2】YA BE #ホロぷよテト大会",
-      "published": "2026-08-29T15:57:18+00:00",
+      "published": "2026-08-29T15:57:18Z",
       "thumbnail": "https://i.ytimg.com/vi/LOeEAFI5DPI/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13876
+      "duration": 13876,
+      "status": "past",
+      "scheduledStart": "2026-08-29T12:00:00Z"
     },
     {
       "id": "vBwNbx3l5R0",
@@ -9121,7 +9123,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00.000Z"
+      "scheduledStart": "2026-11-07T12:00:00Z"
     },
     {
       "id": "gW_1YVaqR-k",
