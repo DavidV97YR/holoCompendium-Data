@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-08-30T00:10:12.815Z",
-  "videoCount": 166,
+  "lastUpdated": "2026-08-30T04:10:31.637Z",
+  "videoCount": 167,
   "videos": [
     {
       "id": "JSeqVHZyX-A",
@@ -48,6 +48,16 @@
       "type": "short",
       "duration": 52,
       "status": "past"
+    },
+    {
+      "id": "iKGT7NMdQro",
+      "title": "【事件発生】#mekPark 全員集合したら色々ヤバすぎたwww #琉海垣りらら #りららだいびんぐ",
+      "published": "2026-08-28T23:38:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iKGT7NMdQro/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-31T12:00:00.000Z"
     },
     {
       "id": "vwSVp1nTfdA",
@@ -104,8 +114,8 @@
       "published": "2026-08-27T23:44:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/WJzT4PsnmQo/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 4026,
+      "status": "live",
       "scheduledStart": "2026-08-30T03:00:00.000Z"
     },
     {
