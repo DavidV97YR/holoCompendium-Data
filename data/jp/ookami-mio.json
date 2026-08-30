@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-08-30T09:19:30.497Z",
-  "videoCount": 1634,
+  "lastUpdated": "2026-08-30T11:19:40.831Z",
+  "videoCount": 1636,
   "videos": [
+    {
+      "id": "_e7u802STXw",
+      "title": "【#朝ミオ 】月曜日だよ~!おはみぉーん!8月ラスト!",
+      "published": "2026-08-30T09:58:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/_e7u802STXw/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-30T22:30:00.000Z"
+    },
     {
       "id": "9RuLHZeOs18",
       "title": "【 #ホロ甲2026 】群馬県わおーん高校、夏の県大会3回戦から！【 ホロライブ / 大神ミオ 】",
@@ -21,12 +31,22 @@
       "scheduledStart": "2026-08-30T03:00:00.000Z"
     },
     {
+      "id": "g9O_ctXThLE",
+      "title": "【白猫プロジェクト】ゲマズが実装された!ホロとコラボ!?いっぱい遊ぼう!【白上フブキ/大神ミオ/ホロライブ】",
+      "published": "2026-08-29T12:25:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/g9O_ctXThLE/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-31T11:00:00.000Z"
+    },
+    {
       "id": "sIM8eUgp3LM",
-      "title": "【Moo Who?】うちは本物のオオカミだよーーーー！！！！【大神ミオ視点】",
+      "title": "【Moo Who?】うちは本物のオオカミだよーーーー!!!!【大神ミオ視点】",
       "published": "2026-08-28T14:32:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/sIM8eUgp3LM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 4779,
+      "duration": 4785,
       "status": "past",
       "scheduledStart": "2026-08-28T13:00:00Z"
     },
