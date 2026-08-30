@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-08-30T15:54:49.300Z",
+  "lastUpdated": "2026-08-30T18:03:40.675Z",
   "videoCount": 1913,
   "videos": [
     {
@@ -15,10 +15,10 @@
       "title": "【member's only】august concert!! #calliolive",
       "published": "2026-08-30T08:11:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/8uT6pxk29h0/maxresdefault.jpg",
-      "type": "stream",
+      "type": "member",
       "duration": 6893,
       "status": "past",
-      "scheduledStart": "2026-08-30T13:00:00.000Z"
+      "scheduledStart": "2026-08-30T13:00:00Z"
     },
     {
       "id": "J91MV67aARg",
@@ -28,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-01T23:00:00.000Z"
+      "scheduledStart": "2026-09-01T23:00:00Z"
     },
     {
       "id": "l94QriNGFok",
@@ -48,7 +48,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-31T12:00:00.000Z"
+      "scheduledStart": "2026-08-31T12:00:00Z"
     },
     {
       "id": "or6VC0FkOOw",
@@ -58,7 +58,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-31T14:00:00.000Z"
+      "scheduledStart": "2026-08-31T14:00:00Z"
     },
     {
       "id": "si2imxk4-R8",

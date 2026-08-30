@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
     "bannerUrl": "https://yt3.googleusercontent.com/JhknNUVHVa8KZ9zxZ0MGMi3pV3BevLvL1TQNVUCZU9MlKLnH20rU1-ZF_zXCRiuP29ye3U24d5w=s0"
   },
-  "lastUpdated": "2026-08-30T17:52:02.876Z",
+  "lastUpdated": "2026-08-30T18:01:26.567Z",
   "videoCount": 1730,
   "videos": [
     {
       "id": "U9zPYWB-PGg",
       "title": "【#FOODIELA26】FOOD TALK WITH THE GUESTS & MERCH 🎂【KAELA 2026 BIRTHDAY】",
-      "published": "2026-08-30T16:55:58+00:00",
+      "published": "2026-08-30T16:55:58Z",
       "thumbnail": "https://i.ytimg.com/vi/U9zPYWB-PGg/maxresdefault.jpg",
       "type": "stream",
       "duration": 14407,
       "status": "past",
-      "scheduledStart": "2026-08-30T12:45:00.000Z"
+      "scheduledStart": "2026-08-30T12:45:00Z"
     },
     {
       "id": "ErkLMJSFeow",
@@ -26,7 +26,9 @@
       "published": "2026-08-30T09:28:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ErkLMJSFeow/maxresdefault.jpg",
       "type": "member",
-      "duration": 0
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-08-30T16:45:00Z"
     },
     {
       "id": "YzIPpdwu1Rw",
@@ -14872,7 +14874,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-25T23:09:00.000Z"
+      "scheduledStart": "2028-03-25T23:09:00Z"
     },
     {
       "id": "cIpAXFkE8gk",
