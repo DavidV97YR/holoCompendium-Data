@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-08-29T19:53:15.426Z",
-  "videoCount": 1910,
+  "lastUpdated": "2026-08-30T01:52:46.639Z",
+  "videoCount": 1911,
   "videos": [
+    {
+      "id": "HZOSaPAIWYc",
+      "title": "【CHADCast】EPISODE 1 #calliolive",
+      "published": "2026-08-30T00:19:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HZOSaPAIWYc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-08-31T12:00:00.000Z"
+    },
     {
       "id": "or6VC0FkOOw",
       "title": "【MV】Here Comes the CHADCAST - (Mori Calliope, IRyS, Hakos Baelz)",
@@ -46,8 +56,8 @@
       "thumbnail": "https://i.ytimg.com/vi/l94QriNGFok/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-30T00:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-08-30T00:05:00.000Z"
     },
     {
       "id": "xlUmqI42Jnw",
