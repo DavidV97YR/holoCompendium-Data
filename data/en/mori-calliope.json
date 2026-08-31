@@ -7,9 +7,29 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-08-31T13:53:25.798Z",
+  "lastUpdated": "2026-08-31T15:56:52.462Z",
   "videoCount": 1913,
   "videos": [
+    {
+      "id": "HZOSaPAIWYc",
+      "title": "【CHADCast】EPISODE 1 - we are back. #calliolive #chadcast",
+      "published": "2026-08-31T14:48:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HZOSaPAIWYc/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7003,
+      "status": "past",
+      "scheduledStart": "2026-08-31T12:00:00.000Z"
+    },
+    {
+      "id": "or6VC0FkOOw",
+      "title": "【MV】Here Comes the CHADCAST - (Mori Calliope, IRyS, Hakos Baelz)",
+      "published": "2026-08-31T14:00:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/or6VC0FkOOw/maxresdefault.jpg",
+      "type": "video",
+      "duration": 235,
+      "status": "past",
+      "scheduledStart": "2026-08-31T14:00:00.000Z"
+    },
     {
       "id": "8uT6pxk29h0",
       "title": "【member's only】august concert!! #calliolive",
@@ -39,26 +59,6 @@
       "duration": 21487,
       "status": "past",
       "scheduledStart": "2026-08-30T00:05:00Z"
-    },
-    {
-      "id": "HZOSaPAIWYc",
-      "title": "【CHADCast】EPISODE 1 - we are back.  #calliolive #chadcast",
-      "published": "2026-08-30T00:19:50.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HZOSaPAIWYc/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-08-31T12:00:00.000Z"
-    },
-    {
-      "id": "or6VC0FkOOw",
-      "title": "【MV】Here Comes the CHADCAST - (Mori Calliope, IRyS, Hakos Baelz)",
-      "published": "2026-08-29T07:20:23+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/or6VC0FkOOw/maxresdefault.jpg",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-31T14:00:00.000Z"
     },
     {
       "id": "si2imxk4-R8",

@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
     "bannerUrl": "https://yt3.googleusercontent.com/wkioFy6NFpeZJi6LkB521yFmJxPhvUvunQyVLkGJqXszKiffPUtfeICzg0ZPxOI_NTHVBdH2dxc=s0"
   },
-  "lastUpdated": "2026-08-31T14:03:59.113Z",
-  "videoCount": 334,
+  "lastUpdated": "2026-08-31T16:04:11.190Z",
+  "videoCount": 335,
   "videos": [
+    {
+      "id": "BG1PnrEgNMY",
+      "title": "🛡🌹 Rosarian Common Room ❤️ Community Hangout 🌹 🛡",
+      "published": "2026-08-31T14:31:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/BG1PnrEgNMY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2027-04-25T18:00:00.000Z"
+    },
     {
       "id": "MOjT8edxMaw",
       "title": "【 TOMODACHI LIFE】Big Miilord Island Episode 4 ~! 💄#ad",
@@ -26,8 +36,8 @@
       "published": "2026-08-31T00:00:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4fIlr008mJQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 7678,
+      "status": "past",
       "scheduledStart": "2026-08-31T12:00:00.000Z"
     },
     {
