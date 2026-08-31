@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
     "bannerUrl": "https://yt3.googleusercontent.com/ghoYlXd408DVQ66H8KzBlryJcG4jhDszDWjs41x_6oInlXQkP6YGppx35rlk-uj02tLqLJS27Q=s0"
   },
-  "lastUpdated": "2026-08-31T15:07:01.848Z",
+  "lastUpdated": "2026-08-31T17:08:48.357Z",
   "videoCount": 1159,
   "videos": [
     {
@@ -16,7 +16,8 @@
       "published": "2026-08-31T12:30:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nXMuntUkg94/maxresdefault.jpg",
       "type": "short",
-      "duration": 20
+      "duration": 20,
+      "status": "past"
     },
     {
       "id": "uSDtkV3PXSA",
@@ -26,7 +27,7 @@
       "type": "video",
       "duration": 185,
       "status": "past",
-      "scheduledStart": "2026-08-31T11:00:00.000Z"
+      "scheduledStart": "2026-08-31T11:00:00Z"
     },
     {
       "id": "Wa8ZX0i_LPw",
@@ -43,7 +44,7 @@
       "title": "星詠みぱじゃまぱーてぃーvol.1 大阪公演ダイジェスト【24時間限定公開】",
       "published": "2026-08-30T11:00:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jIYmEBX58hs/maxresdefault.jpg",
-      "type": "video",
+      "type": "stream",
       "duration": 1413,
       "status": "past"
     },
@@ -10875,7 +10876,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-30T15:00:00.000Z"
+      "scheduledStart": "2026-10-30T15:00:00Z"
     },
     {
       "id": "hkeIWsK3bKM",

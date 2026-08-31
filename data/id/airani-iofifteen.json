@@ -7,16 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-08-31T17:46:17.986Z",
+  "lastUpdated": "2026-08-31T17:57:55.615Z",
   "videoCount": 1788,
   "videos": [
     {
       "id": "ksf9tm7eyI4",
       "title": "【Senin Produktif】Monday calls for Monday 【 iofi / hololiveID 】",
-      "published": "2026-08-31T16:57:29+00:00",
+      "published": "2026-08-31T16:57:29Z",
       "thumbnail": "https://i.ytimg.com/vi/ksf9tm7eyI4/maxresdefault.jpg",
       "type": "stream",
-      "duration": 13343
+      "duration": 13343,
+      "status": "past",
+      "scheduledStart": "2026-08-31T13:00:00Z"
     },
     {
       "id": "AAxQQWx2e3g",
@@ -26,7 +28,7 @@
       "type": "stream",
       "duration": 9026,
       "status": "past",
-      "scheduledStart": "2026-08-31T08:30:00.000Z"
+      "scheduledStart": "2026-08-31T08:30:00Z"
     },
     {
       "id": "Q_IW_hS-6j4",
