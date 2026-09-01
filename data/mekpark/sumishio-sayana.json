@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-01T14:11:30.893Z",
+  "lastUpdated": "2026-09-01T16:10:43.252Z",
   "videoCount": 176,
   "videos": [
+    {
+      "id": "mq8yFHXXES8",
+      "title": "【マンガ大好き】最近読んだマンガについて語りたい🥳話そ~ #墨汐さやな #さやな時間",
+      "published": "2026-09-01T15:30:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mq8yFHXXES8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 5244,
+      "status": "past",
+      "scheduledStart": "2026-09-01T13:00:00.000Z"
+    },
     {
       "id": "QBTLlwiZ6g0",
       "title": "【罪】きょうだいのゲームを勝手に進めてしまった幼りらら🐳 #ACHRORA #琉海垣りらら #shorts #切り抜き #きりとりらら",
@@ -89,16 +99,6 @@
       "scheduledStart": "2026-08-31T12:00:00Z"
     },
     {
-      "id": "mq8yFHXXES8",
-      "title": "【マンガ大好き】最近読んだマンガについて語りたい🥳話そ~ #墨汐さやな #さやな時間",
-      "published": "2026-08-30T23:54:42.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/mq8yFHXXES8/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-01T13:00:00.000Z"
-    },
-    {
       "id": "JSeqVHZyX-A",
       "title": "【ついに最終日】告知あり🖤これで終わり！あっという間の1か月！最後まで一緒にストレッチしよ【#あさやなストレッチ夏】＃墨汐さやな ＃さやな時間",
       "published": "2026-08-30T23:20:35+00:00",
@@ -124,7 +124,7 @@
       "published": "2026-08-30T19:57:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PTLB0E6CrKU/maxresdefault.jpg",
       "type": "stream",
-      "duration": 30598,
+      "duration": 30601,
       "status": "past",
       "scheduledStart": "2026-08-30T11:00:00Z"
     },
