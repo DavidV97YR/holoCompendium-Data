@@ -7,18 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-02T18:12:36.318Z",
+  "lastUpdated": "2026-09-02T18:26:35.751Z",
   "videoCount": 180,
   "videos": [
     {
       "id": "YYqoGNfcp9Q",
       "title": "【ストゼロ新作⁉️】ブルブルマシンに乗りながら -196レビュー!🍑🍍【晩酌雑談】 #琉海垣りらら #りららだいびんぐ",
-      "published": "2026-09-02T16:19:39+00:00",
+      "published": "2026-09-02T16:19:39Z",
       "thumbnail": "https://i.ytimg.com/vi/YYqoGNfcp9Q/maxresdefault.jpg",
       "type": "stream",
       "duration": 3695,
       "status": "past",
-      "scheduledStart": "2026-09-02T13:00:00.000Z"
+      "scheduledStart": "2026-09-02T13:00:00Z"
     },
     {
       "id": "OOfUWBQzqKk",
@@ -26,7 +26,8 @@
       "published": "2026-09-02T09:00:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OOfUWBQzqKk/maxresdefault.jpg",
       "type": "short",
-      "duration": 75
+      "duration": 75,
+      "status": "past"
     },
     {
       "id": "t6lUk7HoPc4",
@@ -36,7 +37,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-02T20:00:00.000Z"
+      "scheduledStart": "2026-09-02T20:00:00Z"
     },
     {
       "id": "5ek9fbp1Tpk",
@@ -46,7 +47,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-03T13:00:00.000Z"
+      "scheduledStart": "2026-09-03T13:00:00Z"
     },
     {
       "id": "BSpIpHJOJh8",
@@ -86,7 +87,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-03T03:00:00.000Z"
+      "scheduledStart": "2026-09-03T03:00:00Z"
     },
     {
       "id": "QBTLlwiZ6g0",
