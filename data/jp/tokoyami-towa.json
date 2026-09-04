@@ -7,16 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FF7U-8fSNFmZalS5rOz0xblWY-wNC_IxZZ4AG_BctbqptVxfIAhNrn-6E3MYNCH33EgcASGJ=s0"
   },
-  "lastUpdated": "2026-09-04T17:30:46.588Z",
+  "lastUpdated": "2026-09-04T17:37:04.878Z",
   "videoCount": 1880,
   "videos": [
     {
       "id": "Y1Gz4GlTB3s",
       "title": "【 #ロゼキャンARK 】DAY1 │チームCこと、おかたづけできるもん!始動‼️【常闇トワ視点/ホロライブ】",
-      "published": "2026-09-04T15:56:01+00:00",
+      "published": "2026-09-04T15:56:01Z",
       "thumbnail": "https://i.ytimg.com/vi/Y1Gz4GlTB3s/maxresdefault.jpg",
       "type": "stream",
-      "duration": 18907
+      "duration": 18907,
+      "status": "past",
+      "scheduledStart": "2026-09-04T10:00:00Z"
     },
     {
       "id": "bQ8PMeJiruQ",
