@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-04T07:44:39.058Z",
-  "videoCount": 1263,
+  "lastUpdated": "2026-09-04T09:44:47.158Z",
+  "videoCount": 1264,
   "videos": [
+    {
+      "id": "oK5yQYHOG7Y",
+      "title": "【 #ロゼキャンARK 】命だいじに✋DAY1【風真いろは/ホロライブ】",
+      "published": "2026-09-04T08:42:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/oK5yQYHOG7Y/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-04T09:55:00.000Z"
+    },
     {
       "id": "CZj71UOt0Tk",
       "title": "風真いろはの #ねるまえらじお 📻❣ #22",
@@ -77,9 +87,8 @@
       "thumbnail": "https://i.ytimg.com/vi/KFL7ivERy2c/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-08-23T08:00:00Z"
     },
     {
       "id": "NeAx7gIaKtk",
