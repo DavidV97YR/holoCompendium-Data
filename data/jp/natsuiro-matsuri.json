@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-09-05T07:13:26.834Z",
-  "videoCount": 1912,
+  "lastUpdated": "2026-09-05T09:13:21.688Z",
+  "videoCount": 1913,
   "videos": [
+    {
+      "id": "Lf75d5W82T8",
+      "title": "【 #ロゼキャンARK 】2日目大きな一歩を!!【ホロライブ/夏色まつり】",
+      "published": "2026-09-05T09:02:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Lf75d5W82T8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-05T10:30:00.000Z"
+    },
     {
       "id": "14EsWvW5U6g",
       "title": "【 #ロゼキャンARK 】チームDのリーダーになっちゃったですけど！！？【ホロライブ/夏色まつり】",
@@ -18685,9 +18695,8 @@
       "thumbnail": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2025-12-24T15:00:00Z"
     },
     {
       "id": "IW5b7btfayI",

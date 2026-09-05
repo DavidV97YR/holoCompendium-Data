@@ -7,13 +7,23 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-05T07:44:36.946Z",
-  "videoCount": 1264,
+  "lastUpdated": "2026-09-05T09:44:18.788Z",
+  "videoCount": 1265,
   "videos": [
+    {
+      "id": "grsIwh-FYlk",
+      "title": "【 #ロゼキャンARK 】整理整頓🔁お願いします。🔁DAY2【風真いろは/ホロライブ】",
+      "published": "2026-09-05T08:06:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/grsIwh-FYlk/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-05T10:00:00.000Z"
+    },
     {
       "id": "oK5yQYHOG7Y",
       "title": "【 #ロゼキャンARK 】命だいじに✋DAY1【風真いろは/ホロライブ】",
-      "published": "2026-09-04T08:42:45.000Z",
+      "published": "2026-09-05T08:01:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oK5yQYHOG7Y/maxresdefault.jpg",
       "type": "stream",
       "duration": 20133,
@@ -87,9 +97,8 @@
       "thumbnail": "https://i.ytimg.com/vi/KFL7ivERy2c/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-08-23T08:00:00Z"
     },
     {
       "id": "NeAx7gIaKtk",
