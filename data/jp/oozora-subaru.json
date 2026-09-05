@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-09-05T05:16:53.041Z",
+  "lastUpdated": "2026-09-05T05:20:04.686Z",
   "videoCount": 2186,
   "videos": [
+    {
+      "id": "njnpFNBZneE",
+      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+      "published": "2026-09-05T03:21:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/njnpFNBZneE/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 7612,
+      "status": "past",
+      "scheduledStart": "2026-09-05T01:00:00Z"
+    },
     {
       "id": "rdrBDLbjvqM",
       "title": "【#ロゼキャンARK】チームA DAY1！！！ARK: Survival Ascended やるしゅばあああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
@@ -31,16 +41,6 @@
       "scheduledStart": "2026-09-03T11:00:00Z"
     },
     {
-      "id": "njnpFNBZneE",
-      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-      "published": "2026-09-03T08:13:38.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/njnpFNBZneE/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 7612,
-      "status": "past",
-      "scheduledStart": "2026-09-05T01:00:00.000Z"
-    },
-    {
       "id": "CsgSjtBzlvg",
       "title": "【】ARK最終日【ホロライブ/大空スバル】",
       "published": "2026-09-03T08:11:09.000Z",
@@ -48,7 +48,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-06T10:00:00.000Z"
+      "scheduledStart": "2026-09-06T10:00:00Z"
     },
     {
       "id": "Vx-mQvkdHgg",
@@ -58,7 +58,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-05T10:00:00.000Z"
+      "scheduledStart": "2026-09-05T10:00:00Z"
     },
     {
       "id": "LHmxDNYPDe8",
@@ -13790,7 +13790,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-31T04:00:00.000Z"
+      "scheduledStart": "2026-10-31T04:00:00Z"
     },
     {
       "id": "cvWU1pP8-ls",
