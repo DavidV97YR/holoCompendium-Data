@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-05T06:22:15.577Z",
-  "videoCount": 1105,
+  "lastUpdated": "2026-09-05T08:10:49.378Z",
+  "videoCount": 1106,
   "videos": [
+    {
+      "id": "xtTmI74gPqo",
+      "title": "【手書き】言われた通り…? #ホロライブ  #vtuber #animation",
+      "published": "2026-09-05T03:00:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xtTmI74gPqo/maxresdefault.jpg",
+      "type": "short",
+      "duration": 9,
+      "status": "past"
+    },
     {
       "id": "yfwQmbt3F3Y",
       "title": "【 #ロゼキャンArk 】day2チームD 🦕大初心者!強く生きる【水宮枢/ホロライブDEV_IS】",
@@ -18,7 +27,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-05T13:00:00Z"
+      "scheduledStart": "2026-09-05T13:00:00.000Z"
     },
     {
       "id": "8r8PNJnze-s",
@@ -1554,7 +1563,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",

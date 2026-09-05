@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-09-05T06:04:15.606Z",
+  "lastUpdated": "2026-09-05T07:54:37.928Z",
   "videoCount": 1918,
   "videos": [
+    {
+      "id": "gZD9djeqFzE",
+      "title": "【Castlevania: Symphony of the Night】95 percent chance of dracula sighting today (final?) #calliolive",
+      "published": "2026-09-05T06:39:25+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gZD9djeqFzE/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 15794,
+      "status": "past",
+      "scheduledStart": "2026-09-05T02:00:00.000Z"
+    },
     {
       "id": "FfxsZktvAYc",
       "title": "hey mom I'm on tv! #storytime #anime #animation #hololive #vtuber",
@@ -30,16 +40,6 @@
       "scheduledStart": "2026-09-03T02:00:00Z"
     },
     {
-      "id": "gZD9djeqFzE",
-      "title": "【Castlevania: Symphony of the Night】95 percent chance of dracula sighting today (final?) #calliolive",
-      "published": "2026-09-02T10:30:51.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/gZD9djeqFzE/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-05T02:00:00Z"
-    },
-    {
       "id": "J91MV67aARg",
       "title": "【ZELDA: OCARINA OF TIME】i bought an ocarina on amazon (2) #calliolive",
       "published": "2026-09-02T04:47:24Z",
@@ -57,7 +57,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-06T01:00:00Z"
+      "scheduledStart": "2026-09-06T01:00:00.000Z"
     },
     {
       "id": "HZOSaPAIWYc",
@@ -388,7 +388,7 @@
       "type": "video",
       "duration": 286,
       "status": "upcoming",
-      "scheduledStart": "2026-09-06T03:00:00Z"
+      "scheduledStart": "2026-09-06T03:00:00.000Z"
     },
     {
       "id": "PnSbj0n238A",
