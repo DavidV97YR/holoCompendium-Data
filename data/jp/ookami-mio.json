@@ -7,17 +7,37 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-09-05T11:19:53.119Z",
-  "videoCount": 1641,
+  "lastUpdated": "2026-09-05T17:20:23.570Z",
+  "videoCount": 1643,
   "videos": [
     {
-      "id": "4XT9CNWKQBU",
-      "title": "【 #ロゼキャンARK 】拠点作りとお留守番の任務を果たしたい!【大神ミオ視点】",
-      "published": "2026-09-05T07:04:05.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/4XT9CNWKQBU/maxresdefault.jpg",
+      "id": "xZrCBS8kkYw",
+      "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺春の入学式後から!【 ホロライブ / 大神ミオ 】",
+      "published": "2026-09-05T16:04:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xZrCBS8kkYw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-09-06T06:00:00.000Z"
+    },
+    {
+      "id": "9UnwD77car0",
+      "title": "【 #ロゼキャンARK 】最終日、BOSSラッシュ?!うちタンクやらせてください【大神ミオ視点】",
+      "published": "2026-09-05T16:01:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9UnwD77car0/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-06T10:00:00.000Z"
+    },
+    {
+      "id": "4XT9CNWKQBU",
+      "title": "【 #ロゼキャンARK 】拠点作りとお留守番の任務を果たしたい！【大神ミオ視点】",
+      "published": "2026-09-05T15:51:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4XT9CNWKQBU/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 19591,
+      "status": "past",
       "scheduledStart": "2026-09-05T10:00:00.000Z"
     },
     {
