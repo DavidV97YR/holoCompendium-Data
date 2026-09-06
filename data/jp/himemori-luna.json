@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
     "bannerUrl": "https://yt3.googleusercontent.com/m4hI8Er_vGrR-Ycxic0Sahx2uUOaIHflx9BTDJe_6HruUGOIHwZjrhwR8LGAJlYaR5o7_Ks=s0"
   },
-  "lastUpdated": "2026-09-06T11:32:46.332Z",
-  "videoCount": 1656,
+  "lastUpdated": "2026-09-06T13:32:11.269Z",
+  "videoCount": 1657,
   "videos": [
+    {
+      "id": "3MJu1T0NWq8",
+      "title": "【 パネポン 】ルーナイト対戦!久々に遊んであげるのらね!!!(・o・🍬)【姫森ルーナ/ホロライブ】",
+      "published": "2026-09-06T11:34:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3MJu1T0NWq8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-07T10:00:00.000Z"
+    },
     {
       "id": "_3id1nkx5QU",
       "title": "９月。それは秋なのら。(・o・🍬)【姫森ルーナ/ホロライブ】",
@@ -27,9 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/i0C3wsGt-ps/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-06T08:00:00.000Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-09-06T08:00:00.000Z"
     },
     {
       "id": "O6sCDth4q34",
