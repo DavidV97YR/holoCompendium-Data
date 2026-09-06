@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-09-06T05:40:04.856Z",
+  "lastUpdated": "2026-09-06T05:49:10.893Z",
   "videoCount": 2384,
   "videos": [
+    {
+      "id": "OjIqvR3ikmA",
+      "title": "【同時視聴/Watchalong】〈化物語〉(後編9~15話) holoXで同時視聴!(映像付き)【 #SSholoX /ホロライブ】",
+      "published": "2026-09-06T05:20:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/OjIqvR3ikmA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 11441,
+      "status": "past",
+      "scheduledStart": "2026-09-06T02:00:00Z"
+    },
     {
       "id": "14-cjse2cbA",
       "title": "【 紫苑S&セントウルS 】秋競馬開始!有名馬集うレースを的中させるぞ!!!【鷹嶺ルイ/ホロライブ】",
@@ -18,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-09-06T05:30:00.000Z"
+      "scheduledStart": "2026-09-06T05:30:00Z"
     },
     {
       "id": "5YXrXHTVydo",
@@ -38,7 +48,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-06T13:00:00.000Z"
+      "scheduledStart": "2026-09-06T13:00:00Z"
     },
     {
       "id": "kjZx0qrkl1Y",
@@ -69,16 +79,6 @@
       "duration": 17301,
       "status": "past",
       "scheduledStart": "2026-09-03T14:00:00Z"
-    },
-    {
-      "id": "OjIqvR3ikmA",
-      "title": "【同時視聴/Watchalong】〈化物語〉(後編9~15話) holoXで同時視聴!(映像付き)【 #SSholoX /ホロライブ】",
-      "published": "2026-09-01T18:19:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/OjIqvR3ikmA/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 11441,
-      "status": "past",
-      "scheduledStart": "2026-09-06T02:00:00.000Z"
     },
     {
       "id": "ANYwHt1FgeA",
