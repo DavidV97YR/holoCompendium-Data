@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-06T07:45:45.095Z",
-  "videoCount": 1265,
+  "lastUpdated": "2026-09-06T09:43:50.554Z",
+  "videoCount": 1266,
   "videos": [
+    {
+      "id": "SUhvxyVWDEA",
+      "title": "【 #ロゼキャンARK 】ラストスパート!できることはなんでもする会【風真いろは/ホロライブ】",
+      "published": "2026-09-06T09:02:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SUhvxyVWDEA/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-06T10:00:00.000Z"
+    },
     {
       "id": "grsIwh-FYlk",
       "title": "【 #ロゼキャンARK 】整理整頓🔁お願いします。🔁DAY2【風真いろは/ホロライブ】",
@@ -97,9 +107,8 @@
       "thumbnail": "https://i.ytimg.com/vi/KFL7ivERy2c/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-08-23T08:00:00Z"
     },
     {
       "id": "NeAx7gIaKtk",
