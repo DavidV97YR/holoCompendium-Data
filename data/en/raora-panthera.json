@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-09-06T18:15:58.848Z",
+  "lastUpdated": "2026-09-06T20:03:41.555Z",
   "videoCount": 535,
   "videos": [
+    {
+      "id": "OSt_jg3VRE8",
+      "title": "【POKÉMON LEAF GREEN】TEAM ROCKET ARC HERE WE GO!!!【SOUL-LINK NUZLOCKE】",
+      "published": "2026-09-06T18:22:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/OSt_jg3VRE8/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 10446,
+      "status": "past",
+      "scheduledStart": "2026-09-06T15:20:00Z"
+    },
     {
       "id": "YzDni1oUVyU",
       "title": "【#ロゼキャンARK】I JUST WANT TO FIND A MATE FOR DINO...🦕 TEAM D!【FINAL DAY】",
@@ -28,16 +38,6 @@
       "type": "short",
       "duration": 28,
       "status": "past"
-    },
-    {
-      "id": "OSt_jg3VRE8",
-      "title": "【POKÉMON LEAF GREEN】TEAM ROCKET ARC HERE WE GO!!!【SOUL-LINK NUZLOCKE】",
-      "published": "2026-09-05T16:47:31.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/OSt_jg3VRE8/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 10446,
-      "status": "past",
-      "scheduledStart": "2026-09-06T15:20:00Z"
     },
     {
       "id": "bovldKh3f50",
@@ -3616,7 +3616,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-25T14:20:00Z"
+      "scheduledStart": "2026-12-25T14:20:00.000Z"
     },
     {
       "id": "dXLjZ0WoC88",

@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-09-06T18:22:36.011Z",
+  "lastUpdated": "2026-09-06T20:09:09.971Z",
   "videoCount": 787,
   "videos": [
+    {
+      "id": "-6t7PEI62fw",
+      "title": "【雑談/chat】日曜日を終わらせたくない【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-09-06T18:56:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/-6t7PEI62fw/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 11709,
+      "status": "past",
+      "scheduledStart": "2026-09-06T15:00:00.000Z"
+    },
     {
       "id": "Tc5oWXMZkgc",
       "title": "【F1同時視聴】モンツァ決勝！！！！！！！イタリアGP！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
@@ -19,16 +29,6 @@
       "duration": 10673,
       "status": "past",
       "scheduledStart": "2026-09-06T12:30:00Z"
-    },
-    {
-      "id": "-6t7PEI62fw",
-      "title": "【雑談/chat】日曜日を終わらせたくない【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-09-06T12:09:32+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/-6t7PEI62fw/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-06T15:00:00Z"
     },
     {
       "id": "0-wuS7W2KmE",
@@ -7116,7 +7116,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00Z"
+      "scheduledStart": "2026-12-30T15:00:00.000Z"
     },
     {
       "id": "SjEF6bluuJE",
