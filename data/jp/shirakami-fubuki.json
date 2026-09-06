@@ -7,16 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
     "bannerUrl": "https://yt3.googleusercontent.com/sZR7H8ye0MmNeLXg70SypSOH45r_OAgA-IbJrqKRmwk4T1CkWAh5g0n6kGv5t8o29Swcc1DiUg=s0"
   },
-  "lastUpdated": "2026-09-06T17:11:47.022Z",
+  "lastUpdated": "2026-09-06T17:13:56.248Z",
   "videoCount": 3258,
   "videos": [
     {
       "id": "KY9gH8EeKPQ",
       "title": "【#ロゼキャンARK】TeamsC　おかたづけできるもん！DAY３【ホロライブ/白上フブキ】",
-      "published": "2026-09-06T16:24:09+00:00",
+      "published": "2026-09-06T16:24:09Z",
       "thumbnail": "https://i.ytimg.com/vi/KY9gH8EeKPQ/maxresdefault.jpg",
       "type": "stream",
-      "duration": 21556
+      "duration": 21556,
+      "status": "past",
+      "scheduledStart": "2026-09-06T10:00:00Z"
     },
     {
       "id": "N1FFbXyP_Y0",
@@ -26,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-07T10:00:00.000Z"
+      "scheduledStart": "2026-09-07T10:00:00Z"
     },
     {
       "id": "RAE-GQinAWk",
@@ -6251,7 +6253,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-30T15:00:00.000Z"
+      "scheduledStart": "2027-08-30T15:00:00Z"
     },
     {
       "id": "7Vo37040OMw",
@@ -17417,7 +17419,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-30T15:00:00.000Z"
+      "scheduledStart": "2027-08-30T15:00:00Z"
     },
     {
       "id": "tigFZwD3bRc",
