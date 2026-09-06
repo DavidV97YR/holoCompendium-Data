@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0"
   },
-  "lastUpdated": "2026-09-06T09:26:03.149Z",
+  "lastUpdated": "2026-09-06T11:26:24.594Z",
   "videoCount": 1793,
   "videos": [
     {
@@ -27,8 +27,8 @@
       "thumbnail": "https://i.ytimg.com/vi/a6Hq-dttg_g/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-06T12:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-09-06T10:00:00.000Z"
     },
     {
       "id": "Wu-qOz24zmg",
@@ -37,9 +37,8 @@
       "thumbnail": "https://i.ytimg.com/vi/Wu-qOz24zmg/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-06T10:00:00.000Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-09-06T10:00:00.000Z"
     },
     {
       "id": "rzc-FOeWPFM",
@@ -63,11 +62,11 @@
     },
     {
       "id": "Az2j1NjyK9A",
-      "title": "【#ロゼキャンARK】チームB！だんちょもがんばりますッッ！！！！【白銀ノエル/ホロライブ】",
+      "title": "【#ロゼキャンARK】チームB!だんちょもがんばりますッッ!!!!【白銀ノエル/ホロライブ】",
       "published": "2026-09-04T15:53:03Z",
       "thumbnail": "https://i.ytimg.com/vi/Az2j1NjyK9A/maxresdefault.jpg",
       "type": "stream",
-      "duration": 20016,
+      "duration": 19992,
       "status": "past",
       "scheduledStart": "2026-09-04T10:00:00Z"
     },
