@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
     "bannerUrl": "https://yt3.googleusercontent.com/t-qfe1FvO8_VCsEYqzGSGeaRid25fJ3A0_PQ8pBQ7pvMkZDF3g8cH2PYrQgOsZwvLWdRxXnT6A=s0"
   },
-  "lastUpdated": "2026-09-06T11:50:06.669Z",
-  "videoCount": 1231,
+  "lastUpdated": "2026-09-06T17:49:04.722Z",
+  "videoCount": 1232,
   "videos": [
     {
-      "id": "0J45HENDW08",
-      "title": "【#ロゼキャンARK】DAY 3行くよ!最終日!Last Day, Let's Go Wild!【hololive ID 2nd Generation | Anya Melfissa】",
-      "published": "2026-09-06T09:12:40.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/0J45HENDW08/maxresdefault.jpg",
+      "id": "tMBs10KgWWc",
+      "title": "【Meccha Chameleon】MECCHA IDLEON LET'S GO【hololive ID 2nd Generation | Anya Melfissa】",
+      "published": "2026-09-06T17:18:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/tMBs10KgWWc/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-09-07T07:00:00.000Z"
+    },
+    {
+      "id": "0J45HENDW08",
+      "title": "【#ロゼキャンARK】DAY 3行くよ！最終日！Last Day, Let's Go Wild!【hololive ID 2nd Generation | Anya Melfissa】",
+      "published": "2026-09-06T16:55:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0J45HENDW08/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 23459,
+      "status": "past",
       "scheduledStart": "2026-09-06T10:00:00.000Z"
     },
     {
