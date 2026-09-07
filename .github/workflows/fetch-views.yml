@@ -46,14 +46,22 @@ jobs:
           OUT:      ./data.sqlite
         run: node scripts/build-sqlite.js
 
-      # Skipped until the R2 secrets exist, so adding this step cannot break
-      # the run before the bucket is set up.
+      # Uploaded over R2's S3-compatible API using the access key pair the R2
+      # token page issues. Wrangler's `r2 object put` calls a REST endpoint that
+      # dashboard-created R2 tokens are not authorised for (403), and the AWS
+      # CLI is preinstalled on the runner, so this needs no Node and no npx.
+      # Skipped until the secrets exist, so it cannot break the run before then.
       - name: Publish SQLite to R2
         env:
-          CLOUDFLARE_API_TOKEN:  ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
-        run: npx --yes wrangler@latest r2 object put holocompendium-db/data.sqlite --file=./data.sqlite --remote
+          AWS_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION:    auto
+          ACCOUNT_ID:            ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        if: ${{ env.AWS_ACCESS_KEY_ID != '' }}
+        run: |
+          aws s3 cp ./data.sqlite "s3://holocompendium-db/data.sqlite" \
+            --endpoint-url "https://${ACCOUNT_ID}.r2.cloudflarestorage.com" \
+            --content-type application/vnd.sqlite3
 
       - name: Commit updated data
         run: |
