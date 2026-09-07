@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-09-07T05:41:28.614Z",
-  "videoCount": 1397,
+  "lastUpdated": "2026-09-07T07:35:24.919Z",
+  "videoCount": 1398,
   "videos": [
+    {
+      "id": "SknkzBIVA9A",
+      "title": "【 復活 】インフルエンザから復活しましたませ~!おまたせしました!【 桃鈴ねね / hololive 】",
+      "published": "2026-09-07T07:17:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SknkzBIVA9A/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-07T09:00:00.000Z"
+    },
     {
       "id": "wO0M4UN6EWU",
       "title": "【 #ねねねトワワ 】スーパーバニーマンで愛の結晶つくる!💛【 桃鈴ねね / 常闇トワ / hololive 】",
@@ -6074,7 +6084,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",
