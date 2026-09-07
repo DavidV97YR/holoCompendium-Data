@@ -7,17 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-09-07T10:10:50.483Z",
-  "videoCount": 788,
+  "lastUpdated": "2026-09-07T12:10:29.266Z",
+  "videoCount": 789,
   "videos": [
     {
-      "id": "B3oFOpzvocY",
-      "title": "【パドック通信】#1 モータースポーツを一緒にもっと楽しむ配信!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-09-07T07:10:42.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/B3oFOpzvocY/maxresdefault.jpg",
+      "id": "-m4tBKumcXw",
+      "title": "【7 Days to Die】#ホロ7大豆劇場 DAY7🧟‍♀️ 夏はゾンビだ!7DTDだ!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+      "published": "2026-09-07T11:20:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-m4tBKumcXw/maxresdefault.jpg",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-09-07T13:00:00.000Z"
+    },
+    {
+      "id": "B3oFOpzvocY",
+      "title": "【パドック通信】#1 モータースポーツを一緒にもっと楽しむ配信！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-09-07T11:09:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/B3oFOpzvocY/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 3740,
+      "status": "past",
       "scheduledStart": "2026-09-07T10:00:00.000Z"
     },
     {
@@ -42,11 +52,11 @@
     },
     {
       "id": "0-wuS7W2KmE",
-      "title": "【F1同時視聴】イタリアGP予選！モンツァだ~~~!!!【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "title": "【F1同時視聴】イタリアGP予選!モンツァだ~~~!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
       "published": "2026-09-05T15:53:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0-wuS7W2KmE/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7944,
+      "duration": 7911,
       "status": "past",
       "scheduledStart": "2026-09-05T13:30:00Z"
     },

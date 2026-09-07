@@ -7,17 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ",
     "bannerUrl": "https://yt3.googleusercontent.com/9Jgj2h9RsmoSOQn9vemS06nROOnoDeZZVeTRyj0zJyNkqsSk-Syy4WHAdlT4GOmbfBX2aK4L=s0"
   },
-  "lastUpdated": "2026-09-07T10:09:36.221Z",
-  "videoCount": 797,
+  "lastUpdated": "2026-09-07T12:09:09.100Z",
+  "videoCount": 798,
   "videos": [
     {
+      "id": "lbrBTJmBS8Y",
+      "title": "【 メン限 】同時視聴しよか【虎金妃笑虎】",
+      "published": "2026-09-07T11:14:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lbrBTJmBS8Y/maxresdefault.jpg",
+      "type": "member",
+      "duration": 0
+    },
+    {
       "id": "HG6L6rSwkqA",
-      "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ!【虎金妃笑虎】",
-      "published": "2026-09-06T15:20:01.000Z",
+      "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ！【虎金妃笑虎】",
+      "published": "2026-09-07T10:50:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/HG6L6rSwkqA/maxresdefault.jpg",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4530,
+      "status": "past",
       "scheduledStart": "2026-09-07T09:30:00.000Z"
     },
     {
