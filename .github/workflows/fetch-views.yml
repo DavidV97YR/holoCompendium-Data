@@ -25,6 +25,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install dependencies
+        run: npm ci --omit=dev || npm install --omit=dev
+
       - name: Fetch view counts
         if: ${{ inputs.popular_only != true }}
         env:
@@ -36,6 +39,21 @@ jobs:
         env:
           DATA_DIR: ./data
         run: node scripts/build-popular.js
+
+      - name: Build SQLite catalogue
+        env:
+          DATA_DIR: ./data
+          OUT:      ./data.sqlite
+        run: node scripts/build-sqlite.js
+
+      # Skipped until the R2 secrets exist, so adding this step cannot break
+      # the run before the bucket is set up.
+      - name: Publish SQLite to R2
+        env:
+          CLOUDFLARE_API_TOKEN:  ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        run: npx --yes wrangler@latest r2 object put holocompendium-db/data.sqlite --file=./data.sqlite --remote
 
       - name: Commit updated data
         run: |
