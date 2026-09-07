@@ -248,8 +248,25 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
   }
 
   const local = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-  const localIds = new Set(local.videos.map(v => v.id));
   let changed = false;
+
+  // Collapse any video listed twice, keeping whichever copy has more filled in.
+  // Done on load so the rest of the run only ever sees one entry per id — the
+  // Holodex title/duration sync below builds an id→video map, which silently
+  // drops all but the last copy and leaves the others to drift stale.
+  const byId = new Map();
+  const score = v => (v.duration ? 2 : 0) + (v.status ? 1 : 0);
+  for (const v of local.videos) {
+    const prev = byId.get(v.id);
+    if (!prev || score(v) > score(prev)) byId.set(v.id, v);
+  }
+  if (byId.size !== local.videos.length) {
+    console.log(`  ⚠ removed ${local.videos.length - byId.size} duplicate(s)`);
+    local.videos = [...byId.values()];
+    changed = true;
+  }
+
+  const localIds = new Set(local.videos.map(v => v.id));
   // Use channel ID from JSON — already resolved to UC... by bootstrap
   const resolvedId = local.channel.id;
   const suffix = resolvedId.replace(/^UC/, '');
@@ -299,7 +316,13 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     }
   }
 
-  if (newEntries.length) {
+  // Only the frequent run adds new videos. Full Recheck runs ~1h22m against
+  // the Updater's ~1h11m from the same start time, so both would discover the
+  // same brand-new video during that overlap and insert their own copy — and
+  // two insertions at adjacent positions don't conflict, so the loser's rebase
+  // merges both in. The Updater re-reads these feeds every 2h, so anything
+  // missed is picked up on its next pass rather than needing a backstop here.
+  if (!backfill && newEntries.length) {
     console.log(`    ★ ${newEntries.length} new video(s) — enriching via Holodex...`);
     for (const entry of newEntries) {
       try {
