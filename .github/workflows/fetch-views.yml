@@ -56,6 +56,9 @@ jobs:
           AWS_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION:    auto
+          # AWS CLI >= 2.23 sends CRC32 checksums by default; not every
+          # S3-compatible endpoint accepts them. Only send when required.
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
           ACCOUNT_ID:            ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         if: ${{ env.AWS_ACCESS_KEY_ID != '' }}
         run: |
