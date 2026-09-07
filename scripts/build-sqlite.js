@@ -8,20 +8,22 @@
  *
  * The file is published to R2 and queried directly from the browser over HTTP
  * range requests (sql.js-httpvfs), so there is no server and no row quota:
- * each run replaces one object rather than writing ~100k rows.
+ * each run replaces one object rather than writing ~100k rows. A query only
+ * pulls the pages it touches, so what matters is not the file's size but how
+ * tightly the rows a query needs are packed together — hence the clustering
+ * and indexes below.
  *
- * Uses sql.js (SQLite compiled to WASM) rather than a native binding — the
- * native one segfaulted on the Actions runner, and a WASM build has no ABI to
- * mismatch, so this runs identically everywhere.
+ * Uses node:sqlite (built into Node >= 22) rather than a dependency: sql.js
+ * ships without FTS5, and a native binding segfaulted on the Actions runner.
  *
  * Env:
  *   DATA_DIR — path to data folder (default: ./data)
  *   OUT      — output path        (default: ./data.sqlite)
  */
 
-const fs        = require('fs');
-const path      = require('path');
-const initSqlJs = require('sql.js');
+const fs   = require('fs');
+const path = require('path');
+const { DatabaseSync } = require('node:sqlite');
 
 const DATA_DIR = process.env.DATA_DIR || './data';
 const OUT      = process.env.OUT      || './data.sqlite';
@@ -57,13 +59,13 @@ function channelFiles(dir) {
 // (FUWAMOCO, the mekPark units); keep whichever copy carries the most.
 const score = v => (v.duration ? 4 : 0) + (v.status ? 2 : 0) + (v.views != null ? 1 : 0);
 
-async function main() {
+function main() {
   const files = channelFiles(DATA_DIR);
   if (!files.length) { console.error('No channel files in ' + DATA_DIR); process.exit(1); }
   console.log('\n  ' + files.length + ' channel file(s)\n');
 
-  const channels = new Map();  // channelId -> row
-  const videos   = new Map();  // videoId   -> row
+  const channels = new Map();
+  const videos   = new Map();
 
   for (const fp of files) {
     let data;
@@ -77,7 +79,7 @@ async function main() {
     const branch = path.basename(path.dirname(fp));
     const name   = CANONICAL[ch.name] || ch.name || path.basename(fp, '.json');
     if (!channels.has(chId)) {
-      channels.set(chId, { id: chId, name: name, branch: branch, avatar: ch.avatarUrl || '' });
+      channels.set(chId, { id: chId, name, branch, avatar: ch.avatarUrl || '' });
     }
 
     let views = {};
@@ -103,66 +105,76 @@ async function main() {
     }
   }
 
-  const SQL = await initSqlJs();
-  const db  = new SQL.Database();
+  if (fs.existsSync(OUT)) fs.unlinkSync(OUT);
+  const db = new DatabaseSync(OUT);
+  db.exec('PRAGMA journal_mode = OFF');
+  db.exec('PRAGMA synchronous = OFF');
 
-  db.run([
-    'CREATE TABLE channels (',
-    '  id     TEXT PRIMARY KEY,',
-    '  name   TEXT NOT NULL,',
-    '  branch TEXT,',
-    '  avatar TEXT',
-    ');',
-    'CREATE TABLE videos (',
-    '  id         TEXT PRIMARY KEY,',
-    '  channel_id TEXT NOT NULL REFERENCES channels(id),',
-    '  title      TEXT NOT NULL,',
-    '  published  INTEGER NOT NULL,',
-    '  duration   INTEGER NOT NULL DEFAULT 0,',
-    '  type       TEXT NOT NULL,',
-    '  status     TEXT,',
-    '  views      INTEGER',
-    ');',
-  ].join('\n'));
+  db.exec(`
+    CREATE TABLE channels (
+      id     TEXT PRIMARY KEY,
+      name   TEXT NOT NULL,
+      branch TEXT,
+      avatar TEXT
+    );
+    CREATE TABLE videos (
+      id         TEXT PRIMARY KEY,
+      channel_id TEXT NOT NULL REFERENCES channels(id),
+      title      TEXT NOT NULL,
+      published  INTEGER NOT NULL,
+      duration   INTEGER NOT NULL DEFAULT 0,
+      type       TEXT NOT NULL,
+      status     TEXT,
+      views      INTEGER
+    );
+  `);
 
-  db.run('BEGIN');
   const insCh = db.prepare('INSERT INTO channels (id,name,branch,avatar) VALUES (?,?,?,?)');
-  for (const c of channels.values()) insCh.run([c.id, c.name, c.branch, c.avatar]);
-  insCh.free();
-
-  const insV = db.prepare(
+  const insV  = db.prepare(
     'INSERT INTO videos (id,channel_id,title,published,duration,type,status,views)' +
     ' VALUES (?,?,?,?,?,?,?,?)');
-  for (const v of videos.values())
-    insV.run([v.id, v.channel_id, v.title, v.published, v.duration, v.type, v.status, v.views]);
-  insV.free();
-  db.run('COMMIT');
 
-  // Popular is (type, published, views); the rest are the cross-channel queries
-  // this file exists to make possible.
-  db.run([
-    'CREATE INDEX idx_videos_popular   ON videos(type, published DESC, views DESC);',
-    'CREATE INDEX idx_videos_channel   ON videos(channel_id, published DESC);',
-    'CREATE INDEX idx_videos_published ON videos(published DESC);',
-  ].join('\n'));
+  db.exec('BEGIN');
+  for (const c of channels.values()) insCh.run(c.id, c.name, c.branch, c.avatar);
+  // Insert newest-first so rows land on disk in publication order. Every window
+  // the site asks for is "the last N days", so a clustered window is a handful
+  // of adjacent pages instead of hundreds scattered through the file — the
+  // difference between touching 0.4% of the table and 99%.
+  const ordered = [...videos.values()].sort((a, b) => b.published - a.published);
+  for (const v of ordered)
+    insV.run(v.id, v.channel_id, v.title, v.published, v.duration, v.type, v.status, v.views);
+  db.exec('COMMIT');
+
+  db.exec(`
+    CREATE INDEX idx_videos_popular   ON videos(type, published DESC, views DESC);
+    CREATE INDEX idx_videos_channel   ON videos(channel_id, published DESC);
+    CREATE INDEX idx_videos_published ON videos(published DESC);
+    CREATE INDEX idx_videos_views     ON videos(views DESC);
+  `);
+
+  // Title search. The trigram tokenizer indexes every 3-character sequence, so
+  // substrings match in any script — the default tokenizer splits on spaces and
+  // would never find a term inside an unbroken run of Japanese.
+  db.exec(`
+    CREATE VIRTUAL TABLE videos_fts USING fts5(
+      title, content='videos', content_rowid='rowid', tokenize='trigram');
+  `);
+  db.exec('INSERT INTO videos_fts(rowid, title) SELECT rowid, title FROM videos');
 
   // Range requests read pages, so the file must be contiguous and unfragmented.
-  db.run('VACUUM');
-  db.run('ANALYZE');
+  db.exec('VACUUM');
+  db.exec('ANALYZE');
 
-  const rows = q => { const r = db.exec(q); return r.length ? r[0].values : []; };
-  const withViews = rows('SELECT COUNT(*) FROM videos WHERE views > 0')[0][0];
-  const byType    = rows('SELECT type, COUNT(*) n FROM videos GROUP BY type ORDER BY n DESC');
-
-  fs.writeFileSync(OUT, Buffer.from(db.export()));
+  const withViews = db.prepare('SELECT COUNT(*) n FROM videos WHERE views > 0').get().n;
+  const byType    = db.prepare('SELECT type, COUNT(*) n FROM videos GROUP BY type ORDER BY n DESC').all();
   db.close();
 
   const mb = (fs.statSync(OUT).size / 1048576).toFixed(1);
   console.log('  channels         : ' + channels.size);
   console.log('  videos           : ' + videos.size.toLocaleString());
   console.log('  with view counts : ' + withViews.toLocaleString());
-  byType.forEach(r => console.log('    ' + String(r[0]).padEnd(7) + ' ' + r[1].toLocaleString()));
+  byType.forEach(r => console.log('    ' + String(r.type).padEnd(7) + ' ' + r.n.toLocaleString()));
   console.log('\n  ' + OUT + '  ' + mb + ' MB\n');
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+main();
