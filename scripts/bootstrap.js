@@ -175,7 +175,6 @@ async function processChannel(talent, apiKey, outputDir) {
     id,
     title:     snippet.title || '',
     published: snippet.publishedAt || '',
-    thumbnail: `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`,
     type,
     duration:  parseDuration(details[id]?.duration),
   }));

@@ -266,6 +266,14 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     changed = true;
   }
 
+  // Drop the stored thumbnail URL. It is always
+  // https://i.ytimg.com/vi/<id>/maxresdefault.jpg, which the site rebuilds from
+  // the id it already has (thumbCard()), so storing it costs ~16% of every
+  // payload to say nothing. Stripped on load so existing records shed it too.
+  for (const v of local.videos) {
+    if (v.thumbnail !== undefined) { delete v.thumbnail; changed = true; }
+  }
+
   const localIds = new Set(local.videos.map(v => v.id));
   // Use channel ID from JSON — already resolved to UC... by bootstrap
   const resolvedId = local.channel.id;
@@ -332,7 +340,6 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           id:        entry.id,
           title:     detail.title || entry.title,
           published: detail.published_at || entry.published,
-          thumbnail: `https://i.ytimg.com/vi/${entry.id}/maxresdefault.jpg`,
           type:      entry.type,
           duration:  detail.duration || 0,
           status:    detail.status || 'past',
@@ -345,7 +352,6 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           id:        entry.id,
           title:     entry.title,
           published: entry.published,
-          thumbnail: `https://i.ytimg.com/vi/${entry.id}/maxresdefault.jpg`,
           type:      entry.type,
           duration:  0,
         });
