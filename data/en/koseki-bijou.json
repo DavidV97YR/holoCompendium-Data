@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0"
   },
-  "lastUpdated": "2026-09-07T17:21:11.887Z",
-  "videoCount": 922,
+  "lastUpdated": "2026-09-07T18:15:46.444Z",
+  "videoCount": 921,
   "videos": [
     {
       "id": "tTwTLN7zfM8",
@@ -25,7 +25,7 @@
       "type": "stream",
       "duration": 26648,
       "status": "past",
-      "scheduledStart": "2026-09-06T23:00:00.000Z"
+      "scheduledStart": "2026-09-06T23:00:00Z"
     },
     {
       "id": "nzSAaWwaY94",
@@ -52,7 +52,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-12T01:00:00.000Z"
+      "scheduledStart": "2026-09-12T01:00:00Z"
     },
     {
       "id": "a1pfTx8xYQM",
@@ -198,7 +198,6 @@
       "id": "Z16OMEw5FK8",
       "title": "【HOLOLIVE DREAMS】SURELY IT WILL GO BETTER THIS TIME. RIGHT?",
       "published": "2026-08-18T02:20:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/Z16OMEw5FK8/maxresdefault.jpg",
       "type": "stream",
       "duration": 11646,
       "status": "past",
@@ -7845,7 +7844,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-06-06T23:18:00.000Z"
+      "scheduledStart": "2027-06-06T23:18:00Z"
     },
     {
       "id": "ry6tv4TelAo",

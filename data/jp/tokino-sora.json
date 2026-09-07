@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
     "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0"
   },
-  "lastUpdated": "2026-09-07T17:01:43.618Z",
+  "lastUpdated": "2026-09-07T17:02:20.395Z",
   "videoCount": 1986,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 2254,
       "status": "past",
-      "scheduledStart": "2026-09-07T12:00:00.000Z"
+      "scheduledStart": "2026-09-07T12:00:00Z"
     },
     {
       "id": "onHEZJkKZWE",
@@ -33,7 +33,9 @@
       "title": "【メン限】新メイクアップ写真撮影会【ホロライブ/ときのそら】",
       "published": "2026-09-06T13:04:07+00:00",
       "type": "member",
-      "duration": 1219
+      "duration": 1219,
+      "status": "past",
+      "scheduledStart": "2026-09-07T13:00:00Z"
     },
     {
       "id": "w3kjsIRUQWM",

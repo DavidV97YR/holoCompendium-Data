@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ",
     "bannerUrl": "https://yt3.googleusercontent.com/9Jgj2h9RsmoSOQn9vemS06nROOnoDeZZVeTRyj0zJyNkqsSk-Syy4WHAdlT4GOmbfBX2aK4L=s0"
   },
-  "lastUpdated": "2026-09-07T18:08:53.065Z",
+  "lastUpdated": "2026-09-07T18:25:07.629Z",
   "videoCount": 798,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【 メン限 】同時視聴しよか【虎金妃笑虎】",
       "published": "2026-09-07T11:14:04+00:00",
       "type": "member",
-      "duration": 0
+      "duration": 3463,
+      "status": "past",
+      "scheduledStart": "2026-09-07T11:15:00Z"
     },
     {
       "id": "HG6L6rSwkqA",
@@ -24,7 +26,7 @@
       "type": "stream",
       "duration": 4530,
       "status": "past",
-      "scheduledStart": "2026-09-07T09:30:00.000Z"
+      "scheduledStart": "2026-09-07T09:30:00Z"
     },
     {
       "id": "L1-6ZVoECMo",
