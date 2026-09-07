@@ -5,11 +5,21 @@
     "branch": "JP",
     "slug": "tokino-sora",
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-    "bannerUrl": "https://yt3.googleusercontent.com/H1uaozFWgDgdCfwNOmAkWxPRhJ5-35plC827hkH-CxEf8KZLGWbqogLaKXwLQroBtIZ8gPf2EA=s0"
+    "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0"
   },
-  "lastUpdated": "2026-09-07T07:01:43.834Z",
-  "videoCount": 1985,
+  "lastUpdated": "2026-09-07T13:01:50.997Z",
+  "videoCount": 1986,
   "videos": [
+    {
+      "id": "t38GnSLYjpE",
+      "title": "ときのそら 新メイクアップライブ-新しいお化粧！わたしのお披露目会-",
+      "published": "2026-09-07T12:41:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/t38GnSLYjpE/maxresdefault.jpg",
+      "type": "stream",
+      "duration": 2254,
+      "status": "past",
+      "scheduledStart": "2026-09-07T12:00:00.000Z"
+    },
     {
       "id": "onHEZJkKZWE",
       "title": "【9周年】カウントダウン配信！【ホロライブ/ときのそら】",
@@ -21,12 +31,20 @@
       "scheduledStart": "2026-09-06T14:30:00Z"
     },
     {
+      "id": "DXocFNrHKNs",
+      "title": "【メン限】新メイクアップ写真撮影会【ホロライブ/ときのそら】",
+      "published": "2026-09-06T13:04:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/DXocFNrHKNs/maxresdefault.jpg",
+      "type": "member",
+      "duration": 0
+    },
+    {
       "id": "w3kjsIRUQWM",
       "title": "【雑談枠】重大発表まであと少しだけどまったりしてる【ホロライブ/ときのそら】",
       "published": "2026-09-05T16:39:07Z",
       "thumbnail": "https://i.ytimg.com/vi/w3kjsIRUQWM/maxresdefault.jpg",
       "type": "stream",
-      "duration": 7268,
+      "duration": 7276,
       "status": "past",
       "scheduledStart": "2026-09-05T14:30:00Z"
     },
@@ -87,16 +105,6 @@
       "duration": 2961,
       "status": "past",
       "scheduledStart": "2026-08-27T11:00:00Z"
-    },
-    {
-      "id": "t38GnSLYjpE",
-      "title": "重大発表",
-      "published": "2026-08-27T07:50:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/t38GnSLYjpE/maxresdefault.jpg",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-07T12:00:00.000Z"
     },
     {
       "id": "ImEoe5X43i0",
