@@ -7,9 +7,16 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-09-08T06:00:40.029Z",
-  "videoCount": 1041,
+  "lastUpdated": "2026-09-08T07:51:07.450Z",
+  "videoCount": 1042,
   "videos": [
+    {
+      "id": "2galak4Drxw",
+      "title": "【Adorable Adventures】LOST IN THE WOODS 【#1】",
+      "published": "2026-09-08T04:52:44+00:00",
+      "type": "stream",
+      "duration": 0
+    },
     {
       "id": "x7ekqcvyx2o",
       "title": "【MECCHA CHAMELEON】Searching for HoloID!!!!",
@@ -33,8 +40,8 @@
       "published": "2026-09-06T05:42:18.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-08T06:00:00Z"
+      "status": "live",
+      "scheduledStart": "2026-09-08T06:00:00.000Z"
     },
     {
       "id": "RjaHLLC0Z9o",
@@ -8254,7 +8261,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00Z"
+      "scheduledStart": "2026-11-07T12:00:00.000Z"
     },
     {
       "id": "gW_1YVaqR-k",
