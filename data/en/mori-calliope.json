@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-09-08T05:52:25.065Z",
+  "lastUpdated": "2026-09-08T06:04:15.648Z",
   "videoCount": 1922,
   "videos": [
+    {
+      "id": "btaAS9ezB9o",
+      "title": "【ZELDA: OCARINA OF TIME】fih (part 3) #calliolive",
+      "published": "2026-09-08T05:37:58Z",
+      "type": "stream",
+      "duration": 18034,
+      "status": "past",
+      "scheduledStart": "2026-09-08T00:20:00Z"
+    },
     {
       "id": "rTXpfojIBxA",
       "title": "【hololive Next 2026.9.7】quick watch-a-long #calliolive",
@@ -18,15 +27,6 @@
       "duration": 4871,
       "status": "past",
       "scheduledStart": "2026-09-07T11:05:00Z"
-    },
-    {
-      "id": "btaAS9ezB9o",
-      "title": "【ZELDA: OCARINA OF TIME】fih (part 3) #calliolive",
-      "published": "2026-09-07T07:57:59.000Z",
-      "type": "stream",
-      "duration": 18034,
-      "status": "past",
-      "scheduledStart": "2026-09-08T00:20:00.000Z"
     },
     {
       "id": "6RZJBeRAszs",
@@ -61,7 +61,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-13T01:00:00.000Z"
+      "scheduledStart": "2026-09-13T01:00:00Z"
     },
     {
       "id": "gZD9djeqFzE",
