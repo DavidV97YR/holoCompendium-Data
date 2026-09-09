@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-09-09T03:51:28.160Z",
+  "lastUpdated": "2026-09-09T06:01:04.607Z",
   "videoCount": 1923,
   "videos": [
     {
@@ -15,7 +15,8 @@
       "title": "the quest for sproinkle sandwich #anime #storytime #animation #hololive #vtuber",
       "published": "2026-09-09T00:59:15+00:00",
       "type": "short",
-      "duration": 60
+      "duration": 60,
+      "status": "past"
     },
     {
       "id": "btaAS9ezB9o",
@@ -68,7 +69,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-13T01:00:00.000Z"
+      "scheduledStart": "2026-09-13T01:00:00Z"
     },
     {
       "id": "gZD9djeqFzE",

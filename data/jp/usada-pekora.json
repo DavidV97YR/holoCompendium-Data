@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow",
     "bannerUrl": "https://yt3.googleusercontent.com/w_n8yUnJiwX4WfpFKYDPFKtMrk0my03WJSNpraNZ79bu0OfgXEIPtKm77dERXitsmQ_Y4bH7Jg=s0"
   },
-  "lastUpdated": "2026-09-09T03:22:40.029Z",
+  "lastUpdated": "2026-09-09T05:26:58.024Z",
   "videoCount": 2741,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【同時視聴】Nintendo Direct 2026.9.9を一緒に見よう!!ぺこ!【ホロライブ/兎田ぺこら】",
       "published": "2026-09-08T18:59:58+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-09T13:45:00Z"
     },
     {
       "id": "SsdxVhwxyYo",
@@ -39,7 +41,7 @@
       "id": "5Z38a6Go8wQ",
       "title": "ゼータちゃんの【LOVE MISSION♡】踊ってみた #shorts #hololive #踊ってみた #mmd",
       "published": "2026-09-07T09:00:02.000Z",
-      "type": "short",
+      "type": "video",
       "duration": 32,
       "status": "past"
     },
