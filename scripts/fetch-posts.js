@@ -41,7 +41,7 @@ const UA     = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
                '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 const COMMUNITY_PARAMS = 'Egljb21tdW5pdHnyBgQKAkoA';        // the Posts tab
 const INNERTUBE_CTX = {
-  client: { clientName: 'WEB', clientVersion: '2.20240101.00.00', hl: 'en', gl: 'US' },
+  client: { clientName: 'WEB', clientVersion: '2.20240101.00.00' },
 };
 
 const MAX_PAGES        = 250;   // runaway guard only; the real stop is a missing token
@@ -71,12 +71,19 @@ function get(url, headers) {
 function post(url, payload) {
   return new Promise((resolve, reject) => {
     const data = Buffer.from(JSON.stringify(payload));
-    const req = https.request(new URL(url), {
+    const u = new URL(url);
+    // Explicit hostname/path rather than handing https.request a URL object,
+    // and an accept-language header: this is the exact shape that reached
+    // innertube from an Actions runner during the feasibility probe.
+    const req = https.request({
+      hostname: u.hostname,
+      path: u.pathname + u.search,
       method: 'POST',
       headers: {
         'content-type': 'application/json',
         'content-length': data.length,
         'user-agent': UA,
+        'accept-language': 'en-US,en;q=0.9',
       },
     }, res => {
       const chunks = [];
@@ -84,6 +91,7 @@ function post(url, payload) {
       res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks).toString('utf8') }));
     });
     req.on('error', reject);
+    req.setTimeout(20000, () => { req.destroy(new Error('timeout')); });
     req.write(data);
     req.end();
   });
@@ -182,7 +190,8 @@ async function crawlFeed(channelId, knownIds, backfill) {
 
     const res = await post('https://www.youtube.com/youtubei/v1/browse?key=' + YT_KEY, payload);
     pages++;
-    if (res.status !== 200) throw new Error('innertube HTTP ' + res.status);
+    if (res.status !== 200)
+      throw new Error('innertube HTTP ' + res.status + ' — ' + res.body.slice(0, 300).replace(/\s+/g, ' '));
 
     let json;
     try { json = JSON.parse(res.body); }
