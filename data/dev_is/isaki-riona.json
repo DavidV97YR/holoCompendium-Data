@@ -7,16 +7,23 @@
     "avatarUrl": "https://yt3.ggpht.com/SVUeFR_FT5vqSsETqWnu5UVGE5gAdeCoJUJT93aYnX8XF_4uhgM97zG57m3BkddT05WamMnIBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FYGhzbQQR_hwZqW1HrCv4k-QjReiIAaucgeHJkwEyxmiQg5G_OcBFX6zk3nxoKh4-mlSk5GVrg=s0"
   },
-  "lastUpdated": "2026-09-09T12:06:32.157Z",
-  "videoCount": 885,
+  "lastUpdated": "2026-09-09T16:08:02.552Z",
+  "videoCount": 886,
   "videos": [
+    {
+      "id": "ewA2rvax_l0",
+      "title": "【定期配信＃44】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+      "published": "2026-09-09T15:58:21+00:00",
+      "type": "stream",
+      "duration": 0
+    },
     {
       "id": "bqtBfAWTh-0",
       "title": "【 7Days to Die 】今日もゾンビの世界じゃああ! #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
-      "published": "2026-09-09T03:21:30.000Z",
+      "published": "2026-09-09T15:00:46+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 10224,
+      "status": "past",
       "scheduledStart": "2026-09-09T12:00:00.000Z"
     },
     {
@@ -30,10 +37,10 @@
     },
     {
       "id": "uMDxDVVayKw",
-      "title": "【 ＃ホロ甲2026 】壁咲高校、1年目秋の地区大会に挑む🔥【ホロライブ DEV_IS 響咲リオナ】",
+      "title": "【 #ホロ甲2026 】壁咲高校、1年目秋の地区大会に挑む🔥【ホロライブ DEV_IS 響咲リオナ】",
       "published": "2026-09-07T11:11:53+00:00",
       "type": "stream",
-      "duration": 8996,
+      "duration": 9003,
       "status": "past",
       "scheduledStart": "2026-09-07T08:30:00Z"
     },
