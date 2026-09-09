@@ -218,6 +218,12 @@ function extractImages(node) {
 function extractPost(p) {
   if (!p || !p.postId) return null;
 
+  // A repost of something since deleted. YouTube still renders the reposter's
+  // own comment above a "This post is no longer available" tombstone, but the
+  // thing being pointed at is gone, and its permalink is a blank page with no
+  // date on it — so there is nothing worth showing and no way to date it.
+  if (p.originalPostDeletedMessage) return null;
+
   // A repost (sharedPostRenderer) keeps its text under `content` and carries no
   // voteCount, where an ordinary post uses `contentText`. Reading only the
   // latter left every repost stored with no text at all.
@@ -228,9 +234,7 @@ function extractPost(p) {
   // extractImages keeps author avatars out.
   const images = extractImages(p);
 
-  // A repost whose original was deleted arrives with originalPostDeletedMessage
-  // and nothing else — no text, no image, and a permalink carrying no date. It
-  // cannot be rendered, so don't store it.
+  // Backstop for anything else that arrives with no displayable content.
   if (!text && !images.length && !likes) return null;
 
   return {
