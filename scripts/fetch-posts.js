@@ -133,11 +133,15 @@ function slugify(name) {
 // handle or custom URL), so it is not usable as a browseId. update.js has the
 // same constraint and solves it the same way: take the resolved UC id from the
 // talent's JSON, which bootstrap wrote.
-function resolvedChannelId(talent, dataDir) {
+// The talent's own JSON is the source of truth for the UC id — the CSV column
+// holds raw handles, which innertube rejects as a browseId.
+function channelMeta(talent, dataDir) {
   const fp = path.join(dataDir, talent.Branch.toLowerCase(), slugify(talent.Name) + '.json');
   if (!fs.existsSync(fp)) return null;
-  try { return (JSON.parse(fs.readFileSync(fp, 'utf8')).channel || {}).id || null; }
-  catch (e) { return null; }
+  try {
+    const ch = JSON.parse(fs.readFileSync(fp, 'utf8')).channel || {};
+    return ch.id ? ch : null;
+  } catch (e) { return null; }
 }
 
 // ── payload walking ───────────────────────────────────────────────────────
@@ -426,6 +430,28 @@ function loadStore(dir) {
   return store;
 }
 
+// A post record carries only a channel id, so the posts page needs this to say
+// who wrote it. Merged into whatever is already on disk rather than replacing
+// it: a sliced run (rows 5-24) would otherwise shrink the index to its slice.
+function writeChannelIndex(dir, meta) {
+  fs.mkdirSync(dir, { recursive: true });
+  const fp = path.join(dir, 'index.json');
+  let out = {};
+  if (fs.existsSync(fp)) {
+    try { out = JSON.parse(fs.readFileSync(fp, 'utf8')) || {}; } catch (e) { out = {}; }
+  }
+  for (const [id, m] of meta) out[id] = m;
+
+  const sorted = {};
+  Object.keys(out).sort().forEach(k => { sorted[k] = out[k]; });
+  const body = JSON.stringify(sorted, null, 1);
+
+  // Same reason as saveStore: an unchanged file must not produce a commit.
+  if (fs.existsSync(fp) && fs.readFileSync(fp, 'utf8') === body) return Object.keys(out).length;
+  fs.writeFileSync(fp, body, 'utf8');
+  return Object.keys(out).length;
+}
+
 function saveStore(dir, store) {
   fs.mkdirSync(dir, { recursive: true });
   for (const b of Object.keys(store)) {
@@ -474,12 +500,22 @@ async function main() {
   const seenChannels = new Set();
   const talents = [];
   const skipped = [];
+  const meta = new Map();
   for (const t of selected) {
-    const id = resolvedChannelId(t, dataDir);
-    if (!id) { skipped.push(t.Name + ' (no JSON — run bootstrap)'); continue; }
+    const ch = channelMeta(t, dataDir);
+    if (!ch) { skipped.push(t.Name + ' (no JSON — run bootstrap)'); continue; }
+    const id = ch.id;
     if (seenChannels.has(id)) { skipped.push(t.Name + ' (shares a channel already queued)'); continue; }
     seenChannels.add(id);
     ids.set(t, id);
+    // Strip the size suffix the same way the members page does, so the page
+    // is free to ask for whatever size it needs.
+    meta.set(id, {
+      name:   ch.name   || t.Name,
+      slug:   ch.slug   || slugify(t.Name),
+      branch: ch.branch || t.Branch,
+      avatar: String(ch.avatarUrl || '').replace(/=s\d+.*$/, ''),
+    });
     talents.push(t);
   }
 
@@ -488,6 +524,7 @@ async function main() {
   console.log(backfill ? '⟳ BACKFILL — crawling each feed as deep as YouTube allows\n' : '');
 
   const postsDir = path.join(dataDir, 'posts');
+  console.log('  channel index: ' + writeChannelIndex(postsDir, meta) + ' channels');
   const store = loadStore(postsDir);
   const failed = [];
   let ok = 0;
