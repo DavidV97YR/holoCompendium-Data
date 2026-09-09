@@ -7,24 +7,39 @@
     "avatarUrl": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ",
     "bannerUrl": "https://yt3.googleusercontent.com/qFbTxpnxmdXTKeOxYoWd2HaRJ7gGjGPCq5I1pghiNSiDgQZNU6BXa0SPAI0ND6K371-kEv9p=s0"
   },
-  "lastUpdated": "2026-09-09T10:03:34.331Z",
-  "videoCount": 970,
+  "lastUpdated": "2026-09-09T12:03:21.984Z",
+  "videoCount": 972,
   "videos": [
     {
-      "id": "PeitgWu6Yj8",
-      "title": "?",
-      "published": "2026-09-08T19:37:03+00:00",
-      "type": "video",
+      "id": "Upeh0pC5kOA",
+      "title": "【 雑談 】無事MV公開できました～【音乃瀬奏】#ReGLOSS",
+      "published": "2026-09-09T12:02:09+00:00",
+      "type": "stream",
       "duration": 0
+    },
+    {
+      "id": "3imggxNDnBA",
+      "title": "『GREATEST』アニメーションMV公開中‼️是非見てね! #音乃瀬奏 #GREATEST",
+      "published": "2026-09-09T11:06:51.000Z",
+      "type": "short",
+      "duration": 35,
+      "status": "past"
     },
     {
       "id": "tL_lW4w4RxI",
       "title": "【 3周年 】重大告知アリ!思い出の切り抜き見よう~!【音乃瀬奏】#ReGLOSS",
-      "published": "2026-09-08T13:37:30+00:00",
+      "published": "2026-09-09T10:59:29+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 3276,
+      "status": "past",
       "scheduledStart": "2026-09-09T10:00:00.000Z"
+    },
+    {
+      "id": "PeitgWu6Yj8",
+      "title": "音乃瀬奏 - GREATEST (Official MV)",
+      "published": "2026-09-09T10:55:06+00:00",
+      "type": "video",
+      "duration": 256
     },
     {
       "id": "6GyLNWfGvs8",
