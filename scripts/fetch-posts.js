@@ -46,6 +46,7 @@ const INNERTUBE_CTX = {
 
 const MAX_PAGES        = 250;   // runaway guard only; the real stop is a missing token
 const STOP_AFTER_KNOWN = 5;     // consecutive known posts before a normal run stops
+const NEW_SCAN_PAGES   = 5;     // pages a normal run reads before concluding nothing is new
 const CHANNEL_DELAY    = 2500;
 const PAGE_DELAY       = 250;
 const POST_DELAY       = 300;
@@ -321,6 +322,20 @@ async function crawlFeed(channelId, knownIds, backfill) {
     // and carry no flag, so "stop at first known" halts on page 1 forever.
     if (!backfill && consecutiveKnown >= STOP_AFTER_KNOWN) break;
 
+    // The chain is strictly newest-first, so a new public post outranks every
+    // item already in it and lands on page 1. Several pages with nothing new
+    // therefore means there is nothing new, and the rest of the chain is pure
+    // cost. This is what bounds sparse channels: their feeds open with long
+    // runs of postless pages — members-only and deleted items, filtered out of
+    // the public API, 13 of them for Subaru and 8 for Shion — which move
+    // neither counter above, so a normal run used to walk every page of them.
+    // Rushia has no public posts at all and cost 20 pages a run.
+    //
+    // Consequence: a channel with no local data yet needs a backfill to
+    // populate, since a normal run stops before reading deep. That was already
+    // true — the ~200-post ceiling means new channels get backfilled anyway.
+    if (!backfill && !found.length && pages >= NEW_SCAN_PAGES) break;
+
     await sleep(PAGE_DELAY);
   }
 
@@ -387,13 +402,26 @@ async function doChannel(talent, channelId, store, backfill) {
 
 const BRANCHES = ['jp', 'en', 'id', 'dev_is', 'mekpark'];
 
+// Serialized posts of each branch file as it currently stands on disk, so
+// saveStore can tell a real change from a no-op without re-reading 6 MB once
+// per channel. Seeded here; kept current by saveStore.
+const savedBody = new Map();
+
+// Newest first. Undated posts sort last rather than jumping to the top.
+function sortPosts(posts) {
+  posts.sort((a, b) => (b.published || '').localeCompare(a.published || ''));
+}
+
 function loadStore(dir) {
   const store = {};
   for (const b of BRANCHES) {
     const fp = path.join(dir, b + '.json');
     if (!fs.existsSync(fp)) { store[b] = []; continue; }
+    // An unreadable file leaves no baseline, so saveStore rewrites it.
     try { store[b] = JSON.parse(fs.readFileSync(fp, 'utf8')).posts || []; }
-    catch (e) { store[b] = []; }
+    catch (e) { store[b] = []; continue; }
+    sortPosts(store[b]);
+    savedBody.set(b, JSON.stringify(store[b], null, 1));
   }
   return store;
 }
@@ -403,10 +431,19 @@ function saveStore(dir, store) {
   for (const b of Object.keys(store)) {
     const posts = store[b];
     if (!posts || !posts.length) continue;
-    // Newest first. Undated posts sort last rather than jumping to the top.
-    posts.sort((a, b2) => (b2.published || '').localeCompare(a.published || ''));
+    sortPosts(posts);
+
+    // Skip a file whose posts are unchanged. lastUpdated was stamped on every
+    // run, so all five files differed even when the crawl found nothing and
+    // the workflow's "no changes to commit" guard could never fire — hourly,
+    // that is 24 empty commits a day. Only a file that actually moved gets a
+    // new timestamp now.
+    const body = JSON.stringify(posts, null, 1);
+    if (savedBody.get(b) === body) continue;
+
     fs.writeFileSync(path.join(dir, b + '.json'),
       JSON.stringify({ lastUpdated: new Date().toISOString(), posts: posts }, null, 1), 'utf8');
+    savedBody.set(b, body);
   }
 }
 
