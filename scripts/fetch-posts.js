@@ -148,11 +148,39 @@ function collect(node, key, out) {
   out = out || [];
   if (!node || typeof node !== 'object') return out;
   if (Array.isArray(node)) { for (const v of node) collect(v, key, out); return out; }
-  for (const k of Object.keys(node)) {
+  for (const k in node) {
     if (k === key) out.push(node[k]);
     collect(node[k], key, out);
   }
   return out;
+}
+
+// Same walk, but gathering several keys at once. A browse response is a few
+// hundred KB and tens of thousands of nodes, so walking it three times per page
+// (posts, shared posts, continuation) tripled the allocation for no reason —
+// enough to exhaust the heap partway through a large backfill slice.
+function collectKeys(node, keys, out) {
+  out = out || {};
+  for (const k of keys) if (!out[k]) out[k] = [];
+  (function walk(n) {
+    if (!n || typeof n !== 'object') return;
+    if (Array.isArray(n)) { for (const v of n) walk(v); return; }
+    for (const k in n) {
+      if (out[k]) out[k].push(n[k]);
+      walk(n[k]);
+    }
+  })(node);
+  return out;
+}
+
+// V8 stores a substring of 13+ characters as a pointer into its parent rather
+// than a copy, so keeping one keeps the whole source string alive. Every field
+// below is carved out of a response body — a date out of a ~780KB permalink
+// page, text out of a ~300KB feed payload — and they live in the store for the
+// rest of the run. Left as slices they pinned ~1.9GB and exhausted the heap
+// partway through a backfill. Copying them costs nothing at these sizes.
+function flat(s) {
+  return (typeof s === 'string' && s.length) ? Buffer.from(s, 'utf8').toString('utf8') : s;
 }
 
 function runsText(obj) {
@@ -169,7 +197,7 @@ function runsText(obj) {
 function imageBase(url) {
   if (!url) return null;
   const i = url.indexOf('=');
-  return i === -1 ? url : url.slice(0, i);
+  return flat(i === -1 ? url : url.slice(0, i));
 }
 
 function extractImages(attachment) {
@@ -186,10 +214,10 @@ function extractImages(attachment) {
 function extractPost(p) {
   if (!p || !p.postId) return null;
   return {
-    id:        p.postId,
+    id:        flat(p.postId),
     published: null,                                   // filled by pass 2
-    text:      runsText(p.contentText),
-    likes:     (p.voteCount && (p.voteCount.simpleText || runsText(p.voteCount))) || '',
+    text:      flat(runsText(p.contentText)),
+    likes:     flat((p.voteCount && (p.voteCount.simpleText || runsText(p.voteCount))) || ''),
     images:    extractImages(p.backstageAttachment),
   };
 }
@@ -211,12 +239,13 @@ async function crawlFeed(channelId, knownIds, backfill) {
     if (res.status !== 200)
       throw new Error('innertube HTTP ' + res.status + ' — ' + res.body.slice(0, 300).replace(/\s+/g, ' '));
 
-    let json;
+    let json = null;
     try { json = JSON.parse(res.body); }
     catch (e) { throw new Error('unparseable response on page ' + pages); }
 
-    const renderers = collect(json, 'backstagePostRenderer')
-      .concat(collect(json, 'sharedPostRenderer'));
+    // One walk for everything this page needs.
+    const hits = collectKeys(json, ['backstagePostRenderer', 'sharedPostRenderer', 'continuationCommand']);
+    const renderers = hits.backstagePostRenderer.concat(hits.sharedPostRenderer);
 
     for (const r of renderers) {
       const p = extractPost(r);
@@ -233,9 +262,9 @@ async function crawlFeed(channelId, knownIds, backfill) {
     // Stop only on a missing continuation token. Pages arrive in lumpy batches
     // and an empty one means nothing — one channel returned eight empty pages
     // with more posts after every single one.
-    const next = collect(json, 'continuationCommand')
-      .map(c => c && c.token).filter(Boolean)[0];
+    const next = hits.continuationCommand.map(c => c && c.token).filter(Boolean)[0];
     token = next || null;
+    json = null;              // let the page go before fetching the next one
     if (!token) break;
 
     // Normal runs stop once several *consecutive* known posts have gone by.
@@ -258,7 +287,7 @@ async function fetchDate(postId) {
   // ld+json carries DiscussionForumPosting.datePublished. The relative string
   // in the feed is not merely coarse — it is wrong.
   const m = res.body.match(/"datePublished"\s*:\s*"([^"]+)"/);
-  return m ? m[1] : null;
+  return m ? flat(m[1]) : null;
 }
 
 // ── per channel ───────────────────────────────────────────────────────────
