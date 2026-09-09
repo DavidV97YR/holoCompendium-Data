@@ -7,15 +7,22 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-09-09T07:45:41.948Z",
-  "videoCount": 1200,
+  "lastUpdated": "2026-09-09T13:44:39.643Z",
+  "videoCount": 1201,
   "videos": [
+    {
+      "id": "RpJByFqiu7w",
+      "title": "【Hololive Dreams】Play again?!【hololive | moona】",
+      "published": "2026-09-09T13:37:50+00:00",
+      "type": "stream",
+      "duration": 0
+    },
     {
       "id": "xxE6CQZ1sT8",
       "title": "【MECCHA CHAMELEON】Where's holoID?【hololive | moona】",
       "published": "2026-09-07T09:30:25+00:00",
       "type": "stream",
-      "duration": 8363,
+      "duration": 8368,
       "status": "past",
       "scheduledStart": "2026-09-07T07:00:00Z"
     },
