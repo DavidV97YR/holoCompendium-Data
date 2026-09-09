@@ -215,8 +215,27 @@ function extractImages(node) {
   return bases;
 }
 
-function extractPost(p) {
+// Every post records its author's channel in an endpoint — authorEndpoint on a
+// post, displayName on a repost. Returns null when the payload has none.
+function authorChannelId(p) {
+  for (const b of collect(p, 'browseId'))
+    if (typeof b === 'string' && b.slice(0, 2) === 'UC') return b;
+  return null;
+}
+
+function extractPost(p, channelId) {
   if (!p || !p.postId) return null;
+
+  // Posts are gathered by walking the whole response rather than a fixed path,
+  // so in principle a renderer belonging to someone else — a post embedded
+  // inside a repost, a recommendation rail YouTube adds later — could be picked
+  // up. Nothing like that appears today, but checking the author makes that a
+  // guarantee rather than an observation. Payloads with no author id at all are
+  // kept, so an unexpected shape can't silently empty a channel.
+  if (channelId) {
+    const author = authorChannelId(p);
+    if (author && author !== channelId) return null;
+  }
 
   // A repost of something since deleted. YouTube still renders the reposter's
   // own comment above a "This post is no longer available" tombstone, but the
@@ -273,7 +292,7 @@ async function crawlFeed(channelId, knownIds, backfill) {
     const renderers = hits.backstagePostRenderer.concat(hits.sharedPostRenderer);
 
     for (const r of renderers) {
-      const p = extractPost(r);
+      const p = extractPost(r, channelId);
       if (!p || seen.has(p.id)) continue;
       seen.add(p.id);
       if (knownIds.has(p.id)) {
