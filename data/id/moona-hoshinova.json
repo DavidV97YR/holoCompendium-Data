@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-09-09T13:44:39.643Z",
+  "lastUpdated": "2026-09-09T17:54:34.022Z",
   "videoCount": 1201,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【Hololive Dreams】Play again?!【hololive | moona】",
       "published": "2026-09-09T13:37:50+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 13512,
+      "status": "past",
+      "scheduledStart": "2026-09-09T14:00:00Z"
     },
     {
       "id": "xxE6CQZ1sT8",
@@ -5422,7 +5424,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-02-15T14:00:00.000Z"
+      "scheduledStart": "2028-02-15T14:00:00Z"
     },
     {
       "id": "nPessoqyRbs",
@@ -9457,7 +9459,7 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-02-15T14:00:00.000Z"
+      "scheduledStart": "2028-02-15T14:00:00Z"
     },
     {
       "id": "ExvOuNKL_8E",

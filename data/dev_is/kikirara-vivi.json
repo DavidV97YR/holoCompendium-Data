@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-09-09T16:10:34.403Z",
+  "lastUpdated": "2026-09-09T18:23:38.089Z",
   "videoCount": 1177,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 3466,
       "status": "past",
-      "scheduledStart": "2026-09-09T12:00:00.000Z"
+      "scheduledStart": "2026-09-09T12:00:00Z"
     },
     {
       "id": "bGzu1UQPSnM",
@@ -26,14 +26,15 @@
       "type": "member",
       "duration": 7473,
       "status": "past",
-      "scheduledStart": "2026-09-09T13:00:00.000Z"
+      "scheduledStart": "2026-09-09T13:00:00Z"
     },
     {
       "id": "Kss83CfEz_k",
       "title": "スパイダーマンNG🙅‍♀️【#綺々羅々ヴィヴィ】#vtuber #hololive #dance #shorts",
       "published": "2026-09-09T08:00:17+00:00",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "lB6hz8mWySc",
@@ -9664,7 +9665,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00.000Z"
+      "scheduledStart": "2027-12-31T14:45:00Z"
     },
     {
       "id": "SrH6XQ8H9oo",
