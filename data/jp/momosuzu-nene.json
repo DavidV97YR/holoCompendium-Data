@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-09-09T17:42:45.136Z",
+  "lastUpdated": "2026-09-09T19:36:12.595Z",
   "videoCount": 1400,
   "videos": [
     {
       "id": "uExVKXTn4dk",
       "title": "【 Appleイベント 】折り畳みiPhoneくるか!?みんなで同時視聴!【 桃鈴ねね / hololive 】",
-      "published": "2026-09-09T10:37:02+00:00",
+      "published": "2026-09-09T18:37:35+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-09T17:00:00Z"
+      "duration": 5743,
+      "status": "past",
+      "scheduledStart": "2026-09-09T17:00:00.000Z"
     },
     {
       "id": "oFo1ol9Dt3Q",
@@ -5487,7 +5487,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",
