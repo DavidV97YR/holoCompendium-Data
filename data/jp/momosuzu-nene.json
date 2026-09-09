@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-09-09T05:40:36.290Z",
-  "videoCount": 1398,
+  "lastUpdated": "2026-09-09T07:35:16.744Z",
+  "videoCount": 1399,
   "videos": [
+    {
+      "id": "oFo1ol9Dt3Q",
+      "title": "【つぐのひ -天招ねく救いの糸-】進むだけなら一回もビビらない説【 桃鈴ねね / hololive 】",
+      "published": "2026-09-09T05:42:46.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-09T09:00:00.000Z"
+    },
     {
       "id": "SknkzBIVA9A",
       "title": "【 復活 】インフルエンザから復活しましたませ～！おまたせしました！【 桃鈴ねね / hololive 】",
@@ -5469,7 +5478,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",
