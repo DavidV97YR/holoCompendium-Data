@@ -200,11 +200,15 @@ function imageBase(url) {
   return flat(i === -1 ? url : url.slice(0, i));
 }
 
-function extractImages(attachment) {
+function extractImages(node) {
   const bases = [];
-  for (const set of collect(attachment || {}, 'thumbnails')) {
+  for (const set of collect(node || {}, 'thumbnails')) {
     if (!Array.isArray(set) || !set.length) continue;
     const biggest = set.reduce((a, b) => ((b.width || 0) > (a.width || 0) ? b : a));
+    // Author avatars ride along in the same payload at 32–88px. Post images and
+    // attached video thumbnails are hundreds of pixels wide, so size separates
+    // them without having to know every renderer's shape.
+    if ((biggest.width || 0) < 200) continue;
     const base = imageBase(biggest.url);
     if (base && bases.indexOf(base) === -1) bases.push(base);
   }
@@ -213,12 +217,28 @@ function extractImages(attachment) {
 
 function extractPost(p) {
   if (!p || !p.postId) return null;
+
+  // A repost (sharedPostRenderer) keeps its text under `content` and carries no
+  // voteCount, where an ordinary post uses `contentText`. Reading only the
+  // latter left every repost stored with no text at all.
+  const text   = flat(runsText(p.contentText || p.content));
+  const likes  = flat((p.voteCount && (p.voteCount.simpleText || runsText(p.voteCount))) || '');
+  // Walk the whole renderer rather than just backstageAttachment: a repost
+  // nests its image or video thumbnail inside `content`. The size filter in
+  // extractImages keeps author avatars out.
+  const images = extractImages(p);
+
+  // A repost whose original was deleted arrives with originalPostDeletedMessage
+  // and nothing else — no text, no image, and a permalink carrying no date. It
+  // cannot be rendered, so don't store it.
+  if (!text && !images.length && !likes) return null;
+
   return {
     id:        flat(p.postId),
     published: null,                                   // filled by pass 2
-    text:      flat(runsText(p.contentText)),
-    likes:     flat((p.voteCount && (p.voteCount.simpleText || runsText(p.voteCount))) || ''),
-    images:    extractImages(p.backstageAttachment),
+    text:      text,
+    likes:     likes,
+    images:    images,
   };
 }
 
@@ -226,6 +246,7 @@ function extractPost(p) {
 
 async function crawlFeed(channelId, knownIds, backfill) {
   const found = [];
+  const refresh = [];
   const seen = new Set();
   let token = null, pages = 0, consecutiveKnown = 0, truncated = false;
 
@@ -253,6 +274,11 @@ async function crawlFeed(channelId, knownIds, backfill) {
       seen.add(p.id);
       if (knownIds.has(p.id)) {
         consecutiveKnown++;
+        // A backfill re-reads the whole feed anyway, so hand back what a known
+        // post looks like now. That makes backfill repair records written by an
+        // older extractor rather than only adding new ones — the same job
+        // full-recheck.yml does for videos. Normal runs skip this.
+        if (backfill) refresh.push(p);
       } else {
         consecutiveKnown = 0;
         found.push(p);
@@ -276,7 +302,7 @@ async function crawlFeed(channelId, knownIds, backfill) {
   }
 
   if (pages >= MAX_PAGES) truncated = true;
-  return { found: found, pages: pages, truncated: truncated };
+  return { found: found, refresh: refresh, pages: pages, truncated: truncated };
 }
 
 // ── pass 2: exact publish dates ───────────────────────────────────────────
@@ -305,6 +331,17 @@ async function doChannel(talent, channelId, store, backfill) {
     byId.set(p.id, p);
   }
 
+  // Repair fields on posts we already hold, keeping the date we paid for.
+  let repaired = 0;
+  for (const p of (crawl.refresh || [])) {
+    const cur = byId.get(p.id);
+    if (!cur) continue;
+    if (cur.text === p.text && cur.likes === p.likes &&
+        (cur.images || []).join() === p.images.join()) continue;
+    cur.text = p.text; cur.likes = p.likes; cur.images = p.images;
+    repaired++;
+  }
+
   // Date-fill anything still missing one, for this channel only.
   const undated = bucket.filter(p => p.channel === channelId && !p.published);
   let dated = 0, dateFails = 0;
@@ -318,7 +355,7 @@ async function doChannel(talent, channelId, store, backfill) {
 
   return {
     name: talent.Name, branch: branch, pages: crawl.pages, truncated: crawl.truncated,
-    added: crawl.found.length, dated: dated, dateFails: dateFails,
+    added: crawl.found.length, repaired: repaired, dated: dated, dateFails: dateFails,
     total: bucket.filter(p => p.channel === channelId).length,
   };
 }
@@ -402,6 +439,7 @@ async function main() {
       console.log('  ' + r.name.padEnd(24) + r.branch.padEnd(9) +
         String(r.pages).padStart(3) + 'p  +' + String(r.added).padStart(3) + ' new  +' +
         String(r.dated).padStart(3) + ' dated' +
+        (r.repaired ? '  ~' + r.repaired + ' repaired' : '') +
         (r.dateFails ? '  ' + r.dateFails + ' date fail(s), will retry' : '') +
         '   (' + r.total + ' held)' +
         (r.truncated ? '  ⚠ hit the ' + MAX_PAGES + '-page guard' : ''));
