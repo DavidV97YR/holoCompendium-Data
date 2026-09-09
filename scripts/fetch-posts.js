@@ -121,6 +121,24 @@ function parseRows(rowsRaw, allRows) {
   return allRows.filter(r => rowNums.has(r._row));
 }
 
+function slugify(name) {
+  return name.toLowerCase()
+    .replace(/['’]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+// The CSV's 'Channel ID' column is a raw value bootstrap resolves (it can be a
+// handle or custom URL), so it is not usable as a browseId. update.js has the
+// same constraint and solves it the same way: take the resolved UC id from the
+// talent's JSON, which bootstrap wrote.
+function resolvedChannelId(talent, dataDir) {
+  const fp = path.join(dataDir, talent.Branch.toLowerCase(), slugify(talent.Name) + '.json');
+  if (!fs.existsSync(fp)) return null;
+  try { return (JSON.parse(fs.readFileSync(fp, 'utf8')).channel || {}).id || null; }
+  catch (e) { return null; }
+}
+
 // ── payload walking ───────────────────────────────────────────────────────
 
 // Collect every value stored under `key`, anywhere in the tree. Continuation
@@ -245,8 +263,7 @@ async function fetchDate(postId) {
 
 // ── per channel ───────────────────────────────────────────────────────────
 
-async function doChannel(talent, store, backfill) {
-  const channelId = talent['Channel ID'];
+async function doChannel(talent, channelId, store, backfill) {
   const branch = talent.Branch.toLowerCase();
 
   const bucket = store[branch] || (store[branch] = []);
@@ -321,9 +338,27 @@ async function main() {
   const csv = await get(csvUrl);
   if (csv.status !== 200) { console.error('Failed to fetch CSV: HTTP ' + csv.status); process.exit(1); }
 
-  const talents = parseRows(rowsRaw, parseCSV(csv.body))
-    .filter(r => r.Name && r.Branch && r['Channel ID']);
+  const selected = parseRows(rowsRaw, parseCSV(csv.body))
+    .filter(r => r.Name && r.Branch);
+
+  // The CSV picks *which* rows to process; the resolved UC id comes from each
+  // talent's JSON. Talents who share a channel (FUWAMOCO, the mekPark units)
+  // resolve to the same id and must only be crawled once.
+  const ids = new Map();
+  const seenChannels = new Set();
+  const talents = [];
+  const skipped = [];
+  for (const t of selected) {
+    const id = resolvedChannelId(t, dataDir);
+    if (!id) { skipped.push(t.Name + ' (no JSON — run bootstrap)'); continue; }
+    if (seenChannels.has(id)) { skipped.push(t.Name + ' (shares a channel already queued)'); continue; }
+    seenChannels.add(id);
+    ids.set(t, id);
+    talents.push(t);
+  }
+
   console.log(talents.length + ' channel(s) to process (rows: ' + rowsRaw + ')');
+  if (skipped.length) console.log(skipped.length + ' skipped: ' + skipped.join(', '));
   console.log(backfill ? '⟳ BACKFILL — crawling each feed as deep as YouTube allows\n' : '');
 
   const postsDir = path.join(dataDir, 'posts');
@@ -333,7 +368,7 @@ async function main() {
 
   for (const t of talents) {
     try {
-      const r = await doChannel(t, store, backfill);
+      const r = await doChannel(t, ids.get(t), store, backfill);
       ok++;
       console.log('  ' + r.name.padEnd(24) + r.branch.padEnd(9) +
         String(r.pages).padStart(3) + 'p  +' + String(r.added).padStart(3) + ' new  +' +
