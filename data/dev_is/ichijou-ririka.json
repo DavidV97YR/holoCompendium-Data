@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ",
     "bannerUrl": "https://yt3.googleusercontent.com/PgezTfp527qrpgL6IwaBVcvnb1vgD7qnSJzf4KnWgfVYWO7QJc3SQOv_YzlZiKeWhDRXfkgNlA8=s0"
   },
-  "lastUpdated": "2026-09-10T16:03:14.977Z",
+  "lastUpdated": "2026-09-10T18:16:34.391Z",
   "videoCount": 1317,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-11T11:00:00.000Z"
+      "scheduledStart": "2026-09-11T11:00:00Z"
     },
     {
       "id": "O8pIzW2JVSw",
@@ -26,7 +26,7 @@
       "type": "stream",
       "duration": 13004,
       "status": "past",
-      "scheduledStart": "2026-09-10T11:00:00.000Z"
+      "scheduledStart": "2026-09-10T11:00:00Z"
     },
     {
       "id": "F1PLQLDEyyM",
@@ -77,7 +77,7 @@
       "id": "FD0uJQmpYd0",
       "title": "もしもしー?聞こえてるー? #shorts #hololive #踊ってみた",
       "published": "2026-09-05T09:00:36.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 21,
       "status": "past"
     },
@@ -85,7 +85,7 @@
       "id": "t0saCRkvLI4",
       "title": "私たち、友達だよね…? #shorts #踊ってみた #hololive",
       "published": "2026-09-04T09:00:15.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 9,
       "status": "past"
     },
@@ -1420,7 +1420,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-04-20T13:00:00.000Z"
+      "scheduledStart": "2028-04-20T13:00:00Z"
     },
     {
       "id": "9FGw9FTrltY",
@@ -11579,7 +11579,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-04-01T16:35:00.000Z"
+      "scheduledStart": "2028-04-01T16:35:00Z"
     },
     {
       "id": "LcRPCdV_wSs",

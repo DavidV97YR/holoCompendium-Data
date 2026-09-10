@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/SVUeFR_FT5vqSsETqWnu5UVGE5gAdeCoJUJT93aYnX8XF_4uhgM97zG57m3BkddT05WamMnIBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FYGhzbQQR_hwZqW1HrCv4k-QjReiIAaucgeHJkwEyxmiQg5G_OcBFX6zk3nxoKh4-mlSk5GVrg=s0"
   },
-  "lastUpdated": "2026-09-10T16:05:30.458Z",
+  "lastUpdated": "2026-09-10T18:19:20.742Z",
   "videoCount": 888,
   "videos": [
     {
@@ -17,14 +17,15 @@
       "type": "stream",
       "duration": 13925,
       "status": "past",
-      "scheduledStart": "2026-09-10T10:00:00.000Z"
+      "scheduledStart": "2026-09-10T10:00:00Z"
     },
     {
       "id": "KX0m-f4lI2c",
       "title": "何回も踊ってたらゼーゼーになっちゃった 🤣 #vtuber #hololive #dance #shorts",
       "published": "2026-09-10T08:00:19+00:00",
       "type": "short",
-      "duration": 25
+      "duration": 25,
+      "status": "past"
     },
     {
       "id": "ewA2rvax_l0",
