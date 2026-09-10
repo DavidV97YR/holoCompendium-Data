@@ -35,14 +35,9 @@ jobs:
           DATA_DIR:   ./data
         run: node scripts/fetch-views.js
 
-      - name: Build popular rankings
-        env:
-          DATA_DIR: ./data
-        run: node scripts/build-popular.js
-
-      # The SQLite catalogue is built and published by update.yml, which runs
-      # every two hours — this workflow only runs twice a day, so building it
-      # here meant the published catalogue could be 12 hours behind. The new
+      # The SQLite catalogue and popular.json are built and published by
+      # update.yml, which runs every two hours — this workflow only runs twice a
+      # day, so building them here meant they could be 12 hours behind. The new
       # view counts committed below are picked up by the next update run.
 
       - name: Commit updated data
