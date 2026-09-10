@@ -2,126 +2,86 @@
 /**
  * build-popular.js
  *
- * Reads every channel JSON + companion views JSON and produces a single
- * data/popular.json with the most-viewed content for three time windows,
- * split by content type (streams, videos, shorts).
+ * Produces popular.json — the most-viewed content for three rolling windows,
+ * split by content type — by querying the SQLite catalogue built by
+ * build-sqlite.js. Run after it.
  *
- * Run after fetch-views.js so view counts are fresh.
+ * This used to scan every channel JSON here, and then for a while the browser
+ * ran the queries itself against the catalogue over HTTP. Both are gone: the
+ * SQL below is the browser's, moved back to build time. The home page fetches
+ * the result instead of downloading a 507 KB SQLite engine and issuing hundreds
+ * of range requests to compute an answer that only changes when this runs.
  *
- * Output shape (data/popular.json):
+ * Keeping it in SQL is what preserves the de-duplication: talents who share a
+ * channel (FUWAMOCO, the mekPark units) used to appear once per genmate, so a
+ * duplicate inside the top 40 cost a slot and a section rendered 39.
+ *
+ * Output shape:
  * {
  *   "lastUpdated": "...",
  *   "streams": { "daily": [...], "weekly": [...], "monthly": [...] },
- *   "videos":  { "daily": [...], "weekly": [...], "monthly": [...] },
- *   "shorts":  { "daily": [...], "weekly": [...], "monthly": [...] }
+ *   "videos":  { ... },
+ *   "shorts":  { ... }
  * }
  *
  * Env:
- *   DATA_DIR — path to data folder (default: ./data)
+ *   DB  — catalogue to read  (default: ./data.sqlite)
+ *   OUT — file to write      (default: ./popular.json)
+ *
+ * OUT defaults outside data/ on purpose: the workflow stages only data/, and a
+ * 78 KB file that changes every run has no business in git history.
  */
 
-const fs   = require('fs');
-const path = require('path');
+const fs = require('fs');
+const { DatabaseSync } = require('node:sqlite');
 
-const LIMIT    = 40;
-const DATA_DIR = process.env.DATA_DIR || './data';
+const DB    = process.env.DB  || './data.sqlite';
+const OUT   = process.env.OUT || './popular.json';
+const LIMIT = 40;
 
-const NOW     = Date.now();
-const ONE_DAY = 24 * 60 * 60 * 1000;
-const WINDOWS = {
-  daily:   NOW - 1  * ONE_DAY,
-  weekly:  NOW - 7  * ONE_DAY,
-  monthly: NOW - 30 * ONE_DAY,
-};
+// Rolling windows measured from now, matching what the page used to ask for:
+// Today = the last 24 hours, This Week = 7 days, This Month = 30 days.
+const WINDOWS = { daily: 1, weekly: 7, monthly: 30 };
+const TYPES   = { streams: 'stream', videos: 'video', shorts: 'short' };
 
-const CONTENT_TYPES = ['stream', 'video', 'short'];
-
-function findChannelFiles(dir) {
-  const out = [];
-  if (!fs.existsSync(dir)) return out;
-  for (const branch of fs.readdirSync(dir)) {
-    const bp = path.join(dir, branch);
-    if (!fs.statSync(bp).isDirectory()) continue;
-    for (const f of fs.readdirSync(bp)) {
-      if (f.endsWith('.json') && !f.endsWith('-views.json')) {
-        out.push(path.join(bp, f));
-      }
-    }
-  }
-  return out;
-}
+const SQL = `
+  SELECT v.id, v.title, v.published, v.duration, v.views,
+         c.name AS channelName, c.avatar AS channelAvatar
+  FROM videos v
+  JOIN channels c ON c.id = v.channel_id
+  WHERE v.type = ?
+    AND v.published >= strftime('%s', 'now', ?)
+    AND v.views > 0
+  ORDER BY v.views DESC, v.id
+  LIMIT ${LIMIT}`;
 
 function main() {
-  const files = findChannelFiles(DATA_DIR);
-  if (!files.length) {
-    console.error(`No channel files found in ${DATA_DIR}`);
+  if (!fs.existsSync(DB)) {
+    console.error('No catalogue at ' + DB + ' — run build-sqlite.js first');
     process.exit(1);
   }
 
-  console.log(`\n📂  ${files.length} channel file(s)\n`);
+  const db  = new DatabaseSync(DB, { readOnly: true });
+  const q   = db.prepare(SQL);
+  const out = { lastUpdated: new Date().toISOString() };
 
-  // Pools keyed by content type
-  const pools = { stream: [], video: [], short: [] };
-
-  for (const fp of files) {
-    let data;
-    try { data = JSON.parse(fs.readFileSync(fp, 'utf8')); }
-    catch (e) { console.error(`  ✗ ${fp}: ${e.message}`); continue; }
-
-    const ch     = data.channel || {};
-    const videos = data.videos  || [];
-    if (!videos.length) continue;
-
-    const viewsPath = fp.replace(/\.json$/, '-views.json');
-    let views = {};
-    if (fs.existsSync(viewsPath)) {
-      try { views = JSON.parse(fs.readFileSync(viewsPath, 'utf8')).views || {}; }
-      catch (_) {}
-    }
-
-    for (const v of videos) {
-      if (!CONTENT_TYPES.includes(v.type) || !v.published) continue;
-      // Skip member-only content (no accurate public view counts)
-      if (v.type === 'member') continue;
-      const vc = views[v.id];
-      if (vc == null || vc <= 0) continue;
-
-      pools[v.type].push({
-        id:            v.id,
-        title:         v.title   || '',
-        published:     v.published,
-        duration:      v.duration || 0,
-        views:         vc,
-        channelName:   ch.name      || '',
-        channelAvatar: ch.avatarUrl || '',
-      });
+  for (const [key, type] of Object.entries(TYPES)) {
+    out[key] = {};
+    for (const [period, days] of Object.entries(WINDOWS)) {
+      const rows = q.all(type, '-' + days + ' days');
+      // published is stored as unix seconds; the cards want an ISO string.
+      out[key][period] = rows.map(r => Object.assign({}, r, {
+        published: new Date(Number(r.published) * 1000).toISOString(),
+        views: Number(r.views),
+      }));
+      console.log('  ' + key.padEnd(8) + period.padEnd(8) + '→ ' + rows.length + ' entries');
     }
   }
+  db.close();
 
-  for (const [type, pool] of Object.entries(pools)) {
-    console.log(`  ${type}s: ${pool.length} public entries with views`);
-  }
-  console.log('');
-
-  const result = { lastUpdated: new Date().toISOString() };
-
-  for (const [type, pool] of Object.entries(pools)) {
-    const key = type + 's';          // stream → streams, video → videos, short → shorts
-    result[key] = {};
-
-    for (const [period, cutoff] of Object.entries(WINDOWS)) {
-      const list = pool
-        .filter(v => new Date(v.published).getTime() >= cutoff)
-        .sort((a, b) => b.views - a.views)
-        .slice(0, LIMIT);
-      result[key][period] = list;
-      console.log(`  ${key.padEnd(7)} ${period.padEnd(7)} → ${list.length} entries`);
-    }
-  }
-
-  const out = path.join(DATA_DIR, 'popular.json');
-  fs.writeFileSync(out, JSON.stringify(result, null, 2), 'utf8');
-  console.log(`\n✓  ${out}\n`);
+  fs.writeFileSync(OUT, JSON.stringify(out), 'utf8');
+  const kb = (fs.statSync(OUT).size / 1024).toFixed(1);
+  console.log('\n  ' + OUT + '  ' + kb + ' KB\n');
 }
 
 main();
