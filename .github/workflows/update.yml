@@ -88,13 +88,6 @@ jobs:
 
           aws s3 cp ./data.sqlite "$BUCKET/$NAME" --endpoint-url "$EP" --content-type application/vnd.sqlite3 --cache-control "public, max-age=31536000, immutable"
 
-          # The old fixed name, for visitors still running the build that reads
-          # it. It was served with no Cache-Control at all, so browsers applied
-          # heuristic freshness and pinned themselves to a day-old copy; a short
-          # max-age ends that. Removable once the deployed site reads the
-          # manifest and those caches have expired.
-          aws s3 cp ./data.sqlite "$BUCKET/data.sqlite" --endpoint-url "$EP" --content-type application/vnd.sqlite3 --cache-control "public, max-age=300"
-
           printf '{"file":"%s","built":"%s","bytes":%s}' "$NAME" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$BYTES" > db-manifest.json
           cat db-manifest.json
           echo
