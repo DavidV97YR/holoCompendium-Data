@@ -7,16 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ",
     "bannerUrl": "https://yt3.googleusercontent.com/PgezTfp527qrpgL6IwaBVcvnb1vgD7qnSJzf4KnWgfVYWO7QJc3SQOv_YzlZiKeWhDRXfkgNlA8=s0"
   },
-  "lastUpdated": "2026-09-10T12:03:32.245Z",
-  "videoCount": 1316,
+  "lastUpdated": "2026-09-10T16:03:14.977Z",
+  "videoCount": 1317,
   "videos": [
+    {
+      "id": "9Nfr_fRjNH0",
+      "title": "私、逃げ足だけは速いです。初めてのめっちゃカメレオン!【一条莉々華/hololive ReGLOSS】",
+      "published": "2026-09-10T15:07:18.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-11T11:00:00.000Z"
+    },
     {
       "id": "O8pIzW2JVSw",
       "title": "助けて!ポケチャン新環境きた✨パーティ構築してみたい!!!!【一条莉々華/hololive DEV_IS ReGLOSS】",
-      "published": "2026-09-09T15:53:14+00:00",
+      "published": "2026-09-10T14:50:45+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 13004,
+      "status": "past",
       "scheduledStart": "2026-09-10T11:00:00.000Z"
     },
     {
