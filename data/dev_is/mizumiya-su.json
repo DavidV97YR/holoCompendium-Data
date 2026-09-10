@@ -7,9 +7,16 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-10T06:18:07.128Z",
-  "videoCount": 1115,
+  "lastUpdated": "2026-09-10T08:08:02.154Z",
+  "videoCount": 1116,
   "videos": [
+    {
+      "id": "3OwdRsgtrdM",
+      "title": "うさぎラップ／ちいかわ 踊ってみた #vtuber #ホロライブ #dance",
+      "published": "2026-09-10T08:00:34+00:00",
+      "type": "short",
+      "duration": 0
+    },
     {
       "id": "8xPDCcJPKeg",
       "title": "【雑談/freetalk】ニンダイ 2026.9.9同時視聴と雑談!【水宮枢/ホロライブ】",
@@ -51,7 +58,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-10T13:30:00Z"
+      "scheduledStart": "2026-09-10T13:30:00.000Z"
     },
     {
       "id": "Da1esaV9iVE",
@@ -1477,7 +1484,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",

@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6x-pnDsIX6xsDOB_jW0NIFrzcz0lWfZc8eoirTW1cEwJwTp7FzPOcFBBh18dRLx3cr8LSfVriA=s0"
   },
-  "lastUpdated": "2026-09-10T06:02:50.361Z",
-  "videoCount": 1011,
+  "lastUpdated": "2026-09-10T07:54:14.470Z",
+  "videoCount": 1012,
   "videos": [
+    {
+      "id": "L8-AMcVfZt4",
+      "title": "【CHAT】Thank You For The Thumbnail Past Ina",
+      "published": "2026-09-10T01:21:41+00:00",
+      "type": "stream",
+      "duration": 4264,
+      "status": "past"
+    },
     {
       "id": "wTxl2UEqRRM",
       "title": "【 #ロゼキャンARK 】DAY 3 │ FINAL DAY!!!!!!!!",
@@ -6325,7 +6333,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-28T20:00:00Z"
+      "scheduledStart": "2026-09-28T20:00:00.000Z"
     },
     {
       "id": "ljn7Ms86rho",
