@@ -40,31 +40,10 @@ jobs:
           DATA_DIR: ./data
         run: node scripts/build-popular.js
 
-      - name: Build SQLite catalogue
-        env:
-          DATA_DIR: ./data
-          OUT:      ./data.sqlite
-        run: node scripts/build-sqlite.js
-
-      # Uploaded over R2's S3-compatible API using the access key pair the R2
-      # token page issues. Wrangler's `r2 object put` calls a REST endpoint that
-      # dashboard-created R2 tokens are not authorised for (403), and the AWS
-      # CLI is preinstalled on the runner, so this needs no Node and no npx.
-      # Skipped until the secrets exist, so it cannot break the run before then.
-      - name: Publish SQLite to R2
-        env:
-          AWS_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION:    auto
-          # AWS CLI >= 2.23 sends CRC32 checksums by default; not every
-          # S3-compatible endpoint accepts them. Only send when required.
-          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
-          ACCOUNT_ID:            ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        if: ${{ env.AWS_ACCESS_KEY_ID != '' }}
-        run: |
-          aws s3 cp ./data.sqlite "s3://holocompendium-db/data.sqlite" \
-            --endpoint-url "https://${ACCOUNT_ID}.r2.cloudflarestorage.com" \
-            --content-type application/vnd.sqlite3
+      # The SQLite catalogue is built and published by update.yml, which runs
+      # every two hours — this workflow only runs twice a day, so building it
+      # here meant the published catalogue could be 12 hours behind. The new
+      # view counts committed below are picked up by the next update run.
 
       - name: Commit updated data
         run: |

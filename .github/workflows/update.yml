@@ -36,6 +36,80 @@ jobs:
           DATA_DIR:        ./data
         run: node scripts/update.js
 
+      # ── Catalogue ─────────────────────────────────────────────────────────
+      # Built here rather than in fetch-views.yml. This workflow runs every two
+      # hours and is where new videos actually land; fetch-views runs twice a
+      # day, so the published catalogue could be 12 hours behind — which left
+      # the home page's "last 24 hours" section legitimately empty. The build
+      # reads the committed JSON rather than any API, and takes about 4 seconds.
+      #
+      # Runs before the commit step on purpose: a push that needs retries must
+      # not delay publishing, and a push that fails outright should still leave
+      # a fresh catalogue behind.
+      #
+      # update.js stays on the Node it has always run on; build-sqlite.js needs
+      # node:sqlite, which only exists from Node 22.
+      - name: Setup Node.js 24 for the catalogue
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Build SQLite catalogue
+        env:
+          DATA_DIR: ./data
+          OUT:      ./data.sqlite
+        run: node scripts/build-sqlite.js
+
+      # Published under a content-hashed name. sql.js-httpvfs reads the file as
+      # byte ranges and browsers cache those per-URL, so under a fixed name a
+      # visitor can keep serving ranges from a build cached hours earlier — or,
+      # worse, mix pages from two builds inside one query. A hashed name is
+      # always the same bytes, so it is safe to cache forever; db-manifest.json
+      # says which one is current and is uploaded last, so it can never name a
+      # file that has not finished uploading.
+      - name: Publish SQLite to R2
+        env:
+          AWS_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION:    auto
+          # AWS CLI >= 2.23 sends CRC32 checksums by default; not every
+          # S3-compatible endpoint accepts them. Only send when required.
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          ACCOUNT_ID:            ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        if: ${{ env.AWS_ACCESS_KEY_ID != '' }}
+        run: |
+          set -euo pipefail
+          EP="https://${ACCOUNT_ID}.r2.cloudflarestorage.com"
+          BUCKET="s3://holocompendium-db"
+          BYTES=$(stat -c%s ./data.sqlite)
+          HASH=$(sha256sum ./data.sqlite | cut -c1-12)
+          NAME="data-${HASH}.sqlite"
+          echo "publishing $NAME ($BYTES bytes)"
+
+          aws s3 cp ./data.sqlite "$BUCKET/$NAME" --endpoint-url "$EP" --content-type application/vnd.sqlite3 --cache-control "public, max-age=31536000, immutable"
+
+          # The old fixed name, for visitors still running the build that reads
+          # it. It was served with no Cache-Control at all, so browsers applied
+          # heuristic freshness and pinned themselves to a day-old copy; a short
+          # max-age ends that. Removable once the deployed site reads the
+          # manifest and those caches have expired.
+          aws s3 cp ./data.sqlite "$BUCKET/data.sqlite" --endpoint-url "$EP" --content-type application/vnd.sqlite3 --cache-control "public, max-age=300"
+
+          printf '{"file":"%s","built":"%s","bytes":%s}' "$NAME" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$BYTES" > db-manifest.json
+          cat db-manifest.json
+          echo
+          aws s3 cp ./db-manifest.json "$BUCKET/db-manifest.json" --endpoint-url "$EP" --content-type application/json --cache-control "no-cache"
+
+          # Keep the five newest builds, so a reader part-way through an older
+          # one is never cut off mid-query, and drop the rest — each is ~50 MB.
+          # '|| true' because grep exits 1 when there is nothing to prune, which
+          # would fail the step under pipefail.
+          OLD=$(aws s3 ls "$BUCKET/" --endpoint-url "$EP" | grep -E ' data-[0-9a-f]+[.]sqlite$' | sort -r | tail -n +6 | awk '{print $4}' || true)
+          for old in $OLD; do
+            echo "pruning $old"
+            aws s3 rm "$BUCKET/$old" --endpoint-url "$EP"
+          done
+
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
