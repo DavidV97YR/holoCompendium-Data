@@ -16,6 +16,14 @@
  * Uses node:sqlite (built into Node >= 22) rather than a dependency: sql.js
  * ships without FTS5, and a native binding segfaulted on the Actions runner.
  *
+ * Also emits data/avatars.json — a flat slug → avatar-URL map, ~9 KB. The
+ * Members page used to get avatars from Holodex, which meant one outage there
+ * blanked the whole page; the per-talent JSONs are the obvious alternative but
+ * average 500 KB each, so 80-odd cards meant ~38 MB and rate limiting. One tiny
+ * file read at page load avoids both, and these URLs are fresher than Holodex
+ * anyway — update.js re-checks each one every run and repairs dead ones through
+ * the YouTube Data API.
+ *
  * Env:
  *   DATA_DIR — path to data folder (default: ./data)
  *   OUT      — output path        (default: ./data.sqlite)
@@ -66,6 +74,7 @@ function main() {
 
   const channels = new Map();
   const videos   = new Map();
+  const avatars  = {};   // "<branch>/<slug>" -> avatar URL, for the Members grid
 
   for (const fp of files) {
     let data;
@@ -81,6 +90,9 @@ function main() {
     if (!channels.has(chId)) {
       channels.set(chId, { id: chId, name, branch, avatar: ch.avatarUrl || '' });
     }
+    // Keyed by file rather than channel: FUWAMOCO and the mekPark units share a
+    // channel but have a card each, and each card looks itself up by its path.
+    if (ch.avatarUrl) avatars[branch + '/' + path.basename(fp, '.json')] = ch.avatarUrl;
 
     let views = {};
     const vp = fp.replace(/\.json$/, '-views.json');
@@ -169,8 +181,12 @@ function main() {
   const byType    = db.prepare('SELECT type, COUNT(*) n FROM videos GROUP BY type ORDER BY n DESC').all();
   db.close();
 
+  const avatarsOut = path.join(DATA_DIR, 'avatars.json');
+  fs.writeFileSync(avatarsOut, JSON.stringify({ lastUpdated: new Date().toISOString(), avatars }), 'utf8');
+
   const mb = (fs.statSync(OUT).size / 1048576).toFixed(1);
   console.log('  channels         : ' + channels.size);
+  console.log('  avatars          : ' + Object.keys(avatars).length + '  -> ' + avatarsOut);
   console.log('  videos           : ' + videos.size.toLocaleString());
   console.log('  with view counts : ' + withViews.toLocaleString());
   byType.forEach(r => console.log('    ' + String(r.type).padEnd(7) + ' ' + r.n.toLocaleString()));
