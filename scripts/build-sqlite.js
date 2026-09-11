@@ -181,8 +181,13 @@ function main() {
   const byType    = db.prepare('SELECT type, COUNT(*) n FROM videos GROUP BY type ORDER BY n DESC').all();
   db.close();
 
+  // Sorted and indented on purpose: this is rewritten every run, so a stable
+  // key order and one entry per line keep the commit diff to the avatars that
+  // actually changed instead of one unreadable 9 KB line.
   const avatarsOut = path.join(DATA_DIR, 'avatars.json');
-  fs.writeFileSync(avatarsOut, JSON.stringify({ lastUpdated: new Date().toISOString(), avatars }), 'utf8');
+  const sorted = {};
+  for (const k of Object.keys(avatars).sort()) sorted[k] = avatars[k];
+  fs.writeFileSync(avatarsOut, JSON.stringify({ lastUpdated: new Date().toISOString(), avatars: sorted }, null, 2) + '\n', 'utf8');
 
   const mb = (fs.statSync(OUT).size / 1048576).toFixed(1);
   console.log('  channels         : ' + channels.size);
