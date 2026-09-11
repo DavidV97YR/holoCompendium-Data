@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/SVUeFR_FT5vqSsETqWnu5UVGE5gAdeCoJUJT93aYnX8XF_4uhgM97zG57m3BkddT05WamMnIBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FYGhzbQQR_hwZqW1HrCv4k-QjReiIAaucgeHJkwEyxmiQg5G_OcBFX6zk3nxoKh4-mlSk5GVrg=s0"
   },
-  "lastUpdated": "2026-09-11T18:05:52.168Z",
+  "lastUpdated": "2026-09-11T18:19:54.898Z",
   "videoCount": 890,
   "videos": [
     {
@@ -17,14 +17,16 @@
       "type": "stream",
       "duration": 12822,
       "status": "past",
-      "scheduledStart": "2026-09-11T11:00:00.000Z"
+      "scheduledStart": "2026-09-11T11:00:00Z"
     },
     {
       "id": "hhOim_G0kns",
       "title": "【告知あり⁉】大好きなカリオペ先輩とアソビ大全しちゃうぞ🎵【hololive 森カリオペ 響咲リオナ】",
       "published": "2026-09-11T14:44:42+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-12T09:00:00Z"
     },
     {
       "id": "fWikwP2XkII",

@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-09-11T13:52:16.061Z",
+  "lastUpdated": "2026-09-11T18:03:14.473Z",
   "videoCount": 1928,
   "videos": [
     {
       "id": "Pn57-Ur31EU",
       "title": "【member's only】traversing more nightmares in look outside #calliolive",
       "published": "2026-09-11T02:58:31.000Z",
-      "type": "stream",
+      "type": "member",
       "duration": 9574,
       "status": "past",
-      "scheduledStart": "2026-09-11T10:00:00.000Z"
+      "scheduledStart": "2026-09-11T10:00:00Z"
     },
     {
       "id": "Gm-M8sqRhw0",
@@ -26,7 +26,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-14T03:00:00.000Z"
+      "scheduledStart": "2026-09-14T03:00:00Z"
     },
     {
       "id": "A5H2cZw1Nzs",
@@ -35,7 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-15T00:00:00.000Z"
+      "scheduledStart": "2026-09-15T00:00:00Z"
     },
     {
       "id": "APCP5OpOixE",
@@ -53,7 +53,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-12T12:00:00.000Z"
+      "scheduledStart": "2026-09-12T12:00:00Z"
     },
     {
       "id": "yeRFyNwakUk",
@@ -114,7 +114,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-13T01:00:00.000Z"
+      "scheduledStart": "2026-09-13T01:00:00Z"
     },
     {
       "id": "gZD9djeqFzE",
