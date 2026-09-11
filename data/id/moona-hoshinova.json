@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-09-10T19:44:29.241Z",
+  "lastUpdated": "2026-09-11T05:52:56.835Z",
   "videoCount": 1202,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【MECCHA CHAMELEON】LIGHT,DARK,OR PICASSO? BIG COLLAB!【hololive | moona】",
       "published": "2026-09-10T19:33:28+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-11T11:00:00Z"
     },
     {
       "id": "RpJByFqiu7w",
@@ -5431,7 +5433,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-02-15T14:00:00.000Z"
+      "scheduledStart": "2028-02-15T14:00:00Z"
     },
     {
       "id": "nPessoqyRbs",
@@ -9466,7 +9468,7 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-02-15T14:00:00.000Z"
+      "scheduledStart": "2028-02-15T14:00:00Z"
     },
     {
       "id": "ExvOuNKL_8E",
