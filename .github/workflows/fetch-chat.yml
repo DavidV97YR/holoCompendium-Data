@@ -56,6 +56,11 @@ jobs:
           WINDOW_HOURS: ${{ github.event.inputs.window_hours || '36' }}
           CONCURRENCY:  ${{ github.event.inputs.concurrency || '6' }}
           BUDGET_MIN:   '75'
+          # YouTube bot-gates datacenter IPs, and Actions draws a different
+          # address every run — so a stream that hits a login wall on one run
+          # can sail through on the next. More attempts is just more rolls of
+          # the dice, and the straggler sweep makes them free.
+          MAX_ATTEMPTS: '10'
           DATA_DIR:     ./data
         run: node scripts/fetch-chat.js
 
