@@ -1,20 +1,19 @@
 {
   "channelId": "UChpRPsAeSZn5DistGacR3iA",
-  "channelName": "Sumishio Sayana",
-  "lastUpdated": "2026-09-12T22:16:48.901Z",
+  "channelName": "Yuikawa Hinami",
+  "lastUpdated": "2026-09-12T22:25:52.549Z",
   "streams": {
-    "6ktaKNhtyQ0": {
-      "cur": {
-        "¥": 1000
-      },
-      "sc": 1,
-      "member": 1,
-      "gift": 1,
-      "recv": 1
-    },
     "4YgKctWlM9o": {
       "cur": {
         "¥": 860
+      },
+      "sc": 3,
+      "member": 2
+    },
+    "U-W3nrbMA7k": {
+      "cur": {
+        "HK$": 35,
+        "¥": 160
       },
       "sc": 3,
       "member": 2
@@ -26,25 +25,17 @@
       "sc": 1,
       "member": 2
     },
-    "U-W3nrbMA7k": {
+    "KCBnWCf92JE": {
       "cur": {
-        "HK$": 35,
-        "¥": 160
+        "¥": 1900
       },
-      "sc": 3,
-      "member": 2
+      "sc": 3
     },
     "ySFXxf3PvgU": {
       "cur": {
         "¥": 1200
       },
       "sc": 2
-    },
-    "KCBnWCf92JE": {
-      "cur": {
-        "¥": 1900
-      },
-      "sc": 3
     },
     "hQYOcyVoMKI": {
       "cur": {
@@ -54,6 +45,9 @@
       },
       "sc": 11,
       "member": 2
+    },
+    "VX4WjiL1b_c": {
+      "member": 1
     },
     "ijTWZNQgxg4": {
       "cur": {
@@ -73,19 +67,47 @@
       "sc": 16,
       "member": 3
     },
-    "eW88Fcrrp58": {
-      "member": 1
-    },
-    "Ie1e9qn5ZVk": {
-      "e": "noreplay",
-      "n": 2
-    },
     "tebVjWiZjWs": {
       "cur": {
         "SAR": 27.98
       },
       "sc": 2,
       "member": 1
+    },
+    "eW88Fcrrp58": {
+      "member": 1
+    },
+    "6ktaKNhtyQ0": {
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 1,
+      "member": 1,
+      "gift": 1,
+      "recv": 1
+    },
+    "RtOigcv2NfI": {
+      "cur": {
+        "¥": 5066,
+        "HK$": 10
+      },
+      "sc": 7
+    },
+    "_basXjnEJZ0": {
+      "cur": {
+        "€": 5,
+        "¥": 200,
+        "HK$": 25
+      },
+      "sc": 3,
+      "member": 1
+    },
+    "t6lUk7HoPc4": {
+      "gift": 1,
+      "recv": 10
+    },
+    "BSpIpHJOJh8": {
+      "member": 2
     },
     "tgDYAqFsjqU": {
       "cur": {
@@ -97,28 +119,9 @@
     "5ek9fbp1Tpk": {
       "member": 1
     },
-    "t6lUk7HoPc4": {
-      "gift": 1,
-      "recv": 10
-    },
-    "_basXjnEJZ0": {
-      "cur": {
-        "€": 5,
-        "¥": 200,
-        "HK$": 25
-      },
-      "sc": 3,
-      "member": 1
-    },
-    "BSpIpHJOJh8": {
-      "member": 2
-    },
-    "RtOigcv2NfI": {
-      "cur": {
-        "¥": 5066,
-        "HK$": 10
-      },
-      "sc": 7
+    "Ie1e9qn5ZVk": {
+      "e": "noreplay",
+      "n": 1
     },
     "YYqoGNfcp9Q": {
       "cur": {
@@ -133,9 +136,6 @@
     },
     "xc7Y9rIuTB0": {
       "member": 2
-    },
-    "ZjiDAZTpzoM": {
-      "member": 4
     },
     "t3XR2mo1Zzg": {
       "cur": {
@@ -152,10 +152,8 @@
       "sc": 2,
       "member": 4
     },
-    "Kpogh5rZ1uM": {
-      "member": 3,
-      "gift": 1,
-      "recv": 10
+    "ZjiDAZTpzoM": {
+      "member": 4
     },
     "iKGT7NMdQro": {
       "cur": {
@@ -166,6 +164,17 @@
       "member": 3,
       "gift": 1,
       "recv": 20
+    },
+    "GfpBEnTJ24Q": {
+      "cur": {
+        "¥": 10500,
+        "$": 5,
+        "HK$": 50
+      },
+      "sc": 27,
+      "member": 2,
+      "gift": 2,
+      "recv": 60
     },
     "JSeqVHZyX-A": {
       "cur": {
@@ -184,16 +193,10 @@
       },
       "sc": 2
     },
-    "GfpBEnTJ24Q": {
-      "cur": {
-        "¥": 10500,
-        "$": 5,
-        "HK$": 50
-      },
-      "sc": 27,
-      "member": 2,
-      "gift": 2,
-      "recv": 60
+    "Kpogh5rZ1uM": {
+      "member": 3,
+      "gift": 1,
+      "recv": 10
     },
     "WJzT4PsnmQo": {
       "cur": {
@@ -201,14 +204,6 @@
         "HK$": 25
       },
       "sc": 3
-    },
-    "Xi7K5mdnXCY": 0,
-    "j28lEdTtPec": {
-      "cur": {
-        "¥": 500
-      },
-      "sc": 1,
-      "member": 1
     },
     "vwSVp1nTfdA": {
       "cur": {
@@ -218,12 +213,6 @@
       "gift": 1,
       "recv": 10
     },
-    "vWiOojTr-Gc": {
-      "cur": {
-        "¥": 500
-      },
-      "sc": 1
-    },
     "zSXkEPdLIIo": {
       "cur": {
         "¥": 1000
@@ -232,6 +221,26 @@
       "member": 1,
       "gift": 1,
       "recv": 10
+    },
+    "Xi7K5mdnXCY": 0,
+    "j28lEdTtPec": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1,
+      "member": 1
+    },
+    "vWiOojTr-Gc": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1
+    },
+    "FvCPGBdAauo": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1
     },
     "mpm4igyX6ww": {
       "cur": {
@@ -244,7 +253,7 @@
       "gift": 1,
       "recv": 5
     },
-    "FvCPGBdAauo": {
+    "F_6czhcvQ7I": {
       "cur": {
         "¥": 500
       },
@@ -259,11 +268,16 @@
       "gift": 1,
       "recv": 10
     },
-    "F_6czhcvQ7I": {
+    "8kwCq01dG8o": {
       "cur": {
-        "¥": 500
+        "¥": 3808,
+        "HK$": 10,
+        "$": 5
       },
-      "sc": 1
+      "sc": 8,
+      "member": 3,
+      "gift": 3,
+      "recv": 35
     },
     "8_GswlX9j8k": {
       "cur": {
@@ -279,26 +293,12 @@
       "sc": 11,
       "member": 3
     },
-    "8kwCq01dG8o": {
-      "cur": {
-        "¥": 3808,
-        "HK$": 10,
-        "$": 5
-      },
-      "sc": 8,
-      "member": 3,
-      "gift": 3,
-      "recv": 35
-    },
     "pbdt7PolPOs": {
       "cur": {
         "¥": 500
       },
       "sc": 1,
       "member": 2
-    },
-    "aWoYag4w0MA": {
-      "member": 4
     },
     "v4irI2MxmVc": {
       "cur": {
@@ -318,17 +318,13 @@
       "gift": 1,
       "recv": 10
     },
+    "aWoYag4w0MA": {
+      "member": 4
+    },
     "FBKm4XO_Ltw": {
       "member": 2,
       "gift": 1,
       "recv": 5
-    },
-    "XxLmfYZLKwY": {
-      "cur": {
-        "¥": 500
-      },
-      "sc": 1,
-      "member": 3
     },
     "rlifRBgiUjc": {
       "cur": {
@@ -336,6 +332,13 @@
       },
       "sc": 1,
       "member": 2
+    },
+    "XxLmfYZLKwY": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1,
+      "member": 3
     },
     "QybUaMd67QU": {
       "cur": {
@@ -348,7 +351,6 @@
     "UsC-yxK-ztU": {
       "member": 5
     },
-    "S__zql4vkT0": 0,
     "gFF0uXWMKl4": {
       "cur": {
         "¥": 55679,
@@ -359,6 +361,21 @@
       },
       "sc": 65,
       "member": 16
+    },
+    "S__zql4vkT0": 0,
+    "9Jk_PubGql4": {
+      "cur": {
+        "¥": 56836,
+        "€": 4,
+        "₩": 20000,
+        "HK$": 100,
+        "$": 10,
+        "NT$": 300
+      },
+      "sc": 58,
+      "member": 9,
+      "gift": 2,
+      "recv": 10
     },
     "-VVj9Ffo6LY": {
       "cur": {
@@ -374,19 +391,11 @@
       "sc": 1,
       "member": 3
     },
-    "9Jk_PubGql4": {
+    "A8ke2JFzZpQ": {
       "cur": {
-        "¥": 56836,
-        "€": 4,
-        "₩": 20000,
-        "HK$": 100,
-        "$": 10,
-        "NT$": 300
+        "¥": 800
       },
-      "sc": 58,
-      "member": 9,
-      "gift": 2,
-      "recv": 10
+      "sc": 1
     },
     "yqkHpAiOWAg": {
       "cur": {
@@ -395,9 +404,9 @@
       },
       "sc": 5
     },
-    "A8ke2JFzZpQ": {
+    "gP25pZeZjwg": {
       "cur": {
-        "¥": 800
+        "¥": 500
       },
       "sc": 1
     },
@@ -407,12 +416,6 @@
       },
       "sc": 2,
       "member": 5
-    },
-    "gP25pZeZjwg": {
-      "cur": {
-        "¥": 500
-      },
-      "sc": 1
     },
     "lR_H1GmRnjQ": {
       "cur": {
@@ -435,31 +438,31 @@
       "gift": 3,
       "recv": 20
     },
-    "8WwBihwbKoY": {
-      "cur": {
-        "¥": 320
-      },
-      "sc": 1
-    },
     "af6GdH-Fxt8": {
       "cur": {
         "¥": 700
       },
       "sc": 2
     },
+    "8WwBihwbKoY": {
+      "cur": {
+        "¥": 320
+      },
+      "sc": 1
+    },
     "iUfoBUB1Q-M": 0,
+    "BYWh_jmrUiU": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1
+    },
     "ZANPASFJUSM": {
       "cur": {
         "¥": 1400
       },
       "sc": 4,
       "member": 44
-    },
-    "BYWh_jmrUiU": {
-      "cur": {
-        "¥": 500
-      },
-      "sc": 1
     },
     "yowk28fAe3I": {
       "cur": {
@@ -472,12 +475,6 @@
       },
       "sc": 19
     },
-    "UJxJNETw-Hk": {
-      "cur": {
-        "¥": 100
-      },
-      "sc": 1
-    },
     "0FuGE1U7_HM": {
       "cur": {
         "¥": 2500,
@@ -485,10 +482,29 @@
       },
       "sc": 5
     },
-    "BYmGH1F2Ers": 0,
+    "UJxJNETw-Hk": {
+      "cur": {
+        "¥": 100
+      },
+      "sc": 1
+    },
     "oV9l5DJ0CqU": {
       "cur": {
         "¥": 3400
+      },
+      "sc": 2
+    },
+    "BYmGH1F2Ers": 0,
+    "BTXHLo-01G8": 0,
+    "cNFKTkM66gM": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1
+    },
+    "MV03q9s3y7A": {
+      "cur": {
+        "¥": 2500
       },
       "sc": 2
     },
@@ -500,35 +516,13 @@
       "sc": 14,
       "member": 6
     },
-    "BTXHLo-01G8": 0,
-    "MV03q9s3y7A": {
+    "hsI6mAF1ZeA": {
       "cur": {
-        "¥": 2500
+        "¥": 7200,
+        "$": 10,
+        "HK$": 10
       },
-      "sc": 2
-    },
-    "cNFKTkM66gM": {
-      "cur": {
-        "$": 5
-      },
-      "sc": 1
-    },
-    "8Szb6v6VJfs": {
-      "cur": {
-        "¥": 4870,
-        "HK$": 10,
-        "$": 2
-      },
-      "sc": 8,
-      "sticker": 2
-    },
-    "SH2CMfcUxcM": {
-      "cur": {
-        "¥": 4740,
-        "$": 7
-      },
-      "sc": 9,
-      "sticker": 2
+      "sc": 8
     },
     "FhMhSl-0IzQ": {
       "cur": {
@@ -539,13 +533,22 @@
       "sc": 7,
       "sticker": 3
     },
-    "hsI6mAF1ZeA": {
+    "SH2CMfcUxcM": {
       "cur": {
-        "¥": 7200,
-        "$": 10,
-        "HK$": 10
+        "¥": 4740,
+        "$": 7
       },
-      "sc": 8
+      "sc": 9,
+      "sticker": 2
+    },
+    "8Szb6v6VJfs": {
+      "cur": {
+        "¥": 4870,
+        "HK$": 10,
+        "$": 2
+      },
+      "sc": 8,
+      "sticker": 2
     },
     "afvbw-RpNAI": {
       "cur": {
@@ -579,19 +582,19 @@
       "sc": 1,
       "sticker": 1
     },
-    "HkbpWm-rAh4": {
-      "cur": {
-        "€": 4,
-        "¥": 500
-      },
-      "sc": 3
-    },
     "FM2TsTFhfao": {
       "cur": {
         "$": 2,
         "¥": 500
       },
       "sc": 2
+    },
+    "HkbpWm-rAh4": {
+      "cur": {
+        "€": 4,
+        "¥": 500
+      },
+      "sc": 3
     },
     "qcV9EZN_3K0": {
       "cur": {
@@ -613,16 +616,6 @@
       },
       "sc": 1
     },
-    "hMrqrmsl6lk": {
-      "cur": {
-        "¥": 7340,
-        "HK$": 10,
-        "CA$": 40,
-        "CHF": 5,
-        "₩": 10000
-      },
-      "sc": 18
-    },
     "HToLSGema-M": {
       "cur": {
         "¥": 400
@@ -635,6 +628,16 @@
       },
       "sc": 3
     },
+    "hMrqrmsl6lk": {
+      "cur": {
+        "¥": 7340,
+        "HK$": 10,
+        "CA$": 40,
+        "CHF": 5,
+        "₩": 10000
+      },
+      "sc": 18
+    },
     "pdlYzk5OCI0": {
       "cur": {
         "¥": 20808,
@@ -644,19 +647,19 @@
       },
       "sc": 28
     },
-    "MxbZqSop0dY": {
-      "cur": {
-        "¥": 7800,
-        "$": 5
-      },
-      "sc": 12
-    },
     "2Eb34-uqhuM": {
       "cur": {
         "¥": 12620
       },
       "sc": 5,
       "sticker": 1
+    },
+    "MxbZqSop0dY": {
+      "cur": {
+        "¥": 7800,
+        "$": 5
+      },
+      "sc": 12
     },
     "Nc4C2e2zhBE": {
       "cur": {
@@ -666,6 +669,21 @@
         "$": 3
       },
       "sc": 11
+    },
+    "ZZoUvQ9YZBY": {
+      "cur": {
+        "¥": 17200,
+        "£": 5,
+        "NT$": 150
+      },
+      "sc": 7,
+      "sticker": 1
+    },
+    "jidn2DgYjTE": {
+      "cur": {
+        "¥": 12099
+      },
+      "sc": 8
     },
     "8eHvZ6B27TM": {
       "cur": {
@@ -679,12 +697,6 @@
       "sc": 15,
       "sticker": 3
     },
-    "jidn2DgYjTE": {
-      "cur": {
-        "¥": 12099
-      },
-      "sc": 8
-    },
     "Urn9aIEoTP0": {
       "cur": {
         "SEK": 20,
@@ -697,20 +709,18 @@
       "sc": 13,
       "sticker": 4
     },
-    "ZZoUvQ9YZBY": {
-      "cur": {
-        "¥": 17200,
-        "£": 5,
-        "NT$": 150
-      },
-      "sc": 7,
-      "sticker": 1
-    },
     "gqzKnxNCdKQ": {
       "cur": {
         "¥": 2500
       },
       "sc": 3,
+      "sticker": 1
+    },
+    "jZ4R3_eFV04": {
+      "cur": {
+        "¥": 7950
+      },
+      "sc": 10,
       "sticker": 1
     },
     "CDER8P62QcM": {
@@ -720,12 +730,14 @@
       "sc": 8,
       "sticker": 1
     },
-    "jZ4R3_eFV04": {
+    "vh4XkZ56Jcg": {
       "cur": {
-        "¥": 7950
+        "¥": 10547,
+        "₩": 10000,
+        "HK$": 10
       },
-      "sc": 10,
-      "sticker": 1
+      "sc": 12,
+      "sticker": 3
     },
     "B-zkZhU7F14": {
       "cur": {
@@ -741,27 +753,6 @@
       },
       "sc": 7
     },
-    "vh4XkZ56Jcg": {
-      "cur": {
-        "¥": 10547,
-        "₩": 10000,
-        "HK$": 10
-      },
-      "sc": 12,
-      "sticker": 3
-    },
-    "Xmx76FtQ2uc": {
-      "cur": {
-        "¥": 500
-      },
-      "sc": 1
-    },
-    "bPNwhReY2TY": {
-      "cur": {
-        "¥": 3220
-      },
-      "sc": 6
-    },
     "7dovOD88cKo": {
       "cur": {
         "¥": 10439,
@@ -771,6 +762,18 @@
       },
       "sc": 16,
       "sticker": 3
+    },
+    "bPNwhReY2TY": {
+      "cur": {
+        "¥": 3220
+      },
+      "sc": 6
+    },
+    "Xmx76FtQ2uc": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1
     },
     "DOvuLn1k5cw": {
       "cur": {
@@ -792,13 +795,6 @@
       "sc": 42,
       "sticker": 4
     },
-    "t5Mt-M_cMQ8": {
-      "cur": {
-        "¥": 16487
-      },
-      "sc": 11,
-      "sticker": 1
-    },
     "632NFRK0DB0": {
       "cur": {
         "¥": 70953,
@@ -807,6 +803,21 @@
         "$": 10
       },
       "sc": 34
+    },
+    "t5Mt-M_cMQ8": {
+      "cur": {
+        "¥": 16487
+      },
+      "sc": 11,
+      "sticker": 1
+    },
+    "zjususPE2YE": {
+      "cur": {
+        "¥": 20460,
+        "NT$": 30
+      },
+      "sc": 25,
+      "sticker": 2
     },
     "EtwbHtctbuY": {
       "cur": {
@@ -817,14 +828,6 @@
       },
       "sc": 12,
       "sticker": 3
-    },
-    "zjususPE2YE": {
-      "cur": {
-        "¥": 20460,
-        "NT$": 30
-      },
-      "sc": 25,
-      "sticker": 2
     },
     "oZLUwtx3cYw": {
       "cur": {
@@ -841,20 +844,17 @@
       "sc": 14,
       "sticker": 1
     },
-    "7zKst5tJya4": 0,
     "KpbMDuuwyYs": 0,
-    "DFvSf2_CNfU": 0,
-    "01W1ThrSlEM": 0,
+    "7zKst5tJya4": 0,
     "yMMjG2V-wrs": 0,
+    "01W1ThrSlEM": 0,
     "K_psas4Ap7w": 0,
     "b8DgEdSG9sc": 0,
+    "DFvSf2_CNfU": 0,
     "J71J6sbigEM": 0,
     "EV0YAwJUNkA": 0,
-    "OAAtmN6I2bU": 0,
     "Ywawp2mhJCs": 0,
-    "DZBmJ-Ev9UA": 0,
-    "qCGpEzAB2eo": 0,
-    "16mYl3Ymnck": 0,
+    "OAAtmN6I2bU": 0,
     "b7yzo659jiU": {
       "cur": {
         "¥": 50540,
@@ -863,15 +863,21 @@
       "sc": 35,
       "sticker": 2
     },
+    "DZBmJ-Ev9UA": 0,
+    "qCGpEzAB2eo": 0,
+    "16mYl3Ymnck": 0,
     "AvHCGfnrJPg": 0,
-    "W9PDoPH856A": 0,
     "PW7a2FcN9CI": 0,
+    "W9PDoPH856A": 0,
     "jFl_hAhvQR4": 0,
-    "eVnx1AELdTU": 0,
     "7n3p6Hx8r1w": 0,
+    "eVnx1AELdTU": 0,
     "uGQ9HNOumkM": 0,
     "qB8nzoA_QQw": 0,
     "Q_f4YvPgRCY": 0,
+    "XJDfHsCfXpw": 0,
+    "yLZy3xyVZ4g": 0,
+    "QXZwsJzdaXc": 0,
     "iAhMZH8mScc": {
       "cur": {
         "¥": 443487,
@@ -887,21 +893,15 @@
       },
       "sc": 189
     },
-    "yLZy3xyVZ4g": 0,
     "xlXSQFLXVf8": 0,
-    "XJDfHsCfXpw": 0,
-    "QXZwsJzdaXc": 0,
     "cXKestfXW-4": 0,
     "1tBbtuP2i2c": 0,
     "NP33rYv4eeM": 0,
     "jwzG5gmcPW4": 0,
     "Pp0Sfsxaq9k": 0,
     "TVknOPw07CA": 0,
-    "wg-AhqsLCVE": 0,
     "YroXR8T68Rc": 0,
-    "7rOlRZIzlcY": 0,
-    "VX4WjiL1b_c": {
-      "member": 1
-    }
+    "wg-AhqsLCVE": 0,
+    "7rOlRZIzlcY": 0
   }
 }
