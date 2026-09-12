@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-09-11T19:39:11.285Z",
+  "lastUpdated": "2026-09-12T05:46:31.608Z",
   "videoCount": 2386,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【 ドラゴンクエスト ビルダーズ 】初めてのビルダーズ!!!【鷹嶺ルイ/ホロライブ】ネタバレあり",
       "published": "2026-09-11T17:27:47+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-12T03:00:00Z"
     },
     {
       "id": "VvPM7cyJydI",
