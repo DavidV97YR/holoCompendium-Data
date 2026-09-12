@@ -167,27 +167,38 @@ async function safeFetch(url, opts, ms) {
   }
 }
 
-/** → { token } | { err } */
+const NEXT_ENDPOINT = 'https://www.youtube.com/youtubei/v1/next'
+                    + '?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8';
+
+/**
+ * Get the replay continuation token.  → { token } | { err }
+ *
+ * This asks the innertube API rather than scraping youtube.com/watch. Both
+ * return the same liveChatRenderer, but the HTML page is aggressively
+ * bot-gated for datacenter IPs — a CI run can get a "sign in to confirm you're
+ * not a bot" wall on every single request while the API family it's paired
+ * with (get_live_chat_replay, right below) keeps working fine. Using the same
+ * surface for both steps avoids depending on the one that gets blocked.
+ *
+ * LOGIN_REQUIRED / UNPLAYABLE are reported as 'gated' and never treated as
+ * permanent: from a gated IP they're indistinguishable from a genuinely
+ * members-only video, and assuming the worst mislabelled 13 public streams.
+ */
 async function replayToken(videoId) {
-  const r = await safeFetch('https://www.youtube.com/watch?v=' + videoId,
-                            { headers: { 'User-Agent': UA } }, 45000);
+  const r = await safeFetch(NEXT_ENDPOINT, {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json', 'User-Agent': UA },
+    body:    JSON.stringify({ context: CONTEXT, videoId: videoId }),
+  }, 45000);
   if (!r.ok) return { err: r.err || ('http' + r.status) };
-  let html;
-  try { html = await r.res.text(); } catch (e) { return { err: 'neterr' }; }
 
-  // NOTE: do NOT treat LOGIN_REQUIRED / UNPLAYABLE as permanent. YouTube serves
-  // datacenter IPs a "sign in to confirm you're not a bot" page carrying the
-  // exact same "status":"LOGIN_REQUIRED" markup as a genuine members-only
-  // video, so from CI the two are indistinguishable. Marking on that basis
-  // permanently mislabelled 13 public streams in one run. It's a property of
-  // the request, not of the video — always retryable.
-  if (/"status":"LOGIN_REQUIRED"/.test(html))          return { err: 'gated' };
-  if (/"status":"(UNPLAYABLE|ERROR)"/.test(html))      return { err: 'gated' };
-
-  const m = html.match(/ytInitialData\s*=\s*(\{[\s\S]*?\});<\/script>/);
-  if (!m) return { err: 'noreplay' };
   let data;
-  try { data = JSON.parse(m[1]); } catch (e) { return { err: 'noreplay' }; }
+  try { data = JSON.parse(await r.res.text()); } catch (e) { return { err: 'neterr' }; }
+
+  const ps = data && data.playabilityStatus;
+  if (ps && (ps.status === 'LOGIN_REQUIRED' || ps.status === 'UNPLAYABLE' || ps.status === 'ERROR'))
+    return { err: 'gated' };
+
   const lcr = data
     && data.contents
     && data.contents.twoColumnWatchNextResults
@@ -511,8 +522,15 @@ async function main() {
 
       if (r.unavailable || r.aborted) {
         const prev = done[v.id];
-        const n = ((prev && prev.n) || 0) + 1;
         const why = r.aborted || 'noreplay';
+        // 'gated' describes our request, not the stream — a blocked runner IP
+        // says nothing about whether the video is fetchable. Letting it count
+        // toward MAX_ATTEMPTS means one bad afternoon can permanently abandon a
+        // talent's whole catalogue, so it retries forever without spending the
+        // budget. Only 'noreplay' and friends, which are properties of the
+        // video, are allowed to give up.
+        const n = why === 'gated' ? ((prev && prev.n) || 0)
+                                  : ((prev && prev.n) || 0) + 1;
         done[v.id] = { e: why, n: n };
         summary.unavailable++;
         console.log('    ⚠ ' + v.id + '  ' + (r.aborted ? 'walk aborted (' + why + ') after ' + r.pages + ' pages'
