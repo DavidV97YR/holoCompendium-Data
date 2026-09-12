@@ -64,17 +64,44 @@ const UA       = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 C
 // The CSV/row helpers below mirror update.js so ROWS means the same thing in
 // both workflows — row 78 is the same talent whichever script you run.
 
-function get(url) {
+// Mirrors update.js's get(), plus a User-Agent. A header-less request gets an
+// intermittent 401 from Google even though the sheet is public — measured as
+// 200,200,401 over three tries — which is what broke the first CI run. Sending
+// an Accept header makes it worse (intermittent 400), so UA is the only one.
+const agent = new https.Agent({ rejectUnauthorized: false });
+
+function get(url, headers) {
+  const hdrs = Object.assign({ 'User-Agent': UA }, headers || {});
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
-    let data = '';
-    client.get(url, res => {
+    const opts = { headers: hdrs };
+    if (url.startsWith('https')) opts.agent = agent;
+    client.get(url, opts, res => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location)
-        return get(res.headers.location).then(resolve).catch(reject);
-      res.on('data', c => data += c);
-      res.on('end', () => resolve({ status: res.statusCode, body: data }));
+        return get(res.headers.location, headers).then(resolve).catch(reject);
+      const chunks = [];
+      res.on('data', c => chunks.push(Buffer.isBuffer(c) ? c : Buffer.from(c)));
+      res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks).toString('utf8') }));
     }).on('error', reject);
   });
+}
+
+/** Google occasionally rejects a cold request; a couple of retries settles it. */
+async function getWithRetry(url, attempts) {
+  let last = null;
+  for (let i = 1; i <= (attempts || 3); i++) {
+    try {
+      const r = await get(url);
+      if (r.status === 200) return r;
+      last = r;
+      console.log('  ⚠ CSV fetch attempt ' + i + ': HTTP ' + r.status);
+    } catch (e) {
+      last = { status: 0, body: e.message };
+      console.log('  ⚠ CSV fetch attempt ' + i + ': ' + e.message);
+    }
+    if (i < (attempts || 3)) await new Promise(r => setTimeout(r, i * 3000));
+  }
+  return last;
 }
 
 function parseCSV(text) {
@@ -278,6 +305,7 @@ async function main() {
   const maxAttempts = parseInt(process.env.MAX_ATTEMPTS || '4', 10);
   const rowsRaw     = (process.env.ROWS || 'all').trim();
   const csvUrl      = process.env.CSV_URL;
+  const talentsArg  = (process.env.TALENTS || "").trim();
 
   const deadline = Date.now() + budgetMin * 60 * 1000;
   const expired  = () => Date.now() > deadline;
@@ -290,16 +318,34 @@ async function main() {
 
   let channelFiles;
 
-  if (mode === 'backfill' && rowsRaw.toLowerCase() !== 'all') {
+  if (mode === 'backfill' && talentsArg) {
+    // Escape hatch: name slugs directly and skip the sheet entirely. Useful if
+    // Google is refusing the CSV from a runner IP.
+    const want = new Set(talentsArg.split(',').map(s => s.trim()).filter(Boolean));
+    channelFiles = findChannelFiles(dataDir).filter(f => want.has(path.basename(f, '.json')));
+    if (!channelFiles.length) {
+      console.error('❌  No channel files matched TALENTS="' + talentsArg + '"');
+      process.exit(1);
+    }
+    channelFiles.forEach(f => console.log('  ' + path.basename(f, '.json')));
+    console.log('');
+
+  } else if (mode === 'backfill' && rowsRaw.toLowerCase() !== 'all') {
     // Resolve ROWS through the talent sheet, exactly as update.js does, so a
     // row number means the same talent in both workflows.
     if (!csvUrl) {
       console.error('❌  Missing CSV_URL — needed to resolve ROWS to channels');
+      console.error('    (or set TALENTS=<slug> to skip the sheet entirely)');
       process.exit(1);
     }
     console.log('Fetching CSV...');
-    const { status, body } = await get(csvUrl);
-    if (status !== 200) { console.error('Failed to fetch CSV: HTTP ' + status); process.exit(1); }
+    const { status, body } = await getWithRetry(csvUrl, 3);
+    if (status !== 200) {
+      console.error('❌  Failed to fetch CSV: HTTP ' + status);
+      console.error('    response: ' + String(body).slice(0, 200).replace(/\s+/g, ' '));
+      console.error('    Set TALENTS=<slug> to bypass the sheet, e.g. TALENTS=isaki-riona');
+      process.exit(1);
+    }
 
     const selected = parseRows(rowsRaw, parseCSV(body))
       .filter(r => r.Name && r.Branch && r['Channel ID']);
