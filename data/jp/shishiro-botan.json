@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
     "bannerUrl": "https://yt3.googleusercontent.com/h2U0OUQ6wVPh0it2H8HRDmcdprY76zjXrAhzE9dj6N9YOlK1pMxQfEkrP1xRNOj1LPaX-Mutwg=s0"
   },
-  "lastUpdated": "2026-09-12T17:36:04.169Z",
-  "videoCount": 1673,
+  "lastUpdated": "2026-09-12T17:44:07.854Z",
+  "videoCount": 1672,
   "videos": [
     {
       "id": "DjbOkB_3KXs",
@@ -24,7 +24,9 @@
       "title": "【WARDOGS】話題の100人対戦FPS!今日の仕事は生還する事です【獅白ぼたん/ホロライブ】",
       "published": "2026-09-12T14:19:40+00:00",
       "type": "stream",
-      "duration": 7832
+      "duration": 7832,
+      "status": "past",
+      "scheduledStart": "2026-09-12T12:00:00Z"
     },
     {
       "id": "cI535pJp-TQ",
@@ -33,7 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-19T10:00:00.000Z"
+      "scheduledStart": "2026-09-19T10:00:00Z"
     },
     {
       "id": "gRXr1esgBUk",
@@ -6022,7 +6024,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-31T03:00:00.000Z"
+      "scheduledStart": "2026-12-31T03:00:00Z"
     },
     {
       "id": "fCimaG7lCck",

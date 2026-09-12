@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh",
     "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0"
   },
-  "lastUpdated": "2026-09-12T17:01:45.075Z",
+  "lastUpdated": "2026-09-12T17:02:01.940Z",
   "videoCount": 1992,
   "videos": [
     {
       "id": "ihJXtjPdmh8",
       "title": "【ポニテのそら】おしゃべりしよ♪【ときのそら/ホロライブ】",
-      "published": "2026-09-12T16:24:36+00:00",
+      "published": "2026-09-12T16:24:36Z",
       "type": "stream",
       "duration": 7299,
       "status": "past",
-      "scheduledStart": "2026-09-12T14:15:00.000Z"
+      "scheduledStart": "2026-09-12T14:15:00Z"
     },
     {
       "id": "3XlT-WWSbN8",
@@ -26,7 +26,7 @@
       "type": "stream",
       "duration": 10384,
       "status": "past",
-      "scheduledStart": "2026-09-12T06:30:00.000Z"
+      "scheduledStart": "2026-09-12T06:30:00Z"
     },
     {
       "id": "QYFokdBCPWs",
@@ -846,8 +846,8 @@
       "published": "2026-06-13T12:32:37.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "unavailable",
-      "scheduledStart": "2026-06-28T14:45:00.000Z"
+      "status": "upcoming",
+      "scheduledStart": "2026-09-23T14:45:00Z"
     },
     {
       "id": "KrzjL8aNt1k",
