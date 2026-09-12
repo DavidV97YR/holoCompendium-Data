@@ -150,23 +150,42 @@ function money(s) {
   return { cur: m[1].trim() || '?', amt: parseFloat(m[2].replace(/,/g, '')) || 0 };
 }
 
-/** Pull the replay continuation token out of a watch page. */
+/**
+ * fetch() REJECTS on a network error rather than returning a bad status, and it
+ * will wait forever on a hung socket. Unguarded, one blip anywhere in a 5-hour
+ * backfill takes the whole run down with it — and since progress is only
+ * written when a channel's pool finishes, everything processed so far is lost.
+ * So: never throw, always time out.
+ */
+async function safeFetch(url, opts, ms) {
+  try {
+    const res = await fetch(url, Object.assign({}, opts || {},
+      { signal: AbortSignal.timeout(ms || 45000) }));
+    return { ok: res.ok, status: res.status, res: res };
+  } catch (e) {
+    return { ok: false, status: 0, err: (e && e.name === 'TimeoutError') ? 'timeout' : 'neterr' };
+  }
+}
+
+/** → { token } | { err } */
 async function replayToken(videoId) {
-  const res = await fetch('https://www.youtube.com/watch?v=' + videoId, { headers: { 'User-Agent': UA } });
-  if (!res.ok) return null;
-  const html = await res.text();
+  const r = await safeFetch('https://www.youtube.com/watch?v=' + videoId,
+                            { headers: { 'User-Agent': UA } }, 45000);
+  if (!r.ok) return { err: r.err || ('http' + r.status) };
+  let html;
+  try { html = await r.res.text(); } catch (e) { return { err: 'neterr' }; }
   const m = html.match(/ytInitialData\s*=\s*(\{[\s\S]*?\});<\/script>/);
-  if (!m) return null;
+  if (!m) return { err: 'noreplay' };
   let data;
-  try { data = JSON.parse(m[1]); } catch (e) { return null; }
+  try { data = JSON.parse(m[1]); } catch (e) { return { err: 'noreplay' }; }
   const lcr = data
     && data.contents
     && data.contents.twoColumnWatchNextResults
     && data.contents.twoColumnWatchNextResults.conversationBar
     && data.contents.twoColumnWatchNextResults.conversationBar.liveChatRenderer;
-  if (!lcr || !lcr.continuations || !lcr.continuations[0]) return null;
+  if (!lcr || !lcr.continuations || !lcr.continuations[0]) return { err: 'noreplay' };
   const rc = lcr.continuations[0].reloadContinuationData;
-  return (rc && rc.continuation) || null;
+  return (rc && rc.continuation) ? { token: rc.continuation } : { err: 'noreplay' };
 }
 
 /**
@@ -174,8 +193,10 @@ async function replayToken(videoId) {
  * → { log: [...], pages } or { unavailable: true }
  */
 async function walkChat(videoId) {
-  let cont = await replayToken(videoId);
-  if (!cont) return { unavailable: true };
+  const tok = await replayToken(videoId);
+  if (tok.err) return tok.err === 'noreplay' ? { unavailable: true }
+                                             : { aborted: tok.err, pages: 0 };
+  let cont = tok.token;
 
   const log = [];
   let pages = 0;
@@ -186,16 +207,16 @@ async function walkChat(videoId) {
   let complete = false;
 
   while (cont) {
-    const res = await fetch(ENDPOINT, {
+    const r = await safeFetch(ENDPOINT, {
       method:  'POST',
       headers: { 'Content-Type': 'application/json', 'User-Agent': UA },
       body:    JSON.stringify({ context: CONTEXT, continuation: cont }),
-    });
-    if (!res.ok) return { aborted: 'http' + res.status, pages: pages };
+    }, 45000);
+    if (!r.ok) return { aborted: r.err || ('http' + r.status), pages: pages };
 
     let lc;
     try {
-      const parsed = JSON.parse(await res.text());
+      const parsed = JSON.parse(await r.res.text());
       lc = parsed && parsed.continuationContents && parsed.continuationContents.liveChatContinuation;
     } catch (e) { return { aborted: 'parse', pages: pages }; }
     if (!lc) return { aborted: 'nocontent', pages: pages };
@@ -406,11 +427,14 @@ async function main() {
     const candidates = (channel.videos || []).filter(v => {
       if (v.type !== 'stream' || !v.published || !v.duration) return false;
       if (v.status === 'live' || v.status === 'upcoming') return false;
-      if (mode === 'recent' && new Date(v.published).getTime() < cutoff) return false;
       const prev = done[v.id];
-      if (prev === undefined) return true;                    // never tried
-      if (prev && prev.e) return (prev.n || 0) < maxAttempts;  // retry failures
-      return false;                                           // already settled
+      // Stragglers are swept at ANY age, including by the hourly run — a
+      // stream whose replay wasn't ready, or that hit a network blip, heals
+      // itself without needing the whole backfill re-run. They're rare (single
+      // digits per talent), so this costs the hourly job almost nothing.
+      if (prev && prev.e) return (prev.n || 0) < maxAttempts;
+      if (mode === 'recent' && new Date(v.published).getTime() < cutoff) return false;
+      return prev === undefined;                              // never tried
     });
 
     if (!candidates.length) continue;
@@ -420,6 +444,22 @@ async function main() {
 
     const bundles = new Map();   // 'YYYY-MM' → { videoId: log }
     let changed = false;
+
+    // Flush to disk as we go. A channel's pool can run for hours and be cut off
+    // by the time budget, so waiting until it finishes to write means a crash
+    // or a kill throws away everything done so far.
+    const flush = () => {
+      for (const [month, entries] of bundles) {
+        const dir = path.join(branchPath, 'chat', slug);
+        fs.mkdirSync(dir, { recursive: true });
+        const p = path.join(dir, month + '.json');
+        fs.writeFileSync(p, JSON.stringify(Object.assign(readJson(p, {}), entries)), 'utf8');
+      }
+      bundles.clear();
+      chatFile.lastUpdated = new Date().toISOString();
+      fs.writeFileSync(chatPath, JSON.stringify(chatFile, null, 2), 'utf8');
+    };
+    let sinceFlush = 0;
 
     const result = await pool(candidates, concurrency, async (v) => {
       const r = await walkChat(v.id);
@@ -458,6 +498,7 @@ async function main() {
         what = bits.join(' ');
       }
       console.log('    ✓ ' + v.id + '  ' + r.pages + ' pages  ' + what);
+      if (++sinceFlush >= 20) { flush(); sinceFlush = 0; }
     }, expired);
 
     if (result.stopped) {
@@ -465,17 +506,8 @@ async function main() {
       summary.remaining += candidates.length - result.processed;
     }
 
-    // Merge month bundles into whatever is already on disk.
-    for (const [month, entries] of bundles) {
-      const dir = path.join(branchPath, 'chat', slug);
-      fs.mkdirSync(dir, { recursive: true });
-      const p = path.join(dir, month + '.json');
-      fs.writeFileSync(p, JSON.stringify(Object.assign(readJson(p, {}), entries)), 'utf8');
-    }
-
     if (changed) {
-      chatFile.lastUpdated = new Date().toISOString();
-      fs.writeFileSync(chatPath, JSON.stringify(chatFile, null, 2), 'utf8');
+      flush();
       console.log('    → saved ' + path.basename(chatPath));
     }
     if (ranOut) break;
