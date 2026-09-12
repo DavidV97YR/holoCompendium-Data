@@ -179,6 +179,11 @@ async function walkChat(videoId) {
 
   const log = [];
   let pages = 0;
+  // A walk that stops early (429, 5xx, malformed page) must NOT be recorded as
+  // "processed, nothing monetary" — that would settle the stream forever on the
+  // strength of a network blip. Only a walk that runs out of continuations has
+  // genuinely seen the whole chat.
+  let complete = false;
 
   while (cont) {
     const res = await fetch(ENDPOINT, {
@@ -186,14 +191,14 @@ async function walkChat(videoId) {
       headers: { 'Content-Type': 'application/json', 'User-Agent': UA },
       body:    JSON.stringify({ context: CONTEXT, continuation: cont }),
     });
-    if (!res.ok) break;
+    if (!res.ok) return { aborted: 'http' + res.status, pages: pages };
 
     let lc;
     try {
       const parsed = JSON.parse(await res.text());
       lc = parsed && parsed.continuationContents && parsed.continuationContents.liveChatContinuation;
-    } catch (e) { break; }
-    if (!lc) break;
+    } catch (e) { return { aborted: 'parse', pages: pages }; }
+    if (!lc) return { aborted: 'nocontent', pages: pages };
 
     for (const action of (lc.actions || [])) {
       const replay = action.replayChatItemAction;
@@ -241,8 +246,10 @@ async function walkChat(videoId) {
     const next = (lc.continuations || [])[0];
     cont = (next && next.liveChatReplayContinuationData && next.liveChatReplayContinuationData.continuation) || null;
     pages++;
+    if (!cont) complete = true;   // ran out of continuations = saw the whole chat
   }
 
+  if (!complete) return { aborted: 'nocontinuation', pages: pages };
   return { log: log, pages: pages };
 }
 
@@ -256,8 +263,10 @@ function summarise(log) {
     }
     if (s[e.k] !== undefined) s[e.k]++;
   }
-  for (const k of ['sticker', 'member', 'milestone', 'gift', 'recv']) if (!s[k]) delete s[k];
+  for (const k of ['sc', 'sticker', 'member', 'milestone', 'gift', 'recv']) if (!s[k]) delete s[k];
   if (!Object.keys(s.cur).length) delete s.cur;
+  // Only non-monetary chatter was found (shouldn't happen — we don't log it).
+  if (!Object.keys(s).length) return 0;
   return s;
 }
 
@@ -417,12 +426,15 @@ async function main() {
       changed = true;
       summary.streams++;
 
-      if (r.unavailable) {
+      if (r.unavailable || r.aborted) {
         const prev = done[v.id];
         const n = ((prev && prev.n) || 0) + 1;
-        done[v.id] = { e: 'noreplay', n: n };
+        const why = r.aborted || 'noreplay';
+        done[v.id] = { e: why, n: n };
         summary.unavailable++;
-        console.log('    ⚠ ' + v.id + '  replay not available (attempt ' + n + '/' + maxAttempts + ')');
+        console.log('    ⚠ ' + v.id + '  ' + (r.aborted ? 'walk aborted (' + why + ') after ' + r.pages + ' pages'
+                                                        : 'replay not available')
+                  + ' (attempt ' + n + '/' + maxAttempts + ')');
         return;
       }
 
@@ -434,9 +446,18 @@ async function main() {
         if (!bundles.has(month)) bundles.set(month, {});
         bundles.get(month)[v.id] = r.log;
       }
-      console.log('    ✓ ' + v.id + '  ' + r.pages + ' pages'
-                + (s === 0 ? '  (nothing monetary)'
-                           : '  ' + JSON.stringify(s.cur || {}) + ' sc=' + (s.sc || 0)));
+      // Spell out what was found — a bare "{} sc=0" reads like nothing happened
+      // when it can mean memberships or gifts but no superchats.
+      let what = '(nothing monetary)';
+      if (s !== 0) {
+        const bits = [];
+        if (s.cur) bits.push(JSON.stringify(s.cur));
+        if (s.sc) bits.push('sc=' + s.sc);
+        for (const k of ['sticker', 'member', 'milestone', 'gift', 'recv'])
+          if (s[k]) bits.push(k + '=' + s[k]);
+        what = bits.join(' ');
+      }
+      console.log('    ✓ ' + v.id + '  ' + r.pages + ' pages  ' + what);
     }, expired);
 
     if (result.stopped) {
