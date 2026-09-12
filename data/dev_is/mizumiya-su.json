@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-12T06:18:47.120Z",
-  "videoCount": 1119,
+  "lastUpdated": "2026-09-12T08:07:27.989Z",
+  "videoCount": 1120,
   "videos": [
+    {
+      "id": "qflSo5lf8VA",
+      "title": "【手書き】庇えるかギリギリの化け物  #ホロライブ  #vtuber #animation",
+      "published": "2026-09-12T03:00:13.000Z",
+      "type": "short",
+      "duration": 18,
+      "status": "past"
+    },
     {
       "id": "sAsX1iOV2cw",
       "title": "【ホロドリ】ホロドリやるよ〜🎶練習配信#9【水宮枢/ホロライブ】",
@@ -17,7 +25,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-12T14:00:00Z"
+      "scheduledStart": "2026-09-12T14:00:00.000Z"
     },
     {
       "id": "KXZUftQgqKA",
@@ -1511,7 +1519,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
