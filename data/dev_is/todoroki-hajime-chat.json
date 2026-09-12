@@ -1,7 +1,7 @@
 {
   "channelId": "UC1iA6_NT4mtAcIII6ygrvCw",
   "channelName": "Todoroki Hajime",
-  "lastUpdated": "2026-09-12T20:06:40.004Z",
+  "lastUpdated": "2026-09-12T21:18:49.472Z",
   "streams": {
     "GoAvc5jXoX8": {
       "cur": {
@@ -498,7 +498,7 @@
     },
     "N1kL0qf_K9A": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "gjbj0gANTcs": {
       "cur": {
@@ -1308,8 +1308,13 @@
       "recv": 5
     },
     "db9_YJ5_rW4": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 6500
+      },
+      "sc": 9,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1
     },
     "1WR8iULjJNI": {
       "cur": {
@@ -1341,7 +1346,7 @@
     },
     "gEvluCmUyVE": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "KvLVovDf88Y": {
       "cur": {
@@ -1724,7 +1729,7 @@
     },
     "0dxgFMNnlUc": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "-yfM4-bPgX0": {
       "cur": {
@@ -2603,76 +2608,192 @@
       "recv": 25
     },
     "-sfZagzvVl0": {
-      "e": "http503",
-      "n": 1
+      "member": 7,
+      "milestone": 1,
+      "gift": 12,
+      "recv": 32
     },
     "OtLDBE1RoEo": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "NT$": 14250,
+        "¥": 75760,
+        "₩": 20000
+      },
+      "sc": 60,
+      "member": 13,
+      "milestone": 17,
+      "gift": 15,
+      "recv": 71
     },
     "kh_UEsCJ4oM": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 49720
+      },
+      "sc": 26,
+      "member": 12,
+      "milestone": 14,
+      "gift": 17,
+      "recv": 39
     },
     "WSkH-lYbPdM": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 19120,
+        "₩": 2000
+      },
+      "sc": 10,
+      "member": 13,
+      "milestone": 3,
+      "gift": 2,
+      "recv": 6
     },
     "EHQd5jiH42A": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 90216,
+        "₩": 10000,
+        "NT$": 3000,
+        "THB": 349,
+        "$": 2
+      },
+      "sc": 41,
+      "member": 8,
+      "milestone": 9,
+      "gift": 3,
+      "recv": 7
     },
     "Byg2M132uks": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 2200,
+        "NT$": 30
+      },
+      "sc": 4,
+      "member": 11,
+      "milestone": 2,
+      "gift": 5,
+      "recv": 8
     },
     "_byghWBFAPE": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 279820,
+        "NT$": 4530,
+        "₩": 20000,
+        "MYR": 15
+      },
+      "sc": 96,
+      "member": 24,
+      "milestone": 57,
+      "gift": 13,
+      "recv": 41
     },
     "bjD5rbzRaN4": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 2600
+      },
+      "sc": 2,
+      "member": 5,
+      "milestone": 2,
+      "gift": 3,
+      "recv": 9
     },
     "MgkrqH_XG4c": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 214733,
+        "₩": 108000,
+        "NT$": 3705,
+        "HK$": 100
+      },
+      "sc": 130,
+      "member": 20,
+      "milestone": 173,
+      "gift": 18,
+      "recv": 159
     },
     "TXUXj-m6hzI": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 59000,
+        "THB": 179,
+        "$": 5
+      },
+      "sc": 16,
+      "member": 3,
+      "gift": 1,
+      "recv": 2
     },
     "8IefSCRVZLw": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 12885,
+        "£": 4.99
+      },
+      "sc": 21,
+      "member": 8,
+      "milestone": 10,
+      "gift": 4,
+      "recv": 19
     },
     "9YfCICERGi0": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 18144
+      },
+      "sc": 16,
+      "member": 7,
+      "milestone": 6
     },
     "7D8cVqG1O30": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 8120,
+        "NT$": 1500
+      },
+      "sc": 8,
+      "member": 8
     },
     "n22bQTmTVas": {
-      "e": "http503",
-      "n": 1
+      "member": 4,
+      "milestone": 2,
+      "gift": 4,
+      "recv": 21
     },
     "W_9Nk0vkELg": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 27048,
+        "₩": 11111
+      },
+      "sc": 17,
+      "member": 7,
+      "milestone": 7,
+      "gift": 4,
+      "recv": 16
     },
     "TM2Cu-IGEgo": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 65233,
+        "NT$": 3000
+      },
+      "sc": 23,
+      "member": 13,
+      "milestone": 5,
+      "gift": 7,
+      "recv": 41
     },
     "N2IgCwTYMXA": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 37591,
+        "NT$": 170
+      },
+      "sc": 12,
+      "member": 5,
+      "milestone": 9,
+      "gift": 3,
+      "recv": 15
     },
     "g-R0WPKw4U0": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 26860,
+        "NT$": 4500
+      },
+      "sc": 13,
+      "member": 6,
+      "milestone": 4,
+      "gift": 6,
+      "recv": 39
     },
     "6bIvPqCY7jM": {
       "cur": {
@@ -3528,7 +3649,7 @@
     },
     "mhdK-lxUu7w": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "IVukJoRFYic": {
       "cur": {
@@ -3762,7 +3883,7 @@
     },
     "_40VsbvFKuk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "BNvLesIZb38": {
       "cur": {
@@ -4326,7 +4447,7 @@
     },
     "gbSh220lBag": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "uXBKVQ3t4pI": {
       "cur": {
@@ -4875,7 +4996,7 @@
     },
     "59BeLZnQw1M": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "BqrDgTSq0Oc": {
       "member": 9,
@@ -5190,7 +5311,7 @@
     },
     "4vmjQMq7YMo": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "I7RoZqCV_4c": {
       "cur": {

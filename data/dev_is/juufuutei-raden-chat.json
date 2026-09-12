@@ -1,7 +1,7 @@
 {
   "channelId": "UCdXAk5MpyLD8594lm_OvtGQ",
   "channelName": "Juufuutei Raden",
-  "lastUpdated": "2026-09-12T19:07:06.696Z",
+  "lastUpdated": "2026-09-12T21:15:50.620Z",
   "streams": {
     "UZjSpAI9oWA": {
       "member": 2,
@@ -106,7 +106,7 @@
     },
     "wg2BTTC0Mic": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "7-YhFSgO0GY": {
       "milestone": 7,
@@ -121,7 +121,7 @@
     },
     "MOP1SbJHM7A": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "h6TTIgm4ThA": {
       "member": 1
@@ -146,7 +146,7 @@
     },
     "8EqfY4iONac": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "_-pHFzBwKek": {
       "member": 4,
@@ -189,7 +189,7 @@
     },
     "oDblDZU3ads": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "7_nBgPQ93Zo": {
       "member": 1,
@@ -278,8 +278,10 @@
       "recv": 3
     },
     "Pjh4xsnzH68": {
-      "e": "http503",
-      "n": 1
+      "member": 2,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1
     },
     "Bj7PwrmTiXU": {
       "member": 1,
@@ -288,77 +290,111 @@
       "recv": 36
     },
     "1juU26jChug": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "¥": 1782746,
+        "HK$": 150,
+        "₩": 219000,
+        "NT$": 535,
+        "CA$": 25,
+        "$": 169.99,
+        "MYR": 6
+      },
+      "sc": 680,
+      "sticker": 12,
+      "member": 188,
+      "milestone": 545,
+      "gift": 86,
+      "recv": 783
     },
     "Z2n6Ctg96uE": {
-      "e": "http503",
-      "n": 1
+      "milestone": 16,
+      "gift": 5,
+      "recv": 12
     },
     "yz-D5d8o7SM": {
-      "e": "http503",
-      "n": 1
+      "member": 2,
+      "milestone": 5,
+      "gift": 1,
+      "recv": 20
     },
     "Q5YpoM3QxzQ": {
-      "e": "http503",
-      "n": 1
+      "milestone": 2
     },
     "hKbEdwKNzm8": {
-      "e": "http503",
-      "n": 1
+      "member": 4,
+      "milestone": 6,
+      "gift": 2,
+      "recv": 21
     },
     "IlPTs1niYrY": {
-      "e": "http503",
-      "n": 1
+      "member": 4,
+      "milestone": 12,
+      "gift": 4,
+      "recv": 22
     },
     "RYuEVKdB_bQ": {
-      "e": "http503",
-      "n": 1
+      "member": 1,
+      "milestone": 6,
+      "gift": 4,
+      "recv": 16
     },
     "3M1-aYv0O4I": {
-      "e": "http503",
-      "n": 1
+      "member": 3,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 10
     },
     "5EcMZiFpg1Q": {
-      "e": "http500",
-      "n": 1
+      "member": 2,
+      "milestone": 2,
+      "gift": 6,
+      "recv": 33
     },
     "WyPdWRhJ5P0": {
-      "e": "http503",
-      "n": 1
+      "member": 4,
+      "milestone": 11,
+      "gift": 2,
+      "recv": 30
     },
     "WE8NK0wBFwQ": {
-      "e": "http500",
-      "n": 1
+      "member": 7,
+      "milestone": 18,
+      "gift": 4,
+      "recv": 27
     },
     "H13ccxbdqGw": {
-      "e": "http500",
-      "n": 1
+      "milestone": 13,
+      "gift": 10,
+      "recv": 67
     },
     "MtLQPl_RKJs": {
-      "e": "http500",
-      "n": 1
+      "member": 3
     },
     "FVsgf9YmwpI": 0,
     "rlsTBFvaDj8": {
-      "e": "http500",
-      "n": 1
+      "member": 4,
+      "milestone": 3,
+      "gift": 2,
+      "recv": 20
     },
     "dIRLEtPFpJs": {
-      "e": "http500",
-      "n": 1
+      "member": 2
     },
     "Fm69J2EkgDk": {
-      "e": "http500",
-      "n": 1
+      "member": 2,
+      "milestone": 5
     },
     "bTU0lA9rbuE": {
-      "e": "http500",
-      "n": 1
+      "member": 1,
+      "milestone": 39,
+      "gift": 4,
+      "recv": 8
     },
     "52GK8wcS054": {
-      "e": "http500",
-      "n": 1
+      "member": 4,
+      "milestone": 8,
+      "gift": 1,
+      "recv": 1
     },
     "37VNssWwKsk": {
       "member": 2,
@@ -1347,7 +1383,7 @@
     },
     "KPlpIauPhDE": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "gcot8fNlkgk": {
       "member": 4,
@@ -1495,7 +1531,7 @@
     },
     "ff5BbAFKPnI": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "t1jFZhHzb5o": {
       "member": 14,
@@ -3618,7 +3654,7 @@
     },
     "qdncsGAGB0M": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "V3y0WVcTb2E": {
       "cur": {
@@ -3785,7 +3821,7 @@
     },
     "JKo4dix7-CI": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "ffQvZ-eAZT4": {
       "cur": {
