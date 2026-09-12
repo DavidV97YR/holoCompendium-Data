@@ -1,0 +1,79 @@
+name: Fetch Chat Data
+
+# Walks the live-chat replay of recently-finished streams and records
+# superchats, paid stickers, memberships, milestones and gift memberships into
+# {slug}-chat.json plus monthly log bundles under chat/{slug}/.
+#
+# Triggered externally by cron-job.org hitting the workflow_dispatch webhook —
+# same pattern as fetch-views.yml. Also runnable manually from the Actions tab.
+#
+# Runs on a ~1-2h cadence. The script looks back over a WINDOW_HOURS window
+# rather than only at what ended since the last run, because YouTube does not
+# publish a stream's chat replay the moment it ends. Streams already settled are
+# skipped, so the window is a retry net, not a reprocess loop — a typical run
+# only has the two or three streams that finished since last time.
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_hours:
+        description: 'How far back to look for unprocessed streams'
+        required: false
+        default: '36'
+      concurrency:
+        description: 'Streams walked in parallel'
+        required: false
+        default: '6'
+
+# Chat jobs must not overlap each other: both this and Backfill Chat Data write
+# the same {slug}-chat.json files, and a rebase between two in-flight runs just
+# means one side's work is dropped and redone later. Queueing is cheaper.
+# A run skipped while a long backfill holds the group is harmless — the 36h
+# window means the next run picks those streams up anyway.
+concurrency:
+  group: chat-write
+  cancel-in-progress: false
+
+jobs:
+  fetch-chat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch chat data (recent streams)
+        env:
+          MODE:         recent
+          WINDOW_HOURS: ${{ github.event.inputs.window_hours || '36' }}
+          CONCURRENCY:  ${{ github.event.inputs.concurrency || '6' }}
+          BUDGET_MIN:   '75'
+          DATA_DIR:     ./data
+        run: node scripts/fetch-chat.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "chat: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # -X ours: on a genuine content conflict, defer to whatever's already
+          # on origin rather than overwrite it. Chat data is idempotent — a
+          # stream whose entry gets dropped simply has no record in
+          # {slug}-chat.json, so the next run treats it as unprocessed and
+          # walks it again. Also stops the rebase ever deadlocking on an
+          # unresolved conflict, which plain retries couldn't recover from.
+          for i in $(seq 1 10); do
+            git pull --rebase -X ours origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 10
+          done
+          echo "push failed after 10 attempts" >&2; exit 1

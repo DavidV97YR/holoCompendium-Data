@@ -1,0 +1,81 @@
+name: Backfill Chat Data
+
+# Manual per-talent backfill of historical superchat / membership data.
+#
+# Pick a talent by sheet row, the same numbers Update Channel Data uses —
+# 74 is Isaki Riona, 78 is Kikirara Vivi. Ranges and lists work too
+# ('2-10', '2,5,74'), and 'all' walks every channel.
+#
+# A full talent is far more than one job can hold: at 6-way concurrency the
+# median talent needs a couple of hours and the largest (Hakui Koyori, 2,554
+# streams) needs several. So the script stops cleanly at BUDGET_MIN, commits
+# what it finished, and reports how many streams are left. Re-run with the same
+# row to continue — already-processed streams are skipped, so it picks up
+# exactly where it stopped.
+
+on:
+  workflow_dispatch:
+    inputs:
+      rows:
+        description: 'Sheet row(s) to backfill (e.g. 78, 74, 2-10, 2,5,74 or "all")'
+        required: true
+        default: '78'
+      concurrency:
+        description: 'Streams walked in parallel (raise only after a clean long run)'
+        required: false
+        default: '6'
+      budget_min:
+        description: 'Stop cleanly after this many minutes'
+        required: false
+        default: '300'
+
+# Shares a group with Fetch Chat Data so the two never write {slug}-chat.json
+# at the same time. A backfill holding the group for hours just means the
+# hourly run is skipped, which its 36h lookback window already covers.
+concurrency:
+  group: chat-write
+  cancel-in-progress: false
+
+jobs:
+  backfill-chat:
+    runs-on: ubuntu-latest
+    # Leave headroom over budget_min so the script always gets to finish its
+    # commit rather than being killed mid-write by the job timeout.
+    timeout-minutes: 355
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Backfill chat data
+        env:
+          MODE:        backfill
+          ROWS:        ${{ github.event.inputs.rows }}
+          CSV_URL:     ${{ secrets.CSV_URL }}
+          CONCURRENCY: ${{ github.event.inputs.concurrency || '6' }}
+          BUDGET_MIN:  ${{ github.event.inputs.budget_min || '300' }}
+          DATA_DIR:    ./data
+        run: node scripts/fetch-chat.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "chat backfill (rows ${{ github.event.inputs.rows }}): $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # -X ours, same reasoning as fetch-chat.yml: chat data is idempotent,
+          # so deferring to origin on a conflict costs a re-walk next run rather
+          # than corrupting anything.
+          for i in $(seq 1 15); do
+            git pull --rebase -X ours origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 15
+          done
+          echo "push failed after 15 attempts" >&2; exit 1
