@@ -274,6 +274,31 @@ async function walkChat(videoId) {
   return { log: log, pages: pages };
 }
 
+/**
+ * Walk a stream, retrying immediately on transient failures only.
+ *
+ * A dropped connection or a timeout clears in seconds, so retrying inside the
+ * run costs nothing and keeps it from burning one of the four across-run
+ * attempts on network noise. 'noreplay' is different — YouTube simply hasn't
+ * published the replay yet, and no amount of immediate retrying helps, so that
+ * one is left to wait for the next run.
+ */
+async function walkChatRetrying(videoId, tries) {
+  const n = tries || 3;
+  let last = null;
+  for (let i = 1; i <= n; i++) {
+    const r = await walkChat(videoId);
+    if (!r.aborted) return r;                       // success, or 'noreplay'
+    last = r;
+    if (r.aborted !== 'neterr' && r.aborted !== 'timeout') return r;
+    if (i < n) {
+      console.log('      ↻ ' + videoId + ' ' + r.aborted + ', retrying (' + i + '/' + (n - 1) + ')');
+      await new Promise(res => setTimeout(res, i * 2500));
+    }
+  }
+  return last;
+}
+
 /** Roll a log into the compact summary the Activity grid reads. */
 function summarise(log) {
   if (!log.length) return 0;
@@ -462,7 +487,7 @@ async function main() {
     let sinceFlush = 0;
 
     const result = await pool(candidates, concurrency, async (v) => {
-      const r = await walkChat(v.id);
+      const r = await walkChatRetrying(v.id, 3);
       changed = true;
       summary.streams++;
 
