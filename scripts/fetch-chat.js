@@ -175,11 +175,14 @@ async function replayToken(videoId) {
   let html;
   try { html = await r.res.text(); } catch (e) { return { err: 'neterr' }; }
 
-  // Separate the genuinely permanent cases from "couldn't see it this time".
-  // Members-only needs a login and an unplayable video is gone — no number of
-  // retries fixes either, and letting them burn attempts wastes whole walks.
-  if (/"status":"LOGIN_REQUIRED"/.test(html)) return { err: 'private' };
-  if (/"status":"(UNPLAYABLE|ERROR)"/.test(html)) return { err: 'gone' };
+  // NOTE: do NOT treat LOGIN_REQUIRED / UNPLAYABLE as permanent. YouTube serves
+  // datacenter IPs a "sign in to confirm you're not a bot" page carrying the
+  // exact same "status":"LOGIN_REQUIRED" markup as a genuine members-only
+  // video, so from CI the two are indistinguishable. Marking on that basis
+  // permanently mislabelled 13 public streams in one run. It's a property of
+  // the request, not of the video — always retryable.
+  if (/"status":"LOGIN_REQUIRED"/.test(html))          return { err: 'gated' };
+  if (/"status":"(UNPLAYABLE|ERROR)"/.test(html))      return { err: 'gated' };
 
   const m = html.match(/ytInitialData\s*=\s*(\{[\s\S]*?\});<\/script>/);
   if (!m) return { err: 'noreplay' };
@@ -201,10 +204,7 @@ async function replayToken(videoId) {
  */
 async function walkChat(videoId) {
   const tok = await replayToken(videoId);
-  if (tok.err) {
-    if (tok.err === 'private' || tok.err === 'gone') return { permanent: tok.err };
-    return { aborted: tok.err, pages: 0 };
-  }
+  if (tok.err) return { aborted: tok.err, pages: 0 };
   let cont = tok.token;
 
   const log = [];
@@ -292,14 +292,16 @@ async function walkChat(videoId) {
  * published the replay yet, and no amount of immediate retrying helps, so that
  * one is left to wait for the next run.
  */
-const TRANSIENT = ['neterr', 'timeout', 'noreplay'];
+// 'gated' is YouTube demanding a login — from a datacenter IP that usually means
+// bot-gating rather than a genuinely private video, so it retries like the rest.
+const TRANSIENT = ['neterr', 'timeout', 'noreplay', 'gated'];
 
 async function walkChatRetrying(videoId, tries) {
   const n = tries || 3;
   let last = null;
   for (let i = 1; i <= n; i++) {
     const r = await walkChat(videoId);
-    if (!r.aborted) return r;                       // success, or permanent
+    if (!r.aborted) return r;                       // success, or a clean empty walk
     last = r;
     // 'noreplay' is in here because it isn't only "not published yet" — under
     // load YouTube serves a watch page with the chat renderer stripped out,
@@ -442,7 +444,7 @@ async function main() {
   console.log('📂  ' + channelFiles.length + ' channel file(s) in ' + dataDir + '\n');
 
   const cutoff = Date.now() - windowHours * 3600 * 1000;
-  const summary = { streams: 0, withMoney: 0, unavailable: 0, permanent: 0, remaining: 0, channels: 0 };
+  const summary = { streams: 0, withMoney: 0, unavailable: 0, remaining: 0, channels: 0 };
   let ranOut = false;
 
   for (const filePath of channelFiles) {
@@ -471,8 +473,9 @@ async function main() {
       // stream whose replay wasn't ready, or that hit a network blip, heals
       // itself without needing the whole backfill re-run. They're rare (single
       // digits per talent), so this costs the hourly job almost nothing.
-      // An error entry with no `n` is permanent (members-only / unplayable).
-      if (prev && prev.e) return prev.n !== undefined && prev.n < maxAttempts;
+      // Entries written by the short-lived "permanent" logic have no `n`; treat
+      // them as attempt 0 so they rejoin the normal retry path.
+      if (prev && prev.e) return (prev.n || 0) < maxAttempts;
       if (mode === 'recent' && new Date(v.published).getTime() < cutoff) return false;
       return prev === undefined;                              // never tried
     });
@@ -505,14 +508,6 @@ async function main() {
       const r = await walkChatRetrying(v.id, 3);
       changed = true;
       summary.streams++;
-
-      if (r.permanent) {
-        done[v.id] = { e: r.permanent };       // no n → never retried
-        summary.permanent++;
-        console.log('    ⊘ ' + v.id + '  '
-                  + (r.permanent === 'private' ? 'members-only' : 'unplayable') + ' — permanent');
-        return;
-      }
 
       if (r.unavailable || r.aborted) {
         const prev = done[v.id];
@@ -568,7 +563,6 @@ async function main() {
   console.log('  Streams processed:  ' + summary.streams);
   console.log('  With money:         ' + summary.withMoney);
   console.log('  Replay unavailable: ' + summary.unavailable + '   (will retry)');
-  console.log('  Permanent:          ' + summary.permanent + '   (members-only / unplayable)');
   if (ranOut) {
     console.log('\n  ⏱  Time budget reached — ' + (summary.remaining || 'some') + ' stream(s) left.');
     console.log('     Re-run with the same settings to continue where this stopped.');
