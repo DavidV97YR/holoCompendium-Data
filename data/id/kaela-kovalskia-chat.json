@@ -29,7 +29,8 @@
       "member": 1,
       "milestone": 9,
       "gift": 2,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "loosu_Pgy30": {
       "cur": {
@@ -50,7 +51,8 @@
       "member": 15,
       "milestone": 57,
       "gift": 5,
-      "recv": 25
+      "recv": 25,
+      "sent": 25
     }
   }
 }

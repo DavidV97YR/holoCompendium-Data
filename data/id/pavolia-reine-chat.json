@@ -18,7 +18,8 @@
       "sc": 10,
       "milestone": 1,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "1XS0IwQQuAw": {
       "cur": {
@@ -53,7 +54,8 @@
       "member": 5,
       "milestone": 41,
       "gift": 29,
-      "recv": 106
+      "recv": 106,
+      "sent": 106
     }
   }
 }

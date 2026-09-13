@@ -12,7 +12,8 @@
       "sc": 10,
       "member": 5,
       "gift": 8,
-      "recv": 109
+      "recv": 109,
+      "sent": 115
     },
     "r_mGCHZ7-NM": {
       "cur": {
@@ -24,12 +25,14 @@
       "sc": 21,
       "member": 1,
       "gift": 11,
-      "recv": 103
+      "recv": 103,
+      "sent": 105
     },
     "4YCT8qfL820": {
       "member": 1,
       "gift": 15,
-      "recv": 131
+      "recv": 131,
+      "sent": 132
     }
   }
 }

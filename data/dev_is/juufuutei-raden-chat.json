@@ -7,7 +7,8 @@
       "member": 2,
       "milestone": 6,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 8
     },
     "x9JQN4hvjzI": {
       "milestone": 1
@@ -16,19 +17,22 @@
       "member": 2,
       "milestone": 3,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "9lx8GlofcjA": 0,
     "Upa7CvHAl5Y": {
       "member": 1,
       "milestone": 15,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "Ch_s7aIVHHo": {
       "milestone": 4,
       "gift": 4,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "s0w9IhtiLdE": {
       "member": 3,
@@ -37,59 +41,69 @@
     "VeI3s6C2Hss": {
       "member": 1,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "AvQlyDZvnh4": {
       "member": 2,
       "milestone": 1,
       "gift": 4,
-      "recv": 13
+      "recv": 13,
+      "sent": 13
     },
     "SEFSWp86qII": {
       "member": 1,
       "milestone": 1,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "HJB0-Xf_Vto": {
       "member": 2,
       "milestone": 1,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "Bygmt6vk6Jw": {
       "milestone": 2,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "xKvAt5YkBw4": {
       "member": 1,
       "milestone": 5,
       "gift": 3,
-      "recv": 25
+      "recv": 25,
+      "sent": 25
     },
     "Acbs1tKDQCw": {
       "member": 4,
       "milestone": 2,
       "gift": 4,
-      "recv": 81
+      "recv": 81,
+      "sent": 81
     },
     "aiPtAB66Eb4": {
       "member": 1,
       "gift": 1,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "Gk1DzbLPo30": {
       "member": 3,
       "milestone": 11,
       "gift": 3,
-      "recv": 26
+      "recv": 26,
+      "sent": 26
     },
     "rEU515ZQS4U": {
       "member": 4,
       "milestone": 4,
       "gift": 9,
-      "recv": 67
+      "recv": 67,
+      "sent": 67
     },
     "RMjNUNcCGmg": {
       "cur": {
@@ -102,7 +116,8 @@
       "member": 4,
       "milestone": 20,
       "gift": 8,
-      "recv": 105
+      "recv": 105,
+      "sent": 105
     },
     "wg2BTTC0Mic": {
       "e": "noreplay",
@@ -111,13 +126,15 @@
     "7-YhFSgO0GY": {
       "milestone": 7,
       "gift": 2,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "SnxEkGpNT9k": {
       "member": 3,
       "milestone": 3,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "MOP1SbJHM7A": {
       "e": "noreplay",
@@ -130,7 +147,8 @@
       "member": 2,
       "milestone": 3,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "aNMPSPZ42QU": {
       "member": 4,
@@ -142,7 +160,8 @@
     "WgRR2ERIHTA": {
       "milestone": 2,
       "gift": 37,
-      "recv": 89
+      "recv": 89,
+      "sent": 90
     },
     "8EqfY4iONac": {
       "e": "noreplay",
@@ -152,20 +171,23 @@
       "member": 4,
       "milestone": 8,
       "gift": 3,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "LMOVs4kogug": 0,
     "nMXf3tZpSUI": {
       "member": 3,
       "milestone": 28,
       "gift": 3,
-      "recv": 3
+      "recv": 3,
+      "sent": 3
     },
     "2SPSYjb-K7U": {
       "member": 1,
       "milestone": 4,
       "gift": 2,
-      "recv": 28
+      "recv": 28,
+      "sent": 30
     },
     "E7cbFrX0xMY": {
       "cur": {
@@ -181,7 +203,8 @@
       "member": 6,
       "milestone": 255,
       "gift": 14,
-      "recv": 72
+      "recv": 72,
+      "sent": 77
     },
     "HBT2gRTtV58": {
       "member": 2,
@@ -195,7 +218,8 @@
       "member": 1,
       "milestone": 4,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "NfeAcCcZHNU": {
       "member": 3,
@@ -209,85 +233,99 @@
       "member": 3,
       "milestone": 14,
       "gift": 3,
-      "recv": 41
+      "recv": 41,
+      "sent": 41
     },
     "-HcwjmLMBV0": {
       "member": 1,
       "milestone": 10,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "UihIB2stPzo": {
       "member": 2,
       "milestone": 1,
       "gift": 3,
-      "recv": 3
+      "recv": 3,
+      "sent": 3
     },
     "9eOxA0i09EA": {
       "member": 6,
       "milestone": 10,
       "gift": 18,
-      "recv": 150
+      "recv": 150,
+      "sent": 157
     },
     "xNJ4RISD_eA": {
       "member": 3,
       "milestone": 4,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "QKjFRMibegc": {
       "member": 1,
       "milestone": 54,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "k55r0hHXV8E": {
       "member": 12,
       "milestone": 8,
       "gift": 4,
-      "recv": 41
+      "recv": 41,
+      "sent": 41
     },
     "rLKcPcBtMB0": {
       "member": 4,
       "milestone": 8,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "llNKliW4QJI": {
       "member": 4,
       "milestone": 5,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "KtazmeK-qb4": {
       "member": 1,
       "milestone": 3,
       "gift": 3,
-      "recv": 3
+      "recv": 3,
+      "sent": 3
     },
     "SRtAaS7bCXw": {
       "member": 5,
       "milestone": 25,
       "gift": 7,
-      "recv": 46
+      "recv": 46,
+      "sent": 47
     },
     "Ywgr33dovHI": {
       "member": 2,
       "milestone": 2,
       "gift": 3,
-      "recv": 3
+      "recv": 3,
+      "sent": 3
     },
     "Pjh4xsnzH68": {
       "member": 2,
       "milestone": 1,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "Bj7PwrmTiXU": {
       "member": 1,
       "milestone": 12,
       "gift": 4,
-      "recv": 36
+      "recv": 36,
+      "sent": 36
     },
     "1juU26jChug": {
       "cur": {
@@ -304,18 +342,21 @@
       "member": 188,
       "milestone": 545,
       "gift": 86,
-      "recv": 783
+      "recv": 783,
+      "sent": 844
     },
     "Z2n6Ctg96uE": {
       "milestone": 16,
       "gift": 5,
-      "recv": 12
+      "recv": 12,
+      "sent": 18
     },
     "yz-D5d8o7SM": {
       "member": 2,
       "milestone": 5,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "Q5YpoM3QxzQ": {
       "milestone": 2
@@ -324,48 +365,56 @@
       "member": 4,
       "milestone": 6,
       "gift": 2,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "IlPTs1niYrY": {
       "member": 4,
       "milestone": 12,
       "gift": 4,
-      "recv": 22
+      "recv": 22,
+      "sent": 42
     },
     "RYuEVKdB_bQ": {
       "member": 1,
       "milestone": 6,
       "gift": 4,
-      "recv": 16
+      "recv": 16,
+      "sent": 17
     },
     "3M1-aYv0O4I": {
       "member": 3,
       "milestone": 1,
       "gift": 1,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "5EcMZiFpg1Q": {
       "member": 2,
       "milestone": 2,
       "gift": 6,
-      "recv": 33
+      "recv": 33,
+      "sent": 33
     },
     "WyPdWRhJ5P0": {
       "member": 4,
       "milestone": 11,
       "gift": 2,
-      "recv": 30
+      "recv": 30,
+      "sent": 30
     },
     "WE8NK0wBFwQ": {
       "member": 7,
       "milestone": 18,
       "gift": 4,
-      "recv": 27
+      "recv": 27,
+      "sent": 27
     },
     "H13ccxbdqGw": {
       "milestone": 13,
       "gift": 10,
-      "recv": 67
+      "recv": 67,
+      "sent": 77
     },
     "MtLQPl_RKJs": {
       "member": 3
@@ -375,7 +424,8 @@
       "member": 4,
       "milestone": 3,
       "gift": 2,
-      "recv": 20
+      "recv": 20,
+      "sent": 21
     },
     "dIRLEtPFpJs": {
       "member": 2
@@ -388,19 +438,22 @@
       "member": 1,
       "milestone": 39,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 8
     },
     "52GK8wcS054": {
       "member": 4,
       "milestone": 8,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "37VNssWwKsk": {
       "member": 2,
       "milestone": 5,
       "gift": 6,
-      "recv": 56
+      "recv": 56,
+      "sent": 61
     },
     "s1atiQ6yU6k": {
       "member": 2,
@@ -417,30 +470,35 @@
       "member": 4,
       "milestone": 4,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "nQNdYKp1Vss": {
       "member": 5,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "d0VC_G8japI": {
       "member": 4,
       "milestone": 4,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "_uXStHdpPqI": {
       "member": 1,
       "milestone": 3,
       "gift": 5,
-      "recv": 37
+      "recv": 37,
+      "sent": 37
     },
     "WVJdAeEmL0w": {
       "member": 9,
       "milestone": 17,
       "gift": 2,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "mGyRoV9hWv8": {
       "member": 3,
@@ -454,32 +512,37 @@
       "member": 3,
       "milestone": 6,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "fKPsCch3nII": {
       "member": 10,
       "milestone": 7,
       "gift": 1,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "OqkEWHWRlRw": {
       "member": 4,
       "milestone": 17,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "_dyS2bbGpLg": {
       "member": 4,
       "milestone": 8,
       "gift": 5,
-      "recv": 9
+      "recv": 9,
+      "sent": 9
     },
     "ki7VuUm4KEw": 0,
     "83N1pKJQeBY": {
       "member": 5,
       "milestone": 3,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "F3KMzBINUYw": {
       "member": 4,
@@ -493,13 +556,15 @@
       "member": 4,
       "milestone": 4,
       "gift": 4,
-      "recv": 4
+      "recv": 4,
+      "sent": 4
     },
     "qv40_p0yWSM": {
       "member": 2,
       "milestone": 18,
       "gift": 2,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "wgt6yQvf3lc": {
       "milestone": 1
@@ -508,7 +573,8 @@
       "member": 6,
       "milestone": 59,
       "gift": 10,
-      "recv": 79
+      "recv": 79,
+      "sent": 79
     },
     "XHg56HHisCc": {
       "member": 4,
@@ -518,7 +584,8 @@
       "member": 7,
       "milestone": 12,
       "gift": 3,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "ZUm7EfRAoRQ": {
       "member": 2
@@ -527,19 +594,22 @@
       "member": 6,
       "milestone": 10,
       "gift": 3,
-      "recv": 30
+      "recv": 30,
+      "sent": 30
     },
     "chtU-0JTipU": {
       "member": 11,
       "milestone": 70,
       "gift": 6,
-      "recv": 19
+      "recv": 19,
+      "sent": 19
     },
     "Jx6RpoMWH4c": {
       "member": 4,
       "milestone": 8,
       "gift": 5,
-      "recv": 24
+      "recv": 24,
+      "sent": 24
     },
     "LOk0ZDyEYzA": {
       "member": 2
@@ -548,12 +618,14 @@
       "member": 6,
       "milestone": 5,
       "gift": 2,
-      "recv": 25
+      "recv": 25,
+      "sent": 25
     },
     "RfH_nDFkRtc": {
       "milestone": 2,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "pI51gcf80h0": {
       "member": 3,
@@ -563,31 +635,36 @@
       "member": 7,
       "milestone": 28,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "6tH0Vww-x2U": {
       "member": 6,
       "milestone": 53,
       "gift": 2,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "5_VcQioPBgc": {
       "member": 9,
       "milestone": 10,
       "gift": 6,
-      "recv": 32
+      "recv": 32,
+      "sent": 33
     },
     "FZTp5LrH2kM": {
       "member": 2,
       "milestone": 10,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "qwocJH3uUZs": {
       "member": 3,
       "milestone": 1,
       "gift": 6,
-      "recv": 45
+      "recv": 45,
+      "sent": 51
     },
     "QRSHemgVKj8": {
       "member": 1,
@@ -597,13 +674,15 @@
       "member": 5,
       "milestone": 6,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "hm3dbxWT07I": {
       "member": 3,
       "milestone": 9,
       "gift": 3,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "2pdO8HZQ7WU": {
       "cur": {
@@ -620,19 +699,22 @@
       "member": 24,
       "milestone": 367,
       "gift": 21,
-      "recv": 205
+      "recv": 205,
+      "sent": 205
     },
     "com6ipmqvJM": {
       "member": 7,
       "milestone": 4,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "LEDR_vHUbtY": {
       "member": 5,
       "milestone": 6,
       "gift": 4,
-      "recv": 45
+      "recv": 45,
+      "sent": 45
     },
     "WJYl5410_iE": {
       "member": 2,
@@ -656,60 +738,70 @@
       "member": 34,
       "milestone": 272,
       "gift": 44,
-      "recv": 525
+      "recv": 525,
+      "sent": 564
     },
     "i3fhlegZ79U": {
       "member": 20,
       "milestone": 270,
       "gift": 24,
-      "recv": 150
+      "recv": 150,
+      "sent": 146
     },
     "SXJej65lbUM": {
       "member": 2,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "KI42-csKR20": {
       "member": 13,
       "milestone": 15,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "DTMy3E4VV2U": {
       "member": 5,
       "milestone": 8,
       "gift": 1,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "Z8iuEgKx8Ro": {
       "member": 34,
       "milestone": 48,
       "gift": 31,
-      "recv": 169
+      "recv": 169,
+      "sent": 171
     },
     "5UQUZzGaY6c": {
       "member": 7,
       "milestone": 13,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "wSF4QODdZnk": {
       "member": 14,
       "milestone": 12,
       "gift": 2,
-      "recv": 40
+      "recv": 40,
+      "sent": 40
     },
     "4m5r2W5lCB4": {
       "member": 13,
       "milestone": 94,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "kkYm42AFys4": {
       "member": 6,
       "milestone": 2,
       "gift": 2,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "4oP6qbSVkm0": {
       "member": 2,
@@ -719,13 +811,15 @@
       "member": 14,
       "milestone": 39,
       "gift": 7,
-      "recv": 27
+      "recv": 27,
+      "sent": 27
     },
     "B30gDTfyYmE": {
       "member": 5,
       "milestone": 14,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "fmXif2C07mQ": {
       "member": 4,
@@ -735,7 +829,8 @@
       "member": 3,
       "milestone": 5,
       "gift": 4,
-      "recv": 27
+      "recv": 27,
+      "sent": 27
     },
     "uN9donqrA-A": {
       "member": 2,
@@ -745,31 +840,36 @@
       "member": 12,
       "milestone": 12,
       "gift": 22,
-      "recv": 84
+      "recv": 84,
+      "sent": 85
     },
     "iVvx9bXYPog": {
       "member": 3,
       "milestone": 11,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "YfNas4lWccc": {
       "member": 5,
       "milestone": 19,
       "gift": 18,
-      "recv": 47
+      "recv": 47,
+      "sent": 122
     },
     "WV0qsvA9zS4": {
       "member": 6,
       "milestone": 4,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "4uO4iftvGt0": {
       "member": 9,
       "milestone": 14,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "44iqeF4sAww": {
       "member": 6,
@@ -792,61 +892,71 @@
       "member": 22,
       "milestone": 202,
       "gift": 21,
-      "recv": 187
+      "recv": 187,
+      "sent": 187
     },
     "gepBbQyyPNM": {
       "member": 3,
       "milestone": 2,
       "gift": 2,
-      "recv": 10
+      "recv": 10,
+      "sent": 20
     },
     "rXwTIUvSi0Y": {
       "member": 12,
       "milestone": 82,
       "gift": 8,
-      "recv": 29
+      "recv": 29,
+      "sent": 29
     },
     "mD8X3Rxsy2A": {
       "member": 2,
       "milestone": 26,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 8
     },
     "l3JhV4Kkdu8": {
       "member": 6,
       "milestone": 16,
       "gift": 4,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "kg50chW83w0": {
       "member": 1,
       "milestone": 7,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "ZQjGUmGz-Jo": {
       "member": 3,
       "milestone": 19,
       "gift": 1,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "SbbUetz5IpE": {
       "member": 3,
       "milestone": 9,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "NyyVqmEVWjA": {
       "member": 10,
       "milestone": 22,
       "gift": 8,
-      "recv": 28
+      "recv": 28,
+      "sent": 28
     },
     "GQ5toNItpRY": {
       "member": 19,
       "milestone": 142,
       "gift": 65,
-      "recv": 569
+      "recv": 569,
+      "sent": 590
     },
     "aka9RlH8624": {
       "member": 3,
@@ -856,43 +966,50 @@
       "member": 8,
       "milestone": 10,
       "gift": 4,
-      "recv": 52
+      "recv": 52,
+      "sent": 53
     },
     "wR_4skKddxo": {
       "member": 1,
       "milestone": 2,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "KkyhuVmNJVI": {
       "member": 3,
       "milestone": 10,
       "gift": 4,
-      "recv": 4
+      "recv": 4,
+      "sent": 4
     },
     "xHAPmf2Aqo0": {
       "member": 1,
       "milestone": 21,
       "gift": 4,
-      "recv": 31
+      "recv": 31,
+      "sent": 31
     },
     "0VD4fKHhQJA": {
       "member": 4,
       "milestone": 5,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "DCGc4RXhXdw": {
       "member": 6,
       "milestone": 17,
       "gift": 7,
-      "recv": 36
+      "recv": 36,
+      "sent": 46
     },
     "nJcGBOMyad8": {
       "member": 4,
       "milestone": 17,
       "gift": 3,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "oq_Qsdbf4bI": {
       "cur": {
@@ -904,79 +1021,92 @@
       "member": 1,
       "milestone": 6,
       "gift": 1,
-      "recv": 2
+      "recv": 2,
+      "sent": 20
     },
     "v4USQPJLHOE": {
       "member": 10,
       "milestone": 19,
       "gift": 3,
-      "recv": 7
+      "recv": 7,
+      "sent": 7
     },
     "iEWnI41sqOo": {
       "member": 9,
       "milestone": 30,
       "gift": 9,
-      "recv": 49
+      "recv": 49,
+      "sent": 50
     },
     "vPzmubkpSAo": {
       "member": 4,
       "milestone": 4,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "Eia9toluYII": {
       "member": 68,
       "milestone": 51,
       "gift": 25,
-      "recv": 92
+      "recv": 92,
+      "sent": 98
     },
     "ZAxrI5eD3LU": {
       "member": 3,
       "milestone": 2,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "RWtq3sIYOqw": {
       "member": 3,
       "milestone": 8,
       "gift": 3,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "16BVLzOIS-Y": {
       "member": 2,
       "milestone": 5,
       "gift": 3,
-      "recv": 60
+      "recv": 60,
+      "sent": 61
     },
     "y4DnVJlYKDM": {
       "member": 18,
       "milestone": 308,
       "gift": 14,
-      "recv": 55
+      "recv": 55,
+      "sent": 56
     },
     "Mupgsfqi_Do": {
       "member": 7,
       "milestone": 15,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "5bkZxiH-3R8": {
       "member": 1,
       "milestone": 4,
       "gift": 8,
-      "recv": 17
+      "recv": 17,
+      "sent": 24
     },
     "59YtOUvBCP4": {
       "member": 6,
       "milestone": 22,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "os7bRE3QIgw": {
       "member": 5,
       "milestone": 10,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "YpxjbTipgjw": {
       "member": 5,
@@ -986,96 +1116,112 @@
       "member": 3,
       "milestone": 5,
       "gift": 4,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "8qdLr634UlQ": {
       "member": 4,
       "milestone": 3,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "2pC1VsK8AMk": {
       "member": 8,
       "milestone": 8,
       "gift": 4,
-      "recv": 14
+      "recv": 14,
+      "sent": 16
     },
     "5rDyDDVbYq8": {
       "member": 3,
       "milestone": 4,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "Z2zCW1BaFM8": {
       "member": 19,
       "milestone": 54,
       "gift": 7,
-      "recv": 29
+      "recv": 29,
+      "sent": 30
     },
     "VU-xzkLSvmI": {
       "member": 6,
       "milestone": 4,
       "gift": 5,
-      "recv": 32
+      "recv": 32,
+      "sent": 32
     },
     "jrO3dKGeRIY": {
       "member": 6,
       "milestone": 11,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "8Ay7rUX3LyA": {
       "member": 6,
       "milestone": 13,
-      "gift": 1
+      "gift": 1,
+      "sent": 1
     },
     "cLZXcIV9PdI": {
       "member": 8,
       "milestone": 117,
       "gift": 25,
-      "recv": 48
+      "recv": 48,
+      "sent": 193
     },
     "YLu9IxlS_bM": {
       "member": 4,
       "milestone": 23,
       "gift": 4,
-      "recv": 26
+      "recv": 26,
+      "sent": 30
     },
     "Yt3z4q4nr0U": {
       "member": 7,
       "milestone": 3,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "M1I0hjTsvzc": {
       "member": 5,
       "milestone": 28,
       "gift": 6,
-      "recv": 107
+      "recv": 107,
+      "sent": 113
     },
     "o1GmUPWzcCs": {
       "member": 4,
       "milestone": 9,
       "gift": 4,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "ato27clLL0U": {
       "member": 6,
       "milestone": 18,
       "gift": 13,
-      "recv": 35
+      "recv": 35,
+      "sent": 78
     },
     "9A4Coho9wTE": {
       "member": 6,
       "milestone": 12,
       "gift": 2,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "71ET4ZuioVY": {
       "member": 13,
       "milestone": 9,
       "gift": 4,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "njqBL-eFGxU": {
       "cur": {
@@ -1090,60 +1236,70 @@
       "member": 17,
       "milestone": 60,
       "gift": 14,
-      "recv": 164
+      "recv": 164,
+      "sent": 167
     },
     "vLFYtalyX4k": {
       "member": 1,
       "milestone": 2,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "P0YWWyeUTII": {
       "member": 3,
       "milestone": 7,
       "gift": 6,
-      "recv": 17
+      "recv": 17,
+      "sent": 22
     },
     "h-n-7cdk_0g": {
       "member": 5,
       "milestone": 9,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "jJoHgBilHX0": {
       "member": 7,
       "milestone": 17,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "jXE0F8KxksA": {
       "member": 10,
       "milestone": 29,
       "gift": 3,
-      "recv": 20
+      "recv": 20,
+      "sent": 20
     },
     "X6YSmdxE51s": {
       "member": 10,
       "milestone": 5,
       "gift": 7,
-      "recv": 57
+      "recv": 57,
+      "sent": 65
     },
     "UIopUGakcDg": {
       "member": 3,
       "milestone": 9,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "qE6whyFeJB4": {
       "member": 5,
       "milestone": 15,
-      "gift": 1
+      "gift": 1,
+      "sent": 1
     },
     "v5gBFhyO1GE": {
       "member": 2,
       "milestone": 27,
       "gift": 4,
-      "recv": 23
+      "recv": 23,
+      "sent": 25
     },
     "qRGsPDtiUK0": {
       "cur": {
@@ -1158,7 +1314,8 @@
       "member": 5,
       "milestone": 20,
       "gift": 4,
-      "recv": 17
+      "recv": 17,
+      "sent": 17
     },
     "q0rrt03iMYE": {
       "member": 4,
@@ -1168,25 +1325,29 @@
       "member": 11,
       "milestone": 41,
       "gift": 8,
-      "recv": 85
+      "recv": 85,
+      "sent": 88
     },
     "-cmgmLDtLK8": {
       "member": 11,
       "milestone": 10,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "ZvMdhuw3g4g": {
       "member": 6,
       "milestone": 15,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "MKtDrfqHKiU": {
       "member": 10,
       "milestone": 44,
       "gift": 2,
-      "recv": 55
+      "recv": 55,
+      "sent": 55
     },
     "EvZABGLM2ts": {
       "member": 7,
@@ -1196,13 +1357,15 @@
       "member": 7,
       "milestone": 20,
       "gift": 4,
-      "recv": 35
+      "recv": 35,
+      "sent": 36
     },
     "M1rA0xbmQnU": {
       "member": 3,
       "milestone": 15,
       "gift": 13,
-      "recv": 56
+      "recv": 56,
+      "sent": 68
     },
     "uigdnpzFMDQ": {
       "cur": {
@@ -1219,36 +1382,42 @@
       "member": 8,
       "milestone": 58,
       "gift": 12,
-      "recv": 51
+      "recv": 51,
+      "sent": 60
     },
     "RahcEt4wIR4": {
       "member": 5,
       "milestone": 13,
       "gift": 3,
-      "recv": 16
+      "recv": 16,
+      "sent": 22
     },
     "Vmh75LYviJY": {
       "member": 5,
       "milestone": 4,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "jOkvvpmP5p4": {
       "member": 4,
       "milestone": 22,
       "gift": 5,
-      "recv": 25
+      "recv": 25,
+      "sent": 25
     },
     "LyHF3GPqJfU": {
       "milestone": 4,
       "gift": 2,
-      "recv": 25
+      "recv": 25,
+      "sent": 25
     },
     "sDCzRv51VFo": {
       "member": 6,
       "milestone": 5,
       "gift": 4,
-      "recv": 36
+      "recv": 36,
+      "sent": 36
     },
     "n_cDItJdI6Y": {
       "member": 8,
@@ -1258,13 +1427,15 @@
       "member": 6,
       "milestone": 17,
       "gift": 5,
-      "recv": 13
+      "recv": 13,
+      "sent": 23
     },
     "ueT5xYzgrgA": {
       "member": 9,
       "milestone": 12,
       "gift": 3,
-      "recv": 7
+      "recv": 7,
+      "sent": 7
     },
     "ohw1IH1kH3M": {
       "member": 3,
@@ -1274,13 +1445,15 @@
       "member": 3,
       "milestone": 13,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "jggI8zQpHzQ": {
       "member": 12,
       "milestone": 39,
       "gift": 11,
-      "recv": 79
+      "recv": 79,
+      "sent": 89
     },
     "B0fSMDTZcpM": {
       "member": 3
@@ -1289,97 +1462,113 @@
       "member": 3,
       "milestone": 25,
       "gift": 8,
-      "recv": 56
+      "recv": 56,
+      "sent": 58
     },
     "jUg4bAJ5hSQ": {
       "member": 6,
       "milestone": 7,
       "gift": 1,
-      "recv": 9
+      "recv": 9,
+      "sent": 10
     },
     "-Dx9RW97Z0M": {
       "member": 15,
       "milestone": 7,
       "gift": 6,
-      "recv": 26
+      "recv": 26,
+      "sent": 27
     },
     "V9GzmnYMU4A": {
       "member": 10,
       "milestone": 43,
       "gift": 9,
-      "recv": 29
+      "recv": 29,
+      "sent": 40
     },
     "NVu3PVZQ2fw": {
       "member": 7,
       "milestone": 15,
       "gift": 1,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "CbSxG6Nn7dw": {
       "member": 5,
       "milestone": 32,
       "gift": 2,
-      "recv": 5
+      "recv": 5,
+      "sent": 6
     },
     "uTOLWlsDbuc": {
       "member": 2,
       "milestone": 6,
       "gift": 2,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "2r66eL_c3KU": {
       "member": 4,
       "milestone": 3,
       "gift": 4,
-      "recv": 13
+      "recv": 13,
+      "sent": 13
     },
     "lRGl7mVpbT0": {
       "member": 5,
       "milestone": 15,
       "gift": 7,
-      "recv": 28
+      "recv": 28,
+      "sent": 43
     },
     "RnV6r9QiFu4": {
       "member": 13,
       "milestone": 18,
       "gift": 43,
-      "recv": 177
+      "recv": 177,
+      "sent": 227
     },
     "wezT6CPLE38": {
       "member": 9,
       "milestone": 5,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "La5pY2KSPJY": {
       "member": 9,
       "milestone": 12,
       "gift": 6,
-      "recv": 29
+      "recv": 29,
+      "sent": 29
     },
     "bZVe7mX4_Ig": {
       "member": 1,
       "milestone": 4,
       "gift": 5,
-      "recv": 21
+      "recv": 21,
+      "sent": 22
     },
     "esdClApzQlo": {
       "member": 3,
       "milestone": 12,
       "gift": 3,
-      "recv": 7
+      "recv": 7,
+      "sent": 7
     },
     "kYDSLjsV92k": {
       "member": 4,
       "milestone": 17,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "D5Kq95E9ZOU": {
       "member": 5,
       "milestone": 24,
       "gift": 3,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "KPlpIauPhDE": {
       "e": "noreplay",
@@ -1389,130 +1578,152 @@
       "member": 4,
       "milestone": 3,
       "gift": 11,
-      "recv": 42
+      "recv": 42,
+      "sent": 44
     },
     "7wMNtUkaqM0": {
       "member": 10,
       "milestone": 34,
       "gift": 28,
-      "recv": 85
+      "recv": 85,
+      "sent": 135
     },
     "ea5DlfdmBww": {
       "member": 8,
       "milestone": 7,
       "gift": 7,
-      "recv": 29
+      "recv": 29,
+      "sent": 34
     },
     "WjDx0Q2v470": {
       "member": 8,
       "milestone": 140,
       "gift": 19,
-      "recv": 67
+      "recv": 67,
+      "sent": 67
     },
     "VfWkuYC2_Gs": {
       "member": 7,
       "milestone": 56,
       "gift": 10,
-      "recv": 112
+      "recv": 112,
+      "sent": 121
     },
     "2QepfYeh-lQ": {
       "member": 3,
       "milestone": 7,
       "gift": 7,
-      "recv": 54
+      "recv": 54,
+      "sent": 54
     },
     "jDTIzYrN35M": {
       "member": 11,
       "milestone": 12,
       "gift": 3,
-      "recv": 1
+      "recv": 1,
+      "sent": 3
     },
     "kIHaNtlmQd0": {
       "member": 6,
       "milestone": 49,
       "gift": 12,
-      "recv": 40
+      "recv": 40,
+      "sent": 51
     },
     "hwQYV7mQbwc": {
       "member": 12,
       "milestone": 5,
       "gift": 9,
-      "recv": 42
+      "recv": 42,
+      "sent": 62
     },
     "e7Juz39oJIM": {
       "member": 18,
       "milestone": 5,
       "gift": 8,
-      "recv": 7
+      "recv": 7,
+      "sent": 8
     },
     "p9ClZiedmW0": {
       "member": 8,
       "milestone": 4,
       "gift": 8,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "Sv2lm92jij0": {
       "member": 15,
       "milestone": 91,
       "gift": 12,
-      "recv": 51
+      "recv": 51,
+      "sent": 55
     },
     "WIXIK9r2vkA": {
       "member": 7,
       "milestone": 48,
       "gift": 4,
-      "recv": 3
+      "recv": 3,
+      "sent": 13
     },
     "AeQ0Zq92emE": {
       "member": 8,
       "milestone": 10,
       "gift": 3,
-      "recv": 9
+      "recv": 9,
+      "sent": 11
     },
     "ONpGmC5hOG8": {
       "member": 11,
       "milestone": 5,
       "gift": 4,
-      "recv": 51
+      "recv": 51,
+      "sent": 66
     },
     "gWo7tfVcM7Q": {
       "member": 23,
       "milestone": 28,
       "gift": 8,
-      "recv": 17
+      "recv": 17,
+      "sent": 17
     },
     "VE1kFywp8v0": {
       "member": 19,
       "milestone": 24,
       "gift": 9,
-      "recv": 71
+      "recv": 71,
+      "sent": 71
     },
     "LVbcsDVDags": {
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "w3Hgye_QcTM": {
       "member": 11,
       "milestone": 48,
       "gift": 16,
-      "recv": 45
+      "recv": 45,
+      "sent": 120
     },
     "XoHPk1Lqahc": {
       "member": 13,
       "milestone": 36,
       "gift": 13,
-      "recv": 38
+      "recv": 38,
+      "sent": 42
     },
     "LZN5OlooYRI": {
       "member": 32,
       "milestone": 127,
       "gift": 41,
-      "recv": 126
+      "recv": 126,
+      "sent": 270
     },
     "hT-zzdxC1b8": {
       "member": 11,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "JeqKzVxhfh8": {
       "member": 2
@@ -1521,13 +1732,15 @@
       "member": 9,
       "milestone": 7,
       "gift": 6,
-      "recv": 19
+      "recv": 19,
+      "sent": 29
     },
     "nhlGtNfNC90": {
       "member": 12,
       "milestone": 42,
       "gift": 11,
-      "recv": 46
+      "recv": 46,
+      "sent": 58
     },
     "ff5BbAFKPnI": {
       "e": "noreplay",
@@ -1537,90 +1750,105 @@
       "member": 14,
       "milestone": 14,
       "gift": 14,
-      "recv": 102
+      "recv": 102,
+      "sent": 124
     },
     "7-uAwZUUI2o": {
       "member": 16,
       "milestone": 38,
       "gift": 14,
-      "recv": 32
+      "recv": 32,
+      "sent": 79
     },
     "zhg6XY8HYZw": {
       "member": 7,
       "milestone": 4,
       "gift": 1,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "myOK-31P3ko": {
       "member": 4,
       "gift": 2,
-      "recv": 1
+      "recv": 1,
+      "sent": 6
     },
     "Rqq1S301ydE": {
       "member": 3,
       "milestone": 2,
       "gift": 4,
-      "recv": 11
+      "recv": 11,
+      "sent": 16
     },
     "aL0Qw9ZlrqU": {
       "member": 5,
       "milestone": 4,
       "gift": 6,
-      "recv": 27
+      "recv": 27,
+      "sent": 27
     },
     "B8oAzYNheuQ": {
       "member": 8,
       "milestone": 52,
       "gift": 6,
-      "recv": 23
+      "recv": 23,
+      "sent": 23
     },
     "8YOcw9SMZHw": {
       "member": 10,
       "milestone": 3,
       "gift": 15,
-      "recv": 84
+      "recv": 84,
+      "sent": 85
     },
     "GzfOVWWkv9c": {
       "member": 7,
       "milestone": 7,
       "gift": 18,
-      "recv": 100
+      "recv": 100,
+      "sent": 113
     },
     "Ysq7W8mzM8g": {
       "member": 10,
       "milestone": 7,
       "gift": 6,
-      "recv": 17
+      "recv": 17,
+      "sent": 23
     },
     "jTigAFChp7E": {
       "member": 4,
       "milestone": 8,
       "gift": 5,
-      "recv": 21
+      "recv": 21,
+      "sent": 26
     },
     "DQ4vRSTrO8Q": {
       "member": 20,
       "milestone": 34,
       "gift": 18,
-      "recv": 116
+      "recv": 116,
+      "sent": 119
     },
     "hZh5Mq3lxl8": {
       "member": 13,
       "milestone": 6,
       "gift": 7,
-      "recv": 15
+      "recv": 15,
+      "sent": 20
     },
     "ydqdcQ5vYhU": {
       "member": 4,
       "milestone": 3,
       "gift": 3,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "Juel0d844SA": {
       "member": 4,
       "milestone": 3,
       "gift": 3,
-      "recv": 21
+      "recv": 21,
+      "sent": 26
     },
     "VvUY_K0Pn3M": {
       "cur": {
@@ -1633,7 +1861,8 @@
       "member": 1,
       "milestone": 2,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "f5QgEZjH53Y": {
       "cur": {
@@ -1654,31 +1883,36 @@
       "member": 559,
       "milestone": 995,
       "gift": 183,
-      "recv": 91
+      "recv": 91,
+      "sent": 1297
     },
     "oCEucIhcvTY": {
       "member": 1,
       "milestone": 3,
       "gift": 3,
-      "recv": 5
+      "recv": 5,
+      "sent": 7
     },
     "uW0bzbSD0Pw": {
       "member": 22,
       "milestone": 112,
       "gift": 11,
-      "recv": 31
+      "recv": 31,
+      "sent": 51
     },
     "E-Z_GoLOuEw": {
       "member": 6,
       "milestone": 7,
       "gift": 8,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "zfCwB4xV400": {
       "member": 3,
       "milestone": 11,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "29GoHnaYGLw": {
       "cur": {
@@ -1704,7 +1938,8 @@
       "member": 145,
       "milestone": 943,
       "gift": 82,
-      "recv": 196
+      "recv": 196,
+      "sent": 634
     },
     "uSeJO-Rr7t0": {
       "cur": {
@@ -1719,25 +1954,29 @@
       "member": 7,
       "milestone": 4,
       "gift": 5,
-      "recv": 7
+      "recv": 7,
+      "sent": 9
     },
     "aHqljcTYVSA": {
       "member": 7,
       "milestone": 3,
       "gift": 4,
-      "recv": 6
+      "recv": 6,
+      "sent": 12
     },
     "hHwXbWW5aDU": {
       "member": 10,
       "milestone": 22,
       "gift": 5,
-      "recv": 12
+      "recv": 12,
+      "sent": 17
     },
     "BEMNcpYfGKw": {
       "member": 12,
       "milestone": 7,
       "gift": 5,
-      "recv": 9
+      "recv": 9,
+      "sent": 9
     },
     "4yKo5SpPKM0": {
       "cur": {
@@ -1756,101 +1995,118 @@
       "member": 28,
       "milestone": 366,
       "gift": 10,
-      "recv": 62
+      "recv": 62,
+      "sent": 89
     },
     "a0C_LAy82og": {
       "member": 12,
       "milestone": 23,
       "gift": 10,
-      "recv": 30
+      "recv": 30,
+      "sent": 54
     },
     "puZQSH-X0wc": {
       "member": 28,
       "milestone": 19,
       "gift": 24,
-      "recv": 43
+      "recv": 43,
+      "sent": 44
     },
     "StUxzq-jMkg": {
       "member": 16,
       "milestone": 55,
       "gift": 12,
-      "recv": 47
+      "recv": 47,
+      "sent": 54
     },
     "UNCJARaMmwg": {
       "member": 7,
       "milestone": 13,
       "gift": 7,
-      "recv": 19
+      "recv": 19,
+      "sent": 19
     },
     "Oor7wjrkdco": {
       "member": 2,
       "milestone": 5,
-      "gift": 2
+      "gift": 2,
+      "sent": 2
     },
     "Wu4wUWHGRoo": {
       "member": 30,
       "milestone": 6,
       "gift": 18,
-      "recv": 47
+      "recv": 47,
+      "sent": 46
     },
     "kFKWX6pOyDc": {
       "member": 11,
       "milestone": 12,
       "gift": 6,
-      "recv": 58
+      "recv": 58,
+      "sent": 63
     },
     "yXbV_8z-EEo": {
       "member": 16,
       "milestone": 15,
       "gift": 17,
-      "recv": 61
+      "recv": 61,
+      "sent": 63
     },
     "Pi11SGWO7K4": {
       "member": 10,
       "milestone": 3,
       "gift": 6,
-      "recv": 9
+      "recv": 9,
+      "sent": 10
     },
     "qZeRa5CKKOc": {
       "member": 6,
       "gift": 3,
-      "recv": 7
+      "recv": 7,
+      "sent": 3
     },
     "COf0p2UIo5U": {
       "member": 17,
       "milestone": 43,
       "gift": 15,
-      "recv": 27
+      "recv": 27,
+      "sent": 64
     },
     "7BLG7aKOoOI": {
       "member": 13,
       "milestone": 4,
       "gift": 4,
-      "recv": 6
+      "recv": 6,
+      "sent": 8
     },
     "EIOEm696yVY": {
       "member": 10,
       "milestone": 19,
       "gift": 9,
-      "recv": 22
+      "recv": 22,
+      "sent": 22
     },
     "xMUtZeBt2iI": {
       "member": 9,
       "milestone": 10,
       "gift": 19,
-      "recv": 72
+      "recv": 72,
+      "sent": 115
     },
     "yVP-KzW4Mgw": {
       "member": 36,
       "milestone": 92,
       "gift": 28,
-      "recv": 83
+      "recv": 83,
+      "sent": 99
     },
     "sdhRVtBclfM": {
       "member": 14,
       "milestone": 17,
       "gift": 7,
-      "recv": 28
+      "recv": 28,
+      "sent": 29
     },
     "wE5nFtfTi2I": {
       "cur": {
@@ -1866,25 +2122,29 @@
       "member": 42,
       "milestone": 130,
       "gift": 22,
-      "recv": 48
+      "recv": 48,
+      "sent": 151
     },
     "lSVu10cfCzU": {
       "member": 3,
       "milestone": 19,
       "gift": 21,
-      "recv": 34
+      "recv": 34,
+      "sent": 59
     },
     "BUBn0v7PZ24": {
       "member": 6,
       "milestone": 43,
       "gift": 12,
-      "recv": 18
+      "recv": 18,
+      "sent": 37
     },
     "rXsq8gRtf3g": {
       "member": 11,
       "milestone": 15,
       "gift": 4,
-      "recv": 13
+      "recv": 13,
+      "sent": 13
     },
     "xuDRYv_aHEQ": {
       "cur": {
@@ -1900,25 +2160,29 @@
       "member": 33,
       "milestone": 38,
       "gift": 18,
-      "recv": 56
+      "recv": 56,
+      "sent": 64
     },
     "adq-Njc4u9U": {
       "member": 9,
       "milestone": 5,
       "gift": 3,
-      "recv": 7
+      "recv": 7,
+      "sent": 7
     },
     "EgIfa_cyN8M": {
       "member": 16,
       "milestone": 23,
       "gift": 9,
-      "recv": 22
+      "recv": 22,
+      "sent": 38
     },
     "_WJKm5zed-o": {
       "member": 6,
       "milestone": 15,
       "gift": 29,
-      "recv": 86
+      "recv": 86,
+      "sent": 115
     },
     "wRo2-ohaMZc": {
       "cur": {
@@ -1936,37 +2200,43 @@
       "member": 63,
       "milestone": 546,
       "gift": 58,
-      "recv": 139
+      "recv": 139,
+      "sent": 296
     },
     "MbdH-fwJKhI": {
       "member": 14,
       "milestone": 9,
       "gift": 12,
-      "recv": 38
+      "recv": 38,
+      "sent": 40
     },
     "tNQgkTEZfuw": {
       "member": 12,
       "milestone": 23,
       "gift": 11,
-      "recv": 7
+      "recv": 7,
+      "sent": 20
     },
     "tMiksu2ksj8": {
       "member": 9,
       "milestone": 29,
       "gift": 16,
-      "recv": 46
+      "recv": 46,
+      "sent": 80
     },
     "7KB0znOnaQ0": {
       "member": 25,
       "milestone": 19,
       "gift": 5,
-      "recv": 56
+      "recv": 56,
+      "sent": 62
     },
     "wSTD76-4ly4": {
       "member": 9,
       "milestone": 15,
       "gift": 8,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "g6rIZPe5M5A": {
       "cur": {
@@ -1982,31 +2252,36 @@
       "member": 28,
       "milestone": 44,
       "gift": 15,
-      "recv": 84
+      "recv": 84,
+      "sent": 85
     },
     "x-L1mkKy3BQ": {
       "member": 13,
       "milestone": 5,
       "gift": 8,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "YL-iYPg4x5s": {
       "member": 9,
       "milestone": 47,
       "gift": 16,
-      "recv": 101
+      "recv": 101,
+      "sent": 103
     },
     "H78DMkNlxZw": {
       "member": 9,
       "milestone": 16,
       "gift": 10,
-      "recv": 17
+      "recv": 17,
+      "sent": 22
     },
     "34T96bNZtNY": {
       "member": 11,
       "milestone": 56,
       "gift": 16,
-      "recv": 67
+      "recv": 67,
+      "sent": 69
     },
     "MnmWJF2BnMM": {
       "cur": {
@@ -2023,85 +2298,99 @@
       "member": 13,
       "milestone": 9,
       "gift": 4,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "7sGbr6pVVPM": {
       "member": 3,
       "milestone": 14,
       "gift": 7,
-      "recv": 27
+      "recv": 27,
+      "sent": 37
     },
     "FmgcBMCARvU": {
       "member": 6,
       "milestone": 18,
       "gift": 7,
-      "recv": 41
+      "recv": 41,
+      "sent": 41
     },
     "PecMnY19ipM": {
       "member": 2,
       "milestone": 37,
       "gift": 48,
-      "recv": 79
+      "recv": 79,
+      "sent": 205
     },
     "MUiZ29KqFLk": {
       "member": 7,
       "milestone": 10,
       "gift": 11,
-      "recv": 30
+      "recv": 30,
+      "sent": 57
     },
     "sdArEwZ7OLk": {
       "member": 14,
       "milestone": 20,
       "gift": 7,
-      "recv": 31
+      "recv": 31,
+      "sent": 37
     },
     "NahfIvxffWA": {
       "member": 10,
       "milestone": 13,
       "gift": 6,
-      "recv": 12
+      "recv": 12,
+      "sent": 23
     },
     "OS39qr8zbVk": {
       "member": 3,
       "milestone": 5,
       "gift": 7,
-      "recv": 13
+      "recv": 13,
+      "sent": 36
     },
     "4WuHfQyof-g": {
       "member": 8,
       "milestone": 16,
       "gift": 23,
-      "recv": 104
+      "recv": 104,
+      "sent": 105
     },
     "KBBKr1_qv20": {
       "member": 12,
       "milestone": 35,
       "gift": 11,
-      "recv": 21
+      "recv": 21,
+      "sent": 36
     },
     "p2ONYzeK2hs": {
       "member": 7,
       "milestone": 7,
       "gift": 4,
-      "recv": 7
+      "recv": 7,
+      "sent": 12
     },
     "G1StJ7wCRm8": {
       "member": 7,
       "milestone": 10,
       "gift": 8,
-      "recv": 12
+      "recv": 12,
+      "sent": 28
     },
     "t6gj8BYYUXY": {
       "member": 15,
       "milestone": 16,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 8
     },
     "ZF3ZX-gTFFk": {
       "member": 10,
       "milestone": 9,
       "gift": 5,
-      "recv": 35
+      "recv": 35,
+      "sent": 40
     },
     "FZbQpj3GWCA": {
       "cur": {
@@ -2113,7 +2402,8 @@
       "member": 6,
       "milestone": 12,
       "gift": 8,
-      "recv": 24
+      "recv": 24,
+      "sent": 32
     },
     "b-i0S8L52eI": {
       "cur": {
@@ -2123,13 +2413,15 @@
       "member": 10,
       "milestone": 9,
       "gift": 6,
-      "recv": 17
+      "recv": 17,
+      "sent": 37
     },
     "ei5hgdeAgzc": {
       "member": 3,
       "milestone": 36,
       "gift": 15,
-      "recv": 64
+      "recv": 64,
+      "sent": 71
     },
     "Ny6Z1c-B-XM": {
       "cur": {
@@ -2141,19 +2433,22 @@
       "member": 12,
       "milestone": 28,
       "gift": 4,
-      "recv": 17
+      "recv": 17,
+      "sent": 17
     },
     "wP1kjbvnoC0": {
       "member": 5,
       "milestone": 21,
       "gift": 8,
-      "recv": 29
+      "recv": 29,
+      "sent": 29
     },
     "PFk2xf3Tv-k": {
       "member": 6,
       "milestone": 2,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 8
     },
     "SjnhiB8ed80": {
       "cur": {
@@ -2165,7 +2460,8 @@
       "member": 8,
       "milestone": 9,
       "gift": 9,
-      "recv": 12
+      "recv": 12,
+      "sent": 13
     },
     "sGjj56gya2Q": {
       "cur": {
@@ -2175,19 +2471,22 @@
       "member": 11,
       "milestone": 5,
       "gift": 26,
-      "recv": 103
+      "recv": 103,
+      "sent": 110
     },
     "Kf9U9WR4ROk": {
       "member": 14,
       "milestone": 14,
       "gift": 14,
-      "recv": 48
+      "recv": 48,
+      "sent": 49
     },
     "_RCeGV2dlW8": {
       "member": 4,
       "milestone": 4,
       "gift": 8,
-      "recv": 11
+      "recv": 11,
+      "sent": 12
     },
     "R5TzHYvYMsU": {
       "cur": {
@@ -2206,7 +2505,8 @@
       "member": 21,
       "milestone": 437,
       "gift": 43,
-      "recv": 185
+      "recv": 185,
+      "sent": 264
     },
     "KaiPVnQc844": {
       "cur": {
@@ -2218,43 +2518,50 @@
       "member": 10,
       "milestone": 16,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "0iOm2B7LhdQ": {
       "member": 7,
       "milestone": 26,
       "gift": 22,
-      "recv": 71
+      "recv": 71,
+      "sent": 77
     },
     "RswLTSPMQJk": {
       "member": 9,
       "milestone": 3,
       "gift": 12,
-      "recv": 26
+      "recv": 26,
+      "sent": 32
     },
     "aEGVocnTit8": {
       "member": 5,
       "milestone": 10,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "v5bCqpM0hOw": {
       "member": 7,
       "milestone": 11,
       "gift": 6,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "22ZJ4v7z4oM": {
       "member": 11,
       "milestone": 33,
       "gift": 27,
-      "recv": 90
+      "recv": 90,
+      "sent": 104
     },
     "pYM_1agx6uw": {
       "member": 6,
       "milestone": 16,
       "gift": 3,
-      "recv": 2
+      "recv": 2,
+      "sent": 7
     },
     "CxgWN0E0h3g": {
       "cur": {
@@ -2266,13 +2573,15 @@
       "member": 5,
       "milestone": 7,
       "gift": 4,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "rHd6NEvbGJU": {
       "member": 8,
       "milestone": 14,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 8
     },
     "AcFc9ltuhdE": {
       "cur": {
@@ -2284,7 +2593,8 @@
       "member": 3,
       "milestone": 7,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "j35sjb--dkg": {
       "cur": {
@@ -2294,7 +2604,8 @@
       "member": 1,
       "milestone": 6,
       "gift": 2,
-      "recv": 3
+      "recv": 3,
+      "sent": 10
     },
     "ih7XJJm-mKg": {
       "cur": {
@@ -2304,7 +2615,8 @@
       "member": 6,
       "milestone": 8,
       "gift": 17,
-      "recv": 29
+      "recv": 29,
+      "sent": 29
     },
     "xkdztuia--8": {
       "cur": {
@@ -2319,13 +2631,15 @@
       "member": 9,
       "milestone": 13,
       "gift": 14,
-      "recv": 44
+      "recv": 44,
+      "sent": 65
     },
     "DF2glAmmcl8": {
       "member": 8,
       "milestone": 8,
       "gift": 3,
-      "recv": 6
+      "recv": 6,
+      "sent": 11
     },
     "4oK2qokvdXk": {
       "cur": {
@@ -2349,19 +2663,22 @@
       "sc": 76,
       "member": 1,
       "milestone": 4,
-      "gift": 1
+      "gift": 1,
+      "sent": 1
     },
     "ypzU2SPSAHI": {
       "member": 6,
       "milestone": 12,
       "gift": 8,
-      "recv": 29
+      "recv": 29,
+      "sent": 30
     },
     "XXMhByKGUR8": {
       "member": 10,
       "milestone": 18,
       "gift": 7,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "gv63YMiZRyk": {
       "cur": {
@@ -2376,7 +2693,8 @@
       "member": 12,
       "milestone": 65,
       "gift": 32,
-      "recv": 158
+      "recv": 158,
+      "sent": 173
     },
     "c9fuPXD-nt8": {
       "cur": {
@@ -2391,13 +2709,15 @@
       "member": 4,
       "milestone": 28,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "-4knYVWvvMw": {
       "member": 9,
       "milestone": 29,
       "gift": 4,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "OL0vMqgnONQ": {
       "cur": {
@@ -2408,7 +2728,8 @@
       "member": 2,
       "milestone": 21,
       "gift": 5,
-      "recv": 22
+      "recv": 22,
+      "sent": 25
     },
     "dofmWSvaIso": {
       "cur": {
@@ -2422,13 +2743,15 @@
       "member": 4,
       "milestone": 12,
       "gift": 6,
-      "recv": 9
+      "recv": 9,
+      "sent": 10
     },
     "XggdDk5naQA": {
       "member": 15,
       "milestone": 15,
       "gift": 14,
-      "recv": 50
+      "recv": 50,
+      "sent": 53
     },
     "jugLFagTjUg": {
       "cur": {
@@ -2440,7 +2763,8 @@
       "member": 4,
       "milestone": 22,
       "gift": 7,
-      "recv": 23
+      "recv": 23,
+      "sent": 28
     },
     "LEdqCQKmaxg": {
       "cur": {
@@ -2454,7 +2778,8 @@
       "member": 13,
       "milestone": 37,
       "gift": 13,
-      "recv": 58
+      "recv": 58,
+      "sent": 64
     },
     "Ocj4SwIjnuw": {
       "cur": {
@@ -2469,7 +2794,8 @@
       "member": 16,
       "milestone": 18,
       "gift": 2,
-      "recv": 9
+      "recv": 9,
+      "sent": 10
     },
     "5Z6EiX44EMs": {
       "cur": {
@@ -2480,13 +2806,15 @@
       "member": 6,
       "milestone": 33,
       "gift": 5,
-      "recv": 6
+      "recv": 6,
+      "sent": 36
     },
     "JnO48oEFguI": {
       "member": 18,
       "milestone": 22,
       "gift": 6,
-      "recv": 16
+      "recv": 16,
+      "sent": 18
     },
     "tgOnpU4hm3E": {
       "cur": {
@@ -2499,7 +2827,8 @@
       "member": 5,
       "milestone": 15,
       "gift": 3,
-      "recv": 6
+      "recv": 6,
+      "sent": 11
     },
     "_LsqCY6A9J4": {
       "cur": {
@@ -2511,7 +2840,8 @@
       "member": 5,
       "milestone": 9,
       "gift": 3,
-      "recv": 5
+      "recv": 5,
+      "sent": 15
     },
     "YJwyqvtH3mc": {
       "cur": {
@@ -2526,13 +2856,15 @@
       "member": 15,
       "milestone": 21,
       "gift": 3,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "KpdnCuCIShk": {
       "member": 9,
       "milestone": 68,
       "gift": 20,
-      "recv": 53
+      "recv": 53,
+      "sent": 69
     },
     "PUCz2zkQ41k": {
       "cur": {
@@ -2547,7 +2879,8 @@
       "member": 19,
       "milestone": 59,
       "gift": 5,
-      "recv": 4
+      "recv": 4,
+      "sent": 9
     },
     "YyYM0fX2o_w": {
       "cur": {
@@ -2563,7 +2896,8 @@
       "member": 12,
       "milestone": 61,
       "gift": 4,
-      "recv": 21
+      "recv": 21,
+      "sent": 21
     },
     "jNl8NaAUe6A": {
       "cur": {
@@ -2577,7 +2911,8 @@
       "member": 12,
       "milestone": 10,
       "gift": 4,
-      "recv": 5
+      "recv": 5,
+      "sent": 36
     },
     "ifAXHhNgoXc": {
       "cur": {
@@ -2591,7 +2926,8 @@
       "member": 20,
       "milestone": 24,
       "gift": 6,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "Qz9w3noLLoc": {
       "cur": {
@@ -2609,13 +2945,15 @@
       "member": 14,
       "milestone": 79,
       "gift": 7,
-      "recv": 84
+      "recv": 84,
+      "sent": 86
     },
     "rusEJuvcbag": {
       "member": 10,
       "milestone": 4,
       "gift": 9,
-      "recv": 16
+      "recv": 16,
+      "sent": 17
     },
     "vxKIrS-chhA": {
       "cur": {
@@ -2630,7 +2968,8 @@
       "member": 17,
       "milestone": 19,
       "gift": 40,
-      "recv": 93
+      "recv": 93,
+      "sent": 93
     },
     "Ihj87wlJnyg": {
       "cur": {
@@ -2649,13 +2988,15 @@
       "member": 20,
       "milestone": 29,
       "gift": 9,
-      "recv": 34
+      "recv": 34,
+      "sent": 35
     },
     "inYCqG7C7i8": {
       "member": 12,
       "milestone": 21,
       "gift": 7,
-      "recv": 15
+      "recv": 15,
+      "sent": 15
     },
     "pi6l_rEol0s": {
       "cur": {
@@ -2669,7 +3010,8 @@
       "member": 7,
       "milestone": 15,
       "gift": 10,
-      "recv": 49
+      "recv": 49,
+      "sent": 70
     },
     "6rer1h1xlqo": {
       "cur": {
@@ -2682,13 +3024,15 @@
       "member": 9,
       "milestone": 6,
       "gift": 6,
-      "recv": 13
+      "recv": 13,
+      "sent": 18
     },
     "5qm77mUVTOA": {
       "member": 14,
       "milestone": 11,
       "gift": 2,
-      "recv": 2
+      "recv": 2,
+      "sent": 2
     },
     "yu-HncpMTtU": {
       "cur": {
@@ -2703,7 +3047,8 @@
       "member": 16,
       "milestone": 13,
       "gift": 6,
-      "recv": 24
+      "recv": 24,
+      "sent": 29
     },
     "YNQ2PN67uWk": {
       "cur": {
@@ -2715,7 +3060,8 @@
       "member": 12,
       "milestone": 12,
       "gift": 4,
-      "recv": 16
+      "recv": 16,
+      "sent": 16
     },
     "6RUGliGAcDQ": {
       "cur": {
@@ -2726,7 +3072,8 @@
       "member": 15,
       "milestone": 21,
       "gift": 4,
-      "recv": 25
+      "recv": 25,
+      "sent": 26
     },
     "6F4TrHu5dyk": {
       "cur": {
@@ -2739,7 +3086,8 @@
       "member": 20,
       "milestone": 31,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "QRWbl3cF7Vc": {
       "cur": {
@@ -2751,7 +3099,8 @@
       "member": 11,
       "milestone": 7,
       "gift": 1,
-      "recv": 3
+      "recv": 3,
+      "sent": 5
     },
     "f_acA56YuRg": {
       "cur": {
@@ -2764,7 +3113,8 @@
       "member": 9,
       "milestone": 4,
       "gift": 4,
-      "recv": 9
+      "recv": 9,
+      "sent": 8
     },
     "A8KvG6o97jQ": {
       "cur": {
@@ -2778,13 +3128,15 @@
       "member": 14,
       "milestone": 20,
       "gift": 15,
-      "recv": 51
+      "recv": 51,
+      "sent": 64
     },
     "9a5M5od1ZlE": {
       "member": 12,
       "milestone": 40,
       "gift": 9,
-      "recv": 31
+      "recv": 31,
+      "sent": 35
     },
     "-lU_h-lEf8c": {
       "cur": {
@@ -2796,7 +3148,8 @@
       "member": 16,
       "milestone": 22,
       "gift": 4,
-      "recv": 2
+      "recv": 2,
+      "sent": 26
     },
     "FihxvS6Ts6w": {
       "cur": {
@@ -2809,7 +3162,8 @@
       "member": 13,
       "milestone": 32,
       "gift": 3,
-      "recv": 11
+      "recv": 11,
+      "sent": 11
     },
     "Lktx_v925W0": {
       "cur": {
@@ -2822,7 +3176,8 @@
       "member": 5,
       "milestone": 8,
       "gift": 1,
-      "recv": 8
+      "recv": 8,
+      "sent": 10
     },
     "9VppU_ssloA": {
       "cur": {
@@ -2840,25 +3195,29 @@
       "member": 26,
       "milestone": 15,
       "gift": 11,
-      "recv": 20
+      "recv": 20,
+      "sent": 23
     },
     "twL3fHMMXyU": {
       "member": 9,
       "milestone": 9,
       "gift": 5,
-      "recv": 15
+      "recv": 15,
+      "sent": 17
     },
     "_ojcmMQqfqA": {
       "member": 13,
       "milestone": 5,
       "gift": 15,
-      "recv": 26
+      "recv": 26,
+      "sent": 28
     },
     "bQIIPNxAvEk": {
       "member": 9,
       "milestone": 8,
       "gift": 7,
-      "recv": 14
+      "recv": 14,
+      "sent": 15
     },
     "xKsdbxwOL9w": {
       "cur": {
@@ -2869,13 +3228,15 @@
       "member": 7,
       "milestone": 10,
       "gift": 5,
-      "recv": 11
+      "recv": 11,
+      "sent": 13
     },
     "mQMw5NkrbcU": {
       "member": 22,
       "milestone": 16,
       "gift": 11,
-      "recv": 30
+      "recv": 30,
+      "sent": 36
     },
     "1B2yazi5uJI": {
       "cur": {
@@ -2887,7 +3248,8 @@
       "member": 21,
       "milestone": 14,
       "gift": 2,
-      "recv": 9
+      "recv": 9,
+      "sent": 10
     },
     "tGSJ6NF7rsA": {
       "cur": {
@@ -2899,7 +3261,8 @@
       "member": 3,
       "milestone": 6,
       "gift": 2,
-      "recv": 1
+      "recv": 1,
+      "sent": 11
     },
     "aSZ5WhIYs_c": {
       "cur": {
@@ -2915,7 +3278,8 @@
       "member": 29,
       "milestone": 55,
       "gift": 6,
-      "recv": 18
+      "recv": 18,
+      "sent": 22
     },
     "p73ESBXMX-A": {
       "cur": {
@@ -2928,7 +3292,8 @@
       "member": 22,
       "milestone": 42,
       "gift": 5,
-      "recv": 17
+      "recv": 17,
+      "sent": 13
     },
     "S1J4z7vhN88": {
       "cur": {
@@ -2940,7 +3305,8 @@
       "member": 40,
       "milestone": 51,
       "gift": 3,
-      "recv": 8
+      "recv": 8,
+      "sent": 11
     },
     "gaj6xTwLcRE": {
       "cur": {
@@ -2954,7 +3320,8 @@
       "member": 3,
       "milestone": 18,
       "gift": 2,
-      "recv": 10
+      "recv": 10,
+      "sent": 10
     },
     "uRZrJsIbJyo": {
       "cur": {
@@ -2964,7 +3331,8 @@
       "member": 16,
       "milestone": 15,
       "gift": 7,
-      "recv": 20
+      "recv": 20,
+      "sent": 23
     },
     "g8SHOI4dSS0": {
       "cur": {
@@ -2986,7 +3354,8 @@
       "member": 49,
       "milestone": 359,
       "gift": 23,
-      "recv": 110
+      "recv": 110,
+      "sent": 162
     },
     "G4mFMWFwjNc": {
       "cur": {
@@ -3000,7 +3369,8 @@
       "member": 16,
       "milestone": 34,
       "gift": 9,
-      "recv": 54
+      "recv": 54,
+      "sent": 80
     },
     "VMO1skHCN4s": {
       "cur": {
@@ -3013,7 +3383,8 @@
       "member": 13,
       "milestone": 1,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "kPecysBO9nI": {
       "cur": {
@@ -3025,7 +3396,8 @@
       "member": 2,
       "milestone": 13,
       "gift": 6,
-      "recv": 9
+      "recv": 9,
+      "sent": 26
     },
     "t69aX5lQXcw": {
       "cur": {
@@ -3039,13 +3411,15 @@
       "member": 14,
       "milestone": 12,
       "gift": 4,
-      "recv": 99
+      "recv": 99,
+      "sent": 70
     },
     "1niTpxGQfq0": {
       "member": 11,
       "milestone": 29,
       "gift": 4,
-      "recv": 20
+      "recv": 20,
+      "sent": 21
     },
     "GikU7yznntc": {
       "cur": {
@@ -3056,7 +3430,8 @@
       "member": 4,
       "milestone": 4,
       "gift": 2,
-      "recv": 5
+      "recv": 5,
+      "sent": 10
     },
     "uKa5qqN-tts": {
       "cur": {
@@ -3073,7 +3448,8 @@
       "member": 82,
       "milestone": 372,
       "gift": 35,
-      "recv": 100
+      "recv": 100,
+      "sent": 203
     },
     "a64E2rBqJRY": {
       "cur": {
@@ -3089,7 +3465,8 @@
       "member": 13,
       "milestone": 29,
       "gift": 4,
-      "recv": 23
+      "recv": 23,
+      "sent": 25
     },
     "o8mS2EfOh88": {
       "cur": {
@@ -3104,7 +3481,8 @@
       "member": 38,
       "milestone": 103,
       "gift": 17,
-      "recv": 220
+      "recv": 220,
+      "sent": 296
     },
     "_JHMLndMOdw": {
       "cur": {
@@ -3115,7 +3493,8 @@
       "member": 5,
       "milestone": 18,
       "gift": 8,
-      "recv": 34
+      "recv": 34,
+      "sent": 37
     },
     "VBM_jnKNpO0": {
       "cur": {
@@ -3126,7 +3505,8 @@
       "member": 9,
       "milestone": 6,
       "gift": 4,
-      "recv": 4
+      "recv": 4,
+      "sent": 4
     },
     "XpnAgUcequ0": {
       "cur": {
@@ -3136,13 +3516,15 @@
       "sticker": 1,
       "member": 2,
       "milestone": 4,
-      "gift": 3
+      "gift": 3,
+      "sent": 15
     },
     "a2GICc3DzRg": {
       "member": 11,
       "milestone": 7,
       "gift": 10,
-      "recv": 53
+      "recv": 53,
+      "sent": 57
     },
     "mri45S1v_BE": {
       "cur": {
@@ -3157,7 +3539,8 @@
       "member": 18,
       "milestone": 35,
       "gift": 8,
-      "recv": 46
+      "recv": 46,
+      "sent": 44
     },
     "2vxo7pGztng": {
       "cur": {
@@ -3180,13 +3563,15 @@
       "member": 6,
       "milestone": 3,
       "gift": 3,
-      "recv": 7
+      "recv": 7,
+      "sent": 7
     },
     "mBUyXgJF45w": {
       "member": 12,
       "milestone": 4,
       "gift": 8,
-      "recv": 24
+      "recv": 24,
+      "sent": 28
     },
     "UAWyd8WxMSA": {
       "cur": {
@@ -3200,12 +3585,14 @@
       "member": 8,
       "milestone": 7,
       "gift": 2,
-      "recv": 13
+      "recv": 13,
+      "sent": 15
     },
     "bvORNGHJDmI": {
       "member": 6,
       "gift": 4,
-      "recv": 8
+      "recv": 8,
+      "sent": 12
     },
     "x0CKUh_0jA4": {
       "cur": {
@@ -3216,7 +3603,8 @@
       "member": 5,
       "milestone": 4,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "71s1mIMeSBY": {
       "cur": {
@@ -3226,13 +3614,15 @@
       "member": 12,
       "milestone": 9,
       "gift": 5,
-      "recv": 22
+      "recv": 22,
+      "sent": 25
     },
     "x-G-abxvFLw": {
       "member": 16,
       "milestone": 13,
       "gift": 5,
-      "recv": 17
+      "recv": 17,
+      "sent": 17
     },
     "LdsV9uBWBsk": {
       "cur": {
@@ -3244,13 +3634,15 @@
       "sticker": 2,
       "member": 9,
       "gift": 3,
-      "recv": 13
+      "recv": 13,
+      "sent": 15
     },
     "X-50G8sWUZY": {
       "member": 13,
       "milestone": 4,
       "gift": 5,
-      "recv": 8
+      "recv": 8,
+      "sent": 22
     },
     "LUpV_XWms8s": {
       "cur": {
@@ -3265,7 +3657,8 @@
       "member": 16,
       "milestone": 33,
       "gift": 14,
-      "recv": 36
+      "recv": 36,
+      "sent": 59
     },
     "eOT0E44vrSM": {
       "cur": {
@@ -3277,7 +3670,8 @@
       "member": 13,
       "milestone": 13,
       "gift": 4,
-      "recv": 12
+      "recv": 12,
+      "sent": 12
     },
     "dWuuD4RKN60": {
       "cur": {
@@ -3290,17 +3684,20 @@
       "sticker": 4,
       "member": 18,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "_A45mjl2v6E": {
       "member": 12,
       "gift": 3,
-      "recv": 3
+      "recv": 3,
+      "sent": 3
     },
     "NZeNcBhrgNw": {
       "member": 46,
       "gift": 42,
-      "recv": 79
+      "recv": 79,
+      "sent": 298
     },
     "Q8XHVZrvPV4": {
       "cur": {
@@ -3322,12 +3719,14 @@
       "member": 33,
       "milestone": 43,
       "gift": 6,
-      "recv": 13
+      "recv": 13,
+      "sent": 14
     },
     "3uTk6sv6xVk": {
       "member": 5,
       "gift": 9,
-      "recv": 25
+      "recv": 25,
+      "sent": 57
     },
     "Qi4pPPMQGMo": {
       "cur": {
@@ -3342,13 +3741,15 @@
       "member": 21,
       "milestone": 34,
       "gift": 8,
-      "recv": 25
+      "recv": 25,
+      "sent": 37
     },
     "NS_g6327rfs": {
       "member": 21,
       "milestone": 233,
       "gift": 5,
-      "recv": 13
+      "recv": 13,
+      "sent": 21
     },
     "cOb2vUsk2J4": {
       "cur": {
@@ -3364,7 +3765,8 @@
       "sticker": 3,
       "member": 45,
       "gift": 20,
-      "recv": 83
+      "recv": 83,
+      "sent": 119
     },
     "AW1WsB2gQSA": {
       "cur": {
@@ -3375,7 +3777,8 @@
       "member": 11,
       "milestone": 22,
       "gift": 14,
-      "recv": 25
+      "recv": 25,
+      "sent": 52
     },
     "Py6ZBmdRACE": {
       "cur": {
@@ -3390,7 +3793,8 @@
       "sticker": 8,
       "member": 18,
       "gift": 21,
-      "recv": 40
+      "recv": 40,
+      "sent": 113
     },
     "xoTubHkJ8b8": {
       "cur": {
@@ -3401,7 +3805,8 @@
       "sticker": 1,
       "member": 23,
       "gift": 1,
-      "recv": 5
+      "recv": 5,
+      "sent": 5
     },
     "rSGLNP3mDlQ": {
       "cur": {
@@ -3415,7 +3820,8 @@
       "member": 20,
       "milestone": 36,
       "gift": 26,
-      "recv": 84
+      "recv": 84,
+      "sent": 148
     },
     "qbUkYtkbfmo": {
       "cur": {
@@ -3429,7 +3835,8 @@
       "sticker": 4,
       "member": 21,
       "gift": 4,
-      "recv": 11
+      "recv": 11,
+      "sent": 12
     },
     "RMOtJ_czd40": {
       "cur": {
@@ -3446,7 +3853,8 @@
     "bBOAjvpU25w": {
       "member": 42,
       "gift": 4,
-      "recv": 27
+      "recv": 27,
+      "sent": 32
     },
     "xzVpKffbzdI": {
       "cur": {
@@ -3461,7 +3869,8 @@
       "sticker": 2,
       "member": 10,
       "gift": 2,
-      "recv": 4
+      "recv": 4,
+      "sent": 6
     },
     "pdsNJIciP8g": {
       "cur": {
@@ -3474,7 +3883,8 @@
       "sticker": 2,
       "member": 21,
       "gift": 3,
-      "recv": 9
+      "recv": 9,
+      "sent": 12
     },
     "qrTKZGm1wBU": {
       "cur": {
@@ -3487,7 +3897,8 @@
       "sticker": 2,
       "member": 30,
       "gift": 7,
-      "recv": 17
+      "recv": 17,
+      "sent": 24
     },
     "X8jntIe11Ns": {
       "cur": {
@@ -3501,7 +3912,8 @@
       "sticker": 2,
       "member": 39,
       "gift": 4,
-      "recv": 3
+      "recv": 3,
+      "sent": 4
     },
     "tNa1WY96Ay8": {
       "cur": {
@@ -3514,7 +3926,8 @@
       "sticker": 4,
       "member": 62,
       "gift": 8,
-      "recv": 41
+      "recv": 41,
+      "sent": 55
     },
     "9KzB-7cS8H8": {
       "cur": {
@@ -3528,7 +3941,8 @@
       "sc": 123,
       "sticker": 1,
       "member": 83,
-      "gift": 4
+      "gift": 4,
+      "sent": 8
     },
     "U2Rg1yu0ThQ": {
       "cur": {
@@ -3542,7 +3956,8 @@
       "sticker": 3,
       "member": 23,
       "gift": 12,
-      "recv": 22
+      "recv": 22,
+      "sent": 29
     },
     "ZpXjnR8cgpI": {
       "cur": {
@@ -3555,11 +3970,13 @@
       "sticker": 1,
       "member": 30,
       "gift": 4,
-      "recv": 11
+      "recv": 11,
+      "sent": 12
     },
     "GM3aypAvJe0": {
       "member": 190,
-      "gift": 15
+      "gift": 15,
+      "sent": 84
     },
     "il5wxrtOnHg": 0,
     "omVO_yOg-hQ": {
@@ -3575,7 +3992,8 @@
       "sticker": 2,
       "member": 57,
       "gift": 4,
-      "recv": 22
+      "recv": 22,
+      "sent": 45
     },
     "hBxN8XeEuIo": {
       "cur": {
@@ -3588,7 +4006,8 @@
       "sc": 157,
       "member": 98,
       "gift": 3,
-      "recv": 10
+      "recv": 10,
+      "sent": 11
     },
     "MiDKe8h86mk": {
       "cur": {
@@ -3603,7 +4022,8 @@
       "sc": 154,
       "sticker": 4,
       "member": 254,
-      "gift": 2
+      "gift": 2,
+      "sent": 15
     },
     "4P_NWhs39jA": {
       "cur": {
@@ -3640,7 +4060,8 @@
       },
       "sc": 200,
       "member": 2005,
-      "gift": 31
+      "gift": 31,
+      "sent": 275
     },
     "DOX4IdfkjLM": {
       "cur": {
@@ -3650,7 +4071,8 @@
       "sc": 74,
       "sticker": 2,
       "member": 68,
-      "gift": 1
+      "gift": 1,
+      "sent": 5
     },
     "qdncsGAGB0M": {
       "e": "noreplay",

@@ -14,13 +14,15 @@
       "member": 4,
       "milestone": 13,
       "gift": 9,
-      "recv": 35
+      "recv": 35,
+      "sent": 35
     },
     "e4imo2fmshE": {
       "member": 4,
       "milestone": 2,
       "gift": 2,
-      "recv": 25
+      "recv": 25,
+      "sent": 25
     },
     "vbgjtnGFv7A": {
       "cur": {
@@ -38,7 +40,8 @@
       "member": 13,
       "milestone": 27,
       "gift": 14,
-      "recv": 111
+      "recv": 111,
+      "sent": 111
     }
   }
 }

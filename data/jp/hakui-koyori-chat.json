@@ -21,7 +21,8 @@
       "sc": 61,
       "milestone": 8,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "1HNol0clges": {
       "cur": {
@@ -34,7 +35,8 @@
       "member": 3,
       "milestone": 7,
       "gift": 1,
-      "recv": 1
+      "recv": 1,
+      "sent": 1
     },
     "iby-BBuoWMw": {
       "cur": {
@@ -43,7 +45,8 @@
       "sc": 14,
       "milestone": 1,
       "gift": 3,
-      "recv": 3
+      "recv": 3,
+      "sent": 3
     },
     "_SDdT8arzDI": {
       "cur": {
@@ -56,7 +59,8 @@
       "member": 6,
       "milestone": 3,
       "gift": 2,
-      "recv": 6
+      "recv": 6,
+      "sent": 6
     },
     "_Rvx92mPFT0": {
       "cur": {
@@ -76,7 +80,8 @@
       "member": 8,
       "milestone": 481,
       "gift": 33,
-      "recv": 297
+      "recv": 297,
+      "sent": 314
     }
   }
 }
