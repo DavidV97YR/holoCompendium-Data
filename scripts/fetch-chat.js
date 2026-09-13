@@ -329,14 +329,24 @@ async function walkChatRetrying(videoId, tries) {
 /** Roll a log into the compact summary the Activity grid reads. */
 function summarise(log) {
   if (!log.length) return 0;
-  const s = { cur: {}, sc: 0, sticker: 0, member: 0, milestone: 0, gift: 0, recv: 0 };
+  const s = { cur: {}, sc: 0, sticker: 0, member: 0, milestone: 0, gift: 0, recv: 0, sent: 0 };
   for (const e of log) {
     if (e.k === 'sc' || e.k === 'sticker') {
       s.cur[e.cur] = +(((s.cur[e.cur] || 0) + e.amt).toFixed(2));
     }
+    // How many memberships a gift actually bought. The 'recv' lines are not
+    // a substitute: YouTube only announces a redemption when a viewer claims
+    // one while watching, so gifts nobody opens in chat are never announced.
+    // Near 100% of them are on a quiet stream and about 10% on a big one, so
+    // counting redemptions understates a birthday live by an order of
+    // magnitude. The purchase announcement carries the true figure.
+    if (e.k === 'gift') {
+      const m = /Sent (\d+)/.exec(e.m || '');
+      s.sent += m ? +m[1] : 1;
+    }
     if (s[e.k] !== undefined) s[e.k]++;
   }
-  for (const k of ['sc', 'sticker', 'member', 'milestone', 'gift', 'recv']) if (!s[k]) delete s[k];
+  for (const k of ['sc', 'sticker', 'member', 'milestone', 'gift', 'recv', 'sent']) if (!s[k]) delete s[k];
   if (!Object.keys(s.cur).length) delete s.cur;
   // Only non-monetary chatter was found (shouldn't happen — we don't log it).
   if (!Object.keys(s).length) return 0;
@@ -357,6 +367,62 @@ function findChannelFiles(dataDir) {
     }
   }
   return results;
+}
+
+/**
+ * Fill in `sent` for streams walked before summarise() started recording it.
+ *
+ * The number is already sitting in the stored log bundles, so this recovers it
+ * without re-walking anything. Only streams that have gifts but no `sent` are
+ * considered, and only the months those streams fall in are read — so the run
+ * after this one does no work at all.
+ */
+function fillGiftSent(dataDir) {
+  let fixed = 0, files = 0;
+  for (const filePath of findChannelFiles(dataDir)) {
+    const branchPath = path.dirname(filePath);
+    const slug       = path.basename(filePath, '.json');
+    const chatPath   = path.join(branchPath, slug + '-chat.json');
+    const chat       = readJson(chatPath, null);
+    if (!chat || !chat.streams) continue;
+
+    // Which streams still need it, grouped by the month bundle holding them.
+    const channel = readJson(filePath, null);
+    const published = new Map();
+    for (const v of ((channel && channel.videos) || [])) if (v.published) published.set(v.id, v.published);
+
+    const wanted = new Map();   // 'YYYY-MM' -> [videoId]
+    for (const id in chat.streams) {
+      const s = chat.streams[id];
+      if (!s || typeof s !== 'object' || s.e) continue;
+      if (!s.gift || s.sent !== undefined) continue;
+      const p = published.get(id);
+      if (!p) continue;
+      const month = p.slice(0, 7);
+      if (!wanted.has(month)) wanted.set(month, []);
+      wanted.get(month).push(id);
+    }
+    if (!wanted.size) continue;
+
+    let touched = false;
+    for (const [month, ids] of wanted) {
+      const bundle = readJson(path.join(branchPath, 'chat', slug, month + '.json'), null);
+      if (!bundle) continue;
+      for (const id of ids) {
+        const log = bundle[id];
+        if (!log) continue;
+        let n = 0;
+        for (const e of log) {
+          if (e.k !== 'gift') continue;
+          const m = /Sent (\d+)/.exec(e.m || '');
+          n += m ? +m[1] : 1;
+        }
+        if (n) { chat.streams[id].sent = n; fixed++; touched = true; }
+      }
+    }
+    if (touched) { fs.writeFileSync(chatPath, JSON.stringify(chat, null, 2), 'utf8'); files++; }
+  }
+  return { fixed: fixed, files: files };
 }
 
 /**
@@ -404,7 +470,7 @@ function buildChatIndex(dataDir, days) {
         row.pending = true;
       } else if (s !== 0) {
         if (s.cur) row.cur = s.cur;
-        for (const k of ['sc', 'sticker', 'member', 'milestone', 'gift', 'recv']) if (s[k]) row[k] = s[k];
+        for (const k of ['sc', 'sticker', 'member', 'milestone', 'gift', 'recv', 'sent']) if (s[k]) row[k] = s[k];
       }
       // Talents who share a channel each have their own {slug}.json holding
       // the SAME video list, so a UNIT B stream would otherwise appear three
@@ -664,6 +730,14 @@ async function main() {
   // Always rebuilt, even when nothing was walked: a stream that ended since the
   // last run belongs in the feed straight away, and a backfill changes the
   // totals of anything recent it touched.
+  // Recover `sent` for anything walked before it was recorded. Self-limiting:
+  // once every stream has it, this finds nothing and reads no bundles.
+  const back = fillGiftSent(dataDir);
+  if (back.fixed) {
+    console.log('\n🎁  gift totals recovered for ' + back.fixed + ' stream(s) across '
+              + back.files + ' channel file(s)');
+  }
+
   const idx = buildChatIndex(dataDir, parseInt(process.env.INDEX_DAYS || '14', 10));
   console.log('\n🗂  chat-index.json — ' + idx.streams + ' streams / '
             + idx.channels + ' channels (' + Math.round(idx.bytes / 1024) + ' KB)');
