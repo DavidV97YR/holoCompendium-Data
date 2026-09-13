@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-09-13T06:00:47.404Z",
-  "videoCount": 1928,
+  "lastUpdated": "2026-09-13T07:52:11.552Z",
+  "videoCount": 1931,
   "videos": [
+    {
+      "id": "OS_UM1YjEDM",
+      "title": "It's our time?! New MV “黎明Compass\" out now!! #dance #music #hololive #patlabor",
+      "published": "2026-09-13T05:34:48.000Z",
+      "type": "short",
+      "duration": 32,
+      "status": "past"
+    },
     {
       "id": "AY1v8-jOZxk",
       "title": "【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive",
@@ -18,6 +26,22 @@
       "duration": 7653,
       "status": "past",
       "scheduledStart": "2026-09-13T01:00:00Z"
+    },
+    {
+      "id": "eYfQaQryTng",
+      "title": "【6th Anniversary Event】members only yap part!!! #calliolive",
+      "published": "2026-09-13T03:15:01.000Z",
+      "type": "member",
+      "duration": 2662,
+      "status": "past"
+    },
+    {
+      "id": "XuDswo6CBkI",
+      "title": "【MV】黎明Compass - Mori Calliope",
+      "published": "2026-09-13T03:08:13.000Z",
+      "type": "video",
+      "duration": 219,
+      "status": "past"
     },
     {
       "id": "0uuGlURu9cw",
@@ -44,7 +68,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-14T03:00:00Z"
+      "scheduledStart": "2026-09-14T03:00:00.000Z"
     },
     {
       "id": "A5H2cZw1Nzs",
@@ -53,7 +77,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-15T00:00:00Z"
+      "scheduledStart": "2026-09-15T00:00:00.000Z"
     },
     {
       "id": "APCP5OpOixE",
