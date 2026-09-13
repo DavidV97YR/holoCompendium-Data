@@ -7,13 +7,22 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-09-13T07:45:38.096Z",
-  "videoCount": 1800,
+  "lastUpdated": "2026-09-13T11:45:29.993Z",
+  "videoCount": 1801,
   "videos": [
+    {
+      "id": "2JU0EWdq4ZM",
+      "title": "GOLF IT! WITH KKC",
+      "published": "2026-09-13T08:08:32.000Z",
+      "type": "member",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-13T13:00:00.000Z"
+    },
     {
       "id": "CQEoZ0t70w8",
       "title": "【Watchalong】Zombeavers? A Beaver Zombie【 iofi / hololive 】",
-      "published": "2026-09-12T14:27:52.000Z",
+      "published": "2026-09-13T07:45:01+00:00",
       "type": "stream",
       "duration": 5377,
       "status": "past",
@@ -24,7 +33,7 @@
       "title": "【#わちゃわちゃカメレオン】I AM PICASSO【 iofi / hololive 】",
       "published": "2026-09-11T14:39:35+00:00",
       "type": "stream",
-      "duration": 6108,
+      "duration": 6114,
       "status": "past",
       "scheduledStart": "2026-09-11T11:00:00Z"
     },

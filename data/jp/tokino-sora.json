@@ -7,16 +7,23 @@
     "avatarUrl": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh",
     "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0"
   },
-  "lastUpdated": "2026-09-13T07:01:50.183Z",
-  "videoCount": 1993,
+  "lastUpdated": "2026-09-13T11:01:48.624Z",
+  "videoCount": 1994,
   "videos": [
     {
+      "id": "5YvlBMigUJk",
+      "title": "#そらぱぴあアリ2026 バンドリハ始まりました！Vol.4 【#shorts /ときのそら/ホロライブ】",
+      "published": "2026-09-13T11:00:10+00:00",
+      "type": "short",
+      "duration": 0
+    },
+    {
       "id": "ZCsE7VzpoaI",
-      "title": "【An automaton's journey 】そろそろ結末見れるのでは!?【ときのそら/ホロライブ】",
-      "published": "2026-09-13T05:50:41.000Z",
+      "title": "【An automaton's journey 】そろそろ結末見れるのでは！？【ときのそら/ホロライブ】",
+      "published": "2026-09-13T08:46:41+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 7688,
+      "status": "past",
       "scheduledStart": "2026-09-13T06:30:00.000Z"
     },
     {
@@ -855,9 +862,8 @@
       "published": "2026-06-13T12:32:37.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-23T14:45:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-09-23T14:45:00Z"
     },
     {
       "id": "KrzjL8aNt1k",
