@@ -359,6 +359,93 @@ function findChannelFiles(dataDir) {
   return results;
 }
 
+/**
+ * Emit data/chat-index.json — every stream from the last INDEX_DAYS days across
+ * every channel, with whatever chat totals have been recorded for it.
+ *
+ * The Stats page opens on a chronological feed of all talents at once. Building
+ * that in the browser would mean fetching 80 channel files at roughly 500 KB
+ * each — 40 MB to render two hundred rows. So it is precomputed here, the same
+ * trade build-popular.js makes for the home page, and lands as one ~200 KB file
+ * that gzips to a fraction of that.
+ *
+ * Streams with no totals yet are included rather than skipped: the feed should
+ * show a stream the moment it ends, then fill in its numbers once the replay is
+ * walked. Reading the channel files costs a couple of seconds of local I/O and
+ * no network, so this runs at the end of every run, in either mode.
+ */
+function buildChatIndex(dataDir, days) {
+  const cutoff   = Date.now() - days * 86400000;
+  const channels = {};
+  const streams  = [];
+  const seen     = new Map();   // videoId → the row already emitted for it
+
+  for (const filePath of findChannelFiles(dataDir)) {
+    const channel = readJson(filePath, null);
+    if (!channel || !channel.videos) continue;
+
+    const slug   = path.basename(filePath, '.json');
+    const branch = path.basename(path.dirname(filePath));
+    const key    = branch + '/' + slug;
+    const chat   = readJson(path.join(path.dirname(filePath), slug + '-chat.json'), null);
+    const done   = (chat && chat.streams) || {};
+
+    let used = false;
+    for (const v of channel.videos) {
+      if (v.type !== 'stream' || !v.published || !v.duration) continue;
+      if (v.status === 'live' || v.status === 'upcoming') continue;
+      if (new Date(v.published).getTime() < cutoff) continue;
+
+      const s   = done[v.id];
+      const row = { id: v.id, ch: key, title: v.title || '', published: v.published, duration: v.duration };
+      if (s === undefined || (s && s.e)) {
+        // Walked and failed, or not walked yet — the feed shows the stream with
+        // its numbers pending rather than pretending it earned nothing.
+        row.pending = true;
+      } else if (s !== 0) {
+        if (s.cur) row.cur = s.cur;
+        for (const k of ['sc', 'sticker', 'member', 'milestone', 'gift', 'recv']) if (s[k]) row[k] = s[k];
+      }
+      // Talents who share a channel each have their own {slug}.json holding
+      // the SAME video list, so a UNIT B stream would otherwise appear three
+      // times in the feed — measured at 62 phantom rows, 15% of a fortnight.
+      // Once those channels are backfilled each copy would carry the same
+      // totals too, and the window's money would be counted once per genmate.
+      // Keep one row per video, preferring whichever copy actually has data.
+      const prev = seen.get(v.id);
+      if (prev) {
+        if (prev.pending && !row.pending) Object.assign(prev, row);
+        continue;
+      }
+      seen.set(v.id, row);
+      streams.push(row);
+      used = true;
+    }
+
+    if (used) {
+      channels[key] = {
+        name:   (channel.channel && channel.channel.name) || (chat && chat.channelName) || slug,
+        // The channel object spells it avatarUrl; `avatar` is accepted too in
+        // case an older bootstrap wrote that shape.
+        avatar: (channel.channel && (channel.channel.avatarUrl || channel.channel.avatar)) || '',
+      };
+    }
+  }
+
+  // Parsed instants, not strings: the channel files carry three spellings of
+  // the same moment ("…Z", "….000Z", "…+00:00"), so a string sort orders equal
+  // instants by punctuation and would break on a real UTC offset.
+  streams.sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+  const out = path.join(dataDir, 'chat-index.json');
+  fs.writeFileSync(out, JSON.stringify({
+    lastUpdated: new Date().toISOString(),
+    days:        days,
+    channels:    channels,
+    streams:     streams,
+  }), 'utf8');
+  return { streams: streams.length, channels: Object.keys(channels).length, bytes: fs.statSync(out).size };
+}
+
 function readJson(p, fallback) {
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { return fallback; }
 }
@@ -573,6 +660,13 @@ async function main() {
     }
     if (ranOut) break;
   }
+
+  // Always rebuilt, even when nothing was walked: a stream that ended since the
+  // last run belongs in the feed straight away, and a backfill changes the
+  // totals of anything recent it touched.
+  const idx = buildChatIndex(dataDir, parseInt(process.env.INDEX_DAYS || '14', 10));
+  console.log('\n🗂  chat-index.json — ' + idx.streams + ' streams / '
+            + idx.channels + ' channels (' + Math.round(idx.bytes / 1024) + ' KB)');
 
   console.log('\n╔══════════════════════════════════════════╗');
   console.log('║   Summary                                ║');
