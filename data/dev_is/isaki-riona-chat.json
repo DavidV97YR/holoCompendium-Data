@@ -1,7 +1,7 @@
 {
   "channelId": "UC9LSiN9hXI55svYEBrrK-tw",
   "channelName": "Isaki Riona",
-  "lastUpdated": "2026-09-12T05:29:16.301Z",
+  "lastUpdated": "2026-09-13T14:44:45.932Z",
   "streams": {
     "9LpZ1cm-1zQ": {
       "cur": {
@@ -986,7 +986,7 @@
     },
     "t0paXNyWZw4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "KnX67lFPDj0": {
       "cur": {
@@ -1251,7 +1251,7 @@
     },
     "zwGG8-dMehw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "kqT2tIHMsHo": {
       "cur": {
@@ -1582,7 +1582,7 @@
     },
     "bFvVcbENC0c": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "0Xeeb24jr08": {
       "cur": {
@@ -4192,7 +4192,7 @@
     },
     "zSQAUrxkTVg": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "TqOMvG6ELs8": {
       "cur": {
@@ -4314,15 +4314,15 @@
     },
     "mqzNWcGl4bQ": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "AkWYON7aSCg": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Xzo5i-fRk7A": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "dOc-dN5nTpE": {
       "cur": {
@@ -4370,7 +4370,7 @@
     },
     "ova7bwSiI2Y": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "SvY4_MMfBdw": {
       "cur": {
@@ -4389,7 +4389,7 @@
     },
     "AX38Vhkj4Ug": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "1PI4u38d_Yg": {
       "cur": {
@@ -5365,7 +5365,7 @@
     },
     "0M60iDKnHII": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "t-e8zQHWSAI": {
       "cur": {
@@ -5663,7 +5663,7 @@
     },
     "D6YfalrK3BQ": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "teA6cFBaNkQ": {
       "cur": {
@@ -5826,7 +5826,7 @@
     },
     "4Zb0JEy3bw4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "vk-xMnnHkbE": {
       "cur": {
@@ -6334,7 +6334,7 @@
     },
     "ES5WyVmRvfg": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "0-8w37A_1lQ": {
       "cur": {
@@ -6552,7 +6552,7 @@
     },
     "RcCNvrGmwDY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "cQHh59ZkSpg": {
       "cur": {
@@ -6683,7 +6683,7 @@
     },
     "Q4b-Q3LsdH8": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "MsJTDG5IYiA": {
       "cur": {
@@ -6730,7 +6730,7 @@
     },
     "eTkvuzQLIhw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "AXDpVQo0H38": {
       "cur": {
@@ -6994,6 +6994,29 @@
     "ZXktjvFF2xw": 0,
     "I3Xs_W5F-Cs": 0,
     "-Rk5z_pysvM": 0,
-    "Of2Q8NtiW20": 0
+    "Of2Q8NtiW20": 0,
+    "hhOim_G0kns": {
+      "cur": {
+        "₩": 2000,
+        "¥": 3880
+      },
+      "sc": 6,
+      "sticker": 2,
+      "milestone": 3,
+      "gift": 14,
+      "recv": 76
+    },
+    "LROFl9rIVH0": {
+      "cur": {
+        "¥": 46488,
+        "₩": 4000,
+        "NT$": 250,
+        "HK$": 10
+      },
+      "sc": 50,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 4
+    }
   }
 }

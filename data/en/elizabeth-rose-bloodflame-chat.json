@@ -1,27 +1,27 @@
 {
   "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
   "channelName": "Elizabeth Rose Bloodflame",
-  "lastUpdated": "2026-09-13T01:31:29.566Z",
+  "lastUpdated": "2026-09-13T14:59:16.211Z",
   "streams": {
     "vIGbbcGJSzM": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "vsF_EMoNjnk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "t8chcZWHYHs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "v6ZbXSJ501M": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "4fIlr008mJQ": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "SlcmjzBIkDM": {
       "cur": {
@@ -51,7 +51,7 @@
     },
     "OP7IsdeTqFk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "v4zykMeq8Yc": {
       "cur": {
@@ -1299,7 +1299,7 @@
     },
     "9gL4We5utAk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "fV0erlSovhc": {
       "cur": {
@@ -2893,24 +2893,112 @@
       "recv": 21
     },
     "_urPfTQnLes": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "$": 714.92,
+        "MX$": 334,
+        "€": 80,
+        "A$": 120.89,
+        "CA$": 65,
+        "₱": 50,
+        "ARS": 100,
+        "£": 6.99,
+        "¥": 320,
+        "MYR": 18,
+        "CRC": 2500,
+        "NT$": 225,
+        "₫": 200000,
+        "HUF": 1000
+      },
+      "sc": 106,
+      "sticker": 1,
+      "member": 46,
+      "milestone": 53,
+      "gift": 5,
+      "recv": 25
     },
     "5R01-igo4sM": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "$": 67.97,
+        "₱": 50,
+        "MX$": 14
+      },
+      "sc": 11,
+      "sticker": 1,
+      "member": 15,
+      "milestone": 17,
+      "gift": 1,
+      "recv": 10
     },
     "zmF_4TxXsng": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "NT$": 450,
+        "SGD": 78.49,
+        "HUF": 245,
+        "MYR": 93,
+        "HK$": 25,
+        "THB": 200,
+        "$": 186.93,
+        "£": 46,
+        "ZAR": 35,
+        "CZK": 700,
+        "₱": 425,
+        "IDR": 140000,
+        "¥": 7920,
+        "€": 65,
+        "PLN": 10,
+        "R$": 25,
+        "CRC": 1000,
+        "CA$": 35.98
+      },
+      "sc": 88,
+      "sticker": 3,
+      "member": 26,
+      "gift": 4,
+      "recv": 27
     },
     "Wtf5mc1Yq3c": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "NT$": 395,
+        "$": 649.82,
+        "CA$": 58.99,
+        "HUF": 645,
+        "MX$": 114,
+        "MYR": 64.9,
+        "£": 40.99,
+        "HK$": 25,
+        "¥": 1000,
+        "₫": 200000,
+        "€": 118,
+        "A$": 20.98,
+        "ARS": 250,
+        "NOK": 50,
+        "₱": 575,
+        "THB": 179,
+        "R$": 40,
+        "SGD": 50
+      },
+      "sc": 112,
+      "sticker": 8,
+      "member": 11,
+      "gift": 5,
+      "recv": 79
     },
     "NHDlgPjY9fM": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "HUF": 245,
+        "NT$": 525,
+        "MX$": 14,
+        "€": 1.49,
+        "SGD": 1.49,
+        "RSD": 250,
+        "$": 10.99,
+        "£": 5
+      },
+      "sc": 6,
+      "sticker": 5,
+      "member": 18,
+      "gift": 2,
+      "recv": 1
     },
     "2qiX7084obE": {
       "cur": {

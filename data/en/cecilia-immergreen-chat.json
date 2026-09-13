@@ -1,11 +1,11 @@
 {
   "channelId": "UCvN5h1ShZtc7nly3pezRayg",
   "channelName": "Cecilia Immergreen",
-  "lastUpdated": "2026-09-13T03:13:01.284Z",
+  "lastUpdated": "2026-09-13T14:56:43.698Z",
   "streams": {
     "iRc8ZsYDK5c": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "L-MQsH7kNzE": {
       "cur": {
@@ -2151,7 +2151,7 @@
     },
     "ywXLWSfaAdI": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "8e8HLDsRye0": {
       "cur": {
@@ -2400,12 +2400,49 @@
       "recv": 63
     },
     "O_1z0UhvY2Y": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "$": 782.89,
+        "€": 56,
+        "CA$": 48.98,
+        "ARS": 400,
+        "IDR": 300000,
+        "SEK": 250,
+        "£": 36.97,
+        "PEN": 10,
+        "PLN": 500,
+        "CZK": 50,
+        "¥": 2000,
+        "MYR": 15,
+        "₫": 50000,
+        "₱": 250
+      },
+      "sc": 93,
+      "member": 23,
+      "milestone": 110,
+      "gift": 7,
+      "recv": 73
     },
     "XW3h-0N_9fw": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "$": 333.98,
+        "£": 49.99,
+        "ARS": 900,
+        "€": 127,
+        "₪": 30,
+        "CRC": 2500,
+        "PLN": 50,
+        "NOK": 200,
+        "¥": 1000,
+        "SGD": 12.98,
+        "MX$": 50,
+        "UYU": 75,
+        "CA$": 2
+      },
+      "sc": 57,
+      "member": 11,
+      "milestone": 47,
+      "gift": 4,
+      "recv": 8
     },
     "iyNbmBa70Ks": {
       "member": 4,
@@ -3147,7 +3184,7 @@
     },
     "bdoJuZuYA6Q": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "D2_iHYFl3sg": {
       "cur": {
@@ -4010,8 +4047,27 @@
       "recv": 155
     },
     "y_mO6y2RlVU": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "$": 81.99,
+        "€": 59,
+        "IDR": 200000,
+        "MYR": 15,
+        "£": 30,
+        "₱": 125,
+        "₹": 200,
+        "ARS": 150,
+        "R$": 5,
+        "A$": 5,
+        "SEK": 50,
+        "CA$": 15,
+        "DKK": 50,
+        "NZ$": 5
+      },
+      "sc": 33,
+      "member": 11,
+      "milestone": 39,
+      "gift": 3,
+      "recv": 12
     },
     "UovQ2vJBTYc": {
       "cur": {
@@ -4034,8 +4090,10 @@
       "recv": 171
     },
     "WqKtkVkinyc": {
-      "e": "http503",
-      "n": 1
+      "member": 15,
+      "milestone": 41,
+      "gift": 52,
+      "recv": 580
     },
     "oUpnHa06738": {
       "cur": {
@@ -4147,7 +4205,7 @@
     },
     "PRdlI64QHoY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "a6K4dxr0BsQ": {
       "cur": {
@@ -5059,7 +5117,7 @@
     },
     "SAdndMvNK98": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "XHqOdg-5CbU": {
       "cur": {
