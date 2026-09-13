@@ -7,15 +7,26 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-09-13T05:38:52.823Z",
+  "lastUpdated": "2026-09-13T05:46:00.183Z",
   "videoCount": 2389,
   "videos": [
+    {
+      "id": "Dg3GP4V-4BU",
+      "title": "【 ドラゴンクエスト ビルダーズ 】なんだこのゲーム・・・おもしろすぎ・・・!【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "published": "2026-09-13T05:08:45Z",
+      "type": "stream",
+      "duration": 17571,
+      "status": "past",
+      "scheduledStart": "2026-09-13T00:00:00Z"
+    },
     {
       "id": "kSVbWIgVqK0",
       "title": "【SNSで話題!】暑さに耐えながらMYカメラでカラーハンティング📷✨【ルイ姉、今日なにする?】#4",
       "published": "2026-09-12T17:00:25+00:00",
       "type": "video",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-13T09:00:00Z"
     },
     {
       "id": "vMVUobE0kSM",
@@ -24,16 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-09-13T05:00:00.000Z"
-    },
-    {
-      "id": "Dg3GP4V-4BU",
-      "title": "【 ドラゴンクエスト ビルダーズ 】なんだこのゲーム・・・おもしろすぎ・・・!【鷹嶺ルイ/ホロライブ】ネタバレあり",
-      "published": "2026-09-12T16:19:19.000Z",
-      "type": "stream",
-      "duration": 17571,
-      "status": "past",
-      "scheduledStart": "2026-09-13T00:00:00.000Z"
+      "scheduledStart": "2026-09-13T05:00:00Z"
     },
     {
       "id": "5h8DeoXN31c",
