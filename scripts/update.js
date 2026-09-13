@@ -25,6 +25,30 @@ function get(url, headers = {}) {
   });
 }
 
+/**
+ * Google bot-gates the shared Actions runner IPs and answers a slice of
+ * requests with 401. It is the address asking that gets refused, not the sheet
+ * or the secret, and it varies per attempt — so a retry a few seconds later
+ * normally lands. Same helper fetch-chat.js uses.
+ */
+async function getWithRetry(url, attempts) {
+  const max = attempts || 3;
+  let last = null;
+  for (let i = 1; i <= max; i++) {
+    try {
+      const r = await get(url);
+      if (r.status === 200) return r;
+      last = r;
+      console.log(`  ⚠ CSV fetch attempt ${i}: HTTP ${r.status}`);
+    } catch (e) {
+      last = { status: 0, body: e.message };
+      console.log(`  ⚠ CSV fetch attempt ${i}: ${e.message}`);
+    }
+    if (i < max) await new Promise(r => setTimeout(r, i * 3000));
+  }
+  return last;
+}
+
 function head(url) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
@@ -596,7 +620,7 @@ async function main() {
 
   // Fetch and parse CSV
   console.log('Fetching CSV...');
-  const { status, body } = await get(csvUrl);
+  const { status, body } = await getWithRetry(csvUrl, 3);
   if (status !== 200) { console.error(`Failed to fetch CSV: HTTP ${status}`); process.exit(1); }
 
   const allRows = parseCSV(body);

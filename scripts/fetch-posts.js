@@ -69,6 +69,33 @@ function get(url, headers) {
   });
 }
 
+/**
+ * Google bot-gates the shared Actions runner IPs and answers a slice of
+ * requests with 401 — unpredictably, and more often while something else is
+ * driving heavy traffic from the same pool (a chat backfill, say). The sheet
+ * and the secret are fine; the address asking is what gets refused, and it
+ * varies per attempt. fetch-chat.js hits this constantly and already retries;
+ * this runs every 30 minutes, so a single bare failure was ending the run
+ * often enough to notice.
+ */
+async function getWithRetry(url, attempts) {
+  const max = attempts || 3;
+  let last = null;
+  for (let i = 1; i <= max; i++) {
+    try {
+      const r = await get(url);
+      if (r.status === 200) return r;
+      last = r;
+      console.log('  ⚠ CSV fetch attempt ' + i + ': HTTP ' + r.status);
+    } catch (e) {
+      last = { status: 0, body: e.message };
+      console.log('  ⚠ CSV fetch attempt ' + i + ': ' + e.message);
+    }
+    if (i < max) await new Promise(r => setTimeout(r, i * 3000));
+  }
+  return last;
+}
+
 function post(url, payload) {
   return new Promise((resolve, reject) => {
     const data = Buffer.from(JSON.stringify(payload));
@@ -487,7 +514,7 @@ async function main() {
   console.log('║   Community Posts                        ║');
   console.log('╚══════════════════════════════════════════╝\n');
 
-  const csv = await get(csvUrl);
+  const csv = await getWithRetry(csvUrl, 3);
   if (csv.status !== 200) { console.error('Failed to fetch CSV: HTTP ' + csv.status); process.exit(1); }
 
   const selected = parseRows(rowsRaw, parseCSV(csv.body))
