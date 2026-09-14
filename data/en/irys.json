@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
     "bannerUrl": "https://yt3.googleusercontent.com/FJwvN5n0ZEDxnNxWKwo8RXB6K-9Z9nDcGWUmIMLG4ssCsBX_mF6-z2rwVBN6-87XKwQIHCJLdG4=s0"
   },
-  "lastUpdated": "2026-09-14T06:07:55.566Z",
-  "videoCount": 832,
+  "lastUpdated": "2026-09-14T07:55:28.328Z",
+  "videoCount": 833,
   "videos": [
+    {
+      "id": "whsH7qA44EA",
+      "title": "【Hololive Dreams】SHORT PRACTICE FOR TOURNAMENT ちょっと大会の練習！！！",
+      "published": "2026-09-14T05:34:18+00:00",
+      "type": "stream",
+      "duration": 6626,
+      "status": "past"
+    },
     {
       "id": "j81SvlkF6jg",
       "title": "【Onimusha: Way of the Sword】Purifying the Lands with my Sword 幻魔退治!!",
@@ -5983,7 +5991,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-30T03:00:00Z"
+      "scheduledStart": "2026-09-30T03:00:00.000Z"
     },
     {
       "id": "ocQSSdsrFN8",

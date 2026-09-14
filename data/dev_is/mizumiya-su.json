@@ -7,9 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-14T06:22:06.212Z",
-  "videoCount": 1123,
+  "lastUpdated": "2026-09-14T08:07:25.117Z",
+  "videoCount": 1125,
   "videos": [
+    {
+      "id": "82KFyGROd04",
+      "title": "うれぴっぴ／みにみやが踊ってみた #vtuber #ホロライブ #dance",
+      "published": "2026-09-14T08:05:01+00:00",
+      "type": "short",
+      "duration": 0
+    },
+    {
+      "id": "xCesfamA8JU",
+      "title": "【 #ししドリ杯/ホロドリ 】team1本番だ〜✨️!!【水宮枢/ホロライブ】",
+      "published": "2026-09-14T07:21:36.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-14T10:00:00.000Z"
+    },
     {
       "id": "KKcWO7cSTYQ",
       "title": "【ホロドリ】ホロドリやるよ〜🎶練習配信＃【水宮枢／ホロライブ10】",
@@ -1545,7 +1561,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",
