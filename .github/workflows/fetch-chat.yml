@@ -60,7 +60,7 @@ jobs:
           # address every run — so a stream that hits a login wall on one run
           # can sail through on the next. More attempts is just more rolls of
           # the dice, and the straggler sweep makes them free.
-          MAX_ATTEMPTS: '10'
+          MAX_ATTEMPTS: '32'
           DATA_DIR:     ./data
         run: node scripts/fetch-chat.js
 

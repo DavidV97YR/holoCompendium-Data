@@ -63,7 +63,7 @@ jobs:
           BUDGET_MIN:  ${{ github.event.inputs.budget_min || '300' }}
           # See fetch-chat.yml — runner IPs get bot-gated and vary per run, so
           # extra attempts cost nothing and eventually land on a clean address.
-          MAX_ATTEMPTS: '10'
+          MAX_ATTEMPTS: '32'
           DATA_DIR:    ./data
         run: node scripts/fetch-chat.js
 
