@@ -327,6 +327,23 @@ async function walkChatRetrying(videoId, tries) {
 }
 
 /** Roll a log into the compact summary the Activity grid reads. */
+/**
+ * Is this failure a property of our request rather than of the video?
+ *
+ * A blocked or rate-limited runner IP, a YouTube 5xx, a dropped connection —
+ * none of them say anything about whether the replay is fetchable, and the
+ * next run draws a different address anyway. Letting them count toward
+ * MAX_ATTEMPTS means one bad afternoon can permanently abandon a talent's
+ * whole catalogue, so they retry forever without spending the budget.
+ *
+ * Only failures that describe the video itself are allowed to give up:
+ * noreplay, a 404, or a walk that ran out of continuations part-way.
+ */
+function isTransient(why) {
+  return why === 'gated' || why === 'timeout' || why === 'neterr'
+      || why === 'http429' || /^http5\d\d$/.test(why);
+}
+
 function summarise(log) {
   if (!log.length) return 0;
   const s = { cur: {}, sc: 0, sticker: 0, member: 0, milestone: 0, gift: 0, recv: 0, sent: 0 };
@@ -676,19 +693,14 @@ async function main() {
       if (r.unavailable || r.aborted) {
         const prev = done[v.id];
         const why = r.aborted || 'noreplay';
-        // 'gated' describes our request, not the stream — a blocked runner IP
-        // says nothing about whether the video is fetchable. Letting it count
-        // toward MAX_ATTEMPTS means one bad afternoon can permanently abandon a
-        // talent's whole catalogue, so it retries forever without spending the
-        // budget. Only 'noreplay' and friends, which are properties of the
-        // video, are allowed to give up.
-        const n = why === 'gated' ? ((prev && prev.n) || 0)
-                                  : ((prev && prev.n) || 0) + 1;
+        const n = isTransient(why) ? ((prev && prev.n) || 0)
+                                   : ((prev && prev.n) || 0) + 1;
         done[v.id] = { e: why, n: n };
         summary.unavailable++;
         console.log('    ⚠ ' + v.id + '  ' + (r.aborted ? 'walk aborted (' + why + ') after ' + r.pages + ' pages'
                                                         : 'replay not available')
-                  + ' (attempt ' + n + '/' + maxAttempts + ')');
+                  + (isTransient(why) ? '  (transient, not counted)'
+                                      : ' (attempt ' + n + '/' + maxAttempts + ')'));
         return;
       }
 
