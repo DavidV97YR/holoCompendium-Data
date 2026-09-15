@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-15T05:51:06.949Z",
-  "videoCount": 1269,
+  "lastUpdated": "2026-09-15T07:42:45.322Z",
+  "videoCount": 1270,
   "videos": [
     {
       "id": "PgNgZGSZN0w",
@@ -36,6 +36,15 @@
       "duration": 4994,
       "status": "past",
       "scheduledStart": "2026-09-09T13:00:00Z"
+    },
+    {
+      "id": "f5sNX7FLT1w",
+      "title": "【同時視聴/Watchalong】〈偽物語〉(後編8~11話)holoXで視聴会【風真いろは/ホロライブ】",
+      "published": "2026-09-08T09:48:47.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-15T10:00:00.000Z"
     },
     {
       "id": "SUhvxyVWDEA",
@@ -125,7 +134,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z"
+      "scheduledStart": "2026-08-23T08:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "NeAx7gIaKtk",
