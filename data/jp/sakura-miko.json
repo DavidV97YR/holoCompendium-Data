@@ -7,25 +7,34 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-09-15T09:06:11.465Z",
-  "videoCount": 2355,
+  "lastUpdated": "2026-09-15T11:06:15.639Z",
+  "videoCount": 2356,
   "videos": [
+    {
+      "id": "bKJefYPsJdk",
+      "title": "?????",
+      "published": "2026-09-15T11:00:07.000Z",
+      "type": "video",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-15T11:00:00.000Z"
+    },
     {
       "id": "8MneK49YBi4",
       "title": "【7Days to Die】#ホロ7大豆劇場 DAY12 襲撃回🔥あらたな7大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
       "published": "2026-09-15T08:37:33.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-15T11:00:00.000Z"
     },
     {
       "id": "AaYnGEgePmg",
-      "title": "【 重大告知】重大告知やりますにぇえええええええええ!!!!!!!!!!!!!!【ホロライブ/さくらみこ】",
+      "title": "【 重大告知】重大告知やりますにぇえええええええええ！！！！！！！！！！！！！！【ホロライブ/さくらみこ】",
       "published": "2026-09-15T05:53:40.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-15T10:00:00.000Z"
     },
     {
