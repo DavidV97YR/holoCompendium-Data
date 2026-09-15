@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-09-15T12:08:04.700Z",
+  "lastUpdated": "2026-09-15T18:23:52.630Z",
   "videoCount": 799,
   "videos": [
     {
@@ -15,7 +15,8 @@
       "title": "愛すべき我らがYAGOO#shorts #切り抜き",
       "published": "2026-09-15T08:00:14+00:00",
       "type": "short",
-      "duration": 40
+      "duration": 40,
+      "status": "past"
     },
     {
       "id": "bi-nw4LERZU",
@@ -6493,7 +6494,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00.000Z"
+      "scheduledStart": "2026-12-30T15:00:00Z"
     },
     {
       "id": "SjEF6bluuJE",

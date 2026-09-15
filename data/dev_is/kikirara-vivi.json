@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-09-15T16:08:52.720Z",
+  "lastUpdated": "2026-09-15T18:24:47.142Z",
   "videoCount": 1191,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "突発🚨お風呂入るまでナイトルーティン🛁",
       "published": "2026-09-15T14:30:27+00:00",
       "type": "stream",
-      "duration": 1646
+      "duration": 1646,
+      "status": "past",
+      "scheduledStart": "2026-09-15T13:58:58Z"
     },
     {
       "id": "MQbAJKg5g7M",
@@ -24,14 +26,15 @@
       "type": "video",
       "duration": 219,
       "status": "past",
-      "scheduledStart": "2026-09-15T09:00:00.000Z"
+      "scheduledStart": "2026-09-15T09:00:00Z"
     },
     {
       "id": "sZLdZXJkRs4",
       "title": "ころしちゃった!【#綺々羅々ヴィヴィ】#vtuber#ホロライブ #shorts",
       "published": "2026-09-15T08:04:03+00:00",
       "type": "short",
-      "duration": 23
+      "duration": 23,
+      "status": "past"
     },
     {
       "id": "XgJOjDn5Z7Q",
@@ -40,7 +43,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-16T09:00:00.000Z"
+      "scheduledStart": "2026-09-16T09:00:00Z"
     },
     {
       "id": "sMhZJ__GT28",
@@ -9782,7 +9785,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00.000Z"
+      "scheduledStart": "2027-12-31T14:45:00Z"
     },
     {
       "id": "SrH6XQ8H9oo",
