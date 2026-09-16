@@ -7,15 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-16T18:09:38.967Z",
-  "videoCount": 228,
+  "lastUpdated": "2026-09-16T18:26:40.408Z",
+  "videoCount": 227,
   "videos": [
     {
       "id": "gsPJPQzz-1Q",
       "title": "【#ホロドリ】イベント最終日❕自己ベスト更新なるか⁉【#ひなみ通信】#ACHRORA #由比河ひなみ",
       "published": "2026-09-16T15:59:17+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-17T03:00:00Z"
     },
     {
       "id": "bfICNGUfaR0",
@@ -33,7 +35,7 @@
       "type": "stream",
       "duration": 9490,
       "status": "past",
-      "scheduledStart": "2026-09-16T12:00:00.000Z"
+      "scheduledStart": "2026-09-16T12:00:00Z"
     },
     {
       "id": "l0SLLL6sBKY",
@@ -42,7 +44,7 @@
       "type": "stream",
       "duration": 7454,
       "status": "past",
-      "scheduledStart": "2026-09-16T10:00:00.000Z"
+      "scheduledStart": "2026-09-16T10:00:00Z"
     },
     {
       "id": "_nVmDhXT_jg",
@@ -51,7 +53,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-16T21:00:00.000Z"
+      "scheduledStart": "2026-09-16T21:00:00Z"
     },
     {
       "id": "pSo_5CRJTf0",
@@ -77,7 +79,7 @@
       "type": "member",
       "duration": 6927,
       "status": "past",
-      "scheduledStart": "2026-09-16T10:00:00.000Z"
+      "scheduledStart": "2026-09-16T10:00:00Z"
     },
     {
       "id": "Eg4oGw409DA",
@@ -86,7 +88,7 @@
       "type": "member",
       "duration": 6847,
       "status": "past",
-      "scheduledStart": "2026-09-16T10:00:00.000Z"
+      "scheduledStart": "2026-09-16T10:00:00Z"
     },
     {
       "id": "VfJ_lyL2DtI",

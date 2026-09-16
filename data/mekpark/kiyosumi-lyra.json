@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-09-16T14:10:06.966Z",
+  "lastUpdated": "2026-09-16T18:26:28.222Z",
   "videoCount": 143,
   "videos": [
     {
@@ -17,15 +17,16 @@
       "type": "stream",
       "duration": 7918,
       "status": "past",
-      "scheduledStart": "2026-09-16T10:00:00.000Z"
+      "scheduledStart": "2026-09-16T10:00:00Z"
     },
     {
       "id": "kdUGVz4zVpY",
       "title": "【メン限】こんにちは！お話しよ！【 #UNIT_B / #玲銘ミラ】",
       "published": "2026-09-15T12:33:17+00:00",
       "type": "member",
-      "duration": 0,
-      "status": "missing"
+      "duration": 6539,
+      "status": "past",
+      "scheduledStart": "2026-09-16T05:00:00Z"
     },
     {
       "id": "w7KNzS81c2k",
