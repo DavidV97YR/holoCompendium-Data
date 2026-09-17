@@ -7,16 +7,23 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-09-17T07:16:59.187Z",
-  "videoCount": 2200,
+  "lastUpdated": "2026-09-17T11:17:03.999Z",
+  "videoCount": 2201,
   "videos": [
+    {
+      "id": "bC8bLJe3_Mc",
+      "title": "【】奏からのプレゼント【ホロライブ/大空スバル】",
+      "published": "2026-09-17T10:54:33+00:00",
+      "type": "stream",
+      "duration": 0
+    },
     {
       "id": "UTTsicHSoeI",
       "title": "【DAY14】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
       "published": "2026-09-16T20:25:39.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-17T11:00:00.000Z"
     },
     {
@@ -56,10 +63,10 @@
     },
     {
       "id": "ou2s4FCuSSs",
-      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+      "title": "【DAY13】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ!!!!!!：7Days to Die【ホロライブ/大空スバル】",
       "published": "2026-09-15T13:58:30+00:00",
       "type": "stream",
-      "duration": 9832,
+      "duration": 9830,
       "status": "past",
       "scheduledStart": "2026-09-15T11:00:00Z"
     },
