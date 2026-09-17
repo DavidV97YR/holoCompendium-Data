@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-09-16T22:02:28.671Z",
+  "lastUpdated": "2026-09-17T06:17:27.773Z",
   "videoCount": 542,
   "videos": [
     {
@@ -15,7 +15,8 @@
       "title": "LET'S MAKE ARANCINO!!! 🍘🤌",
       "published": "2026-09-16T19:12:46+00:00",
       "type": "short",
-      "duration": 49
+      "duration": 49,
+      "status": "past"
     },
     {
       "id": "KJge-KcU_x0",
@@ -3311,7 +3312,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-25T14:20:00.000Z"
+      "scheduledStart": "2026-12-25T14:20:00Z"
     },
     {
       "id": "dXLjZ0WoC88",
