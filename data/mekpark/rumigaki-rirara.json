@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-17T16:10:34.501Z",
+  "lastUpdated": "2026-09-17T18:23:08.839Z",
   "videoCount": 232,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-18T11:00:00.000Z"
+      "scheduledStart": "2026-09-18T11:00:00Z"
     },
     {
       "id": "bfICNGUfaR0",
@@ -26,21 +26,25 @@
       "type": "stream",
       "duration": 6566,
       "status": "past",
-      "scheduledStart": "2026-09-17T12:00:00.000Z"
+      "scheduledStart": "2026-09-17T12:00:00Z"
     },
     {
       "id": "3L9kDijQBjs",
       "title": "【地元大好き】宮崎の良さを布教したい #墨汐さやな #さやな時間",
       "published": "2026-09-17T13:17:53+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-17T21:00:00Z"
     },
     {
       "id": "R4oYRtGdEow",
       "title": "【緊急/ #ホロドリ】イベント終了まで走ります!!!!APフルコンも目指す!!!!【#ひなみ通信】#ACHRORA #由比河ひなみ",
       "published": "2026-09-17T12:11:25+00:00",
       "type": "stream",
-      "duration": 10902
+      "duration": 10902,
+      "status": "past",
+      "scheduledStart": "2026-09-17T09:00:00Z"
     },
     {
       "id": "REmcZbB-JLI",

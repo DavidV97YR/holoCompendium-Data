@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-09-17T14:09:16.635Z",
+  "lastUpdated": "2026-09-17T18:22:26.283Z",
   "videoCount": 144,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【仁義なき戦い】私たちと共に戦おう！【 #UNIT_B / #スプラトゥーン3 】",
       "published": "2026-09-17T13:26:03+00:00",
       "type": "stream",
-      "duration": 8218
+      "duration": 8218,
+      "status": "past",
+      "scheduledStart": "2026-09-17T11:00:00Z"
     },
     {
       "id": "XtDzT8czb0o",
