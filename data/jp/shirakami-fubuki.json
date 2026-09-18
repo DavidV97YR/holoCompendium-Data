@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
     "bannerUrl": "https://yt3.googleusercontent.com/sZR7H8ye0MmNeLXg70SypSOH45r_OAgA-IbJrqKRmwk4T1CkWAh5g0n6kGv5t8o29Swcc1DiUg=s0"
   },
-  "lastUpdated": "2026-09-18T17:12:15.591Z",
+  "lastUpdated": "2026-09-18T17:14:49.218Z",
   "videoCount": 3274,
   "videos": [
     {
       "id": "BtDHUdUV3DI",
       "title": "【歌】【黒上】",
       "published": "2026-09-18T14:47:20.000Z",
-      "type": "stream",
+      "type": "member",
       "duration": 2598,
       "status": "past",
-      "scheduledStart": "2026-09-18T15:00:00.000Z"
+      "scheduledStart": "2026-09-18T15:00:00Z"
     },
     {
       "id": "_vvbn7kgqj4",
@@ -26,7 +26,7 @@
       "type": "stream",
       "duration": 7224,
       "status": "past",
-      "scheduledStart": "2026-09-18T11:00:00.000Z"
+      "scheduledStart": "2026-09-18T11:00:00Z"
     },
     {
       "id": "kVIP05MlL4I",
@@ -5770,7 +5770,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-30T15:00:00.000Z"
+      "scheduledStart": "2027-08-30T15:00:00Z"
     },
     {
       "id": "7Vo37040OMw",
@@ -15813,7 +15813,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-30T15:00:00.000Z"
+      "scheduledStart": "2027-08-30T15:00:00Z"
     },
     {
       "id": "tigFZwD3bRc",

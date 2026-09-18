@@ -7,22 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-18T18:08:16.595Z",
+  "lastUpdated": "2026-09-18T18:22:11.553Z",
   "videoCount": 1132,
   "videos": [
     {
       "id": "8hKUE6R_DmU",
       "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#4 【水宮枢/ホロライブDEV_IS】※ネタバレ有",
-      "published": "2026-09-18T16:59:56+00:00",
+      "published": "2026-09-18T16:59:56Z",
       "type": "stream",
-      "duration": 10114
+      "duration": 10114,
+      "status": "past",
+      "scheduledStart": "2026-09-18T14:00:00Z"
     },
     {
       "id": "yEHZ7KHdOQk",
       "title": "お尻回すやつ!/はちゃめちゃわちゃライフ踊ってみた #vtuber #hololive #dance",
       "published": "2026-09-18T08:00:36+00:00",
       "type": "short",
-      "duration": 13
+      "duration": 13,
+      "status": "past"
     },
     {
       "id": "HAIiSo456Rk",
@@ -1618,7 +1621,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00.000Z"
+      "scheduledStart": "2028-06-30T14:30:00Z"
     },
     {
       "id": "bzecknsOFZI",

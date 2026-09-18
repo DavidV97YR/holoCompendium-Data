@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FF7U-8fSNFmZalS5rOz0xblWY-wNC_IxZZ4AG_BctbqptVxfIAhNrn-6E3MYNCH33EgcASGJ=s0"
   },
-  "lastUpdated": "2026-09-18T15:31:05.950Z",
+  "lastUpdated": "2026-09-18T17:37:00.228Z",
   "videoCount": 1894,
   "videos": [
     {
@@ -15,14 +15,17 @@
       "title": "【 Apex Legends 】せりーとありさんと!【常闇トワ / ホロライブ】",
       "published": "2026-09-18T13:38:50+00:00",
       "type": "stream",
-      "duration": 11949
+      "duration": 11949,
+      "status": "past",
+      "scheduledStart": "2026-09-18T10:00:00Z"
     },
     {
       "id": "772Pg_mU-rw",
       "title": "おつかれSUMMER 踊ってみた☀️  #vtuber #dance  #踊ってみた #shorts",
       "published": "2026-09-18T04:17:19+00:00",
       "type": "short",
-      "duration": 14
+      "duration": 14,
+      "status": "past"
     },
     {
       "id": "BDo61qnmU-8",
