@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-18T05:51:21.721Z",
+  "lastUpdated": "2026-09-18T07:43:34.837Z",
   "videoCount": 1273,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-18T11:00:00Z"
+      "scheduledStart": "2026-09-18T11:00:00.000Z"
     },
     {
       "id": "Pu1uR5DSH8o",
@@ -33,7 +33,7 @@
       "title": "【JSP3】告知アリ❣クリアできたらな!!!!!!!!!!!!!!!!!!!【風真いろは/ホロライブ】",
       "published": "2026-09-16T13:11:25+00:00",
       "type": "stream",
-      "duration": 4099,
+      "duration": 4097,
       "status": "past",
       "scheduledStart": "2026-09-16T10:00:00Z"
     },
@@ -161,7 +161,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z"
+      "scheduledStart": "2026-08-23T08:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "NeAx7gIaKtk",
