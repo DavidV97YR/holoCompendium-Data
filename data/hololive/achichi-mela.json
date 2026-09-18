@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "UC8eitCE9Z6EwUCs-VUi1blg",
+    "name": "Achichi Mela",
+    "branch": "hololive",
+    "slug": "achichi-mela",
+    "avatarUrl": "https://yt3.ggpht.com/85T4oBl3glSimmPGjTjSHd91h6QcgPjU4PSTjUs3uPOAvRbDqTNJkgrYyBIYL9PARGOeLVyKiw",
+    "bannerUrl": "https://yt3.googleusercontent.com/mjz_l-ZwymzEkuMui3x09-WoRoqqkRPYcGkuApFZdtn2j-4_0d6vFyfdHf0y-qwCzG1hYwxG=s0"
+  },
+  "lastUpdated": "2026-09-18T15:24:23.097Z",
+  "videoCount": 3,
+  "videos": [
+    {
+      "id": "4t9AwFEmKOE",
+      "title": "#熱千めら デビューPV【アソビ★まわり隊！】",
+      "published": "2026-09-18T03:05:09Z",
+      "type": "short",
+      "duration": 32
+    },
+    {
+      "id": "HUdqaVqqv7Y",
+      "title": "#熱千めら デビューPV【アソビ★まわり隊！】",
+      "published": "2026-09-18T03:05:05Z",
+      "type": "video",
+      "duration": 32
+    },
+    {
+      "id": "CEo1T9NzynY",
+      "title": "【初配信】火消し開始なのじゃ！！！  #ホロライブ #アソビまわり隊  #熱千めら初配信",
+      "published": "2026-09-16T09:08:52Z",
+      "type": "stream",
+      "duration": 0
+    }
+  ]
+}
