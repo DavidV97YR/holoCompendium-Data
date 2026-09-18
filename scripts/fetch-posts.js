@@ -431,7 +431,7 @@ async function doChannel(talent, channelId, store, backfill) {
 
 // ── store ─────────────────────────────────────────────────────────────────
 
-const BRANCHES = ['jp', 'en', 'id', 'dev_is', 'mekpark'];
+const BRANCHES = ['jp', 'en', 'id', 'dev_is', 'mekpark', 'hololive'];
 
 // Serialized posts of each branch file as it currently stands on disk, so
 // saveStore can tell a real change from a no-op without re-reading 6 MB once
