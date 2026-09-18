@@ -1,7 +1,7 @@
 {
   "channelId": "UC1uv2Oq6kNxgATlCiez59hw",
   "channelName": "Tokoyami Towa",
-  "lastUpdated": "2026-09-18T07:09:07.604Z",
+  "lastUpdated": "2026-09-18T14:39:46.150Z",
   "streams": {
     "bQ8PMeJiruQ": {
       "cur": {
@@ -67,8 +67,12 @@
       "milestone": 8
     },
     "PSJjcmt4fYw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3860,
+        "NT$": 75
+      },
+      "sc": 10,
+      "milestone": 3
     },
     "KHDVPdoylyc": {
       "cur": {
@@ -9523,7 +9527,7 @@
     },
     "w9TTDYN3hs4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "60x6sJ0ZZV8": {
       "cur": {
@@ -10240,12 +10244,35 @@
       "milestone": 21
     },
     "TUvhBWosG_E": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 20018,
+        "NT$": 600,
+        "HK$": 185,
+        "£": 4,
+        "₱": 125,
+        "$": 5
+      },
+      "sc": 51,
+      "sticker": 6,
+      "member": 16,
+      "milestone": 15
     },
     "SuPhc5fQXX8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 5717,
+        "CA$": 5,
+        "NT$": 225,
+        "₩": 5000,
+        "MYR": 15,
+        "₱": 250,
+        "$": 5,
+        "£": 2,
+        "HK$": 40
+      },
+      "sc": 23,
+      "sticker": 3,
+      "member": 9,
+      "milestone": 21
     },
     "gS9GkNcsWhY": {
       "cur": {
@@ -10265,8 +10292,27 @@
       "milestone": 106
     },
     "ctrTJ_VZKIM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 94049,
+        "NT$": 8220,
+        "HK$": 35,
+        "MYR": 30,
+        "£": 17,
+        "₱": 250,
+        "₩": 112000,
+        "SGD": 7.98,
+        "IDR": 40000,
+        "THB": 20,
+        "ARS": 90,
+        "€": 5,
+        "CA$": 5,
+        "$": 10.8,
+        "CLP": 2500
+      },
+      "sc": 121,
+      "sticker": 4,
+      "member": 19,
+      "milestone": 57
     },
     "WtSADb8yw-Q": {
       "cur": {
@@ -10620,7 +10666,7 @@
     },
     "fwIQcx9kibQ": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "JHN_a2Q-A3k": {
       "cur": {
@@ -13011,7 +13057,7 @@
     },
     "QU9zNh5j2S4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "_gpLfRVigEo": {
       "cur": {
@@ -15959,7 +16005,7 @@
     },
     "UPan2iUWHPQ": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "vekabw2YmpA": {
       "cur": {
@@ -21588,7 +21634,7 @@
     },
     "5miPdHDhvdA": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "lxCrHKKot3s": {
       "cur": {
@@ -22582,7 +22628,7 @@
     },
     "eVQ23mJvPuc": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "qGU2RBlLh8Y": {
       "cur": {
@@ -23357,7 +23403,7 @@
     },
     "UplBYk_dZm8": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "0beezIPMOmU": {
       "member": 6
@@ -24357,6 +24403,10 @@
       "sc": 1416,
       "sticker": 16,
       "member": 186
+    },
+    "wIg2m7cOGQM": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
