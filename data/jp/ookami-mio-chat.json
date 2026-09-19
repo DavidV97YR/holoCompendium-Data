@@ -1,7 +1,7 @@
 {
   "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
   "channelName": "Ookami Mio",
-  "lastUpdated": "2026-09-16T18:57:04.485Z",
+  "lastUpdated": "2026-09-19T15:32:15.112Z",
   "streams": {
     "8el7kOW8qp0": {
       "cur": {
@@ -1264,7 +1264,7 @@
     },
     "jRX_EeOZc-I": {
       "e": "noreplay",
-      "n": 3
+      "n": 4
     },
     "H5K3J6eQTDI": {
       "cur": {
@@ -7454,7 +7454,7 @@
     },
     "ouwwf23EvvQ": {
       "e": "noreplay",
-      "n": 3
+      "n": 4
     },
     "xZbH_zdXOco": {
       "cur": {
@@ -8653,7 +8653,7 @@
     },
     "7gmdj-4VUng": {
       "e": "noreplay",
-      "n": 3
+      "n": 4
     },
     "hW6tTmfpS0M": {
       "cur": {
@@ -9171,7 +9171,7 @@
     },
     "tW5WPX-SfIQ": {
       "e": "noreplay",
-      "n": 3
+      "n": 4
     },
     "QmYZTVCjhd4": {
       "cur": {
@@ -9935,7 +9935,7 @@
     },
     "MCOQ_x-d5xg": {
       "e": "noreplay",
-      "n": 3
+      "n": 4
     },
     "5TtD46pJNo8": {
       "cur": {
@@ -11455,7 +11455,7 @@
     },
     "9tijakJfqh0": {
       "e": "noreplay",
-      "n": 3
+      "n": 4
     },
     "U5dDkgRqDG0": {
       "cur": {
@@ -17661,7 +17661,7 @@
     },
     "w-1XmtkCVCM": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "sqk39A07gQk": {
       "cur": {
@@ -17680,7 +17680,7 @@
     },
     "XkhXKpHexAk": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "RI4TEIK9k2Q": {
       "cur": {
@@ -18095,6 +18095,31 @@
       "sc": 72,
       "sticker": 1,
       "member": 6
+    },
+    "3b1W_NGeIgs": {
+      "cur": {
+        "¥": 18535,
+        "NT$": 30
+      },
+      "sc": 13,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 17,
+      "gift": 6,
+      "recv": 21,
+      "sent": 22
+    },
+    "7ZpdeFdbs5c": {
+      "cur": {
+        "¥": 4500
+      },
+      "sc": 4,
+      "sticker": 1,
+      "member": 9,
+      "milestone": 7,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
     }
   }
 }

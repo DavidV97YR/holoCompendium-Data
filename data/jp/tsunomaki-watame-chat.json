@@ -1,7 +1,7 @@
 {
   "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA",
   "channelName": "Tsunomaki Watame",
-  "lastUpdated": "2026-09-18T14:37:30.290Z",
+  "lastUpdated": "2026-09-19T16:11:19.656Z",
   "streams": {
     "iP4KuZLJGqk": {
       "cur": {
@@ -651,7 +651,7 @@
     },
     "TB1o1nprSGI": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "cAhQRAw5Dj8": {
       "cur": {
@@ -4390,7 +4390,7 @@
     },
     "KfphK5iHD8s": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "M65KGyr1hrU": {
       "cur": {
@@ -4411,7 +4411,7 @@
     },
     "RLNvg4L5lv8": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "CkZ2jBMWJNo": {
       "cur": {
@@ -4447,7 +4447,7 @@
     },
     "RMCbEtnq3RU": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "UIGkYqHGi98": {
       "cur": {
@@ -11955,7 +11955,7 @@
     },
     "6C3aO8HzSoM": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "P-GtcojOnAc": {
       "cur": {
@@ -17472,7 +17472,7 @@
     },
     "hX50Y_uanTc": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "f6m6oEAzm6o": {
       "cur": {
@@ -17788,7 +17788,7 @@
     },
     "NaeL6Ga0IYE": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "6qK5cURIbEI": {
       "cur": {
@@ -20627,7 +20627,7 @@
     },
     "anC6qMegSsY": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "svFsNwbVT10": {
       "cur": {
@@ -22837,7 +22837,7 @@
     },
     "2BDtHl7wTqw": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "9Bsae2TbUiw": {
       "cur": {
@@ -28021,8 +28021,28 @@
       "member": 8
     },
     "O60vkHaihf0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 179189,
+        "NT$": 2745,
+        "SGD": 217,
+        "$": 360.99,
+        "₱": 1175,
+        "SEK": 100,
+        "RUB": 3200,
+        "CA$": 342.98,
+        "HK$": 778,
+        "NZ$": 5,
+        "PEN": 10,
+        "A$": 20,
+        "ARS": 300,
+        "€": 25,
+        "MX$": 80,
+        "₩": 2000,
+        "DKK": 250
+      },
+      "sc": 337,
+      "sticker": 3,
+      "member": 58
     },
     "iRj6Jnq2Wgc": {
       "cur": {
@@ -28295,7 +28315,7 @@
     },
     "JKYyb1eI3tg": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "9DRpfLYElhI": {
       "cur": {
@@ -28707,7 +28727,7 @@
     },
     "K9xJEEHKppo": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "KOilp0IaamE": {
       "cur": {
@@ -29657,7 +29677,7 @@
     },
     "dCTOF4Y97ak": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "bTUmTh3dyCE": {
       "cur": {
@@ -29925,7 +29945,7 @@
     },
     "Q1bHSjxHidI": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "UnMDRngIVgI": {
       "cur": {
@@ -30944,6 +30964,22 @@
       "sc": 222,
       "member": 128
     },
-    "Y4JOiHIuttE": 0
+    "Y4JOiHIuttE": 0,
+    "2VhqRTZ9YlI": {
+      "cur": {
+        "¥": 35369,
+        "₩": 21000,
+        "NT$": 1619,
+        "$": 9,
+        "€": 2
+      },
+      "sc": 47,
+      "sticker": 3,
+      "member": 8,
+      "milestone": 29,
+      "gift": 8,
+      "recv": 27,
+      "sent": 32
+    }
   }
 }

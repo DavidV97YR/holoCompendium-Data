@@ -1,7 +1,7 @@
 {
   "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
   "channelName": "Nekomata Okayu",
-  "lastUpdated": "2026-09-16T18:58:36.932Z",
+  "lastUpdated": "2026-09-19T15:34:29.994Z",
   "streams": {
     "6Pe4NNewLYk": {
       "member": 2,
@@ -742,7 +742,7 @@
     },
     "PtCNqj8C-2M": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "pTOreZYJKFU": {
       "cur": {
@@ -3249,7 +3249,7 @@
     },
     "4nqri8spoo8": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "vWJPCsg18pU": {
       "cur": {
@@ -4199,7 +4199,7 @@
     },
     "QWTTjGB332Q": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "fBXBsldqdBQ": {
       "cur": {
@@ -9013,7 +9013,7 @@
     },
     "iqIbICzkzuA": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "G5HkT7QoDWg": {
       "cur": {
@@ -11269,7 +11269,7 @@
     },
     "-znZM2guLRk": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "-Aq8OdupLEA": {
       "cur": {
@@ -14214,7 +14214,7 @@
     },
     "GVvbVj1zZ0w": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "zwaIZEieQPk": {
       "cur": {
@@ -15637,7 +15637,7 @@
     },
     "5XGWUUx4eE0": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "sqEd2W6TEgk": {
       "cur": {
@@ -15685,7 +15685,7 @@
     },
     "XhGNfHHg29o": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "LwWaeW8A0k4": {
       "cur": {
@@ -15820,7 +15820,7 @@
     },
     "epPYcIwJ5aQ": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "rsN4hZA-9ao": {
       "cur": {
@@ -19178,7 +19178,7 @@
     },
     "uvGrdiRmO6c": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "y7qkaLKVDz8": {
       "cur": {
@@ -19763,7 +19763,7 @@
     },
     "oaScgaeWthg": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "vjBP42cxgfw": {
       "cur": {
@@ -23251,6 +23251,29 @@
       "sc": 59,
       "member": 1
     },
-    "NvxP_GB-x5c": 0
+    "NvxP_GB-x5c": 0,
+    "x0__t5HchqI": {
+      "cur": {
+        "¥": 320
+      },
+      "sc": 1,
+      "member": 2,
+      "milestone": 3
+    },
+    "9J835nGZNoo": {
+      "cur": {
+        "¥": 170308,
+        "$": 24.97,
+        "€": 7,
+        "CA$": 50,
+        "₩": 30000,
+        "HK$": 125,
+        "THB": 40,
+        "PLN": 25
+      },
+      "sc": 139,
+      "member": 6,
+      "milestone": 14
+    }
   }
 }

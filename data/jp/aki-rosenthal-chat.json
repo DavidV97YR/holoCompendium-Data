@@ -1,7 +1,7 @@
 {
   "channelId": "UCFTLzh12_nrtzqBPsTCqenA",
   "channelName": "Aki Rosenthal",
-  "lastUpdated": "2026-09-15T02:54:55.260Z",
+  "lastUpdated": "2026-09-19T14:39:33.658Z",
   "streams": {
     "5OOczqslniI": {
       "cur": {
@@ -53,7 +53,7 @@
     },
     "tg5gP62IGYY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "xNmI1JXZAnU": {
       "cur": {
@@ -146,7 +146,7 @@
     },
     "S0SQu-nANGY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "IQ6P4YIlV4Y": {
       "cur": {
@@ -645,8 +645,18 @@
       "sent": 17
     },
     "C8UoR8OAbvU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 32407,
+        "NT$": 172,
+        "CHF": 1.5
+      },
+      "sc": 17,
+      "sticker": 35,
+      "member": 1,
+      "milestone": 2,
+      "gift": 4,
+      "recv": 7,
+      "sent": 8
     },
     "AZSBybCs_cQ": {
       "cur": {
@@ -686,7 +696,7 @@
     },
     "UMQVsrCAQCY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "OtqWC78KOKg": {
       "cur": {
@@ -961,20 +971,62 @@
       "sent": 31
     },
     "gyGgf6c7KHE": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 11267,
+        "HK$": 8
+      },
+      "sc": 11,
+      "sticker": 13,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 7,
+      "sent": 7
     },
     "x231bkcNjaw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 8240,
+        "NT$": 60,
+        "₩": 5000
+      },
+      "sc": 12,
+      "sticker": 2,
+      "milestone": 1,
+      "gift": 6,
+      "recv": 18,
+      "sent": 18
     },
     "rA3aDJygwH4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "NT$": 150,
+        "¥": 106074,
+        "R$": 5,
+        "₱": 100,
+        "ARS": 100,
+        "$": 1.99,
+        "THB": 349
+      },
+      "sc": 63,
+      "sticker": 6,
+      "member": 3,
+      "milestone": 46,
+      "gift": 25,
+      "recv": 140,
+      "sent": 164
     },
     "dI7qlnqHUhw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 62910,
+        "NT$": 97,
+        "₩": 20000,
+        "A$": 10
+      },
+      "sc": 37,
+      "sticker": 18,
+      "member": 2,
+      "milestone": 6,
+      "gift": 3,
+      "recv": 16,
+      "sent": 16
     },
     "5jMRa9kY49g": {
       "cur": {
@@ -1153,8 +1205,17 @@
       "sent": 30
     },
     "wS6WYKx3Jh4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 68167,
+        "NT$": 225
+      },
+      "sc": 30,
+      "sticker": 20,
+      "member": 3,
+      "milestone": 1,
+      "gift": 8,
+      "recv": 44,
+      "sent": 43
     },
     "5CRosk_4u3E": {
       "cur": {
@@ -4129,7 +4190,7 @@
     },
     "hFcitUvWF80": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Frpgmz5SPd0": {
       "cur": {
@@ -4336,20 +4397,58 @@
       "sent": 162
     },
     "w1xBvp9w8Gs": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 10330,
+        "NOK": 50,
+        "SEK": 14,
+        "THB": 300
+      },
+      "sc": 17,
+      "sticker": 9,
+      "member": 6,
+      "milestone": 8,
+      "gift": 5,
+      "recv": 26,
+      "sent": 26
     },
     "vZdIg2OReCw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 90949,
+        "NOK": 100,
+        "MYR": 30,
+        "A$": 5,
+        "₩": 1400,
+        "HK$": 38,
+        "₱": 125,
+        "NT$": 693,
+        "€": 5,
+        "CA$": 10,
+        "THB": 1400,
+        "$": 10
+      },
+      "sc": 83,
+      "sticker": 8,
+      "member": 10,
+      "milestone": 24,
+      "gift": 21,
+      "recv": 260,
+      "sent": 262
     },
     "91TG5UWhZLU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 59440
+      },
+      "sc": 34,
+      "sticker": 20,
+      "member": 6,
+      "milestone": 4,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "zmKiKTJm-Yc": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "QIlmdyssX4s": {
       "cur": {
@@ -4951,8 +5050,17 @@
       "sent": 28
     },
     "yFTnVm9PwFU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 24921,
+        "NT$": 75
+      },
+      "sc": 18,
+      "sticker": 14,
+      "member": 3,
+      "milestone": 6,
+      "gift": 7,
+      "recv": 78,
+      "sent": 28
     },
     "seZmjv894sM": {
       "cur": {
@@ -5222,16 +5330,39 @@
       "sent": 11
     },
     "WDiF4h4SRuY": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3950
+      },
+      "sc": 3,
+      "sticker": 2,
+      "member": 2,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 7,
+      "sent": 7
     },
     "77ANFA0XBEI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 5640
+      },
+      "sc": 5,
+      "sticker": 4,
+      "member": 3,
+      "gift": 4,
+      "recv": 4,
+      "sent": 4
     },
     "urxyplQnYyU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 37340
+      },
+      "sc": 25,
+      "sticker": 10,
+      "member": 12,
+      "milestone": 16,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
     },
     "WPA6o4vHePQ": {
       "cur": {
@@ -5247,24 +5378,72 @@
       "member": 1
     },
     "Zydk-pmj7_s": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 4100
+      },
+      "sc": 3,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 5,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     },
     "IsF6Gi-5C70": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 12950
+      },
+      "sc": 14,
+      "sticker": 3,
+      "member": 2,
+      "milestone": 4,
+      "gift": 3,
+      "recv": 10,
+      "sent": 11
     },
     "Kvy0xUUhAr0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 12777,
+        "THB": 100
+      },
+      "sc": 6,
+      "member": 2,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "ZDMPLLSrxoM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 201120,
+        "THB": 1900,
+        "NOK": 250,
+        "CLP": 50000,
+        "CHF": 16.5,
+        "₱": 750,
+        "NT$": 600,
+        "SGD": 6.98,
+        "$": 22
+      },
+      "sc": 87,
+      "sticker": 6,
+      "member": 5,
+      "milestone": 31,
+      "gift": 8,
+      "recv": 79,
+      "sent": 81
     },
     "Lg1b3h-EaFM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 4660
+      },
+      "sc": 5,
+      "sticker": 7,
+      "member": 4,
+      "milestone": 5,
+      "gift": 3,
+      "recv": 7,
+      "sent": 7
     },
     "HyVKzMWHyOY": {
       "cur": {
@@ -5280,16 +5459,42 @@
       "sent": 156
     },
     "_DnfwrOfUWU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 15117,
+        "₱": 50
+      },
+      "sc": 12,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 5,
+      "gift": 5,
+      "recv": 26,
+      "sent": 26
     },
     "3YW0jlr71vM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 85215,
+        "NT$": 500,
+        "NOK": 100,
+        "THB": 400
+      },
+      "sc": 55,
+      "sticker": 4,
+      "member": 1,
+      "milestone": 14,
+      "gift": 7,
+      "recv": 68,
+      "sent": 70
     },
     "8NzV9x_pHY8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 19420
+      },
+      "sc": 19,
+      "milestone": 2,
+      "gift": 3,
+      "recv": 10,
+      "sent": 11
     },
     "OfYkYmiYAl0": {
       "cur": {
@@ -5502,8 +5707,17 @@
       "milestone": 1
     },
     "oWXqAOG6MNM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 21600,
+        "THB": 100
+      },
+      "sc": 14,
+      "sticker": 4,
+      "member": 2,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 6,
+      "sent": 16
     },
     "PgMLCG0TIx0": {
       "cur": {
@@ -5717,8 +5931,22 @@
       "milestone": 1
     },
     "jWzMXVs8GW0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 311753,
+        "A$": 30,
+        "NT$": 5100,
+        "$": 70,
+        "CHF": 20,
+        "THB": 200,
+        "IDR": 50000
+      },
+      "sc": 106,
+      "sticker": 3,
+      "member": 16,
+      "milestone": 30,
+      "gift": 5,
+      "recv": 20,
+      "sent": 26
     },
     "Uknn26qQgkY": {
       "cur": {
@@ -5907,7 +6135,7 @@
     },
     "R0g0Rm3B5HE": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "pdt6FNE3MPk": {
       "cur": {
@@ -5924,20 +6152,61 @@
       "sent": 31
     },
     "eqXC_5jSCtI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 2000
+      },
+      "sc": 2,
+      "sticker": 1,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "9I6j9ZF6GiI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 77496,
+        "NOK": 100,
+        "€": 1.49,
+        "$": 5
+      },
+      "sc": 39,
+      "sticker": 33,
+      "member": 6,
+      "milestone": 2,
+      "gift": 5,
+      "recv": 32,
+      "sent": 32
     },
     "wCs18_YULmQ": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 40960,
+        "$": 5,
+        "CHF": 10
+      },
+      "sc": 43,
+      "sticker": 2,
+      "member": 7,
+      "milestone": 14,
+      "gift": 2,
+      "recv": 1,
+      "sent": 6
     },
     "3km8ZrHl1Os": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 29740,
+        "NOK": 50,
+        "MX$": 50,
+        "IDR": 14900,
+        "SEK": 14,
+        "A$": 5
+      },
+      "sc": 30,
+      "sticker": 19,
+      "member": 2,
+      "milestone": 5,
+      "gift": 3,
+      "recv": 12,
+      "sent": 12
     },
     "RACw0KVooKo": {
       "cur": {
@@ -5953,20 +6222,56 @@
       "sent": 11
     },
     "4PDsTHJEWno": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 101525,
+        "$": 4,
+        "THB": 260,
+        "₩": 55000,
+        "NOK": 200,
+        "£": 5
+      },
+      "sc": 54,
+      "sticker": 2,
+      "member": 5,
+      "milestone": 12,
+      "gift": 5,
+      "recv": 25,
+      "sent": 26
     },
     "-ob6LhI86yo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 2500,
+        "IDR": 50000
+      },
+      "sc": 4,
+      "sticker": 1,
+      "member": 2,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
     },
     "faipAVoreuo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 39690,
+        "NOK": 14,
+        "CLP": 740,
+        "$": 1.49,
+        "SEK": 14,
+        "CHF": 1.5
+      },
+      "sc": 36,
+      "sticker": 48,
+      "member": 6,
+      "milestone": 3,
+      "gift": 3,
+      "recv": 11,
+      "sent": 12
     },
     "IcUbcxGiNZk": {
-      "e": "http503",
-      "n": 0
+      "milestone": 2,
+      "gift": 7,
+      "recv": 19,
+      "sent": 20
     },
     "eopZf74wUSY": {
       "cur": {
@@ -5982,16 +6287,46 @@
       "sent": 1
     },
     "iWZ6mNZxIP4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 5950,
+        "THB": 160
+      },
+      "sc": 11,
+      "sticker": 6,
+      "milestone": 1,
+      "gift": 4,
+      "recv": 12,
+      "sent": 13
     },
     "6M_MMLOy0iY": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 281298,
+        "$": 10,
+        "IDR": 50000,
+        "A$": 10,
+        "THB": 200
+      },
+      "sc": 136,
+      "sticker": 22,
+      "member": 15,
+      "milestone": 25,
+      "gift": 9,
+      "recv": 60,
+      "sent": 59
     },
     "Mc_UPFbLoN8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 38466,
+        "€": 1.49,
+        "THB": 20
+      },
+      "sc": 31,
+      "sticker": 14,
+      "member": 5,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
     },
     "8FgMTVj7Tco": {
       "cur": {
@@ -6018,20 +6353,55 @@
       "member": 1
     },
     "h6V4llist4Q": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 18560,
+        "THB": 200,
+        "$": 10
+      },
+      "sc": 11,
+      "sticker": 9,
+      "member": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     },
     "2PikrkD2yoA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 31621,
+        "A$": 1
+      },
+      "sc": 25,
+      "sticker": 15,
+      "member": 7,
+      "milestone": 7,
+      "gift": 2,
+      "recv": 7,
+      "sent": 10
     },
     "bCevSpH8s5I": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 37512,
+        "CHF": 1.5
+      },
+      "sc": 26,
+      "sticker": 21,
+      "member": 7,
+      "milestone": 5,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     },
     "g9l82VXzQdc": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 17380,
+        "₱": 250,
+        "$": 19.99
+      },
+      "sc": 17,
+      "sticker": 2,
+      "member": 3,
+      "milestone": 4
     },
     "c0HDUWIMRto": {
       "cur": {
@@ -6050,20 +6420,55 @@
       "sent": 30
     },
     "nG2nQtMPWDI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 21052,
+        "A$": 5,
+        "$": 15,
+        "£": 2
+      },
+      "sc": 28,
+      "sticker": 1,
+      "member": 1,
+      "milestone": 10,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     },
     "2nuQpFp_VCw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 8419,
+        "$": 50
+      },
+      "sc": 11,
+      "sticker": 7,
+      "member": 1,
+      "milestone": 2,
+      "gift": 14,
+      "recv": 70,
+      "sent": 76
     },
     "bA4QEEy7qfM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 22274
+      },
+      "sc": 16,
+      "sticker": 6,
+      "member": 2,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     },
     "6KkGfLJ5hXI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7940
+      },
+      "sc": 7,
+      "sticker": 1,
+      "member": 2,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "Wwv1umW5fME": {
       "cur": {
@@ -6113,16 +6518,42 @@
       "milestone": 1
     },
     "lzKZkJoR8-A": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 28940,
+        "THB": 40,
+        "A$": 5,
+        "CHF": 1.5,
+        "NOK": 14,
+        "$": 2.98
+      },
+      "sc": 34,
+      "sticker": 17,
+      "member": 2,
+      "milestone": 11,
+      "gift": 3,
+      "recv": 16,
+      "sent": 16
     },
     "fbbg9hg5C3c": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 14207
+      },
+      "sc": 8,
+      "milestone": 2,
+      "gift": 3,
+      "recv": 11,
+      "sent": 12
     },
     "u1r9r22YdaA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 14370,
+        "₱": 100,
+        "£": 10
+      },
+      "sc": 16,
+      "sticker": 1,
+      "member": 3,
+      "milestone": 1
     },
     "VqqCuR6UQfY": {
       "cur": {
@@ -6150,16 +6581,54 @@
       "milestone": 2
     },
     "7bBcxHW7YWk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 9111,
+        "£": 5,
+        "$": 5,
+        "₩": 10000
+      },
+      "sc": 8,
+      "sticker": 2,
+      "member": 3,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 9,
+      "sent": 10
     },
     "bDy1dR_Udd8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "£": 11,
+        "¥": 316479,
+        "THB": 640,
+        "NOK": 250,
+        "CHF": 20,
+        "HK$": 125,
+        "€": 10,
+        "SGD": 5,
+        "A$": 5,
+        "NT$": 170,
+        "₩": 2000,
+        "PLN": 100,
+        "$": 2
+      },
+      "sc": 235,
+      "member": 10,
+      "milestone": 44,
+      "gift": 11,
+      "recv": 67,
+      "sent": 73
     },
     "sz97dvJRTTs": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 16367,
+        "$": 15
+      },
+      "sc": 14,
+      "sticker": 10,
+      "member": 1,
+      "gift": 4,
+      "recv": 21,
+      "sent": 21
     },
     "DxMY2BL5afU": {
       "cur": {
@@ -6191,8 +6660,16 @@
       "sent": 3
     },
     "i4kEItVC-lo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 17334
+      },
+      "sc": 14,
+      "sticker": 4,
+      "member": 1,
+      "milestone": 4,
+      "gift": 5,
+      "recv": 20,
+      "sent": 26
     },
     "eErqk2ISVNk": {
       "cur": {
@@ -6209,8 +6686,11 @@
       "sent": 2
     },
     "d7d5w-PhcXI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 10040,
+        "$": 15
+      },
+      "sc": 17
     },
     "ekDyqPOnG2A": {
       "cur": {
@@ -6229,8 +6709,14 @@
       "member": 1
     },
     "G1hUBcm7wG8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3520,
+        "HK$": 25
+      },
+      "sc": 3,
+      "sticker": 8,
+      "member": 1,
+      "milestone": 3
     },
     "_lM7W3OjSos": {
       "cur": {
@@ -6317,8 +6803,17 @@
       "sent": 15
     },
     "qyajTVfDc2A": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 37390,
+        "$": 10
+      },
+      "sc": 22,
+      "sticker": 1,
+      "member": 3,
+      "milestone": 6,
+      "gift": 4,
+      "recv": 16,
+      "sent": 21
     },
     "Zr3T64cfF_I": {
       "cur": {
@@ -6448,8 +6943,21 @@
       "milestone": 5
     },
     "zf3L_B1jGIo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 100894,
+        "₱": 125,
+        "NT$": 30,
+        "HK$": 25,
+        "$": 5,
+        "THB": 100
+      },
+      "sc": 65,
+      "sticker": 17,
+      "member": 3,
+      "milestone": 7,
+      "gift": 3,
+      "recv": 15,
+      "sent": 15
     },
     "uOcZ3jvUm3Q": {
       "cur": {
@@ -6489,8 +6997,15 @@
       "member": 1
     },
     "Cnh7taVCE7w": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3120
+      },
+      "sc": 5,
+      "member": 2,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     },
     "8ZW2sJycSlc": {
       "cur": {
@@ -6507,8 +7022,18 @@
       "sent": 11
     },
     "2XjJ5cdxSfM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 4780,
+        "₱": 125,
+        "IDR": 50000
+      },
+      "sc": 10,
+      "sticker": 2,
+      "member": 4,
+      "milestone": 3,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "BvxSL-HSxFw": {
       "cur": {
@@ -6523,20 +7048,60 @@
       "sent": 1
     },
     "Rjvp-PL5LXM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "$": 6.49,
+        "¥": 36957,
+        "NOK": 150,
+        "NT$": 75,
+        "THB": 1100
+      },
+      "sc": 33,
+      "sticker": 2,
+      "member": 5,
+      "milestone": 12,
+      "gift": 3,
+      "recv": 16,
+      "sent": 16
     },
     "Tt8XhNSGf4A": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 33119,
+        "IDR": 100000,
+        "THB": 100,
+        "CHF": 5,
+        "$": 30
+      },
+      "sc": 19,
+      "sticker": 10,
+      "member": 1,
+      "milestone": 7,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     },
     "ilOBnpsaPxw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 9800
+      },
+      "sc": 7,
+      "sticker": 3,
+      "milestone": 3,
+      "gift": 2,
+      "recv": 1,
+      "sent": 2
     },
     "7B55XS6iIYY": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 20720,
+        "A$": 2
+      },
+      "sc": 9,
+      "sticker": 1,
+      "member": 3,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 5,
+      "sent": 15
     },
     "J6_mHIaMlEk": {
       "cur": {
@@ -7234,8 +7799,29 @@
       "sent": 161
     },
     "GcMmFLJ6-7E": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 437324,
+        "THB": 440,
+        "NOK": 240,
+        "NT$": 3030,
+        "MYR": 30,
+        "₩": 15000,
+        "HK$": 88,
+        "€": 100,
+        "₱": 750,
+        "IDR": 100000,
+        "$": 186.98,
+        "CHF": 20,
+        "CA$": 10,
+        "SGD": 6.78
+      },
+      "sc": 187,
+      "sticker": 9,
+      "member": 12,
+      "milestone": 147,
+      "gift": 15,
+      "recv": 84,
+      "sent": 88
     },
     "TVT0WjoGbHY": {
       "cur": {
@@ -8029,7 +8615,7 @@
     },
     "CcgVeQJPiY0": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "lVGQBKXUwQM": {
       "cur": {
@@ -10284,7 +10870,7 @@
     },
     "WlI_4-3Xlro": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "m8ySOYD1xWw": {
       "cur": {
@@ -10987,8 +11573,19 @@
       "milestone": 3
     },
     "hfAdk0ky_Wo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 6200,
+        "₱": 275,
+        "$": 2,
+        "THB": 100
+      },
+      "sc": 5,
+      "sticker": 4,
+      "member": 2,
+      "milestone": 3,
+      "gift": 9,
+      "recv": 23,
+      "sent": 29
     },
     "VGq09ymdvYA": {
       "cur": {
@@ -11014,7 +11611,7 @@
     },
     "X3dwoM5KmAc": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Lju5_87lRiI": {
       "cur": {
@@ -11153,8 +11750,19 @@
       "sent": 71
     },
     "ZW9Anbw2wX0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 14770,
+        "$": 20,
+        "NT$": 75,
+        "THB": 40
+      },
+      "sc": 23,
+      "sticker": 3,
+      "member": 7,
+      "milestone": 2,
+      "gift": 15,
+      "recv": 27,
+      "sent": 28
     },
     "cTV3SMbCwgc": {
       "cur": {
@@ -11661,7 +12269,7 @@
     },
     "obGT9_B1V5k": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Mo1vopI2Mws": {
       "cur": {
@@ -12329,8 +12937,19 @@
       "milestone": 4
     },
     "TGbSLCJ7khA": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 11980,
+        "$": 5,
+        "A$": 5,
+        "THB": 440,
+        "NOK": 164,
+        "NT$": 110,
+        "SAR": 7
+      },
+      "sc": 19,
+      "sticker": 13,
+      "member": 5,
+      "milestone": 4
     },
     "ck2HfmFM7Rk": {
       "cur": {
@@ -12890,12 +13509,34 @@
       "milestone": 41
     },
     "wIdwdbxjqos": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 15450,
+        "$": 13.48,
+        "NT$": 60,
+        "€": 5
+      },
+      "sc": 30,
+      "sticker": 3,
+      "member": 11,
+      "milestone": 14
     },
     "KO0VIwwf8a8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "THB": 569,
+        "A$": 15,
+        "¥": 31280,
+        "$": 42.47,
+        "₱": 225,
+        "NT$": 150,
+        "ARS": 100,
+        "NOK": 164,
+        "€": 11.49,
+        "IDR": 14900
+      },
+      "sc": 34,
+      "sticker": 21,
+      "member": 4,
+      "milestone": 8
     },
     "uVmxs1wnSpo": {
       "cur": {
@@ -13253,7 +13894,7 @@
     },
     "XqDs8MKovas": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "2MpWihL7l24": {
       "cur": {
@@ -13900,8 +14541,21 @@
       "milestone": 2
     },
     "JU7WEBqkAL8": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 4920,
+        "$": 84,
+        "CA$": 5,
+        "PEN": 4,
+        "ARS": 20,
+        "MX$": 200,
+        "R$": 10,
+        "₱": 250,
+        "A$": 10
+      },
+      "sc": 25,
+      "sticker": 5,
+      "member": 3,
+      "milestone": 4
     },
     "SRe0Ci65DRU": {
       "member": 1,
@@ -14068,7 +14722,7 @@
     },
     "Nuly5zw1t30": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "UCzUhJhIAUA": {
       "member": 6,
@@ -14556,8 +15210,17 @@
       "milestone": 12
     },
     "J0XPHWe0nTk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 39920,
+        "HK$": 25,
+        "$": 40,
+        "A$": 10,
+        "₱": 125
+      },
+      "sc": 28,
+      "sticker": 8,
+      "member": 3,
+      "milestone": 3
     },
     "PECGQnR7pdM": {
       "cur": {
@@ -16013,12 +16676,56 @@
       "member": 10
     },
     "cywyvUW4F_k": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 43860,
+        "$": 319.67,
+        "£": 12.98,
+        "CA$": 22.45,
+        "HUF": 1490,
+        "NT$": 761,
+        "₱": 773,
+        "SGD": 14.98,
+        "€": 19.47,
+        "SAR": 14,
+        "A$": 80.88,
+        "SEK": 100,
+        "R$": 1.49,
+        "CZK": 14,
+        "DKK": 14
+      },
+      "sc": 53,
+      "sticker": 106,
+      "member": 2
     },
     "udfd3sHudLg": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "HNL": 150,
+        "CA$": 257.71,
+        "$": 1025.85,
+        "₱": 1637,
+        "A$": 366.94,
+        "£": 11.49,
+        "¥": 159285,
+        "PEN": 20,
+        "NT$": 989,
+        "R$": 111.49,
+        "MX$": 664,
+        "NIO": 287,
+        "HK$": 10,
+        "HUF": 1645,
+        "RUB": 100,
+        "€": 25,
+        "CLP": 5000,
+        "SAR": 10,
+        "SGD": 2.98,
+        "PYG": 25000,
+        "NOK": 42,
+        "ARS": 14,
+        "PLN": 7.49
+      },
+      "sc": 166,
+      "sticker": 106,
+      "member": 23
     },
     "yuvv82uFMf4": {
       "cur": {
@@ -16069,8 +16776,27 @@
       "member": 18
     },
     "o868TURUNrI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "A$": 5,
+        "PEN": 30,
+        "¥": 9450,
+        "$": 494.91,
+        "£": 5,
+        "HUF": 2000,
+        "RUB": 3200,
+        "NT$": 300,
+        "CHF": 10,
+        "CLP": 2500,
+        "₱": 125,
+        "DKK": 20,
+        "MX$": 50,
+        "CA$": 14,
+        "SGD": 5,
+        "€": 10
+      },
+      "sc": 54,
+      "sticker": 16,
+      "member": 12
     },
     "ekSffO0n9nA": {
       "cur": {
@@ -16282,12 +17008,59 @@
       "member": 7
     },
     "yzTtttxMxYY": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 112298,
+        "$": 445.38,
+        "€": 95.93,
+        "CLP": 8390,
+        "CA$": 149.35,
+        "HUF": 890,
+        "£": 106.49,
+        "MX$": 100,
+        "HK$": 118,
+        "A$": 22.45,
+        "NT$": 1057,
+        "₱": 2361,
+        "SGD": 57.47,
+        "EGP": 20,
+        "SAR": 14,
+        "PLN": 14.98,
+        "CHF": 3,
+        "DKK": 78,
+        "NOK": 106,
+        "R$": 2.98,
+        "CZK": 14
+      },
+      "sc": 127,
+      "sticker": 169,
+      "member": 27
     },
     "ooMv898Mmn4": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "$": 179.39,
+        "CA$": 199.32,
+        "£": 37.98,
+        "¥": 46430,
+        "NT$": 150,
+        "SGD": 27,
+        "€": 242.94,
+        "HK$": 90,
+        "ARS": 300,
+        "MX$": 28,
+        "HUF": 1400,
+        "EGP": 20,
+        "DKK": 20,
+        "AED": 17,
+        "A$": 7,
+        "₱": 37,
+        "BAM": 1.45,
+        "R$": 2.98,
+        "CLP": 2500,
+        "RUB": 29
+      },
+      "sc": 107,
+      "sticker": 51,
+      "member": 6
     },
     "UUS2cWVso8U": {
       "cur": {
@@ -16311,8 +17084,16 @@
       "member": 7
     },
     "MFS9RZDaHIM": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 64863,
+        "$": 132,
+        "A$": 3.49,
+        "SEK": 50,
+        "HK$": 25
+      },
+      "sc": 30,
+      "sticker": 26,
+      "member": 5
     },
     "obLMU_lmVxU": {
       "cur": {
@@ -16343,7 +17124,7 @@
     },
     "lVvSu1pFEWk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "lpiIp_QwcgU": {
       "cur": {
@@ -16663,8 +17444,35 @@
       "member": 1
     },
     "W7fIQ3mJ6xk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "CA$": 431.2,
+        "€": 106.89,
+        "¥": 28970,
+        "$": 990.26,
+        "£": 23.49,
+        "NT$": 2941,
+        "RUB": 2200,
+        "DKK": 180,
+        "₱": 993,
+        "A$": 91.86,
+        "MX$": 98,
+        "NZ$": 11.49,
+        "R$": 25.39,
+        "SGD": 38.47,
+        "NOK": 190,
+        "CLP": 21000,
+        "RON": 7.49,
+        "CHF": 23,
+        "ARS": 14,
+        "CRC": 700,
+        "HUF": 1890,
+        "HNL": 22,
+        "BYN": 1.5,
+        "SEK": 100
+      },
+      "sc": 212,
+      "sticker": 349,
+      "member": 12
     },
     "rL0L1FPRGbw": {
       "cur": {
@@ -17681,7 +18489,7 @@
     },
     "Zvuhp33o--w": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "PLSFufsW8tU": {
       "cur": {
@@ -17749,7 +18557,7 @@
     },
     "M1E5pOJefpU": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "aBfh_aJK6TY": {
       "cur": {
@@ -17825,7 +18633,7 @@
     },
     "H_WCR_LaLqA": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "N0sdrfFUv80": {
       "cur": {
@@ -18092,7 +18900,7 @@
     },
     "3qa5gKlRYN0": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "jgK91XZGbNg": {
       "cur": {
@@ -18830,7 +19638,7 @@
     },
     "M2y_w6aywKk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "nepPdxPAGvA": {
       "cur": {
@@ -20227,8 +21035,16 @@
       "member": 17
     },
     "9bfVUAr8O3o": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 45097,
+        "$": 21.98,
+        "PEN": 10,
+        "SGD": 10,
+        "NT$": 150
+      },
+      "sc": 75,
+      "sticker": 2,
+      "member": 7
     },
     "Eb4anmCtobI": {
       "cur": {
@@ -21119,7 +21935,7 @@
     },
     "zJ8ai-jQcO0": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "9DNMLLqPudw": {
       "cur": {
@@ -21629,7 +22445,7 @@
     },
     "8gyStuhCMxU": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Q2eggcvfaXE": {
       "cur": {
@@ -21836,8 +22652,13 @@
       "member": 1
     },
     "PRmMc7FRM_U": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 14560,
+        "$": 10
+      },
+      "sc": 22,
+      "sticker": 2,
+      "member": 1
     },
     "PwVZU7-qrvM": {
       "cur": {
@@ -21869,7 +22690,7 @@
     },
     "Sj3yVaqj_Lw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "3L0Drq-qayc": {
       "cur": {
@@ -21902,7 +22723,7 @@
     },
     "34sNWWzFNQw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "MEFCNKjT5k8": {
       "cur": {
@@ -22077,7 +22898,7 @@
     "rP34BaYf1x8": 0,
     "RhSdSgIaaq0": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "0r4rTB05Zbk": {
       "cur": {

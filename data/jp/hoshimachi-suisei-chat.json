@@ -1,19 +1,19 @@
 {
   "channelId": "UC5CwaMl1eIgY8h02uZw7u8A",
   "channelName": "Hoshimachi Suisei",
-  "lastUpdated": "2026-09-15T01:32:50.227Z",
+  "lastUpdated": "2026-09-19T14:34:22.255Z",
   "streams": {
     "jIYmEBX58hs": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "w5K09LcvPVY": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "QSlgbRMSMjQ": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "wK0cKEVi9A4": {
       "cur": {
@@ -820,7 +820,7 @@
     },
     "6Ak-Wy1MMwA": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "vGLst2Sj0gc": {
       "member": 31,
@@ -2054,7 +2054,7 @@
     },
     "6vkcCEKnGv8": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "BgPX_KWFcEU": {
       "cur": {
@@ -4154,7 +4154,7 @@
     },
     "yydLvFXNKtg": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "myC-3YP1hV8": {
       "cur": {
@@ -5891,7 +5891,7 @@
     },
     "7ygy8tF7xIc": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "r78poSnis3M": {
       "cur": {
@@ -6770,7 +6770,7 @@
     },
     "v0jFbFyG-Wg": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "AGJjAAEve40": {
       "cur": {
@@ -6938,7 +6938,7 @@
     },
     "JIZi-vFti0A": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "utJRYfjl03Y": {
       "cur": {
@@ -7605,7 +7605,7 @@
     },
     "r7EkHcKM_vE": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "KMt4kyU6ijE": {
       "cur": {
@@ -7891,7 +7891,7 @@
     },
     "RPdUErEiRbk": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "d2UWqOLCUXY": {
       "cur": {
@@ -7948,8 +7948,20 @@
       "member": 27
     },
     "3ieSRQIDz4s": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 19100,
+        "€": 5,
+        "ARS": 100,
+        "CA$": 12,
+        "SGD": 15,
+        "A$": 10,
+        "RUB": 400,
+        "NT$": 150,
+        "$": 18.66
+      },
+      "sc": 28,
+      "sticker": 1,
+      "member": 17
     },
     "tkDqWV1KhAc": {
       "cur": {
@@ -7997,8 +8009,18 @@
       "member": 25
     },
     "kO9tDxFzC9I": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 40720,
+        "NT$": 405,
+        "SGD": 30,
+        "$": 115,
+        "HK$": 280,
+        "CA$": 30,
+        "€": 10
+      },
+      "sc": 54,
+      "sticker": 1,
+      "member": 9
     },
     "KPo5vaoe1Vo": {
       "cur": {
@@ -8162,12 +8184,36 @@
       "member": 30
     },
     "C7kelOgPNi4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "$": 85,
+        "¥": 46360,
+        "₱": 250,
+        "HK$": 63,
+        "SGD": 13,
+        "NT$": 105,
+        "RUB": 400
+      },
+      "sc": 69,
+      "member": 18
     },
     "w8uapw3oRrA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 53980,
+        "NT$": 500,
+        "A$": 15,
+        "SGD": 59,
+        "HK$": 240,
+        "$": 145.99,
+        "CA$": 10,
+        "₩": 5000,
+        "€": 25,
+        "₱": 1299,
+        "RUB": 2000,
+        "ARS": 100,
+        "PLN": 25
+      },
+      "sc": 144,
+      "member": 39
     },
     "bTvAMmWlFtg": {
       "cur": {
@@ -8363,8 +8409,28 @@
       "member": 50
     },
     "-cWxSCiPKk4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 448370,
+        "HK$": 2373,
+        "CLP": 4500,
+        "$": 773.97,
+        "₱": 3774,
+        "CA$": 55,
+        "NT$": 4390,
+        "A$": 245,
+        "SGD": 81.2,
+        "€": 8.49,
+        "ARS": 420,
+        "₹": 40,
+        "NOK": 100,
+        "RUB": 2400,
+        "₩": 10000,
+        "£": 15,
+        "R$": 15
+      },
+      "sc": 347,
+      "sticker": 1,
+      "member": 140
     },
     "gSdKoR0N6gk": {
       "cur": {
@@ -8857,7 +8923,7 @@
     },
     "fArtRNN5Gh4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "ACVNVBaQPCI": {
       "cur": {
@@ -9129,6 +9195,18 @@
       "sc": 2261,
       "sticker": 41,
       "member": 758
+    },
+    "wcxxSWyd-nQ": {
+      "cur": {
+        "¥": 23100,
+        "NT$": 75,
+        "HK$": 25
+      },
+      "sc": 26,
+      "member": 5,
+      "gift": 2,
+      "recv": 12,
+      "sent": 30
     }
   }
 }
