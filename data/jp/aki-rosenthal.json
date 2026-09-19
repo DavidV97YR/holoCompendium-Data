@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-09-18T19:08:58.082Z",
+  "lastUpdated": "2026-09-19T05:10:22.686Z",
   "videoCount": 1823,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【ホロライブドリームス】激ヤバ!?ラスボス曲とは!水着★5SSRガチャでるまで!【ホロライブ/アキロゼ】",
       "published": "2026-09-18T16:56:35+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-19T11:00:00Z"
     },
     {
       "id": "mxrDakiAjZo",
@@ -24,7 +26,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-21T14:40:00.000Z"
+      "scheduledStart": "2026-09-21T14:40:00Z"
     },
     {
       "id": "x2Ztg8Y8V6U",
@@ -15818,7 +15820,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-24T14:45:00.000Z"
+      "scheduledStart": "2026-12-24T14:45:00Z"
     },
     {
       "id": "9xvXyhb6Pjo",

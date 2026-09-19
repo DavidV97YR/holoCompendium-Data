@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-09-19T05:17:23.112Z",
+  "lastUpdated": "2026-09-19T05:20:01.440Z",
   "videoCount": 2206,
   "videos": [
+    {
+      "id": "_Wfsik30eNM",
+      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+      "published": "2026-09-19T02:33:55Z",
+      "type": "stream",
+      "duration": 5238,
+      "status": "past",
+      "scheduledStart": "2026-09-19T01:00:00Z"
+    },
     {
       "id": "XjdaSWFPg_g",
       "title": "【#2】ひぐらしのなく頃に 解 同時視聴するしゅばあああああああああ！！！！！： Higurashi When They Cry: Solution watching party【大空スバル】",
@@ -26,7 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-20T04:00:00.000Z"
+      "scheduledStart": "2026-09-20T04:00:00Z"
     },
     {
       "id": "SwYIcBAPHro",
@@ -35,7 +44,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-19T12:00:00.000Z"
+      "scheduledStart": "2026-09-19T12:00:00Z"
     },
     {
       "id": "rIelB0Sfljw",
@@ -44,16 +53,7 @@
       "type": "stream",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-09-19T04:00:00.000Z"
-    },
-    {
-      "id": "_Wfsik30eNM",
-      "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-      "published": "2026-09-18T07:42:14.000Z",
-      "type": "stream",
-      "duration": 5238,
-      "status": "past",
-      "scheduledStart": "2026-09-19T01:00:00.000Z"
+      "scheduledStart": "2026-09-19T04:00:00Z"
     },
     {
       "id": "bC8bLJe3_Mc",
@@ -12586,7 +12586,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-31T04:00:00.000Z"
+      "scheduledStart": "2026-10-31T04:00:00Z"
     },
     {
       "id": "cvWU1pP8-ls",
