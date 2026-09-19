@@ -1,7 +1,7 @@
 {
   "channelId": "UCUKD-uaobj9jiqB-VXt71mA",
   "channelName": "Shishiro Botan",
-  "lastUpdated": "2026-09-18T20:59:36.757Z",
+  "lastUpdated": "2026-09-19T19:35:22.753Z",
   "streams": {
     "GgCngKC9aPk": {
       "member": 1,
@@ -308,7 +308,7 @@
     },
     "0LM1ocKQs2E": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "L6NIfWT8-VU": {
       "cur": {
@@ -1053,7 +1053,7 @@
     },
     "QtyAH06USbw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "D2_UkX9meeo": {
       "cur": {
@@ -1870,8 +1870,10 @@
       "sent": 1
     },
     "Qe-rSP0mx1E": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1820
+      },
+      "sc": 3
     },
     "aiKRm0-40aY": {
       "cur": {
@@ -2181,7 +2183,7 @@
     },
     "7bZP4Xbf3ck": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "dlgD7JG8EUE": {
       "cur": {
@@ -2415,7 +2417,7 @@
     },
     "Tnv0jVMCcfc": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "7CCnzkwznHE": {
       "member": 1
@@ -5669,7 +5671,7 @@
     },
     "CYJvGqGjuZU": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "ewpgVFMVyy8": {
       "cur": {
@@ -6415,8 +6417,26 @@
       "sent": 28
     },
     "V6ZwR_gAxvE": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 310138,
+        "NT$": 5253,
+        "MYR": 36,
+        "HK$": 730,
+        "$": 22,
+        "£": 12.99,
+        "SGD": 9,
+        "THB": 440,
+        "IDR": 50000,
+        "€": 15,
+        "₩": 10000,
+        "₱": 625
+      },
+      "sc": 327,
+      "sticker": 5,
+      "member": 7,
+      "gift": 10,
+      "recv": 35,
+      "sent": 57
     },
     "ni_O2r_Qhzc": {
       "cur": {
@@ -7947,8 +7967,20 @@
       "member": 6
     },
     "7ie2b1wAGqI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 19192,
+        "MX$": 65,
+        "NT$": 790,
+        "HK$": 75,
+        "$": 5,
+        "£": 5
+      },
+      "sc": 65,
+      "sticker": 1,
+      "member": 16,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
     },
     "-vR4aCJ-B_c": {
       "cur": {
@@ -7965,8 +7997,21 @@
       "sent": 70
     },
     "NzoJvn-aecU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 20243,
+        "₱": 249,
+        "NT$": 240,
+        "$": 6.99,
+        "A$": 5,
+        "HK$": 10,
+        "SGD": 5,
+        "IDR": 20000
+      },
+      "sc": 50,
+      "member": 8,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "xNW8Y-Zuq5M": {
       "cur": {
@@ -16751,7 +16796,7 @@
     },
     "f7Xo1qchs1k": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "4G-K8agwHK4": {
       "cur": {
@@ -17070,7 +17115,7 @@
     },
     "sSeoy-9IrmI": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "fMwlqnIyOj4": {
       "cur": {
@@ -17241,7 +17286,7 @@
     },
     "HpdCjTIqgC4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "fKXRrTQU8GE": {
       "cur": {
@@ -18284,6 +18329,28 @@
       "sc": 192,
       "sticker": 1
     },
-    "oDtBQCVGRQM": 0
+    "oDtBQCVGRQM": 0,
+    "djCdK9dYO0o": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "cI535pJp-TQ": {
+      "cur": {
+        "NT$": 2322,
+        "¥": 82760,
+        "HK$": 50,
+        "₱": 50,
+        "$": 5,
+        "A$": 5,
+        "NZ$": 17,
+        "CA$": 50
+      },
+      "sc": 73,
+      "sticker": 8,
+      "member": 36,
+      "gift": 30,
+      "recv": 141,
+      "sent": 189
+    }
   }
 }

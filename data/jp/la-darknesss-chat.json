@@ -1,7 +1,7 @@
 {
   "channelId": "UCENwRMx5Yh42zWpzURebzTw",
   "channelName": "La+ Darknesss",
-  "lastUpdated": "2026-09-18T22:49:39.081Z",
+  "lastUpdated": "2026-09-19T19:42:39.987Z",
   "streams": {
     "jhZ83gcD64g": {
       "member": 2,
@@ -126,7 +126,7 @@
     },
     "KC0-vIj7piY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "wsSt8S9wRl4": {
       "milestone": 13,
@@ -191,7 +191,7 @@
     },
     "bXlbDEXycNs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "3nOkJmwNv1M": {
       "member": 1,
@@ -306,11 +306,11 @@
     },
     "tUUZP2qX_3Y": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "67sgjyj2iPY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "WY634oIYPNw": {
       "member": 5,
@@ -350,7 +350,7 @@
     },
     "WPxvMSEzKoY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "BoZtqssM4dU": {
       "cur": {
@@ -389,7 +389,7 @@
     },
     "dQf3tVitoq8": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "ASYvKJCZ4Uc": {
       "cur": {
@@ -581,7 +581,7 @@
     },
     "J0hLVkFdGEU": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "StKkkVHnc4U": {
       "cur": {
@@ -974,7 +974,7 @@
     },
     "piKj2HnUV2k": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "4iKqNhqFOKM": {
       "cur": {
@@ -1347,7 +1347,7 @@
     },
     "KQGAQ52OA1E": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "uKHcEK2uS1M": {
       "cur": {
@@ -1580,7 +1580,7 @@
     },
     "jwKihuk8roE": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "CErhevWQg58": {
       "cur": {
@@ -2410,7 +2410,7 @@
     },
     "aF1nrrP7vxY": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "xtb7fuTrnFk": {
       "cur": {
@@ -2520,7 +2520,7 @@
     },
     "67PAR48ytcw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "2EEGeSvpDDI": {
       "cur": {
@@ -2622,7 +2622,7 @@
     },
     "nzE1R1mR_bs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "1FoBx8-mtNQ": {
       "cur": {
@@ -2833,7 +2833,7 @@
     },
     "RKpi7Pkd7Ac": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "XEBHVor2eUY": {
       "cur": {
@@ -3269,7 +3269,7 @@
     },
     "1St5-FQA8o8": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "W4rF033KVJw": {
       "cur": {
@@ -3591,7 +3591,7 @@
     },
     "XrUtD-Gnopw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "H1Q8fpVI1Vw": {
       "cur": {
@@ -3708,20 +3708,80 @@
       "sent": 20
     },
     "ovtxZKuiaSE": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1713920,
+        "₩": 520000,
+        "NT$": 13161,
+        "HK$": 5336.5,
+        "$": 526.98,
+        "SGD": 22,
+        "MYR": 75,
+        "€": 50,
+        "£": 15,
+        "R$": 100,
+        "CA$": 100,
+        "₱": 268,
+        "ARS": 100
+      },
+      "sc": 859,
+      "member": 130,
+      "milestone": 1750,
+      "gift": 27,
+      "recv": 248,
+      "sent": 248
     },
     "V0Zk55CpFEM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 2419293,
+        "NT$": 34053,
+        "₩": 479000,
+        "HK$": 4055,
+        "R$": 200,
+        "$": 406.98,
+        "SGD": 25,
+        "€": 10,
+        "ARS": 300,
+        "MYR": 160,
+        "A$": 10,
+        "£": 20,
+        "NZ$": 10,
+        "₱": 389,
+        "CA$": 100
+      },
+      "sc": 1028,
+      "member": 199,
+      "milestone": 1719,
+      "gift": 29,
+      "recv": 415,
+      "sent": 445
     },
     "Yq7SBodB5YE": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1286071,
+        "NT$": 15934,
+        "SGD": 10,
+        "₩": 551184,
+        "HK$": 4386.08,
+        "NZ$": 7.77,
+        "MYR": 81,
+        "$": 269.54,
+        "ZAR": 140,
+        "MX$": 50,
+        "£": 12.77,
+        "€": 5,
+        "CA$": 77,
+        "R$": 77
+      },
+      "sc": 850,
+      "member": 115,
+      "milestone": 995,
+      "gift": 29,
+      "recv": 253,
+      "sent": 265
     },
     "yo9LEj3abyE": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Cz0seUGALtU": {
       "cur": {
@@ -4020,8 +4080,14 @@
       "sent": 141
     },
     "r2OJoePDVg4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7370,
+        "NT$": 685,
+        "$": 10
+      },
+      "sc": 19,
+      "member": 14,
+      "milestone": 51
     },
     "Uv4du1I5Y4M": {
       "cur": {
@@ -4477,8 +4543,16 @@
       "member": 19
     },
     "kgGrlxdQkZM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 101922,
+        "HK$": 175,
+        "₩": 17345,
+        "NT$": 480,
+        "CLP": 500,
+        "$": 5
+      },
+      "sc": 90,
+      "member": 59
     },
     "3DoBy-aA5zc": {
       "cur": {
@@ -4783,7 +4857,7 @@
     },
     "hWu_teFw5Qw": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "F5gzJ_pocas": {
       "member": 111

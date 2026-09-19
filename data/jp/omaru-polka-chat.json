@@ -1,11 +1,15 @@
 {
   "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
   "channelName": "Omaru Polka",
-  "lastUpdated": "2026-09-18T22:06:53.642Z",
+  "lastUpdated": "2026-09-19T19:37:36.664Z",
   "streams": {
     "5xy1_s3emDM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 2040
+      },
+      "sc": 6,
+      "member": 3,
+      "milestone": 2
     },
     "eJNfAUVfsJQ": {
       "member": 2,
@@ -3772,7 +3776,7 @@
     },
     "wdoPFKuhu1U": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "4VCUwBUkEKw": {
       "cur": {
@@ -5118,8 +5122,20 @@
       "sent": 3
     },
     "QiZZgAMzDBQ": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 145888,
+        "€": 16.78,
+        "RSD": 250,
+        "$": 17,
+        "HK$": 78
+      },
+      "sc": 173,
+      "sticker": 4,
+      "member": 9,
+      "milestone": 32,
+      "gift": 27,
+      "recv": 43,
+      "sent": 44
     },
     "F0EjuPp8yho": {
       "cur": {
@@ -5405,7 +5421,7 @@
     },
     "dDPTA0AEEMU": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "rpz8JebGNOA": {
       "cur": {
@@ -6140,7 +6156,7 @@
     },
     "Vz_EbAIbjIA": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "W8V-M_hze98": {
       "cur": {
@@ -6359,7 +6375,7 @@
     },
     "7mLY3FMR74c": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "ZSDxmkAeVew": {
       "cur": {
@@ -6640,7 +6656,7 @@
     },
     "95HRityIxP8": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "YnRN9u7WVbE": {
       "cur": {
@@ -7771,7 +7787,7 @@
     },
     "F1ArVVXhHVs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "sVdJ6_oA0ZY": {
       "cur": {
@@ -11262,7 +11278,7 @@
     },
     "0VEVNSv2NIo": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "pS_cM7KN8_w": {
       "cur": {
@@ -14402,7 +14418,7 @@
     },
     "BTYIXJPOGJo": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "d0ra5Gdz7qQ": {
       "cur": {
@@ -14485,7 +14501,7 @@
     },
     "6gBYTUeRKH0": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "r0dlsIOvR7Y": {
       "cur": {
@@ -14766,8 +14782,25 @@
       "milestone": 12
     },
     "mzPQPHUPkZg": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 66850,
+        "NT$": 3360,
+        "HNL": 300,
+        "$": 132.99,
+        "HK$": 285,
+        "MYR": 30,
+        "CLP": 2500,
+        "€": 7,
+        "CA$": 7,
+        "₩": 110000,
+        "SGD": 17,
+        "PLN": 10,
+        "MX$": 60
+      },
+      "sc": 124,
+      "sticker": 8,
+      "member": 14,
+      "milestone": 49
     },
     "E_sI5rUd8xs": {
       "cur": {
@@ -19203,7 +19236,7 @@
     },
     "EWNKpzg6q1s": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "dpVi1FX5Eus": {
       "cur": {
@@ -19867,8 +19900,24 @@
       "sticker": 2
     },
     "DFH9TrWswTQ": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 111428,
+        "SGD": 9,
+        "ARS": 50,
+        "NT$": 525,
+        "₱": 375,
+        "$": 51.69,
+        "€": 17,
+        "R$": 2,
+        "CA$": 6.99,
+        "HK$": 150,
+        "DKK": 100,
+        "A$": 7,
+        "CLP": 2500,
+        "PEN": 2
+      },
+      "sc": 253,
+      "sticker": 1
     },
     "18CMalH1pbc": 0,
     "mQaLUI5__OU": {
@@ -19971,6 +20020,18 @@
       "sc": 378,
       "sticker": 9
     },
-    "uNWPUyAxOKo": 0
+    "uNWPUyAxOKo": 0,
+    "JZYWR9m1uw8": {
+      "cur": {
+        "¥": 17760,
+        "NT$": 170
+      },
+      "sc": 30,
+      "member": 4,
+      "milestone": 12,
+      "gift": 3,
+      "recv": 12,
+      "sent": 12
+    }
   }
 }
