@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh",
     "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0"
   },
-  "lastUpdated": "2026-09-19T05:02:57.453Z",
-  "videoCount": 1998,
+  "lastUpdated": "2026-09-19T07:02:47.887Z",
+  "videoCount": 1999,
   "videos": [
+    {
+      "id": "ZL0vgsjJkNE",
+      "title": "【配信予定地】【ときのそら/ホロライブ】",
+      "published": "2026-09-19T06:54:27.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-19T07:30:00.000Z"
+    },
     {
       "id": "9wNLcDw7wRI",
       "title": "【ほのぼの釣り物語】とりあえず釣りはするらしい【ときのそら/ホロライブ】",
@@ -898,7 +907,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-23T14:45:00Z"
+      "scheduledStart": "2026-09-23T14:45:00.000Z"
     },
     {
       "id": "KrzjL8aNt1k",

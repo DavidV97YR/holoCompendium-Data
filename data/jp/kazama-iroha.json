@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-19T05:51:09.426Z",
+  "lastUpdated": "2026-09-19T07:44:01.088Z",
   "videoCount": 1273,
   "videos": [
     {
@@ -24,7 +24,7 @@
       "title": "【#あずいろ食堂】告知あり💡あずいろ弁当お渡し会【風真いろは/ホロライブ】",
       "published": "2026-09-17T11:46:13+00:00",
       "type": "stream",
-      "duration": 3611,
+      "duration": 3609,
       "status": "past",
       "scheduledStart": "2026-09-17T10:00:00Z"
     },
@@ -161,7 +161,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z"
+      "scheduledStart": "2026-08-23T08:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "NeAx7gIaKtk",
