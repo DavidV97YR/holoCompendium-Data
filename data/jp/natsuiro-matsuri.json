@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0"
   },
-  "lastUpdated": "2026-09-19T17:16:09.712Z",
-  "videoCount": 1922,
+  "lastUpdated": "2026-09-19T19:13:55.097Z",
+  "videoCount": 1923,
   "videos": [
+    {
+      "id": "pBGZLmB-Qik",
+      "title": "【Shape of Dreams】#夏色吹雪 で初心者冒険譚!【ホロライブ/夏色まつり】",
+      "published": "2026-09-19T18:28:01.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-20T04:00:00.000Z"
+    },
     {
       "id": "vHj0NCLwo-k",
       "title": "【7Days to Die】最終日!背中はまかせた~!!#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
@@ -26,7 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-20T10:00:00Z"
+      "scheduledStart": "2026-09-20T10:00:00.000Z"
     },
     {
       "id": "lpejWDQTlJU",
@@ -16879,7 +16888,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z"
+      "scheduledStart": "2025-12-24T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "IW5b7btfayI",
