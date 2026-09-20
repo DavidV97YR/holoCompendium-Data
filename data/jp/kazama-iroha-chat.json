@@ -1,7 +1,7 @@
 {
   "channelId": "UC_vMYWcDjmfdpH6r4TTn1MQ",
   "channelName": "Kazama Iroha",
-  "lastUpdated": "2026-09-20T01:13:02.833Z",
+  "lastUpdated": "2026-09-20T14:16:39.852Z",
   "streams": {
     "SUhvxyVWDEA": {
       "member": 5,
@@ -58,8 +58,8 @@
       "milestone": 13
     },
     "2V6DBknuFaI": {
-      "e": "http503",
-      "n": 0
+      "member": 3,
+      "milestone": 50
     },
     "l20nRqhLAe0": {
       "member": 6,
@@ -118,7 +118,7 @@
     },
     "SwqyIG9MHL8": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "kGFxHMWV4Z0": {
       "member": 1,
@@ -130,7 +130,7 @@
     },
     "oK5yQYHOG7Y": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "udCxOCB6xIg": {
       "member": 2,
@@ -3079,7 +3079,7 @@
     },
     "1C7nzYHv1SU": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "2ZbCZoSs8DU": {
       "cur": {
@@ -4409,8 +4409,19 @@
       "milestone": 56
     },
     "8JC4WbbN6s4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 47792,
+        "NT$": 243,
+        "₩": 7040,
+        "SGD": 5
+      },
+      "sc": 52,
+      "sticker": 8,
+      "member": 23,
+      "milestone": 76,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "YVBEcRF4VTc": {
       "cur": {
@@ -4473,12 +4484,38 @@
       "sent": 67
     },
     "CHVwxfSKf4A": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 139748,
+        "₩": 7360,
+        "HK$": 350,
+        "MYR": 300,
+        "THB": 400
+      },
+      "sc": 95,
+      "sticker": 2,
+      "member": 10,
+      "milestone": 28,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     },
     "dHWmZmqHb5Q": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 132820,
+        "₩": 21680,
+        "£": 2,
+        "$": 10,
+        "NT$": 225,
+        "IDR": 20000,
+        "SGD": 1
+      },
+      "sc": 93,
+      "sticker": 1,
+      "member": 11,
+      "milestone": 382,
+      "gift": 5,
+      "recv": 16,
+      "sent": 32
     },
     "eDj6Unupcno": {
       "cur": {
@@ -5143,8 +5180,21 @@
       "sent": 346
     },
     "GJLx4A9xhD0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 220334,
+        "₩": 2000,
+        "MYR": 46.8,
+        "$": 5,
+        "NT$": 75,
+        "HK$": 100
+      },
+      "sc": 82,
+      "sticker": 2,
+      "member": 17,
+      "milestone": 121,
+      "gift": 26,
+      "recv": 275,
+      "sent": 406
     },
     "4HtYh4snzr4": {
       "cur": {
@@ -5513,7 +5563,7 @@
     },
     "JAQ7w9ReKLc": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "p25mVWME-JY": {
       "cur": {
@@ -6460,7 +6510,7 @@
     },
     "73kdG_DGgJQ": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "j4VjaDJBQfA": {
       "cur": {
@@ -7617,7 +7667,7 @@
     },
     "3-3jVGEs0pA": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "I_wMFtQZ8IQ": {
       "cur": {
@@ -7835,7 +7885,7 @@
     },
     "KKtHEXZUa9o": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "_dDHQYpQR5E": {
       "cur": {
@@ -8106,7 +8156,7 @@
     },
     "6ugMfoiOumM": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Pou5X55GUz0": {
       "cur": {
@@ -9013,8 +9063,19 @@
       "member": 12
     },
     "OTGRGBsUd8Q": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 86130,
+        "₩": 3168,
+        "CA$": 5,
+        "MX$": 20,
+        "$": 15,
+        "MYR": 16.8,
+        "NT$": 2171,
+        "A$": 100
+      },
+      "sc": 126,
+      "member": 20,
+      "milestone": 20
     },
     "NZeA5cOGZk0": {
       "cur": {
@@ -9291,8 +9352,23 @@
       "member": 39
     },
     "ju28024ozQM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1065405,
+        "£": 5.36,
+        "$": 141.52,
+        "NT$": 10167,
+        "MYR": 48,
+        "HK$": 802,
+        "₩": 45376,
+        "₱": 200,
+        "RUB": 100,
+        "PLN": 25,
+        "R$": 1,
+        "SGD": 2,
+        "SEK": 168
+      },
+      "sc": 943,
+      "member": 121
     },
     "QCxe3uz0QXY": {
       "cur": {
@@ -9569,7 +9645,7 @@
     },
     "ev-QzFckYO0": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "0QjfNNnmh3M": {
       "cur": {
