@@ -1,11 +1,11 @@
 {
   "channelId": "UCvN5h1ShZtc7nly3pezRayg",
   "channelName": "Cecilia Immergreen",
-  "lastUpdated": "2026-09-13T14:56:43.698Z",
+  "lastUpdated": "2026-09-20T10:06:13.841Z",
   "streams": {
     "iRc8ZsYDK5c": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "L-MQsH7kNzE": {
       "cur": {
@@ -2265,7 +2265,7 @@
     },
     "ywXLWSfaAdI": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "8e8HLDsRye0": {
       "cur": {
@@ -3362,7 +3362,7 @@
     },
     "bdoJuZuYA6Q": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "D2_iHYFl3sg": {
       "cur": {
@@ -4444,7 +4444,7 @@
     },
     "PRdlI64QHoY": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "a6K4dxr0BsQ": {
       "cur": {
@@ -5400,7 +5400,7 @@
     },
     "SAdndMvNK98": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "XHqOdg-5CbU": {
       "cur": {
@@ -6481,6 +6481,22 @@
     "dEKFF_gOi5Y": 0,
     "Qrs-TbHuoaA": 0,
     "c-jVt5szrMg": 0,
-    "bLKNQ9UC6mU": 0
+    "bLKNQ9UC6mU": 0,
+    "MAawlPmOvfE": {
+      "cur": {
+        "CA$": 15,
+        "$": 74.97,
+        "£": 4,
+        "€": 38,
+        "CZK": 50,
+        "SGD": 5
+      },
+      "sc": 27,
+      "member": 9,
+      "milestone": 104,
+      "gift": 2,
+      "recv": 21,
+      "sent": 21
+    }
   }
 }

@@ -1,11 +1,11 @@
 {
   "channelId": "UCDHABijvPBnJm7F-KlNME3w",
   "channelName": "Gigi Murin",
-  "lastUpdated": "2026-09-13T15:17:38.973Z",
+  "lastUpdated": "2026-09-20T10:05:33.740Z",
   "streams": {
     "SQqpK0FbIQk": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "T--YI-3MavA": {
       "cur": {
@@ -169,7 +169,7 @@
     },
     "ENlNsWX4PEI": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "Ybx9uImTJpY": {
       "cur": {
@@ -468,7 +468,7 @@
     },
     "ioKr7duvHZQ": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "1TUyyzbCq_E": {
       "cur": {
@@ -579,7 +579,7 @@
     },
     "kxCeHe-OmaE": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "7tjrub3JkJ8": {
       "cur": {
@@ -6313,7 +6313,7 @@
     },
     "6exWVCmzA9I": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "LSGUo-UnXwY": {
       "cur": {
@@ -7217,6 +7217,37 @@
     "pAwWmc6o_wE": 0,
     "lvS1AeFDho0": 0,
     "15aufXwBIKw": 0,
-    "Tg_4D1dfP-o": 0
+    "Tg_4D1dfP-o": 0,
+    "r6V7HgcTn9k": {
+      "cur": {
+        "CA$": 110.99,
+        "$": 320.08,
+        "₱": 499,
+        "€": 5,
+        "¥": 5500,
+        "CZK": 50,
+        "ARS": 5000
+      },
+      "sc": 46,
+      "member": 5,
+      "milestone": 35,
+      "gift": 3,
+      "recv": 15,
+      "sent": 15
+    },
+    "ZIAzbhfrlZ8": {
+      "cur": {
+        "CA$": 35.99,
+        "$": 251.95,
+        "ARS": 5000,
+        "SEK": 20
+      },
+      "sc": 21,
+      "member": 6,
+      "milestone": 16,
+      "gift": 2,
+      "recv": 30,
+      "sent": 30
+    }
   }
 }
