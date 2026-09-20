@@ -7,24 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-20T18:08:54.772Z",
+  "lastUpdated": "2026-09-20T18:21:48.956Z",
   "videoCount": 1136,
   "videos": [
     {
       "id": "40O-mkKBbyo",
       "title": "【バイオハザードレクイエム】ホラゲ苦手が行くバイオ9初見❕#5【水宮枢/ホロライブDEV_IS】※ネタバレ有",
-      "published": "2026-09-20T18:07:40+00:00",
+      "published": "2026-09-20T18:07:40Z",
       "type": "stream",
       "duration": 14969,
       "status": "past",
-      "scheduledStart": "2026-09-20T13:30:00.000Z"
+      "scheduledStart": "2026-09-20T13:30:00Z"
     },
     {
       "id": "zDok5ewkcS4",
       "title": "みにみや瞬間移動?!/delicious #vtuber #hololive #呪術廻戦",
       "published": "2026-09-20T08:03:22+00:00",
       "type": "short",
-      "duration": 11
+      "duration": 11,
+      "status": "past"
     },
     {
       "id": "FiCYHGLB7_U",
@@ -1654,7 +1655,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00.000Z"
+      "scheduledStart": "2028-06-30T14:30:00Z"
     },
     {
       "id": "bzecknsOFZI",

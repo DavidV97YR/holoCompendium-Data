@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-20T17:44:04.519Z",
+  "lastUpdated": "2026-09-20T17:52:33.186Z",
   "videoCount": 1275,
   "videos": [
     {
       "id": "Ndk65WSC5Jo",
       "title": "風真いろはの #ねるまえらじお 📻❣ #24",
-      "published": "2026-09-20T16:14:53+00:00",
+      "published": "2026-09-20T16:14:53Z",
       "type": "stream",
       "duration": 1949,
       "status": "past",
-      "scheduledStart": "2026-09-20T15:30:00.000Z"
+      "scheduledStart": "2026-09-20T15:30:00Z"
     },
     {
       "id": "Gm3iF28gTaU",
@@ -26,7 +26,7 @@
       "type": "stream",
       "duration": 10738,
       "status": "past",
-      "scheduledStart": "2026-09-20T12:00:00.000Z"
+      "scheduledStart": "2026-09-20T12:00:00Z"
     },
     {
       "id": "dTouiXf4DiA",
@@ -178,7 +178,7 @@
       "published": "2026-08-23T04:37:03.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "unavailable",
+      "status": "upcoming",
       "scheduledStart": "2026-08-23T08:00:00Z"
     },
     {

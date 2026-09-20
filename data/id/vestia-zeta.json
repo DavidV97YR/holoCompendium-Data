@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-09-20T15:51:05.186Z",
+  "lastUpdated": "2026-09-20T18:00:23.895Z",
   "videoCount": 1048,
   "videos": [
     {
@@ -15,7 +15,8 @@
       "title": "大丈夫?!",
       "published": "2026-09-20T12:56:37+00:00",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "hXCX8c0_DaQ",
@@ -24,7 +25,7 @@
       "type": "stream",
       "duration": 8019,
       "status": "past",
-      "scheduledStart": "2026-09-20T07:00:00.000Z"
+      "scheduledStart": "2026-09-20T07:00:00Z"
     },
     {
       "id": "xYZZ_1bNPFw",
@@ -8315,7 +8316,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00.000Z"
+      "scheduledStart": "2026-11-07T12:00:00Z"
     },
     {
       "id": "gW_1YVaqR-k",
