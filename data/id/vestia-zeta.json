@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0"
   },
-  "lastUpdated": "2026-09-20T05:58:53.126Z",
-  "videoCount": 1046,
+  "lastUpdated": "2026-09-20T07:51:19.903Z",
+  "videoCount": 1047,
   "videos": [
+    {
+      "id": "hXCX8c0_DaQ",
+      "title": "【Hololive Dreams】PLEASEEEEEEEEEE",
+      "published": "2026-09-20T04:04:21.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-20T07:00:00.000Z"
+    },
     {
       "id": "xYZZ_1bNPFw",
       "title": "【Rubinite】extremely challenging monster hunt",
@@ -8299,7 +8308,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00Z"
+      "scheduledStart": "2026-11-07T12:00:00.000Z"
     },
     {
       "id": "gW_1YVaqR-k",
