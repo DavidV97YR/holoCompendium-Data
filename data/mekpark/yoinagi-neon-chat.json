@@ -1,11 +1,11 @@
 {
   "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
   "channelName": "Yoinagi Neon",
-  "lastUpdated": "2026-09-20T16:26:02.662Z",
+  "lastUpdated": "2026-09-20T17:33:13.136Z",
   "streams": {
     "zYAE5BlKDgg": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "xvS6CLlkY-s": {
       "cur": {
@@ -154,15 +154,15 @@
     },
     "DVlIpYGGJu8": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "hWjwnc5kNCE": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "dg0ymFIETb0": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "a36hcV0tZ8g": {
       "cur": {
@@ -184,7 +184,7 @@
     },
     "zKzB5p0vV1w": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "H45nCMoMYEI": {
       "cur": {
@@ -249,7 +249,7 @@
     },
     "6lLGeBNvrcM": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "euI8nloNdfo": {
       "cur": {
@@ -260,7 +260,7 @@
     },
     "6XpGolpQrWM": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "IN5cKWGsU20": {
       "member": 3,
@@ -270,7 +270,7 @@
     },
     "7-yyZCoQFrI": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "-ppAHpmL8us": {
       "cur": {
@@ -349,7 +349,7 @@
     },
     "vQJtgRdP4b4": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "v0DtV8rzJFM": {
       "cur": {
@@ -552,7 +552,7 @@
     },
     "9ytwlVPAeQc": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "jq2QzheLCvs": 0,
     "9x-iZEKHpdw": {
@@ -578,7 +578,7 @@
     },
     "XdP8rP3Ftac": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "6DpoaxkzpzI": {
       "cur": {
@@ -641,7 +641,7 @@
     },
     "HFiKXUUxpAg": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "5StpeyneUzE": {
       "cur": {
@@ -794,7 +794,7 @@
     "NSQTp3BIR5Y": 0,
     "9qLxEuLIm6Q": {
       "e": "noreplay",
-      "n": 9
+      "n": 10
     },
     "4xTZgom-peA": 0,
     "UdH4oURm_zk": 0,
@@ -906,6 +906,14 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "aRgONvLvFEw": {
+      "cur": {
+        "¥": 2500,
+        "HK$": 25
+      },
+      "sc": 5,
+      "member": 2
     }
   }
 }
