@@ -1,7 +1,7 @@
 {
   "channelId": "UCjk2nKmHzgH5Xy-C5qYRd5A",
   "channelName": "Mizumiya Su",
-  "lastUpdated": "2026-09-13T14:51:32.500Z",
+  "lastUpdated": "2026-09-20T01:58:38.203Z",
   "streams": {
     "0-pvHnugGwo": {
       "cur": {
@@ -237,7 +237,7 @@
     },
     "4_zXm3DZNL4": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "Ng1wcY3zOhE": {
       "cur": {
@@ -424,7 +424,7 @@
     },
     "SfF_kF2WBSw": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "Yx2i-vsFQlA": {
       "cur": {
@@ -619,7 +619,7 @@
     },
     "-CW89avOj3c": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "weIZwFj237c": {
       "cur": {
@@ -728,7 +728,7 @@
     },
     "dhiBuRYeiCQ": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "tz069iavpCs": {
       "cur": {
@@ -889,7 +889,7 @@
     },
     "06THMoV85c0": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "jqApABr71eE": {
       "cur": {
@@ -1003,7 +1003,7 @@
     },
     "-n9V2GvU7Ug": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "Z6DddotqGEI": {
       "cur": {
@@ -4372,7 +4372,7 @@
     },
     "GH2ct-KrFWU": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "2l_LLns-kBM": {
       "cur": {
@@ -6724,7 +6724,7 @@
     },
     "5TzYenbsPls": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "uUX0tAN0pOc": {
       "cur": {
@@ -8038,7 +8038,7 @@
     },
     "emvA-YRbSmo": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "LVNvgSGGqo8": {
       "cur": {
@@ -8215,7 +8215,7 @@
     },
     "Vg54h4Vjphk": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "B2GHoHX6FvQ": {
       "cur": {
@@ -8322,6 +8322,82 @@
       "gift": 4,
       "recv": 46,
       "sent": 46
+    },
+    "zgIYYJBHq18": {
+      "cur": {
+        "¥": 43658
+      },
+      "sc": 33,
+      "member": 1,
+      "milestone": 4,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "FiCYHGLB7_U": {
+      "cur": {
+        "¥": 7820,
+        "MYR": 12,
+        "₩": 2000
+      },
+      "sc": 30,
+      "member": 3,
+      "milestone": 1,
+      "gift": 6,
+      "recv": 27,
+      "sent": 27
+    },
+    "8hKUE6R_DmU": {
+      "cur": {
+        "¥": 36598,
+        "CA$": 2,
+        "$": 10
+      },
+      "sc": 36,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "HAIiSo456Rk": {
+      "cur": {
+        "¥": 43065,
+        "₩": 20000,
+        "£": 5,
+        "₫": 20000
+      },
+      "sc": 38,
+      "sticker": 1,
+      "member": 13,
+      "milestone": 8,
+      "gift": 7,
+      "recv": 37,
+      "sent": 37
+    },
+    "KKcWO7cSTYQ": {
+      "cur": {
+        "¥": 25516,
+        "NT$": 189
+      },
+      "sc": 27,
+      "member": 7,
+      "milestone": 6,
+      "gift": 2,
+      "recv": 21,
+      "sent": 21
+    },
+    "xCesfamA8JU": {
+      "cur": {
+        "¥": 7540
+      },
+      "sc": 14,
+      "member": 3,
+      "milestone": 1,
+      "gift": 5,
+      "recv": 22,
+      "sent": 32
     }
   }
 }

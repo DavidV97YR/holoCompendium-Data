@@ -1,7 +1,7 @@
 {
   "channelId": "UChpRPsAeSZn5DistGacR3iA",
   "channelName": "Sumishio Sayana",
-  "lastUpdated": "2026-09-12T22:16:48.901Z",
+  "lastUpdated": "2026-09-20T02:06:01.565Z",
   "streams": {
     "6ktaKNhtyQ0": {
       "cur": {
@@ -79,7 +79,7 @@
     },
     "Ie1e9qn5ZVk": {
       "e": "noreplay",
-      "n": 2
+      "n": 3
     },
     "tebVjWiZjWs": {
       "cur": {
@@ -919,6 +919,136 @@
     "7rOlRZIzlcY": 0,
     "VX4WjiL1b_c": {
       "member": 1
+    },
+    "fCTCZWjihoE": {
+      "member": 1
+    },
+    "mGsu3p2YgAQ": {
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 1,
+      "member": 1
+    },
+    "tbkGngb0fvk": {
+      "member": 2
+    },
+    "3L9kDijQBjs": {
+      "cur": {
+        "¥": 1300
+      },
+      "sc": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "l0SLLL6sBKY": {
+      "cur": {
+        "$": 2
+      },
+      "sc": 1,
+      "member": 9
+    },
+    "B4M2uaYRq6w": {
+      "cur": {
+        "¥": 900
+      },
+      "sc": 3,
+      "member": 1
+    },
+    "_nVmDhXT_jg": {
+      "cur": {
+        "¥": 24000,
+        "HK$": 100,
+        "$": 5
+      },
+      "sc": 14,
+      "member": 2
+    },
+    "gsPJPQzz-1Q": {
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "bfICNGUfaR0": {
+      "cur": {
+        "¥": 8000,
+        "HK$": 10
+      },
+      "sc": 6,
+      "member": 4
+    },
+    "R4oYRtGdEow": {
+      "cur": {
+        "¥": 4800
+      },
+      "sc": 8,
+      "member": 4
+    },
+    "3gAjCjSba1w": {
+      "cur": {
+        "¥": 5040,
+        "HK$": 50,
+        "₩": 7000,
+        "NT$": 150
+      },
+      "sc": 14,
+      "member": 1
+    },
+    "aFQp6TiIXq0": {
+      "cur": {
+        "SGD": 2,
+        "¥": 4020
+      },
+      "sc": 12,
+      "member": 7
+    },
+    "qbTtgbioPzA": {
+      "cur": {
+        "¥": 900
+      },
+      "sc": 3,
+      "member": 2,
+      "milestone": 3
+    },
+    "VfJ_lyL2DtI": {
+      "cur": {
+        "¥": 32440,
+        "HK$": 25
+      },
+      "sc": 14,
+      "sticker": 1
+    },
+    "St0D7ajddgM": {
+      "cur": {
+        "¥": 20200,
+        "HK$": 25
+      },
+      "sc": 11,
+      "member": 2,
+      "milestone": 3,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "zRPfyrhBzh0": {
+      "cur": {
+        "SGD": 2,
+        "¥": 11114
+      },
+      "sc": 14,
+      "member": 5
+    },
+    "L_GU4RJXFZc": {
+      "cur": {
+        "¥": 6220,
+        "HK$": 50
+      },
+      "sc": 12,
+      "member": 2,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
