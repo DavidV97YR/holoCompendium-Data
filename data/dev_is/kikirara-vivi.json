@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-09-20T18:23:17.590Z",
+  "lastUpdated": "2026-09-20T20:09:20.702Z",
   "videoCount": 1202,
   "videos": [
+    {
+      "id": "bNz95l79nmk",
+      "title": "【 青鬼2 】完全初見!初めての青鬼2に挑戦!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+      "published": "2026-09-20T19:45:42+00:00",
+      "type": "stream",
+      "duration": 15570,
+      "status": "past",
+      "scheduledStart": "2026-09-20T15:15:00.000Z"
+    },
     {
       "id": "X9oyNC0B_MQ",
       "title": "【U-NEXTプレミアリーグ ウォッチパーティー】同時視聴!リーズ vs クリスタル・パレス!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
@@ -18,15 +27,6 @@
       "duration": 7843,
       "status": "past",
       "scheduledStart": "2026-09-20T12:50:00Z"
-    },
-    {
-      "id": "bNz95l79nmk",
-      "title": "【 青鬼2 】完全初見!初めての青鬼2に挑戦!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-      "published": "2026-09-20T15:09:14.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-20T15:15:00Z"
     },
     {
       "id": "Ee65v-uUN_Q",
@@ -9877,7 +9877,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00Z"
+      "scheduledStart": "2027-12-31T14:45:00.000Z"
     },
     {
       "id": "SrH6XQ8H9oo",
