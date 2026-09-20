@@ -1,287 +1,281 @@
 {
   "channelId": "UC_vMYWcDjmfdpH6r4TTn1MQ",
   "channelName": "Kazama Iroha",
-  "lastUpdated": "2026-09-19T23:25:02.073Z",
+  "lastUpdated": "2026-09-20T01:13:02.833Z",
   "streams": {
     "SUhvxyVWDEA": {
-      "e": "http500",
-      "n": 0
+      "member": 5,
+      "milestone": 19
     },
     "PgNgZGSZN0w": {
-      "e": "http500",
-      "n": 0
+      "member": 3,
+      "milestone": 239
     },
     "_YVTnfX87Wk": {
-      "e": "http500",
-      "n": 0
+      "member": 8,
+      "milestone": 8
     },
     "Am8LfnyyHO0": {
-      "e": "http503",
-      "n": 0
+      "member": 4,
+      "milestone": 25
     },
     "Pu1uR5DSH8o": {
-      "e": "http503",
-      "n": 0
+      "milestone": 7
     },
     "grsIwh-FYlk": {
-      "e": "http503",
-      "n": 0
+      "member": 7,
+      "milestone": 5
     },
     "CZj71UOt0Tk": {
-      "e": "http503",
-      "n": 0
+      "milestone": 9
     },
     "ufbZgdek7XU": {
-      "e": "http503",
-      "n": 0
+      "member": 3,
+      "milestone": 12
     },
     "42vWtvlk8aw": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 8
     },
     "-ldHQRLxaAY": {
-      "e": "http503",
-      "n": 0
+      "member": 4,
+      "milestone": 15
     },
     "sdrBKzDDhMA": {
-      "e": "http503",
-      "n": 0
+      "milestone": 4
     },
     "XHvJCmL7TRs": {
-      "e": "http503",
-      "n": 0
+      "milestone": 3
     },
     "0WEZ2cVcyNU": {
-      "e": "http503",
-      "n": 0
+      "milestone": 2
     },
     "f5sNX7FLT1w": {
-      "e": "http503",
-      "n": 0
+      "milestone": 1
     },
     "vzCu8Q-PD8U": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 13
     },
     "2V6DBknuFaI": {
       "e": "http503",
       "n": 0
     },
     "l20nRqhLAe0": {
-      "e": "http503",
-      "n": 0
+      "member": 6,
+      "milestone": 30
     },
     "muHxz2-hYa0": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 14
     },
     "s2oxFNXoOTg": {
-      "e": "http503",
-      "n": 0
+      "member": 2
     },
     "fhc67kDKU94": {
       "milestone": 1
     },
     "MShIcv1cizk": {
-      "e": "http503",
-      "n": 0
+      "member": 8,
+      "milestone": 78
     },
     "_RboFlDMwbM": {
-      "e": "http500",
-      "n": 0
+      "milestone": 30
     },
     "BW4ZFKfVmYM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 12024
+      },
+      "sc": 3,
+      "member": 4,
+      "milestone": 2
     },
     "d3X_gsAZGrE": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 9
     },
     "dNAdOq8JKpc": {
-      "e": "http503",
-      "n": 0
+      "milestone": 10
     },
     "VxsA38vZCN0": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 3
     },
     "5Tkqbnfrado": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 12
     },
     "NeAx7gIaKtk": {
-      "e": "http503",
-      "n": 0
+      "member": 8,
+      "milestone": 13
     },
     "NbsF6hpHPC0": {
-      "e": "http500",
-      "n": 0
+      "milestone": 12
     },
     "u8Nec47lfb4": {
-      "e": "http503",
-      "n": 0
+      "member": 4,
+      "milestone": 9
     },
     "SwqyIG9MHL8": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "kGFxHMWV4Z0": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 10
     },
     "j-dRM8ZUwTs": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 1
     },
     "oK5yQYHOG7Y": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "udCxOCB6xIg": {
-      "e": "http503",
-      "n": 0
+      "member": 2,
+      "milestone": 17
     },
     "bDK_kvi_7YM": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 11
     },
     "MkX5H4ZlXEA": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 4
     },
     "j0KG9lQOm7U": {
-      "e": "http503",
-      "n": 0
+      "member": 5,
+      "milestone": 3
     },
     "xRCOtVk9sj4": {
-      "e": "http503",
-      "n": 0
+      "milestone": 5
     },
     "wMjEKK-nTw0": 0,
     "6QbCxiI2lUk": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 5
     },
     "TPRV4TJJ3ZM": {
-      "e": "http503",
-      "n": 0
+      "member": 2,
+      "milestone": 2
     },
     "dRcvM2KGGRw": {
-      "e": "http503",
-      "n": 0
+      "member": 5,
+      "milestone": 2
     },
     "wsjGbcht2yw": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 11
     },
     "2hi11Lc9tl4": {
-      "e": "http503",
-      "n": 0
+      "member": 4,
+      "milestone": 6
     },
     "NwS_Vm7-Kjs": {
-      "e": "http503",
-      "n": 0
+      "member": 6,
+      "milestone": 12
     },
     "ogL0n6JP84M": {
-      "e": "http500",
-      "n": 0
+      "member": 1,
+      "milestone": 10
     },
     "Rrslk1buHLY": {
-      "e": "http500",
-      "n": 0
+      "milestone": 5
     },
     "Oj-BOOwS74k": {
       "member": 2
     },
     "hktdk6N1sJk": {
-      "e": "http503",
-      "n": 0
+      "milestone": 8
     },
     "pC6Y7QSUZZY": {
-      "e": "http503",
-      "n": 0
+      "member": 15,
+      "milestone": 812
     },
     "aHocFufnrVk": 0,
     "7MPnwt9rkeQ": {
-      "e": "http503",
-      "n": 0
+      "member": 19,
+      "milestone": 17
     },
     "toX8wdSC328": {
-      "e": "http503",
-      "n": 0
+      "milestone": 7
     },
     "oItAZ_ZfBkU": {
-      "e": "http500",
-      "n": 0
+      "member": 1,
+      "milestone": 61
     },
     "UTcUiGWWIe4": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 12
     },
     "hxAVMW8hBHw": {
-      "e": "http500",
-      "n": 0
+      "member": 5,
+      "milestone": 35
     },
     "7TfDGHm4QvA": {
-      "e": "http500",
-      "n": 0
+      "member": 1,
+      "milestone": 11
     },
     "U1_dHCpwXHA": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 56
     },
     "4nnyPay0zk0": {
-      "e": "http500",
-      "n": 0
+      "member": 2,
+      "milestone": 27
     },
     "9EbLakjJqYs": {
-      "e": "http500",
-      "n": 0
+      "member": 7,
+      "milestone": 11
     },
     "3I2cpBGN_yc": {
-      "e": "http500",
-      "n": 0
+      "member": 5,
+      "milestone": 9
     },
     "4PGB9t4V5no": {
-      "e": "http500",
-      "n": 0
+      "member": 2,
+      "milestone": 5
     },
     "dZ5Qc9iblTY": {
-      "e": "http500",
-      "n": 0
+      "member": 5,
+      "milestone": 15
     },
     "ArhJEPvG8Ak": {
-      "e": "http500",
-      "n": 0
+      "member": 3,
+      "milestone": 83,
+      "gift": 6,
+      "recv": 12,
+      "sent": 22
     },
     "5Wk-v6ZDF-M": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 51,
+      "gift": 6,
+      "recv": 18,
+      "sent": 18
     },
     "5I5Z2Peergk": {
-      "e": "http500",
-      "n": 0
+      "milestone": 13
     },
     "ZaE_FIP6oAU": {
-      "e": "http500",
-      "n": 0
+      "milestone": 5
     },
     "RMEFmM78oE4": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 28
     },
     "iFJ-TFFQ99g": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 69
     },
     "5BzTkLEKHjI": {
-      "e": "http500",
-      "n": 0
+      "member": 4,
+      "milestone": 11
     },
     "ARLHStsx8L8": {
-      "e": "http503",
-      "n": 0
+      "member": 10,
+      "milestone": 159
     },
     "b5xA5I1zoJk": {
       "member": 1,
@@ -349,8 +343,12 @@
       "milestone": 12
     },
     "b7m6iSFfLhk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 34371
+      },
+      "sc": 40,
+      "member": 2,
+      "milestone": 12
     },
     "YnnfxfTNivg": {
       "member": 9,
@@ -364,64 +362,126 @@
       "sent": 10
     },
     "bOkGXx03ioc": {
-      "e": "http503",
-      "n": 0
+      "member": 5,
+      "milestone": 4
     },
     "7rlxCYXOl3Y": {
-      "e": "http503",
-      "n": 0
+      "member": 8,
+      "milestone": 77
     },
     "b99OMm1WlNI": {
-      "e": "http503",
-      "n": 0
+      "member": 15,
+      "milestone": 63
     },
     "YWihbxWgLfc": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 82086,
+        "HK$": 50
+      },
+      "sc": 66,
+      "member": 3,
+      "milestone": 81
     },
     "bwCJkpMpjsU": {
-      "e": "http503",
-      "n": 0
+      "member": 5,
+      "milestone": 3
     },
     "23UEX1Yh43U": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1436500,
+        "SGD": 62,
+        "MX$": 70,
+        "₫": 100000,
+        "NT$": 19212,
+        "₩": 100000,
+        "€": 10,
+        "CA$": 10,
+        "MYR": 316.8,
+        "$": 126.8,
+        "HK$": 551.8,
+        "IDR": 20000,
+        "PLN": 50,
+        "₱": 250,
+        "A$": 5
+      },
+      "sc": 384,
+      "sticker": 7,
+      "member": 375,
+      "milestone": 716
     },
     "0WbtGvbRf9E": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 46608,
+        "HK$": 25
+      },
+      "sc": 21,
+      "member": 9,
+      "milestone": 13
     },
     "xiwSYC4hewo": {
-      "e": "http503",
-      "n": 0
+      "member": 2,
+      "milestone": 23
     },
     "WVz5OPvWBic": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 43721,
+        "NT$": 300
+      },
+      "sc": 50,
+      "sticker": 1,
+      "member": 9,
+      "milestone": 12
     },
     "QxYOwE9nW0w": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 36548,
+        "₩": 100000
+      },
+      "sc": 30,
+      "member": 3,
+      "milestone": 4,
+      "gift": 1,
+      "sent": 5
     },
     "nEy-Y4eq70A": {
       "member": 2,
       "milestone": 9
     },
     "NSleK0_ETQA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 711528,
+        "$": 5,
+        "NT$": 1980,
+        "₩": 216800
+      },
+      "sc": 123,
+      "sticker": 2,
+      "member": 16,
+      "milestone": 116
     },
     "J9NDlvkfIQM": {
-      "e": "http503",
-      "n": 0
+      "member": 16,
+      "milestone": 13,
+      "gift": 3,
+      "recv": 55,
+      "sent": 60
     },
     "B9UabapLhqQ": {
-      "e": "http500",
-      "n": 0
+      "member": 15,
+      "milestone": 147
     },
     "YE3AaGEnENk": {
-      "e": "http500",
-      "n": 0
+      "cur": {
+        "¥": 93487,
+        "HK$": 75,
+        "MYR": 16.8
+      },
+      "sc": 58,
+      "member": 5,
+      "milestone": 34,
+      "gift": 5,
+      "recv": 22,
+      "sent": 26
     },
     "4gAFp3qTTmM": {
       "member": 4,
@@ -431,24 +491,48 @@
       "sent": 2
     },
     "LkSGbDlfjRE": {
-      "e": "http503",
-      "n": 0
+      "member": 5,
+      "milestone": 6
     },
     "s6UDSCR20mI": {
       "member": 2,
       "milestone": 2
     },
     "57R7UPufUUk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1045469,
+        "NT$": 5000,
+        "MYR": 306,
+        "HK$": 1338,
+        "$": 5,
+        "₩": 100000
+      },
+      "sc": 200,
+      "member": 20,
+      "milestone": 232,
+      "gift": 8,
+      "recv": 83,
+      "sent": 103
     },
     "Dm1pLEbPu-M": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "milestone": 1
     },
     "XqTTKBbIn-Y": {
-      "e": "http500",
-      "n": 0
+      "cur": {
+        "¥": 131332,
+        "NT$": 75,
+        "HK$": 15,
+        "₩": 2000,
+        "MYR": 9.9
+      },
+      "sc": 98,
+      "sticker": 3,
+      "member": 4,
+      "milestone": 32,
+      "gift": 8,
+      "recv": 24,
+      "sent": 24
     },
     "xixYYhZHors": {
       "cur": {
@@ -460,12 +544,31 @@
       "milestone": 7
     },
     "6k5IOoNDP44": {
-      "e": "http500",
-      "n": 0
+      "cur": {
+        "¥": 111795,
+        "HK$": 50,
+        "₩": 7000
+      },
+      "sc": 65,
+      "member": 4,
+      "milestone": 63,
+      "gift": 5,
+      "recv": 8,
+      "sent": 28
     },
     "0QJeNIdoIyk": {
-      "e": "http500",
-      "n": 0
+      "cur": {
+        "¥": 47552,
+        "₩": 2000,
+        "MYR": 15
+      },
+      "sc": 40,
+      "sticker": 1,
+      "member": 9,
+      "milestone": 55,
+      "gift": 6,
+      "recv": 23,
+      "sent": 23
     },
     "klSco-EgWNE": {
       "cur": {
@@ -476,12 +579,25 @@
       "milestone": 6
     },
     "ShaD8hjD7cg": {
-      "e": "http500",
-      "n": 0
+      "member": 6,
+      "milestone": 8,
+      "gift": 1,
+      "sent": 1
     },
     "HJilD4caE8I": {
-      "e": "http500",
-      "n": 0
+      "cur": {
+        "¥": 114927,
+        "NT$": 172,
+        "HK$": 60,
+        "$": 10
+      },
+      "sc": 99,
+      "sticker": 4,
+      "member": 18,
+      "milestone": 59,
+      "gift": 3,
+      "recv": 7,
+      "sent": 7
     },
     "wtzraiO02yg": {
       "member": 10,
@@ -998,12 +1114,28 @@
       "milestone": 11
     },
     "TJFxdJ4cF-c": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 60454,
+        "₩": 5600
+      },
+      "sc": 62,
+      "member": 6,
+      "milestone": 13
     },
     "O6IXxkQci7U": {
-      "e": "http502",
-      "n": 0
+      "cur": {
+        "¥": 61088,
+        "NT$": 14,
+        "$": 15,
+        "MYR": 15
+      },
+      "sc": 71,
+      "sticker": 5,
+      "member": 12,
+      "milestone": 67,
+      "gift": 6,
+      "recv": 14,
+      "sent": 34
     },
     "_G06JCVEVDM": {
       "cur": {
@@ -2947,7 +3079,7 @@
     },
     "1C7nzYHv1SU": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "2ZbCZoSs8DU": {
       "cur": {
@@ -3813,6 +3945,5856 @@
       "gift": 10,
       "recv": 28,
       "sent": 48
+    },
+    "pq2ozpJqTiM": {
+      "cur": {
+        "¥": 32280,
+        "HK$": 30,
+        "€": 2,
+        "NT$": 182,
+        "₩": 2000
+      },
+      "sc": 53,
+      "sticker": 1,
+      "member": 14,
+      "milestone": 70
+    },
+    "C6uqq8tES60": {
+      "cur": {
+        "¥": 21160,
+        "₩": 4360,
+        "ARS": 50,
+        "HK$": 30,
+        "NT$": 75,
+        "CA$": 2
+      },
+      "sc": 57,
+      "member": 7,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 4,
+      "sent": 5
+    },
+    "8-k6RzHBp3w": {
+      "cur": {
+        "¥": 660,
+        "₩": 1680
+      },
+      "sc": 3,
+      "member": 2,
+      "milestone": 3,
+      "gift": 6,
+      "recv": 23,
+      "sent": 46
+    },
+    "yw4E4R1txvc": {
+      "cur": {
+        "¥": 3432,
+        "₩": 1680
+      },
+      "sc": 8,
+      "member": 3,
+      "milestone": 6
+    },
+    "EKlqx_CsTGQ": {
+      "cur": {
+        "¥": 2224,
+        "₩": 1680
+      },
+      "sc": 7,
+      "member": 3,
+      "milestone": 2
+    },
+    "pNTpm2ArBUw": {
+      "cur": {
+        "¥": 74192,
+        "SGD": 1,
+        "NT$": 1575,
+        "$": 5,
+        "₩": 3680,
+        "THB": 69,
+        "HK$": 30,
+        "MYR": 16.8,
+        "£": 1.68
+      },
+      "sc": 97,
+      "sticker": 1,
+      "member": 14,
+      "milestone": 35,
+      "gift": 2,
+      "recv": 8,
+      "sent": 15
+    },
+    "MSsMmPO7iVw": {
+      "cur": {
+        "¥": 192571,
+        "SGD": 1,
+        "₩": 14360,
+        "HK$": 46.8,
+        "NT$": 1575,
+        "MYR": 16.8
+      },
+      "sc": 192,
+      "sticker": 3,
+      "member": 26,
+      "milestone": 94,
+      "gift": 5,
+      "recv": 22,
+      "sent": 27
+    },
+    "CJaXyBZZ3KE": {
+      "cur": {
+        "¥": 2560,
+        "₩": 1680
+      },
+      "sc": 7,
+      "member": 5,
+      "milestone": 8,
+      "gift": 2,
+      "recv": 14,
+      "sent": 15
+    },
+    "TVSoYYo_EYg": {
+      "cur": {
+        "¥": 142064,
+        "SGD": 1,
+        "₩": 9000,
+        "HK$": 25,
+        "MYR": 16.8,
+        "$": 5,
+        "£": 1.68,
+        "NT$": 75
+      },
+      "sc": 111,
+      "sticker": 1,
+      "member": 10,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 4,
+      "sent": 5
+    },
+    "keCyC2BtzLk": {
+      "cur": {
+        "¥": 117137,
+        "SGD": 1,
+        "$": 5,
+        "₩": 105360,
+        "NT$": 150,
+        "MYR": 6,
+        "HK$": 168,
+        "£": 1.68
+      },
+      "sc": 109,
+      "sticker": 3,
+      "member": 7,
+      "milestone": 21,
+      "gift": 1,
+      "sent": 5
+    },
+    "wVFIPpqpY48": {
+      "cur": {
+        "₩": 1680,
+        "¥": 4164,
+        "€": 1,
+        "MYR": 1.9
+      },
+      "sc": 10,
+      "member": 11,
+      "milestone": 13
+    },
+    "6Lvuz3vaVoA": {
+      "cur": {
+        "¥": 747213,
+        "NT$": 2611,
+        "HK$": 1029,
+        "MYR": 60,
+        "₩": 142160,
+        "$": 5,
+        "IDR": 20000,
+        "CA$": 5,
+        "SGD": 1,
+        "MX$": 50
+      },
+      "sc": 233,
+      "sticker": 1,
+      "member": 82,
+      "milestone": 851,
+      "gift": 19,
+      "recv": 38,
+      "sent": 132
+    },
+    "e7hMJprOerg": {
+      "cur": {
+        "¥": 68084,
+        "MX$": 100,
+        "SGD": 1,
+        "NT$": 150,
+        "HK$": 53.6
+      },
+      "sc": 46,
+      "member": 12,
+      "milestone": 6,
+      "gift": 4,
+      "recv": 9,
+      "sent": 21
+    },
+    "HSKB1kPTVLs": {
+      "cur": {
+        "¥": 209971,
+        "₩": 29800,
+        "NT$": 3660,
+        "MYR": 9.9,
+        "HK$": 500
+      },
+      "sc": 121,
+      "member": 13,
+      "milestone": 52,
+      "gift": 2,
+      "recv": 12,
+      "sent": 15
+    },
+    "A6cwVNBrVRo": {
+      "cur": {
+        "¥": 19352,
+        "₩": 100000,
+        "NT$": 300
+      },
+      "sc": 45,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 27,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "hl2kq8ZQVDg": {
+      "cur": {
+        "¥": 85944,
+        "IDR": 200000,
+        "MYR": 15,
+        "£": 3.36,
+        "SGD": 1,
+        "HK$": 168
+      },
+      "sc": 50,
+      "member": 6,
+      "milestone": 38,
+      "gift": 9,
+      "recv": 44,
+      "sent": 125
+    },
+    "Y3-4xPaPGUM": {
+      "cur": {
+        "¥": 3002
+      },
+      "sc": 8,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 17,
+      "gift": 3,
+      "recv": 24,
+      "sent": 30
+    },
+    "pdvF7jb-TLw": {
+      "cur": {
+        "¥": 3400,
+        "₩": 1680,
+        "NT$": 168
+      },
+      "sc": 12,
+      "member": 6,
+      "milestone": 14,
+      "gift": 1,
+      "sent": 1
+    },
+    "cWZ2PsVBzAM": {
+      "cur": {
+        "¥": 473014,
+        "MX$": 100,
+        "NT$": 3393,
+        "MYR": 16.8,
+        "SGD": 1,
+        "₩": 200000
+      },
+      "sc": 115,
+      "member": 15,
+      "milestone": 33,
+      "gift": 9,
+      "recv": 46,
+      "sent": 48
+    },
+    "oZLlejTsydY": {
+      "cur": {
+        "¥": 49632,
+        "SGD": 1,
+        "₩": 7000,
+        "£": 3.36,
+        "MYR": 6
+      },
+      "sc": 74,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 22
+    },
+    "V_-TVRyo24M": {
+      "cur": {
+        "¥": 42064,
+        "SGD": 1,
+        "NT$": 198,
+        "IDR": 20168,
+        "£": 1.68,
+        "MYR": 9
+      },
+      "sc": 67,
+      "member": 4,
+      "milestone": 16,
+      "gift": 3,
+      "recv": 20,
+      "sent": 26
+    },
+    "jrUa3JpsNt4": {
+      "cur": {
+        "¥": 1014085,
+        "₫": 300000,
+        "HK$": 381,
+        "NT$": 6808,
+        "MYR": 180.6,
+        "₩": 36168,
+        "THB": 1000,
+        "$": 35,
+        "SGD": 4,
+        "IDR": 368536,
+        "€": 5
+      },
+      "sc": 339,
+      "sticker": 9,
+      "member": 231,
+      "milestone": 1069,
+      "gift": 48,
+      "recv": 3,
+      "sent": 429
+    },
+    "7IpJayfbXmY": {
+      "cur": {
+        "¥": 137437,
+        "SGD": 1,
+        "₩": 16680,
+        "NT$": 1953,
+        "£": 3.36,
+        "HK$": 50,
+        "MYR": 6
+      },
+      "sc": 118,
+      "member": 15,
+      "milestone": 69,
+      "gift": 5,
+      "recv": 25,
+      "sent": 27
+    },
+    "XPV36HVszSg": {
+      "cur": {
+        "¥": 30736,
+        "MYR": 22.8,
+        "NT$": 168,
+        "SGD": 1
+      },
+      "sc": 41,
+      "member": 8,
+      "milestone": 10,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "ZNGqqCothRc": {
+      "cur": {
+        "¥": 59312,
+        "NT$": 198,
+        "₩": 1680,
+        "HK$": 16.8
+      },
+      "sc": 41,
+      "sticker": 1,
+      "member": 8,
+      "milestone": 79,
+      "gift": 1,
+      "sent": 10
+    },
+    "801mlTHe3eQ": {
+      "cur": {
+        "¥": 74356,
+        "₩": 6680,
+        "NT$": 1249,
+        "SGD": 1,
+        "MYR": 16.8,
+        "HK$": 53.6,
+        "£": 3.36
+      },
+      "sc": 78,
+      "sticker": 1,
+      "member": 6,
+      "milestone": 51,
+      "gift": 3,
+      "recv": 14,
+      "sent": 16
+    },
+    "7JjBS9kLNM8": {
+      "cur": {
+        "¥": 84745,
+        "₩": 3680,
+        "NT$": 75,
+        "MYR": 33.6,
+        "HK$": 10
+      },
+      "sc": 62,
+      "sticker": 2,
+      "member": 12,
+      "milestone": 82,
+      "gift": 7,
+      "recv": 26,
+      "sent": 31
+    },
+    "7WjGfQpWGis": {
+      "cur": {
+        "¥": 42386,
+        "NT$": 1575,
+        "THB": 400,
+        "₩": 5360
+      },
+      "sc": 76,
+      "member": 15,
+      "milestone": 82,
+      "gift": 4,
+      "recv": 2,
+      "sent": 8
+    },
+    "eDp-92QmH_c": {
+      "cur": {
+        "¥": 56003,
+        "SGD": 1,
+        "NT$": 155,
+        "MYR": 6,
+        "HK$": 16.8,
+        "THB": 200,
+        "₩": 4000,
+        "£": 1.68
+      },
+      "sc": 59,
+      "member": 10,
+      "milestone": 25,
+      "gift": 1,
+      "sent": 10
+    },
+    "-LG7wh3G-8M": {
+      "cur": {
+        "¥": 4140,
+        "NT$": 75
+      },
+      "sc": 9,
+      "member": 5,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "nR7CNw_S6KQ": {
+      "cur": {
+        "¥": 52859,
+        "NT$": 243,
+        "₩": 1680,
+        "HK$": 30
+      },
+      "sc": 60,
+      "sticker": 1,
+      "member": 10,
+      "milestone": 56
+    },
+    "8JC4WbbN6s4": {
+      "e": "http503",
+      "n": 0
+    },
+    "YVBEcRF4VTc": {
+      "cur": {
+        "¥": 245556,
+        "SGD": 2,
+        "₩": 5000,
+        "NT$": 486,
+        "THB": 536,
+        "MYR": 16.8,
+        "$": 5
+      },
+      "sc": 64,
+      "member": 7,
+      "milestone": 85,
+      "gift": 3,
+      "recv": 6,
+      "sent": 11
+    },
+    "Yb4HQIznB-0": {
+      "cur": {
+        "¥": 110168,
+        "NT$": 183,
+        "MYR": 33.6,
+        "₩": 5360
+      },
+      "sc": 58,
+      "member": 17,
+      "milestone": 80,
+      "gift": 4,
+      "recv": 13,
+      "sent": 17
+    },
+    "dj01p7xEzQc": {
+      "cur": {
+        "¥": 195870,
+        "NT$": 243,
+        "$": 5,
+        "₩": 7040,
+        "₫": 53600,
+        "MYR": 23.9
+      },
+      "sc": 126,
+      "sticker": 2,
+      "member": 25,
+      "milestone": 48,
+      "gift": 3,
+      "recv": 20,
+      "sent": 21
+    },
+    "70ZyyaBIBu0": {
+      "cur": {
+        "¥": 8200,
+        "₩": 1680
+      },
+      "sc": 14,
+      "member": 4,
+      "milestone": 13,
+      "gift": 9,
+      "recv": 39,
+      "sent": 67
+    },
+    "CHVwxfSKf4A": {
+      "e": "http503",
+      "n": 0
+    },
+    "dHWmZmqHb5Q": {
+      "e": "http503",
+      "n": 0
+    },
+    "eDj6Unupcno": {
+      "cur": {
+        "SGD": 1,
+        "¥": 59125,
+        "IDR": 20000,
+        "NT$": 243
+      },
+      "sc": 42,
+      "member": 7,
+      "milestone": 33,
+      "gift": 5,
+      "recv": 24,
+      "sent": 36
+    },
+    "G8QWrkBgaLw": {
+      "cur": {
+        "¥": 46712,
+        "SGD": 1,
+        "NT$": 411,
+        "₩": 1000
+      },
+      "sc": 40,
+      "sticker": 2,
+      "member": 1,
+      "milestone": 10,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "SCnfjRxT0_A": {
+      "cur": {
+        "¥": 7551
+      },
+      "sc": 11,
+      "member": 2,
+      "milestone": 8,
+      "gift": 4,
+      "recv": 20,
+      "sent": 26
+    },
+    "-K4-ZxAT3dU": {
+      "cur": {
+        "¥": 74671,
+        "NT$": 75,
+        "THB": 69
+      },
+      "sc": 28,
+      "member": 17,
+      "milestone": 36,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "QKCbbzwo4HE": {
+      "cur": {
+        "¥": 76418,
+        "NT$": 150,
+        "SGD": 1,
+        "£": 1.68
+      },
+      "sc": 57,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 9
+    },
+    "AwHiQup-a0M": {
+      "cur": {
+        "¥": 3536,
+        "₩": 1680
+      },
+      "sc": 8,
+      "member": 8,
+      "milestone": 2,
+      "gift": 1,
+      "sent": 20
+    },
+    "ABFndQbWYvE": {
+      "cur": {
+        "¥": 19592,
+        "₩": 1680
+      },
+      "sc": 14,
+      "sticker": 1,
+      "member": 4,
+      "milestone": 14,
+      "gift": 2,
+      "recv": 21,
+      "sent": 25
+    },
+    "ylrQp3ZGM8A": {
+      "cur": {
+        "¥": 159710,
+        "₩": 1680,
+        "NT$": 75,
+        "IDR": 11168,
+        "MYR": 6
+      },
+      "sc": 58,
+      "member": 8,
+      "milestone": 31,
+      "gift": 1,
+      "recv": 10,
+      "sent": 5
+    },
+    "jjZEQ9Nocp4": {
+      "cur": {
+        "¥": 342240,
+        "IDR": 20000,
+        "NT$": 2848,
+        "HK$": 150,
+        "$": 15.36,
+        "₫": 203600,
+        "₩": 18800,
+        "MYR": 96,
+        "₱": 168,
+        "ARS": 500
+      },
+      "sc": 169,
+      "sticker": 2,
+      "member": 46,
+      "milestone": 760,
+      "gift": 34,
+      "recv": 15,
+      "sent": 222
+    },
+    "9T0nq833dr0": {
+      "cur": {
+        "¥": 47814,
+        "₩": 1680,
+        "IDR": 20000,
+        "THB": 20,
+        "NT$": 168,
+        "MYR": 16.8
+      },
+      "sc": 43,
+      "member": 17,
+      "milestone": 18,
+      "gift": 2,
+      "recv": 16,
+      "sent": 20
+    },
+    "tYA5Oti3R2I": {
+      "cur": {
+        "¥": 37856,
+        "₩": 6680,
+        "HK$": 530,
+        "SGD": 1
+      },
+      "sc": 53,
+      "sticker": 2,
+      "member": 5,
+      "milestone": 6,
+      "gift": 1,
+      "sent": 1
+    },
+    "dEAfHhCBDck": {
+      "member": 13,
+      "milestone": 7,
+      "gift": 16,
+      "recv": 125,
+      "sent": 128
+    },
+    "I5t79MlOLVM": {
+      "cur": {
+        "¥": 71800,
+        "NT$": 225,
+        "$": 10,
+        "MYR": 15,
+        "SGD": 1
+      },
+      "sc": 46,
+      "sticker": 1,
+      "member": 10,
+      "milestone": 36,
+      "gift": 3,
+      "recv": 18,
+      "sent": 40
+    },
+    "NvnCC2Jkgjc": {
+      "member": 5,
+      "milestone": 29,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "CJlWlcU6Kac": {
+      "cur": {
+        "NT$": 300,
+        "¥": 47880,
+        "SGD": 1,
+        "$": 130,
+        "HK$": 5,
+        "€": 5
+      },
+      "sc": 51,
+      "sticker": 3,
+      "member": 11,
+      "milestone": 384,
+      "gift": 38,
+      "recv": 10,
+      "sent": 265
+    },
+    "nqxptM_OgYM": {
+      "cur": {
+        "¥": 75959,
+        "$": 15,
+        "₩": 1680,
+        "NT$": 243,
+        "HK$": 505,
+        "SGD": 1,
+        "MYR": 6,
+        "£": 1.68
+      },
+      "sc": 75,
+      "member": 10,
+      "milestone": 41,
+      "gift": 3,
+      "recv": 11,
+      "sent": 12
+    },
+    "vs8kj9VX7vo": {
+      "member": 9,
+      "milestone": 31,
+      "gift": 6,
+      "recv": 41,
+      "sent": 47
+    },
+    "w24TnR8SlII": {
+      "cur": {
+        "¥": 42072,
+        "₩": 1680,
+        "SGD": 1,
+        "NT$": 278,
+        "HK$": 30,
+        "MYR": 16.8
+      },
+      "sc": 50,
+      "member": 6,
+      "milestone": 12,
+      "gift": 8,
+      "recv": 39,
+      "sent": 46
+    },
+    "4ysmVAeb9A4": {
+      "cur": {
+        "¥": 10196,
+        "₩": 2000,
+        "HK$": 30
+      },
+      "sc": 29,
+      "member": 4,
+      "milestone": 19,
+      "gift": 11,
+      "recv": 52,
+      "sent": 107
+    },
+    "8rgl9ngDF5U": {
+      "cur": {
+        "¥": 5604
+      },
+      "sc": 16,
+      "member": 11,
+      "milestone": 23,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "7UnMD8nZ5L0": {
+      "member": 9,
+      "milestone": 39,
+      "gift": 6,
+      "recv": 25,
+      "sent": 27
+    },
+    "sBPS_JflFJk": {
+      "cur": {
+        "¥": 54724,
+        "NT$": 1830,
+        "MYR": 16.8
+      },
+      "sc": 41,
+      "sticker": 3,
+      "member": 12,
+      "milestone": 101,
+      "gift": 12,
+      "recv": 50,
+      "sent": 65
+    },
+    "ULoGX8DdcCY": {
+      "member": 8,
+      "milestone": 18,
+      "gift": 6,
+      "recv": 22,
+      "sent": 24
+    },
+    "j7tIgjt3zBA": {
+      "member": 17,
+      "milestone": 56,
+      "gift": 7,
+      "recv": 80,
+      "sent": 96
+    },
+    "tgFlTtff8kY": {
+      "cur": {
+        "¥": 76007,
+        "₩": 62400,
+        "$": 5,
+        "MYR": 16.8,
+        "SGD": 2,
+        "NT$": 150
+      },
+      "sc": 90,
+      "sticker": 4,
+      "member": 8,
+      "milestone": 67,
+      "gift": 5,
+      "recv": 24,
+      "sent": 40
+    },
+    "0y_nMjJ60nE": {
+      "member": 6,
+      "milestone": 5,
+      "gift": 3,
+      "recv": 6,
+      "sent": 7
+    },
+    "itdBOQpb-d4": {
+      "member": 5,
+      "milestone": 11,
+      "gift": 1,
+      "recv": 2,
+      "sent": 1
+    },
+    "KE424ZzDkS8": {
+      "cur": {
+        "¥": 162986,
+        "NT$": 2073,
+        "IDR": 31168,
+        "CA$": 13.99
+      },
+      "sc": 71,
+      "sticker": 2,
+      "member": 14,
+      "milestone": 53,
+      "gift": 5,
+      "recv": 26,
+      "sent": 22
+    },
+    "R9LOlSYFNGA": {
+      "cur": {
+        "¥": 41348,
+        "₩": 3680,
+        "NT$": 180,
+        "IDR": 11168,
+        "MYR": 6
+      },
+      "sc": 46,
+      "member": 3,
+      "milestone": 18,
+      "gift": 2,
+      "recv": 1,
+      "sent": 2
+    },
+    "NNwwECCz-ec": {
+      "member": 5,
+      "milestone": 6,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "rSb16UIIGb0": {
+      "member": 8,
+      "milestone": 19,
+      "gift": 7,
+      "recv": 7,
+      "sent": 7
+    },
+    "GZiEnf1MHxY": {
+      "cur": {
+        "¥": 183388,
+        "THB": 500,
+        "₩": 15137,
+        "CA$": 69.94,
+        "IDR": 20000,
+        "SGD": 1,
+        "₫": 20000,
+        "NT$": 300,
+        "£": 1.68,
+        "MYR": 15
+      },
+      "sc": 144,
+      "sticker": 6,
+      "member": 11,
+      "milestone": 104,
+      "gift": 9,
+      "recv": 39,
+      "sent": 49
+    },
+    "Q3EQ4t1xIiI": {
+      "cur": {
+        "¥": 428227,
+        "₩": 19040,
+        "HK$": 515,
+        "NT$": 2116,
+        "CLP": 2500,
+        "₱": 50,
+        "IDR": 70536,
+        "₫": 53600,
+        "MYR": 30,
+        "CA$": 11.68,
+        "$": 10.36
+      },
+      "sc": 247,
+      "sticker": 7,
+      "member": 17,
+      "milestone": 307,
+      "gift": 2,
+      "sent": 2
+    },
+    "9Hnmr9bw5CQ": {
+      "cur": {
+        "¥": 116160,
+        "IDR": 50000,
+        "SGD": 3,
+        "₩": 2680,
+        "NT$": 30,
+        "MYR": 16.8
+      },
+      "sc": 83,
+      "sticker": 1,
+      "member": 9,
+      "milestone": 52,
+      "gift": 15,
+      "recv": 64,
+      "sent": 83
+    },
+    "gX8tL-lE1kA": {
+      "cur": {
+        "¥": 19498,
+        "HK$": 30,
+        "CA$": 2.2,
+        "NT$": 243,
+        "$": 5,
+        "MYR": 16.8,
+        "₫": 53600
+      },
+      "sc": 51,
+      "member": 7,
+      "milestone": 12,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "jQVEaK1MlXs": {
+      "cur": {
+        "¥": 31592,
+        "₩": 1680,
+        "NT$": 75,
+        "IDR": 11168
+      },
+      "sc": 34,
+      "sticker": 2,
+      "member": 7,
+      "milestone": 24,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "jIzaMQ_ohhE": {
+      "cur": {
+        "¥": 26276,
+        "NT$": 75,
+        "HK$": 30
+      },
+      "sc": 61,
+      "member": 11,
+      "milestone": 18,
+      "gift": 4,
+      "recv": 18,
+      "sent": 25
+    },
+    "4B_QtqSY39U": {
+      "cur": {
+        "¥": 164078,
+        "HK$": 20,
+        "NT$": 918,
+        "IDR": 100000,
+        "₩": 7000,
+        "MX$": 10,
+        "THB": 179
+      },
+      "sc": 92,
+      "member": 24,
+      "milestone": 133,
+      "gift": 13,
+      "recv": 48,
+      "sent": 69
+    },
+    "rwJBCm1pV4I": {
+      "cur": {
+        "¥": 22360
+      },
+      "sc": 17,
+      "member": 1,
+      "milestone": 8,
+      "gift": 3,
+      "recv": 16,
+      "sent": 16
+    },
+    "CiVGCuVuvH8": {
+      "cur": {
+        "¥": 1147400,
+        "NT$": 9642,
+        "MYR": 123.6,
+        "IDR": 120000,
+        "₱": 55,
+        "₩": 282968,
+        "HK$": 891.4,
+        "$": 10,
+        "SGD": 18.8,
+        "₫": 228000
+      },
+      "sc": 400,
+      "member": 71,
+      "milestone": 961,
+      "gift": 53,
+      "recv": 15,
+      "sent": 467
+    },
+    "cb9nlcILbfc": {
+      "cur": {
+        "¥": 41912,
+        "£": 1.68,
+        "NT$": 168
+      },
+      "sc": 48,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 19
+    },
+    "k-xhhQF8YNE": {
+      "cur": {
+        "¥": 310554,
+        "₩": 122160,
+        "MYR": 16.8,
+        "NT$": 3135
+      },
+      "sc": 128,
+      "member": 21,
+      "milestone": 24,
+      "gift": 11,
+      "recv": 54,
+      "sent": 87
+    },
+    "0-KXgP_nF7E": {
+      "cur": {
+        "¥": 5160,
+        "NZ$": 5.5,
+        "$": 100
+      },
+      "sc": 15,
+      "member": 8,
+      "milestone": 6
+    },
+    "d3YldPSNE4E": {
+      "cur": {
+        "¥": 101506,
+        "NT$": 168,
+        "CA$": 2.2,
+        "MYR": 16.8,
+        "₩": 7040
+      },
+      "sc": 62,
+      "sticker": 1,
+      "member": 22,
+      "milestone": 55,
+      "gift": 4,
+      "recv": 11,
+      "sent": 12
+    },
+    "U6JzdFFuvgQ": {
+      "cur": {
+        "¥": 1375721,
+        "₫": 168000,
+        "₩": 147208,
+        "HK$": 609,
+        "NT$": 8185,
+        "MX$": 65,
+        "IDR": 704336,
+        "$": 50,
+        "CA$": 25.36,
+        "MYR": 105.6,
+        "SGD": 5,
+        "€": 25,
+        "NZ$": 20
+      },
+      "sc": 442,
+      "member": 302,
+      "milestone": 877,
+      "gift": 82,
+      "recv": 1,
+      "sent": 823
+    },
+    "vITiYIVXb-k": {
+      "cur": {
+        "¥": 32260,
+        "₩": 4000,
+        "SGD": 1
+      },
+      "sc": 32,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 50,
+      "gift": 1,
+      "sent": 10
+    },
+    "zqEXeKBOMuM": {
+      "cur": {
+        "¥": 34804,
+        "HK$": 50,
+        "$": 10,
+        "NT$": 318
+      },
+      "sc": 31,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 12,
+      "gift": 4,
+      "sent": 45
+    },
+    "JZk_GN09IX4": {
+      "cur": {
+        "¥": 451884,
+        "₩": 20502,
+        "£": 1.68,
+        "NT$": 2136,
+        "HK$": 250,
+        "MYR": 300
+      },
+      "sc": 103,
+      "member": 9,
+      "milestone": 62,
+      "gift": 3,
+      "recv": 14,
+      "sent": 25
+    },
+    "9VIKdBqZ12Y": {
+      "cur": {
+        "¥": 80608,
+        "₩": 7040,
+        "MYR": 16.8,
+        "NT$": 300,
+        "$": 5
+      },
+      "sc": 75,
+      "sticker": 3,
+      "member": 27,
+      "milestone": 122,
+      "gift": 29,
+      "recv": 337,
+      "sent": 346
+    },
+    "GJLx4A9xhD0": {
+      "e": "http503",
+      "n": 0
+    },
+    "4HtYh4snzr4": {
+      "cur": {
+        "¥": 171916,
+        "£": 1.68,
+        "₩": 20480,
+        "SGD": 1,
+        "NT$": 243
+      },
+      "sc": 72,
+      "sticker": 1,
+      "member": 13,
+      "milestone": 159,
+      "gift": 3,
+      "recv": 19,
+      "sent": 21
+    },
+    "ei0B8ZUA_a8": {
+      "cur": {
+        "¥": 95656,
+        "CA$": 2.2,
+        "MX$": 26,
+        "NT$": 168
+      },
+      "sc": 71,
+      "member": 18,
+      "milestone": 23,
+      "gift": 4,
+      "recv": 45,
+      "sent": 45
+    },
+    "j6NchSU93fg": {
+      "cur": {
+        "¥": 9058,
+        "SGD": 1
+      },
+      "sc": 18,
+      "member": 5,
+      "milestone": 40,
+      "gift": 8,
+      "recv": 43,
+      "sent": 100
+    },
+    "t9-xshs1P5g": {
+      "cur": {
+        "¥": 129810,
+        "₩": 13040,
+        "£": 1.68,
+        "NT$": 318,
+        "€": 10,
+        "HK$": 26.8,
+        "MYR": 16.8,
+        "$": 5.36,
+        "IDR": 11168,
+        "₱": 55
+      },
+      "sc": 131,
+      "sticker": 3,
+      "member": 8,
+      "milestone": 69,
+      "gift": 4,
+      "recv": 7,
+      "sent": 8
+    },
+    "LKgHqiLVVV0": {
+      "cur": {
+        "¥": 32480,
+        "IDR": 10000,
+        "NT$": 75
+      },
+      "sc": 43,
+      "member": 1,
+      "milestone": 9,
+      "gift": 2,
+      "recv": 16,
+      "sent": 20
+    },
+    "q51rYUHZ6L0": {
+      "cur": {
+        "¥": 13940,
+        "₩": 10400
+      },
+      "sc": 12,
+      "member": 12,
+      "milestone": 20,
+      "gift": 6,
+      "recv": 11,
+      "sent": 30
+    },
+    "IMM5ODZa9yA": {
+      "cur": {
+        "¥": 2876,
+        "NT$": 168
+      },
+      "sc": 9,
+      "member": 10,
+      "milestone": 47,
+      "gift": 6,
+      "recv": 20,
+      "sent": 55
+    },
+    "MMqvxr7YFxA": {
+      "cur": {
+        "¥": 60264,
+        "₩": 1680,
+        "£": 1.68,
+        "$": 1.99,
+        "MYR": 16.8
+      },
+      "sc": 46,
+      "sticker": 1,
+      "member": 8,
+      "milestone": 6,
+      "gift": 4,
+      "recv": 20,
+      "sent": 20
+    },
+    "OfxmVDJvn4k": {
+      "cur": {
+        "¥": 18692,
+        "NZ$": 5.5,
+        "₩": 20000
+      },
+      "sc": 45,
+      "member": 7,
+      "milestone": 7,
+      "gift": 1,
+      "recv": 7,
+      "sent": 10
+    },
+    "ZlmqMDj4H8s": {
+      "cur": {
+        "¥": 58886,
+        "₩": 3680,
+        "NT$": 243
+      },
+      "sc": 62,
+      "member": 11,
+      "milestone": 20,
+      "gift": 2,
+      "recv": 5,
+      "sent": 6
+    },
+    "sRhihcjNzA8": {
+      "cur": {
+        "¥": 73976,
+        "NT$": 243,
+        "$": 1.99
+      },
+      "sc": 49,
+      "sticker": 1,
+      "member": 10,
+      "milestone": 25,
+      "gift": 7,
+      "recv": 49,
+      "sent": 51
+    },
+    "8tOoSNGa_rg": {
+      "cur": {
+        "¥": 14532,
+        "NT$": 150,
+        "THB": 100
+      },
+      "sc": 14,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 14,
+      "gift": 6,
+      "recv": 11,
+      "sent": 50
+    },
+    "acp0-Pfv4oY": {
+      "cur": {
+        "¥": 50052,
+        "NT$": 75
+      },
+      "sc": 51,
+      "member": 11,
+      "milestone": 23,
+      "gift": 4,
+      "recv": 1,
+      "sent": 8
+    },
+    "EcvSQlOniz4": {
+      "cur": {
+        "¥": 43628,
+        "₩": 1680,
+        "NT$": 168,
+        "SGD": 1,
+        "MYR": 16.8
+      },
+      "sc": 53,
+      "member": 9,
+      "milestone": 8,
+      "gift": 3,
+      "recv": 29,
+      "sent": 30
+    },
+    "wfEohbsb534": {
+      "cur": {
+        "¥": 4352
+      },
+      "sc": 13,
+      "member": 5,
+      "milestone": 21,
+      "gift": 7,
+      "recv": 16,
+      "sent": 24
+    },
+    "uUKI75zy-wE": {
+      "cur": {
+        "¥": 68755,
+        "MYR": 16.8,
+        "NT$": 168,
+        "₩": 2000
+      },
+      "sc": 48,
+      "member": 21,
+      "milestone": 20
+    },
+    "1eI861iEf8o": {
+      "cur": {
+        "¥": 15272,
+        "£": 1.68,
+        "THB": 2000,
+        "NT$": 243
+      },
+      "sc": 44,
+      "member": 1,
+      "milestone": 10,
+      "gift": 2,
+      "recv": 1,
+      "sent": 21
+    },
+    "PfAIBycvWm4": {
+      "cur": {
+        "₩": 1680,
+        "¥": 8652,
+        "CA$": 2.2
+      },
+      "sc": 26,
+      "member": 8,
+      "milestone": 7
+    },
+    "OzPMX1WIwMI": {
+      "cur": {
+        "¥": 51907,
+        "CA$": 2.2,
+        "₩": 5680,
+        "₫": 22000
+      },
+      "sc": 74,
+      "sticker": 1,
+      "member": 8,
+      "milestone": 43
+    },
+    "lHVt2MGR9oY": {
+      "cur": {
+        "¥": 44458,
+        "NT$": 15,
+        "$": 9.99,
+        "IDR": 53600
+      },
+      "sc": 43,
+      "sticker": 1,
+      "member": 18,
+      "milestone": 32,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "ybOdi7no2jY": {
+      "cur": {
+        "¥": 127857,
+        "NT$": 318,
+        "₩": 7360,
+        "A$": 30,
+        "$": 5
+      },
+      "sc": 69,
+      "sticker": 3,
+      "member": 7,
+      "milestone": 162,
+      "gift": 13,
+      "recv": 65,
+      "sent": 122
+    },
+    "0UJZDd-jd9g": {
+      "cur": {
+        "¥": 42206,
+        "₩": 22400,
+        "NT$": 75
+      },
+      "sc": 85,
+      "sticker": 4,
+      "member": 9,
+      "milestone": 24,
+      "gift": 6,
+      "recv": 26,
+      "sent": 46
+    },
+    "sFEfCnjf_ys": {
+      "cur": {
+        "¥": 169016,
+        "IDR": 50000,
+        "NT$": 150,
+        "₩": 2000,
+        "$": 10
+      },
+      "sc": 101,
+      "member": 4,
+      "milestone": 22,
+      "gift": 23,
+      "recv": 237,
+      "sent": 244
+    },
+    "kPmy7jGf_i0": {
+      "cur": {
+        "¥": 17048,
+        "NT$": 168
+      },
+      "sc": 17,
+      "member": 21,
+      "milestone": 9
+    },
+    "k83wd8wEEOg": {
+      "cur": {
+        "¥": 68552,
+        "NT$": 75,
+        "MYR": 16.8,
+        "₩": 4000,
+        "IDR": 20000
+      },
+      "sc": 73,
+      "sticker": 1,
+      "member": 11,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
+    },
+    "ywprejfAed4": {
+      "cur": {
+        "¥": 3987,
+        "IDR": 20000
+      },
+      "sc": 13,
+      "member": 8,
+      "milestone": 11,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "8LL-eh0TbUM": {
+      "cur": {
+        "¥": 43832,
+        "CA$": 22,
+        "NT$": 75
+      },
+      "sc": 39,
+      "member": 29,
+      "milestone": 12,
+      "gift": 9,
+      "recv": 55,
+      "sent": 61
+    },
+    "JAQ7w9ReKLc": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "p25mVWME-JY": {
+      "cur": {
+        "¥": 19580,
+        "NT$": 168
+      },
+      "sc": 17,
+      "member": 11,
+      "milestone": 4
+    },
+    "qGZpnTuIx5g": {
+      "cur": {
+        "¥": 174937,
+        "₫": 70000,
+        "₩": 12720,
+        "HK$": 536,
+        "MYR": 16.8,
+        "NT$": 411,
+        "₱": 25
+      },
+      "sc": 145,
+      "sticker": 1,
+      "member": 6,
+      "milestone": 82,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "ljTieCDus9M": {
+      "member": 21,
+      "milestone": 141,
+      "gift": 9,
+      "recv": 26,
+      "sent": 88
+    },
+    "pSUgTWzuhYc": {
+      "cur": {
+        "¥": 71992,
+        "₩": 9360,
+        "$": 10,
+        "NT$": 135,
+        "IDR": 20000
+      },
+      "sc": 96,
+      "sticker": 3,
+      "member": 20,
+      "milestone": 131,
+      "gift": 7,
+      "recv": 69,
+      "sent": 61
+    },
+    "d1opitw6FsE": {
+      "cur": {
+        "¥": 572180,
+        "₩": 230480,
+        "NT$": 5376,
+        "HK$": 53.06,
+        "IDR": 1020000,
+        "₫": 50000,
+        "MYR": 16.8
+      },
+      "sc": 119,
+      "member": 21,
+      "milestone": 155,
+      "gift": 7,
+      "recv": 39,
+      "sent": 100
+    },
+    "FfGYcYUTERw": {
+      "cur": {
+        "¥": 43714
+      },
+      "sc": 30,
+      "member": 14,
+      "milestone": 12,
+      "gift": 2,
+      "recv": 20,
+      "sent": 20
+    },
+    "g5Rpb4LEkA0": {
+      "cur": {
+        "¥": 19032,
+        "£": 1.68,
+        "₩": 1680
+      },
+      "sc": 21,
+      "sticker": 1,
+      "member": 4,
+      "milestone": 12,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "-bCgIpnTcDU": {
+      "cur": {
+        "¥": 52364,
+        "₩": 3680,
+        "HK$": 53.6,
+        "IDR": 120000,
+        "NT$": 1650,
+        "MYR": 16.8,
+        "$": 10,
+        "£": 1.68
+      },
+      "sc": 112,
+      "member": 8,
+      "milestone": 24,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "Cu6S24SORN4": {
+      "cur": {
+        "¥": 67401,
+        "₩": 1680,
+        "CA$": 2.2,
+        "$": 2,
+        "NT$": 300,
+        "MYR": 16.8
+      },
+      "sc": 95,
+      "member": 10,
+      "milestone": 50,
+      "gift": 3,
+      "recv": 11,
+      "sent": 11
+    },
+    "d-liIalEcx0": {
+      "cur": {
+        "¥": 83864,
+        "NT$": 243,
+        "HK$": 53.6
+      },
+      "sc": 59,
+      "member": 16,
+      "milestone": 13,
+      "gift": 6,
+      "recv": 21,
+      "sent": 41
+    },
+    "8vO3nvGd5sA": {
+      "cur": {
+        "¥": 113412,
+        "CA$": 2.2,
+        "₩": 1680,
+        "HK$": 500,
+        "NT$": 75
+      },
+      "sc": 60,
+      "sticker": 1,
+      "member": 14,
+      "milestone": 59,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "Y1ILvr7-hRI": {
+      "cur": {
+        "¥": 14794,
+        "₩": 102000,
+        "NT$": 75
+      },
+      "sc": 35,
+      "sticker": 1,
+      "member": 16,
+      "milestone": 11,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
+    },
+    "Q8VGwlMu5Bg": {
+      "cur": {
+        "¥": 83951,
+        "€": 5,
+        "HK$": 788,
+        "NT$": 168,
+        "A$": 2
+      },
+      "sc": 51,
+      "member": 14,
+      "milestone": 9,
+      "gift": 5,
+      "recv": 19,
+      "sent": 21
+    },
+    "j9tLPbTAF4o": {
+      "cur": {
+        "¥": 27508,
+        "THB": 1168,
+        "₩": 1680,
+        "HK$": 53.6,
+        "NT$": 75
+      },
+      "sc": 42,
+      "member": 6,
+      "milestone": 3,
+      "gift": 4,
+      "recv": 15,
+      "sent": 25
+    },
+    "cs_XWOq_cBk": {
+      "cur": {
+        "¥": 15998,
+        "NT$": 168,
+        "HK$": 50
+      },
+      "sc": 36,
+      "member": 5,
+      "milestone": 4,
+      "gift": 4,
+      "recv": 19,
+      "sent": 20
+    },
+    "x3jnegG202Y": {
+      "cur": {
+        "¥": 38662,
+        "HK$": 53.6,
+        "NT$": 168,
+        "MX$": 65
+      },
+      "sc": 34,
+      "member": 6,
+      "milestone": 4
+    },
+    "m26F1jp3tQQ": {
+      "cur": {
+        "¥": 15972
+      },
+      "sc": 15,
+      "member": 6,
+      "milestone": 13,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "jwkHpcAb6Jc": {
+      "cur": {
+        "¥": 28136,
+        "HK$": 63.6,
+        "NT$": 273,
+        "$": 6.99,
+        "₩": 10000
+      },
+      "sc": 43,
+      "member": 11,
+      "milestone": 8
+    },
+    "6JWxk9BGizY": {
+      "cur": {
+        "¥": 47980,
+        "₩": 1680
+      },
+      "sc": 58,
+      "member": 35,
+      "milestone": 44,
+      "gift": 6,
+      "recv": 49,
+      "sent": 50
+    },
+    "AOKrjuIBF_k": {
+      "cur": {
+        "¥": 44860,
+        "$": 5,
+        "₩": 5360,
+        "HK$": 53.6
+      },
+      "sc": 52,
+      "member": 1,
+      "milestone": 9,
+      "gift": 1,
+      "sent": 5
+    },
+    "yxYQ1_w3Pv8": {
+      "cur": {
+        "¥": 49994,
+        "HK$": 80,
+        "MYR": 30,
+        "IDR": 14900,
+        "NT$": 75,
+        "₩": 10360
+      },
+      "sc": 51,
+      "sticker": 18,
+      "member": 14,
+      "milestone": 13,
+      "gift": 15,
+      "recv": 205,
+      "sent": 211
+    },
+    "QE9uYwoK5OQ": {
+      "cur": {
+        "¥": 96370,
+        "₩": 1680,
+        "HK$": 60,
+        "NT$": 3435,
+        "$": 5
+      },
+      "sc": 59,
+      "member": 13,
+      "milestone": 20,
+      "gift": 16,
+      "recv": 222,
+      "sent": 251
+    },
+    "sdGyDE0--wM": {
+      "cur": {
+        "¥": 62994,
+        "NT$": 75,
+        "SGD": 2,
+        "₩": 1680,
+        "HK$": 16.8
+      },
+      "sc": 47,
+      "member": 12,
+      "milestone": 21,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "43NoB2kBT2Y": {
+      "cur": {
+        "¥": 22254,
+        "CA$": 2,
+        "₩": 1680
+      },
+      "sc": 35,
+      "sticker": 1,
+      "member": 5,
+      "gift": 2,
+      "recv": 1,
+      "sent": 2
+    },
+    "ActP_IW1arU": {
+      "cur": {
+        "¥": 205859,
+        "HK$": 116,
+        "IDR": 14900,
+        "MYR": 34.5,
+        "NT$": 170,
+        "$": 15
+      },
+      "sc": 76,
+      "sticker": 17,
+      "member": 18,
+      "milestone": 14
+    },
+    "StvXHAGu_7U": {
+      "cur": {
+        "¥": 257969,
+        "$": 5,
+        "NT$": 75,
+        "THB": 60,
+        "CA$": 2,
+        "₩": 2000
+      },
+      "sc": 117,
+      "sticker": 1,
+      "member": 29,
+      "milestone": 82,
+      "gift": 12,
+      "recv": 22,
+      "sent": 82
+    },
+    "x3-x1e1RNaE": {
+      "cur": {
+        "¥": 85801,
+        "NT$": 150,
+        "HK$": 53.6
+      },
+      "sc": 65,
+      "member": 9,
+      "milestone": 19,
+      "gift": 6,
+      "recv": 21,
+      "sent": 42
+    },
+    "_IvENGbIb6k": {
+      "cur": {
+        "₩": 18680,
+        "¥": 192604,
+        "NT$": 330,
+        "$": 5,
+        "A$": 1.49
+      },
+      "sc": 86,
+      "sticker": 3,
+      "member": 25,
+      "milestone": 126,
+      "gift": 2,
+      "recv": 3,
+      "sent": 15
+    },
+    "7hihDDT8w0g": {
+      "cur": {
+        "¥": 81894,
+        "THB": 40,
+        "₩": 9360,
+        "$": 7.36,
+        "IDR": 20000,
+        "NT$": 1680,
+        "MX$": 13
+      },
+      "sc": 87,
+      "member": 19,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "K7Nx7XEJE3g": {
+      "cur": {
+        "¥": 16040,
+        "HK$": 40,
+        "₩": 1680
+      },
+      "sc": 21,
+      "member": 10,
+      "milestone": 10
+    },
+    "meQBrQrmjro": {
+      "cur": {
+        "¥": 48045,
+        "₩": 8680,
+        "NT$": 75,
+        "HK$": 95.2,
+        "IDR": 14900,
+        "$": 7
+      },
+      "sc": 59,
+      "sticker": 19,
+      "member": 23,
+      "milestone": 19,
+      "gift": 2,
+      "recv": 1,
+      "sent": 2
+    },
+    "WTlM9xMnZu4": {
+      "cur": {
+        "¥": 45928,
+        "A$": 2,
+        "$": 2,
+        "₩": 7360,
+        "IDR": 20000,
+        "HK$": 50
+      },
+      "sc": 51,
+      "member": 8,
+      "milestone": 21,
+      "gift": 17,
+      "recv": 62,
+      "sent": 175
+    },
+    "qxjrcVgkrc0": {
+      "cur": {
+        "¥": 53170,
+        "₩": 8580,
+        "HK$": 70,
+        "NT$": 258,
+        "MYR": 16.8
+      },
+      "sc": 74,
+      "member": 16,
+      "milestone": 42,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "n3RmJsTeIqg": {
+      "cur": {
+        "¥": 37528,
+        "₩": 1680,
+        "NT$": 75,
+        "HK$": 53.6
+      },
+      "sc": 49,
+      "member": 9,
+      "milestone": 18
+    },
+    "b1ll88KLoD8": {
+      "cur": {
+        "¥": 9888,
+        "NT$": 383,
+        "HK$": 16.8
+      },
+      "sc": 23,
+      "sticker": 1,
+      "member": 8,
+      "milestone": 24,
+      "gift": 29,
+      "recv": 10,
+      "sent": 277
+    },
+    "WIbCabsDtZs": {
+      "cur": {
+        "¥": 293852,
+        "IDR": 53536,
+        "NT$": 75,
+        "MYR": 3,
+        "₩": 116800
+      },
+      "sc": 62,
+      "member": 7,
+      "milestone": 32
+    },
+    "iDG43N_Mfu4": {
+      "cur": {
+        "¥": 86399,
+        "₩": 6000,
+        "HK$": 187.2,
+        "NT$": 393,
+        "MYR": 46.8
+      },
+      "sc": 76,
+      "sticker": 3,
+      "member": 15,
+      "milestone": 16,
+      "gift": 9,
+      "recv": 171,
+      "sent": 180
+    },
+    "gx7wwbu6Rak": {
+      "cur": {
+        "¥": 109944,
+        "₩": 51680,
+        "HK$": 108.4,
+        "$": 9.99,
+        "NT$": 75
+      },
+      "sc": 78,
+      "sticker": 1,
+      "member": 11,
+      "milestone": 20,
+      "gift": 3,
+      "recv": 17,
+      "sent": 20
+    },
+    "nCYEydibla4": {
+      "cur": {
+        "¥": 34358,
+        "HK$": 53.6,
+        "IDR": 20000,
+        "₩": 2000
+      },
+      "sc": 32,
+      "sticker": 1,
+      "member": 6,
+      "milestone": 12
+    },
+    "1D2WYrVAukc": {
+      "cur": {
+        "¥": 11420,
+        "NT$": 168,
+        "HK$": 53.6
+      },
+      "sc": 21,
+      "member": 7,
+      "milestone": 13
+    },
+    "JugSma5PFhc": {
+      "cur": {
+        "¥": 70224,
+        "NT$": 243,
+        "HK$": 25,
+        "₩": 101680
+      },
+      "sc": 22,
+      "member": 13,
+      "milestone": 13,
+      "gift": 1,
+      "sent": 10
+    },
+    "Pgp3R0HgxKA": {
+      "cur": {
+        "¥": 76131,
+        "₩": 2000,
+        "HK$": 53.6
+      },
+      "sc": 70,
+      "sticker": 1,
+      "member": 26,
+      "milestone": 22,
+      "gift": 3,
+      "recv": 15,
+      "sent": 20
+    },
+    "54aU3gn9P58": {
+      "cur": {
+        "¥": 3444,
+        "NT$": 168
+      },
+      "sc": 10,
+      "member": 2,
+      "milestone": 3,
+      "gift": 1,
+      "sent": 5
+    },
+    "e2_rjrQlaak": {
+      "cur": {
+        "¥": 11375,
+        "₩": 5656,
+        "HK$": 56.56
+      },
+      "sc": 19,
+      "sticker": 1,
+      "member": 3,
+      "milestone": 16,
+      "gift": 17,
+      "recv": 62,
+      "sent": 166
+    },
+    "KZpx70453WQ": {
+      "cur": {
+        "¥": 87296,
+        "HK$": 83.6,
+        "$": 55,
+        "CA$": 2,
+        "₩": 7360,
+        "MYR": 16.8,
+        "IDR": 20000,
+        "SGD": 1
+      },
+      "sc": 137,
+      "sticker": 2,
+      "member": 9,
+      "milestone": 45,
+      "gift": 1,
+      "recv": 9,
+      "sent": 10
+    },
+    "y0ZL-SSmmlY": {
+      "cur": {
+        "¥": 20602,
+        "NT$": 243,
+        "HK$": 83.6,
+        "₩": 2536,
+        "IDR": 100000
+      },
+      "sc": 55,
+      "sticker": 2,
+      "member": 12,
+      "milestone": 6
+    },
+    "8VufstXUV5M": {
+      "cur": {
+        "¥": 84740,
+        "NT$": 168,
+        "CA$": 10,
+        "₩": 3680
+      },
+      "sc": 67,
+      "member": 11,
+      "milestone": 37,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "i4X1oZZWEZo": {
+      "cur": {
+        "¥": 31709,
+        "NT$": 75,
+        "₩": 1680,
+        "THB": 40,
+        "HK$": 50.4,
+        "IDR": 120000
+      },
+      "sc": 87,
+      "member": 9,
+      "milestone": 3,
+      "gift": 3,
+      "recv": 7,
+      "sent": 7
+    },
+    "H0J-5Fyz0tk": {
+      "cur": {
+        "¥": 74336,
+        "NT$": 75,
+        "HK$": 53.6,
+        "IDR": 100000,
+        "₱": 125
+      },
+      "sc": 63,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 13,
+      "gift": 2,
+      "recv": 9,
+      "sent": 15
+    },
+    "NmQidRNDlUM": {
+      "cur": {
+        "₩": 3680,
+        "¥": 59928,
+        "$": 5,
+        "HK$": 16.8,
+        "£": 1.68
+      },
+      "sc": 59,
+      "sticker": 1,
+      "member": 16,
+      "milestone": 14,
+      "gift": 3,
+      "recv": 16,
+      "sent": 16
+    },
+    "nswrXUOWUXg": {
+      "cur": {
+        "¥": 37388,
+        "NT$": 90,
+        "$": 4.99,
+        "HK$": 53.6,
+        "IDR": 53536
+      },
+      "sc": 41,
+      "member": 8
+    },
+    "cBRzt7A_O8I": {
+      "cur": {
+        "¥": 71940,
+        "NT$": 243,
+        "HK$": 55.76,
+        "₩": 5536,
+        "IDR": 20000
+      },
+      "sc": 59,
+      "member": 1,
+      "milestone": 6,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
+    },
+    "4CghbG5M4BY": {
+      "cur": {
+        "¥": 2472
+      },
+      "sc": 11,
+      "member": 3,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "UjUYWDWk9bY": {
+      "cur": {
+        "¥": 143660,
+        "₩": 16400,
+        "HK$": 97.2,
+        "IDR": 20000
+      },
+      "sc": 107,
+      "sticker": 1,
+      "member": 9,
+      "milestone": 8
+    },
+    "fWTenl9am5A": {
+      "cur": {
+        "¥": 101614,
+        "HK$": 220.8,
+        "₩": 4536,
+        "MYR": 4.5,
+        "IDR": 14900,
+        "NT$": 194,
+        "THB": 29,
+        "SGD": 3.49
+      },
+      "sc": 195,
+      "sticker": 33,
+      "member": 7,
+      "milestone": 9,
+      "gift": 3,
+      "recv": 16,
+      "sent": 16
+    },
+    "26w4y43sD8c": {
+      "cur": {
+        "¥": 76668,
+        "NT$": 243,
+        "HK$": 83.6,
+        "R$": 2,
+        "MYR": 15,
+        "₩": 2000
+      },
+      "sc": 83,
+      "sticker": 1,
+      "member": 18,
+      "milestone": 58,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "Cj4VR90OUN4": {
+      "cur": {
+        "¥": 34444,
+        "$": 2,
+        "HK$": 16.8,
+        "₩": 5360,
+        "IDR": 50000
+      },
+      "sc": 46,
+      "sticker": 1,
+      "member": 6,
+      "milestone": 5
+    },
+    "Oyi3dHKEnMI": {
+      "cur": {
+        "¥": 72232,
+        "₱": 50,
+        "₩": 1680,
+        "NT$": 75,
+        "HK$": 80.4,
+        "IDR": 70000
+      },
+      "sc": 46,
+      "sticker": 1,
+      "member": 6,
+      "milestone": 5,
+      "gift": 3,
+      "recv": 19,
+      "sent": 20
+    },
+    "-VAAXZMPH2o": {
+      "cur": {
+        "¥": 95172,
+        "₩": 7040,
+        "NT$": 150,
+        "HK$": 10
+      },
+      "sc": 44,
+      "sticker": 7,
+      "member": 38,
+      "milestone": 72,
+      "gift": 38,
+      "recv": 228,
+      "sent": 286
+    },
+    "gtY0vGWACZI": {
+      "cur": {
+        "¥": 47320,
+        "SGD": 2,
+        "NT$": 333,
+        "HK$": 70.4
+      },
+      "sc": 60,
+      "sticker": 2,
+      "member": 2,
+      "milestone": 8,
+      "gift": 3,
+      "recv": 12,
+      "sent": 15
+    },
+    "y2b9R5mIDmA": {
+      "cur": {
+        "¥": 182888,
+        "$": 27,
+        "A$": 7.99,
+        "₩": 12915,
+        "IDR": 55555,
+        "THB": 40
+      },
+      "sc": 86,
+      "sticker": 2,
+      "member": 2,
+      "milestone": 41
+    },
+    "g4flDaAFwrs": {
+      "cur": {
+        "¥": 5136,
+        "HK$": 10,
+        "₩": 1680
+      },
+      "sc": 17,
+      "member": 3,
+      "milestone": 6
+    },
+    "U6k3ekRP23Y": {
+      "cur": {
+        "¥": 31400
+      },
+      "sc": 33,
+      "sticker": 2,
+      "member": 41,
+      "milestone": 63,
+      "gift": 46,
+      "recv": 377,
+      "sent": 515
+    },
+    "f-GYNyPK014": {
+      "cur": {
+        "¥": 140384,
+        "NT$": 90,
+        "₩": 7040,
+        "THB": 20,
+        "A$": 7.99,
+        "$": 5,
+        "HK$": 207.6,
+        "IDR": 50000
+      },
+      "sc": 118,
+      "sticker": 1,
+      "member": 14,
+      "milestone": 8
+    },
+    "k2kWGHezDjI": {
+      "cur": {
+        "¥": 38987,
+        "HK$": 10,
+        "IDR": 53535,
+        "₩": 5360
+      },
+      "sc": 51,
+      "sticker": 2,
+      "member": 8,
+      "milestone": 43
+    },
+    "3zXNxBGq7RA": {
+      "cur": {
+        "¥": 105013,
+        "IDR": 118436,
+        "₩": 9840,
+        "A$": 1.49,
+        "MYR": 4.5,
+        "NT$": 44,
+        "HK$": 16,
+        "MX$": 20,
+        "£": 5.36,
+        "$": 1.49
+      },
+      "sc": 99,
+      "sticker": 54,
+      "member": 6,
+      "milestone": 14,
+      "gift": 1,
+      "recv": 4,
+      "sent": 5
+    },
+    "_cDObbzcjNU": {
+      "cur": {
+        "¥": 18140,
+        "₩": 1680,
+        "NT$": 75
+      },
+      "sc": 29,
+      "member": 3,
+      "milestone": 10
+    },
+    "73kdG_DGgJQ": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "j4VjaDJBQfA": {
+      "cur": {
+        "¥": 23908,
+        "HK$": 250,
+        "₩": 1680,
+        "£": 5.36
+      },
+      "sc": 41,
+      "sticker": 2,
+      "member": 4,
+      "milestone": 25,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "IuVJfw1UkNE": {
+      "cur": {
+        "¥": 361391,
+        "£": 1.68,
+        "₩": 16680,
+        "HK$": 10,
+        "₱": 250,
+        "NT$": 3435,
+        "$": 11.68,
+        "IDR": 153536
+      },
+      "sc": 122,
+      "sticker": 3,
+      "member": 11,
+      "milestone": 24,
+      "gift": 5,
+      "recv": 123,
+      "sent": 125
+    },
+    "6lR40exoIMM": {
+      "cur": {
+        "¥": 37276,
+        "IDR": 84900,
+        "₩": 1680,
+        "NT$": 75
+      },
+      "sc": 47,
+      "sticker": 6,
+      "member": 5,
+      "milestone": 28
+    },
+    "4AdncxXuWtU": {
+      "cur": {
+        "¥": 417520,
+        "$": 50,
+        "HK$": 166.8,
+        "₩": 62000,
+        "NT$": 258,
+        "MYR": 6,
+        "IDR": 20000
+      },
+      "sc": 338,
+      "sticker": 9,
+      "member": 10,
+      "milestone": 40,
+      "gift": 3,
+      "recv": 27,
+      "sent": 61
+    },
+    "MnQNKtzBN7A": {
+      "cur": {
+        "¥": 306796,
+        "$": 46.98,
+        "HK$": 233,
+        "₩": 17720,
+        "CA$": 12,
+        "IDR": 253536,
+        "NT$": 686,
+        "₫": 50000,
+        "SGD": 5,
+        "A$": 5.36
+      },
+      "sc": 254,
+      "sticker": 7,
+      "member": 7,
+      "milestone": 295,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "KPW_mr0gqxY": {
+      "cur": {
+        "¥": 28528,
+        "₩": 1680,
+        "NT$": 243
+      },
+      "sc": 28,
+      "sticker": 1,
+      "member": 16,
+      "milestone": 16,
+      "gift": 10,
+      "recv": 155,
+      "sent": 190
+    },
+    "0De81Q-Y-8I": {
+      "cur": {
+        "¥": 276982,
+        "HK$": 118,
+        "NT$": 574,
+        "₩": 21168,
+        "IDR": 100000,
+        "THB": 20,
+        "$": 5
+      },
+      "sc": 283,
+      "sticker": 28,
+      "member": 19,
+      "milestone": 22,
+      "gift": 5,
+      "recv": 40,
+      "sent": 41
+    },
+    "2QDOvezmkNU": {
+      "cur": {
+        "¥": 87909,
+        "NT$": 486,
+        "HK$": 25,
+        "A$": 5.36,
+        "IDR": 50000,
+        "$": 5.36,
+        "THB": 19
+      },
+      "sc": 100,
+      "sticker": 2,
+      "member": 23,
+      "milestone": 248,
+      "gift": 24,
+      "sent": 287
+    },
+    "qlSuFOL8-C8": {
+      "cur": {
+        "¥": 20789,
+        "IDR": 20000,
+        "NT$": 75
+      },
+      "sc": 30,
+      "member": 28,
+      "milestone": 30,
+      "gift": 30,
+      "recv": 72,
+      "sent": 396
+    },
+    "iUKouiWWETw": {
+      "cur": {
+        "¥": 198803,
+        "$": 20,
+        "₩": 224180,
+        "NT$": 1850,
+        "HK$": 10,
+        "IDR": 50000
+      },
+      "sc": 76,
+      "member": 6,
+      "milestone": 12,
+      "gift": 10,
+      "recv": 224,
+      "sent": 230
+    },
+    "IZ7lLH06rBM": {
+      "cur": {
+        "¥": 52108,
+        "₩": 7040,
+        "NT$": 75
+      },
+      "sc": 64,
+      "sticker": 2,
+      "member": 4,
+      "milestone": 41,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "wPaEdjz3W44": {
+      "cur": {
+        "¥": 61260,
+        "NT$": 75,
+        "HK$": 107.2,
+        "IDR": 99000,
+        "MYR": 60,
+        "₩": 2000
+      },
+      "sc": 89,
+      "sticker": 1,
+      "member": 7,
+      "milestone": 16,
+      "gift": 2,
+      "recv": 13,
+      "sent": 20
+    },
+    "OivxNfCiZ6c": {
+      "cur": {
+        "¥": 31918,
+        "NT$": 243,
+        "IDR": 40000,
+        "₩": 5360
+      },
+      "sc": 33,
+      "sticker": 1,
+      "member": 4,
+      "milestone": 14
+    },
+    "gldef7SGCkE": {
+      "cur": {
+        "¥": 27332,
+        "IDR": 20000,
+        "NT$": 75,
+        "₩": 1680
+      },
+      "sc": 38,
+      "member": 8,
+      "milestone": 18,
+      "gift": 2,
+      "recv": 5,
+      "sent": 25
+    },
+    "Oz6fVOMp2c0": {
+      "cur": {
+        "¥": 73262,
+        "NT$": 150,
+        "₩": 5000,
+        "₫": 50000,
+        "IDR": 20000,
+        "$": 5.36,
+        "THB": 20
+      },
+      "sc": 76,
+      "member": 5,
+      "milestone": 23
+    },
+    "hxo51ivACJ8": {
+      "cur": {
+        "¥": 891225,
+        "₩": 222000,
+        "NT$": 4773,
+        "HK$": 149,
+        "IDR": 253536,
+        "A$": 5,
+        "MX$": 25
+      },
+      "sc": 183,
+      "sticker": 1,
+      "member": 30,
+      "milestone": 116,
+      "gift": 4,
+      "recv": 25,
+      "sent": 25
+    },
+    "YE-eiBJZODc": {
+      "cur": {
+        "¥": 231512,
+        "HK$": 10,
+        "NT$": 1755,
+        "IDR": 150000,
+        "₩": 17360,
+        "MYR": 15,
+        "£": 6.17,
+        "$": 2
+      },
+      "sc": 105,
+      "sticker": 2,
+      "member": 32,
+      "milestone": 170,
+      "gift": 3,
+      "recv": 34,
+      "sent": 35
+    },
+    "qf9p16VKfss": {
+      "cur": {
+        "¥": 65364,
+        "₩": 16080,
+        "IDR": 53536,
+        "NT$": 75,
+        "$": 5
+      },
+      "sc": 108,
+      "sticker": 2,
+      "member": 12,
+      "milestone": 15
+    },
+    "DHU8tDMJjJQ": {
+      "member": 10,
+      "milestone": 38,
+      "gift": 1,
+      "recv": 18,
+      "sent": 20
+    },
+    "m3Fukr1MEwM": {
+      "member": 4,
+      "milestone": 16,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "ey4BVLwzBTs": {
+      "member": 6,
+      "milestone": 26,
+      "gift": 7,
+      "recv": 49,
+      "sent": 50
+    },
+    "91VKhmT3AuI": {
+      "cur": {
+        "¥": 7276,
+        "ARS": 4500,
+        "MYR": 15
+      },
+      "sc": 23,
+      "member": 6,
+      "milestone": 6
+    },
+    "BZRWtV2cY3s": {
+      "cur": {
+        "¥": 10280,
+        "$": 20
+      },
+      "sc": 27,
+      "member": 4,
+      "milestone": 8,
+      "gift": 2,
+      "recv": 1,
+      "sent": 6
+    },
+    "JOw7yBIig8E": {
+      "member": 7,
+      "milestone": 37,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "GGEeKIeB_k4": {
+      "member": 13,
+      "milestone": 30,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "bS9wRt7Kvws": {
+      "cur": {
+        "¥": 3744,
+        "IDR": 50000
+      },
+      "sc": 10,
+      "member": 3,
+      "milestone": 11,
+      "gift": 15,
+      "sent": 226
+    },
+    "aywu9VWthPg": {
+      "cur": {
+        "¥": 68160,
+        "NT$": 30,
+        "₩": 7040
+      },
+      "sc": 55,
+      "sticker": 3,
+      "member": 11,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "_pwLf_85i8k": {
+      "member": 2,
+      "milestone": 12
+    },
+    "db7lIKE0I6c": {
+      "cur": {
+        "NT$": 2136,
+        "¥": 170764,
+        "MYR": 16.8,
+        "₩": 1680,
+        "$": 10
+      },
+      "sc": 69,
+      "sticker": 9,
+      "member": 20,
+      "milestone": 21,
+      "gift": 8,
+      "recv": 143,
+      "sent": 160
+    },
+    "DUmDpp4fAuA": {
+      "cur": {
+        "NT$": 168,
+        "¥": 7748
+      },
+      "sc": 21,
+      "member": 5,
+      "milestone": 14
+    },
+    "GIEjJKDo4d0": {
+      "member": 10,
+      "milestone": 73,
+      "gift": 8,
+      "recv": 50,
+      "sent": 65
+    },
+    "XuAjO6fmPE0": {
+      "cur": {
+        "¥": 33074,
+        "NT$": 168
+      },
+      "sc": 38,
+      "member": 4,
+      "milestone": 13
+    },
+    "-_iox4GyFR4": {
+      "cur": {
+        "¥": 109209,
+        "£": 1.68,
+        "NT$": 243,
+        "HK$": 50,
+        "₩": 1680,
+        "THB": 168
+      },
+      "sc": 86,
+      "member": 13,
+      "milestone": 73,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "nSwnVPUd_ck": {
+      "cur": {
+        "¥": 134238,
+        "NT$": 168,
+        "A$": 5,
+        "₩": 16080
+      },
+      "sc": 97,
+      "member": 12,
+      "milestone": 48,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "2JLRGl3zCL0": {
+      "member": 9,
+      "milestone": 90,
+      "gift": 4,
+      "recv": 11,
+      "sent": 21
+    },
+    "cGHiPAfizPM": {
+      "member": 26,
+      "milestone": 874,
+      "gift": 17,
+      "recv": 32,
+      "sent": 101
+    },
+    "z1UXjHr1w2Y": {
+      "cur": {
+        "¥": 22730,
+        "NT$": 445
+      },
+      "sc": 44,
+      "member": 1,
+      "milestone": 54
+    },
+    "1JJLX2zzvVc": {
+      "member": 2,
+      "milestone": 50,
+      "gift": 1,
+      "sent": 1
+    },
+    "gZyudB4vROI": {
+      "cur": {
+        "¥": 107860,
+        "₩": 7040,
+        "NT$": 150,
+        "£": 1.68,
+        "THB": 112,
+        "HK$": 5
+      },
+      "sc": 72,
+      "member": 11,
+      "milestone": 125
+    },
+    "OzI8Nfd65Po": {
+      "cur": {
+        "¥": 364674,
+        "₩": 11040,
+        "THB": 19,
+        "MYR": 15,
+        "£": 2,
+        "₫": 9000,
+        "NT$": 175,
+        "$": 5
+      },
+      "sc": 179,
+      "member": 5,
+      "milestone": 52
+    },
+    "kxNtTb3t4z0": {
+      "cur": {
+        "¥": 1333741,
+        "₩": 303941,
+        "NT$": 13815,
+        "SGD": 1,
+        "MYR": 198,
+        "$": 46.36,
+        "HK$": 808.36,
+        "₫": 120000,
+        "IDR": 338099,
+        "A$": 10,
+        "THB": 544,
+        "MX$": 65,
+        "SEK": 50,
+        "ARS": 168,
+        "£": 116.8
+      },
+      "sc": 647,
+      "sticker": 8,
+      "member": 76,
+      "milestone": 1006,
+      "gift": 17,
+      "recv": 23,
+      "sent": 164
+    },
+    "pLQ4IfgFbNM": {
+      "cur": {
+        "¥": 12478,
+        "₩": 1680
+      },
+      "sc": 18,
+      "member": 4,
+      "milestone": 14
+    },
+    "2optmx0Q4C4": {
+      "cur": {
+        "¥": 90622,
+        "MYR": 15,
+        "₩": 7040,
+        "NT$": 336
+      },
+      "sc": 109,
+      "member": 4,
+      "milestone": 35
+    },
+    "vChc7L659xc": {
+      "cur": {
+        "¥": 17006
+      },
+      "sc": 39,
+      "member": 6,
+      "milestone": 9
+    },
+    "XZvOOnCdsgI": {
+      "member": 7,
+      "milestone": 17,
+      "gift": 15,
+      "recv": 17,
+      "sent": 180
+    },
+    "tLHOmncYW0k": {
+      "cur": {
+        "¥": 64834,
+        "$": 5,
+        "MYR": 30,
+        "NT$": 168,
+        "₩": 101680,
+        "£": 1.68
+      },
+      "sc": 72,
+      "member": 9,
+      "milestone": 18
+    },
+    "INmsG_KILxY": {
+      "cur": {
+        "¥": 16442,
+        "NT$": 168
+      },
+      "sc": 20,
+      "member": 6,
+      "milestone": 20
+    },
+    "au57Syx7wuQ": {
+      "cur": {
+        "¥": 2133100,
+        "₫": 180000,
+        "NT$": 15622,
+        "SGD": 21.98,
+        "MYR": 121.8,
+        "HK$": 1636,
+        "CA$": 178.03,
+        "₩": 521350,
+        "₱": 250,
+        "$": 116.68,
+        "THB": 500,
+        "£": 168,
+        "ARS": 4500,
+        "IDR": 168536
+      },
+      "sc": 654,
+      "sticker": 3,
+      "member": 295,
+      "milestone": 949,
+      "gift": 22,
+      "sent": 247
+    },
+    "E8vF-fKuWyU": {
+      "cur": {
+        "¥": 100520,
+        "NT$": 1878,
+        "HK$": 10,
+        "₩": 3680
+      },
+      "sc": 72,
+      "member": 3,
+      "milestone": 9
+    },
+    "v_jnD-fSimg": {
+      "cur": {
+        "¥": 377683,
+        "NT$": 3468,
+        "£": 1.68,
+        "HK$": 178,
+        "MYR": 36
+      },
+      "sc": 115,
+      "member": 6,
+      "milestone": 259
+    },
+    "b8G0MS_onu0": {
+      "member": 9,
+      "milestone": 42,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "DzB58y-kSnw": {
+      "cur": {
+        "¥": 150617,
+        "₩": 1680,
+        "IDR": 50000,
+        "MYR": 16.8,
+        "NZ$": 2
+      },
+      "sc": 74,
+      "member": 5,
+      "milestone": 48,
+      "gift": 1,
+      "sent": 10
+    },
+    "KjznHKdZXvs": {
+      "cur": {
+        "¥": 52332,
+        "₩": 1680,
+        "NT$": 468
+      },
+      "sc": 45,
+      "member": 6,
+      "milestone": 23
+    },
+    "t5_zcCvCE4k": {
+      "cur": {
+        "NT$": 4008,
+        "MYR": 15,
+        "¥": 110658,
+        "SGD": 1,
+        "₩": 7000
+      },
+      "sc": 83,
+      "member": 6,
+      "milestone": 6
+    },
+    "41sxcVby7oU": {
+      "cur": {
+        "¥": 5420
+      },
+      "sc": 16,
+      "member": 7,
+      "milestone": 19
+    },
+    "2MxAY9O-coo": {
+      "cur": {
+        "¥": 121728,
+        "₩": 14080,
+        "£": 1.68,
+        "NT$": 411,
+        "$": 7.77,
+        "ARS": 100
+      },
+      "sc": 141,
+      "member": 6,
+      "milestone": 34
+    },
+    "5Z8zowVDAgQ": {
+      "cur": {
+        "¥": 88846,
+        "₩": 1680,
+        "NT$": 2673,
+        "£": 1.68
+      },
+      "sc": 92,
+      "member": 9,
+      "milestone": 80
+    },
+    "9YvYAypcU8A": {
+      "cur": {
+        "¥": 104572,
+        "MYR": 31.8,
+        "₩": 8360,
+        "NT$": 255,
+        "HK$": 25
+      },
+      "sc": 112,
+      "member": 11,
+      "milestone": 47
+    },
+    "skvH11OVd7I": {
+      "cur": {
+        "¥": 82045,
+        "NT$": 1953
+      },
+      "sc": 58,
+      "member": 7,
+      "milestone": 16,
+      "gift": 6,
+      "recv": 102,
+      "sent": 105
+    },
+    "xoU-OgYAi1Q": {
+      "cur": {
+        "¥": 413078,
+        "£": 1.68,
+        "NT$": 724,
+        "HK$": 10,
+        "₩": 16528,
+        "MYR": 30
+      },
+      "sc": 179,
+      "member": 14,
+      "milestone": 119
+    },
+    "Y39BHIpNL3w": {
+      "cur": {
+        "¥": 322313,
+        "£": 1.68,
+        "₩": 5360,
+        "NT$": 5361,
+        "SGD": 1,
+        "$": 4.99,
+        "HK$": 25,
+        "MYR": 6
+      },
+      "sc": 137,
+      "member": 14,
+      "milestone": 236,
+      "gift": 1,
+      "recv": 46,
+      "sent": 50
+    },
+    "d_-y4bXIPrs": {
+      "cur": {
+        "¥": 243520,
+        "MYR": 30,
+        "NT$": 105,
+        "₩": 10720,
+        "HK$": 35,
+        "IDR": 53600,
+        "£": 1.68
+      },
+      "sc": 159,
+      "member": 7,
+      "milestone": 29
+    },
+    "g6TCbsUMM84": {
+      "cur": {
+        "¥": 138917,
+        "£": 1.68,
+        "₩": 14080,
+        "NT$": 471,
+        "HK$": 545,
+        "IDR": 10000
+      },
+      "sc": 114,
+      "member": 8,
+      "milestone": 8,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "hkVzqrWdd4k": {
+      "cur": {
+        "¥": 55100,
+        "HK$": 500,
+        "MYR": 18,
+        "MX$": 10,
+        "₩": 3360
+      },
+      "sc": 58,
+      "member": 10,
+      "milestone": 6,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "nL4yzvQdGh0": {
+      "cur": {
+        "¥": 79140,
+        "₩": 3360,
+        "NT$": 1923,
+        "$": 5,
+        "MYR": 3
+      },
+      "sc": 83,
+      "member": 8,
+      "milestone": 13
+    },
+    "WK0anP9RYFw": {
+      "cur": {
+        "¥": 34018,
+        "MYR": 3
+      },
+      "sc": 31,
+      "member": 11,
+      "milestone": 6,
+      "gift": 3,
+      "recv": 15,
+      "sent": 15
+    },
+    "gWVou76ulYk": {
+      "cur": {
+        "¥": 56276,
+        "₩": 15040,
+        "MYR": 18,
+        "NT$": 30
+      },
+      "sc": 65,
+      "member": 2,
+      "milestone": 24,
+      "gift": 5,
+      "recv": 97,
+      "sent": 100
+    },
+    "xleHPsRj8j0": {
+      "cur": {
+        "¥": 186828,
+        "£": 1.68,
+        "R$": 5.36,
+        "NT$": 1710,
+        "SGD": 1,
+        "₩": 12720,
+        "MYR": 3
+      },
+      "sc": 101,
+      "member": 6,
+      "milestone": 28
+    },
+    "A3Io8d4DdY0": 0,
+    "_F1R8d6ez-g": {
+      "cur": {
+        "¥": 96703,
+        "₩": 3360,
+        "MYR": 91.8,
+        "NT$": 2073
+      },
+      "sc": 87,
+      "member": 6,
+      "milestone": 37
+    },
+    "CoApzXpXhQ4": {
+      "cur": {
+        "¥": 189909,
+        "MYR": 33,
+        "₩": 1680,
+        "NT$": 243,
+        "£": 1.68,
+        "HK$": 22.2,
+        "SGD": 1,
+        "CA$": 13.99
+      },
+      "sc": 85,
+      "member": 6,
+      "milestone": 13
+    },
+    "Vh6EZLv1tIk": {
+      "cur": {
+        "¥": 26274,
+        "MYR": 30,
+        "NT$": 243
+      },
+      "sc": 48,
+      "member": 1,
+      "milestone": 15
+    },
+    "tdD1lCGURbI": {
+      "cur": {
+        "¥": 218618,
+        "₩": 12040,
+        "IDR": 16822,
+        "HK$": 50,
+        "MYR": 33,
+        "£": 1.68,
+        "₱": 50,
+        "NT$": 1755
+      },
+      "sc": 145,
+      "member": 10,
+      "milestone": 25,
+      "gift": 8,
+      "recv": 191,
+      "sent": 205
+    },
+    "bBzd8nlB46w": {
+      "member": 8,
+      "milestone": 6
+    },
+    "_q7zU51NPKw": {
+      "cur": {
+        "¥": 9514,
+        "₩": 3360
+      },
+      "sc": 22,
+      "member": 3,
+      "milestone": 25,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "tK2ZPJbDGLY": {
+      "cur": {
+        "¥": 107902,
+        "₩": 7040,
+        "NT$": 198
+      },
+      "sc": 74,
+      "member": 8,
+      "milestone": 37
+    },
+    "aLPWG0Bvu1U": {
+      "cur": {
+        "¥": 123180,
+        "NT$": 366,
+        "₩": 7040,
+        "MYR": 3
+      },
+      "sc": 105,
+      "member": 6,
+      "milestone": 11
+    },
+    "dcNxGKflc_Q": {
+      "cur": {
+        "¥": 264032,
+        "₩": 3360,
+        "£": 1.68,
+        "MYR": 33,
+        "IDR": 50000,
+        "NT$": 3528
+      },
+      "sc": 110,
+      "member": 16,
+      "milestone": 43,
+      "gift": 2,
+      "recv": 53,
+      "sent": 55
+    },
+    "CXkk1vkAS2E": {
+      "cur": {
+        "¥": 43758,
+        "₩": 3680,
+        "NT$": 30,
+        "MYR": 6,
+        "₱": 125
+      },
+      "sc": 68,
+      "member": 20,
+      "milestone": 74
+    },
+    "MhaToL3AkcU": {
+      "cur": {
+        "¥": 222885,
+        "SGD": 2.98,
+        "MYR": 40,
+        "NT$": 1288,
+        "$": 31.8,
+        "HK$": 50,
+        "₩": 7040
+      },
+      "sc": 136,
+      "member": 17,
+      "milestone": 50,
+      "gift": 9,
+      "recv": 172,
+      "sent": 180
+    },
+    "5NaSb9kkTLk": {
+      "member": 8,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "RSehISh1ShU": {
+      "cur": {
+        "₩": 7040,
+        "¥": 164826,
+        "MYR": 15,
+        "NT$": 318
+      },
+      "sc": 117,
+      "member": 8,
+      "milestone": 23
+    },
+    "7TagblNQFhY": {
+      "cur": {
+        "¥": 170233,
+        "MYR": 3,
+        "NT$": 3908,
+        "HK$": 50,
+        "₩": 2000
+      },
+      "sc": 100,
+      "member": 5,
+      "milestone": 29,
+      "gift": 3,
+      "recv": 43,
+      "sent": 45
+    },
+    "qqE_5Z8tm7k": {
+      "cur": {
+        "¥": 972382,
+        "MYR": 286.8,
+        "$": 107,
+        "₩": 209960,
+        "NT$": 10297,
+        "HK$": 100,
+        "SGD": 2,
+        "₱": 60,
+        "IDR": 200000,
+        "£": 1.68,
+        "PEN": 2
+      },
+      "sc": 445,
+      "member": 27,
+      "milestone": 836,
+      "gift": 19,
+      "recv": 320,
+      "sent": 340
+    },
+    "dH93SLbdIk8": {
+      "cur": {
+        "¥": 317608,
+        "₩": 40710,
+        "NT$": 4154,
+        "MYR": 18,
+        "SGD": 2,
+        "HK$": 16.8
+      },
+      "sc": 191,
+      "member": 24,
+      "milestone": 101,
+      "gift": 4,
+      "recv": 25,
+      "sent": 25
+    },
+    "zxMNtNbNdnk": {
+      "member": 4,
+      "milestone": 14,
+      "gift": 6,
+      "recv": 5,
+      "sent": 50
+    },
+    "-KM9Lm_gpZ4": {
+      "cur": {
+        "¥": 173546,
+        "$": 1.99,
+        "₩": 9040,
+        "NT$": 7392,
+        "NOK": 200,
+        "MYR": 3,
+        "₱": 125
+      },
+      "sc": 101,
+      "member": 14,
+      "milestone": 29,
+      "gift": 3,
+      "recv": 28,
+      "sent": 30
+    },
+    "rO1nm9Q70AA": {
+      "cur": {
+        "¥": 150822,
+        "₩": 12040,
+        "$": 15,
+        "HK$": 16.8,
+        "NT$": 3015
+      },
+      "sc": 118,
+      "member": 17,
+      "milestone": 25,
+      "gift": 3,
+      "recv": 14,
+      "sent": 15
+    },
+    "x1UuYCFMi1E": {
+      "cur": {
+        "¥": 83297,
+        "₩": 10360,
+        "NT$": 2328,
+        "MYR": 33,
+        "SGD": 2,
+        "HK$": 168
+      },
+      "sc": 110,
+      "member": 8,
+      "milestone": 25
+    },
+    "JY3-CyZnEAQ": {
+      "cur": {
+        "¥": 137184,
+        "NT$": 2151,
+        "MYR": 18,
+        "A$": 5,
+        "₩": 3000
+      },
+      "sc": 87,
+      "member": 14,
+      "milestone": 17
+    },
+    "HXVYyF9HG2U": {
+      "cur": {
+        "¥": 147742,
+        "NT$": 3591,
+        "MYR": 61.8,
+        "₩": 5360
+      },
+      "sc": 108,
+      "member": 8,
+      "milestone": 80,
+      "gift": 4,
+      "recv": 106,
+      "sent": 110
+    },
+    "gpByCN_UJ2M": {
+      "cur": {
+        "¥": 47062,
+        "₩": 108360,
+        "NT$": 1743
+      },
+      "sc": 65,
+      "member": 8,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 19,
+      "sent": 20
+    },
+    "3-3jVGEs0pA": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "I_wMFtQZ8IQ": {
+      "cur": {
+        "¥": 8612,
+        "NT$": 228,
+        "₩": 1680,
+        "A$": 2,
+        "₱": 25
+      },
+      "sc": 28,
+      "member": 4,
+      "milestone": 2
+    },
+    "0vbdYXAle4g": {
+      "cur": {
+        "¥": 77790,
+        "₩": 3360,
+        "NT$": 330
+      },
+      "sc": 54,
+      "member": 21,
+      "milestone": 81,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "b5JuCTM7EEs": {
+      "member": 12,
+      "milestone": 4,
+      "gift": 6,
+      "recv": 140,
+      "sent": 150
+    },
+    "BHVSX3BX0-E": {
+      "member": 9,
+      "milestone": 13,
+      "gift": 11,
+      "recv": 144,
+      "sent": 150
+    },
+    "Ov0P2g2Z16M": {
+      "cur": {
+        "NT$": 1695,
+        "HK$": 66.8,
+        "¥": 85786,
+        "₩": 7364,
+        "MYR": 6
+      },
+      "sc": 81,
+      "member": 18,
+      "milestone": 109
+    },
+    "LKWlv1ELwDc": {
+      "cur": {
+        "¥": 98710,
+        "£": 1.68,
+        "₩": 2000,
+        "NT$": 75
+      },
+      "sc": 87,
+      "member": 9,
+      "milestone": 8,
+      "gift": 1,
+      "recv": 4,
+      "sent": 5
+    },
+    "CxKt-kwPDBo": {
+      "cur": {
+        "¥": 224685,
+        "NT$": 90,
+        "₩": 14040,
+        "HK$": 25
+      },
+      "sc": 156,
+      "member": 5,
+      "milestone": 8
+    },
+    "sebVNRcZe-E": {
+      "cur": {
+        "¥": 57486,
+        "₩": 5040,
+        "$": 5,
+        "MYR": 15
+      },
+      "sc": 53,
+      "member": 4,
+      "milestone": 2,
+      "gift": 11,
+      "recv": 192,
+      "sent": 201
+    },
+    "RBo1msd-svc": {
+      "member": 19,
+      "milestone": 14,
+      "gift": 2,
+      "recv": 57,
+      "sent": 60
+    },
+    "lHwaBb9b1n4": {
+      "member": 10,
+      "milestone": 44,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "PnQ0AG9RjBI": {
+      "cur": {
+        "¥": 181522,
+        "₩": 12580,
+        "NT$": 1683,
+        "IDR": 121680,
+        "HK$": 25,
+        "MYR": 18
+      },
+      "sc": 128,
+      "member": 14,
+      "milestone": 122,
+      "gift": 8,
+      "recv": 58,
+      "sent": 100
+    },
+    "bUWOng6yl5Q": {
+      "cur": {
+        "¥": 525641,
+        "₩": 172000,
+        "NT$": 1820,
+        "£": 1.68,
+        "SGD": 2
+      },
+      "sc": 160,
+      "member": 27,
+      "milestone": 426,
+      "gift": 16,
+      "recv": 214,
+      "sent": 220
+    },
+    "lN9sMJtJMXA": {
+      "cur": {
+        "₩": 51680,
+        "¥": 77911,
+        "NT$": 75,
+        "R$": 2
+      },
+      "sc": 68,
+      "member": 5,
+      "milestone": 14
+    },
+    "i-6CVZ68YBc": {
+      "cur": {
+        "¥": 233447,
+        "IDR": 60000,
+        "$": 15,
+        "MYR": 78,
+        "₩": 14408,
+        "£": 20,
+        "HK$": 51.8,
+        "NT$": 1680
+      },
+      "sc": 145,
+      "member": 23,
+      "milestone": 105,
+      "gift": 24,
+      "recv": 296,
+      "sent": 305
+    },
+    "TpHUddz_tZk": {
+      "cur": {
+        "¥": 18771,
+        "NT$": 75
+      },
+      "sc": 32,
+      "member": 8,
+      "milestone": 14,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
+    },
+    "Cr1SadgmOfY": {
+      "cur": {
+        "¥": 64836,
+        "MYR": 45,
+        "₩": 10000,
+        "£": 1.68
+      },
+      "sc": 57,
+      "member": 7,
+      "milestone": 18
+    },
+    "_3vdZBsnhDQ": {
+      "cur": {
+        "¥": 88825,
+        "MYR": 15,
+        "₩": 3360,
+        "NT$": 300
+      },
+      "sc": 79,
+      "member": 5,
+      "milestone": 14
+    },
+    "iQ4PLcIJqgU": {
+      "cur": {
+        "¥": 159174,
+        "HK$": 16.8,
+        "₩": 25542,
+        "NT$": 1755,
+        "MYR": 45,
+        "SGD": 2
+      },
+      "sc": 87,
+      "member": 10,
+      "milestone": 20,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "KKtHEXZUa9o": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "_dDHQYpQR5E": {
+      "cur": {
+        "¥": 77946
+      },
+      "sc": 47,
+      "member": 20,
+      "milestone": 49
+    },
+    "fonVDMkxUuQ": {
+      "cur": {
+        "¥": 1681996,
+        "₩": 691652,
+        "NT$": 18468,
+        "IDR": 20000,
+        "NZ$": 168,
+        "HK$": 5435.8,
+        "MYR": 31.8,
+        "$": 85.36,
+        "CA$": 2,
+        "A$": 6.1,
+        "SGD": 20,
+        "£": 5.36,
+        "ARS": 200,
+        "€": 25,
+        "₱": 50
+      },
+      "sc": 796,
+      "member": 37,
+      "milestone": 290,
+      "gift": 15,
+      "recv": 151,
+      "sent": 175
+    },
+    "ZOuvvuja80Q": {
+      "cur": {
+        "¥": 286973,
+        "₩": 16080,
+        "NT$": 3145,
+        "HK$": 5.36,
+        "MYR": 78.96,
+        "$": 5.36
+      },
+      "sc": 157,
+      "member": 18,
+      "milestone": 68,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
+    },
+    "brZ4w2y9hls": {
+      "member": 5,
+      "milestone": 23
+    },
+    "65cJv3TzyG8": {
+      "cur": {
+        "¥": 1299751,
+        "NT$": 12536,
+        "₩": 259160,
+        "MYR": 221.8,
+        "ARS": 1168,
+        "$": 41.99,
+        "HK$": 637.8,
+        "₱": 50,
+        "SGD": 23.18,
+        "£": 100
+      },
+      "sc": 444,
+      "member": 41,
+      "milestone": 85,
+      "gift": 38,
+      "recv": 390,
+      "sent": 430
+    },
+    "8bnBnVNFOPI": {
+      "cur": {
+        "¥": 76566,
+        "£": 101.68,
+        "HK$": 21.8,
+        "NT$": 170,
+        "₩": 3680
+      },
+      "sc": 99,
+      "member": 5,
+      "milestone": 23,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "etmjty_JinQ": {
+      "cur": {
+        "¥": 73324,
+        "₩": 101680,
+        "NT$": 243
+      },
+      "sc": 64,
+      "member": 13,
+      "milestone": 19,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "hHo0EC2EL14": {
+      "cur": {
+        "¥": 76954,
+        "₩": 1680,
+        "NT$": 168,
+        "MYR": 15
+      },
+      "sc": 73,
+      "member": 3,
+      "milestone": 4
+    },
+    "tlPUkUGLA5w": {
+      "cur": {
+        "NT$": 2391,
+        "¥": 732644,
+        "₩": 25576,
+        "MYR": 90,
+        "HK$": 110,
+        "£": 1.68,
+        "$": 14.99,
+        "SGD": 2,
+        "R$": 2,
+        "₱": 125
+      },
+      "sc": 455,
+      "member": 37,
+      "milestone": 825,
+      "gift": 24,
+      "recv": 256,
+      "sent": 270
+    },
+    "NTK7NVPgyC4": {
+      "cur": {
+        "¥": 43776,
+        "₩": 1680,
+        "NT$": 170,
+        "MYR": 315
+      },
+      "sc": 39,
+      "member": 4,
+      "milestone": 2
+    },
+    "dhYXW5HBBOo": {
+      "cur": {
+        "¥": 33632,
+        "MYR": 45,
+        "NT$": 275,
+        "₩": 8720
+      },
+      "sc": 81,
+      "member": 9,
+      "milestone": 35
+    },
+    "-7zo4iFNRAw": {
+      "cur": {
+        "¥": 725227,
+        "₩": 15720,
+        "NT$": 2508,
+        "SGD": 5,
+        "$": 5,
+        "HK$": 115,
+        "MYR": 300
+      },
+      "sc": 317,
+      "member": 24,
+      "milestone": 82,
+      "gift": 3,
+      "recv": 30,
+      "sent": 30
+    },
+    "uZra1UYLQKs": {
+      "cur": {
+        "¥": 42332,
+        "NT$": 198,
+        "₩": 5000,
+        "SGD": 20
+      },
+      "sc": 72,
+      "member": 10,
+      "milestone": 22
+    },
+    "r04aEy0_gDU": {
+      "cur": {
+        "¥": 105631,
+        "₩": 3360,
+        "NT$": 200,
+        "MX$": 10,
+        "£": 1.68,
+        "$": 2
+      },
+      "sc": 84,
+      "member": 4,
+      "milestone": 23,
+      "gift": 1,
+      "sent": 20
+    },
+    "L73ph3Fb4CI": {
+      "member": 13,
+      "milestone": 87,
+      "gift": 9,
+      "recv": 180,
+      "sent": 165
+    },
+    "ZQveWRj0u5E": {
+      "cur": {
+        "¥": 2725295,
+        "₱": 760,
+        "₩": 367960,
+        "NT$": 33116,
+        "$": 118.58,
+        "HK$": 3817.8,
+        "£": 10,
+        "SGD": 41.98,
+        "CA$": 327.99,
+        "A$": 117,
+        "MYR": 211.8,
+        "SEK": 50,
+        "₪": 17.9,
+        "ARS": 100,
+        "€": 5,
+        "NZ$": 10
+      },
+      "sc": 1326,
+      "member": 406,
+      "milestone": 1355,
+      "gift": 25,
+      "recv": 237,
+      "sent": 250
+    },
+    "LeRRY24qs48": {
+      "cur": {
+        "¥": 485279,
+        "£": 1.68,
+        "₩": 13110,
+        "MYR": 300,
+        "NT$": 75
+      },
+      "sc": 146,
+      "member": 18,
+      "milestone": 327,
+      "gift": 2,
+      "recv": 14,
+      "sent": 15
+    },
+    "TtA8WD-kncA": {
+      "cur": {
+        "¥": 185036,
+        "NT$": 2967,
+        "MYR": 75,
+        "₩": 12720
+      },
+      "sc": 155,
+      "member": 23,
+      "milestone": 137
+    },
+    "gcEP2O1IslE": {
+      "cur": {
+        "A$": 102,
+        "¥": 155746,
+        "₩": 1680,
+        "NT$": 393
+      },
+      "sc": 64,
+      "member": 9,
+      "milestone": 5
+    },
+    "6ugMfoiOumM": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "Pou5X55GUz0": {
+      "cur": {
+        "¥": 104390,
+        "MYR": 36,
+        "$": 25,
+        "NT$": 184,
+        "£": 1.68
+      },
+      "sc": 88,
+      "member": 14,
+      "milestone": 7
+    },
+    "_BiJ9rKotxI": {
+      "member": 5,
+      "milestone": 15,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "AiwL98lUl-g": {
+      "cur": {
+        "¥": 159444,
+        "MYR": 61.8,
+        "NT$": 2015,
+        "₩": 13680,
+        "HK$": 25
+      },
+      "sc": 131,
+      "member": 10,
+      "milestone": 31,
+      "gift": 6,
+      "recv": 22,
+      "sent": 30
+    },
+    "QrdcYFaZNxI": {
+      "cur": {
+        "¥": 13298,
+        "NT$": 168
+      },
+      "sc": 30,
+      "member": 10,
+      "milestone": 166
+    },
+    "8uRXqlypiFA": {
+      "cur": {
+        "¥": 52774,
+        "NT$": 15,
+        "MYR": 36,
+        "₩": 11680,
+        "£": 1.68
+      },
+      "sc": 63,
+      "member": 10,
+      "milestone": 5
+    },
+    "dfER8o4QTY4": {
+      "cur": {
+        "¥": 160714,
+        "NT$": 1745,
+        "MYR": 70
+      },
+      "sc": 159,
+      "member": 7,
+      "milestone": 8
+    },
+    "a9hmJi6LI2s": {
+      "cur": {
+        "¥": 118888,
+        "$": 9.99,
+        "₩": 2168,
+        "£": 1.68
+      },
+      "sc": 86,
+      "member": 13,
+      "milestone": 14,
+      "gift": 1,
+      "sent": 5
+    },
+    "f29jEJJbf0o": {
+      "cur": {
+        "¥": 107515,
+        "₩": 3848,
+        "NT$": 210,
+        "£": 1.68,
+        "MYR": 30
+      },
+      "sc": 86,
+      "member": 15,
+      "milestone": 5
+    },
+    "GwbPV6eRGSw": {
+      "cur": {
+        "NT$": 185,
+        "HK$": 11.36,
+        "¥": 62984,
+        "₩": 19502,
+        "MYR": 36,
+        "$": 5.36
+      },
+      "sc": 127,
+      "member": 7,
+      "milestone": 6,
+      "gift": 5,
+      "recv": 99,
+      "sent": 100
+    },
+    "S8A1pb8JsmE": {
+      "cur": {
+        "¥": 62792,
+        "$": 1,
+        "MYR": 15,
+        "NT$": 400,
+        "A$": 100,
+        "₩": 5360
+      },
+      "sc": 76,
+      "member": 2,
+      "milestone": 19,
+      "gift": 10,
+      "recv": 19,
+      "sent": 75
+    },
+    "OZmSArc8Hgc": {
+      "cur": {
+        "¥": 19550,
+        "NT$": 1680,
+        "₩": 1680,
+        "MYR": 15
+      },
+      "sc": 30,
+      "member": 3,
+      "milestone": 10
+    },
+    "KZ4yhTaP7DE": {
+      "cur": {
+        "¥": 95208,
+        "MYR": 15,
+        "NT$": 322,
+        "$": 10,
+        "£": 1.68,
+        "₩": 5000
+      },
+      "sc": 102,
+      "member": 11,
+      "milestone": 6
+    },
+    "UhOTGjWxRY8": {
+      "cur": {
+        "¥": 473541,
+        "NT$": 2823,
+        "₩": 305054,
+        "£": 19.03,
+        "HK$": 41.8,
+        "SEK": 50,
+        "$": 7.35,
+        "MYR": 315
+      },
+      "sc": 271,
+      "member": 17,
+      "milestone": 88,
+      "gift": 2,
+      "recv": 21,
+      "sent": 25
+    },
+    "TTa3Dv-UD5U": {
+      "cur": {
+        "¥": 199242,
+        "MYR": 51,
+        "£": 1.68,
+        "NT$": 423,
+        "₩": 200000,
+        "MX$": 50
+      },
+      "sc": 124,
+      "member": 11,
+      "milestone": 33
+    },
+    "wqjGVLA42a8": {
+      "cur": {
+        "¥": 71486,
+        "£": 3.36,
+        "NT$": 15,
+        "HK$": 5,
+        "A$": 16.8,
+        "MYR": 6
+      },
+      "sc": 84,
+      "member": 3,
+      "milestone": 10
+    },
+    "RE9Yf76516o": {
+      "member": 8,
+      "milestone": 20
+    },
+    "lS7aF86_m6Y": {
+      "cur": {
+        "¥": 502019,
+        "₩": 29760,
+        "MYR": 90,
+        "NT$": 2571,
+        "HK$": 246.6,
+        "£": 15,
+        "₱": 100,
+        "A$": 10,
+        "$": 5.36
+      },
+      "sc": 278,
+      "member": 6,
+      "milestone": 40
+    },
+    "CaR3cD0kmyw": {
+      "cur": {
+        "¥": 9186,
+        "MYR": 15
+      },
+      "sc": 19,
+      "member": 6,
+      "milestone": 30
+    },
+    "JMIrlGg9ya0": {
+      "cur": {
+        "¥": 12758,
+        "₩": 5360,
+        "MYR": 15,
+        "NT$": 318,
+        "A$": 16.8
+      },
+      "sc": 45,
+      "member": 2,
+      "milestone": 3
+    },
+    "XWfKsEUikT0": {
+      "cur": {
+        "¥": 154306,
+        "NT$": 1680,
+        "HK$": 27.8,
+        "₩": 110000,
+        "A$": 100
+      },
+      "sc": 101,
+      "member": 3,
+      "milestone": 8
+    },
+    "BDoCAsBJHvY": {
+      "cur": {
+        "NT$": 3330,
+        "¥": 191977,
+        "HK$": 5.36,
+        "₩": 10000,
+        "A$": 100,
+        "£": 1.68,
+        "MYR": 300
+      },
+      "sc": 101,
+      "member": 5,
+      "milestone": 5
+    },
+    "jy18AYdfVn8": {
+      "cur": {
+        "¥": 162318,
+        "NT$": 3510,
+        "₩": 4000,
+        "A$": 16.8
+      },
+      "sc": 113,
+      "member": 12,
+      "milestone": 108,
+      "gift": 6,
+      "recv": 34,
+      "sent": 35
+    },
+    "L-qG_vbAwGk": {
+      "cur": {
+        "NT$": 3465,
+        "¥": 126099,
+        "£": 3.36,
+        "₩": 103680,
+        "HK$": 36.8,
+        "$": 1
+      },
+      "sc": 129,
+      "member": 7,
+      "milestone": 14
+    },
+    "pI4vXvqRWnk": {
+      "cur": {
+        "¥": 127200,
+        "ARS": 30,
+        "A$": 87.2,
+        "₩": 5360,
+        "MYR": 78.6,
+        "NT$": 2160,
+        "HK$": 53.6
+      },
+      "sc": 114,
+      "member": 11,
+      "milestone": 60,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "e0sc3ydbHUw": {
+      "cur": {
+        "NT$": 3580,
+        "¥": 124085,
+        "₩": 101680,
+        "£": 1.68,
+        "MYR": 15
+      },
+      "sc": 100,
+      "member": 9,
+      "milestone": 6
+    },
+    "q6IRdf8wEIY": {
+      "cur": {
+        "NT$": 2253,
+        "MYR": 348.6,
+        "¥": 119010,
+        "HK$": 65.36,
+        "A$": 33.6,
+        "ARS": 10
+      },
+      "sc": 137,
+      "member": 9,
+      "milestone": 47,
+      "gift": 3,
+      "recv": 36,
+      "sent": 60
+    },
+    "9qCyQ3NL48c": {
+      "member": 4,
+      "milestone": 20
+    },
+    "Adoew1y-fSs": {
+      "cur": {
+        "¥": 93539,
+        "HK$": 5,
+        "NT$": 2320,
+        "MYR": 45,
+        "₩": 102000,
+        "£": 1.68,
+        "A$": 100
+      },
+      "sc": 107,
+      "member": 5,
+      "milestone": 8
+    },
+    "p7sGozz19e0": {
+      "cur": {
+        "¥": 96800,
+        "₩": 7040,
+        "NT$": 2535,
+        "MYR": 15,
+        "HK$": 50,
+        "$": 5
+      },
+      "sc": 112,
+      "member": 8,
+      "milestone": 96,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "i9yzgC_KsgI": {
+      "cur": {
+        "¥": 267806,
+        "NT$": 6555,
+        "HK$": 31.8,
+        "₩": 122182,
+        "MYR": 16.8,
+        "A$": 100
+      },
+      "sc": 177,
+      "member": 10,
+      "milestone": 31
+    },
+    "vj6J4Y28GGU": {
+      "cur": {
+        "NT$": 4558,
+        "¥": 223614,
+        "₩": 4680,
+        "A$": 167.2,
+        "PEN": 37.9,
+        "HK$": 20,
+        "MYR": 12
+      },
+      "sc": 271,
+      "member": 35,
+      "milestone": 270,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "JMy88RxmIOQ": {
+      "cur": {
+        "¥": 21076,
+        "NT$": 15,
+        "A$": 16.8
+      },
+      "sc": 25,
+      "member": 1,
+      "milestone": 4
+    },
+    "sLqg6IGgonQ": {
+      "cur": {
+        "¥": 492427,
+        "₩": 204848,
+        "NT$": 5550,
+        "HK$": 91.4,
+        "MYR": 315,
+        "$": 6.99,
+        "A$": 200
+      },
+      "sc": 211,
+      "member": 9,
+      "milestone": 31,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "cIgt_xoePUc": {
+      "cur": {
+        "¥": 458561,
+        "₩": 201680,
+        "HK$": 113.6,
+        "MYR": 322.8,
+        "NT$": 9366,
+        "A$": 168.39
+      },
+      "sc": 243,
+      "member": 7,
+      "milestone": 104
+    },
+    "iTsz5rhEpKQ": {
+      "cur": {
+        "¥": 154799,
+        "£": 8.36,
+        "HK$": 31.8,
+        "₩": 35710,
+        "NT$": 1229,
+        "SGD": 9,
+        "MYR": 45,
+        "A$": 100
+      },
+      "sc": 270,
+      "member": 12,
+      "milestone": 38
+    },
+    "f8PMU4YcgW4": {
+      "cur": {
+        "NT$": 5158,
+        "¥": 94554,
+        "MYR": 15,
+        "$": 12,
+        "A$": 100,
+        "₩": 8680,
+        "£": 20,
+        "HK$": 18
+      },
+      "sc": 147,
+      "member": 9,
+      "milestone": 10,
+      "gift": 4,
+      "recv": 42,
+      "sent": 50
+    },
+    "F3mThcJiNps": {
+      "cur": {
+        "NT$": 2876,
+        "¥": 163023,
+        "MYR": 76.8,
+        "HK$": 130,
+        "A$": 104,
+        "₩": 12360,
+        "SGD": 10,
+        "ARS": 100
+      },
+      "sc": 193,
+      "member": 13,
+      "milestone": 11,
+      "gift": 4,
+      "recv": 15,
+      "sent": 20
+    },
+    "N59BwjbBYL8": {
+      "cur": {
+        "¥": 44610,
+        "₩": 10040,
+        "NT$": 81,
+        "MYR": 16.8,
+        "HK$": 51.8,
+        "A$": 16.8
+      },
+      "sc": 98,
+      "member": 2,
+      "milestone": 1
+    },
+    "FKjTkq3Ug7s": {
+      "cur": {
+        "¥": 101276,
+        "£": 1.68,
+        "NT$": 190,
+        "A$": 16.8,
+        "HK$": 10
+      },
+      "sc": 77,
+      "member": 2,
+      "milestone": 3
+    },
+    "g0MSjqSmVUQ": {
+      "cur": {
+        "NT$": 471,
+        "¥": 148741,
+        "₩": 103360,
+        "A$": 33.6,
+        "HK$": 33,
+        "MYR": 6
+      },
+      "sc": 180,
+      "member": 6,
+      "milestone": 14
+    },
+    "rqt9jHdQNdw": {
+      "cur": {
+        "¥": 151330,
+        "HK$": 63.6,
+        "RUB": 20,
+        "NT$": 3588,
+        "₩": 66822,
+        "£": 1.68,
+        "MYR": 46.8,
+        "A$": 100
+      },
+      "sc": 190,
+      "member": 9,
+      "milestone": 54,
+      "gift": 3,
+      "recv": 29,
+      "sent": 30
+    },
+    "0vkJ-pwUztM": {
+      "cur": {
+        "¥": 231516,
+        "A$": 122.16,
+        "NT$": 5106,
+        "₩": 9040,
+        "HK$": 128.6,
+        "£": 1.68,
+        "SGD": 2,
+        "₱": 50,
+        "MYR": 300
+      },
+      "sc": 211,
+      "member": 15,
+      "milestone": 177,
+      "gift": 16,
+      "recv": 90,
+      "sent": 95
+    },
+    "InDkQ8_u120": {
+      "cur": {
+        "¥": 258043,
+        "£": 1.68,
+        "₩": 53902,
+        "NT$": 1788,
+        "MYR": 22.22,
+        "HK$": 78.6,
+        "A$": 222.22
+      },
+      "sc": 178,
+      "member": 6,
+      "milestone": 17
+    },
+    "CGav1GioVdM": {
+      "cur": {
+        "NT$": 5603,
+        "¥": 305420,
+        "HK$": 68.6,
+        "₩": 7168,
+        "MYR": 31.8,
+        "£": 1.68,
+        "A$": 100,
+        "SGD": 5
+      },
+      "sc": 284,
+      "member": 22,
+      "milestone": 60
+    },
+    "zUZ5oibdqfA": {
+      "cur": {
+        "¥": 59744,
+        "€": 5.36,
+        "HK$": 684.8,
+        "NT$": 180,
+        "₩": 1680,
+        "MYR": 16.8,
+        "A$": 16.8
+      },
+      "sc": 104,
+      "member": 3,
+      "milestone": 7
+    },
+    "ToOvuzJGUZY": {
+      "cur": {
+        "¥": 148252,
+        "NT$": 4040,
+        "RUB": 250,
+        "MYR": 331.8,
+        "£": 1.68,
+        "₩": 4168,
+        "HK$": 35,
+        "A$": 100
+      },
+      "sc": 159,
+      "member": 12,
+      "milestone": 11
+    },
+    "2YOwleyxXCg": {
+      "member": 12,
+      "milestone": 21
+    },
+    "5d5ueF-FH6M": {
+      "cur": {
+        "¥": 605605,
+        "₩": 9860,
+        "NT$": 3981,
+        "MYR": 661.8,
+        "HK$": 103.6,
+        "A$": 100
+      },
+      "sc": 268,
+      "member": 15,
+      "milestone": 19
+    },
+    "T8X638gkv1Y": {
+      "cur": {
+        "¥": 35374,
+        "₩": 1680,
+        "$": 9.99,
+        "NT$": 11513,
+        "A$": 41.59,
+        "CA$": 5,
+        "HK$": 63
+      },
+      "sc": 101,
+      "member": 7,
+      "milestone": 13
+    },
+    "-WQiTNjsYzM": {
+      "cur": {
+        "¥": 33150,
+        "£": 1.68,
+        "₩": 3848,
+        "A$": 16.8,
+        "MYR": 16.8,
+        "HK$": 25
+      },
+      "sc": 52,
+      "member": 5,
+      "milestone": 23
+    },
+    "fZYj1VrN4To": {
+      "cur": {
+        "¥": 125463,
+        "NT$": 3300,
+        "HK$": 536,
+        "£": 1.68
+      },
+      "sc": 82
+    },
+    "t5crQhncAwQ": {
+      "cur": {
+        "NT$": 6379,
+        "HK$": 293,
+        "¥": 427714,
+        "MYR": 15,
+        "₩": 34200,
+        "A$": 168,
+        "£": 101.68,
+        "$": 10,
+        "SGD": 5.96
+      },
+      "sc": 250,
+      "member": 18,
+      "milestone": 84
+    },
+    "To_gkYYQ8Cg": {
+      "cur": {
+        "¥": 81669,
+        "₩": 10888,
+        "NT$": 2223,
+        "HK$": 100,
+        "£": 1.68,
+        "A$": 100
+      },
+      "sc": 127,
+      "member": 11,
+      "milestone": 9
+    },
+    "pERgMc1Lm5A": {
+      "cur": {
+        "¥": 72692,
+        "A$": 100,
+        "NT$": 1938,
+        "₩": 4360,
+        "HK$": 25,
+        "$": 2,
+        "MYR": 6,
+        "£": 101.68,
+        "MX$": 10
+      },
+      "sc": 104,
+      "member": 7
+    },
+    "lUaC-oAHROY": {
+      "cur": {
+        "¥": 173943,
+        "£": 3.36,
+        "₩": 9208,
+        "NT$": 5559,
+        "$": 19.99,
+        "HK$": 25,
+        "SGD": 1,
+        "A$": 100
+      },
+      "sc": 144,
+      "member": 12,
+      "milestone": 6
+    },
+    "xLDoKQwa48U": {
+      "cur": {
+        "¥": 959100,
+        "NT$": 26740,
+        "HK$": 1229,
+        "₩": 177000,
+        "₱": 50,
+        "A$": 365.76,
+        "$": 5
+      },
+      "sc": 310,
+      "member": 16,
+      "milestone": 58
+    },
+    "XgeHi_RqJsQ": {
+      "cur": {
+        "NT$": 11013,
+        "HK$": 10,
+        "¥": 147237,
+        "£": 1.68,
+        "₩": 101000,
+        "A$": 168
+      },
+      "sc": 136,
+      "member": 9,
+      "milestone": 16
+    },
+    "45cDNMesI50": {
+      "cur": {
+        "¥": 726965,
+        "SGD": 26.98,
+        "HK$": 843,
+        "NT$": 4767,
+        "A$": 220.4,
+        "MYR": 70.4,
+        "ARS": 100,
+        "$": 5
+      },
+      "sc": 381,
+      "member": 27,
+      "milestone": 135
+    },
+    "70Tz-t4LevU": {
+      "cur": {
+        "NT$": 351,
+        "¥": 105892,
+        "HK$": 15,
+        "₩": 1680,
+        "MYR": 16.8,
+        "£": 1.68,
+        "A$": 16.8
+      },
+      "sc": 107,
+      "member": 15,
+      "milestone": 13
+    },
+    "HUnt99Ie_fY": {
+      "cur": {
+        "¥": 234818,
+        "A$": 100,
+        "₩": 10900,
+        "NT$": 1986,
+        "HK$": 578.6,
+        "$": 10
+      },
+      "sc": 102,
+      "member": 32,
+      "milestone": 47
+    },
+    "nwDw9LdD8s4": {
+      "cur": {
+        "₩": 118111,
+        "¥": 101954,
+        "NT$": 2283,
+        "A$": 134.7,
+        "$": 5,
+        "MYR": 16.8,
+        "MX$": 10,
+        "SGD": 1.68
+      },
+      "sc": 219,
+      "member": 6,
+      "milestone": 15
+    },
+    "ZJAfpnYEMxM": {
+      "cur": {
+        "NT$": 3481,
+        "¥": 156803,
+        "A$": 61.12,
+        "MYR": 16.8,
+        "HK$": 155,
+        "CZK": 50,
+        "CLP": 2500,
+        "₱": 50,
+        "₩": 50000
+      },
+      "sc": 152,
+      "member": 20,
+      "milestone": 64
+    },
+    "2bMD-XHyOcQ": {
+      "cur": {
+        "¥": 150098,
+        "₩": 28648,
+        "NT$": 1895,
+        "A$": 100,
+        "MYR": 300,
+        "HK$": 78,
+        "£": 1.68
+      },
+      "sc": 163,
+      "member": 16,
+      "milestone": 41
+    },
+    "SXWkkz2qwKQ": {
+      "cur": {
+        "¥": 23284,
+        "NT$": 345
+      },
+      "sc": 39,
+      "member": 34,
+      "milestone": 387
+    },
+    "RnWzylQQIoE": {
+      "member": 11
+    },
+    "OF08LNseEJQ": {
+      "cur": {
+        "¥": 112483,
+        "₩": 5360,
+        "HK$": 35,
+        "NT$": 2688,
+        "A$": 92.4,
+        "$": 15,
+        "MYR": 16.8,
+        "₱": 50
+      },
+      "sc": 139,
+      "member": 15,
+      "milestone": 215
+    },
+    "qbavbSe1sck": {
+      "cur": {
+        "¥": 85843,
+        "NT$": 5548,
+        "₩": 3680,
+        "₱": 500,
+        "£": 201.68,
+        "A$": 200,
+        "$": 20
+      },
+      "sc": 117,
+      "member": 13
+    },
+    "J0Cp1AntipA": {
+      "cur": {
+        "¥": 328422,
+        "NT$": 6111,
+        "₩": 63016,
+        "HK$": 25,
+        "A$": 116.8,
+        "£": 1.68
+      },
+      "sc": 244,
+      "member": 24
+    },
+    "YH_QJxgp3kk": {
+      "cur": {
+        "¥": 39621,
+        "₩": 102168,
+        "NT$": 1620
+      },
+      "sc": 64,
+      "member": 12
+    },
+    "OTGRGBsUd8Q": {
+      "e": "http503",
+      "n": 0
+    },
+    "NZeA5cOGZk0": {
+      "cur": {
+        "¥": 209120,
+        "NT$": 2571,
+        "A$": 105,
+        "₩": 21168,
+        "MX$": 10,
+        "MYR": 6,
+        "HK$": 60,
+        "$": 1.68,
+        "£": 1.68,
+        "₱": 125
+      },
+      "sc": 210,
+      "member": 24
+    },
+    "L4Dg3lINwoY": {
+      "cur": {
+        "NT$": 2829,
+        "¥": 189843,
+        "A$": 33.6,
+        "₩": 7168,
+        "HK$": 25,
+        "MYR": 16.8,
+        "SGD": 5.68
+      },
+      "sc": 218,
+      "member": 27
+    },
+    "6C4tB3GFAsw": {
+      "cur": {
+        "¥": 8080,
+        "₩": 6680,
+        "NT$": 168
+      },
+      "sc": 19,
+      "member": 12
+    },
+    "dMaxYLH0qKs": {
+      "cur": {
+        "¥": 227818,
+        "NT$": 5507,
+        "$": 2,
+        "₱": 125,
+        "₩": 117168,
+        "MYR": 76.8,
+        "HK$": 300,
+        "SGD": 5
+      },
+      "sc": 201,
+      "member": 26
+    },
+    "_UsRYiwJFK0": {
+      "cur": {
+        "¥": 459213,
+        "₩": 20900,
+        "NT$": 4878,
+        "HK$": 200,
+        "SGD": 20,
+        "MYR": 15,
+        "A$": 100
+      },
+      "sc": 347,
+      "member": 28
+    },
+    "8zaEl8ecnqA": {
+      "cur": {
+        "NT$": 6411,
+        "¥": 334582,
+        "$": 22,
+        "₩": 108000,
+        "HK$": 173,
+        "SEK": 53,
+        "£": 1.68
+      },
+      "sc": 258,
+      "member": 21
+    },
+    "aLlPsGcN9iM": {
+      "cur": {
+        "¥": 109182,
+        "NT$": 693,
+        "HK$": 275,
+        "₩": 5360,
+        "$": 4.99
+      },
+      "sc": 84,
+      "member": 5
+    },
+    "c_5KnYuygWo": {
+      "cur": {
+        "¥": 83817,
+        "HK$": 100,
+        "₩": 12208,
+        "NT$": 4345,
+        "$": 210,
+        "A$": 100,
+        "MYR": 3,
+        "₱": 125
+      },
+      "sc": 121,
+      "member": 13
+    },
+    "xJWHvsLVkq0": {
+      "member": 53
+    },
+    "ojOTU59KH04": {
+      "cur": {
+        "¥": 126316,
+        "NT$": 3819,
+        "₩": 28848,
+        "HK$": 63,
+        "MYR": 6,
+        "SGD": 5,
+        "₱": 50,
+        "A$": 100
+      },
+      "sc": 141,
+      "member": 18
+    },
+    "dhJEr9AJGH4": {
+      "cur": {
+        "NT$": 7728,
+        "¥": 276288,
+        "$": 30,
+        "₩": 7168,
+        "HK$": 1193,
+        "MYR": 16.8
+      },
+      "sc": 208,
+      "member": 34
+    },
+    "sLnmWhXBF4Y": {
+      "cur": {
+        "¥": 29838,
+        "₩": 17680,
+        "NT$": 675,
+        "₱": 500,
+        "A$": 7.83,
+        "MYR": 15
+      },
+      "sc": 74,
+      "member": 19
+    },
+    "5ptoqT59NhU": {
+      "cur": {
+        "¥": 123872,
+        "HK$": 58.6,
+        "NT$": 8698,
+        "A$": 16.8,
+        "₩": 118168,
+        "£": 1.68
+      },
+      "sc": 183,
+      "member": 29
+    },
+    "FAoyil7Le5o": {
+      "cur": {
+        "¥": 406131,
+        "NT$": 5449,
+        "$": 2,
+        "HK$": 148,
+        "₩": 32168,
+        "£": 1.68,
+        "A$": 100,
+        "MYR": 19.8
+      },
+      "sc": 333,
+      "member": 42
+    },
+    "ZJphNRVfoSY": {
+      "cur": {
+        "¥": 150837,
+        "HK$": 125,
+        "NT$": 1870,
+        "₩": 2168,
+        "₱": 50,
+        "$": 6.1
+      },
+      "sc": 134,
+      "member": 33
+    },
+    "551YakYSdaA": {
+      "cur": {
+        "¥": 16226,
+        "NT$": 183,
+        "HK$": 25
+      },
+      "sc": 37,
+      "member": 176
+    },
+    "ORUpQ-4hAsU": {
+      "cur": {
+        "¥": 265458,
+        "₩": 111680,
+        "HK$": 115,
+        "NT$": 1074,
+        "$": 5,
+        "MYR": 15
+      },
+      "sc": 282,
+      "member": 93
+    },
+    "oAIQ8SmbhLE": {
+      "cur": {
+        "¥": 7017,
+        "NT$": 351,
+        "$": 5,
+        "₩": 10000,
+        "MYR": 16.8
+      },
+      "sc": 22,
+      "member": 37
+    },
+    "v1Alo5GmUzo": {
+      "cur": {
+        "¥": 154296,
+        "HK$": 682.6,
+        "A$": 60,
+        "NT$": 6354,
+        "₩": 10000,
+        "MYR": 33.6,
+        "$": 5,
+        "ARS": 10
+      },
+      "sc": 185,
+      "member": 45
+    },
+    "h-tfrIg5ZJM": {
+      "cur": {
+        "NT$": 4932,
+        "¥": 207494,
+        "£": 1.68,
+        "₩": 152168,
+        "ARS": 60,
+        "A$": 100,
+        "HK$": 1110,
+        "MYR": 46.8,
+        "₱": 125
+      },
+      "sc": 233,
+      "member": 47
+    },
+    "JBSja1tVHKc": {
+      "cur": {
+        "¥": 151648,
+        "₩": 3848,
+        "$": 21,
+        "CLP": 2500,
+        "NT$": 2058,
+        "HK$": 5,
+        "€": 10,
+        "MYR": 16.8
+      },
+      "sc": 221,
+      "member": 28
+    },
+    "5YfKBB6Qh0Y": {
+      "member": 391
+    },
+    "v-bCLl7zR00": {
+      "cur": {
+        "¥": 170550,
+        "NT$": 2614,
+        "₩": 10360,
+        "MYR": 39.6,
+        "SGD": 20,
+        "$": 10,
+        "HK$": 25,
+        "₱": 500
+      },
+      "sc": 184,
+      "member": 39
+    },
+    "ju28024ozQM": {
+      "e": "http503",
+      "n": 0
+    },
+    "QCxe3uz0QXY": {
+      "cur": {
+        "¥": 24498,
+        "NT$": 585,
+        "€": 10,
+        "$": 20,
+        "A$": 10
+      },
+      "sc": 49
+    },
+    "yPANDMeNxCo": 0,
+    "y9Qfs-z8p8M": {
+      "cur": {
+        "¥": 142613,
+        "NT$": 640,
+        "£": 100,
+        "₩": 1680,
+        "A$": 100,
+        "$": 5,
+        "HK$": 50,
+        "€": 10
+      },
+      "sc": 144
+    },
+    "Uf9gW8hkJQ0": 0,
+    "HPHXqm6drJw": {
+      "cur": {
+        "¥": 216415,
+        "NT$": 820,
+        "₱": 400,
+        "MYR": 3,
+        "HK$": 25,
+        "A$": 10,
+        "₩": 5000
+      },
+      "sc": 250,
+      "member": 94
+    },
+    "5xMdk8bO8W0": {
+      "cur": {
+        "¥": 603913,
+        "HK$": 200,
+        "NT$": 11800,
+        "₩": 75720,
+        "₱": 375,
+        "£": 111.68,
+        "A$": 100,
+        "$": 16.8,
+        "MYR": 31.8
+      },
+      "sc": 347,
+      "member": 80
+    },
+    "ZdzpoYVr3vg": {
+      "cur": {
+        "NT$": 3635,
+        "¥": 16410,
+        "MYR": 20,
+        "HK$": 5.36,
+        "$": 25,
+        "ARS": 20,
+        "₩": 10000
+      },
+      "sc": 34
+    },
+    "E63ZietJs1I": {
+      "cur": {
+        "¥": 582024,
+        "₩": 50256,
+        "NT$": 3893,
+        "£": 12,
+        "HK$": 319.8,
+        "A$": 25,
+        "$": 5,
+        "SGD": 38.98,
+        "₱": 175,
+        "CA$": 5,
+        "€": 5,
+        "PLN": 10
+      },
+      "sc": 908
+    },
+    "79OkDyduYlg": {
+      "cur": {
+        "NT$": 2703,
+        "¥": 297640,
+        "₩": 129064,
+        "₱": 125,
+        "A$": 100,
+        "HK$": 50,
+        "MYR": 15,
+        "€": 5
+      },
+      "sc": 242
+    },
+    "NUJ3RgwiStU": {
+      "cur": {
+        "NT$": 333,
+        "¥": 32970,
+        "$": 2,
+        "₩": 13680
+      },
+      "sc": 49,
+      "member": 44
+    },
+    "aIz4UPRjIfQ": {
+      "cur": {
+        "NT$": 685,
+        "¥": 80830,
+        "₩": 4168,
+        "A$": 10,
+        "HK$": 5,
+        "$": 10
+      },
+      "sc": 104
+    },
+    "_7WYpgjIoxM": {
+      "cur": {
+        "NT$": 4356,
+        "¥": 313932,
+        "₩": 1680,
+        "HK$": 80,
+        "ARS": 20,
+        "$": 20,
+        "MYR": 315,
+        "€": 10,
+        "A$": 100
+      },
+      "sc": 220,
+      "member": 155
+    },
+    "5-XGvRdHuEU": {
+      "cur": {
+        "NT$": 9588,
+        "¥": 450132,
+        "$": 45,
+        "₩": 21528,
+        "HK$": 268,
+        "A$": 105,
+        "ARS": 50,
+        "MYR": 600
+      },
+      "sc": 355
+    },
+    "CRzUvrf800o": {
+      "cur": {
+        "¥": 103640,
+        "NT$": 925,
+        "$": 166.66,
+        "HK$": 75.36,
+        "CA$": 15,
+        "₩": 19000,
+        "₹": 100,
+        "£": 105
+      },
+      "sc": 140
+    },
+    "o4Di1THrkUg": {
+      "cur": {
+        "¥": 219712,
+        "HK$": 468,
+        "$": 26.8,
+        "NT$": 7054,
+        "₩": 9720,
+        "R$": 1.68,
+        "A$": 169.68,
+        "€": 1.68,
+        "NZ$": 1.68,
+        "MX$": 10,
+        "₱": 125
+      },
+      "sc": 375
+    },
+    "btPk1zlS3D4": {
+      "cur": {
+        "¥": 1127873,
+        "NT$": 14453,
+        "HK$": 4603,
+        "A$": 212,
+        "ARS": 110,
+        "£": 4.49,
+        "₩": 81860,
+        "SGD": 58.68,
+        "$": 87.36,
+        "MYR": 26.22,
+        "₱": 2568,
+        "RUB": 40
+      },
+      "sc": 651,
+      "member": 283
+    },
+    "QUZldaxrFkc": {
+      "cur": {
+        "¥": 88986,
+        "NT$": 175,
+        "₩": 1000,
+        "$": 5
+      },
+      "sc": 90
+    },
+    "xlx74QbhA_w": {
+      "cur": {
+        "¥": 203379,
+        "HK$": 355,
+        "NT$": 920,
+        "MYR": 18,
+        "$": 20,
+        "SGD": 2,
+        "₩": 5000,
+        "A$": 168
+      },
+      "sc": 229
+    },
+    "i0BRQqANVvk": 0,
+    "hMUs_6gpAIg": {
+      "cur": {
+        "¥": 233798,
+        "NT$": 5440,
+        "$": 75.99,
+        "₩": 25000,
+        "HK$": 93,
+        "₱": 225,
+        "£": 105,
+        "MYR": 19.9
+      },
+      "sc": 285
+    },
+    "28A4teOXAbQ": {
+      "cur": {
+        "¥": 88930,
+        "NT$": 180,
+        "HK$": 168,
+        "₩": 11680,
+        "NZ$": 2
+      },
+      "sc": 140,
+      "member": 45
+    },
+    "dNvFxRnrx_c": {
+      "cur": {
+        "¥": 890751,
+        "₩": 142464,
+        "NT$": 15920,
+        "A$": 125,
+        "$": 70,
+        "HK$": 1160.8,
+        "NZ$": 7,
+        "SGD": 34.98,
+        "RUB": 40,
+        "€": 20,
+        "₱": 899,
+        "PLN": 10,
+        "MYR": 315,
+        "CA$": 6.68,
+        "£": 5
+      },
+      "sc": 866
+    },
+    "PMfFu16sDmc": 0,
+    "8C79CbWXWXM": {
+      "cur": {
+        "¥": 254435,
+        "NT$": 1125,
+        "$": 33.99,
+        "£": 122,
+        "₩": 2000,
+        "HK$": 1107,
+        "CZK": 50,
+        "R$": 2,
+        "SGD": 5
+      },
+      "sc": 261
+    },
+    "ev-QzFckYO0": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "0QjfNNnmh3M": {
+      "cur": {
+        "¥": 394099,
+        "NT$": 10355,
+        "HK$": 639,
+        "₩": 22528,
+        "$": 42,
+        "€": 10,
+        "₱": 143,
+        "MYR": 36,
+        "A$": 20,
+        "SGD": 2,
+        "ARS": 200
+      },
+      "sc": 411
+    },
+    "LiG27c6Unr4": {
+      "cur": {
+        "¥": 151315,
+        "NT$": 2221,
+        "$": 100,
+        "₩": 4000,
+        "₱": 175,
+        "HK$": 176.68,
+        "MYR": 15
+      },
+      "sc": 203
+    },
+    "z32uvglYC8w": {
+      "e": "http503",
+      "n": 0
+    },
+    "3BAbtT8117U": 0,
+    "l-vHs4_2_gA": 0,
+    "8139KRsvPM8": {
+      "cur": {
+        "¥": 439284,
+        "$": 169.98,
+        "NT$": 5258,
+        "HK$": 1159.16,
+        "CA$": 25,
+        "₱": 1100,
+        "₩": 270800,
+        "SGD": 15,
+        "€": 10,
+        "PEN": 5,
+        "A$": 10,
+        "MYR": 21,
+        "RUB": 200,
+        "ARS": 110
+      },
+      "sc": 512
+    },
+    "bFEqWPaJL30": {
+      "cur": {
+        "¥": 345706,
+        "₩": 4000,
+        "NT$": 6074,
+        "HK$": 75,
+        "₱": 125,
+        "$": 32.36,
+        "A$": 205,
+        "SGD": 10
+      },
+      "sc": 428
+    },
+    "DIqimSV7COo": {
+      "cur": {
+        "¥": 385844,
+        "NT$": 2925,
+        "£": 2,
+        "₱": 600,
+        "SGD": 7,
+        "MYR": 81,
+        "₩": 44596,
+        "$": 27,
+        "HK$": 126,
+        "NZ$": 2,
+        "A$": 100
+      },
+      "sc": 415
+    },
+    "oZgGxYE6gSo": {
+      "cur": {
+        "¥": 419484,
+        "₩": 19168,
+        "NT$": 7370,
+        "£": 2,
+        "₱": 150,
+        "HK$": 283,
+        "MYR": 60,
+        "$": 12,
+        "SGD": 2,
+        "A$": 5
+      },
+      "sc": 470
+    },
+    "2IQx4l7WXD4": {
+      "cur": {
+        "¥": 329425,
+        "HK$": 333,
+        "NT$": 6865,
+        "$": 58.99,
+        "CA$": 30,
+        "€": 5.36,
+        "₩": 42168,
+        "R$": 2,
+        "CLP": 10000,
+        "A$": 5,
+        "₱": 300,
+        "MYR": 24,
+        "£": 25.36,
+        "PLN": 10,
+        "MX$": 10
+      },
+      "sc": 524
+    },
+    "4duMPSk0hRI": 0,
+    "i8XUHuDJxH4": {
+      "cur": {
+        "¥": 453773,
+        "NT$": 6967,
+        "SGD": 2,
+        "₱": 175,
+        "HK$": 1051,
+        "₩": 12000,
+        "£": 2,
+        "MYR": 60,
+        "A$": 173,
+        "$": 105,
+        "€": 15
+      },
+      "sc": 535
+    },
+    "hEr9VzbxaxY": 0,
+    "EYjRjK1oJcc": 0,
+    "4BIa5GOnKnA": 0,
+    "CxZ1Kduyx1M": {
+      "cur": {
+        "¥": 788497,
+        "SGD": 35,
+        "MYR": 171,
+        "NT$": 15548,
+        "£": 75,
+        "HK$": 785.18,
+        "$": 82,
+        "₩": 97143,
+        "RUB": 40,
+        "A$": 19.99,
+        "NZ$": 5,
+        "ARS": 50,
+        "₱": 275,
+        "CA$": 15,
+        "R$": 5,
+        "€": 2
+      },
+      "sc": 1030
+    },
+    "YNrvb99nECk": 0,
+    "tqfNjYE2UQk": {
+      "cur": {
+        "¥": 5273240,
+        "NT$": 76629,
+        "$": 369.09,
+        "₩": 729960,
+        "HK$": 6759.48,
+        "SGD": 100,
+        "MYR": 918.5,
+        "A$": 215,
+        "₱": 1300,
+        "£": 415,
+        "PLN": 70,
+        "€": 137,
+        "DKK": 50,
+        "ARS": 350,
+        "HUF": 1000,
+        "NZ$": 35,
+        "EGP": 50,
+        "R$": 7,
+        "RUB": 240
+      },
+      "sc": 4208
+    },
+    "S2OGhuDQKL8": 0,
+    "3yRLKr4Oy8Q": 0,
+    "JLsKkl8p3J8": 0,
+    "nsGxi_41AGA": 0,
+    "ZII3CmL7DAQ": 0,
+    "DN2gQkDWONA": 0,
+    "dSp2kJtJLxg": 0,
+    "YKtpT5IACxI": {
+      "cur": {
+        "¥": 657683,
+        "₩": 91508,
+        "NT$": 6889,
+        "HK$": 691,
+        "$": 55.36,
+        "SGD": 12,
+        "₱": 275,
+        "MYR": 66,
+        "NZ$": 2,
+        "€": 5,
+        "ARS": 20,
+        "A$": 107,
+        "£": 7
+      },
+      "sc": 897
+    },
+    "-LTfdOjVRMM": 0,
+    "w6iAx9Nkdqk": 0,
+    "6R9dv7BNGMQ": {
+      "cur": {
+        "¥": 1021137,
+        "NT$": 10281,
+        "A$": 168,
+        "£": 111.68,
+        "HK$": 976,
+        "₩": 192000,
+        "SGD": 2,
+        "₱": 168,
+        "MYR": 21
+      },
+      "sc": 464,
+      "member": 6416
     }
   }
 }
