@@ -7,22 +7,26 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-09-21T05:39:47.960Z",
+  "lastUpdated": "2026-09-21T05:47:20.863Z",
   "videoCount": 2398,
   "videos": [
+    {
+      "id": "sjzbg7oglCg",
+      "title": "【 ドラゴンクエスト ビルダーズ 】リムルダール編も面白すぎるぞ・・・【鷹嶺ルイ/ホロライブ】ネタバレあり",
+      "published": "2026-09-21T05:20:10Z",
+      "type": "stream",
+      "duration": 14820,
+      "status": "past",
+      "scheduledStart": "2026-09-21T01:00:00Z"
+    },
     {
       "id": "CdlaEz76_MU",
       "title": "【 神戸新聞杯 】2日連続的中いくぞ!!!!!!!!!!【鷹嶺ルイ/ホロライブ】",
       "published": "2026-09-20T19:20:09+00:00",
       "type": "stream",
-      "duration": 0
-    },
-    {
-      "id": "sjzbg7oglCg",
-      "title": "【 ドラゴンクエスト ビルダーズ 】リムルダール編も面白すぎるぞ・・・【鷹嶺ルイ/ホロライブ】ネタバレあり",
-      "published": "2026-09-20T19:17:15+00:00",
-      "type": "stream",
-      "duration": 14820
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-21T05:30:00Z"
     },
     {
       "id": "HWFQEW9W5A0",
