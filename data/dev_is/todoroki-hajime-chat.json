@@ -1,7 +1,7 @@
 {
   "channelId": "UC1iA6_NT4mtAcIII6ygrvCw",
   "channelName": "Todoroki Hajime",
-  "lastUpdated": "2026-09-21T16:05:49.517Z",
+  "lastUpdated": "2026-09-21T17:04:44.378Z",
   "streams": {
     "GoAvc5jXoX8": {
       "cur": {
@@ -547,7 +547,7 @@
     },
     "N1kL0qf_K9A": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "gjbj0gANTcs": {
       "cur": {
@@ -1465,7 +1465,7 @@
     },
     "gEvluCmUyVE": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "KvLVovDf88Y": {
       "cur": {
@@ -1883,7 +1883,7 @@
     },
     "0dxgFMNnlUc": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "-yfM4-bPgX0": {
       "cur": {
@@ -3964,7 +3964,7 @@
     },
     "mhdK-lxUu7w": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "IVukJoRFYic": {
       "cur": {
@@ -4220,7 +4220,7 @@
     },
     "_40VsbvFKuk": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "BNvLesIZb38": {
       "cur": {
@@ -4835,7 +4835,7 @@
     },
     "gbSh220lBag": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "uXBKVQ3t4pI": {
       "cur": {
@@ -5437,7 +5437,7 @@
     },
     "59BeLZnQw1M": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "BqrDgTSq0Oc": {
       "member": 9,
@@ -5780,7 +5780,7 @@
     },
     "4vmjQMq7YMo": {
       "e": "noreplay",
-      "n": 31
+      "n": 32
     },
     "I7RoZqCV_4c": {
       "cur": {
@@ -6229,8 +6229,15 @@
       "n": 4
     },
     "lEaa6y_GhNA": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 23940
+      },
+      "sc": 9,
+      "member": 4,
+      "milestone": 3,
+      "gift": 14,
+      "recv": 64,
+      "sent": 64
     }
   }
 }
