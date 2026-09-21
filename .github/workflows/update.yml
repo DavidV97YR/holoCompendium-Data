@@ -71,8 +71,20 @@ jobs:
           OUT: ./popular.json
         run: node scripts/build-popular.js
 
-      # popular.json is the only one of these a browser fetches, and it is read
-      # whole rather than as byte ranges — so a fixed name is safe: a visitor
+      # The /rank page's six leaderboards. Same reasoning as popular.json, one
+      # step further: the all-time boards are aggregates over every channel
+      # JSON (~43 MB) and every chat JSON (~40 MB), so a browser cannot compute
+      # them at all. This reads data/ directly rather than the catalogue,
+      # because the boards link to "/<branch>/<slug>" and the catalogue is
+      # keyed by channel id.
+      - name: Build ranks.json
+        env:
+          DATA_DIR: ./data
+          OUT:      ./ranks.json
+        run: node scripts/build-ranks.js
+
+      # popular.json and ranks.json are the ones a browser fetches, and both are
+      # read whole rather than as byte ranges — so a fixed name is safe: a visitor
       # always gets one internally consistent version, at worst a few minutes
       # old. That is exactly what was NOT true of the catalogue when the page
       # range-read it, which is what produced stale and malformed reads.
@@ -97,8 +109,10 @@ jobs:
           BUCKET="s3://holocompendium-db"
           echo "data.sqlite  $(stat -c%s ./data.sqlite) bytes"
           echo "popular.json $(stat -c%s ./popular.json) bytes"
+          echo "ranks.json   $(stat -c%s ./ranks.json) bytes"
 
           aws s3 cp ./popular.json "$BUCKET/popular.json" --endpoint-url "$EP" --content-type application/json --cache-control "public, max-age=300"
+          aws s3 cp ./ranks.json "$BUCKET/ranks.json" --endpoint-url "$EP" --content-type application/json --cache-control "public, max-age=300"
           aws s3 cp ./data.sqlite "$BUCKET/data.sqlite" --endpoint-url "$EP" --content-type application/vnd.sqlite3 --cache-control "public, max-age=300"
 
       - name: Commit updated data
