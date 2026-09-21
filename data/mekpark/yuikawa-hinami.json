@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-21T18:11:21.433Z",
+  "lastUpdated": "2026-09-21T18:28:08.440Z",
   "videoCount": 242,
   "videos": [
     {
       "id": "nG6WKzqosk4",
       "title": "【ASMR】新人スパニスト、初出勤です!はじめてのお客様はあ・な・た💗【#ひなみ通信】",
-      "published": "2026-09-21T16:49:08+00:00",
+      "published": "2026-09-21T16:49:08Z",
       "type": "stream",
       "duration": 4207,
       "status": "past",
-      "scheduledStart": "2026-09-21T14:00:00.000Z"
+      "scheduledStart": "2026-09-21T14:00:00Z"
     },
     {
       "id": "EV_kYVTw9g8",
@@ -26,21 +26,24 @@
       "type": "stream",
       "duration": 20518,
       "status": "past",
-      "scheduledStart": "2026-09-21T03:00:00.000Z"
+      "scheduledStart": "2026-09-21T03:00:00Z"
     },
     {
       "id": "PJtPYl1W-Ng",
       "title": "りららがストゼロに辿り着いた理由😰 #ACHRORA #琉海垣りらら #mekpark #切り抜き #shorts #きりとりらら",
       "published": "2026-09-21T09:00:03+00:00",
       "type": "short",
-      "duration": 20
+      "duration": 20,
+      "status": "past"
     },
     {
       "id": "hlf0r1QvSlI",
       "title": "【SILENT HILL: Townfall】#1※ネタバレ注意※  待望の最新作キター!噂によるとマジで怖いらしいです・・・🤗 #墨汐さやな #さやな時間",
       "published": "2026-09-20T22:45:04+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-22T11:00:00Z"
     },
     {
       "id": "nNNfyRzlRNY",
@@ -58,7 +61,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-22T03:00:00.000Z"
+      "scheduledStart": "2026-09-22T03:00:00Z"
     },
     {
       "id": "AhmgU-K_dzM",

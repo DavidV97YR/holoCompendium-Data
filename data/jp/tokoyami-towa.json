@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FF7U-8fSNFmZalS5rOz0xblWY-wNC_IxZZ4AG_BctbqptVxfIAhNrn-6E3MYNCH33EgcASGJ=s0"
   },
-  "lastUpdated": "2026-09-21T13:31:06.455Z",
+  "lastUpdated": "2026-09-21T17:38:22.936Z",
   "videoCount": 1900,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【 BOMBANANA! 】みえない!聞こえない!話せない!で連携取れるの❔️🐒【常闇トワ/ホロライブ】",
       "published": "2026-09-21T11:46:54+00:00",
       "type": "stream",
-      "duration": 5903
+      "duration": 5903,
+      "status": "past",
+      "scheduledStart": "2026-09-21T10:00:00Z"
     },
     {
       "id": "cSaJ3UZCgn8",
@@ -24,14 +26,15 @@
       "type": "stream",
       "duration": 8260,
       "status": "past",
-      "scheduledStart": "2026-09-21T06:00:00.000Z"
+      "scheduledStart": "2026-09-21T06:00:00Z"
     },
     {
       "id": "qegRYnHiwr0",
       "title": "貸し1って言っただけなのに  #vtuber #常闇トワ #ホロライブ  #shorts",
       "published": "2026-09-21T05:36:38+00:00",
       "type": "short",
-      "duration": 58
+      "duration": 58,
+      "status": "past"
     },
     {
       "id": "8tKGB5Q9KHk",

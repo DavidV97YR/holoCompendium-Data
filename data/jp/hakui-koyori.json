@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
     "bannerUrl": "https://yt3.googleusercontent.com/vNCRYP8INcAEM3Z85s1UmVMaZ1lvD0FF1ID0sC61bkCPhLqB8zv9d3-UysiE3UcgMMLEk2qGEXU=s0"
   },
-  "lastUpdated": "2026-09-21T11:42:38.650Z",
+  "lastUpdated": "2026-09-21T17:53:00.451Z",
   "videoCount": 3475,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目秋大会!全国制覇目指して!!!🏆✨【博衣こより/ホロライブ】",
       "published": "2026-09-21T09:24:03+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-22T03:00:00Z"
     },
     {
       "id": "7C7i5XCvhAo",
@@ -24,7 +26,7 @@
       "type": "stream",
       "duration": 22031,
       "status": "past",
-      "scheduledStart": "2026-09-21T02:00:00.000Z"
+      "scheduledStart": "2026-09-21T02:00:00Z"
     },
     {
       "id": "4BVf_1YzAFM",
@@ -33,7 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-21T22:00:00.000Z"
+      "scheduledStart": "2026-09-21T22:00:00Z"
     },
     {
       "id": "F3Hi50DRw64",
@@ -172,7 +174,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-01T15:00:00.000Z"
+      "scheduledStart": "2026-12-01T15:00:00Z"
     },
     {
       "id": "eJB1Je3JQbY",
@@ -4813,7 +4815,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-14T15:00:00.000Z"
+      "scheduledStart": "2027-03-14T15:00:00Z"
     },
     {
       "id": "KM2sym0uBtk",

@@ -7,31 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/IwEr_84NWbwSIRj6ZG3pt0yBieCqPcUwG978KkMw1HiVtorKvHhX3ZaLqOndMAfSU8S9aJw",
     "bannerUrl": "https://yt3.googleusercontent.com/1bjfFf_puKrXk8nnfnnjWmcEsgcAQd4s7ogcpdQ8TVMmk5dRLlJtJNfeK2U1uw8hZHGtphvMVg=s0"
   },
-  "lastUpdated": "2026-09-21T18:06:29.639Z",
-  "videoCount": 1129,
+  "lastUpdated": "2026-09-21T18:22:30.173Z",
+  "videoCount": 1128,
   "videos": [
-    {
-      "id": "mv7JwusdSH4",
-      "title": "【バイオハザード5】完全初見でいくバイオ5ラストまで! 【轟はじめ/ReGLOSS】※配信内容にネタバレを含みます",
-      "published": "2026-09-21T15:56:59.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-22T10:00:00.000Z"
-    },
     {
       "id": "lEaa6y_GhNA",
       "title": "【バイオハザード5】完全初見でいくバイオ5おおおお 【轟はじめ/ReGLOSS】※配信内容にネタバレを含みます",
-      "published": "2026-09-21T15:54:40+00:00",
+      "published": "2026-09-21T15:54:40Z",
       "type": "stream",
-      "duration": 20163
+      "duration": 20163,
+      "status": "past",
+      "scheduledStart": "2026-09-21T10:00:00Z"
     },
     {
       "id": "2nytRZFNJdo",
       "title": "東京真中-フォーモ/振付師が踊ってみた【轟はじめ】#shorts #dance",
       "published": "2026-09-21T08:00:33+00:00",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "VXodVUMHhiY",

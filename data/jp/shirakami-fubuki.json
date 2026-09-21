@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
     "bannerUrl": "https://yt3.googleusercontent.com/sZR7H8ye0MmNeLXg70SypSOH45r_OAgA-IbJrqKRmwk4T1CkWAh5g0n6kGv5t8o29Swcc1DiUg=s0"
   },
-  "lastUpdated": "2026-09-21T17:12:40.417Z",
+  "lastUpdated": "2026-09-21T17:15:23.394Z",
   "videoCount": 3279,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【BOMBANANA!】見猿聞か猿言わ猿な鷹と狐と猫【ホロライブ/白上フブキ】",
       "published": "2026-09-21T14:00:24+00:00",
       "type": "stream",
-      "duration": 5127
+      "duration": 5127,
+      "status": "past",
+      "scheduledStart": "2026-09-21T12:30:00Z"
     },
     {
       "id": "15n8WSrs5MU",
@@ -5813,7 +5815,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-30T15:00:00.000Z"
+      "scheduledStart": "2027-08-30T15:00:00Z"
     },
     {
       "id": "7Vo37040OMw",
@@ -15856,7 +15858,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-08-30T15:00:00.000Z"
+      "scheduledStart": "2027-08-30T15:00:00Z"
     },
     {
       "id": "tigFZwD3bRc",
