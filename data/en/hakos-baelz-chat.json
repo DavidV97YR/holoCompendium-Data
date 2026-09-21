@@ -1,7 +1,7 @@
 {
   "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
   "channelName": "Hakos Baelz",
-  "lastUpdated": "2026-09-21T06:04:26.706Z",
+  "lastUpdated": "2026-09-21T07:05:03.905Z",
   "streams": {
     "UbE1V8D_lWc": {
       "cur": {
@@ -372,7 +372,7 @@
     },
     "z3Ofu6a0GNY": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "vdxLCfVroJ0": {
       "cur": {
@@ -2718,7 +2718,7 @@
     },
     "Ytw11GLl59s": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "0X4zpKcobB0": {
       "cur": {
@@ -3498,7 +3498,7 @@
     },
     "Osq_NSB3Fio": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "y8lD-zUPEds": {
       "cur": {
@@ -4872,7 +4872,7 @@
     },
     "RhN9-mCDUoU": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "lFGUfhfSeVM": {
       "cur": {
@@ -4919,7 +4919,7 @@
     },
     "m9gxgG9baUY": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "oBrYqMJHlPc": {
       "cur": {
@@ -5202,7 +5202,7 @@
     },
     "oWx_6pcFx8U": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "JYI-0hCcOmw": {
       "cur": {
@@ -13626,7 +13626,7 @@
     },
     "SOQxCPxpZH8": {
       "e": "noreplay",
-      "n": 19
+      "n": 20
     },
     "r39d-US7h4w": {
       "cur": {
@@ -18179,6 +18179,24 @@
       "sticker": 1,
       "member": 126
     },
-    "pLI1zPQwpo8": 0
+    "pLI1zPQwpo8": 0,
+    "SfcOKSyA_B4": {
+      "cur": {
+        "$": 167.99,
+        "¥": 100,
+        "CA$": 10,
+        "₩": 17000,
+        "HK$": 50,
+        "MX$": 50,
+        "€": 5,
+        "£": 50
+      },
+      "sc": 27,
+      "member": 3,
+      "milestone": 20,
+      "gift": 6,
+      "recv": 23,
+      "sent": 23
+    }
   }
 }
