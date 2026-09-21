@@ -7,9 +7,16 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-21T06:19:57.263Z",
-  "videoCount": 1137,
+  "lastUpdated": "2026-09-21T08:08:46.678Z",
+  "videoCount": 1138,
   "videos": [
+    {
+      "id": "iTiNbWJnsg8",
+      "title": "【みにみや】最近の不満／モモンガセリフ風 #hololive #vtuber",
+      "published": "2026-09-21T03:00:23+00:00",
+      "type": "short",
+      "duration": 0
+    },
     {
       "id": "54UO96Xrmt4",
       "title": "【Minecraft ハードコア】仲良く平和なday1【水宮枢/ホロライブ】",
@@ -17,7 +24,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-21T13:00:00Z"
+      "scheduledStart": "2026-09-21T13:00:00.000Z"
     },
     {
       "id": "40O-mkKBbyo",
@@ -1664,7 +1671,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00Z"
+      "scheduledStart": "2028-06-30T14:30:00.000Z"
     },
     {
       "id": "bzecknsOFZI",

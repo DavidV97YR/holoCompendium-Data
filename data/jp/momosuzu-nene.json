@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-09-21T05:41:55.255Z",
-  "videoCount": 1404,
+  "lastUpdated": "2026-09-21T07:36:23.468Z",
+  "videoCount": 1405,
   "videos": [
+    {
+      "id": "wOhgxDENyow",
+      "title": "MORESTARのゆなさんとめろぞーま一緒に踊ってみた!【 桃鈴ねね / hololive 】#short #めろぞーま",
+      "published": "2026-09-21T03:00:20.000Z",
+      "type": "short",
+      "duration": 31,
+      "status": "past"
+    },
     {
       "id": "u8dv7AnXNXc",
       "title": "【#ねぽっくす あと7日】ねねルイってみんなどんな印象?【 桃鈴ねね / hololive 】#shorts",
@@ -5522,7 +5530,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z"
+      "scheduledStart": "2024-07-06T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "HDcWxGpE2Aw",
