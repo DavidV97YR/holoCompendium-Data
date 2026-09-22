@@ -7,17 +7,24 @@
     "avatarUrl": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0"
   },
-  "lastUpdated": "2026-09-22T18:18:04.588Z",
-  "videoCount": 461,
+  "lastUpdated": "2026-09-22T20:02:56.655Z",
+  "videoCount": 462,
   "videos": [
+    {
+      "id": "-keDano429U",
+      "title": "【MEMBERS】yap yap yap yap sign yap yap yap sign yap sign yap yap sign",
+      "published": "2026-09-22T19:07:04+00:00",
+      "type": "member",
+      "duration": 0
+    },
     {
       "id": "_EXIVk54450",
       "title": "EXPLAINING THE ENTIRETY OF STRANGER THINGS FROM MEMORY",
-      "published": "2026-09-22T13:18:09.000Z",
+      "published": "2026-09-22T18:50:59+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-22T17:00:00Z"
+      "duration": 5967,
+      "status": "past",
+      "scheduledStart": "2026-09-22T17:00:00.000Z"
     },
     {
       "id": "isQwpx0DhVw",
@@ -2566,7 +2573,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-11T22:00:00Z"
+      "scheduledStart": "2026-11-11T22:00:00.000Z"
     },
     {
       "id": "elznIfr7GhU",
