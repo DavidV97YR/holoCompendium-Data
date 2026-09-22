@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-22T16:08:01.700Z",
+  "lastUpdated": "2026-09-22T18:27:27.740Z",
   "videoCount": 246,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 8278,
       "status": "past",
-      "scheduledStart": "2026-09-22T11:00:00.000Z"
+      "scheduledStart": "2026-09-22T11:00:00Z"
     },
     {
       "id": "_SPW2mLPXGs",
@@ -26,21 +26,24 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-23T03:00:00.000Z"
+      "scheduledStart": "2026-09-23T03:00:00Z"
     },
     {
       "id": "iiZmPkGkobs",
       "title": "【間に合わない!?】新ユニットの皆さんがまもなく初配信!一緒に見たいので力を貸してください!!!  #ACHRORA  #ACHRORAコラボ",
       "published": "2026-09-22T11:25:02+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-23T09:00:00Z"
     },
     {
       "id": "mrt_mumBKQw",
       "title": "アンジャッシュするさやな🖤とミラ🩹 #ACHRORA #墨汐さやな #UNITB #玲銘ミラ #mekpark #shorts #切り抜き #さやなカット",
       "published": "2026-09-22T09:00:23+00:00",
       "type": "short",
-      "duration": 36
+      "duration": 36,
+      "status": "past"
     },
     {
       "id": "esGk946hF-Q",
@@ -56,7 +59,9 @@
       "title": "【ポケモンサファイア #5】岩ポケ縛り!親孝行より岩孝行😁‼️トウカジムの父に勝つ👨🪨🪨🪨#琉海垣りらら #りららだいびんぐ",
       "published": "2026-09-22T00:46:32+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-23T10:00:00Z"
     },
     {
       "id": "nG6WKzqosk4",

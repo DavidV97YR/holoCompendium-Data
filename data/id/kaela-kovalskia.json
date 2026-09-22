@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
     "bannerUrl": "https://yt3.googleusercontent.com/JhknNUVHVa8KZ9zxZ0MGMi3pV3BevLvL1TQNVUCZU9MlKLnH20rU1-ZF_zXCRiuP29ye3U24d5w=s0"
   },
-  "lastUpdated": "2026-09-22T15:50:24.834Z",
+  "lastUpdated": "2026-09-22T18:04:01.273Z",
   "videoCount": 1746,
   "videos": [
+    {
+      "id": "bQIjqb2yzMk",
+      "title": "【Human Fall Flat】how to escape【SMITTEN】",
+      "published": "2026-09-22T18:02:46Z",
+      "type": "stream",
+      "duration": 13842,
+      "status": "past",
+      "scheduledStart": "2026-09-22T14:00:00Z"
+    },
     {
       "id": "AIM9yItgreA",
       "title": "【Suba Pogo】so much for a peaceful life",
@@ -18,15 +27,6 @@
       "duration": 17614,
       "status": "past",
       "scheduledStart": "2026-09-21T14:05:00Z"
-    },
-    {
-      "id": "bQIjqb2yzMk",
-      "title": "【Human Fall Flat】how to escape【SMITTEN】",
-      "published": "2026-09-21T08:37:31.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-22T14:00:00.000Z"
     },
     {
       "id": "1Tyituaop-c",
@@ -13522,7 +13522,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-03-25T23:09:00.000Z"
+      "scheduledStart": "2028-03-25T23:09:00Z"
     },
     {
       "id": "cIpAXFkE8gk",
