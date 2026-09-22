@@ -1,7 +1,7 @@
 {
   "channelId": "UCWQtYtq9EOB4-I5P-3fh8lA",
   "channelName": "Otonose Kanade",
-  "lastUpdated": "2026-09-21T18:02:56.456Z",
+  "lastUpdated": "2026-09-22T13:03:41.942Z",
   "streams": {
     "IHbC4UdyW6s": {
       "cur": {
@@ -7932,6 +7932,22 @@
       "gift": 10,
       "recv": 103,
       "sent": 104
+    },
+    "s5qLT2GPTU8": {
+      "cur": {
+        "¥": 51600,
+        "$": 5,
+        "NT$": 1800,
+        "₫": 10000,
+        "₩": 12000,
+        "SGD": 5
+      },
+      "sc": 18,
+      "member": 3,
+      "milestone": 12,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     }
   }
 }
