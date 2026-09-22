@@ -1,7 +1,7 @@
 {
   "channelId": "UC8rcEBzJSleTkf_-agPM20g",
   "channelName": "IRyS",
-  "lastUpdated": "2026-09-22T14:01:44.229Z",
+  "lastUpdated": "2026-09-22T15:04:40.636Z",
   "streams": {
     "j81SvlkF6jg": {
       "cur": {
@@ -14508,8 +14508,30 @@
       "sent": 1
     },
     "XwymRrdMVwY": {
-      "e": "http503",
-      "n": 1
+      "cur": {
+        "$": 475.93,
+        "HK$": 350,
+        "MX$": 350,
+        "¥": 3000,
+        "CA$": 118.99,
+        "€": 92,
+        "SGD": 206.98,
+        "THB": 200,
+        "₫": 100000,
+        "₩": 150000,
+        "A$": 20,
+        "₱": 375,
+        "IDR": 100000,
+        "NT$": 525,
+        "MYR": 30,
+        "£": 10
+      },
+      "sc": 81,
+      "member": 3,
+      "milestone": 29,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }
