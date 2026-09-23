@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-09-22T21:07:18.512Z",
+  "lastUpdated": "2026-09-23T05:08:11.271Z",
   "videoCount": 2369,
   "videos": [
     {
@@ -17,14 +17,16 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-23T13:00:00.000Z"
+      "scheduledStart": "2026-09-23T13:00:00Z"
     },
     {
       "id": "7wi3P8vrhU4",
       "title": "【 はいしんよてち! 】【ホロライブ/さくらみこ】",
       "published": "2026-09-22T19:04:09+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-23T11:00:00Z"
     },
     {
       "id": "4bdwabptqqI",
@@ -17871,7 +17873,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-03-05T14:55:00.000Z"
+      "scheduledStart": "2027-03-05T14:55:00Z"
     },
     {
       "id": "abuyCDr3snU",
