@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-09-23T08:09:55.128Z",
+  "lastUpdated": "2026-09-23T10:10:29.935Z",
   "videoCount": 155,
   "videos": [
+    {
+      "id": "_aKp5h6EH0A",
+      "title": "【スプラ3】ガチマッチいくぞ！！【 #UNIT_B / #玲銘ミラ】",
+      "published": "2026-09-23T09:11:20+00:00",
+      "type": "stream",
+      "duration": 14223,
+      "status": "past",
+      "scheduledStart": "2026-09-23T05:00:00.000Z"
+    },
     {
       "id": "nbdgsCvFgTA",
       "title": "【今日でクリア】最恐ホラーにギャルが挑戦！SILENT HILL f #03 ⚠️ネタバレ有⚠️【 #UNIT_B / #宵凪ネオン】",
@@ -43,7 +52,7 @@
       "published": "2026-09-21T11:21:31.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-23T09:00:00.000Z"
     },
     {
@@ -99,15 +108,6 @@
       "duration": 11158,
       "status": "past",
       "scheduledStart": "2026-09-18T11:00:00Z"
-    },
-    {
-      "id": "_aKp5h6EH0A",
-      "title": "【スプラ3】ガチマッチいくぞ!!【 #UNIT_B / #玲銘ミラ】",
-      "published": "2026-09-18T09:55:20.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-23T05:00:00.000Z"
     },
     {
       "id": "8WCpRUgv7w8",
@@ -446,7 +446,7 @@
       "title": "【メン限】おやすみ前にお話ししよ!【#UNIT_B / #玲銘ミラ】",
       "published": "2026-08-24T09:44:10+00:00",
       "type": "member",
-      "duration": 8041,
+      "duration": 8035,
       "status": "past",
       "scheduledStart": "2026-08-24T13:00:00Z"
     },
