@@ -1,7 +1,7 @@
 {
   "channelId": "UChpRPsAeSZn5DistGacR3iA",
   "channelName": "Yuikawa Hinami",
-  "lastUpdated": "2026-09-23T14:02:31.861Z",
+  "lastUpdated": "2026-09-23T19:04:36.917Z",
   "streams": {
     "4YgKctWlM9o": {
       "cur": {
@@ -1118,6 +1118,16 @@
       "gift": 1,
       "recv": 20,
       "sent": 20
+    },
+    "3gXZN6LQiOM": {
+      "cur": {
+        "¥": 800
+      },
+      "sc": 1,
+      "member": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }

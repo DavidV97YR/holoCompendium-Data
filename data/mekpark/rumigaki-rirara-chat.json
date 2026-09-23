@@ -1,7 +1,7 @@
 {
   "channelId": "UChpRPsAeSZn5DistGacR3iA",
   "channelName": "Rumigaki Rirara",
-  "lastUpdated": "2026-09-23T14:02:15.255Z",
+  "lastUpdated": "2026-09-23T19:04:01.897Z",
   "streams": {
     "4YgKctWlM9o": {
       "cur": {
@@ -1118,6 +1118,10 @@
       "gift": 1,
       "recv": 20,
       "sent": 20
+    },
+    "3gXZN6LQiOM": {
+      "e": "http500",
+      "n": 0
     }
   }
 }
