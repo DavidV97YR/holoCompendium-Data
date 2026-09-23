@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F6JBwH9DTYVbtij80QQ7sisiFWLOBv1MdNopYjU2CrcVSnjXU0ZDLU0XiP6G3LwSyX-B_PZ1-5o",
     "bannerUrl": "https://yt3.googleusercontent.com/DO5TRHjj5kHtMfabJyK4aYH7SYLu38lxttxADSuJNND4w-iJf9e2JYWuTDNzoGUVk_4QiuZJ=s0"
   },
-  "lastUpdated": "2026-09-23T14:03:21.484Z",
+  "lastUpdated": "2026-09-23T18:16:48.484Z",
   "videoCount": 990,
   "videos": [
     {
@@ -15,14 +15,17 @@
       "title": "【 歌枠 】どうやらシルバーウィーク最後の日だって?【音乃瀬奏】#ReGLOSS",
       "published": "2026-09-23T12:06:05+00:00",
       "type": "stream",
-      "duration": 3687
+      "duration": 3687,
+      "status": "past",
+      "scheduledStart": "2026-09-23T11:00:00Z"
     },
     {
       "id": "MC0vnm2gI1A",
       "title": "【 全部俺 】 『You & 合図』リレーダンスで踊ってみた!【 音乃瀬奏 】#shorts #hololive #dance",
       "published": "2026-09-23T09:49:37+00:00",
       "type": "short",
-      "duration": 34
+      "duration": 34,
+      "status": "past"
     },
     {
       "id": "FwMiFQjLbcA",
@@ -8617,7 +8620,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-09-09T15:00:00.000Z"
+      "scheduledStart": "2028-09-09T15:00:00Z"
     },
     {
       "id": "eytPidhJ6cI",

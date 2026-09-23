@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-09-23T15:39:00.021Z",
+  "lastUpdated": "2026-09-23T17:48:32.772Z",
   "videoCount": 2404,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 6952,
       "status": "past",
-      "scheduledStart": "2026-09-23T13:00:00.000Z"
+      "scheduledStart": "2026-09-23T13:00:00Z"
     },
     {
       "id": "_teljPCxeFM",
@@ -26,14 +26,15 @@
       "type": "stream",
       "duration": 15971,
       "status": "past",
-      "scheduledStart": "2026-09-23T05:30:00.000Z"
+      "scheduledStart": "2026-09-23T05:30:00Z"
     },
     {
       "id": "Lt--mBcR50g",
       "title": "大切な後輩 #shorts #hololive #ホロライブ切り抜き",
       "published": "2026-09-23T03:00:28+00:00",
       "type": "short",
-      "duration": 57
+      "duration": 57,
+      "status": "past"
     },
     {
       "id": "XKYx7wJp1sE",

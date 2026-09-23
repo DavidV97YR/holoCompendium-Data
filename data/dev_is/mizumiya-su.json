@@ -7,17 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-23T18:08:38.965Z",
+  "lastUpdated": "2026-09-23T18:22:01.111Z",
   "videoCount": 1144,
   "videos": [
     {
       "id": "Xbz1v_kZ4dQ",
       "title": "【Minecraft】#ミリキラハードコア ネザー行くぞ day3 【水宮枢/ホロライブ】",
-      "published": "2026-09-23T16:12:01+00:00",
+      "published": "2026-09-23T16:12:01Z",
       "type": "stream",
       "duration": 20881,
       "status": "past",
-      "scheduledStart": "2026-09-23T10:00:00.000Z"
+      "scheduledStart": "2026-09-23T10:00:00Z"
     },
     {
       "id": "R9q50emj0To",
@@ -25,7 +25,8 @@
       "published": "2026-09-23T09:21:00.000Z",
       "type": "member",
       "duration": 992,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-09-23T09:20:00Z"
     },
     {
       "id": "RyvE88bXlf8",
@@ -51,7 +52,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-25T09:50:00.000Z"
+      "scheduledStart": "2026-09-25T09:50:00Z"
     },
     {
       "id": "zzP8_t-R1-s",
@@ -1723,7 +1724,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2028-06-30T14:30:00.000Z"
+      "scheduledStart": "2028-06-30T14:30:00Z"
     },
     {
       "id": "bzecknsOFZI",
