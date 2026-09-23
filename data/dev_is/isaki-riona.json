@@ -7,16 +7,25 @@
     "avatarUrl": "https://yt3.ggpht.com/SVUeFR_FT5vqSsETqWnu5UVGE5gAdeCoJUJT93aYnX8XF_4uhgM97zG57m3BkddT05WamMnIBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FYGhzbQQR_hwZqW1HrCv4k-QjReiIAaucgeHJkwEyxmiQg5G_OcBFX6zk3nxoKh4-mlSk5GVrg=s0"
   },
-  "lastUpdated": "2026-09-23T14:06:27.991Z",
-  "videoCount": 903,
+  "lastUpdated": "2026-09-23T16:05:50.856Z",
+  "videoCount": 904,
   "videos": [
+    {
+      "id": "tD4clXlBYGQ",
+      "title": "【定期配信#44】木曜のお昼の12時はリオナとランチ❤【ホロライブ  響咲リオナ】#リオナとランチ",
+      "published": "2026-09-23T15:41:25.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-24T03:00:00.000Z"
+    },
     {
       "id": "Hf1TeFgu3YY",
       "title": "【 7Days to Die 】番外編きちゃああ🔥まだまだゾンビやるぞおお🔥✨ 【ホロライブ FLOW GLOW 響咲リオナ】",
-      "published": "2026-09-23T08:15:32.000Z",
+      "published": "2026-09-23T15:31:38+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 8620,
+      "status": "past",
       "scheduledStart": "2026-09-23T13:00:00.000Z"
     },
     {
