@@ -7,9 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-09-24T06:23:56.207Z",
-  "videoCount": 1212,
+  "lastUpdated": "2026-09-24T08:10:22.447Z",
+  "videoCount": 1213,
   "videos": [
+    {
+      "id": "Grg8l8bDXXs",
+      "title": "初恋サイダー 推しカメ",
+      "published": "2026-09-24T08:00:13.000Z",
+      "type": "short",
+      "duration": 47,
+      "status": "past"
+    },
     {
       "id": "uQUHf8K8RJw",
       "title": "【配信予定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
@@ -17,7 +25,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-24T13:00:00Z"
+      "scheduledStart": "2026-09-24T13:00:00.000Z"
     },
     {
       "id": "D_tBYkVrwu4",
@@ -59,7 +67,7 @@
       "title": "【 日本一周漢字の旅 】FGの頭脳担当!お勉強できるもーん!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
       "published": "2026-09-22T11:14:56+00:00",
       "type": "stream",
-      "duration": 7628,
+      "duration": 7639,
       "status": "past",
       "scheduledStart": "2026-09-22T09:00:00Z"
     },
@@ -9964,7 +9972,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00Z"
+      "scheduledStart": "2027-12-31T14:45:00.000Z"
     },
     {
       "id": "SrH6XQ8H9oo",
