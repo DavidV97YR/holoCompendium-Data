@@ -7,18 +7,26 @@
     "avatarUrl": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
     "bannerUrl": "https://yt3.googleusercontent.com/2u7HA75WUEX9ph46VUm2_p9Q68vS5VWU5_-39fMAyoJvVDAbUEn_MCrMtXrnHUYOPg4SYS49=s0"
   },
-  "lastUpdated": "2026-09-24T15:59:09.069Z",
-  "videoCount": 1357,
+  "lastUpdated": "2026-09-24T17:59:05.391Z",
+  "videoCount": 1358,
   "videos": [
+    {
+      "id": "rV7esp4Zcak",
+      "title": "≪#Baelz1stConcert≫ SPECIAL 3D STREAM FOR 「REGALIA」・続報配信 !",
+      "published": "2026-09-24T16:03:15.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-28T11:00:00.000Z"
+    },
     {
       "id": "wi-QysXMreI",
       "title": "≪UNARCHIVED KARAOKE≫ rat here with announcement",
       "published": "2026-09-24T06:36:10.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-24T14:00:00.000Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2026-09-24T14:00:00.000Z"
     },
     {
       "id": "SfcOKSyA_B4",
