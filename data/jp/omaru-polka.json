@@ -7,17 +7,35 @@
     "avatarUrl": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
     "bannerUrl": "https://yt3.googleusercontent.com/EP1u-nLVWBd7baERapt2e_-iI4YVl1wCukSEmw0FP2CJFompE-7TtSlxG0uKk2oT5Kn8l54g1w=s0"
   },
-  "lastUpdated": "2026-09-23T21:38:38.164Z",
-  "videoCount": 2481,
+  "lastUpdated": "2026-09-23T23:38:41.006Z",
+  "videoCount": 2483,
   "videos": [
     {
-      "id": "ShgTs2dOmhc",
-      "title": "【OHAPOL】#204 9/24木曜日!伝説のモーニング配信 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-      "published": "2026-09-23T20:35:14.000Z",
+      "id": "rmJOQEMzZlk",
+      "title": "【#マイクラ肝試し2026】バカタレサーカスでお祭りを練り歩く✨️【尾丸ポルカ/ホロライブ】",
+      "published": "2026-09-23T23:10:06.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
+      "scheduledStart": "2026-09-24T12:00:00.000Z"
+    },
+    {
+      "id": "ShgTs2dOmhc",
+      "title": "【OHAPOL】#204 9/24木曜日！伝説のモーニング配信 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+      "published": "2026-09-23T22:51:33+00:00",
+      "type": "stream",
+      "duration": 6398,
+      "status": "past",
       "scheduledStart": "2026-09-23T21:00:00.000Z"
+    },
+    {
+      "id": "o4UzcSkInsM",
+      "title": "【ポルカの伝説】ホロメンプロフィールクイズ!",
+      "published": "2026-09-23T22:26:00.000Z",
+      "type": "video",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-24T09:30:00.000Z"
     },
     {
       "id": "VejJEKBU56M",
