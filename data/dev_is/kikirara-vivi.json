@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-09-24T00:09:47.579Z",
+  "lastUpdated": "2026-09-24T06:23:56.207Z",
   "videoCount": 1212,
   "videos": [
     {
@@ -15,7 +15,9 @@
       "title": "【配信予定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
       "published": "2026-09-24T00:00:02+00:00",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-24T13:00:00Z"
     },
     {
       "id": "D_tBYkVrwu4",
@@ -9962,7 +9964,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-12-31T14:45:00.000Z"
+      "scheduledStart": "2027-12-31T14:45:00Z"
     },
     {
       "id": "SrH6XQ8H9oo",
