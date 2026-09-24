@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-09-24T07:36:48.361Z",
-  "videoCount": 1405,
+  "lastUpdated": "2026-09-24T09:36:24.292Z",
+  "videoCount": 1406,
   "videos": [
+    {
+      "id": "zqhVYXaq0cE",
+      "title": "#アソビまわり隊 をみまもり隊~wほか雑談込み~‼【 桃鈴ねね / hololive 】",
+      "published": "2026-09-24T07:42:11.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-24T09:00:00.000Z"
+    },
     {
       "id": "wOhgxDENyow",
       "title": "MORESTARのゆなさんとめろぞーま一緒に踊ってみた!【 桃鈴ねね / hololive 】#short #めろぞーま",
@@ -5529,9 +5538,8 @@
       "published": "2023-07-02T14:10:23Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2024-07-06T15:00:00Z"
     },
     {
       "id": "HDcWxGpE2Aw",
