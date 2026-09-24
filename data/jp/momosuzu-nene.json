@@ -7,9 +7,18 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-09-24T19:36:01.112Z",
-  "videoCount": 1406,
+  "lastUpdated": "2026-09-24T21:36:10.243Z",
+  "videoCount": 1407,
   "videos": [
+    {
+      "id": "SE0sxgNCeD4",
+      "title": "【 朝活 】ねぽっくす直前!みんなにおはよの配信【 桃鈴ねね / hololive 】",
+      "published": "2026-09-24T21:07:06.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-24T22:00:00.000Z"
+    },
     {
       "id": "zqhVYXaq0cE",
       "title": "#アソビまわり隊 をみまもり隊～ｗほか雑談込み～‼【 桃鈴ねね / hololive 】",
@@ -5538,9 +5547,8 @@
       "published": "2023-07-02T14:10:23Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2024-07-06T15:00:00Z",
-      "missStreak": 1
+      "status": "unavailable",
+      "scheduledStart": "2024-07-06T15:00:00Z"
     },
     {
       "id": "HDcWxGpE2Aw",
