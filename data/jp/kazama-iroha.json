@@ -7,15 +7,17 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-09-24T17:44:24.112Z",
+  "lastUpdated": "2026-09-24T17:55:06.722Z",
   "videoCount": 1277,
   "videos": [
     {
       "id": "4k0FQd3LXRY",
       "title": "【#マイクラ肝試し2026】刀さがし!散策!釣り!!釣り!!釣り!!!!【風真いろは/ホロライブ】",
-      "published": "2026-09-24T16:56:58+00:00",
+      "published": "2026-09-24T16:56:58Z",
       "type": "stream",
-      "duration": 9890
+      "duration": 9890,
+      "status": "past",
+      "scheduledStart": "2026-09-24T14:00:00Z"
     },
     {
       "id": "-AhP9Bucn3U",
@@ -194,7 +196,7 @@
       "published": "2026-08-23T04:37:03.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "unavailable",
+      "status": "upcoming",
       "scheduledStart": "2026-08-23T08:00:00Z"
     },
     {

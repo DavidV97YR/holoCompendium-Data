@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-09-24T15:41:30.809Z",
+  "lastUpdated": "2026-09-24T17:50:57.633Z",
   "videoCount": 2406,
   "videos": [
     {
@@ -16,14 +16,17 @@
       "published": "2026-09-24T14:05:02+00:00",
       "type": "stream",
       "duration": 4691,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-09-24T12:10:00Z"
     },
     {
       "id": "cTeiGKte9uo",
       "title": "【 Machine Party 】ねぽっくす前にholoXで命がけのゲームをしよう。【#SSholoX/ホロライブ】",
       "published": "2026-09-24T12:11:36+00:00",
       "type": "stream",
-      "duration": 217
+      "duration": 217,
+      "status": "past",
+      "scheduledStart": "2026-09-24T12:00:00Z"
     },
     {
       "id": "Jq_6H1Zute4",

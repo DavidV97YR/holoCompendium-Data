@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w",
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0"
   },
-  "lastUpdated": "2026-09-24T16:12:08.558Z",
+  "lastUpdated": "2026-09-24T18:29:07.781Z",
   "videoCount": 10,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-29T10:00:00.000Z"
+      "scheduledStart": "2026-09-29T10:00:00Z"
     },
     {
       "id": "z_ZP9E7qJc4",
@@ -26,7 +26,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-27T10:00:00.000Z"
+      "scheduledStart": "2026-09-27T10:00:00Z"
     },
     {
       "id": "oidlBKgCeW8",
@@ -35,7 +35,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-27T06:00:00.000Z"
+      "scheduledStart": "2026-09-27T06:00:00Z"
     },
     {
       "id": "mvLjwGCje64",
@@ -44,7 +44,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-26T11:00:00.000Z"
+      "scheduledStart": "2026-09-26T11:00:00Z"
     },
     {
       "id": "AOYniXn3zZM",
@@ -52,7 +52,8 @@
       "published": "2026-09-24T12:00:09.000Z",
       "type": "video",
       "duration": 188,
-      "status": "past"
+      "status": "past",
+      "scheduledStart": "2026-09-24T12:00:00Z"
     },
     {
       "id": "CEo1T9NzynY",
@@ -61,7 +62,7 @@
       "type": "stream",
       "duration": 3666,
       "status": "past",
-      "scheduledStart": "2026-09-24T10:00:00.000Z"
+      "scheduledStart": "2026-09-24T10:00:00Z"
     },
     {
       "id": "7iYmPg8SPi4",
@@ -78,7 +79,7 @@
       "type": "video",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-26T12:00:00.000Z"
+      "scheduledStart": "2026-09-26T12:00:00Z"
     },
     {
       "id": "4t9AwFEmKOE",
