@@ -604,11 +604,16 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
       const lv = localMap[hv.id];
       if (!lv) continue;
 
-      if (hv.title && hv.title !== lv.title) {
+      // YouTube's own title and length (from the Full Recheck) are the ones to
+      // keep. Holodex folds full-width punctuation to ASCII ("！／" → "!/") and
+      // measures lengths a few seconds off, and taking those every run while
+      // the Recheck put YouTube's back flipped ~40 titles twice a day. So only
+      // a real rename, or a length that is missing or clearly different.
+      if (hv.title && hv.title.normalize('NFKC') !== (lv.title || '').normalize('NFKC')) {
         lv.title = hv.title;
         changed = true;
       }
-      if (hv.duration && hv.duration !== lv.duration) {
+      if (hv.duration && (!lv.duration || Math.abs(hv.duration - lv.duration) > 60)) {
         lv.duration = hv.duration;
         changed = true;
       }
