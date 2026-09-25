@@ -93,7 +93,7 @@ function findChannelFiles(dataDir) {
 
     for (const file of fs.readdirSync(branchPath)) {
       // Only process channel files, skip any existing -views.json files
-      if (!file.endsWith('.json') || file.endsWith('-views.json')) continue;
+      if (!file.endsWith('.json') || file.endsWith('-views.json') || file.endsWith('-chat.json')) continue;
       results.push(path.join(branchPath, file));
     }
   }

@@ -119,6 +119,17 @@ function parseRows(rowsRaw, allRows) {
 
 async function processChannel(talent, apiKey, outputDir) {
   const { Name, Branch, 'Channel ID': channelRaw } = talent;
+
+  // Bootstrap is for talents that have no file yet. Writing over an existing
+  // one throws away everything the other jobs have built up in it — live and
+  // upcoming status, real start times, repaired types, the watcher's type
+  // locks, and every video that has since gone private (it is rebuilt only
+  // from what YouTube lists today). FORCE=true is the deliberate override.
+  const existing = path.join(outputDir, Branch.toLowerCase(), `${slugify(Name)}.json`);
+  if (fs.existsSync(existing) && process.env.FORCE !== 'true') {
+    console.log(`\n  → ${Name}: already bootstrapped (${existing}) — skipped. Set FORCE=true to rebuild it from scratch.`);
+    return { name: Name, videos: 0, quota: 0, skipped: true };
+  }
   console.log(`\n  → Resolving channel ID for ${Name}...`);
 
   const channelId = await resolveChannelId(channelRaw, apiKey);
@@ -297,6 +308,7 @@ async function runAll(valid, apiKey, outDir) {
   console.log('╚══════════════════════════════════════════╝');
   for (const r of summary) {
     if (r.error) console.log(`  ✗ ${r.name}: ${r.error}`);
+    else if (r.skipped) console.log(`  – ${r.name}: already bootstrapped, skipped`);
     else console.log(`  ✓ ${r.name}: ${r.videos} videos, ~${r.quota} quota units`);
   }
   console.log(`\n  Total quota used (approx): ${totalQuota} / 10,000 daily units`);

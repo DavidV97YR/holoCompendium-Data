@@ -19,21 +19,30 @@ const TYPE_RESTORE = (() => {
 
 // ── helpers ───────────────────────────────────────────────────────────────────
 
-// In CI (GitHub Actions) SSL is fine; locally disable verification for dev proxies
-const agent = new https.Agent({ rejectUnauthorized: false });
+// Certificates are verified. This used to be off for every run, CI included,
+// so calls carrying the Holodex and YouTube keys never checked who answered.
+// A local dev proxy that re-signs traffic can still switch it off explicitly.
+const agent = new https.Agent({ rejectUnauthorized: process.env.ALLOW_INSECURE_TLS !== '1' });
+
+// No request may hang the run: a stalled socket used to hold the whole
+// updater, and GitHub's default job limit is six hours.
+const REQUEST_TIMEOUT_MS = 60000;
 
 function get(url, headers = {}) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith('https') ? https : http;
     const opts = { headers };
     if (url.startsWith('https')) opts.agent = agent;
-    client.get(url, opts, res => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location)
-        return get(res.headers.location, headers).then(resolve).catch(reject);
+    const req = client.get(url, opts, res => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        res.resume();
+        return get(new URL(res.headers.location, url).href, headers).then(resolve).catch(reject);
+      }
       const chunks = [];
       res.on('data', c => chunks.push(Buffer.isBuffer(c) ? c : Buffer.from(c)));
       res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks).toString('utf8') }));
     }).on('error', reject);
+    req.setTimeout(REQUEST_TIMEOUT_MS, () => req.destroy(new Error('timed out after ' + REQUEST_TIMEOUT_MS / 1000 + 's')));
   });
 }
 
@@ -69,10 +78,12 @@ function head(url) {
     const parsed = new URL(url);
     opts.hostname = parsed.hostname;
     opts.path = parsed.pathname + parsed.search;
-    client.request(opts, res => {
+    const req = client.request(opts, res => {
       res.resume();
       resolve(res.statusCode);
-    }).on('error', reject).end();
+    }).on('error', reject);
+    req.setTimeout(REQUEST_TIMEOUT_MS, () => req.destroy(new Error('timed out')));
+    req.end();
   });
 }
 
@@ -260,12 +271,16 @@ async function fetchHolodexChannel(channelId, apiKey) {
   return holodexGet(apiKey, `/channels/${channelId}`);
 }
 
-async function fetchHolodexVideos(channelId, apiKey) {
-  // Fetch all pages of videos for this channel
+// The newest `maxPages` pages (50 each) of a channel's videos. The title and
+// duration sync only needs recent ones: it used to page through every video
+// of every channel on every run — ~2,000 requests at 1.5 s each, most of the
+// 70-minute runtime — to re-read archives that never change. The Full Recheck
+// re-reads the whole catalogue from YouTube twice a day anyway.
+async function fetchHolodexVideos(channelId, apiKey, maxPages = 2) {
   const videos = [];
   let offset = 0;
   const limit = 50;
-  while (true) {
+  for (let page = 0; page < maxPages; page++) {
     const data = await holodexGet(apiKey, `/channels/${channelId}/videos?limit=${limit}&offset=${offset}&type=stream,clip`);
     const items = Array.isArray(data) ? data : data.items || [];
     videos.push(...items);
@@ -309,9 +324,17 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
   // drops all but the last copy and leaves the others to drift stale.
   const byId = new Map();
   const score = v => (v.duration ? 2 : 0) + (v.status ? 1 : 0);
+  // What either copy knows is kept: the watcher's type lock and the start
+  // times live on whichever copy it saved, and the fuller copy winning used to
+  // drop them when this job and watch-new.js both added the same new video.
+  const KEEP = ['typedBy', 'actualStart', 'scheduledStart'];
   for (const v of local.videos) {
     const prev = byId.get(v.id);
-    if (!prev || score(v) > score(prev)) byId.set(v.id, v);
+    if (!prev) { byId.set(v.id, v); continue; }
+    const [win, lose] = score(v) > score(prev) ? [v, prev] : [prev, v];
+    for (const k of KEEP) if (lose[k] && !win[k]) win[k] = lose[k];
+    if (lose.typedBy === 'innertube') win.type = lose.type;
+    byId.set(v.id, win);
   }
   if (byId.size !== local.videos.length) {
     console.log(`  ⚠ removed ${local.videos.length - byId.size} duplicate(s)`);
