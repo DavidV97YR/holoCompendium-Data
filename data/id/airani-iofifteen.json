@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-09-25T09:46:28.258Z",
+  "lastUpdated": "2026-09-25T11:46:50.717Z",
   "videoCount": 1814,
   "videos": [
+    {
+      "id": "Q-DuuFEFVsY",
+      "title": "【Dressmaker】Welcome to ioBoutique!【 iofi / hololive】",
+      "published": "2026-09-25T09:50:42+00:00",
+      "type": "stream",
+      "duration": 9433,
+      "status": "past",
+      "scheduledStart": "2026-09-25T07:00:00.000Z",
+      "actualStart": "2026-09-25T07:00:00.000Z"
+    },
     {
       "id": "ii1XOQr-p8I",
       "title": "【MHWilds】LEVELING UP TONIGHT BABY!【 iofi / hololive】",
@@ -18,16 +28,6 @@
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-09-25T13:00:00.000Z"
-    },
-    {
-      "id": "Q-DuuFEFVsY",
-      "title": "【Dressmaker】Welcome to ioBoutique!【 iofi / hololive】",
-      "published": "2026-09-25T04:44:14.000Z",
-      "type": "stream",
-      "duration": 9433,
-      "status": "past",
-      "scheduledStart": "2026-09-25T07:00:00.000Z",
-      "actualStart": "2026-09-25T07:00:00.000Z"
     },
     {
       "id": "1mOu-onxLSI",
@@ -44,7 +44,7 @@
       "title": "【Rebo Nyunda】Bhs. Sunda ≠ Bhs. Jawa【 iofi / hololive】",
       "published": "2026-09-23T17:38:33Z",
       "type": "stream",
-      "duration": 5351,
+      "duration": 5361,
       "status": "past",
       "scheduledStart": "2026-09-23T13:00:00Z",
       "actualStart": "2026-09-23T13:02:01Z"
