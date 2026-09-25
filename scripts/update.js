@@ -350,94 +350,24 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     if (v.thumbnail !== undefined) { delete v.thumbnail; changed = true; }
   }
 
-  const localIds = new Set(local.videos.map(v => v.id));
   // Use channel ID from JSON — already resolved to UC... by bootstrap
   const resolvedId = local.channel.id;
   const suffix = resolvedId.replace(/^UC/, '');
 
-  // ── 1. RSS: find new videos ────────────────────────────────────────────────
-  console.log(`  [${Name}] Fetching RSS feeds...`);
-  const feeds = { UULF: [], UUSH: [], UUMO: [], UU: [] };
-  const rssDelay = ms => new Promise(r => setTimeout(r, ms));
-  for (const prefix of Object.keys(feeds)) {
-    try {
-      feeds[prefix] = await fetchRSS(`${prefix}${suffix}`);
-      await rssDelay(500); // 500ms between each RSS feed fetch
-    } catch(e) {
-      console.log(`    ⚠ RSS ${prefix} failed: ${e.message}`);
-      await rssDelay(500);
-    }
+  // ── 1. RSS: the uploads feed, for the date sync in step 2 ─────────────────
+  // New videos are not added here any more. watch-new.js checks the feeds every
+  // five minutes and identifies each one by innertube (or the Data API), which
+  // this run could only guess at: a video in no Videos / Shorts / Members feed
+  // was called a "stream", so a feed that failed to load, or had not caught up
+  // with a brand-new upload yet, turned Shorts and videos into streams.
+  console.log(`  [${Name}] Fetching RSS feed...`);
+  const feeds = { UU: [] };
+  try {
+    feeds.UU = await fetchRSS(`UU${suffix}`);
+  } catch(e) {
+    console.log(`    ⚠ RSS UU failed: ${e.message}`);
   }
-
-  const videoIds  = new Set(feeds.UULF.map(e => e.id));
-  const shortIds  = new Set(feeds.UUSH.map(e => e.id));
-  const memberIds = new Set(feeds.UUMO.map(e => e.id));
-
-  // Type each UU entry, derive streams via set subtraction
-  const typedUU = feeds.UU.map(entry => {
-    let type = 'stream';
-    if (videoIds.has(entry.id))  type = 'video';
-    if (shortIds.has(entry.id))  type = 'short';
-    if (memberIds.has(entry.id)) type = 'member';
-    return { ...entry, type };
-  });
-
-  // Collect all RSS entries with types
-  const allRssEntries = [
-    ...feeds.UULF.map(e => ({ ...e, type: 'video'  })),
-    ...feeds.UUSH.map(e => ({ ...e, type: 'short'  })),
-    ...feeds.UUMO.map(e => ({ ...e, type: 'member' })),
-    ...typedUU.filter(e => e.type === 'stream'),
-  ];
-
-  // Deduplicate and find new
-  const seen = new Set();
-  const newEntries = [];
-  for (const e of allRssEntries) {
-    if (!seen.has(e.id) && !localIds.has(e.id)) {
-      seen.add(e.id);
-      newEntries.push(e);
-    }
-  }
-
-  // Only the frequent run adds new videos. Full Recheck runs ~1h22m against
-  // the Updater's ~1h11m from the same start time, so both would discover the
-  // same brand-new video during that overlap and insert their own copy — and
-  // two insertions at adjacent positions don't conflict, so the loser's rebase
-  // merges both in. The Updater re-reads these feeds every 2h, so anything
-  // missed is picked up on its next pass rather than needing a backstop here.
-  if (!backfill && newEntries.length) {
-    console.log(`    ★ ${newEntries.length} new video(s) — enriching via Holodex...`);
-    for (const entry of newEntries) {
-      try {
-        const detail = await fetchHolodexVideoDetail(entry.id, holodexKey);
-        const sched  = detail.start_scheduled || detail.available_at || '';
-        local.videos.unshift({
-          id:        entry.id,
-          title:     detail.title || entry.title,
-          published: detail.published_at || entry.published,
-          type:      entry.type,
-          duration:  detail.duration || 0,
-          status:    detail.status || 'past',
-          ...(sched && (detail.status === 'upcoming' || detail.status === 'live') ? { scheduledStart: sched } : {}),
-          ...(detail.start_actual ? { actualStart: detail.start_actual } : {}),
-        });
-        console.log(`    + [${entry.type}] ${entry.id} ${(detail.title || entry.title).slice(0, 50)}`);
-      } catch(e) {
-        // Holodex doesn't have it yet — add from RSS with duration 0, cron will fill later
-        local.videos.unshift({
-          id:        entry.id,
-          title:     entry.title,
-          published: entry.published,
-          type:      entry.type,
-          duration:  0,
-        });
-        console.log(`    + [${entry.type}] ${entry.id} (Holodex miss — added from RSS)`);
-      }
-      localIds.add(entry.id);
-      changed = true;
-    }
-  }
+  await new Promise(r => setTimeout(r, 500));
 
   // ── 1b. Backfill (heavy pass): re-enrich EVERY existing video ─────────────
   // Normal runs only touch new videos + the 15 most recent. Backfill re-checks the
