@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0"
   },
-  "lastUpdated": "2026-09-25T17:07:58.532Z",
+  "lastUpdated": "2026-09-25T17:23:46.465Z",
   "videoCount": 461,
   "videos": [
     {
@@ -17,8 +17,8 @@
       "type": "stream",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-09-25T17:00:00.000Z",
-      "actualStart": "2026-09-25T17:01:07.000Z"
+      "scheduledStart": "2026-09-25T17:00:00Z",
+      "actualStart": "2026-09-25T17:01:07Z"
     },
     {
       "id": "-keDano429U",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": "VQFMBZzOPEo",
-      "title": "【JP LEARNING】勉強しましょう! yippie!",
+      "title": "【JP LEARNING】勉強しましょう！ yippie!",
       "published": "2025-11-28T15:43:02Z",
       "type": "stream",
       "duration": 5366,
@@ -2835,7 +2835,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-11T22:00:00.000Z"
+      "scheduledStart": "2026-11-11T22:00:00Z"
     },
     {
       "id": "elznIfr7GhU",
