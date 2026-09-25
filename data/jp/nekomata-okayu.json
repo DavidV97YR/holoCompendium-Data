@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0"
   },
-  "lastUpdated": "2026-09-25T03:32:44.144Z",
+  "lastUpdated": "2026-09-25T05:25:49.054Z",
   "videoCount": 1888,
   "videos": [
     {
@@ -787,7 +787,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-06-29T15:00:00.000Z"
+      "scheduledStart": "2026-06-29T15:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "iMqmBxo-Esw",
@@ -804,7 +805,8 @@
       "title": "【 🔵スターフォックス 】完全新作きちゃあああああ!!!!🔥🔥【 猫又おかゆ/ホロライブ 】",
       "published": "2026-06-23T18:39:55.000Z",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "typeChecked": true
     },
     {
       "id": "BFR3vm9aj5o",
@@ -931,7 +933,8 @@
       "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#03 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
       "published": "2026-06-12T15:40:02.000Z",
       "type": "stream",
-      "duration": 1112
+      "duration": 1112,
+      "actualStart": "2026-06-13T10:59:44.000Z"
     },
     {
       "id": "STxsLOO1htU",
@@ -7852,7 +7855,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2027-02-22T09:00:00.000Z"
+      "scheduledStart": "2027-02-22T09:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "vwUG1sypT4E",

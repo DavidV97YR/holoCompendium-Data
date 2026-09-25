@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/SVUeFR_FT5vqSsETqWnu5UVGE5gAdeCoJUJT93aYnX8XF_4uhgM97zG57m3BkddT05WamMnIBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FYGhzbQQR_hwZqW1HrCv4k-QjReiIAaucgeHJkwEyxmiQg5G_OcBFX6zk3nxoKh4-mlSk5GVrg=s0"
   },
-  "lastUpdated": "2026-09-25T04:28:58.713Z",
+  "lastUpdated": "2026-09-25T06:24:15.353Z",
   "videoCount": 904,
   "videos": [
     {
@@ -773,7 +773,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-07-24T13:00:00.000Z"
+      "scheduledStart": "2026-07-24T13:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "KeNc8WhPiQU",
@@ -1114,7 +1115,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-07-01T18:16:01.000Z"
+      "scheduledStart": "2026-07-01T18:16:01.000Z",
+      "typeChecked": true
     },
     {
       "id": "50uRJZK1JA4",
@@ -1209,7 +1211,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-06-25T13:00:00Z"
+      "scheduledStart": "2026-06-25T13:00:00Z",
+      "actualStart": "2026-06-25T13:00:17.000Z"
     },
     {
       "id": "_Uwmjc29qYQ",
@@ -2238,7 +2241,7 @@
       "id": "bFvVcbENC0c",
       "title": "桃源恋歌踊ってみたよ🪭♡ #vtuber #shorts #dance",
       "published": "2026-04-20T08:00:40Z",
-      "type": "stream",
+      "type": "short",
       "duration": 22,
       "status": "past"
     },

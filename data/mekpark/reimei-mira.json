@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-09-25T06:08:34.678Z",
+  "lastUpdated": "2026-09-25T06:28:04.076Z",
   "videoCount": 158,
   "videos": [
     {
@@ -544,7 +544,7 @@
       "id": "DVlIpYGGJu8",
       "title": "メンバーとギスって逆切れするギャル【 #UNIT_B / #宵凪ネオン】#リズム天国 #リズム天国ミラクルスターズ #shorts",
       "published": "2026-08-22T09:45:15.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 42,
       "status": "past"
     },
@@ -552,7 +552,7 @@
       "id": "hWjwnc5kNCE",
       "title": "騒がしすぎるギャルリズム天国【 #UNIT_B / #宵凪ネオン】#リズム天国 #リズム天国ミラクルスターズ#shorts",
       "published": "2026-08-21T11:00:01.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 39,
       "status": "past"
     },
@@ -661,7 +661,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-08-15T04:00:00.000Z"
+      "scheduledStart": "2026-08-15T04:00:00.000Z",
+      "actualStart": "2026-08-15T03:59:51.000Z"
     },
     {
       "id": "dCEbATyuSbw",

@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
     "bannerUrl": "https://yt3.googleusercontent.com/UvLAarOsnyYFmBW4CnB8gQAO_WjxhmR3GHzxLtEd2gC7vp0E6ngpCoWoRuZo0ymAP94WTELz=s0"
   },
-  "lastUpdated": "2026-09-25T03:33:56.136Z",
+  "lastUpdated": "2026-09-25T05:27:06.610Z",
   "videoCount": 1518,
   "videos": [
     {
@@ -57,7 +57,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-09-18T13:00:00.000Z"
+      "scheduledStart": "2026-09-18T13:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "Qftnj5tXyg8",
@@ -96,7 +97,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-09-06T10:00:00.000Z"
+      "scheduledStart": "2026-09-06T10:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "a2p3UBRJ33s",
@@ -487,7 +489,8 @@
       "title": "Korone Ch. 戌神ころね のライブ配信",
       "published": "2026-06-15T12:09:11.000Z",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "typeChecked": true
     },
     {
       "id": "Z1_nnb7LxYs",

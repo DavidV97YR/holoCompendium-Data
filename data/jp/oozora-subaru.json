@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-09-25T05:17:23.424Z",
+  "lastUpdated": "2026-09-25T05:21:10.528Z",
   "videoCount": 2210,
   "videos": [
     {
@@ -27,7 +27,8 @@
       "type": "stream",
       "duration": 545,
       "status": "past",
-      "scheduledStart": "2026-09-24T13:00:00.000Z"
+      "scheduledStart": "2026-09-24T13:00:00.000Z",
+      "actualStart": "2026-09-24T13:03:10.000Z"
     },
     {
       "id": "uJXNb3kEzS0",
@@ -244,7 +245,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-09-08T11:00:00.000Z"
+      "scheduledStart": "2026-09-08T11:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "CsgSjtBzlvg",
@@ -559,7 +561,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-08-19T12:00:00.000Z"
+      "scheduledStart": "2026-08-19T12:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "M6EaQONBXrE",
@@ -738,7 +741,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-07-30T11:00:00.000Z"
+      "scheduledStart": "2026-07-30T11:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "VBiX-53-lbI",
@@ -747,7 +751,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-07-29T12:00:00.000Z"
+      "scheduledStart": "2026-07-29T12:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "T7yC89jrsPI",
@@ -1046,7 +1051,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-06-26T12:40:00.000Z"
+      "scheduledStart": "2026-06-26T12:40:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "HDkDe3Eohkc",
@@ -1183,7 +1189,8 @@
       "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
       "published": "2026-06-13T01:09:12+00:00",
       "type": "stream",
-      "duration": 245
+      "duration": 245,
+      "actualStart": "2026-06-13T01:02:45.000Z"
     },
     {
       "id": "cDWyBeLA4HE",
@@ -1290,7 +1297,8 @@
       "title": "【】【ホロライブ/大空スバル】",
       "published": "2026-05-31T04:09:30Z",
       "type": "stream",
-      "duration": 306
+      "duration": 306,
+      "actualStart": "2026-05-31T04:02:14.000Z"
     },
     {
       "id": "2QuUE5GCKGA",

@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
     "bannerUrl": "https://yt3.googleusercontent.com/WMGd5fRjaxWor-Z-6MBeIAl5RylNcbkd4StAGSc-KGvrGtjhYnenyJDG_lAvpULdNMfqNlBMQQ=s0"
   },
-  "lastUpdated": "2026-09-25T03:37:30.999Z",
+  "lastUpdated": "2026-09-25T05:30:43.792Z",
   "videoCount": 1905,
   "videos": [
     {
@@ -367,7 +367,8 @@
       "type": "stream",
       "duration": 534,
       "status": "past",
-      "scheduledStart": "2026-08-11T15:45:00.000Z"
+      "scheduledStart": "2026-08-11T15:45:00.000Z",
+      "actualStart": "2026-08-11T15:49:57.000Z"
     },
     {
       "id": "6o_eHrpBcZk",
@@ -892,7 +893,8 @@
       "title": "#01 【バイオハザード レクイエム】久しぶりのバイオやばいお！【不知火フレア/ホロライブ】ネタバレ注意",
       "published": "2026-06-07T13:11:12+00:00",
       "type": "stream",
-      "duration": 509
+      "duration": 509,
+      "actualStart": "2026-06-07T13:00:27.000Z"
     },
     {
       "id": "EdrSjHMQOHk",
@@ -11756,7 +11758,7 @@
       "id": "I9nD2UC_qj8",
       "title": "ノエルツーショット",
       "published": "2022-02-20T14:55:48Z",
-      "type": "stream",
+      "type": "short",
       "duration": 30,
       "status": "past"
     },

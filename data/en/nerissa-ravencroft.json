@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
     "bannerUrl": "https://yt3.googleusercontent.com/O8AT2TqQ__ZxIZcr4F5kTBGeEXe-1sdEfVAZX7L7znev8O1gtCqndxHUrGOOycVqZ9W3A9Nb=s0"
   },
-  "lastUpdated": "2026-09-25T05:59:32.768Z",
+  "lastUpdated": "2026-09-25T06:15:38.480Z",
   "videoCount": 690,
   "videos": [
     {
@@ -121,7 +121,8 @@
       "type": "stream",
       "duration": 7859,
       "status": "past",
-      "scheduledStart": "2026-08-27T12:30:00Z"
+      "scheduledStart": "2026-08-27T12:30:00Z",
+      "actualStart": "2026-08-27T12:30:25.000Z"
     },
     {
       "id": "2dWaPS246gQ",
@@ -266,7 +267,8 @@
       "type": "stream",
       "duration": 42876,
       "status": "past",
-      "scheduledStart": "2026-07-24T14:10:00.000Z"
+      "scheduledStart": "2026-07-24T14:10:00.000Z",
+      "actualStart": "2026-07-24T14:10:34.000Z"
     },
     {
       "id": "32rd2-5vEYE",
@@ -275,7 +277,8 @@
       "type": "stream",
       "duration": 7499,
       "status": "past",
-      "scheduledStart": "2026-07-24T12:00:00.000Z"
+      "scheduledStart": "2026-07-24T12:00:00.000Z",
+      "actualStart": "2026-07-24T11:55:50.000Z"
     },
     {
       "id": "tFmyV9YahiQ",
@@ -314,7 +317,8 @@
       "type": "stream",
       "duration": 537,
       "status": "past",
-      "scheduledStart": "2026-07-23T01:00:00.000Z"
+      "scheduledStart": "2026-07-23T01:00:00.000Z",
+      "actualStart": "2026-07-23T00:55:16.000Z"
     },
     {
       "id": "0WXjD02P9II",
@@ -437,7 +441,8 @@
       "title": "Pls recommend songs to sing | UNARCHIVED KARAOKE REBROADCAST",
       "published": "2026-06-12T10:23:01.000Z",
       "type": "stream",
-      "duration": 48588
+      "duration": 48588,
+      "actualStart": "2026-06-12T11:47:03.000Z"
     },
     {
       "id": "GNzyXYyI4nc",

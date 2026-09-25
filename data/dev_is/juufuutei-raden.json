@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/6aFGCylqMMh3ouhXoi_qkWJDO10HoWqpA-2wy6a3g0MWGepsRToWn0q-OvCbmkVX7lDWV3zt",
     "bannerUrl": "https://yt3.googleusercontent.com/5hzwMhaZU0w5jgLB9t_GPIX_WelenxSeNeMez1GohONt9D82UIwwRNmf82sfnrZMHsGAb-aM=s0"
   },
-  "lastUpdated": "2026-09-25T06:04:20.138Z",
+  "lastUpdated": "2026-09-25T06:22:05.874Z",
   "videoCount": 928,
   "videos": [
     {
@@ -427,7 +427,8 @@
       "type": "stream",
       "duration": 4074,
       "status": "past",
-      "scheduledStart": "2026-08-01T01:00:00Z"
+      "scheduledStart": "2026-08-01T01:00:00Z",
+      "actualStart": "2026-08-01T01:00:33.000Z"
     },
     {
       "id": "lhELE09P530",
@@ -493,7 +494,8 @@
       "published": "2026-07-24T08:00:37+00:00",
       "type": "stream",
       "duration": 127,
-      "status": "new"
+      "status": "new",
+      "typeChecked": true
     },
     {
       "id": "96dZjZ9B6MI",
@@ -510,7 +512,8 @@
       "type": "stream",
       "duration": 5179,
       "status": "past",
-      "scheduledStart": "2026-07-23T13:00:00Z"
+      "scheduledStart": "2026-07-23T13:00:00Z",
+      "actualStart": "2026-07-23T13:08:02.000Z"
     },
     {
       "id": "7_nBgPQ93Zo",
@@ -575,7 +578,8 @@
       "title": "【メン限同時視聴】温泉シャーク!!!!!見る!!!!【儒烏風亭らでん #ReGLOSS 】",
       "published": "2026-07-18T07:04:21+00:00",
       "type": "stream",
-      "duration": 1090
+      "duration": 1090,
+      "actualStart": "2026-07-18T13:02:24.000Z"
     },
     {
       "id": "k04wAvJecsg",

@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F6JBwH9DTYVbtij80QQ7sisiFWLOBv1MdNopYjU2CrcVSnjXU0ZDLU0XiP6G3LwSyX-B_PZ1-5o",
     "bannerUrl": "https://yt3.googleusercontent.com/DO5TRHjj5kHtMfabJyK4aYH7SYLu38lxttxADSuJNND4w-iJf9e2JYWuTDNzoGUVk_4QiuZJ=s0"
   },
-  "lastUpdated": "2026-09-25T06:02:56.140Z",
+  "lastUpdated": "2026-09-25T06:20:15.771Z",
   "videoCount": 991,
   "videos": [
     {
@@ -850,7 +850,7 @@
       "id": "irIGA7HBZuA",
       "title": "【 全部俺 】 #GREATEST リレーダンスで踊ってみた😎【 音乃瀬奏 】#shorts #hololive #dance",
       "published": "2026-06-09T09:28:43.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 36
     },
     {
@@ -926,7 +926,8 @@
       "title": "【 #ホロ金策サバイバル2 】本当に3日目も完全エンジョイする勢!!!!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
       "published": "2026-06-03T11:06:22.000Z",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "typeChecked": true
     },
     {
       "id": "vCtR9eX20wo",

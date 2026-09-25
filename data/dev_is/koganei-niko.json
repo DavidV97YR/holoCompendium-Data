@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ",
     "bannerUrl": "https://yt3.googleusercontent.com/9Jgj2h9RsmoSOQn9vemS06nROOnoDeZZVeTRyj0zJyNkqsSk-Syy4WHAdlT4GOmbfBX2aK4L=s0"
   },
-  "lastUpdated": "2026-09-25T04:29:36.494Z",
+  "lastUpdated": "2026-09-25T06:24:59.389Z",
   "videoCount": 809,
   "videos": [
     {
@@ -256,7 +256,7 @@
       "id": "6HHWbh1g7iQ",
       "title": "ヤラララ/虎金妃笑虎(cover)",
       "published": "2026-08-19T10:30:18.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 59,
       "status": "past"
     },
@@ -667,7 +667,8 @@
       "type": "stream",
       "duration": 3570,
       "status": "past",
-      "scheduledStart": "2026-07-12T02:00:00.000Z"
+      "scheduledStart": "2026-07-12T02:00:00.000Z",
+      "actualStart": "2026-07-12T02:04:26.000Z"
     },
     {
       "id": "aTKVYDzsdws",
@@ -855,7 +856,7 @@
       "id": "0sSdbzWxciE",
       "title": "エルフ/虎金妃笑虎(cover)",
       "published": "2026-06-19T10:38:47.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 43
     },
     {
@@ -987,7 +988,8 @@
       "title": "【#ホロ金策サバイバル2】久しぶりの箱企画マジで緊張してヤバイ【虎金妃笑虎】",
       "published": "2026-06-05T09:45:16.000Z",
       "type": "stream",
-      "duration": 9609
+      "duration": 9609,
+      "actualStart": "2026-06-05T11:33:49.000Z"
     },
     {
       "id": "XFfKSDzUfA0",

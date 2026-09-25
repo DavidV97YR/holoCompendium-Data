@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
     "bannerUrl": "https://yt3.googleusercontent.com/iBaGLA10FOOPnKA8dJP-KYJJW099KsNFrZEgjWH-8IBTArRVsm455XrcSAZdxT9ev7xHdrL4z7o=s0"
   },
-  "lastUpdated": "2026-09-25T04:23:31.834Z",
+  "lastUpdated": "2026-09-25T06:18:29.967Z",
   "videoCount": 554,
   "videos": [
     {
@@ -17,7 +17,8 @@
       "type": "stream",
       "duration": 21940,
       "status": "past",
-      "scheduledStart": "2026-09-22T01:00:00.000Z"
+      "scheduledStart": "2026-09-22T01:00:00.000Z",
+      "actualStart": "2026-09-22T01:02:12.000Z"
     },
     {
       "id": "r6V7HgcTn9k",
@@ -76,7 +77,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-09-05T21:00:00.000Z"
+      "scheduledStart": "2026-09-05T21:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "_eTH4I71o30",
@@ -115,7 +117,8 @@
       "type": "stream",
       "duration": 12054,
       "status": "past",
-      "scheduledStart": "2026-08-31T21:00:00.000Z"
+      "scheduledStart": "2026-08-31T21:00:00.000Z",
+      "actualStart": "2026-08-31T21:05:08.000Z"
     },
     {
       "id": "3CLeVKWPjaA",
@@ -310,7 +313,8 @@
       "type": "stream",
       "duration": 7384,
       "status": "past",
-      "scheduledStart": "2026-08-07T21:00:00.000Z"
+      "scheduledStart": "2026-08-07T21:00:00.000Z",
+      "actualStart": "2026-08-07T21:02:04.000Z"
     },
     {
       "id": "YU05ZltlR-E",
@@ -505,7 +509,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-07-15T21:06:00.000Z"
+      "scheduledStart": "2026-07-15T21:06:00.000Z",
+      "actualStart": "2026-07-15T21:09:24.000Z"
     },
     {
       "id": "AIWrwM8Kbx8",
@@ -610,7 +615,8 @@
       "type": "stream",
       "duration": 5380,
       "status": "past",
-      "scheduledStart": "2026-06-25T20:30:00.000Z"
+      "scheduledStart": "2026-06-25T20:30:00.000Z",
+      "actualStart": "2026-06-25T20:31:32.000Z"
     },
     {
       "id": "sI01ykNqCRM",
@@ -725,7 +731,8 @@
       "title": "【UNARCHIVED KARAOKE】GIGI MURIN!?!!??!?!?!?!?!?!!/!",
       "published": "2026-06-12T20:46:56.000Z",
       "type": "stream",
-      "duration": 11500
+      "duration": 11500,
+      "actualStart": "2026-06-12T21:00:34.000Z"
     },
     {
       "id": "WVsg1IX1hlk",

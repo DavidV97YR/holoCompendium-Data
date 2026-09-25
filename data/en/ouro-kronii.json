@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
     "bannerUrl": "https://yt3.googleusercontent.com/pBQF7Za9aoeNWs4LmbOk4YiBJuUjtrd4IlQF4iggrybXD7PF_29x99AAd3ujt6R17RNqMN6yYTw=s0"
   },
-  "lastUpdated": "2026-09-25T05:56:28.734Z",
+  "lastUpdated": "2026-09-25T06:11:35.014Z",
   "videoCount": 773,
   "videos": [
     {
@@ -155,7 +155,8 @@
       "type": "stream",
       "duration": 10500,
       "status": "past",
-      "scheduledStart": "2026-08-21T01:05:00.000Z"
+      "scheduledStart": "2026-08-21T01:05:00.000Z",
+      "actualStart": "2026-08-21T01:06:35.000Z"
     },
     {
       "id": "KcTBLPhF6fg",
@@ -294,7 +295,8 @@
       "title": "【Members Only】 Unarchived Karaoke: Yay I'm Done With Work",
       "published": "2026-06-24T03:24:35.000Z",
       "type": "stream",
-      "duration": 17209
+      "duration": 17209,
+      "actualStart": "2026-06-24T04:16:02.000Z"
     },
     {
       "id": "VMfR5nr8gic",

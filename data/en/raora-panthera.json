@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-09-25T06:02:19.471Z",
+  "lastUpdated": "2026-09-25T06:19:26.856Z",
   "videoCount": 546,
   "videos": [
     {
@@ -433,7 +433,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2027-07-10T14:00:00.000Z"
+      "scheduledStart": "2027-07-10T14:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "WeOlr8WBLDw",
@@ -477,7 +478,7 @@
       "id": "N8bfOiPot6o",
       "title": "Soar / Takane Lui - Let's dance! #鷹嶺ルイの反逆 #Soar",
       "published": "2026-06-22T00:33:20.000Z",
-      "type": "stream",
+      "type": "short",
       "duration": 35,
       "status": "past"
     },

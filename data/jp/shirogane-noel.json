@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0"
   },
-  "lastUpdated": "2026-09-25T05:26:08.136Z",
+  "lastUpdated": "2026-09-25T05:32:11.954Z",
   "videoCount": 1805,
   "videos": [
     {
@@ -157,7 +157,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-09-06T10:00:00.000Z"
+      "scheduledStart": "2026-09-06T10:00:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "rzc-FOeWPFM",
@@ -336,7 +337,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-08-20T13:00:00.000Z"
+      "scheduledStart": "2026-08-20T13:00:00.000Z",
+      "actualStart": "2026-08-20T13:02:05.000Z"
     },
     {
       "id": "2xGf11KFcPo",
@@ -897,7 +899,8 @@
       "title": "【Minecraft】#ホロ金策サバイバル2 !最終日たのしんだもん勝ちッ!【白銀ノエル/ホロライブ】",
       "published": "2026-06-05T06:06:56.000Z",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "typeChecked": true
     },
     {
       "id": "o66M13JfQjM",

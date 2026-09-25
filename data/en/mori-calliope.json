@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/LYO40yqUG6y_YiIND-FCD_MSPOeREAoLSVdVLL0UDmFSuwbbblBDNpRx5CAKlO75NrtLo6CnsnQ",
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0"
   },
-  "lastUpdated": "2026-09-25T04:12:19.635Z",
+  "lastUpdated": "2026-09-25T06:06:13.268Z",
   "videoCount": 1937,
   "videos": [
     {
@@ -573,7 +573,8 @@
       "type": "stream",
       "duration": 5880,
       "status": "past",
-      "scheduledStart": "2026-07-25T13:00:00.000Z"
+      "scheduledStart": "2026-07-25T13:00:00.000Z",
+      "actualStart": "2026-07-25T13:00:47.000Z"
     },
     {
       "id": "5kzu8bfpc0E",
@@ -642,7 +643,8 @@
       "type": "stream",
       "duration": 6526,
       "status": "past",
-      "scheduledStart": "2026-07-14T03:00:00.000Z"
+      "scheduledStart": "2026-07-14T03:00:00.000Z",
+      "actualStart": "2026-07-14T02:59:19.000Z"
     },
     {
       "id": "Fk-66Jv1b70",
@@ -719,7 +721,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2027-06-06T19:15:00.000Z"
+      "scheduledStart": "2027-06-06T19:15:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "0OoToPU1Mbo",
@@ -806,7 +809,8 @@
       "type": "stream",
       "duration": 7981,
       "status": "past",
-      "scheduledStart": "2026-06-28T12:00:00.000Z"
+      "scheduledStart": "2026-06-28T12:00:00.000Z",
+      "actualStart": "2026-06-28T12:00:08.000Z"
     },
     {
       "id": "iU3UWeObvCY",
@@ -897,14 +901,16 @@
       "title": "【UNARCHIVED EMOTIONAL KARAOKE】hello darkness my old friend #calliolive",
       "published": "2026-06-16T13:15:03.000Z",
       "type": "stream",
-      "duration": 9753
+      "duration": 9753,
+      "actualStart": "2026-06-20T01:00:36.000Z"
     },
     {
       "id": "jrjTiWbtny0",
       "title": "【UNARCHIVED ROCK & METAL KARAOKE】rip throat #calliolive",
       "published": "2026-06-13T15:03:36.000Z",
       "type": "stream",
-      "duration": 5935
+      "duration": 5935,
+      "actualStart": "2026-06-14T23:03:00.000Z"
     },
     {
       "id": "6txQmhQyxGo",
@@ -937,7 +943,8 @@
       "title": "【UNARCHIVED JAZZ KARAOKE】Singing Jazz Classics back in my bar! #calliolive",
       "published": "2026-06-07T00:55:13.000Z",
       "type": "stream",
-      "duration": 6520
+      "duration": 6520,
+      "actualStart": "2026-06-07T13:01:02.000Z"
     },
     {
       "id": "l_-bR-z4uzo",
@@ -13648,7 +13655,8 @@
       "type": "stream",
       "duration": 11594,
       "status": "past",
-      "scheduledStart": "2022-06-21T13:02:13Z"
+      "scheduledStart": "2022-06-21T13:02:13Z",
+      "actualStart": "2022-06-21T13:01:37.000Z"
     },
     {
       "id": "3hkrt5YJrD8",

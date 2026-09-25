@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
     "bannerUrl": "https://yt3.googleusercontent.com/etTxNyV-Ex52BMiKXuSIMHu9reDymW_xa0BKz9a151VrEDHKzXj30yIUuVuNZcCKQDQ9o2GQ=s0"
   },
-  "lastUpdated": "2026-09-25T04:13:39.125Z",
+  "lastUpdated": "2026-09-25T06:07:43.123Z",
   "videoCount": 1754,
   "videos": [
     {
@@ -105,7 +105,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-09-08T13:30:00.000Z"
+      "scheduledStart": "2026-09-08T13:30:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "oF7Z1rvaUfo",
@@ -298,7 +299,8 @@
       "type": "stream",
       "duration": 4550,
       "status": "past",
-      "scheduledStart": "2026-08-16T16:30:00.000Z"
+      "scheduledStart": "2026-08-16T16:30:00.000Z",
+      "actualStart": "2026-08-16T16:33:12.000Z"
     },
     {
       "id": "pgABdjuUoAg",
@@ -461,7 +463,8 @@
       "type": "stream",
       "duration": 4541,
       "status": "past",
-      "scheduledStart": "2026-07-19T22:00:00.000Z"
+      "scheduledStart": "2026-07-19T22:00:00.000Z",
+      "actualStart": "2026-07-19T22:18:13.000Z"
     },
     {
       "id": "dIlgbmoT7og",
@@ -628,7 +631,8 @@
       "type": "stream",
       "duration": 631,
       "status": "past",
-      "scheduledStart": "2026-07-06T23:00:00.000Z"
+      "scheduledStart": "2026-07-06T23:00:00.000Z",
+      "actualStart": "2026-07-06T22:59:32.000Z"
     },
     {
       "id": "D8s4YXHOG0s",
@@ -647,7 +651,8 @@
       "type": "stream",
       "duration": 0,
       "status": "unavailable",
-      "scheduledStart": "2026-07-07T22:55:00.000Z"
+      "scheduledStart": "2026-07-07T22:55:00.000Z",
+      "typeChecked": true
     },
     {
       "id": "RWNdaTyQ8KU",
@@ -802,7 +807,8 @@
       "title": "【MEMBERS ONLY】KIARAOKE!! REBROADCAST!!! YIPPEEEEE",
       "published": "2026-06-16T20:56:58.000Z",
       "type": "stream",
-      "duration": 61839
+      "duration": 61839,
+      "actualStart": "2026-06-16T22:31:16.000Z"
     },
     {
       "id": "uXoclVMNK-U",
@@ -919,7 +925,8 @@
       "title": "【MEMBERS ONLY】KIARAOKE!! UNARCHIVED!!! YIPPEEEEE",
       "published": "2026-06-04T11:39:29.000Z",
       "type": "stream",
-      "duration": 11742
+      "duration": 11742,
+      "actualStart": "2026-06-04T18:01:10.000Z"
     },
     {
       "id": "Ia-HD9VCpGY",
