@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-09-25T14:02:31.138Z",
+  "lastUpdated": "2026-09-25T15:06:46.344Z",
   "videoCount": 1732,
   "videos": [
     {
@@ -17,7 +17,8 @@
       "type": "member",
       "duration": 0,
       "status": "live",
-      "actualStart": "2026-09-25T12:59:00.000Z"
+      "actualStart": "2026-09-25T12:59:00.000Z",
+      "scheduledStart": "2026-09-25T13:00:00.000Z"
     },
     {
       "id": "lyaIVc6rWHg",
@@ -93,7 +94,7 @@
       "id": "AAHuZ7Ednnw",
       "title": "working afternoon biar banyak yang kelar",
       "published": "2026-09-08T08:09:48+00:00",
-      "type": "stream",
+      "type": "member",
       "duration": 24325,
       "actualStart": "2026-09-08T08:32:17.000Z"
     },
@@ -431,7 +432,7 @@
       "id": "3R3CyFwOdX4",
       "title": "Prisuners Night JUMPSCARE",
       "published": "2026-08-03T15:48:58+00:00",
-      "type": "stream",
+      "type": "member",
       "duration": 0,
       "status": "unavailable",
       "scheduledStart": "2026-08-03T16:00:00Z",
@@ -491,7 +492,7 @@
       "id": "XfOvLmStwew",
       "title": "hening sedikit karena me wanna refreshing after a long work",
       "published": "2026-07-30T13:04:22.000Z",
-      "type": "stream",
+      "type": "member",
       "duration": 15478,
       "status": "past",
       "scheduledStart": "2026-07-30T13:30:00.000Z",
@@ -1085,7 +1086,7 @@
       "id": "sZmzykJ9fmM",
       "title": "PRRRRIIIIIIIIIIIIIIIIIIISUNERS NIGHT",
       "published": "2026-06-12T12:08:38+00:00",
-      "type": "stream",
+      "type": "member",
       "duration": 0,
       "typeChecked": true
     },

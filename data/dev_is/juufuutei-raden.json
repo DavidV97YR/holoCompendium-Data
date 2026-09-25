@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/6aFGCylqMMh3ouhXoi_qkWJDO10HoWqpA-2wy6a3g0MWGepsRToWn0q-OvCbmkVX7lDWV3zt",
     "bannerUrl": "https://yt3.googleusercontent.com/5hzwMhaZU0w5jgLB9t_GPIX_WelenxSeNeMez1GohONt9D82UIwwRNmf82sfnrZMHsGAb-aM=s0"
   },
-  "lastUpdated": "2026-09-25T14:07:15.927Z",
+  "lastUpdated": "2026-09-25T15:11:10.349Z",
   "videoCount": 929,
   "videos": [
     {
@@ -17,7 +17,8 @@
       "type": "member",
       "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-09-25T14:00:00.000Z"
+      "scheduledStart": "2026-09-25T14:00:00.000Z",
+      "actualStart": "2026-09-25T14:01:13.000Z"
     },
     {
       "id": "Z7twB_NN3Yk",
@@ -501,7 +502,7 @@
       "id": "MOP1SbJHM7A",
       "title": "らでんちゃんが念白を詠んだ!?「特撮人形劇の世界展」宣伝PVついに公開!",
       "published": "2026-07-24T08:00:37+00:00",
-      "type": "stream",
+      "type": "video",
       "duration": 127,
       "status": "new",
       "typeChecked": true
@@ -586,7 +587,7 @@
       "id": "8EqfY4iONac",
       "title": "【メン限同時視聴】温泉シャーク!!!!!見る!!!!【儒烏風亭らでん #ReGLOSS 】",
       "published": "2026-07-18T07:04:21+00:00",
-      "type": "stream",
+      "type": "member",
       "duration": 1090,
       "actualStart": "2026-07-18T13:02:24.000Z"
     },
