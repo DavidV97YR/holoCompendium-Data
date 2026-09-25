@@ -121,17 +121,24 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          BASE=$(git rev-parse HEAD)
           git add data/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
-          git commit -m "update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # -X ours: on a genuine content conflict, defer to whatever's
-          # already on origin (e.g. a Full Recheck correction that landed
-          # first) rather than overwrite it — this run will just recompute
-          # and re-apply anything of its own that got dropped next time it
-          # runs. Also prevents the rebase from ever getting stuck on an
-          # unresolved conflict, which plain retries couldn't recover from.
+          MSG="update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "$MSG"
+          # Another job may have pushed meanwhile. Its changes and ours are then
+          # merged by content, video by video (scripts/merge-data.js), never as
+          # lines of text: `git pull --rebase -X ours|theirs` used to drop one
+          # half of a video that moved in the sorted list while another job
+          # inserted one next to it, and the video vanished from the file.
           for i in $(seq 1 10); do
-            git pull --rebase -X ours origin main && git push && exit 0
-            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 10
+            git push && exit 0
+            echo "push attempt $i rejected — merging onto latest main and retrying"
+            sleep 10
+            git fetch origin main || continue
+            node scripts/merge-data.js "$BASE" || exit 1
+            BASE=$(git rev-parse origin/main)
+            git add data/
+            git diff --cached --quiet || git commit -m "$MSG"
           done
           echo "push failed after 10 attempts" >&2; exit 1

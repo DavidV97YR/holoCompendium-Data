@@ -43,27 +43,24 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          BASE=$(git rev-parse HEAD)
           git add data/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
-          git commit -m "full recheck: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # Wider retry budget than the other workflows: this run can take
-          # several minutes end-to-end (full catalog, paginated API calls),
-          # so it's more likely to overlap with a shorter update.yml /
-          # fetch-views.yml run that's already mid-push. Not time-sensitive,
-          # so it's fine to just wait it out rather than give up in ~30s.
-          #
-          # -X theirs: on a genuine content conflict (both jobs touched the
-          # same field), prefer THIS run's freshly re-verified value — during
-          # a rebase "theirs" means the commit being replayed, i.e. our own,
-          # not upstream's, despite how that reads. Non-conflicting changes
-          # from the other side (e.g. a brand-new video Update Channel Data
-          # just added) still merge in normally; only truly overlapping
-          # lines get resolved in Full Recheck's favor. This also prevents
-          # the "unresolved conflict" deadlock the retry loop couldn't
-          # recover from — a real conflict now resolves instead of leaving
-          # the tree stuck through every retry.
+          MSG="full recheck: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "$MSG"
+          # Another job may have pushed meanwhile. Its changes and ours are then
+          # merged by content, video by video (scripts/merge-data.js), never as
+          # lines of text: `git pull --rebase -X ours|theirs` used to drop one
+          # half of a video that moved in the sorted list while another job
+          # inserted one next to it, and the video vanished from the file.
           for i in $(seq 1 15); do
-            git pull --rebase -X theirs origin main && git push && exit 0
-            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 15
+            git push && exit 0
+            echo "push attempt $i rejected — merging onto latest main and retrying"
+            sleep 15
+            git fetch origin main || continue
+            node scripts/merge-data.js "$BASE" || exit 1
+            BASE=$(git rev-parse origin/main)
+            git add data/
+            git diff --cached --quiet || git commit -m "$MSG"
           done
           echo "push failed after 15 attempts" >&2; exit 1
