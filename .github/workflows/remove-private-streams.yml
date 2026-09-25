@@ -1,0 +1,61 @@
+name: Remove Private Past Streams (one-time)
+
+# One-time cleanup (scripts/remove-private-streams.js). Run it once with
+# "dry run" ticked and read the log; run it again with it unticked to remove
+# them. This file and the script can be deleted afterwards.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run: only list what would be removed'
+        type: boolean
+        default: true
+
+concurrency:
+  group: remove-private-streams
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout (talent files only)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts/
+            data/*/*.json
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Remove private Past Streams
+        env:
+          DATA_DIR: ./data
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: node scripts/remove-private-streams.js
+
+      - name: Commit
+        if: ${{ github.event.inputs.dry_run == 'false' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "Nothing removed"; exit 0; fi
+          git commit -m "remove private past streams (one-time)"
+          # -X theirs: during a rebase that is this commit. Another job saving
+          # the same file meanwhile keeps its other changes; only these
+          # removals are replayed on top.
+          for i in $(seq 1 10); do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 10
+          done
+          echo "push failed after 10 attempts" >&2; exit 1
