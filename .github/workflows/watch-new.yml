@@ -1,0 +1,61 @@
+name: Watch New Videos
+
+# Every 30 minutes: read each channel's uploads and members feeds, and add any
+# video that is not saved yet, identified by innertube (scripts/watch-new.js).
+# A quiet run touches nothing and commits nothing.
+#
+# Triggered externally by cron-job.org hitting the workflow_dispatch webhook,
+# the same pattern as the other workflows — GitHub's own `schedule:` trigger
+# runs late or not at all under load. Also runnable from the Actions tab.
+
+on:
+  workflow_dispatch:
+
+# One at a time; a run that finds the previous one still going waits rather
+# than racing it to the same files.
+concurrency:
+  group: watch-new
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      # Only the talent files and the scripts. The chat logs, posts and
+      # history are most of the repo and this job reads none of them.
+      - name: Checkout (talent files only)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts/
+            data/*/*.json
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check feeds for new videos
+        env:
+          DATA_DIR: ./data
+        run: node scripts/watch-new.js
+
+      - name: Commit new videos
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -m "new videos: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # -X ours: during a rebase that is whatever is already on origin. If
+          # Update Channel Data saved the same new video first, its copy stands;
+          # update.js also collapses any duplicate on its next run.
+          for i in $(seq 1 10); do
+            git pull --rebase -X ours origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 10
+          done
+          echo "push failed after 10 attempts" >&2; exit 1
