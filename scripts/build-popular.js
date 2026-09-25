@@ -45,7 +45,7 @@ const WINDOWS = { daily: 1, weekly: 7, monthly: 30 };
 const TYPES   = { streams: 'stream', videos: 'video', shorts: 'short' };
 
 const SQL = `
-  SELECT v.id, v.title, v.published, v.duration, v.views,
+  SELECT v.id, v.title, v.published, v.duration, v.views, v.actual_start,
          c.name AS channelName, c.avatar AS channelAvatar
   FROM videos v
   JOIN channels c ON c.id = v.channel_id
@@ -70,10 +70,17 @@ function main() {
     for (const [period, days] of Object.entries(WINDOWS)) {
       const rows = q.all(type, '-' + days + ' days');
       // published is stored as unix seconds; the cards want an ISO string.
-      out[key][period] = rows.map(r => Object.assign({}, r, {
-        published: new Date(Number(r.published) * 1000).toISOString(),
-        views: Number(r.views),
-      }));
+      // A stream card shows when it started, so streams carry actualStart;
+      // videos and shorts show `published`, which for them is the upload.
+      out[key][period] = rows.map(r => {
+        const row = Object.assign({}, r, {
+          published: new Date(Number(r.published) * 1000).toISOString(),
+          views: Number(r.views),
+        });
+        delete row.actual_start;
+        if (r.actual_start != null) row.actualStart = new Date(Number(r.actual_start) * 1000).toISOString();
+        return row;
+      });
       console.log('  ' + key.padEnd(8) + period.padEnd(8) + '→ ' + rows.length + ' entries');
     }
   }

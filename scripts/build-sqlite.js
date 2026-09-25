@@ -105,12 +105,16 @@ function main() {
       const ts = Math.floor(Date.parse(v.published) / 1000);
       if (!Number.isFinite(ts)) continue;
       const vc = views[v.id];
+      // When a stream really began (update.js stores it); null for uploads and
+      // for records it has not reached. `published` stays the VOD's post time.
+      const as = Date.parse(v.actualStart);
       const row = {
         id: v.id, channel_id: chId,
         title: v.title || '', published: ts,
         duration: v.duration || 0, type: v.type || 'stream',
         status: v.status || null,
         views: (vc != null && vc > 0) ? vc : null,
+        actual_start: Number.isFinite(as) ? Math.floor(as / 1000) : null,
       };
       const prev = videos.get(v.id);
       if (!prev || score(row) > score(prev)) videos.set(v.id, row);
@@ -137,14 +141,15 @@ function main() {
       duration   INTEGER NOT NULL DEFAULT 0,
       type       TEXT NOT NULL,
       status     TEXT,
-      views      INTEGER
+      views      INTEGER,
+      actual_start INTEGER
     );
   `);
 
   const insCh = db.prepare('INSERT INTO channels (id,name,branch,avatar) VALUES (?,?,?,?)');
   const insV  = db.prepare(
-    'INSERT INTO videos (id,channel_id,title,published,duration,type,status,views)' +
-    ' VALUES (?,?,?,?,?,?,?,?)');
+    'INSERT INTO videos (id,channel_id,title,published,duration,type,status,views,actual_start)' +
+    ' VALUES (?,?,?,?,?,?,?,?,?)');
 
   db.exec('BEGIN');
   for (const c of channels.values()) insCh.run(c.id, c.name, c.branch, c.avatar);
@@ -154,7 +159,7 @@ function main() {
   // difference between touching 0.4% of the table and 99%.
   const ordered = [...videos.values()].sort((a, b) => b.published - a.published);
   for (const v of ordered)
-    insV.run(v.id, v.channel_id, v.title, v.published, v.duration, v.type, v.status, v.views);
+    insV.run(v.id, v.channel_id, v.title, v.published, v.duration, v.type, v.status, v.views, v.actual_start);
   db.exec('COMMIT');
 
   db.exec(`
