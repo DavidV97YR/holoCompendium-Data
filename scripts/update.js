@@ -141,7 +141,7 @@ function deriveLiveStatus(live) {
 }
 
 // Batch up to 50 IDs per call (1 quota unit each)
-// → { id: { title, published, duration, status, scheduledStart } }
+// → { id: { title, published, duration, status, scheduledStart, actualStart } }
 async function fetchYouTubeVideoDetails(videoIds, apiKey) {
   const out = {};
   for (let i = 0; i < videoIds.length; i += 50) {
@@ -159,6 +159,11 @@ async function fetchYouTubeVideoDetails(videoIds, apiKey) {
         duration:       parseIsoDuration(item.contentDetails?.duration),
         status:         deriveLiveStatus(live),
         scheduledStart: live?.scheduledStartTime || '',
+        // When the broadcast really began. `published` is not it — for a stream
+        // that is when the VOD was posted, the END plus ~17 minutes — and the
+        // schedule can be a stale waiting room. Already in this response, so
+        // keeping it costs no quota.
+        actualStart:    live?.actualStartTime || '',
       };
     }
     if (i + 50 < videoIds.length) await new Promise(r => setTimeout(r, 150));
@@ -368,6 +373,7 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           duration:  detail.duration || 0,
           status:    detail.status || 'past',
           ...(sched && (detail.status === 'upcoming' || detail.status === 'live') ? { scheduledStart: sched } : {}),
+          ...(detail.start_actual ? { actualStart: detail.start_actual } : {}),
         });
         console.log(`    + [${entry.type}] ${entry.id} ${(detail.title || entry.title).slice(0, 50)}`);
       } catch(e) {
@@ -411,6 +417,7 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           if (d.duration && d.duration !== lv.duration) { lv.duration = d.duration; changed = true; fixed++; }
           if (d.status && d.status !== lv.status) { lv.status = d.status; changed = true; fixed++; }
           if (d.scheduledStart && d.scheduledStart !== lv.scheduledStart) { lv.scheduledStart = d.scheduledStart; changed = true; fixed++; }
+          if (d.actualStart && d.actualStart !== lv.actualStart) { lv.actualStart = d.actualStart; changed = true; fixed++; }
         }
         console.log(`    ✓ Backfill applied ${fixed} field update(s) across ${allIds.length} video(s)`);
       } catch(e) {
@@ -495,6 +502,9 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
         }
         const sched = (detail.start_scheduled || detail.available_at || '');
         if (sched && sched !== lv.scheduledStart) { lv.scheduledStart = sched; changed = true; }
+        // Holodex fills start_actual the moment a stream goes live, so this
+        // catches it on the pass that sees upcoming → live.
+        if (detail.start_actual && detail.start_actual !== lv.actualStart) { lv.actualStart = detail.start_actual; changed = true; }
       }
     }
   }

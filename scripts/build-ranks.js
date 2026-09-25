@@ -27,22 +27,22 @@
  *   "talents": [{
  *     "key": "jp/hakui-koyori", "name": "Hakui Koyori",
  *     "branch": "jp", "avatar": "https://yt3.ggpht.com/...",
- *     "streak": { "cur": 5, "max": 87, "curMem": 5, "maxMem": 90 },
- *     "w": { "d1": { streams, hours, memStreams, memHours,
- *                    views, yen, sc, members, gifts }, ... },
+ *     "streak": { "cur": 5, "max": 87 },
+ *     "w": { "d1": { streams, hours, views, yen, sc, members, gifts }, ... },
  *     "top": { "d1": { "m": <stream>|null, "v": <stream>|"m"|null }, ... }
  *   }]
  * }
  *
- * Counts and hours are split into a public half and a "mem*" half rather than
- * folded together, because the page has an "include members-only" toggle and
- * every board has to answer to it the same way. Adding them is the page's job.
+ * PUBLIC STREAMS ONLY. Members-only content is not counted anywhere, because
+ * the type here is the PLAYLIST a video came from: "member" is the members-only
+ * playlist, holding streams, videos and shorts together. Koyori's 111 include a
+ * 0.3-minute "#Shorts" and a vertical dance clip. There is no way to separate
+ * the streams back out, so counting the bucket as stream hours would invent
+ * time that was never streamed.
  *
- * The money figures are NOT split, because there is nothing to split: chat data
- * only exists for public streams. fetch-chat.js filters on `v.type === 'stream'`
- * and could not do otherwise — a members-only replay is gated, and the scraper
- * is not signed in. So `yen`, `sc`, `members` and `gifts` are whole-window
- * totals and the toggle leaves them alone; the page says as much.
+ * Chat data is public-only regardless: fetch-chat.js filters on
+ * `v.type === 'stream'` and could not do otherwise, since a members-only replay
+ * is gated and the scraper is not signed in.
  *
  * `top.m` is the window's highest-earning stream and `top.v` its most-viewed.
  * Both are public by construction. When one stream tops both, `v` is the string
@@ -95,6 +95,20 @@ const WINDOWS     = ['d1', 'd7', 'd30', 'all'];
 const JST_OFFSET_MS = 9 * 60 * 60 * 1000;
 const DAY_MS        = 24 * 60 * 60 * 1000;
 function jstDay(ms) { return Math.floor((ms + JST_OFFSET_MS) / DAY_MS); }
+
+// When a stream STARTED. `published` is when YouTube posted the VOD — the end
+// plus a few minutes — so a 22:00–01:45 JST stream counted toward the next
+// day, and a talent who alternates early and late streams got gaps that never
+// happened (Kikirara Vivi: longest 30 by end time, 118 by start). Same rule as
+// streamStart() in the site's js/shared.js.
+function startMs(v, pub) {
+  const actual = Date.parse(v.actualStart);           // stored by update.js: the real start
+  if (Number.isFinite(actual)) return actual;
+  const est   = pub - (v.duration || 0) * 1000;
+  const sched = Date.parse(v.scheduledStart);
+  if (Number.isFinite(sched) && sched <= pub && sched >= est - 3 * 3600000) return sched;
+  return est;
+}
 
 // ── Currency → yen ─────────────────────────────────────────────────────────
 // A copy of the table in the site's js/stats.js, and it has to stay in step
@@ -202,8 +216,7 @@ function readJSON(fp) {
 }
 
 function emptyWindow() {
-  return { streams: 0, hours: 0, memStreams: 0, memHours: 0,
-           views: 0, yen: 0, sc: 0, members: 0, gifts: 0 };
+  return { streams: 0, hours: 0, views: 0, yen: 0, sc: 0, members: 0, gifts: 0 };
 }
 
 function main() {
@@ -242,7 +255,6 @@ function main() {
         avatar: ch.avatarUrl || '',
         w: {}, top: {},
         _days: new Set(),      // JST day numbers with >= 1 public stream
-        _daysMem: new Set(),   // ... counting members-only streams too
         _seen: new Set(),      // video ids, so a shared upload is counted once
       };
       for (const w of WINDOWS) { t.w[w] = emptyWindow(); t.top[w] = { m: null, v: null }; }
@@ -258,17 +270,17 @@ function main() {
 
     for (const v of (data.videos || [])) {
       if (!v.id || t._seen.has(v.id)) continue;
-      // Finished broadcasts only. An upcoming stream has duration 0 and would
-      // drag every average down; "unavailable" is a private or deleted video
-      // update.js has struck twice; shorts and uploads are not streams at all.
-      if (v.type !== 'stream' && v.type !== 'member') continue;
+      // Finished public broadcasts only. An upcoming stream has duration 0 and
+      // would drag every average down; "unavailable" is a private or deleted
+      // video update.js has struck twice; shorts, uploads and the members-only
+      // playlist are not public streams.
+      if (v.type !== 'stream') continue;
       if (v.status !== 'past') continue;
 
       const ts = Date.parse(v.published);
       if (!Number.isFinite(ts)) continue;
       t._seen.add(v.id);
 
-      const isMem = v.type === 'member';
       const hours = (v.duration || 0) / 3600;
       const view  = views[v.id] > 0 ? views[v.id] : 0;
 
@@ -277,19 +289,13 @@ function main() {
       const yen     = paid ? toYen(paid.cur || {}) : 0;
 
       // Streaks count calendar days, not streams, so a day with four streams
-      // is one day. Members-only days are tracked separately so the page's
-      // "include members-only" toggle has a second streak to switch to.
-      const day = jstDay(ts);
-      t._daysMem.add(day);
-      if (!isMem) t._days.add(day);
+      // is one day.
+      t._days.add(jstDay(startMs(v, ts)));
 
       for (const w of WINDOWS) {
         if (w !== 'all' && ts < cutoff[w]) continue;
         const b = t.w[w];
-        // Counts and hours keep the two halves apart; money and views do not,
-        // because a members-only stream has neither (see the header).
-        if (isMem) { b.memStreams++; b.memHours += hours; }
-        else       { b.streams++;    b.hours    += hours; b.views += view; }
+        b.streams++; b.hours += hours; b.views += view;
         if (paid) {
           b.yen     += yen;
           b.sc      += (paid.sc || 0) + (paid.sticker || 0);
@@ -301,7 +307,7 @@ function main() {
         const beatsViews = view > 0 && (!b._v || view > b._v.views);
         if (beatsMoney || beatsViews) {
           const entry = {
-            id: v.id, title: v.title || '', published: new Date(ts).toISOString(),
+            id: v.id, title: v.title || '', published: new Date(startMs(v, ts)).toISOString(),   // when it started
             duration: v.duration || 0, yen: Math.round(yen), views: view,
           };
           if (beatsMoney) b._m = entry;
@@ -313,8 +319,7 @@ function main() {
 
   // ── Finish ───────────────────────────────────────────────────────────────
   const talents = [...byChannel.values()].map(t => {
-    const pub = streaks(t._days, today), mem = streaks(t._daysMem, today);
-    t.streak = { cur: pub.cur, max: pub.max, curMem: mem.cur, maxMem: mem.max };
+    t.streak = streaks(t._days, today);
 
     for (const w of WINDOWS) {
       const b = t.w[w];
@@ -323,11 +328,10 @@ function main() {
       // "same as the money winner" rather than as a second copy of it.
       if (t.top[w].v && t.top[w].m && t.top[w].v.id === t.top[w].m.id) t.top[w].v = 'm';
       delete b._m; delete b._v;
-      b.hours    = round2(b.hours);
-      b.memHours = round2(b.memHours);
-      b.yen      = Math.round(b.yen);
+      b.hours = round2(b.hours);
+      b.yen   = Math.round(b.yen);
     }
-    delete t._days; delete t._daysMem; delete t._seen;
+    delete t._days; delete t._seen;
     return t;
   }).sort((a, b) => a.key.localeCompare(b.key));
 
@@ -341,14 +345,13 @@ function main() {
   // ── Report ───────────────────────────────────────────────────────────────
   const kb  = (fs.statSync(OUT).size / 1024).toFixed(1);
   const all = talents.reduce((s, t) => ({
-    streams: s.streams + t.w.all.streams, hours: s.hours + t.w.all.hours,
-    mem:     s.mem     + t.w.all.memStreams,
+    streams: s.streams + t.w.all.streams,
+    hours:   s.hours   + t.w.all.hours,
     yen:     s.yen     + t.w.all.yen,
-  }), { streams: 0, hours: 0, mem: 0, yen: 0 });
+  }), { streams: 0, hours: 0, yen: 0 });
 
   console.log('  talents          : ' + talents.length);
-  console.log('  streams (public) : ' + all.streams.toLocaleString());
-  console.log('  streams (member) : ' + all.mem.toLocaleString());
+  console.log('  streams          : ' + all.streams.toLocaleString());
   console.log('  hours            : ' + Math.round(all.hours).toLocaleString());
   console.log('  superchats       : JPY ' + Math.round(all.yen).toLocaleString());
   if (unknownSymbols.size) {

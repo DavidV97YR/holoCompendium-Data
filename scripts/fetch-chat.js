@@ -481,6 +481,11 @@ function buildChatIndex(dataDir, days) {
 
       const s   = done[v.id];
       const row = { id: v.id, ch: key, title: v.title || '', published: v.published, duration: v.duration };
+      // Carried so the Stats feed can place the stream at the hour it started:
+      // `published` is when the VOD went up, and without this the feed can only
+      // estimate the start from published minus duration, ~17 minutes late.
+      if (v.scheduledStart) row.scheduledStart = v.scheduledStart;
+      if (v.actualStart)    row.actualStart    = v.actualStart;
       if (s === undefined || (s && s.e)) {
         // Walked and failed, or not walked yet — the feed shows the stream with
         // its numbers pending rather than pretending it earned nothing.
