@@ -4,6 +4,7 @@ const https = require('https');
 const http  = require('http');
 const fs    = require('fs');
 const path  = require('path');
+const { classify } = require('./innertube');
 
 // One-time repair list (scripts/type-restore.json): videos an older Full
 // Recheck relabelled "stream" after they went private, deleted or unlisted,
@@ -529,6 +530,28 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
         }
 
         if (hstatus === 'missing') {
+          // Holodex also drops streams YouTube still shows: free chat rooms,
+          // a waiting room left unused. Marking those unavailable here while
+          // the Full Recheck (which asks YouTube) set them back to upcoming
+          // flipped them between hidden and shown twice a day. YouTube decides:
+          // still there → its status; private or removed → unavailable now.
+          // Only when innertube is bot-checked does the two-miss rule apply.
+          const yt = await classify(lv.id).catch(e => ({ unidentified: 'error: ' + e.message }));
+          if (!yt.unidentified) {
+            if (lv.missStreak) { delete lv.missStreak; changed = true; }
+            if (yt.status && yt.status !== lv.status) {
+              console.log(`    ↻ ${lv.id}: ${lv.status} → ${yt.status} (YouTube; Holodex no longer lists it)`);
+              lv.status = yt.status; changed = true;
+            }
+            if (yt.actualStart && yt.actualStart !== lv.actualStart) { lv.actualStart = yt.actualStart; changed = true; }
+            if (yt.duration && !lv.duration) { lv.duration = yt.duration; changed = true; }
+            continue;
+          }
+          if (/private|removed|unavailable|terminated|deleted|no longer/i.test(yt.unidentified)) {
+            lv.status = 'unavailable'; delete lv.missStreak; changed = true;
+            console.log(`    ✕ unavailable: ${lv.id} (YouTube: ${yt.unidentified})`);
+            continue;
+          }
           lv.missStreak = (lv.missStreak || 0) + 1;
           if (lv.missStreak >= 2) { lv.status = 'unavailable'; delete lv.missStreak; }
           changed = true;
