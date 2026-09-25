@@ -195,7 +195,12 @@ function main() {
   const avatarsOut = path.join(DATA_DIR, 'avatars.json');
   const sorted = {};
   for (const k of Object.keys(avatars).sort()) sorted[k] = avatars[k];
-  fs.writeFileSync(avatarsOut, JSON.stringify({ lastUpdated: new Date().toISOString(), avatars: sorted }, null, 2) + '\n', 'utf8');
+  // Its time moves only when an avatar does, or every run would commit it.
+  let prev = null;
+  try { prev = JSON.parse(fs.readFileSync(avatarsOut, 'utf8')); } catch {}
+  const same = prev && JSON.stringify(prev.avatars) === JSON.stringify(sorted);
+  const lastUpdated = same && prev.lastUpdated ? prev.lastUpdated : new Date().toISOString();
+  fs.writeFileSync(avatarsOut, JSON.stringify({ lastUpdated, avatars: sorted }, null, 2) + '\n', 'utf8');
 
   const mb = (fs.statSync(OUT).size / 1048576).toFixed(1);
   console.log('  channels         : ' + channels.size);

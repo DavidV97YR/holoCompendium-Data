@@ -625,8 +625,15 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
   // ── 4. Holodex diff: avatar + banner ─────────────────────────────────────
   try {
     const ch = await fetchHolodexChannel(resolvedId, holodexKey);
-    const cleanPhoto  = (ch.photo  || '').replace(/=s\d+.*$/, '');
-    const cleanBanner = (ch.banner || '') + (ch.banner ? '=s0' : '');
+    let cleanPhoto  = (ch.photo  || '').replace(/=s\d+.*$/, '');
+    let cleanBanner = (ch.banner || '') + (ch.banner ? '=s0' : '');
+
+    // Holodex keeps a graduated channel's old images after YouTube deletes
+    // them. Taking those, finding them dead below and fetching YouTube's back
+    // left the file the same but saved it every run. A dead one is ignored.
+    const dead = async u => [404, 410].includes(await head(u).catch(() => 0));
+    if (cleanPhoto  && cleanPhoto  !== local.channel.avatarUrl && await dead(cleanPhoto))  cleanPhoto  = '';
+    if (cleanBanner && cleanBanner !== local.channel.bannerUrl && await dead(cleanBanner)) cleanBanner = '';
 
     if (cleanPhoto && cleanPhoto !== local.channel.avatarUrl) {
       local.channel.avatarUrl = cleanPhoto;
