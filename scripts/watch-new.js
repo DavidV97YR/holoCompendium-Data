@@ -12,8 +12,9 @@
 //
 // The type it saves is the ground truth: records carry typedBy "innertube",
 // and the Full Recheck never re-sorts those between stream, video and Short
-// (see update.js). A video innertube cannot identify this time (bot-gated) is
-// not saved, so the next run, five minutes later, simply tries it again.
+// (see update.js). A video innertube is bot-checked on is looked up through the
+// official Data API instead and saved without that lock; one neither can
+// settle is not saved, so the next run, five minutes later, tries it again.
 
 const fs   = require('fs');
 const path = require('path');
@@ -42,6 +43,37 @@ async function feed(playlistId) {
     if (id) out.push({ id: id[1].trim(), title: t ? decodeHtmlEntities(t[1].trim()) : '', published: p ? p[1].trim() : '' });
   }
   return out;
+}
+
+// The official Data API's view of one video, for when innertube is bot-checked.
+// 1 quota unit, spent only on a video innertube could not identify, and only
+// until it has been saved. `broadcast` means it has liveStreamingDetails: a
+// stream (or a premiere, which the Full Recheck sorts out — these records are
+// not locked).
+async function dataApiClassify(id) {
+  const key = process.env.YT_API_KEY;
+  if (!key) return { unidentified: 'no YT_API_KEY' };
+  const qs = new URLSearchParams({ part: 'snippet,contentDetails,liveStreamingDetails', id, key });
+  const r = await fetch('https://www.googleapis.com/youtube/v3/videos?' + qs);
+  if (!r.ok) return { unidentified: 'HTTP ' + r.status };
+  const item = ((await r.json()).items || [])[0];
+  if (!item) return { unidentified: 'not returned (private or deleted)' };
+  const live = item.liveStreamingDetails || null;
+  const d = (item.contentDetails && item.contentDetails.duration || '').match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  const iso = t => { const ms = Date.parse(t); return Number.isFinite(ms) ? new Date(ms).toISOString() : ''; };
+  let status = 'past';
+  if (live && live.actualStartTime && !live.actualEndTime) status = 'live';
+  else if (live && !live.actualStartTime)                   status = 'upcoming';
+  return {
+    title:     (item.snippet && item.snippet.title) || '',
+    published: iso(item.snippet && item.snippet.publishedAt),
+    type:      live ? 'stream' : 'video',
+    broadcast: !!live,
+    duration:  d ? (+d[1] || 0) * 3600 + (+d[2] || 0) * 60 + (+d[3] || 0) : 0,
+    status,
+    ...(live && live.scheduledStartTime ? { scheduledStart: iso(live.scheduledStartTime) } : {}),
+    ...(live && live.actualStartTime    ? { actualStart:    iso(live.actualStartTime) }    : {}),
+  };
 }
 
 // Every talent file, grouped by channel. Talents who share a channel (the
@@ -86,12 +118,37 @@ async function main() {
     if (!fresh.length) continue;
 
     const records = [];
+    let lists = null;                     // Videos / Shorts feeds, fetched only if the fallback needs them
     for (const entry of fresh) {
       let info = null;
       try { info = await classify(entry.id); } catch (e) { info = { unidentified: e.message }; }
+      let typedBy = 'innertube';
       if (info.unidentified) {
-        console.log(`  … ${group.name}: ${entry.id} not identifiable this time (${info.unidentified}) — retried next run`);
-        skipped++; continue;
+        // Innertube is bot-checked from GitHub's addresses, and for some videos
+        // — live streams and streams that just ended, it turns out — on every
+        // single try. The official Data API is never bot-checked. It cannot
+        // tell a Short from a video, so the Shorts and Videos feeds settle
+        // that, and the result is saved WITHOUT the innertube lock: the Full
+        // Recheck can still correct it.
+        const fb = await dataApiClassify(entry.id).catch(e => ({ unidentified: e.message }));
+        if (fb.unidentified) {
+          console.log(`  … ${group.name}: ${entry.id} not identifiable this time (${info.unidentified}; API: ${fb.unidentified}) — retried next run`);
+          skipped++; continue;
+        }
+        if (!fb.broadcast) {
+          if (!lists) {
+            const [v, s] = await Promise.all([feed('UULF' + suffix).catch(() => []), feed('UUSH' + suffix).catch(() => [])]);
+            lists = { videos: new Set(v.map(e => e.id)), shorts: new Set(s.map(e => e.id)) };
+          }
+          if (lists.shorts.has(entry.id))      fb.type = 'short';
+          else if (lists.videos.has(entry.id)) fb.type = 'video';
+          else {                               // an upload in neither list yet: wait rather than guess
+            console.log(`  … ${group.name}: ${entry.id} not in the Videos or Shorts list yet — retried next run`);
+            skipped++; continue;
+          }
+        }
+        info = fb;
+        typedBy = 'data-api';
       }
       // The members feed is YouTube's own list of members content; it wins.
       if (memberIds.has(entry.id)) info.type = 'member';
@@ -104,9 +161,9 @@ async function main() {
         status:    info.status,
         ...(info.scheduledStart ? { scheduledStart: info.scheduledStart } : {}),
         ...(info.actualStart    ? { actualStart:    info.actualStart }    : {}),
-        typedBy:   'innertube',
+        ...(typedBy === 'innertube' ? { typedBy } : {}),
       });
-      console.log(`  + ${group.name}: [${info.type}${info.status !== 'past' ? ', ' + info.status : ''}] ${entry.id} ${(info.title || entry.title).slice(0, 50)}`);
+      console.log(`  + ${group.name}: [${info.type}${info.status !== 'past' ? ', ' + info.status : ''}]${typedBy === 'innertube' ? '' : ' (via API)'} ${entry.id} ${(info.title || entry.title).slice(0, 50)}`);
       await pause(250);
     }
     if (!records.length) continue;
