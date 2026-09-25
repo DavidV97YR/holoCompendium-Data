@@ -55,9 +55,12 @@ function channelFiles(dir) {
   if (!fs.existsSync(dir)) return out;
   for (const branch of fs.readdirSync(dir)) {
     const bp = path.join(dir, branch);
-    if (!fs.statSync(bp).isDirectory()) continue;
+    // data/posts/ holds community posts, not channels.
+    if (branch === 'posts' || !fs.statSync(bp).isDirectory()) continue;
     for (const f of fs.readdirSync(bp)) {
-      if (f.endsWith('.json') && !f.endsWith('-views.json')) out.push(path.join(bp, f));
+      // Channel files only. A -chat.json is the largest file in the folder and
+      // was parsed in full just to be turned away with "no channel.id".
+      if (f.endsWith('.json') && !/-(views|chat)\.json$/.test(f)) out.push(path.join(bp, f));
     }
   }
   return out;

@@ -192,14 +192,14 @@ function toYen(cur) {
 // ── Reading the data folder ────────────────────────────────────────────────
 // A channel file is "<branch>/<slug>.json"; its companions are "-views.json"
 // and "-chat.json". Excluding both by suffix is what keeps a chat file from
-// being read as a channel — build-sqlite.js excludes only -views, which is why
-// it logs a "no channel.id" line per talent every run.
+// being read as a channel.
 function channelFiles(dir) {
   const out = [];
   if (!fs.existsSync(dir)) return out;
   for (const branch of fs.readdirSync(dir).sort()) {
     const bp = path.join(dir, branch);
-    if (!fs.statSync(bp).isDirectory()) continue;
+    // data/posts/ holds community posts, not channels.
+    if (branch === 'posts' || !fs.statSync(bp).isDirectory()) continue;
     for (const f of fs.readdirSync(bp).sort()) {
       if (!f.endsWith('.json')) continue;
       if (f.endsWith('-views.json') || f.endsWith('-chat.json')) continue;
@@ -288,12 +288,17 @@ function main() {
       const paid    = isAnalysed(summary) ? summary : null;
       const yen     = paid ? toYen(paid.cur || {}) : 0;
 
+      // When it started, which is what every page shows. published is the VOD
+      // going up, i.e. the end, so a stream that began 25 hours ago and ran
+      // three hours still counted as "last 24 hours" by it.
+      const start = startMs(v, ts);
+
       // Streaks count calendar days, not streams, so a day with four streams
       // is one day.
-      t._days.add(jstDay(startMs(v, ts)));
+      t._days.add(jstDay(start));
 
       for (const w of WINDOWS) {
-        if (w !== 'all' && ts < cutoff[w]) continue;
+        if (w !== 'all' && start < cutoff[w]) continue;
         const b = t.w[w];
         b.streams++; b.hours += hours; b.views += view;
         if (paid) {
@@ -307,7 +312,7 @@ function main() {
         const beatsViews = view > 0 && (!b._v || view > b._v.views);
         if (beatsMoney || beatsViews) {
           const entry = {
-            id: v.id, title: v.title || '', published: new Date(startMs(v, ts)).toISOString(),   // when it started
+            id: v.id, title: v.title || '', published: new Date(start).toISOString(),   // when it started
             duration: v.duration || 0, yen: Math.round(yen), views: view,
           };
           if (beatsMoney) b._m = entry;

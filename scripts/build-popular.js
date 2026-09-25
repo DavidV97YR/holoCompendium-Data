@@ -50,7 +50,11 @@ const SQL = `
   FROM videos v
   JOIN channels c ON c.id = v.channel_id
   WHERE v.type = ?
-    AND v.published >= strftime('%s', 'now', ?)
+    -- A stream counts from when it started, as its card says (published is
+    -- its VOD going up, at the end); videos and Shorts have no start, so it is
+    -- their upload. strftime() answers in text, which a column's number
+    -- affinity used to convert; an expression has none, so it is cast here.
+    AND COALESCE(v.actual_start, v.published) >= CAST(strftime('%s', 'now', ?) AS INTEGER)
     AND v.views > 0
   ORDER BY v.views DESC, v.id
   LIMIT ${LIMIT}`;
