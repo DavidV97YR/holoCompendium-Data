@@ -544,8 +544,10 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
       // pass for good). Asked once each; typeChecked marks the ones Holodex
       // could not settle, so they are not asked again every day.
       if (ytDetails) {
+        // A stream innertube identified is a stream, private or not (an
+        // unarchived karaoke, say): Holodex is never asked about it.
         const suspects = local.videos.filter(v => v.type === 'stream' && !ytDetails[v.id]
-          && !v.actualStart && !v.typeChecked).slice(0, 40);
+          && v.typedBy !== 'innertube' && !v.actualStart && !v.typeChecked).slice(0, 40);
         let repaired = 0;
         for (const lv of suspects) {
           try {
