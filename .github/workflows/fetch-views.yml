@@ -13,6 +13,8 @@ on:
 jobs:
   fetch-views:
     runs-on: ubuntu-latest
+    # Stops a stuck run from holding for GitHub's default six hours.
+    timeout-minutes: 60
     permissions:
       contents: write
 

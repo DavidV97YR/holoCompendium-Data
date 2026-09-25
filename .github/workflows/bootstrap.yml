@@ -3,14 +3,21 @@ name: Bootstrap Channel
 on:
   workflow_dispatch:
     inputs:
+      # No default. "all" used to be pre-filled, one click from rebuilding every
+      # talent from scratch. Existing talents are now skipped unless force is
+      # ticked, but the rows should still be typed on purpose.
       rows:
-        description: 'Rows to process (e.g. 74, 2-10, 2,5,74 or "all")'
+        description: 'Rows to bootstrap (e.g. 74, 2-10, 2,5,74) — new talents only'
         required: true
-        default: 'all'
+      force:
+        description: 'Rebuild talents that already have a file (wipes their history)'
+        type: boolean
+        default: false
 
 jobs:
   bootstrap:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     permissions:
       contents: write
     steps:
@@ -27,6 +34,7 @@ jobs:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
           CSV_URL:    ${{ secrets.CSV_URL }}
           ROWS:       ${{ github.event.inputs.rows }}
+          FORCE:      ${{ github.event.inputs.force }}
           OUT_DIR:    ./data
         run: node scripts/bootstrap.js
 
@@ -35,6 +43,14 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet && echo "No changes to commit" || \
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "bootstrap: ${{ github.event.inputs.rows }}"
-          git push
+          # Retried like every other writer. With the watcher committing every
+          # few minutes, a single push was likely to lose the race and throw the
+          # whole bootstrap away. -X ours defers to origin on a real conflict;
+          # a brand-new talent file cannot conflict with anything.
+          for i in $(seq 1 10); do
+            git pull --rebase -X ours origin main && git push && exit 0
+            echo "push attempt $i rejected — rebasing onto latest main and retrying"; sleep 10
+          done
+          echo "push failed after 10 attempts" >&2; exit 1

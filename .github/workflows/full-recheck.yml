@@ -16,6 +16,8 @@ on:
 jobs:
   full-recheck:
     runs-on: ubuntu-latest
+    # A full recheck takes about 90 minutes; this only stops a stuck one.
+    timeout-minutes: 180
     permissions:
       contents: write
     steps:
