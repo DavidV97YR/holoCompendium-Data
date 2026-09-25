@@ -348,7 +348,16 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
   // payload to say nothing. Stripped on load so existing records shed it too.
   for (const v of local.videos) {
     if (v.thumbnail !== undefined) { delete v.thumbnail; changed = true; }
+    // Holodex has statuses of its own ("new" for a video it has not processed
+    // yet, "missing"), and the old new-video path stored them verbatim. The
+    // site knows past / live / upcoming / unavailable only.
+    if (v.status !== undefined && !['past', 'live', 'upcoming', 'unavailable'].includes(v.status)) {
+      v.status = 'past'; changed = true;
+    }
   }
+  // A count that no longer matches the list (left by a text merge of two jobs'
+  // commits) is corrected by the save below.
+  if (local.videoCount !== local.videos.length) changed = true;
 
   // Use channel ID from JSON — already resolved to UC... by bootstrap
   const resolvedId = local.channel.id;
