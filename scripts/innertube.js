@@ -13,28 +13,44 @@
 //
 // It cannot see private or deleted videos (they answer "private video" or
 // "unavailable" with no details), and a bot-gated response comes back without
-// the microformat block. Both return null: the caller must not guess.
+// the microformat block. Both come back as { unidentified: reason }: the
+// caller must not guess.
 
-const KEY    = 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8';   // public WEB key, baked into youtube.com
-const CLIENT = { clientName: 'WEB', clientVersion: '2.20240101.00.00', hl: 'en' };
+const KEY = 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8';   // public WEB key, baked into youtube.com
+// Tried in order. Both return the full microformat; YouTube's bot check
+// ("Sign in to confirm you're not a bot") lands on individual requests from
+// datacenter addresses like GitHub's, so a second client a moment later
+// usually gets through where the first did not.
+const CLIENTS = [
+  { clientName: 'WEB',  clientVersion: '2.20240101.00.00', hl: 'en' },
+  { clientName: 'MWEB', clientVersion: '2.20240101.00.00', hl: 'en' },
+];
 
-async function player(id) {
+async function player(id, client) {
   const r = await fetch('https://www.youtube.com/youtubei/v1/player?key=' + KEY, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ context: { client: CLIENT }, videoId: id }),
+    body: JSON.stringify({ context: { client }, videoId: id }),
   });
   if (!r.ok) throw new Error('innertube HTTP ' + r.status);
   return r.json();
 }
 
-// → { title, published, type, duration, status, scheduledStart?, actualStart? } or null
+// → { title, published, type, duration, status, scheduledStart?, actualStart? }
+//   or { unidentified: reason } when no client could see it.
 async function classify(id) {
-  const p  = await player(id);
+  let p = null, reason = '';
+  for (const [i, client] of CLIENTS.entries()) {
+    if (i) await new Promise(r => setTimeout(r, 1500));
+    p = await player(id, client);
+    if (p.microformat && p.videoDetails && p.videoDetails.videoId) break;
+    reason = ((p.playabilityStatus || {}).reason || (p.playabilityStatus || {}).status || 'no details').slice(0, 60);
+    p = null;
+  }
+  if (!p) return { unidentified: reason };           // private, deleted or bot-gated
   const ps = p.playabilityStatus || {};
   const vd = p.videoDetails || {};
-  const mf = (p.microformat && p.microformat.playerMicroformatRenderer) || null;
-  if (!mf || !vd.videoId) return null;                 // private, deleted or bot-gated
+  const mf = p.microformat.playerMicroformatRenderer || {};
 
   const lb       = mf.liveBroadcastDetails || null;
   const members  = /members-only|Join this channel/i.test(JSON.stringify(ps));

@@ -8,9 +8,12 @@
 // with its real start time if it is live or finished.
 //
 // It only ever ADDS videos. Everything else (titles, durations, status
-// changes, the daily corrections) stays with update.js, which also treats
-// anything this adds as already known. A video innertube cannot identify
-// (bot-gated, or already private) is left for update.js rather than guessed.
+// changes) stays with update.js, which treats anything this adds as known.
+//
+// The type it saves is the ground truth: records carry typedBy "innertube",
+// and the Full Recheck never re-sorts those between stream, video and Short
+// (see update.js). A video innertube cannot identify this time (bot-gated) is
+// not saved, so the next run, five minutes later, simply tries it again.
 
 const fs   = require('fs');
 const path = require('path');
@@ -85,8 +88,11 @@ async function main() {
     const records = [];
     for (const entry of fresh) {
       let info = null;
-      try { info = await classify(entry.id); } catch (e) { console.log(`  ⚠ ${entry.id}: ${e.message}`); }
-      if (!info) { console.log(`  … ${group.name}: ${entry.id} not identifiable yet — left for the regular update`); skipped++; continue; }
+      try { info = await classify(entry.id); } catch (e) { info = { unidentified: e.message }; }
+      if (info.unidentified) {
+        console.log(`  … ${group.name}: ${entry.id} not identifiable this time (${info.unidentified}) — retried next run`);
+        skipped++; continue;
+      }
       // The members feed is YouTube's own list of members content; it wins.
       if (memberIds.has(entry.id)) info.type = 'member';
       records.push({
@@ -98,6 +104,7 @@ async function main() {
         status:    info.status,
         ...(info.scheduledStart ? { scheduledStart: info.scheduledStart } : {}),
         ...(info.actualStart    ? { actualStart:    info.actualStart }    : {}),
+        typedBy:   'innertube',
       });
       console.log(`  + ${group.name}: [${info.type}${info.status !== 'past' ? ', ' + info.status : ''}] ${entry.id} ${(info.title || entry.title).slice(0, 50)}`);
       await pause(250);
@@ -117,7 +124,7 @@ async function main() {
   }
 
   console.log(`\n${groups.size} channels checked in ${((Date.now() - started) / 1000).toFixed(1)}s — `
-            + `${added} new video(s) added, ${skipped} left for the regular update, ${failed} feed failure(s)`);
+            + `${added} new video(s) added, ${skipped} to retry next run, ${failed} feed failure(s)`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

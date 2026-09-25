@@ -488,6 +488,20 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           // an unlisted upload sits in none of the playlists either, and that is
           // how Koganei Niko's still-public 37-second Short stayed a "stream".
           if (trueType === 'stream' && !ytDetails[lv.id].broadcast) continue;
+          // Identified by innertube when it went up (watch-new.js): that is the
+          // ground truth for stream / video / Short, and elimination never
+          // overrides it. Moving into or out of members-only is a real change a
+          // talent makes (a members stream opened to everyone), so that one is
+          // still followed — from the members list, and only while YouTube still
+          // shows the video, so a private one is never touched.
+          if (lv.typedBy === 'innertube') {
+            const visible = !!ytDetails[lv.id];
+            if (!visible) continue;
+            if (memberSet.has(lv.id))        trueType = 'member';
+            else if (lv.type === 'member')   trueType = ytDetails[lv.id].broadcast ? 'stream'
+                                                      : shortSet.has(lv.id) ? 'short' : 'video';
+            else                             continue;
+          }
           if (trueType !== lv.type) {
             console.log(`    ↻ Type fix [${lv.id}]: ${lv.type} → ${trueType}`);
             lv.type = trueType;
