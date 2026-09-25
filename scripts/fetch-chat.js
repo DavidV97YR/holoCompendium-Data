@@ -525,11 +525,15 @@ function buildChatIndex(dataDir, days) {
   // instants by punctuation and would break on a real UTC offset.
   streams.sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
   const out = path.join(dataDir, 'chat-index.json');
+  // Its time moves only when the index does, or a run that found nothing new
+  // would still commit it.
+  const body = { days: days, channels: channels, streams: streams };
+  const prev = readJson(out, null);
+  const same = prev && prev.lastUpdated
+    && JSON.stringify({ days: prev.days, channels: prev.channels, streams: prev.streams }) === JSON.stringify(body);
   fs.writeFileSync(out, JSON.stringify({
-    lastUpdated: new Date().toISOString(),
-    days:        days,
-    channels:    channels,
-    streams:     streams,
+    lastUpdated: same ? prev.lastUpdated : new Date().toISOString(),
+    ...body,
   }), 'utf8');
   return { streams: streams.length, channels: Object.keys(channels).length, bytes: fs.statSync(out).size };
 }
