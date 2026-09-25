@@ -1,0 +1,143 @@
+{
+ "about": "One-time type restore. Each entry is a video a Full Recheck wrongly switched to \"stream\" after it went private/deleted/unlisted; \"to\" is the type saved while it was public, from the repo history. update.js applies an entry only while the video still has the \"from\" type, so this is safe to leave in place and can be deleted once applied.",
+ "restore": [
+  {
+   "id": "5yM6Tl_dO5w",
+   "from": "stream",
+   "to": "member",
+   "note": "dev_is/isaki-riona — 【 メンバーシップ限定 】メンバーさんと話したいっ❤【ホロライブ DEV_I"
+  },
+  {
+   "id": "YMYiIY11tqs",
+   "from": "stream",
+   "to": "member",
+   "note": "en/ouro-kronii — 【Members Only】 Unarchived Karaoke: Yay"
+  },
+  {
+   "id": "5QNi_qmslNw",
+   "from": "stream",
+   "to": "member",
+   "note": "en/takanashi-kiara — 【MEMBERS ONLY】KIARAOKE!! REBROADCAST!!"
+  },
+  {
+   "id": "jz545PpR4uo",
+   "from": "stream",
+   "to": "member",
+   "note": "en/takanashi-kiara — 【MEMBERS ONLY】KIARAOKE!! UNARCHIVED!!!"
+  },
+  {
+   "id": "sZmzykJ9fmM",
+   "from": "stream",
+   "to": "member",
+   "note": "id/ayunda-risu — PRRRRIIIIIIIIIIIIIIIIIIISUNERS NIGHT"
+  },
+  {
+   "id": "CYRIvch8nlA",
+   "from": "stream",
+   "to": "member",
+   "note": "id/kureiji-ollie — 【ZOMILY - FREETALK】 IF YOU DON'T COME"
+  },
+  {
+   "id": "IoMA0Bg9NY8",
+   "from": "stream",
+   "to": "member",
+   "note": "id/vestia-zeta — 【Chat】Life Update!"
+  },
+  {
+   "id": "UqxS0JzCPI4",
+   "from": "stream",
+   "to": "member",
+   "note": "jp/nakiri-ayame — 【member ship only】ゆる雑談+ほんの少しの歌を添えて(いく予"
+  },
+  {
+   "id": "hM9DIJPWXzk",
+   "from": "stream",
+   "to": "video",
+   "note": "jp/yuzuki-choco — 【original】お陰様で/癒月ちょこ【ホロライブ】"
+  },
+  {
+   "id": "Ko66ojpHM3w",
+   "from": "stream",
+   "to": "video",
+   "note": "jp/akai-haato — 京都ではんなり菓子尽くしの旅!【ホロライブ/赤井はあと】"
+  },
+  {
+   "id": "8EqfY4iONac",
+   "from": "stream",
+   "to": "member",
+   "note": "dev_is/juufuutei-raden — 【メン限同時視聴】温泉シャーク!!!!!見る!!!!【儒烏風亭らでん #Re"
+  },
+  {
+   "id": "MOP1SbJHM7A",
+   "from": "stream",
+   "to": "video",
+   "note": "dev_is/juufuutei-raden — らでんちゃんが念白を詠んだ!?「特撮人形劇の世界展」宣伝PVついに公開!"
+  },
+  {
+   "id": "XfOvLmStwew",
+   "from": "stream",
+   "to": "member",
+   "note": "id/ayunda-risu — hening sedikit karena me wanna refresh"
+  },
+  {
+   "id": "3R3CyFwOdX4",
+   "from": "stream",
+   "to": "member",
+   "note": "id/ayunda-risu — Prisuners Night JUMPSCARE"
+  },
+  {
+   "id": "uv2bGdG-lR0",
+   "from": "stream",
+   "to": "short",
+   "note": "dev_is/koganei-niko — いっしょうけんめいおどりました🐾 #虎のいる生活"
+  },
+  {
+   "id": "gAXajnHIFfQ",
+   "from": "stream",
+   "to": "video",
+   "note": "en/hakos-baelz — Hakos Baelz - 50 Questions with the Ra"
+  },
+  {
+   "id": "yo9LEj3abyE",
+   "from": "stream",
+   "to": "member",
+   "note": "jp/la-darknesss — 【星のカービィ ディスカバリー】#2 いっぱいたべるぽよ!!!!!【ラプラス"
+  },
+  {
+   "id": "8wYJsbFvEHQ",
+   "from": "stream",
+   "to": "member",
+   "note": "en/mori-calliope — 【ASMR GAMING】DORFROMANTIK! Building a"
+  },
+  {
+   "id": "jIYmEBX58hs",
+   "from": "stream",
+   "to": "video",
+   "note": "jp/hoshimachi-suisei — 星詠みぱじゃまぱーてぃーvol.1 大阪公演ダイジェスト【24時間限定公開】"
+  },
+  {
+   "id": "SQqpK0FbIQk",
+   "from": "stream",
+   "to": "member",
+   "note": "en/gigi-murin — 【GREMBERS UNARCHIVED】who wants hanging"
+  },
+  {
+   "id": "AAHuZ7Ednnw",
+   "from": "stream",
+   "to": "member",
+   "note": "id/ayunda-risu — working afternoon biar banyak yang kel"
+  },
+  {
+   "id": "QYFokdBCPWs",
+   "from": "stream",
+   "to": "video",
+   "note": "jp/tokino-sora — 【期間限定公開】ときのそら New Year's Party 2026「Dr"
+  },
+  {
+   "id": "0sSdbzWxciE",
+   "from": "short",
+   "to": "member",
+   "note": "dev_is/koganei-niko — エルフ/虎金妃笑虎(cover), members-only while public"
+  }
+ ]
+}

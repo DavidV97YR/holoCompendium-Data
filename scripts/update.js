@@ -5,6 +5,18 @@ const http  = require('http');
 const fs    = require('fs');
 const path  = require('path');
 
+// One-time repair list (scripts/type-restore.json): videos an older Full
+// Recheck relabelled "stream" after they went private, deleted or unlisted,
+// with the type they had while public, recovered from the repo's history.
+// An entry only applies while the video still has its "from" type, so it is
+// idempotent, and the file can be deleted once every entry has been applied.
+const TYPE_RESTORE = (() => {
+  try {
+    const doc = JSON.parse(fs.readFileSync(path.join(__dirname, 'type-restore.json'), 'utf8'));
+    return new Map((doc.restore || []).map(e => [e.id, e]));
+  } catch { return new Map(); }
+})();
+
 // ── helpers ───────────────────────────────────────────────────────────────────
 
 // In CI (GitHub Actions) SSL is fine; locally disable verification for dev proxies
@@ -164,6 +176,9 @@ async function fetchYouTubeVideoDetails(videoIds, apiKey) {
         // schedule can be a stale waiting room. Already in this response, so
         // keeping it costs no quota.
         actualStart:    live?.actualStartTime || '',
+        // Whether it was ever a broadcast at all. A stream always carries
+        // liveStreamingDetails; an upload never does.
+        broadcast:      !!live,
       };
     }
     if (i + 50 < videoIds.length) await new Promise(r => setTimeout(r, 150));
@@ -278,6 +293,15 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
 
   const local = JSON.parse(fs.readFileSync(filePath, 'utf8'));
   let changed = false;
+
+  for (const lv of local.videos) {
+    const fix = TYPE_RESTORE.get(lv.id);
+    if (fix && lv.type === fix.from) {
+      console.log(`    ↻ Type restore [${lv.id}]: ${lv.type} → ${fix.to} (from history)`);
+      lv.type = fix.to;
+      changed = true;
+    }
+  }
 
   // Collapse any video listed twice, keeping whichever copy has more filled in.
   // Done on load so the rest of the run only ever sees one entry per id — the
@@ -460,6 +484,10 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           // into a "stream" on the next recheck — Kikirara Vivi's 17-second
           // MARIO KART DANCE among them. With no evidence, keep the type it had.
           if (trueType === 'stream' && (!ytDetails || !ytDetails[lv.id])) continue;
+          // Nor for a video YouTube does return but that was never a broadcast:
+          // an unlisted upload sits in none of the playlists either, and that is
+          // how Koganei Niko's still-public 37-second Short stayed a "stream".
+          if (trueType === 'stream' && !ytDetails[lv.id].broadcast) continue;
           if (trueType !== lv.type) {
             console.log(`    ↻ Type fix [${lv.id}]: ${lv.type} → ${trueType}`);
             lv.type = trueType;
