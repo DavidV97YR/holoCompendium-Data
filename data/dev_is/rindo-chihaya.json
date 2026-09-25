@@ -7,27 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-09-25T17:26:31.604Z",
+  "lastUpdated": "2026-09-25T19:09:58.573Z",
   "videoCount": 815,
   "videos": [
     {
-      "id": "GuBH9oU45jw",
-      "title": "【DARK SOULS III】#9 また火を継ぎにいくぞ!!!!!※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-09-25T12:28:53.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-26T06:00:00Z"
-    },
-    {
       "id": "HxwogHrIk_w",
-      "title": "【#マイクラ肝試し2026】はじめての肝試し!お散歩するゾイ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-09-25T12:22:37.000Z",
+      "title": "【#マイクラ肝試し2026】はじめての肝試し！お散歩するゾイ【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-09-25T18:21:02+00:00",
       "type": "stream",
       "duration": 7266,
       "status": "past",
       "scheduledStart": "2026-09-25T13:00:00Z",
       "actualStart": "2026-09-25T13:00:57Z"
+    },
+    {
+      "id": "GuBH9oU45jw",
+      "title": "【DARK SOULS III】#9 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-09-25T12:28:53.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-26T06:00:00.000Z"
     },
     {
       "id": "kctpbW6MPec",
@@ -36,7 +36,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-09-27T07:00:00Z"
+      "scheduledStart": "2026-09-27T07:00:00.000Z"
     },
     {
       "id": "8OMB6xzBm7A",
@@ -7244,7 +7244,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-12-30T15:00:00Z"
+      "scheduledStart": "2026-12-30T15:00:00.000Z"
     },
     {
       "id": "SjEF6bluuJE",
