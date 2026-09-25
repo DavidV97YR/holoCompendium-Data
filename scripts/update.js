@@ -403,9 +403,13 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
       console.log(`    ⚠ Backfill requested but YT_API_KEY is not set — skipping backfill`);
     } else {
       const allIds = local.videos.map(v => v.id);
+      // What YouTube returned, kept for the type pass below: a video missing
+      // from it is private or deleted, which that pass has to know.
+      let ytDetails = null;
       console.log(`  [${Name}] Backfill: re-enriching ${allIds.length} video(s) via YouTube API...`);
       try {
         const details = await fetchYouTubeVideoDetails(allIds, ytKey);
+        ytDetails = details;
         let fixed = 0;
         for (const lv of local.videos) {
           const d = details[lv.id];
@@ -450,6 +454,12 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           if (videoSet.has(lv.id))  trueType = 'video';
           if (shortSet.has(lv.id))  trueType = 'short';
           if (memberSet.has(lv.id)) trueType = 'member';
+          // "In none of the three playlists" only means "stream" for a video
+          // YouTube still shows. A private or deleted one drops out of every
+          // playlist too, so elimination turned each privated Short and video
+          // into a "stream" on the next recheck — Kikirara Vivi's 17-second
+          // MARIO KART DANCE among them. With no evidence, keep the type it had.
+          if (trueType === 'stream' && (!ytDetails || !ytDetails[lv.id])) continue;
           if (trueType !== lv.type) {
             console.log(`    ↻ Type fix [${lv.id}]: ${lv.type} → ${trueType}`);
             lv.type = trueType;
@@ -460,6 +470,32 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
         console.log(`    ✓ Reclassified ${typeFixed} video(s)`);
       } catch(e) {
         console.log(`    ⚠ Type reclassification failed: ${e.message}`);
+      }
+
+      // ── 1b-iii. Repair: private "streams" the old elimination mislabelled ─
+      // Those records can no longer be asked of YouTube, but Holodex still
+      // knows them: a Short carries topic "shorts", and a real stream carries
+      // its start time (saved as actualStart, which also takes it out of this
+      // pass for good). Asked once each; typeChecked marks the ones Holodex
+      // could not settle, so they are not asked again every day.
+      if (ytDetails) {
+        const suspects = local.videos.filter(v => v.type === 'stream' && !ytDetails[v.id]
+          && !v.actualStart && !v.typeChecked).slice(0, 40);
+        let repaired = 0;
+        for (const lv of suspects) {
+          try {
+            const hd = await fetchHolodexVideoDetail(lv.id, holodexKey);
+            if (hd.start_actual)              { lv.actualStart = hd.start_actual; }
+            else if (hd.topic_id === 'shorts') { lv.type = 'short'; repaired++;
+                                                 console.log(`    ↻ Type repair [${lv.id}]: stream → short (private; Holodex topic shorts)`); }
+            else                               { lv.typeChecked = true; }
+          } catch (e) {
+            if (/(^|\D)404(\D|$)/.test(e.message)) lv.typeChecked = true;   // Holodex never had it
+            else continue;                                                      // transient — try again next run
+          }
+          changed = true;
+        }
+        if (suspects.length) console.log(`    ✓ Checked ${suspects.length} private stream(s) against Holodex, ${repaired} were Shorts`);
       }
     }
   }
