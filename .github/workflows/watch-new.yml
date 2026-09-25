@@ -42,6 +42,9 @@ jobs:
       - name: Check feeds for new videos
         env:
           DATA_DIR: ./data
+          # Fallback for videos innertube is bot-checked on (live and just-ended
+          # streams, from GitHub's addresses): 1 quota unit per such video.
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: node scripts/watch-new.js
 
       - name: Commit new videos
