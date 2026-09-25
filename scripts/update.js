@@ -164,6 +164,13 @@ function deriveLiveStatus(live) {
   return 'past';
 }
 
+// Start times arrive as "…:07Z" from the Data API and "…:07.000Z" from Holodex
+// and innertube. Stored one way (toISOString) and compared as instants, or the
+// Full Recheck and the Updater rewrote each other's copy of the same moment on
+// every run — a needless commit each time.
+function isoTime(t) { const ms = Date.parse(t); return Number.isFinite(ms) ? new Date(ms).toISOString() : ''; }
+function sameTime(a, b) { return Date.parse(a) === Date.parse(b); }
+
 // Batch up to 50 IDs per call (1 quota unit each)
 // → { id: { title, published, duration, status, scheduledStart, actualStart } }
 async function fetchYouTubeVideoDetails(videoIds, apiKey) {
@@ -182,12 +189,12 @@ async function fetchYouTubeVideoDetails(videoIds, apiKey) {
         published:      item.snippet?.publishedAt || '',
         duration:       parseIsoDuration(item.contentDetails?.duration),
         status:         deriveLiveStatus(live),
-        scheduledStart: live?.scheduledStartTime || '',
+        scheduledStart: isoTime(live?.scheduledStartTime),
         // When the broadcast really began. `published` is not it — for a stream
         // that is when the VOD was posted, the END plus ~17 minutes — and the
         // schedule can be a stale waiting room. Already in this response, so
         // keeping it costs no quota.
-        actualStart:    live?.actualStartTime || '',
+        actualStart:    isoTime(live?.actualStartTime),
         // Whether it was ever a broadcast at all. A stream always carries
         // liveStreamingDetails; an upload never does.
         broadcast:      !!live,
@@ -407,8 +414,8 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           }
           if (d.duration && d.duration !== lv.duration) { lv.duration = d.duration; changed = true; fixed++; }
           if (d.status && d.status !== lv.status) { lv.status = d.status; changed = true; fixed++; }
-          if (d.scheduledStart && d.scheduledStart !== lv.scheduledStart) { lv.scheduledStart = d.scheduledStart; changed = true; fixed++; }
-          if (d.actualStart && d.actualStart !== lv.actualStart) { lv.actualStart = d.actualStart; changed = true; fixed++; }
+          if (d.scheduledStart && !sameTime(d.scheduledStart, lv.scheduledStart)) { lv.scheduledStart = d.scheduledStart; changed = true; fixed++; }
+          if (d.actualStart && !sameTime(d.actualStart, lv.actualStart)) { lv.actualStart = d.actualStart; changed = true; fixed++; }
         }
         console.log(`    ✓ Backfill applied ${fixed} field update(s) across ${allIds.length} video(s)`);
       } catch(e) {
@@ -493,7 +500,7 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
         for (const lv of suspects) {
           try {
             const hd = await fetchHolodexVideoDetail(lv.id, holodexKey);
-            if (hd.start_actual)              { lv.actualStart = hd.start_actual; }
+            if (hd.start_actual)              { lv.actualStart = isoTime(hd.start_actual); }
             else if (hd.topic_id === 'shorts') { lv.type = 'short'; repaired++;
                                                  console.log(`    ↻ Type repair [${lv.id}]: stream → short (private; Holodex topic shorts)`); }
             else                               { lv.typeChecked = true; }
@@ -543,7 +550,7 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
               console.log(`    ↻ ${lv.id}: ${lv.status} → ${yt.status} (YouTube; Holodex no longer lists it)`);
               lv.status = yt.status; changed = true;
             }
-            if (yt.actualStart && yt.actualStart !== lv.actualStart) { lv.actualStart = yt.actualStart; changed = true; }
+            if (yt.actualStart && !sameTime(yt.actualStart, lv.actualStart)) { lv.actualStart = yt.actualStart; changed = true; }
             if (yt.duration && !lv.duration) { lv.duration = yt.duration; changed = true; }
             continue;
           }
@@ -567,10 +574,10 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
           changed = true;
         }
         const sched = (detail.start_scheduled || detail.available_at || '');
-        if (sched && sched !== lv.scheduledStart) { lv.scheduledStart = sched; changed = true; }
+        if (sched && !sameTime(sched, lv.scheduledStart)) { lv.scheduledStart = isoTime(sched); changed = true; }
         // Holodex fills start_actual the moment a stream goes live, so this
         // catches it on the pass that sees upcoming → live.
-        if (detail.start_actual && detail.start_actual !== lv.actualStart) { lv.actualStart = detail.start_actual; changed = true; }
+        if (detail.start_actual && !sameTime(detail.start_actual, lv.actualStart)) { lv.actualStart = isoTime(detail.start_actual); changed = true; }
       }
     }
   }
