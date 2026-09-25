@@ -329,11 +329,13 @@ async function crawlFeed(channelId, knownIds, backfill) {
       seen.add(p.id);
       if (knownIds.has(p.id)) {
         consecutiveKnown++;
-        // A backfill re-reads the whole feed anyway, so hand back what a known
-        // post looks like now. That makes backfill repair records written by an
-        // older extractor rather than only adding new ones — the same job
-        // full-recheck.yml does for videos. Normal runs skip this.
-        if (backfill) refresh.push(p);
+        // Hand back what a known post looks like now, so doChannel can update
+        // it. A backfill does this for the whole feed, repairing records an
+        // older extractor wrote. A normal run does it too, for the handful of
+        // recent posts it walks past before stopping: without that, a post's
+        // like count stayed at whatever it was the first time it was seen —
+        // often within an hour of it going up — for good.
+        refresh.push(p);
       } else {
         consecutiveKnown = 0;
         found.push(p);
