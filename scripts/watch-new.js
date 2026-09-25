@@ -13,7 +13,8 @@
 // The type it saves is the ground truth: records carry typedBy "innertube",
 // and the Full Recheck never re-sorts those between stream, video and Short
 // (see update.js). A video innertube is bot-checked on is looked up through the
-// official Data API instead and saved without that lock; one neither can
+// official Data API instead and saved as typedBy "data-api", without that lock;
+// innertube is asked about it again every run until it answers. One neither can
 // settle is not saved, so the next run, five minutes later, tries it again.
 
 const fs   = require('fs');
@@ -22,6 +23,7 @@ const { classify } = require('./innertube');
 
 const DATA_DIR = process.env.DATA_DIR || './data';
 const pause = ms => new Promise(r => setTimeout(r, ms));
+const RETRY_FOR = 7 * 24 * 3600000;       // how long an API-typed video waits for innertube
 
 function decodeHtmlEntities(str) {
   return str.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
@@ -101,7 +103,7 @@ function channels() {
 async function main() {
   const started = Date.now();
   const groups = channels();
-  let added = 0, skipped = 0, failed = 0;
+  let added = 0, skipped = 0, failed = 0, confirmed = 0;
 
   for (const [channelId, group] of groups) {
     const suffix = channelId.replace(/^UC/, '');
@@ -115,6 +117,37 @@ async function main() {
     }
     const memberIds = new Set(members.map(e => e.id));
     const fresh = [...uploads, ...members].filter((e, i, a) => !known.has(e.id) && a.findIndex(x => x.id === e.id) === i);
+
+    // Videos saved from the Data API because innertube was bot-checked at the
+    // time: innertube is asked again every run, for up to a week, and its
+    // answer replaces the API's and locks the type like any other.
+    const upgrades = new Map();
+    const pendingIds = new Set(group.files.flatMap(f => f.doc.videos
+      .filter(v => v.typedBy === 'data-api' && Date.now() - Date.parse(v.published) < RETRY_FOR)
+      .map(v => v.id)));
+    for (const id of pendingIds) {
+      let info;
+      try { info = await classify(id); } catch (e) { continue; }
+      if (info.unidentified) continue;
+      if (memberIds.has(id)) info.type = 'member';
+      upgrades.set(id, info);
+      console.log(`  ✓ ${group.name}: [${info.type}] ${id} confirmed by innertube`);
+      await pause(250);
+    }
+    if (upgrades.size) {
+      for (const { file, doc } of group.files) {
+        for (const v of doc.videos) {
+          const info = upgrades.get(v.id);
+          if (!info || v.typedBy !== 'data-api') continue;
+          v.type    = info.type;
+          v.typedBy = 'innertube';
+          if (info.actualStart && !v.actualStart) v.actualStart = info.actualStart;
+        }
+        doc.lastUpdated = new Date().toISOString();
+        fs.writeFileSync(file, JSON.stringify(doc, null, 2), 'utf8');
+      }
+      confirmed += upgrades.size;
+    }
     if (!fresh.length) continue;
 
     const records = [];
@@ -161,7 +194,7 @@ async function main() {
         status:    info.status,
         ...(info.scheduledStart ? { scheduledStart: info.scheduledStart } : {}),
         ...(info.actualStart    ? { actualStart:    info.actualStart }    : {}),
-        ...(typedBy === 'innertube' ? { typedBy } : {}),
+        typedBy,
       });
       console.log(`  + ${group.name}: [${info.type}${info.status !== 'past' ? ', ' + info.status : ''}]${typedBy === 'innertube' ? '' : ' (via API)'} ${entry.id} ${(info.title || entry.title).slice(0, 50)}`);
       await pause(250);
@@ -181,7 +214,8 @@ async function main() {
   }
 
   console.log(`\n${groups.size} channels checked in ${((Date.now() - started) / 1000).toFixed(1)}s — `
-            + `${added} new video(s) added, ${skipped} to retry next run, ${failed} feed failure(s)`);
+            + `${added} new video(s) added, ${confirmed} API-typed video(s) confirmed by innertube, `
+            + `${skipped} to retry next run, ${failed} feed failure(s)`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

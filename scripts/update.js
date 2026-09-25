@@ -333,7 +333,7 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     if (!prev) { byId.set(v.id, v); continue; }
     const [win, lose] = score(v) > score(prev) ? [v, prev] : [prev, v];
     for (const k of KEEP) if (lose[k] && !win[k]) win[k] = lose[k];
-    if (lose.typedBy === 'innertube') win.type = lose.type;
+    if (lose.typedBy === 'innertube') { win.type = lose.type; win.typedBy = 'innertube'; }
     byId.set(v.id, win);
   }
   if (byId.size !== local.videos.length) {
@@ -544,10 +544,11 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
       // pass for good). Asked once each; typeChecked marks the ones Holodex
       // could not settle, so they are not asked again every day.
       if (ytDetails) {
-        // A stream innertube identified is a stream, private or not (an
-        // unarchived karaoke, say): Holodex is never asked about it.
+        // Only the old guessed records. A stream the watcher identified, by
+        // innertube or through the Data API when innertube was bot-checked, is
+        // a stream, private or not: Holodex is never asked about it.
         const suspects = local.videos.filter(v => v.type === 'stream' && !ytDetails[v.id]
-          && v.typedBy !== 'innertube' && !v.actualStart && !v.typeChecked).slice(0, 40);
+          && !v.typedBy && !v.actualStart && !v.typeChecked).slice(0, 40);
         let repaired = 0;
         for (const lv of suspects) {
           try {
