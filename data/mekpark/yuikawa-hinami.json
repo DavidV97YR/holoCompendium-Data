@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-25T08:12:06.904Z",
+  "lastUpdated": "2026-09-25T10:10:51.667Z",
   "videoCount": 253,
   "videos": [
     {
@@ -35,8 +35,9 @@
       "published": "2026-09-25T02:12:32.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-25T09:45:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-09-25T09:45:00.000Z",
+      "actualStart": "2026-09-25T09:45:12.000Z"
     },
     {
       "id": "9JgMsNS1OwA",
@@ -83,7 +84,7 @@
       "title": "【ポケモンサファイア #5】岩ポケ縛り!親孝行より岩孝行😁‼️トウカジムの父に勝つ👨🪨🪨🪨#琉海垣りらら #りららだいびんぐ",
       "published": "2026-09-23T13:45:56+00:00",
       "type": "stream",
-      "duration": 6611,
+      "duration": 6617,
       "status": "past",
       "scheduledStart": "2026-09-23T10:00:00Z",
       "actualStart": "2026-09-23T10:00:49Z"
