@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-09-25T12:08:48.947Z",
+  "lastUpdated": "2026-09-25T14:10:18.994Z",
   "videoCount": 1148,
   "videos": [
+    {
+      "id": "fCkcUbNAlCw",
+      "title": "【同時視聴】#アソビまわり隊 初配信day2 【FLOWGLOW /ホロライブ】",
+      "published": "2026-09-25T12:23:19+00:00",
+      "type": "stream",
+      "duration": 7425,
+      "status": "past",
+      "scheduledStart": "2026-09-25T09:55:00.000Z",
+      "actualStart": "2026-09-25T09:55:11.000Z"
+    },
     {
       "id": "EGpVAzva5DY",
       "title": "ハートキャッチ☆パラダイス/プリキュア 踊ってみた #vtuber #hololive #dance",
@@ -24,8 +34,9 @@
       "published": "2026-09-24T17:23:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-25T13:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-09-25T13:00:00.000Z",
+      "actualStart": "2026-09-25T13:01:01.000Z"
     },
     {
       "id": "73fOm4fzzfQ",
@@ -50,7 +61,7 @@
       "title": "【Minecraft】#ミリキラハードコア ネザー行くぞ day3 【水宮枢/ホロライブ】",
       "published": "2026-09-23T16:12:01Z",
       "type": "stream",
-      "duration": 20881,
+      "duration": 20887,
       "status": "past",
       "scheduledStart": "2026-09-23T10:00:00Z",
       "actualStart": "2026-09-23T10:00:32Z"
@@ -82,16 +93,6 @@
       "status": "past",
       "scheduledStart": "2026-09-22T12:00:00Z",
       "actualStart": "2026-09-22T12:00:24Z"
-    },
-    {
-      "id": "fCkcUbNAlCw",
-      "title": "【同時視聴】#アソビまわり隊 初配信day2 【FLOWGLOW /ホロライブ】",
-      "published": "2026-09-22T10:53:37.000Z",
-      "type": "stream",
-      "duration": 7425,
-      "status": "past",
-      "scheduledStart": "2026-09-25T09:55:00.000Z",
-      "actualStart": "2026-09-25T09:55:11.000Z"
     },
     {
       "id": "zzP8_t-R1-s",

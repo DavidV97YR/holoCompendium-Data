@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-09-25T08:10:27.621Z",
+  "lastUpdated": "2026-09-25T14:11:46.760Z",
   "videoCount": 1215,
   "videos": [
     {
@@ -20,12 +20,13 @@
     },
     {
       "id": "4UXtHi0_8D4",
-      "title": "【配信予定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "title": "【#マイクラ肝試し2026】初めてのマイクラ肝試しやああああ!!!!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
       "published": "2026-09-25T03:55:51.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-25T13:00:00.000Z"
+      "status": "live",
+      "scheduledStart": "2026-09-25T13:00:00.000Z",
+      "actualStart": "2026-09-25T13:00:24.000Z"
     },
     {
       "id": "uQUHf8K8RJw",
@@ -50,7 +51,7 @@
       "title": "#3【 Minecraftハードコア 】〇んだら終わり!?人生初ハードコアに挑戦!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
       "published": "2026-09-23T16:08:37Z",
       "type": "stream",
-      "duration": 20984,
+      "duration": 20914,
       "status": "past",
       "scheduledStart": "2026-09-23T10:00:00Z",
       "actualStart": "2026-09-23T10:01:00Z"
