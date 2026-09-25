@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
     "bannerUrl": "https://yt3.googleusercontent.com/wkioFy6NFpeZJi6LkB521yFmJxPhvUvunQyVLkGJqXszKiffPUtfeICzg0ZPxOI_NTHVBdH2dxc=s0"
   },
-  "lastUpdated": "2026-09-25T00:02:27.029Z",
+  "lastUpdated": "2026-09-25T04:23:03.795Z",
   "videoCount": 344,
   "videos": [
     {
@@ -17,7 +17,8 @@
       "type": "video",
       "duration": 290,
       "status": "past",
-      "scheduledStart": "2026-09-24T00:15:00Z"
+      "scheduledStart": "2026-09-24T00:15:00Z",
+      "actualStart": "2026-09-24T00:15:08Z"
     },
     {
       "id": "QIZl-tW3CvU",
@@ -26,7 +27,8 @@
       "type": "stream",
       "duration": 7269,
       "status": "past",
-      "scheduledStart": "2026-09-23T22:00:00Z"
+      "scheduledStart": "2026-09-23T22:00:00Z",
+      "actualStart": "2026-09-23T22:03:37Z"
     },
     {
       "id": "OINwbTebFHU",
@@ -35,7 +37,8 @@
       "type": "member",
       "duration": 25822,
       "status": "past",
-      "scheduledStart": "2026-09-21T05:00:00Z"
+      "scheduledStart": "2026-09-21T05:00:00Z",
+      "actualStart": "2026-09-21T04:48:13Z"
     },
     {
       "id": "IjcTCXDBuWY",
@@ -97,7 +100,8 @@
       "type": "stream",
       "duration": 10216,
       "status": "past",
-      "scheduledStart": "2026-08-31T19:00:00Z"
+      "scheduledStart": "2026-08-31T19:00:00Z",
+      "actualStart": "2026-08-31T19:04:03Z"
     },
     {
       "id": "BG1PnrEgNMY",
@@ -106,7 +110,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2027-04-25T18:00:00.000Z"
+      "scheduledStart": "2027-04-25T18:00:00Z"
     },
     {
       "id": "4fIlr008mJQ",
@@ -124,7 +128,8 @@
       "type": "member",
       "duration": 20221,
       "status": "past",
-      "scheduledStart": "2026-08-30T20:00:00Z"
+      "scheduledStart": "2026-08-30T20:00:00Z",
+      "actualStart": "2026-08-30T20:00:34Z"
     },
     {
       "id": "NZozMxJTKfM",
@@ -133,7 +138,8 @@
       "type": "stream",
       "duration": 18352,
       "status": "past",
-      "scheduledStart": "2026-08-29T19:00:00Z"
+      "scheduledStart": "2026-08-29T19:00:00Z",
+      "actualStart": "2026-08-29T19:26:59Z"
     },
     {
       "id": "qKK0KHjTM5Q",
@@ -150,7 +156,8 @@
       "type": "stream",
       "duration": 9006,
       "status": "past",
-      "scheduledStart": "2026-08-26T22:30:00Z"
+      "scheduledStart": "2026-08-26T22:30:00Z",
+      "actualStart": "2026-08-26T22:30:11Z"
     },
     {
       "id": "3aL5prb1erI",
@@ -159,7 +166,8 @@
       "type": "member",
       "duration": 21354,
       "status": "past",
-      "scheduledStart": "2026-08-23T19:00:00Z"
+      "scheduledStart": "2026-08-23T19:00:00Z",
+      "actualStart": "2026-08-23T18:58:10Z"
     },
     {
       "id": "n-1RBIIkj9A",
@@ -193,7 +201,8 @@
       "type": "member",
       "duration": 12681,
       "status": "past",
-      "scheduledStart": "2026-08-16T19:00:00Z"
+      "scheduledStart": "2026-08-16T19:00:00Z",
+      "actualStart": "2026-08-16T19:00:51Z"
     },
     {
       "id": "gs8rtwzP4qE",
@@ -210,7 +219,8 @@
       "type": "stream",
       "duration": 9823,
       "status": "past",
-      "scheduledStart": "2026-08-07T00:00:00Z"
+      "scheduledStart": "2026-08-07T00:00:00Z",
+      "actualStart": "2026-08-06T23:54:49Z"
     },
     {
       "id": "HgQoVlTocj0",
@@ -219,7 +229,8 @@
       "type": "member",
       "duration": 11856,
       "status": "past",
-      "scheduledStart": "2026-08-09T19:00:00Z"
+      "scheduledStart": "2026-08-09T19:00:00Z",
+      "actualStart": "2026-08-09T19:00:45Z"
     },
     {
       "id": "NdN7XnxrRyE",
@@ -236,7 +247,8 @@
       "type": "member",
       "duration": 18256,
       "status": "past",
-      "scheduledStart": "2026-08-02T19:00:00Z"
+      "scheduledStart": "2026-08-02T19:00:00Z",
+      "actualStart": "2026-08-02T19:04:01Z"
     },
     {
       "id": "RNROdqy1XDM",
@@ -245,7 +257,8 @@
       "type": "stream",
       "duration": 11861,
       "status": "past",
-      "scheduledStart": "2026-07-30T19:00:00Z"
+      "scheduledStart": "2026-07-30T19:00:00Z",
+      "actualStart": "2026-07-30T19:06:23Z"
     },
     {
       "id": "0Wlpgew0oZw",
@@ -254,7 +267,8 @@
       "type": "stream",
       "duration": 12238,
       "status": "past",
-      "scheduledStart": "2026-07-24T21:00:00Z"
+      "scheduledStart": "2026-07-24T21:00:00Z",
+      "actualStart": "2026-07-24T21:06:24Z"
     },
     {
       "id": "K9_hf1rwa3E",
@@ -263,7 +277,8 @@
       "type": "member",
       "duration": 11103,
       "status": "past",
-      "scheduledStart": "2026-07-26T19:00:00Z"
+      "scheduledStart": "2026-07-26T19:00:00Z",
+      "actualStart": "2026-07-26T19:03:11Z"
     },
     {
       "id": "OP7IsdeTqFk",
@@ -281,7 +296,8 @@
       "type": "member",
       "duration": 12845,
       "status": "past",
-      "scheduledStart": "2026-07-19T19:00:00Z"
+      "scheduledStart": "2026-07-19T19:00:00Z",
+      "actualStart": "2026-07-19T19:01:48Z"
     },
     {
       "id": "TncdlYrCyow",
@@ -306,7 +322,8 @@
       "type": "stream",
       "duration": 9485,
       "status": "past",
-      "scheduledStart": "2026-06-30T00:00:00Z"
+      "scheduledStart": "2026-06-30T00:00:00Z",
+      "actualStart": "2026-06-30T00:00:03Z"
     },
     {
       "id": "ypRMJ19Xsfk",
@@ -323,7 +340,8 @@
       "type": "stream",
       "duration": 5569,
       "status": "past",
-      "scheduledStart": "2026-06-28T18:00:00Z"
+      "scheduledStart": "2026-06-28T18:00:00Z",
+      "actualStart": "2026-06-28T18:03:11Z"
     },
     {
       "id": "RCcRBfYDEZE",
@@ -332,7 +350,8 @@
       "type": "member",
       "duration": 7710,
       "status": "past",
-      "scheduledStart": "2026-06-28T20:00:00Z"
+      "scheduledStart": "2026-06-28T20:00:00Z",
+      "actualStart": "2026-06-28T20:07:21Z"
     },
     {
       "id": "jJFEMT7r9Zs",
@@ -341,7 +360,8 @@
       "type": "stream",
       "duration": 9084,
       "status": "past",
-      "scheduledStart": "2026-06-26T19:00:00Z"
+      "scheduledStart": "2026-06-26T19:00:00Z",
+      "actualStart": "2026-06-26T19:06:59Z"
     },
     {
       "id": "d0MCMEHJ4Eo",
@@ -350,7 +370,8 @@
       "type": "stream",
       "duration": 6948,
       "status": "past",
-      "scheduledStart": "2026-06-25T21:00:00Z"
+      "scheduledStart": "2026-06-25T21:00:00Z",
+      "actualStart": "2026-06-25T21:01:05Z"
     },
     {
       "id": "Y8Vni2s3epM",
@@ -359,7 +380,8 @@
       "type": "stream",
       "duration": 7616,
       "status": "past",
-      "scheduledStart": "2026-06-18T20:00:00Z"
+      "scheduledStart": "2026-06-18T20:00:00Z",
+      "actualStart": "2026-06-18T19:58:40Z"
     },
     {
       "id": "cRRFdgxCOgg",
@@ -368,7 +390,8 @@
       "type": "stream",
       "duration": 10433,
       "status": "past",
-      "scheduledStart": "2026-06-14T19:00:00Z"
+      "scheduledStart": "2026-06-14T19:00:00Z",
+      "actualStart": "2026-06-14T19:15:54Z"
     },
     {
       "id": "5Yth4ePvmYI",
@@ -393,7 +416,8 @@
       "type": "stream",
       "duration": 10264,
       "status": "past",
-      "scheduledStart": "2026-05-30T01:00:00Z"
+      "scheduledStart": "2026-05-30T01:00:00Z",
+      "actualStart": "2026-05-30T00:59:05Z"
     },
     {
       "id": "FzangfLML4E",
@@ -402,7 +426,8 @@
       "type": "stream",
       "duration": 8022,
       "status": "past",
-      "scheduledStart": "2026-05-29T05:30:00Z"
+      "scheduledStart": "2026-05-29T05:30:00Z",
+      "actualStart": "2026-05-29T05:18:17Z"
     },
     {
       "id": "8J7aGAe42EE",
@@ -411,7 +436,8 @@
       "type": "stream",
       "duration": 10406,
       "status": "past",
-      "scheduledStart": "2026-05-29T01:00:00Z"
+      "scheduledStart": "2026-05-29T01:00:00Z",
+      "actualStart": "2026-05-29T01:08:59Z"
     },
     {
       "id": "HEWSty8elxo",
@@ -420,7 +446,8 @@
       "type": "stream",
       "duration": 15616,
       "status": "past",
-      "scheduledStart": "2026-05-28T01:00:00Z"
+      "scheduledStart": "2026-05-28T01:00:00Z",
+      "actualStart": "2026-05-28T00:59:43Z"
     },
     {
       "id": "rg_rZ8reBVA",
@@ -429,7 +456,8 @@
       "type": "stream",
       "duration": 14223,
       "status": "past",
-      "scheduledStart": "2026-05-27T01:00:00Z"
+      "scheduledStart": "2026-05-27T01:00:00Z",
+      "actualStart": "2026-05-27T00:57:07Z"
     },
     {
       "id": "7SzxeEiLGFs",
@@ -438,7 +466,8 @@
       "type": "stream",
       "duration": 15692,
       "status": "past",
-      "scheduledStart": "2026-05-26T01:00:00Z"
+      "scheduledStart": "2026-05-26T01:00:00Z",
+      "actualStart": "2026-05-26T00:57:23Z"
     },
     {
       "id": "2rnclFeQ5EM",
@@ -447,7 +476,8 @@
       "type": "stream",
       "duration": 12440,
       "status": "past",
-      "scheduledStart": "2026-05-25T02:00:00Z"
+      "scheduledStart": "2026-05-25T02:00:00Z",
+      "actualStart": "2026-05-25T01:52:25Z"
     },
     {
       "id": "FyKuuCb_u1o",
@@ -496,7 +526,8 @@
       "type": "stream",
       "duration": 10883,
       "status": "past",
-      "scheduledStart": "2026-05-10T22:30:00Z"
+      "scheduledStart": "2026-05-10T22:30:00Z",
+      "actualStart": "2026-05-10T22:39:32Z"
     },
     {
       "id": "eK3LA4iFmR0",
@@ -505,7 +536,8 @@
       "type": "member",
       "duration": 11000,
       "status": "past",
-      "scheduledStart": "2026-05-17T19:00:00Z"
+      "scheduledStart": "2026-05-17T19:00:00Z",
+      "actualStart": "2026-05-17T19:01:16Z"
     },
     {
       "id": "Y7skhzyqviA",
@@ -514,7 +546,8 @@
       "type": "member",
       "duration": 12271,
       "status": "past",
-      "scheduledStart": "2026-05-10T19:00:00Z"
+      "scheduledStart": "2026-05-10T19:00:00Z",
+      "actualStart": "2026-05-10T19:00:53Z"
     },
     {
       "id": "LTPi3UtR7pw",
@@ -523,7 +556,8 @@
       "type": "stream",
       "duration": 5599,
       "status": "past",
-      "scheduledStart": "2026-05-09T23:15:00Z"
+      "scheduledStart": "2026-05-09T23:15:00Z",
+      "actualStart": "2026-05-09T23:24:41Z"
     },
     {
       "id": "bHp06fE210g",
@@ -556,7 +590,8 @@
       "type": "stream",
       "duration": 19444,
       "status": "past",
-      "scheduledStart": "2026-05-04T21:30:00Z"
+      "scheduledStart": "2026-05-04T21:30:00Z",
+      "actualStart": "2026-05-04T21:44:15Z"
     },
     {
       "id": "nQaLN5bJoiA",
@@ -590,7 +625,8 @@
       "type": "stream",
       "duration": 11981,
       "status": "past",
-      "scheduledStart": "2026-04-28T20:00:00Z"
+      "scheduledStart": "2026-04-28T20:00:00Z",
+      "actualStart": "2026-04-28T19:59:07Z"
     },
     {
       "id": "PGppUhILuP4",
@@ -599,7 +635,8 @@
       "type": "stream",
       "duration": 3485,
       "status": "past",
-      "scheduledStart": "2026-04-25T12:00:00Z"
+      "scheduledStart": "2026-04-25T12:00:00Z",
+      "actualStart": "2026-04-25T12:00:35Z"
     },
     {
       "id": "r-zBg7a1sFk",
@@ -616,7 +653,8 @@
       "type": "stream",
       "duration": 6076,
       "status": "past",
-      "scheduledStart": "2026-04-17T12:00:00Z"
+      "scheduledStart": "2026-04-17T12:00:00Z",
+      "actualStart": "2026-04-17T11:58:39Z"
     },
     {
       "id": "5p6i0GEob-A",
@@ -625,7 +663,8 @@
       "type": "stream",
       "duration": 9844,
       "status": "past",
-      "scheduledStart": "2026-04-16T19:00:00Z"
+      "scheduledStart": "2026-04-16T19:00:00Z",
+      "actualStart": "2026-04-16T19:01:15Z"
     },
     {
       "id": "daYHapH3ozY",
@@ -634,7 +673,8 @@
       "type": "stream",
       "duration": 8800,
       "status": "past",
-      "scheduledStart": "2026-04-15T17:30:00Z"
+      "scheduledStart": "2026-04-15T17:30:00Z",
+      "actualStart": "2026-04-15T17:34:11Z"
     },
     {
       "id": "dXQDhbOMlE0",
@@ -643,7 +683,8 @@
       "type": "member",
       "duration": 10176,
       "status": "past",
-      "scheduledStart": "2026-04-26T18:00:00Z"
+      "scheduledStart": "2026-04-26T18:00:00Z",
+      "actualStart": "2026-04-26T18:04:25Z"
     },
     {
       "id": "d9KEUxYutCY",
@@ -652,7 +693,8 @@
       "type": "member",
       "duration": 8775,
       "status": "past",
-      "scheduledStart": "2026-04-23T18:00:00Z"
+      "scheduledStart": "2026-04-23T18:00:00Z",
+      "actualStart": "2026-04-23T18:23:09Z"
     },
     {
       "id": "i43pR5GogAM",
@@ -661,7 +703,8 @@
       "type": "member",
       "duration": 7822,
       "status": "past",
-      "scheduledStart": "2026-04-19T18:00:00Z"
+      "scheduledStart": "2026-04-19T18:00:00Z",
+      "actualStart": "2026-04-19T18:04:41Z"
     },
     {
       "id": "etC2mqaeH-k",
@@ -670,7 +713,8 @@
       "type": "member",
       "duration": 13858,
       "status": "past",
-      "scheduledStart": "2026-04-12T18:00:00Z"
+      "scheduledStart": "2026-04-12T18:00:00Z",
+      "actualStart": "2026-04-12T18:00:32Z"
     },
     {
       "id": "cqYz-zwKU-8",
@@ -687,7 +731,8 @@
       "type": "stream",
       "duration": 11341,
       "status": "past",
-      "scheduledStart": "2026-04-10T00:00:00Z"
+      "scheduledStart": "2026-04-10T00:00:00Z",
+      "actualStart": "2026-04-10T00:00:31Z"
     },
     {
       "id": "_pv18gHgjQI",
@@ -696,7 +741,8 @@
       "type": "video",
       "duration": 229,
       "status": "past",
-      "scheduledStart": "2026-03-17T22:00:00Z"
+      "scheduledStart": "2026-03-17T22:00:00Z",
+      "actualStart": "2026-03-17T22:00:06Z"
     },
     {
       "id": "0c7EynclgP0",
@@ -705,7 +751,8 @@
       "type": "member",
       "duration": 10585,
       "status": "past",
-      "scheduledStart": "2026-03-01T21:00:00Z"
+      "scheduledStart": "2026-03-01T21:00:00Z",
+      "actualStart": "2026-03-01T21:04:49Z"
     },
     {
       "id": "sL8WXMMEiCw",
@@ -714,7 +761,8 @@
       "type": "stream",
       "duration": 11231,
       "status": "past",
-      "scheduledStart": "2026-02-22T20:30:00Z"
+      "scheduledStart": "2026-02-22T20:30:00Z",
+      "actualStart": "2026-02-22T20:30:53Z"
     },
     {
       "id": "LoqiPbgrAXw",
@@ -723,7 +771,8 @@
       "type": "stream",
       "duration": 4831,
       "status": "past",
-      "scheduledStart": "2026-02-22T01:00:00Z"
+      "scheduledStart": "2026-02-22T01:00:00Z",
+      "actualStart": "2026-02-22T00:59:33Z"
     },
     {
       "id": "bsq8YT5CbvI",
@@ -732,7 +781,8 @@
       "type": "stream",
       "duration": 6112,
       "status": "past",
-      "scheduledStart": "2026-02-20T13:00:00Z"
+      "scheduledStart": "2026-02-20T13:00:00Z",
+      "actualStart": "2026-02-20T13:04:02Z"
     },
     {
       "id": "mWDPEwpPUSQ",
@@ -741,7 +791,8 @@
       "type": "stream",
       "duration": 7840,
       "status": "past",
-      "scheduledStart": "2026-02-19T20:15:00Z"
+      "scheduledStart": "2026-02-19T20:15:00Z",
+      "actualStart": "2026-02-19T20:24:41Z"
     },
     {
       "id": "-hUG1YWM2O0",
@@ -758,7 +809,8 @@
       "type": "stream",
       "duration": 6840,
       "status": "past",
-      "scheduledStart": "2026-02-16T01:00:00Z"
+      "scheduledStart": "2026-02-16T01:00:00Z",
+      "actualStart": "2026-02-16T01:06:53Z"
     },
     {
       "id": "uP6eI3X5epM",
@@ -767,7 +819,8 @@
       "type": "member",
       "duration": 14113,
       "status": "past",
-      "scheduledStart": "2026-02-15T19:15:00Z"
+      "scheduledStart": "2026-02-15T19:15:00Z",
+      "actualStart": "2026-02-15T19:21:29Z"
     },
     {
       "id": "SArVaqhJwzM",
@@ -776,7 +829,8 @@
       "type": "stream",
       "duration": 9022,
       "status": "past",
-      "scheduledStart": "2026-02-13T13:30:00Z"
+      "scheduledStart": "2026-02-13T13:30:00Z",
+      "actualStart": "2026-02-13T13:36:45Z"
     },
     {
       "id": "RXNzYh2Q6H0",
@@ -785,7 +839,8 @@
       "type": "stream",
       "duration": 7045,
       "status": "past",
-      "scheduledStart": "2026-02-11T13:00:00Z"
+      "scheduledStart": "2026-02-11T13:00:00Z",
+      "actualStart": "2026-02-11T12:59:43Z"
     },
     {
       "id": "axNcbPe7Vok",
@@ -802,7 +857,8 @@
       "type": "stream",
       "duration": 13876,
       "status": "past",
-      "scheduledStart": "2026-02-09T20:00:00Z"
+      "scheduledStart": "2026-02-09T20:00:00Z",
+      "actualStart": "2026-02-09T20:04:59Z"
     },
     {
       "id": "34eON4hrK-4",
@@ -811,7 +867,8 @@
       "type": "member",
       "duration": 13799,
       "status": "past",
-      "scheduledStart": "2026-02-08T19:00:00Z"
+      "scheduledStart": "2026-02-08T19:00:00Z",
+      "actualStart": "2026-02-08T19:33:25Z"
     },
     {
       "id": "AqpUtZAZex8",
@@ -820,7 +877,8 @@
       "type": "stream",
       "duration": 10855,
       "status": "past",
-      "scheduledStart": "2026-02-05T20:00:00Z"
+      "scheduledStart": "2026-02-05T20:00:00Z",
+      "actualStart": "2026-02-05T20:05:35Z"
     },
     {
       "id": "VBBy4TGnJ2w",
@@ -829,7 +887,8 @@
       "type": "stream",
       "duration": 3523,
       "status": "past",
-      "scheduledStart": "2026-02-04T03:00:00Z"
+      "scheduledStart": "2026-02-04T03:00:00Z",
+      "actualStart": "2026-02-04T02:59:57Z"
     },
     {
       "id": "_96hTFZgv7M",
@@ -846,7 +905,8 @@
       "type": "stream",
       "duration": 9082,
       "status": "past",
-      "scheduledStart": "2026-01-31T14:00:00Z"
+      "scheduledStart": "2026-01-31T14:00:00Z",
+      "actualStart": "2026-01-31T14:02:53Z"
     },
     {
       "id": "ddtgs_jdXek",
@@ -855,7 +915,8 @@
       "type": "stream",
       "duration": 9060,
       "status": "past",
-      "scheduledStart": "2026-01-28T01:30:00Z"
+      "scheduledStart": "2026-01-28T01:30:00Z",
+      "actualStart": "2026-01-28T01:29:21Z"
     },
     {
       "id": "KvDa2eVnOYU",
@@ -872,7 +933,8 @@
       "type": "member",
       "duration": 25129,
       "status": "past",
-      "scheduledStart": "2026-01-25T19:00:00Z"
+      "scheduledStart": "2026-01-25T19:00:00Z",
+      "actualStart": "2026-01-25T19:03:03Z"
     },
     {
       "id": "9x1RSPP5jxg",
@@ -881,7 +943,8 @@
       "type": "stream",
       "duration": 5552,
       "status": "past",
-      "scheduledStart": "2026-01-23T03:00:00Z"
+      "scheduledStart": "2026-01-23T03:00:00Z",
+      "actualStart": "2026-01-23T03:13:01Z"
     },
     {
       "id": "OacYUpW1G10",
@@ -898,7 +961,8 @@
       "type": "member",
       "duration": 8286,
       "status": "past",
-      "scheduledStart": "2026-01-18T19:00:00Z"
+      "scheduledStart": "2026-01-18T19:00:00Z",
+      "actualStart": "2026-01-18T18:58:45Z"
     },
     {
       "id": "Ytnmr1uwrQE",
@@ -907,7 +971,8 @@
       "type": "stream",
       "duration": 9030,
       "status": "past",
-      "scheduledStart": "2026-01-15T21:00:00Z"
+      "scheduledStart": "2026-01-15T21:00:00Z",
+      "actualStart": "2026-01-15T20:55:00Z"
     },
     {
       "id": "sHGtgHI72-s",
@@ -932,7 +997,8 @@
       "type": "member",
       "duration": 15691,
       "status": "past",
-      "scheduledStart": "2026-01-04T19:00:00Z"
+      "scheduledStart": "2026-01-04T19:00:00Z",
+      "actualStart": "2026-01-04T19:02:42Z"
     },
     {
       "id": "su8zgxTe3zA",
@@ -941,7 +1007,8 @@
       "type": "stream",
       "duration": 6978,
       "status": "past",
-      "scheduledStart": "2026-01-02T13:00:00Z"
+      "scheduledStart": "2026-01-02T13:00:00Z",
+      "actualStart": "2026-01-02T13:02:49Z"
     },
     {
       "id": "4t_6WilKu4Y",
@@ -958,7 +1025,8 @@
       "type": "member",
       "duration": 10594,
       "status": "past",
-      "scheduledStart": "2025-12-28T20:00:00Z"
+      "scheduledStart": "2025-12-28T20:00:00Z",
+      "actualStart": "2025-12-28T20:00:07Z"
     },
     {
       "id": "UcfyJC4rhHU",
@@ -967,7 +1035,8 @@
       "type": "video",
       "duration": 708,
       "status": "past",
-      "scheduledStart": "2025-12-25T16:00:00Z"
+      "scheduledStart": "2025-12-25T16:00:00Z",
+      "actualStart": "2025-12-25T16:00:06Z"
     },
     {
       "id": "AXyAJl-8NCo",
@@ -976,7 +1045,8 @@
       "type": "member",
       "duration": 13906,
       "status": "past",
-      "scheduledStart": "2025-12-21T20:00:00Z"
+      "scheduledStart": "2025-12-21T20:00:00Z",
+      "actualStart": "2025-12-21T20:12:02Z"
     },
     {
       "id": "cIRfv9hHWwc",
@@ -985,7 +1055,8 @@
       "type": "stream",
       "duration": 8632,
       "status": "past",
-      "scheduledStart": "2025-12-19T01:30:00Z"
+      "scheduledStart": "2025-12-19T01:30:00Z",
+      "actualStart": "2025-12-19T01:36:35Z"
     },
     {
       "id": "QmR2tCTwbvc",
@@ -1002,7 +1073,8 @@
       "type": "stream",
       "duration": 9593,
       "status": "past",
-      "scheduledStart": "2025-12-13T20:30:00Z"
+      "scheduledStart": "2025-12-13T20:30:00Z",
+      "actualStart": "2025-12-13T20:36:21Z"
     },
     {
       "id": "NFnrbe6Jt1I",
@@ -1011,7 +1083,8 @@
       "type": "stream",
       "duration": 6958,
       "status": "past",
-      "scheduledStart": "2025-12-13T13:00:00Z"
+      "scheduledStart": "2025-12-13T13:00:00Z",
+      "actualStart": "2025-12-13T13:03:07Z"
     },
     {
       "id": "bwd8t2dJ6wM",
@@ -1036,7 +1109,8 @@
       "type": "member",
       "duration": 14919,
       "status": "past",
-      "scheduledStart": "2025-12-02T20:15:00Z"
+      "scheduledStart": "2025-12-02T20:15:00Z",
+      "actualStart": "2025-12-02T20:14:29Z"
     },
     {
       "id": "n9VAepmWz6Q",
@@ -1045,7 +1119,8 @@
       "type": "member",
       "duration": 14695,
       "status": "past",
-      "scheduledStart": "2025-12-14T20:00:00Z"
+      "scheduledStart": "2025-12-14T20:00:00Z",
+      "actualStart": "2025-12-14T20:04:07Z"
     },
     {
       "id": "kXhxsE95Kew",
@@ -1054,7 +1129,8 @@
       "type": "member",
       "duration": 9877,
       "status": "past",
-      "scheduledStart": "2025-12-07T20:00:00Z"
+      "scheduledStart": "2025-12-07T20:00:00Z",
+      "actualStart": "2025-12-07T20:02:21Z"
     },
     {
       "id": "E2F0uWcdxEQ",
@@ -1063,7 +1139,8 @@
       "type": "member",
       "duration": 11120,
       "status": "past",
-      "scheduledStart": "2025-11-30T20:00:00Z"
+      "scheduledStart": "2025-11-30T20:00:00Z",
+      "actualStart": "2025-11-30T20:02:21Z"
     },
     {
       "id": "DVS6agqJijs",
@@ -1072,7 +1149,8 @@
       "type": "member",
       "duration": 9573,
       "status": "past",
-      "scheduledStart": "2025-11-23T20:00:00Z"
+      "scheduledStart": "2025-11-23T20:00:00Z",
+      "actualStart": "2025-11-23T20:01:03Z"
     },
     {
       "id": "DJyNUCkbew0",
@@ -1081,7 +1159,8 @@
       "type": "stream",
       "duration": 6792,
       "status": "past",
-      "scheduledStart": "2025-11-21T21:00:00Z"
+      "scheduledStart": "2025-11-21T21:00:00Z",
+      "actualStart": "2025-11-21T21:05:37Z"
     },
     {
       "id": "UymQdioElCg",
@@ -1098,7 +1177,8 @@
       "type": "stream",
       "duration": 10120,
       "status": "past",
-      "scheduledStart": "2025-11-16T13:00:00Z"
+      "scheduledStart": "2025-11-16T13:00:00Z",
+      "actualStart": "2025-11-16T12:59:41Z"
     },
     {
       "id": "DYdz6g4dovg",
@@ -1107,7 +1187,8 @@
       "type": "member",
       "duration": 13023,
       "status": "past",
-      "scheduledStart": "2025-11-16T20:00:00Z"
+      "scheduledStart": "2025-11-16T20:00:00Z",
+      "actualStart": "2025-11-16T20:08:59Z"
     },
     {
       "id": "4bWfw5fMbu0",
@@ -1116,7 +1197,8 @@
       "type": "stream",
       "duration": 9337,
       "status": "past",
-      "scheduledStart": "2025-11-13T16:00:00Z"
+      "scheduledStart": "2025-11-13T16:00:00Z",
+      "actualStart": "2025-11-13T16:06:09Z"
     },
     {
       "id": "hBxuSrNpOb0",
@@ -1125,7 +1207,8 @@
       "type": "member",
       "duration": 14303,
       "status": "past",
-      "scheduledStart": "2025-11-09T20:00:00Z"
+      "scheduledStart": "2025-11-09T20:00:00Z",
+      "actualStart": "2025-11-09T20:13:11Z"
     },
     {
       "id": "7dK0r-WoV58",
@@ -1134,7 +1217,8 @@
       "type": "stream",
       "duration": 6005,
       "status": "past",
-      "scheduledStart": "2025-11-02T19:00:00Z"
+      "scheduledStart": "2025-11-02T19:00:00Z",
+      "actualStart": "2025-11-02T18:57:31Z"
     },
     {
       "id": "fNugCYXlblw",
@@ -1143,7 +1227,8 @@
       "type": "stream",
       "duration": 1861,
       "status": "past",
-      "scheduledStart": "2025-11-01T20:00:00Z"
+      "scheduledStart": "2025-11-01T20:00:00Z",
+      "actualStart": "2025-11-01T19:59:14Z"
     },
     {
       "id": "x7WPM9FSGko",
@@ -1152,7 +1237,8 @@
       "type": "stream",
       "duration": 10133,
       "status": "past",
-      "scheduledStart": "2025-10-31T23:00:00Z"
+      "scheduledStart": "2025-10-31T23:00:00Z",
+      "actualStart": "2025-10-31T22:59:59Z"
     },
     {
       "id": "NDEkkwrKEjY",
@@ -1161,7 +1247,8 @@
       "type": "stream",
       "duration": 9709,
       "status": "past",
-      "scheduledStart": "2025-10-21T11:00:00Z"
+      "scheduledStart": "2025-10-21T11:00:00Z",
+      "actualStart": "2025-10-21T11:05:01Z"
     },
     {
       "id": "bV_OIC4PAWA",
@@ -1170,7 +1257,8 @@
       "type": "stream",
       "duration": 10487,
       "status": "past",
-      "scheduledStart": "2025-10-20T19:00:00Z"
+      "scheduledStart": "2025-10-20T19:00:00Z",
+      "actualStart": "2025-10-20T19:06:57Z"
     },
     {
       "id": "cCsanK5-O1M",
@@ -1179,7 +1267,8 @@
       "type": "member",
       "duration": 20950,
       "status": "past",
-      "scheduledStart": "2025-10-19T19:00:00Z"
+      "scheduledStart": "2025-10-19T19:00:00Z",
+      "actualStart": "2025-10-19T18:57:53Z"
     },
     {
       "id": "bNoVsoLRaYg",
@@ -1188,7 +1277,8 @@
       "type": "stream",
       "duration": 6647,
       "status": "past",
-      "scheduledStart": "2025-10-16T19:00:00Z"
+      "scheduledStart": "2025-10-16T19:00:00Z",
+      "actualStart": "2025-10-16T19:05:07Z"
     },
     {
       "id": "EY1_p-kWkfU",
@@ -1197,7 +1287,8 @@
       "type": "member",
       "duration": 11340,
       "status": "past",
-      "scheduledStart": "2025-10-12T20:00:00Z"
+      "scheduledStart": "2025-10-12T20:00:00Z",
+      "actualStart": "2025-10-12T20:06:05Z"
     },
     {
       "id": "nkx3skM7dNo",
@@ -1214,7 +1305,8 @@
       "type": "member",
       "duration": 8927,
       "status": "past",
-      "scheduledStart": "2025-09-30T19:00:00Z"
+      "scheduledStart": "2025-09-30T19:00:00Z",
+      "actualStart": "2025-09-30T19:12:27Z"
     },
     {
       "id": "QAWuk3KNxPg",
@@ -1223,7 +1315,8 @@
       "type": "member",
       "duration": 14667,
       "status": "past",
-      "scheduledStart": "2025-09-28T19:00:00Z"
+      "scheduledStart": "2025-09-28T19:00:00Z",
+      "actualStart": "2025-09-28T19:01:37Z"
     },
     {
       "id": "VUURP218SOc",
@@ -1232,7 +1325,8 @@
       "type": "stream",
       "duration": 12041,
       "status": "past",
-      "scheduledStart": "2025-09-28T13:00:00Z"
+      "scheduledStart": "2025-09-28T13:00:00Z",
+      "actualStart": "2025-09-28T13:02:07Z"
     },
     {
       "id": "TZiMgUFHN_Y",
@@ -1241,7 +1335,8 @@
       "type": "stream",
       "duration": 5882,
       "status": "past",
-      "scheduledStart": "2025-09-28T02:45:00Z"
+      "scheduledStart": "2025-09-28T02:45:00Z",
+      "actualStart": "2025-09-28T02:46:53Z"
     },
     {
       "id": "sTZzvG_MAi4",
@@ -1250,7 +1345,8 @@
       "type": "member",
       "duration": 14286,
       "status": "past",
-      "scheduledStart": "2025-09-21T19:00:00Z"
+      "scheduledStart": "2025-09-21T19:00:00Z",
+      "actualStart": "2025-09-21T19:01:37Z"
     },
     {
       "id": "S9u8zcJEY0k",
@@ -1267,7 +1363,8 @@
       "type": "member",
       "duration": 9052,
       "status": "past",
-      "scheduledStart": "2025-09-14T19:00:00Z"
+      "scheduledStart": "2025-09-14T19:00:00Z",
+      "actualStart": "2025-09-14T19:00:55Z"
     },
     {
       "id": "J5d-bZt-H38",
@@ -1276,7 +1373,8 @@
       "type": "stream",
       "duration": 6231,
       "status": "past",
-      "scheduledStart": "2025-09-14T00:00:00Z"
+      "scheduledStart": "2025-09-14T00:00:00Z",
+      "actualStart": "2025-09-13T23:57:03Z"
     },
     {
       "id": "pN6WdNZ5KsY",
@@ -1309,7 +1407,8 @@
       "type": "stream",
       "duration": 7306,
       "status": "past",
-      "scheduledStart": "2025-08-31T15:15:00Z"
+      "scheduledStart": "2025-08-31T15:15:00Z",
+      "actualStart": "2025-08-31T15:14:01Z"
     },
     {
       "id": "c0SOBdjBkpg",
@@ -1318,7 +1417,8 @@
       "type": "stream",
       "duration": 11639,
       "status": "past",
-      "scheduledStart": "2025-08-29T21:30:00Z"
+      "scheduledStart": "2025-08-29T21:30:00Z",
+      "actualStart": "2025-08-29T21:25:43Z"
     },
     {
       "id": "6pmOCnAbork",
@@ -1335,7 +1435,8 @@
       "type": "member",
       "duration": 8903,
       "status": "past",
-      "scheduledStart": "2025-08-17T20:15:00Z"
+      "scheduledStart": "2025-08-17T20:15:00Z",
+      "actualStart": "2025-08-17T20:07:55Z"
     },
     {
       "id": "Ar8VP6fNeuA",
@@ -1344,7 +1445,8 @@
       "type": "stream",
       "duration": 5925,
       "status": "past",
-      "scheduledStart": "2025-08-15T13:30:00Z"
+      "scheduledStart": "2025-08-15T13:30:00Z",
+      "actualStart": "2025-08-15T13:50:03Z"
     },
     {
       "id": "K8GRFiQAUOU",
@@ -1409,7 +1511,8 @@
       "type": "stream",
       "duration": 7912,
       "status": "past",
-      "scheduledStart": "2025-08-02T14:45:00Z"
+      "scheduledStart": "2025-08-02T14:45:00Z",
+      "actualStart": "2025-08-02T14:43:03Z"
     },
     {
       "id": "q0Uhp8IN5-w",
@@ -1418,7 +1521,8 @@
       "type": "stream",
       "duration": 3989,
       "status": "past",
-      "scheduledStart": "2025-08-02T00:00:00Z"
+      "scheduledStart": "2025-08-02T00:00:00Z",
+      "actualStart": "2025-08-01T23:57:43Z"
     },
     {
       "id": "J07lSfUD6ew",
@@ -1427,7 +1531,8 @@
       "type": "stream",
       "duration": 7871,
       "status": "past",
-      "scheduledStart": "2025-07-26T10:45:00Z"
+      "scheduledStart": "2025-07-26T10:45:00Z",
+      "actualStart": "2025-07-26T11:03:07Z"
     },
     {
       "id": "LwaDbamHgy8",
@@ -1436,7 +1541,8 @@
       "type": "stream",
       "duration": 1231,
       "status": "past",
-      "scheduledStart": "2025-07-25T11:00:00Z"
+      "scheduledStart": "2025-07-25T11:00:00Z",
+      "actualStart": "2025-07-25T11:00:11Z"
     },
     {
       "id": "mp_hIWUFzLk",
@@ -1469,7 +1575,8 @@
       "type": "stream",
       "duration": 15032,
       "status": "past",
-      "scheduledStart": "2025-07-13T01:00:00Z"
+      "scheduledStart": "2025-07-13T01:00:00Z",
+      "actualStart": "2025-07-13T01:37:23Z"
     },
     {
       "id": "I3o9-esNss8",
@@ -1478,7 +1585,8 @@
       "type": "member",
       "duration": 9095,
       "status": "past",
-      "scheduledStart": "2025-07-06T13:00:00Z"
+      "scheduledStart": "2025-07-06T13:00:00Z",
+      "actualStart": "2025-07-06T12:59:45Z"
     },
     {
       "id": "fV0erlSovhc",
@@ -1487,7 +1595,8 @@
       "type": "stream",
       "duration": 9012,
       "status": "past",
-      "scheduledStart": "2025-07-03T14:00:00Z"
+      "scheduledStart": "2025-07-03T14:00:00Z",
+      "actualStart": "2025-07-03T14:04:03Z"
     },
     {
       "id": "e9rY7slCeOw",
@@ -1496,7 +1605,8 @@
       "type": "video",
       "duration": 108,
       "status": "past",
-      "scheduledStart": "2025-07-03T16:45:00Z"
+      "scheduledStart": "2025-07-03T16:45:00Z",
+      "actualStart": "2025-07-03T16:45:06Z"
     },
     {
       "id": "UYMVlTIYmN0",
@@ -1505,7 +1615,8 @@
       "type": "member",
       "duration": 9587,
       "status": "past",
-      "scheduledStart": "2025-06-11T22:00:00Z"
+      "scheduledStart": "2025-06-11T22:00:00Z",
+      "actualStart": "2025-06-11T21:53:39Z"
     },
     {
       "id": "8PMfZg8N03Y",
@@ -1514,7 +1625,8 @@
       "type": "stream",
       "duration": 10391,
       "status": "past",
-      "scheduledStart": "2025-06-03T14:00:00Z"
+      "scheduledStart": "2025-06-03T14:00:00Z",
+      "actualStart": "2025-06-03T13:59:22Z"
     },
     {
       "id": "pQPYPc41Zzc",
@@ -1523,7 +1635,8 @@
       "type": "stream",
       "duration": 8468,
       "status": "past",
-      "scheduledStart": "2025-06-03T01:00:00Z"
+      "scheduledStart": "2025-06-03T01:00:00Z",
+      "actualStart": "2025-06-03T01:02:25Z"
     },
     {
       "id": "z1eAppIiaZM",
@@ -1532,7 +1645,8 @@
       "type": "stream",
       "duration": 7317,
       "status": "past",
-      "scheduledStart": "2025-05-27T13:00:00Z"
+      "scheduledStart": "2025-05-27T13:00:00Z",
+      "actualStart": "2025-05-27T13:00:15Z"
     },
     {
       "id": "sBZryaghe9M",
@@ -1541,7 +1655,8 @@
       "type": "stream",
       "duration": 5089,
       "status": "past",
-      "scheduledStart": "2025-05-24T23:15:00Z"
+      "scheduledStart": "2025-05-24T23:15:00Z",
+      "actualStart": "2025-05-24T23:15:43Z"
     },
     {
       "id": "kQeopZTlqog",
@@ -1550,7 +1665,8 @@
       "type": "stream",
       "duration": 7200,
       "status": "past",
-      "scheduledStart": "2025-05-12T03:00:00Z"
+      "scheduledStart": "2025-05-12T03:00:00Z",
+      "actualStart": "2025-05-12T03:03:35Z"
     },
     {
       "id": "b-jTHH6GK5w",
@@ -1559,7 +1675,8 @@
       "type": "stream",
       "duration": 7823,
       "status": "past",
-      "scheduledStart": "2025-05-11T00:30:00Z"
+      "scheduledStart": "2025-05-11T00:30:00Z",
+      "actualStart": "2025-05-11T01:11:39Z"
     },
     {
       "id": "sDjysXFWYbI",
@@ -1568,7 +1685,8 @@
       "type": "stream",
       "duration": 16187,
       "status": "past",
-      "scheduledStart": "2025-05-10T00:00:00Z"
+      "scheduledStart": "2025-05-10T00:00:00Z",
+      "actualStart": "2025-05-10T00:00:09Z"
     },
     {
       "id": "uEB2dIe37oo",
@@ -1577,7 +1695,8 @@
       "type": "stream",
       "duration": 26256,
       "status": "past",
-      "scheduledStart": "2025-05-08T20:30:00Z"
+      "scheduledStart": "2025-05-08T20:30:00Z",
+      "actualStart": "2025-05-08T21:06:25Z"
     },
     {
       "id": "9gL4We5utAk",
@@ -1586,7 +1705,8 @@
       "type": "stream",
       "duration": 15941,
       "status": "past",
-      "scheduledStart": "2025-05-08T00:15:00Z"
+      "scheduledStart": "2025-05-08T00:15:00Z",
+      "actualStart": "2025-05-08T00:16:37Z"
     },
     {
       "id": "1tE2N1kP2YA",
@@ -1595,7 +1715,8 @@
       "type": "stream",
       "duration": 12892,
       "status": "past",
-      "scheduledStart": "2025-05-07T11:00:00Z"
+      "scheduledStart": "2025-05-07T11:00:00Z",
+      "actualStart": "2025-05-07T11:21:34Z"
     },
     {
       "id": "vbppXmxXo7o",
@@ -1604,7 +1725,8 @@
       "type": "stream",
       "duration": 24022,
       "status": "past",
-      "scheduledStart": "2025-05-06T18:00:00Z"
+      "scheduledStart": "2025-05-06T18:00:00Z",
+      "actualStart": "2025-05-06T18:26:35Z"
     },
     {
       "id": "CVF91CqGD80",
@@ -1613,7 +1735,8 @@
       "type": "stream",
       "duration": 10218,
       "status": "past",
-      "scheduledStart": "2025-05-05T23:30:00Z"
+      "scheduledStart": "2025-05-05T23:30:00Z",
+      "actualStart": "2025-05-05T23:30:47Z"
     },
     {
       "id": "wnQuawM-3Jc",
@@ -1622,7 +1745,8 @@
       "type": "stream",
       "duration": 14957,
       "status": "past",
-      "scheduledStart": "2025-05-05T01:00:00Z"
+      "scheduledStart": "2025-05-05T01:00:00Z",
+      "actualStart": "2025-05-05T01:01:49Z"
     },
     {
       "id": "2toZfafpyW8",
@@ -1631,7 +1755,8 @@
       "type": "stream",
       "duration": 12040,
       "status": "past",
-      "scheduledStart": "2025-05-04T02:00:00Z"
+      "scheduledStart": "2025-05-04T02:00:00Z",
+      "actualStart": "2025-05-04T02:03:37Z"
     },
     {
       "id": "9LOIKZC8W1Y",
@@ -1640,7 +1765,8 @@
       "type": "stream",
       "duration": 8012,
       "status": "past",
-      "scheduledStart": "2025-05-02T21:15:00Z"
+      "scheduledStart": "2025-05-02T21:15:00Z",
+      "actualStart": "2025-05-02T21:15:41Z"
     },
     {
       "id": "eU2ED67DCN8",
@@ -1649,7 +1775,8 @@
       "type": "stream",
       "duration": 11588,
       "status": "past",
-      "scheduledStart": "2025-04-25T19:00:00Z"
+      "scheduledStart": "2025-04-25T19:00:00Z",
+      "actualStart": "2025-04-25T19:00:19Z"
     },
     {
       "id": "1OSCNdXa2Zs",
@@ -1658,7 +1785,8 @@
       "type": "stream",
       "duration": 6380,
       "status": "past",
-      "scheduledStart": "2025-04-25T10:00:00Z"
+      "scheduledStart": "2025-04-25T10:00:00Z",
+      "actualStart": "2025-04-25T09:58:09Z"
     },
     {
       "id": "GJwjpe2LuQE",
@@ -1667,7 +1795,8 @@
       "type": "stream",
       "duration": 7045,
       "status": "past",
-      "scheduledStart": "2025-04-23T23:15:00Z"
+      "scheduledStart": "2025-04-23T23:15:00Z",
+      "actualStart": "2025-04-23T23:10:51Z"
     },
     {
       "id": "MU40vqlgfjA",
@@ -1676,7 +1805,8 @@
       "type": "stream",
       "duration": 9498,
       "status": "past",
-      "scheduledStart": "2025-04-16T09:00:00Z"
+      "scheduledStart": "2025-04-16T09:00:00Z",
+      "actualStart": "2025-04-16T09:21:56Z"
     },
     {
       "id": "BQiD-LvI-YI",
@@ -1685,7 +1815,8 @@
       "type": "member",
       "duration": 8511,
       "status": "past",
-      "scheduledStart": "2025-04-09T19:00:00Z"
+      "scheduledStart": "2025-04-09T19:00:00Z",
+      "actualStart": "2025-04-09T19:00:12Z"
     },
     {
       "id": "7ZiVvjlM-0Q",
@@ -1694,7 +1825,8 @@
       "type": "member",
       "duration": 9141,
       "status": "past",
-      "scheduledStart": "2025-04-06T19:00:00Z"
+      "scheduledStart": "2025-04-06T19:00:00Z",
+      "actualStart": "2025-04-06T19:02:06Z"
     },
     {
       "id": "xlvI03HHAuE",
@@ -1703,7 +1835,8 @@
       "type": "stream",
       "duration": 8969,
       "status": "past",
-      "scheduledStart": "2025-04-06T00:00:00Z"
+      "scheduledStart": "2025-04-06T00:00:00Z",
+      "actualStart": "2025-04-06T00:02:32Z"
     },
     {
       "id": "M1ltgbdxiug",
@@ -1712,7 +1845,8 @@
       "type": "stream",
       "duration": 12543,
       "status": "past",
-      "scheduledStart": "2025-04-05T19:00:00Z"
+      "scheduledStart": "2025-04-05T19:00:00Z",
+      "actualStart": "2025-04-05T18:59:28Z"
     },
     {
       "id": "b3RNgNmNeP0",
@@ -1721,7 +1855,8 @@
       "type": "member",
       "duration": 10036,
       "status": "past",
-      "scheduledStart": "2025-03-30T19:00:00Z"
+      "scheduledStart": "2025-03-30T19:00:00Z",
+      "actualStart": "2025-03-30T19:05:49Z"
     },
     {
       "id": "GykesVOj3nQ",
@@ -1738,7 +1873,8 @@
       "type": "member",
       "duration": 10717,
       "status": "past",
-      "scheduledStart": "2025-03-23T20:00:00Z"
+      "scheduledStart": "2025-03-23T20:00:00Z",
+      "actualStart": "2025-03-23T19:54:49Z"
     },
     {
       "id": "g3YPK_SaPKU",
@@ -1747,7 +1883,8 @@
       "type": "stream",
       "duration": 12440,
       "status": "past",
-      "scheduledStart": "2025-03-20T20:15:00Z"
+      "scheduledStart": "2025-03-20T20:15:00Z",
+      "actualStart": "2025-03-20T20:20:03Z"
     },
     {
       "id": "R0sxa62ta2o",
@@ -1756,7 +1893,8 @@
       "type": "stream",
       "duration": 9759,
       "status": "past",
-      "scheduledStart": "2025-03-16T16:00:00Z"
+      "scheduledStart": "2025-03-16T16:00:00Z",
+      "actualStart": "2025-03-16T15:49:12Z"
     },
     {
       "id": "MdVSJmyCn4g",
@@ -1765,7 +1903,8 @@
       "type": "stream",
       "duration": 7635,
       "status": "past",
-      "scheduledStart": "2025-03-14T19:00:00Z"
+      "scheduledStart": "2025-03-14T19:00:00Z",
+      "actualStart": "2025-03-14T19:01:42Z"
     },
     {
       "id": "MHveDiXFW2E",
@@ -1782,7 +1921,8 @@
       "type": "member",
       "duration": 9617,
       "status": "past",
-      "scheduledStart": "2025-03-02T20:15:00Z"
+      "scheduledStart": "2025-03-02T20:15:00Z",
+      "actualStart": "2025-03-02T20:19:00Z"
     },
     {
       "id": "-qQU7pD73cc",
@@ -1791,7 +1931,8 @@
       "type": "stream",
       "duration": 12050,
       "status": "past",
-      "scheduledStart": "2025-02-26T19:00:00Z"
+      "scheduledStart": "2025-02-26T19:00:00Z",
+      "actualStart": "2025-02-26T19:00:02Z"
     },
     {
       "id": "V4w29MCy8mE",
@@ -1800,7 +1941,8 @@
       "type": "stream",
       "duration": 4412,
       "status": "past",
-      "scheduledStart": "2025-02-26T12:00:00Z"
+      "scheduledStart": "2025-02-26T12:00:00Z",
+      "actualStart": "2025-02-26T11:59:25Z"
     },
     {
       "id": "Co4aSyCHZmE",
@@ -1809,7 +1951,8 @@
       "type": "stream",
       "duration": 12669,
       "status": "past",
-      "scheduledStart": "2025-02-25T19:00:00Z"
+      "scheduledStart": "2025-02-25T19:00:00Z",
+      "actualStart": "2025-02-25T18:58:38Z"
     },
     {
       "id": "k5JwODzByms",
@@ -1818,7 +1961,8 @@
       "type": "stream",
       "duration": 10566,
       "status": "past",
-      "scheduledStart": "2025-02-22T19:00:00Z"
+      "scheduledStart": "2025-02-22T19:00:00Z",
+      "actualStart": "2025-02-22T19:01:29Z"
     },
     {
       "id": "h6EzCHC46Jw",
@@ -1827,7 +1971,8 @@
       "type": "stream",
       "duration": 7157,
       "status": "past",
-      "scheduledStart": "2025-02-21T18:00:00Z"
+      "scheduledStart": "2025-02-21T18:00:00Z",
+      "actualStart": "2025-02-21T18:01:21Z"
     },
     {
       "id": "tBzZss_kh_0",
@@ -1836,7 +1981,8 @@
       "type": "video",
       "duration": 263,
       "status": "past",
-      "scheduledStart": "2025-02-21T20:00:00Z"
+      "scheduledStart": "2025-02-21T20:00:00Z",
+      "actualStart": "2025-02-21T20:00:06Z"
     },
     {
       "id": "lQ_WDww3WhM",
@@ -1845,7 +1991,8 @@
       "type": "stream",
       "duration": 13166,
       "status": "past",
-      "scheduledStart": "2025-02-20T19:00:00Z"
+      "scheduledStart": "2025-02-20T19:00:00Z",
+      "actualStart": "2025-02-20T18:59:41Z"
     },
     {
       "id": "brMTfRnWUXU",
@@ -1854,7 +2001,8 @@
       "type": "stream",
       "duration": 17322,
       "status": "past",
-      "scheduledStart": "2025-02-19T19:00:00Z"
+      "scheduledStart": "2025-02-19T19:00:00Z",
+      "actualStart": "2025-02-19T19:02:30Z"
     },
     {
       "id": "BGvzvvNb-cg",
@@ -1863,7 +2011,8 @@
       "type": "member",
       "duration": 10413,
       "status": "past",
-      "scheduledStart": "2025-02-16T20:00:00Z"
+      "scheduledStart": "2025-02-16T20:00:00Z",
+      "actualStart": "2025-02-16T20:02:58Z"
     },
     {
       "id": "hA76VLtyKI0",
@@ -1872,7 +2021,8 @@
       "type": "stream",
       "duration": 12053,
       "status": "past",
-      "scheduledStart": "2025-02-12T21:00:00Z"
+      "scheduledStart": "2025-02-12T21:00:00Z",
+      "actualStart": "2025-02-12T21:01:32Z"
     },
     {
       "id": "HTrE07LrJBc",
@@ -1881,7 +2031,8 @@
       "type": "member",
       "duration": 10217,
       "status": "past",
-      "scheduledStart": "2025-02-09T16:00:00Z"
+      "scheduledStart": "2025-02-09T16:00:00Z",
+      "actualStart": "2025-02-09T15:57:55Z"
     },
     {
       "id": "uXL2WAyqWJc",
@@ -1890,7 +2041,8 @@
       "type": "stream",
       "duration": 10242,
       "status": "past",
-      "scheduledStart": "2025-02-08T13:30:00Z"
+      "scheduledStart": "2025-02-08T13:30:00Z",
+      "actualStart": "2025-02-08T13:19:23Z"
     },
     {
       "id": "-Glwt7BJD5c",
@@ -1899,7 +2051,8 @@
       "type": "stream",
       "duration": 12593,
       "status": "past",
-      "scheduledStart": "2025-02-07T07:30:00Z"
+      "scheduledStart": "2025-02-07T07:30:00Z",
+      "actualStart": "2025-02-07T07:22:15Z"
     },
     {
       "id": "QeUwFu7AB3w",
@@ -1908,7 +2061,8 @@
       "type": "stream",
       "duration": 8438,
       "status": "past",
-      "scheduledStart": "2025-02-06T01:30:00Z"
+      "scheduledStart": "2025-02-06T01:30:00Z",
+      "actualStart": "2025-02-06T01:32:37Z"
     },
     {
       "id": "LzWM_6UUaNw",
@@ -1917,7 +2071,8 @@
       "type": "stream",
       "duration": 15853,
       "status": "past",
-      "scheduledStart": "2025-02-04T21:00:00Z"
+      "scheduledStart": "2025-02-04T21:00:00Z",
+      "actualStart": "2025-02-04T21:07:23Z"
     },
     {
       "id": "mDUd0OvwgTg",
@@ -1926,7 +2081,8 @@
       "type": "member",
       "duration": 15797,
       "status": "past",
-      "scheduledStart": "2025-02-02T20:00:00Z"
+      "scheduledStart": "2025-02-02T20:00:00Z",
+      "actualStart": "2025-02-02T20:02:56Z"
     },
     {
       "id": "JwC5rwW8LaI",
@@ -1935,7 +2091,8 @@
       "type": "stream",
       "duration": 7622,
       "status": "past",
-      "scheduledStart": "2025-01-31T02:00:00Z"
+      "scheduledStart": "2025-01-31T02:00:00Z",
+      "actualStart": "2025-01-31T02:00:48Z"
     },
     {
       "id": "gs8QtnwImyc",
@@ -1944,7 +2101,8 @@
       "type": "stream",
       "duration": 10701,
       "status": "past",
-      "scheduledStart": "2025-01-30T20:00:00Z"
+      "scheduledStart": "2025-01-30T20:00:00Z",
+      "actualStart": "2025-01-30T19:59:03Z"
     },
     {
       "id": "RA6SgGSobjw",
@@ -1953,7 +2111,8 @@
       "type": "stream",
       "duration": 14623,
       "status": "past",
-      "scheduledStart": "2025-01-29T20:00:00Z"
+      "scheduledStart": "2025-01-29T20:00:00Z",
+      "actualStart": "2025-01-29T20:27:43Z"
     },
     {
       "id": "0iqj8yTXCS0",
@@ -1962,7 +2121,8 @@
       "type": "member",
       "duration": 13800,
       "status": "past",
-      "scheduledStart": "2025-01-26T20:00:00Z"
+      "scheduledStart": "2025-01-26T20:00:00Z",
+      "actualStart": "2025-01-26T19:58:07Z"
     },
     {
       "id": "VxhdDv6cnoA",
@@ -1971,7 +2131,8 @@
       "type": "stream",
       "duration": 10466,
       "status": "past",
-      "scheduledStart": "2025-01-25T20:45:00Z"
+      "scheduledStart": "2025-01-25T20:45:00Z",
+      "actualStart": "2025-01-25T20:37:11Z"
     },
     {
       "id": "HQd0zQjBgpg",
@@ -1980,7 +2141,8 @@
       "type": "stream",
       "duration": 12941,
       "status": "past",
-      "scheduledStart": "2025-01-24T14:00:00Z"
+      "scheduledStart": "2025-01-24T14:00:00Z",
+      "actualStart": "2025-01-24T14:01:21Z"
     },
     {
       "id": "EEsWWB5jf5w",
@@ -1989,7 +2151,8 @@
       "type": "stream",
       "duration": 11971,
       "status": "past",
-      "scheduledStart": "2025-01-23T20:30:00Z"
+      "scheduledStart": "2025-01-23T20:30:00Z",
+      "actualStart": "2025-01-23T20:20:11Z"
     },
     {
       "id": "s_CzysIgrNE",
@@ -1998,7 +2161,8 @@
       "type": "stream",
       "duration": 10921,
       "status": "past",
-      "scheduledStart": "2025-01-22T22:30:00Z"
+      "scheduledStart": "2025-01-22T22:30:00Z",
+      "actualStart": "2025-01-22T23:13:19Z"
     },
     {
       "id": "H6OuE5MPjFk",
@@ -2007,7 +2171,8 @@
       "type": "stream",
       "duration": 8604,
       "status": "past",
-      "scheduledStart": "2025-01-19T14:00:00Z"
+      "scheduledStart": "2025-01-19T14:00:00Z",
+      "actualStart": "2025-01-19T14:02:01Z"
     },
     {
       "id": "EP1dECHEue0",
@@ -2016,7 +2181,8 @@
       "type": "stream",
       "duration": 6303,
       "status": "past",
-      "scheduledStart": "2025-01-18T21:15:00Z"
+      "scheduledStart": "2025-01-18T21:15:00Z",
+      "actualStart": "2025-01-18T21:16:25Z"
     },
     {
       "id": "jqFPgcMt_Jo",
@@ -2025,7 +2191,8 @@
       "type": "video",
       "duration": 229,
       "status": "past",
-      "scheduledStart": "2025-01-18T21:00:00Z"
+      "scheduledStart": "2025-01-18T21:00:00Z",
+      "actualStart": "2025-01-18T21:00:08Z"
     },
     {
       "id": "IBxTwNL0-Ds",
@@ -2034,7 +2201,8 @@
       "type": "stream",
       "duration": 10573,
       "status": "past",
-      "scheduledStart": "2025-01-18T10:00:00Z"
+      "scheduledStart": "2025-01-18T10:00:00Z",
+      "actualStart": "2025-01-18T10:03:35Z"
     },
     {
       "id": "-skCkwcKbts",
@@ -2043,7 +2211,8 @@
       "type": "stream",
       "duration": 13950,
       "status": "past",
-      "scheduledStart": "2025-01-14T20:00:00Z"
+      "scheduledStart": "2025-01-14T20:00:00Z",
+      "actualStart": "2025-01-14T20:03:55Z"
     },
     {
       "id": "TsS-go3TSJg",
@@ -2052,7 +2221,8 @@
       "type": "member",
       "duration": 7310,
       "status": "past",
-      "scheduledStart": "2025-01-19T20:00:00Z"
+      "scheduledStart": "2025-01-19T20:00:00Z",
+      "actualStart": "2025-01-19T20:02:34Z"
     },
     {
       "id": "BuLIolGKeGQ",
@@ -2061,7 +2231,8 @@
       "type": "stream",
       "duration": 12332,
       "status": "past",
-      "scheduledStart": "2025-01-12T22:30:00Z"
+      "scheduledStart": "2025-01-12T22:30:00Z",
+      "actualStart": "2025-01-12T22:32:13Z"
     },
     {
       "id": "gE__2zFt6Ik",
@@ -2070,7 +2241,8 @@
       "type": "member",
       "duration": 12855,
       "status": "past",
-      "scheduledStart": "2025-01-11T20:00:00Z"
+      "scheduledStart": "2025-01-11T20:00:00Z",
+      "actualStart": "2025-01-11T20:10:45Z"
     },
     {
       "id": "ZpMlgGX7YjI",
@@ -2079,7 +2251,8 @@
       "type": "stream",
       "duration": 14445,
       "status": "past",
-      "scheduledStart": "2025-01-09T20:00:00Z"
+      "scheduledStart": "2025-01-09T20:00:00Z",
+      "actualStart": "2025-01-09T20:08:55Z"
     },
     {
       "id": "GJMOvMXcsx8",
@@ -2088,7 +2261,8 @@
       "type": "stream",
       "duration": 14716,
       "status": "past",
-      "scheduledStart": "2025-01-08T12:00:00Z"
+      "scheduledStart": "2025-01-08T12:00:00Z",
+      "actualStart": "2025-01-08T12:02:07Z"
     },
     {
       "id": "zYttDhMGRgg",
@@ -2097,7 +2271,8 @@
       "type": "stream",
       "duration": 9703,
       "status": "past",
-      "scheduledStart": "2025-01-07T20:00:00Z"
+      "scheduledStart": "2025-01-07T20:00:00Z",
+      "actualStart": "2025-01-07T19:55:03Z"
     },
     {
       "id": "JwGpVbl4YYQ",
@@ -2106,7 +2281,8 @@
       "type": "stream",
       "duration": 8229,
       "status": "past",
-      "scheduledStart": "2025-01-07T16:00:00Z"
+      "scheduledStart": "2025-01-07T16:00:00Z",
+      "actualStart": "2025-01-07T15:54:33Z"
     },
     {
       "id": "UwMaP3rgrYo",
@@ -2115,7 +2291,8 @@
       "type": "member",
       "duration": 10453,
       "status": "past",
-      "scheduledStart": "2025-01-05T19:00:00Z"
+      "scheduledStart": "2025-01-05T19:00:00Z",
+      "actualStart": "2025-01-05T19:08:57Z"
     },
     {
       "id": "YCkTxk9CR7w",
@@ -2132,7 +2309,8 @@
       "type": "stream",
       "duration": 4875,
       "status": "past",
-      "scheduledStart": "2025-01-02T22:00:00Z"
+      "scheduledStart": "2025-01-02T22:00:00Z",
+      "actualStart": "2025-01-02T22:01:33Z"
     },
     {
       "id": "KUy6mtsxKDU",
@@ -2141,7 +2319,8 @@
       "type": "stream",
       "duration": 1885,
       "status": "past",
-      "scheduledStart": "2025-01-01T19:00:00Z"
+      "scheduledStart": "2025-01-01T19:00:00Z",
+      "actualStart": "2025-01-01T18:58:15Z"
     },
     {
       "id": "ZrU2Jn94sIU",
@@ -2150,7 +2329,8 @@
       "type": "stream",
       "duration": 4008,
       "status": "past",
-      "scheduledStart": "2024-12-28T22:00:00Z"
+      "scheduledStart": "2024-12-28T22:00:00Z",
+      "actualStart": "2024-12-28T21:57:23Z"
     },
     {
       "id": "LJrBHzPv_nc",
@@ -2159,7 +2339,8 @@
       "type": "stream",
       "duration": 12298,
       "status": "past",
-      "scheduledStart": "2024-12-27T22:00:00Z"
+      "scheduledStart": "2024-12-27T22:00:00Z",
+      "actualStart": "2024-12-27T22:08:47Z"
     },
     {
       "id": "bvkenTRCZyM",
@@ -2168,7 +2349,8 @@
       "type": "stream",
       "duration": 6511,
       "status": "past",
-      "scheduledStart": "2024-12-26T20:00:00Z"
+      "scheduledStart": "2024-12-26T20:00:00Z",
+      "actualStart": "2024-12-26T20:02:17Z"
     },
     {
       "id": "JBPc2ezXYJE",
@@ -2177,7 +2359,8 @@
       "type": "video",
       "duration": 382,
       "status": "past",
-      "scheduledStart": "2024-12-25T16:00:00Z"
+      "scheduledStart": "2024-12-25T16:00:00Z",
+      "actualStart": "2024-12-25T16:00:06Z"
     },
     {
       "id": "7NypZPhjChE",
@@ -2186,7 +2369,8 @@
       "type": "member",
       "duration": 8483,
       "status": "past",
-      "scheduledStart": "2024-12-22T20:00:00Z"
+      "scheduledStart": "2024-12-22T20:00:00Z",
+      "actualStart": "2024-12-22T19:59:59Z"
     },
     {
       "id": "S00ZhY5Biyo",
@@ -2195,7 +2379,8 @@
       "type": "stream",
       "duration": 7189,
       "status": "past",
-      "scheduledStart": "2024-12-18T15:00:00Z"
+      "scheduledStart": "2024-12-18T15:00:00Z",
+      "actualStart": "2024-12-18T15:05:29Z"
     },
     {
       "id": "qXDTjLL4-H0",
@@ -2204,7 +2389,8 @@
       "type": "stream",
       "duration": 5585,
       "status": "past",
-      "scheduledStart": "2024-12-17T19:00:00Z"
+      "scheduledStart": "2024-12-17T19:00:00Z",
+      "actualStart": "2024-12-17T19:01:45Z"
     },
     {
       "id": "9gdX5zwTZEE",
@@ -2213,7 +2399,8 @@
       "type": "member",
       "duration": 11047,
       "status": "past",
-      "scheduledStart": "2024-12-14T20:00:00Z"
+      "scheduledStart": "2024-12-14T20:00:00Z",
+      "actualStart": "2024-12-14T20:05:05Z"
     },
     {
       "id": "bKruxdv8rAE",
@@ -2222,7 +2409,8 @@
       "type": "member",
       "duration": 7035,
       "status": "past",
-      "scheduledStart": "2024-12-08T20:00:00Z"
+      "scheduledStart": "2024-12-08T20:00:00Z",
+      "actualStart": "2024-12-08T20:01:53Z"
     },
     {
       "id": "Gtft6Mp-CB4",
@@ -2231,7 +2419,8 @@
       "type": "stream",
       "duration": 10367,
       "status": "past",
-      "scheduledStart": "2024-12-08T00:00:00Z"
+      "scheduledStart": "2024-12-08T00:00:00Z",
+      "actualStart": "2024-12-07T23:53:25Z"
     },
     {
       "id": "s_qsyiNNZWo",
@@ -2240,7 +2429,8 @@
       "type": "stream",
       "duration": 9169,
       "status": "past",
-      "scheduledStart": "2024-12-07T12:00:00Z"
+      "scheduledStart": "2024-12-07T12:00:00Z",
+      "actualStart": "2024-12-07T11:59:37Z"
     },
     {
       "id": "HeB6Z2zGGRQ",
@@ -2249,7 +2439,8 @@
       "type": "stream",
       "duration": 12251,
       "status": "past",
-      "scheduledStart": "2024-12-06T20:00:00Z"
+      "scheduledStart": "2024-12-06T20:00:00Z",
+      "actualStart": "2024-12-06T19:58:29Z"
     },
     {
       "id": "cBekcLjAW00",
@@ -2258,7 +2449,8 @@
       "type": "stream",
       "duration": 7108,
       "status": "past",
-      "scheduledStart": "2024-11-30T02:00:00Z"
+      "scheduledStart": "2024-11-30T02:00:00Z",
+      "actualStart": "2024-11-30T01:58:29Z"
     },
     {
       "id": "_MJEjpQRCbE",
@@ -2267,7 +2459,8 @@
       "type": "stream",
       "duration": 7775,
       "status": "past",
-      "scheduledStart": "2024-11-26T23:00:00Z"
+      "scheduledStart": "2024-11-26T23:00:00Z",
+      "actualStart": "2024-11-26T23:01:39Z"
     },
     {
       "id": "xrdUzJB5xV8",
@@ -2276,7 +2469,8 @@
       "type": "stream",
       "duration": 8423,
       "status": "past",
-      "scheduledStart": "2024-11-19T21:00:00Z"
+      "scheduledStart": "2024-11-19T21:00:00Z",
+      "actualStart": "2024-11-19T20:55:39Z"
     },
     {
       "id": "eCRLPfFYN4c",
@@ -2285,7 +2479,8 @@
       "type": "stream",
       "duration": 10157,
       "status": "past",
-      "scheduledStart": "2024-11-18T02:00:00Z"
+      "scheduledStart": "2024-11-18T02:00:00Z",
+      "actualStart": "2024-11-18T02:03:25Z"
     },
     {
       "id": "o26WztlCRJQ",
@@ -2294,7 +2489,8 @@
       "type": "stream",
       "duration": 11263,
       "status": "past",
-      "scheduledStart": "2024-11-17T20:00:00Z"
+      "scheduledStart": "2024-11-17T20:00:00Z",
+      "actualStart": "2024-11-17T19:57:47Z"
     },
     {
       "id": "T5VttZ423u8",
@@ -2303,7 +2499,8 @@
       "type": "stream",
       "duration": 10963,
       "status": "past",
-      "scheduledStart": "2024-11-15T13:00:00Z"
+      "scheduledStart": "2024-11-15T13:00:00Z",
+      "actualStart": "2024-11-15T13:00:33Z"
     },
     {
       "id": "DwK9SlwPDjA",
@@ -2312,7 +2509,8 @@
       "type": "stream",
       "duration": 11801,
       "status": "past",
-      "scheduledStart": "2024-11-12T20:00:00Z"
+      "scheduledStart": "2024-11-12T20:00:00Z",
+      "actualStart": "2024-11-12T19:49:51Z"
     },
     {
       "id": "vr_fcIrwWis",
@@ -2321,7 +2519,8 @@
       "type": "member",
       "duration": 7079,
       "status": "past",
-      "scheduledStart": "2024-11-10T20:00:00Z"
+      "scheduledStart": "2024-11-10T20:00:00Z",
+      "actualStart": "2024-11-10T20:08:27Z"
     },
     {
       "id": "X6gzWA41bkQ",
@@ -2346,7 +2545,8 @@
       "type": "stream",
       "duration": 5677,
       "status": "past",
-      "scheduledStart": "2024-11-07T12:30:00Z"
+      "scheduledStart": "2024-11-07T12:30:00Z",
+      "actualStart": "2024-11-07T12:29:15Z"
     },
     {
       "id": "HQlZTLGIC-g",
@@ -2355,7 +2555,8 @@
       "type": "stream",
       "duration": 12763,
       "status": "past",
-      "scheduledStart": "2024-11-05T20:00:00Z"
+      "scheduledStart": "2024-11-05T20:00:00Z",
+      "actualStart": "2024-11-05T20:02:28Z"
     },
     {
       "id": "vy7fEjpg4-E",
@@ -2372,7 +2573,8 @@
       "type": "stream",
       "duration": 6927,
       "status": "past",
-      "scheduledStart": "2024-11-01T04:00:00Z"
+      "scheduledStart": "2024-11-01T04:00:00Z",
+      "actualStart": "2024-11-01T04:26:59Z"
     },
     {
       "id": "q9Uqqc1J-H8",
@@ -2381,7 +2583,8 @@
       "type": "stream",
       "duration": 11357,
       "status": "past",
-      "scheduledStart": "2024-10-31T16:00:00Z"
+      "scheduledStart": "2024-10-31T16:00:00Z",
+      "actualStart": "2024-10-31T15:59:05Z"
     },
     {
       "id": "iRtYWW-5G4U",
@@ -2390,7 +2593,8 @@
       "type": "stream",
       "duration": 8720,
       "status": "past",
-      "scheduledStart": "2024-10-28T20:00:00Z"
+      "scheduledStart": "2024-10-28T20:00:00Z",
+      "actualStart": "2024-10-28T19:57:13Z"
     },
     {
       "id": "wH2f7TGXXfs",
@@ -2399,7 +2603,8 @@
       "type": "stream",
       "duration": 1572,
       "status": "past",
-      "scheduledStart": "2024-10-27T18:00:00Z"
+      "scheduledStart": "2024-10-27T18:00:00Z",
+      "actualStart": "2024-10-27T18:02:13Z"
     },
     {
       "id": "0_4kL3rODrA",
@@ -2408,7 +2613,8 @@
       "type": "stream",
       "duration": 12725,
       "status": "past",
-      "scheduledStart": "2024-10-24T19:00:00Z"
+      "scheduledStart": "2024-10-24T19:00:00Z",
+      "actualStart": "2024-10-24T19:12:57Z"
     },
     {
       "id": "euOFfD-l-zM",
@@ -2417,7 +2623,8 @@
       "type": "stream",
       "duration": 9605,
       "status": "past",
-      "scheduledStart": "2024-10-24T12:00:00Z"
+      "scheduledStart": "2024-10-24T12:00:00Z",
+      "actualStart": "2024-10-24T12:00:15Z"
     },
     {
       "id": "QAPasXCYkPU",
@@ -2426,7 +2633,8 @@
       "type": "video",
       "duration": 263,
       "status": "past",
-      "scheduledStart": "2024-10-20T20:00:00Z"
+      "scheduledStart": "2024-10-20T20:00:00Z",
+      "actualStart": "2024-10-20T20:00:06Z"
     },
     {
       "id": "y8Nn0CdTlzU",
@@ -2435,7 +2643,8 @@
       "type": "stream",
       "duration": 10846,
       "status": "past",
-      "scheduledStart": "2024-10-15T18:00:00Z"
+      "scheduledStart": "2024-10-15T18:00:00Z",
+      "actualStart": "2024-10-15T17:56:06Z"
     },
     {
       "id": "4UZA-AKJHGo",
@@ -2444,7 +2653,8 @@
       "type": "stream",
       "duration": 8935,
       "status": "past",
-      "scheduledStart": "2024-10-12T19:15:00Z"
+      "scheduledStart": "2024-10-12T19:15:00Z",
+      "actualStart": "2024-10-12T19:19:17Z"
     },
     {
       "id": "Epwhauo2YdY",
@@ -2461,7 +2671,8 @@
       "type": "stream",
       "duration": 10067,
       "status": "past",
-      "scheduledStart": "2024-10-09T21:15:00Z"
+      "scheduledStart": "2024-10-09T21:15:00Z",
+      "actualStart": "2024-10-09T21:16:42Z"
     },
     {
       "id": "6a7JkqZ4Deg",
@@ -2470,7 +2681,8 @@
       "type": "member",
       "duration": 10797,
       "status": "past",
-      "scheduledStart": "2024-10-06T18:00:00Z"
+      "scheduledStart": "2024-10-06T18:00:00Z",
+      "actualStart": "2024-10-06T18:04:03Z"
     },
     {
       "id": "lozndyt62NI",
@@ -2479,7 +2691,8 @@
       "type": "stream",
       "duration": 8285,
       "status": "past",
-      "scheduledStart": "2024-10-06T11:00:00Z"
+      "scheduledStart": "2024-10-06T11:00:00Z",
+      "actualStart": "2024-10-06T11:01:06Z"
     },
     {
       "id": "Sn9z6-5dNcw",
@@ -2488,7 +2701,8 @@
       "type": "stream",
       "duration": 14965,
       "status": "past",
-      "scheduledStart": "2024-10-05T19:00:00Z"
+      "scheduledStart": "2024-10-05T19:00:00Z",
+      "actualStart": "2024-10-05T19:05:03Z"
     },
     {
       "id": "D6priUlfgnM",
@@ -2497,7 +2711,8 @@
       "type": "stream",
       "duration": 16176,
       "status": "past",
-      "scheduledStart": "2024-10-02T19:00:00Z"
+      "scheduledStart": "2024-10-02T19:00:00Z",
+      "actualStart": "2024-10-02T19:02:04Z"
     },
     {
       "id": "e3qMyZcVQB4",
@@ -2506,7 +2721,8 @@
       "type": "member",
       "duration": 9683,
       "status": "past",
-      "scheduledStart": "2024-09-29T19:00:00Z"
+      "scheduledStart": "2024-09-29T19:00:00Z",
+      "actualStart": "2024-09-29T19:10:53Z"
     },
     {
       "id": "MtYZyx1AMH4",
@@ -2515,7 +2731,8 @@
       "type": "stream",
       "duration": 10517,
       "status": "past",
-      "scheduledStart": "2024-09-28T19:00:00Z"
+      "scheduledStart": "2024-09-28T19:00:00Z",
+      "actualStart": "2024-09-28T19:01:13Z"
     },
     {
       "id": "Sv2izhi7gFg",
@@ -2524,7 +2741,8 @@
       "type": "stream",
       "duration": 11685,
       "status": "past",
-      "scheduledStart": "2024-09-26T18:00:00Z"
+      "scheduledStart": "2024-09-26T18:00:00Z",
+      "actualStart": "2024-09-26T18:01:15Z"
     },
     {
       "id": "hMFVEyMgKoc",
@@ -2533,7 +2751,8 @@
       "type": "member",
       "duration": 12079,
       "status": "past",
-      "scheduledStart": "2024-09-22T18:30:00Z"
+      "scheduledStart": "2024-09-22T18:30:00Z",
+      "actualStart": "2024-09-22T18:24:52Z"
     },
     {
       "id": "LLUqjxkVel8",
@@ -2542,7 +2761,8 @@
       "type": "stream",
       "duration": 15049,
       "status": "past",
-      "scheduledStart": "2024-09-21T13:00:00Z"
+      "scheduledStart": "2024-09-21T13:00:00Z",
+      "actualStart": "2024-09-21T13:01:36Z"
     },
     {
       "id": "M28n4JJ0yjY",
@@ -2551,7 +2771,8 @@
       "type": "member",
       "duration": 13315,
       "status": "past",
-      "scheduledStart": "2024-09-15T18:30:00Z"
+      "scheduledStart": "2024-09-15T18:30:00Z",
+      "actualStart": "2024-09-15T18:40:55Z"
     },
     {
       "id": "sDmtRFaNIUk",
@@ -2560,7 +2781,8 @@
       "type": "stream",
       "duration": 12753,
       "status": "past",
-      "scheduledStart": "2024-09-10T18:00:00Z"
+      "scheduledStart": "2024-09-10T18:00:00Z",
+      "actualStart": "2024-09-10T18:03:58Z"
     },
     {
       "id": "_urPfTQnLes",
@@ -2569,7 +2791,8 @@
       "type": "stream",
       "duration": 20108,
       "status": "past",
-      "scheduledStart": "2024-09-07T22:30:00Z"
+      "scheduledStart": "2024-09-07T22:30:00Z",
+      "actualStart": "2024-09-07T22:31:28Z"
     },
     {
       "id": "Gw0dZbPKTG4",
@@ -2578,7 +2801,8 @@
       "type": "stream",
       "duration": 8217,
       "status": "past",
-      "scheduledStart": "2024-09-06T21:30:00Z"
+      "scheduledStart": "2024-09-06T21:30:00Z",
+      "actualStart": "2024-09-06T21:26:53Z"
     },
     {
       "id": "5R01-igo4sM",
@@ -2587,7 +2811,8 @@
       "type": "stream",
       "duration": 11553,
       "status": "past",
-      "scheduledStart": "2024-09-06T02:00:00Z"
+      "scheduledStart": "2024-09-06T02:00:00Z",
+      "actualStart": "2024-09-06T02:00:45Z"
     },
     {
       "id": "1_dhGL0K5-k",
@@ -2596,7 +2821,8 @@
       "type": "stream",
       "duration": 12791,
       "status": "past",
-      "scheduledStart": "2024-09-05T02:00:00Z"
+      "scheduledStart": "2024-09-05T02:00:00Z",
+      "actualStart": "2024-09-05T01:56:09Z"
     },
     {
       "id": "dCNrMstGc3I",
@@ -2605,7 +2831,8 @@
       "type": "stream",
       "duration": 10181,
       "status": "past",
-      "scheduledStart": "2024-09-04T02:30:00Z"
+      "scheduledStart": "2024-09-04T02:30:00Z",
+      "actualStart": "2024-09-04T02:28:15Z"
     },
     {
       "id": "oVguNTPnDww",
@@ -2614,7 +2841,8 @@
       "type": "stream",
       "duration": 9963,
       "status": "past",
-      "scheduledStart": "2024-09-03T01:00:00Z"
+      "scheduledStart": "2024-09-03T01:00:00Z",
+      "actualStart": "2024-09-03T00:58:04Z"
     },
     {
       "id": "M3cuDNZrIKM",
@@ -2623,7 +2851,8 @@
       "type": "stream",
       "duration": 11131,
       "status": "past",
-      "scheduledStart": "2024-09-02T02:00:00Z"
+      "scheduledStart": "2024-09-02T02:00:00Z",
+      "actualStart": "2024-09-02T01:50:24Z"
     },
     {
       "id": "2qiX7084obE",
@@ -2632,7 +2861,8 @@
       "type": "stream",
       "duration": 13407,
       "status": "past",
-      "scheduledStart": "2024-09-01T02:00:00Z"
+      "scheduledStart": "2024-09-01T02:00:00Z",
+      "actualStart": "2024-09-01T02:00:20Z"
     },
     {
       "id": "oZufzBfeXlU",
@@ -2641,7 +2871,8 @@
       "type": "stream",
       "duration": 7255,
       "status": "past",
-      "scheduledStart": "2024-08-27T09:00:00Z"
+      "scheduledStart": "2024-08-27T09:00:00Z",
+      "actualStart": "2024-08-27T09:06:40Z"
     },
     {
       "id": "et_wNL1Qt-s",
@@ -2650,7 +2881,8 @@
       "type": "stream",
       "duration": 12699,
       "status": "past",
-      "scheduledStart": "2024-08-26T19:00:00Z"
+      "scheduledStart": "2024-08-26T19:00:00Z",
+      "actualStart": "2024-08-26T19:01:44Z"
     },
     {
       "id": "poDYSi_spbA",
@@ -2659,7 +2891,8 @@
       "type": "member",
       "duration": 11451,
       "status": "past",
-      "scheduledStart": "2024-08-22T18:30:00Z"
+      "scheduledStart": "2024-08-22T18:30:00Z",
+      "actualStart": "2024-08-22T18:25:41Z"
     },
     {
       "id": "zmF_4TxXsng",
@@ -2668,7 +2901,8 @@
       "type": "stream",
       "duration": 12447,
       "status": "past",
-      "scheduledStart": "2024-08-22T09:00:00Z"
+      "scheduledStart": "2024-08-22T09:00:00Z",
+      "actualStart": "2024-08-22T09:01:06Z"
     },
     {
       "id": "dpYv9bJrgss",
@@ -2677,7 +2911,8 @@
       "type": "stream",
       "duration": 12153,
       "status": "past",
-      "scheduledStart": "2024-08-21T18:30:00Z"
+      "scheduledStart": "2024-08-21T18:30:00Z",
+      "actualStart": "2024-08-21T18:29:57Z"
     },
     {
       "id": "Wtf5mc1Yq3c",
@@ -2686,7 +2921,8 @@
       "type": "stream",
       "duration": 11907,
       "status": "past",
-      "scheduledStart": "2024-08-20T18:00:00Z"
+      "scheduledStart": "2024-08-20T18:00:00Z",
+      "actualStart": "2024-08-20T18:00:36Z"
     },
     {
       "id": "eP29jR49UDs",
@@ -2695,7 +2931,8 @@
       "type": "stream",
       "duration": 7057,
       "status": "past",
-      "scheduledStart": "2024-08-18T19:00:00Z"
+      "scheduledStart": "2024-08-18T19:00:00Z",
+      "actualStart": "2024-08-18T18:57:47Z"
     },
     {
       "id": "7HQg4ysQ1Us",
@@ -2704,7 +2941,8 @@
       "type": "stream",
       "duration": 14706,
       "status": "past",
-      "scheduledStart": "2024-08-14T17:00:00Z"
+      "scheduledStart": "2024-08-14T17:00:00Z",
+      "actualStart": "2024-08-14T16:59:14Z"
     },
     {
       "id": "ZJ31oaYAUfA",
@@ -2713,7 +2951,8 @@
       "type": "member",
       "duration": 14347,
       "status": "past",
-      "scheduledStart": "2024-08-10T18:00:00Z"
+      "scheduledStart": "2024-08-10T18:00:00Z",
+      "actualStart": "2024-08-10T18:02:01Z"
     },
     {
       "id": "GHZmimVJslE",
@@ -2722,7 +2961,8 @@
       "type": "stream",
       "duration": 13433,
       "status": "past",
-      "scheduledStart": "2024-08-08T21:00:00Z"
+      "scheduledStart": "2024-08-08T21:00:00Z",
+      "actualStart": "2024-08-08T21:00:04Z"
     },
     {
       "id": "lY_DwurJ0iM",
@@ -2731,7 +2971,8 @@
       "type": "stream",
       "duration": 8641,
       "status": "past",
-      "scheduledStart": "2024-08-08T17:00:00Z"
+      "scheduledStart": "2024-08-08T17:00:00Z",
+      "actualStart": "2024-08-08T16:59:25Z"
     },
     {
       "id": "NHDlgPjY9fM",
@@ -2740,7 +2981,8 @@
       "type": "stream",
       "duration": 6833,
       "status": "past",
-      "scheduledStart": "2024-08-06T20:00:00Z"
+      "scheduledStart": "2024-08-06T20:00:00Z",
+      "actualStart": "2024-08-06T20:00:54Z"
     },
     {
       "id": "PuselUTM590",
@@ -2749,7 +2991,8 @@
       "type": "stream",
       "duration": 6525,
       "status": "past",
-      "scheduledStart": "2024-08-05T19:00:00Z"
+      "scheduledStart": "2024-08-05T19:00:00Z",
+      "actualStart": "2024-08-05T19:01:41Z"
     },
     {
       "id": "_if-b00-7tg",
@@ -2758,7 +3001,8 @@
       "type": "stream",
       "duration": 7742,
       "status": "past",
-      "scheduledStart": "2024-07-30T12:00:00Z"
+      "scheduledStart": "2024-07-30T12:00:00Z",
+      "actualStart": "2024-07-30T12:02:34Z"
     },
     {
       "id": "dj_JcwU6LFA",
@@ -2767,7 +3011,8 @@
       "type": "stream",
       "duration": 17466,
       "status": "past",
-      "scheduledStart": "2024-07-29T18:00:00Z"
+      "scheduledStart": "2024-07-29T18:00:00Z",
+      "actualStart": "2024-07-29T17:59:16Z"
     },
     {
       "id": "dyJopvLJliU",
@@ -2776,7 +3021,8 @@
       "type": "stream",
       "duration": 11069,
       "status": "past",
-      "scheduledStart": "2024-07-28T17:00:00Z"
+      "scheduledStart": "2024-07-28T17:00:00Z",
+      "actualStart": "2024-07-28T16:56:34Z"
     },
     {
       "id": "W2yN6BCpfBo",
@@ -2785,7 +3031,8 @@
       "type": "stream",
       "duration": 12977,
       "status": "past",
-      "scheduledStart": "2024-07-26T20:00:00Z"
+      "scheduledStart": "2024-07-26T20:00:00Z",
+      "actualStart": "2024-07-26T20:00:50Z"
     },
     {
       "id": "cZeCCiX9V-8",
@@ -2794,7 +3041,8 @@
       "type": "stream",
       "duration": 8685,
       "status": "past",
-      "scheduledStart": "2024-07-24T21:00:00Z"
+      "scheduledStart": "2024-07-24T21:00:00Z",
+      "actualStart": "2024-07-24T20:58:23Z"
     },
     {
       "id": "CVIbK0Xaa3w",
@@ -2803,7 +3051,8 @@
       "type": "stream",
       "duration": 8083,
       "status": "past",
-      "scheduledStart": "2024-07-24T17:00:00Z"
+      "scheduledStart": "2024-07-24T17:00:00Z",
+      "actualStart": "2024-07-24T16:54:32Z"
     },
     {
       "id": "brFG95mUUg8",
@@ -2812,7 +3061,8 @@
       "type": "stream",
       "duration": 11057,
       "status": "past",
-      "scheduledStart": "2024-07-22T16:00:00Z"
+      "scheduledStart": "2024-07-22T16:00:00Z",
+      "actualStart": "2024-07-22T15:59:18Z"
     },
     {
       "id": "fxvyyBIBNA8",
@@ -2821,7 +3071,8 @@
       "type": "stream",
       "duration": 7536,
       "status": "past",
-      "scheduledStart": "2024-07-22T01:00:00Z"
+      "scheduledStart": "2024-07-22T01:00:00Z",
+      "actualStart": "2024-07-22T01:02:59Z"
     },
     {
       "id": "tXbrw-i0kkc",
@@ -2830,7 +3081,8 @@
       "type": "stream",
       "duration": 6961,
       "status": "past",
-      "scheduledStart": "2024-07-21T22:00:00Z"
+      "scheduledStart": "2024-07-21T22:00:00Z",
+      "actualStart": "2024-07-21T22:00:05Z"
     },
     {
       "id": "hFnEdol3oZw",
@@ -2839,7 +3091,8 @@
       "type": "stream",
       "duration": 9556,
       "status": "past",
-      "scheduledStart": "2024-07-21T15:00:00Z"
+      "scheduledStart": "2024-07-21T15:00:00Z",
+      "actualStart": "2024-07-21T14:57:00Z"
     },
     {
       "id": "tNaF7e9XRYw",
@@ -2848,7 +3101,8 @@
       "type": "stream",
       "duration": 3746,
       "status": "past",
-      "scheduledStart": "2024-07-20T20:00:00Z"
+      "scheduledStart": "2024-07-20T20:00:00Z",
+      "actualStart": "2024-07-20T19:59:48Z"
     },
     {
       "id": "zxapgYwDkco",
@@ -2857,7 +3111,8 @@
       "type": "stream",
       "duration": 6375,
       "status": "past",
-      "scheduledStart": "2024-07-19T18:15:00Z"
+      "scheduledStart": "2024-07-19T18:15:00Z",
+      "actualStart": "2024-07-19T18:21:57Z"
     },
     {
       "id": "oNs2q_PLpe8",
@@ -2866,7 +3121,8 @@
       "type": "stream",
       "duration": 13282,
       "status": "past",
-      "scheduledStart": "2024-07-18T17:00:00Z"
+      "scheduledStart": "2024-07-18T17:00:00Z",
+      "actualStart": "2024-07-18T17:00:24Z"
     },
     {
       "id": "QolpOsUVh_M",
@@ -2875,7 +3131,8 @@
       "type": "stream",
       "duration": 10711,
       "status": "past",
-      "scheduledStart": "2024-07-16T22:00:00Z"
+      "scheduledStart": "2024-07-16T22:00:00Z",
+      "actualStart": "2024-07-16T22:08:29Z"
     },
     {
       "id": "CbGy_dthT_0",
@@ -2884,7 +3141,8 @@
       "type": "stream",
       "duration": 12687,
       "status": "past",
-      "scheduledStart": "2024-07-15T18:00:00Z"
+      "scheduledStart": "2024-07-15T18:00:00Z",
+      "actualStart": "2024-07-15T17:57:08Z"
     },
     {
       "id": "H2cZ3yPPqIk",
@@ -2893,7 +3151,8 @@
       "type": "stream",
       "duration": 11901,
       "status": "past",
-      "scheduledStart": "2024-07-14T17:00:00Z"
+      "scheduledStart": "2024-07-14T17:00:00Z",
+      "actualStart": "2024-07-14T17:02:52Z"
     },
     {
       "id": "a5eqICKPnek",
@@ -2902,7 +3161,8 @@
       "type": "stream",
       "duration": 9677,
       "status": "past",
-      "scheduledStart": "2024-07-14T00:00:00Z"
+      "scheduledStart": "2024-07-14T00:00:00Z",
+      "actualStart": "2024-07-13T23:56:49Z"
     },
     {
       "id": "WasWmE5MsAg",
@@ -2911,7 +3171,8 @@
       "type": "stream",
       "duration": 19965,
       "status": "past",
-      "scheduledStart": "2024-07-08T18:00:00Z"
+      "scheduledStart": "2024-07-08T18:00:00Z",
+      "actualStart": "2024-07-08T17:58:35Z"
     },
     {
       "id": "T68MKhkRS-g",
@@ -2920,7 +3181,8 @@
       "type": "stream",
       "duration": 1991,
       "status": "past",
-      "scheduledStart": "2024-07-07T18:00:00Z"
+      "scheduledStart": "2024-07-07T18:00:00Z",
+      "actualStart": "2024-07-07T17:59:25Z"
     },
     {
       "id": "wUzCkIYB_CQ",
@@ -2937,7 +3199,8 @@
       "type": "stream",
       "duration": 4943,
       "status": "past",
-      "scheduledStart": "2024-07-06T03:00:00Z"
+      "scheduledStart": "2024-07-06T03:00:00Z",
+      "actualStart": "2024-07-06T03:46:55Z"
     },
     {
       "id": "oTP1YGH6qhU",
@@ -2946,7 +3209,8 @@
       "type": "stream",
       "duration": 13263,
       "status": "past",
-      "scheduledStart": "2024-07-04T18:00:00Z"
+      "scheduledStart": "2024-07-04T18:00:00Z",
+      "actualStart": "2024-07-04T18:00:14Z"
     },
     {
       "id": "j2GacYNEm8s",
@@ -2955,7 +3219,8 @@
       "type": "stream",
       "duration": 11317,
       "status": "past",
-      "scheduledStart": "2024-07-03T17:00:00Z"
+      "scheduledStart": "2024-07-03T17:00:00Z",
+      "actualStart": "2024-07-03T17:00:03Z"
     },
     {
       "id": "SjbxGrMevWg",
@@ -2972,7 +3237,8 @@
       "type": "stream",
       "duration": 9045,
       "status": "past",
-      "scheduledStart": "2024-06-30T18:00:00Z"
+      "scheduledStart": "2024-06-30T18:00:00Z",
+      "actualStart": "2024-06-30T18:00:42Z"
     },
     {
       "id": "lWhR8sk-0xo",
@@ -2981,7 +3247,8 @@
       "type": "stream",
       "duration": 7727,
       "status": "past",
-      "scheduledStart": "2024-06-28T18:00:00Z"
+      "scheduledStart": "2024-06-28T18:00:00Z",
+      "actualStart": "2024-06-28T18:05:39Z"
     },
     {
       "id": "6yo3vLlqprs",
@@ -2990,7 +3257,8 @@
       "type": "stream",
       "duration": 12191,
       "status": "past",
-      "scheduledStart": "2024-06-24T18:00:00Z"
+      "scheduledStart": "2024-06-24T18:00:00Z",
+      "actualStart": "2024-06-24T18:00:35Z"
     },
     {
       "id": "5CM2dON8xhY",
@@ -2999,7 +3267,8 @@
       "type": "stream",
       "duration": 3783,
       "status": "past",
-      "scheduledStart": "2024-06-23T19:00:00Z"
+      "scheduledStart": "2024-06-23T19:00:00Z",
+      "actualStart": "2024-06-23T19:05:36Z"
     },
     {
       "id": "j89Phi0oom8",
@@ -3008,7 +3277,8 @@
       "type": "stream",
       "duration": 3606,
       "status": "past",
-      "scheduledStart": "2024-06-23T04:30:00Z"
+      "scheduledStart": "2024-06-23T04:30:00Z",
+      "actualStart": "2024-06-23T04:35:35Z"
     },
     {
       "id": "NdlSHUEVCj8",
@@ -3017,7 +3287,8 @@
       "type": "stream",
       "duration": 2605,
       "status": "past",
-      "scheduledStart": "2024-06-22T03:00:00Z"
+      "scheduledStart": "2024-06-22T03:00:00Z",
+      "actualStart": "2024-06-22T02:59:47Z"
     },
     {
       "id": "zZXW_iXIrss",
@@ -3026,7 +3297,8 @@
       "type": "video",
       "duration": 186,
       "status": "past",
-      "scheduledStart": "2024-06-22T03:40:00Z"
+      "scheduledStart": "2024-06-22T03:40:00Z",
+      "actualStart": "2024-06-22T03:40:18Z"
     },
     {
       "id": "of2fXW-VmrY",
