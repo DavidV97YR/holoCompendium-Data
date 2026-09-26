@@ -1,7 +1,7 @@
 {
   "channelId": "UC1uv2Oq6kNxgATlCiez59hw",
   "channelName": "Tokoyami Towa",
-  "lastUpdated": "2026-09-23T17:17:16.689Z",
+  "lastUpdated": "2026-09-26T14:07:22.509Z",
   "streams": {
     "bQ8PMeJiruQ": {
       "cur": {
@@ -24485,6 +24485,17 @@
       "sc": 11,
       "member": 1,
       "milestone": 2
+    },
+    "cPnfY2x8Mqc": {
+      "cur": {
+        "¥": 4308,
+        "₱": 250,
+        "NT$": 90
+      },
+      "sc": 15,
+      "sticker": 1,
+      "member": 4,
+      "milestone": 5
     }
   }
 }
