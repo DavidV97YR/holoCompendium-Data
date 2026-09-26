@@ -60,8 +60,19 @@ jobs:
           if [ ! -d ./art-out ]; then echo "Nothing new to upload"; exit 0; fi
           EP="https://${ACCOUNT_ID}.r2.cloudflarestorage.com"
           BUCKET="s3://hololive-youtube-image-archive"
-          aws s3 cp ./art-out "$BUCKET/" --recursive --endpoint-url "$EP" \
+          aws s3 cp ./art-out "$BUCKET/" --recursive --exclude "latest.tsv" --endpoint-url "$EP" \
             --content-type image/webp --cache-control "public, max-age=31536000, immutable"
+          # The current image at its fixed name (what the site loads), copied
+          # inside the bucket from the dated file. An hour's cache, since these
+          # names are reused when a talent changes their art.
+          if [ -f ./art-out/latest.tsv ]; then
+            while IFS=$'\t' read -r SRC DST; do
+              [ -n "$SRC" ] || continue
+              aws s3 cp "$BUCKET/$SRC" "$BUCKET/$DST" --endpoint-url "$EP" --only-show-errors \
+                --metadata-directive REPLACE --content-type image/webp --cache-control "public, max-age=3600"
+              echo "current: $DST <- $SRC"
+            done < ./art-out/latest.tsv
+          fi
           aws s3 cp ./data/art-archive.json "$BUCKET/index.json" --endpoint-url "$EP" \
             --content-type application/json --cache-control "public, max-age=300"
 
