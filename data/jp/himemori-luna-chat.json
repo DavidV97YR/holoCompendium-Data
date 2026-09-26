@@ -1,7 +1,7 @@
 {
   "channelId": "UCa9Y57gfeY0Zro_noHRVrnw",
   "channelName": "Himemori Luna",
-  "lastUpdated": "2026-09-25T16:03:23.979Z",
+  "lastUpdated": "2026-09-26T18:03:18.781Z",
   "streams": {
     "eqVTJnrlhFc": {
       "cur": {
@@ -16606,6 +16606,16 @@
       "gift": 11,
       "recv": 80,
       "sent": 80
+    },
+    "WgQCR05v3W4": {
+      "cur": {
+        "$": 10,
+        "¥": 8000
+      },
+      "sc": 8,
+      "gift": 6,
+      "recv": 69,
+      "sent": 70
     }
   }
 }
