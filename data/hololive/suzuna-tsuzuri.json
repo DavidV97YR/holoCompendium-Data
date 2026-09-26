@@ -7,28 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/XcXvmoDV0Cx77O7Lh730dwbR-f2-XlSwPSdvcfh_zS5jBY3R2Qe0NWEGeJTWVXDY025ShlmER2o",
     "bannerUrl": "https://yt3.googleusercontent.com/DZGUz3jaPuKFhV_2mhTv3ZPuCGefWes8qwzClwWoQZ3Z67OsjhpNsrWEMPM6TW4m_xIGPv2dZBM=s0"
   },
-  "lastUpdated": "2026-09-26T11:40:36.172Z",
+  "lastUpdated": "2026-09-26T13:11:11.169Z",
   "videoCount": 6,
   "videos": [
     {
       "id": "BFlpKxkM7oM",
-      "title": "何が聞きたいの～??  #ホロライブ #アソビまわり隊  #つづり配達中",
-      "published": "2026-09-26T11:37:39.000Z",
+      "title": "何が聞きたいの～?? #ホロライブ #アソビまわり隊 #つづり配達中",
+      "published": "2026-09-26T13:04:44+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 3606,
+      "status": "past",
       "scheduledStart": "2026-09-26T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-26T12:00:31.000Z"
     },
     {
       "id": "Mv1_K4affJw",
       "title": "小悪魔だってかまわない!covered by 鈴鳴つづり",
-      "published": "2026-09-26T06:26:30.000Z",
+      "published": "2026-09-26T13:00:06+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 211,
+      "status": "past",
       "scheduledStart": "2026-09-26T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-26T13:00:06.000Z"
     },
     {
       "id": "M9sb87e-IVM",
