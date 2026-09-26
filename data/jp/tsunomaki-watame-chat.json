@@ -1,7 +1,7 @@
 {
   "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA",
   "channelName": "Tsunomaki Watame",
-  "lastUpdated": "2026-09-25T20:05:43.487Z",
+  "lastUpdated": "2026-09-26T20:03:51.192Z",
   "streams": {
     "iP4KuZLJGqk": {
       "cur": {
@@ -31085,6 +31085,20 @@
       "gift": 24,
       "recv": 47,
       "sent": 52
+    },
+    "DC-jTgas4jw": {
+      "cur": {
+        "¥": 860,
+        "₩": 14000,
+        "NT$": 90,
+        "A$": 2
+      },
+      "sc": 9,
+      "member": 4,
+      "milestone": 2,
+      "gift": 3,
+      "recv": 6,
+      "sent": 11
     }
   }
 }

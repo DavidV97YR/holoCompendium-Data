@@ -1,7 +1,7 @@
 {
   "channelId": "UCp6993wxpyDPHUpavwDFqgg",
   "channelName": "Tokino Sora",
-  "lastUpdated": "2026-09-24T19:07:27.699Z",
+  "lastUpdated": "2026-09-26T20:02:50.594Z",
   "streams": {
     "QYFokdBCPWs": {
       "e": "noreplay",
@@ -20024,6 +20024,19 @@
       },
       "sc": 9,
       "sticker": 1,
+      "milestone": 4,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "IEU7buO7fvI": {
+      "cur": {
+        "¥": 3420,
+        "$": 5
+      },
+      "sc": 5,
+      "sticker": 1,
+      "member": 1,
       "milestone": 4,
       "gift": 2,
       "recv": 10,
