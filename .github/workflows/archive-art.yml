@@ -8,6 +8,11 @@ on:
     workflows: ["Update Channel Data"]
     types: [completed]
   workflow_dispatch:
+    inputs:
+      recopy:
+        description: 'Remake every current-image copy (avatar.webp / banner.webp)'
+        type: boolean
+        default: false
 
 # One at a time: two runs finding the same new banner would both store it.
 concurrency:
@@ -43,6 +48,7 @@ jobs:
         env:
           DATA_DIR: ./data
           OUT_DIR:  ./art-out
+          RECOPY:   ${{ inputs.recopy }}
         run: node scripts/archive-art.js
 
       # Upload before the index is committed, so the index never names a file
@@ -62,14 +68,16 @@ jobs:
           BUCKET="s3://hololive-youtube-image-archive"
           aws s3 cp ./art-out "$BUCKET/" --recursive --exclude "latest.tsv" --endpoint-url "$EP" \
             --content-type image/webp --cache-control "public, max-age=31536000, immutable"
-          # The current image at its fixed name (what the site loads), copied
-          # inside the bucket from the dated file. An hour's cache, since these
-          # names are reused when a talent changes their art.
+          # The current image at its fixed name (what the site loads), from the
+          # dated file. An hour's cache, since these names are reused when a
+          # talent changes their art. Streamed down and back up rather than
+          # copied inside the bucket: R2's copy drops the Cache-Control.
           if [ -f ./art-out/latest.tsv ]; then
             while IFS=$'\t' read -r SRC DST; do
               [ -n "$SRC" ] || continue
-              aws s3 cp "$BUCKET/$SRC" "$BUCKET/$DST" --endpoint-url "$EP" --only-show-errors \
-                --metadata-directive REPLACE --content-type image/webp --cache-control "public, max-age=3600"
+              aws s3 cp "$BUCKET/$SRC" - --endpoint-url "$EP" --only-show-errors < /dev/null \
+                | aws s3 cp - "$BUCKET/$DST" --endpoint-url "$EP" --only-show-errors \
+                    --content-type image/webp --cache-control "public, max-age=3600"
               echo "current: $DST <- $SRC"
             done < ./art-out/latest.tsv
           fi
