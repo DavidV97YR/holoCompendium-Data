@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-09-26T09:10:15.159Z",
+  "lastUpdated": "2026-09-26T11:10:04.901Z",
   "videoCount": 257,
   "videos": [
     {
@@ -26,9 +26,10 @@
       "published": "2026-09-26T07:40:43.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-26T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-26T11:00:51.000Z"
     },
     {
       "id": "rqVutWRexGQ",
@@ -55,27 +56,30 @@
       "title": "【BOMBANANA!】🐣メン限ひなみ視点🐣焦るとすぐ聞か猿になっちゃいます🙉☁️　#ACHRORA #ACHRORAコラボ",
       "published": "2026-09-25T08:57:34.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-26T09:30:00.000Z"
+      "duration": 4048,
+      "status": "past",
+      "scheduledStart": "2026-09-26T09:30:00.000Z",
+      "actualStart": "2026-09-26T09:31:11.000Z"
     },
     {
       "id": "f0XPNLIewJM",
       "title": "【BOMBANANA!】🖤メン限さやな視点🖤今日は名前、間違えません😉　#ACHRORA #ACHRORAコラボ",
       "published": "2026-09-25T08:55:01.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-26T09:30:00.000Z"
+      "duration": 4002,
+      "status": "past",
+      "scheduledStart": "2026-09-26T09:30:00.000Z",
+      "actualStart": "2026-09-26T09:31:35.000Z"
     },
     {
       "id": "WABiewDiAYU",
       "title": "【BOMBANANA!】活動開始から3か月‼️友情崩壊の危機…⁉️🙈🙊🙉#ACHRORA #ACHRORAコラボ【#9月のあくろら観測会議】",
       "published": "2026-09-25T08:49:52.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-26T09:30:00.000Z"
+      "duration": 5433,
+      "status": "past",
+      "scheduledStart": "2026-09-26T09:30:00.000Z",
+      "actualStart": "2026-09-26T09:30:15.000Z"
     },
     {
       "id": "eRttAzdiLF8",
