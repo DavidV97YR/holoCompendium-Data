@@ -1,0 +1,88 @@
+name: Archive Channel Art
+
+# Runs by itself after every Update Channel Data run (which refreshes each
+# channel's avatar and banner links), so it needs no cron job of its own. Can
+# also be started by hand.
+on:
+  workflow_run:
+    workflows: ["Update Channel Data"]
+    types: [completed]
+  workflow_dispatch:
+
+# One at a time: two runs finding the same new banner would both store it.
+concurrency:
+  group: archive-art
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    # The first run stores every channel's current art (~200MB of originals);
+    # after that a run only fetches what changed and takes seconds.
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # sharp does the lossless WebP conversion. Installed here only, so no
+      # other workflow pays for it.
+      - name: Install sharp
+        run: npm install --no-save --no-audit --no-fund sharp@0.34
+
+      - name: Find new art
+        env:
+          DATA_DIR: ./data
+          OUT_DIR:  ./art-out
+        run: node scripts/archive-art.js
+
+      # Upload before the index is committed, so the index never names a file
+      # that is not in the bucket. File names never change once written, hence
+      # the year-long immutable cache.
+      - name: Upload to R2
+        env:
+          AWS_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION:    auto
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          ACCOUNT_ID:            ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -euo pipefail
+          if [ ! -d ./art-out ]; then echo "Nothing new to upload"; exit 0; fi
+          EP="https://${ACCOUNT_ID}.r2.cloudflarestorage.com"
+          BUCKET="s3://hololive-youtube-image-archive"
+          aws s3 cp ./art-out "$BUCKET/" --recursive --endpoint-url "$EP" \
+            --content-type image/webp --cache-control "public, max-age=31536000, immutable"
+          aws s3 cp ./data/art-archive.json "$BUCKET/index.json" --endpoint-url "$EP" \
+            --content-type application/json --cache-control "public, max-age=300"
+
+      - name: Commit index
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          BASE=$(git rev-parse HEAD)
+          git add data/art-archive.json
+          if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
+          MSG="art: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "$MSG"
+          # Same retry as the other jobs: merge by content onto the latest main.
+          for i in $(seq 1 10); do
+            git push && exit 0
+            echo "push attempt $i rejected — merging onto latest main and retrying"
+            sleep 10
+            git fetch origin main || continue
+            node scripts/merge-data.js "$BASE" || exit 1
+            BASE=$(git rev-parse origin/main)
+            git add data/
+            git diff --cached --quiet || git commit -m "$MSG"
+          done
+          echo "push failed after 10 attempts" >&2; exit 1
