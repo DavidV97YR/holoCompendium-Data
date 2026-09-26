@@ -1,7 +1,7 @@
 {
   "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
   "channelName": "Mococo Abyssgard",
-  "lastUpdated": "2026-09-26T10:02:11.531Z",
+  "lastUpdated": "2026-09-26T11:05:55.848Z",
   "streams": {
     "lUHDankrXds": {
       "cur": {
@@ -14533,8 +14533,30 @@
       "sent": 5
     },
     "UrLISw5iDWU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "$": 1096.89,
+        "BOB": 100,
+        "IDR": 1200000,
+        "₱": 1000,
+        "MX$": 150,
+        "¥": 67600,
+        "₪": 30,
+        "CA$": 12,
+        "A$": 2,
+        "ARS": 800,
+        "SGD": 100,
+        "NT$": 390,
+        "MYR": 34.8,
+        "PLN": 10,
+        "€": 50
+      },
+      "sc": 88,
+      "sticker": 5,
+      "member": 19,
+      "milestone": 143,
+      "gift": 11,
+      "recv": 61,
+      "sent": 92
     }
   }
 }
