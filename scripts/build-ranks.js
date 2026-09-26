@@ -28,7 +28,7 @@
  *     "key": "jp/hakui-koyori", "name": "Hakui Koyori",
  *     "branch": "jp", "avatar": "https://yt3.ggpht.com/...",
  *     "streak": { "cur": 5, "max": 87 },
- *     "w": { "d1": { streams, hours, views, yen, sc, members, gifts }, ... },
+ *     "w": { "d1": { streams, read, hours, views, yen, sc, members, gifts }, ... },
  *     "top": { "d1": { "m": <stream>|null, "v": <stream>|"m"|null }, ... }
  *   }]
  * }
@@ -216,7 +216,7 @@ function readJSON(fp) {
 }
 
 function emptyWindow() {
-  return { streams: 0, hours: 0, views: 0, yen: 0, sc: 0, members: 0, gifts: 0 };
+  return { streams: 0, read: 0, hours: 0, views: 0, yen: 0, sc: 0, members: 0, gifts: 0 };
 }
 
 function main() {
@@ -286,6 +286,10 @@ function main() {
 
       const summary = chat[v.id];
       const paid    = isAnalysed(summary) ? summary : null;
+      // Chat walked, money or not. A 0 is a stream read with nothing paid in it
+      // (a debut before Super Chats are switched on), which the page must not
+      // report as "not read yet".
+      const read    = summary === 0 || !!paid;
       const yen     = paid ? toYen(paid.cur || {}) : 0;
 
       // When it started, which is what every page shows. published is the VOD
@@ -301,6 +305,7 @@ function main() {
         if (w !== 'all' && start < cutoff[w]) continue;
         const b = t.w[w];
         b.streams++; b.hours += hours; b.views += view;
+        if (read) b.read++;
         if (paid) {
           b.yen     += yen;
           b.sc      += (paid.sc || 0) + (paid.sticker || 0);
