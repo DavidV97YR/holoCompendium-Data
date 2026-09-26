@@ -46,6 +46,7 @@ const sharp  = require('sharp');
 const DATA_DIR = process.env.DATA_DIR || './data';
 const OUT_DIR  = process.env.OUT_DIR  || './art-out';
 const INDEX    = path.join(DATA_DIR, 'art-archive.json');
+const RECOPY   = process.env.RECOPY === 'true';
 
 // Shared channels, filed under the name the site gives them (CHANNEL_ALIASES
 // in the site's js/shared.js).
@@ -150,13 +151,14 @@ async function main() {
     }
   }
 
-  // The fixed-name copies whose source changed (or were never made).
+  // The fixed-name copies whose source changed (or were never made). A manual
+  // run with "recopy" ticked remakes them all.
   const copies = [];
   for (const [folder, rec] of Object.entries(index.channels)) {
     rec.latest = rec.latest || {};
     for (const kind of ['avatar', 'banner']) {
       const cur = (rec[kind] || []).at(-1);
-      if (!cur || rec.latest[kind] === cur.key) continue;
+      if (!cur || (!RECOPY && rec.latest[kind] === cur.key)) continue;
       copies.push(cur.key + '\t' + folder + '/' + kind + '.webp');
       rec.latest[kind] = cur.key;
     }
