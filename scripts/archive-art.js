@@ -23,9 +23,20 @@
 // YouTube does not say when an image changed, so a version's date is the day
 // this run found it (it runs after every update, so within about two hours).
 //
-// This script only writes: new files under OUT_DIR, ready to upload, and the
-// index at data/art-archive.json. The workflow uploads, then commits the index,
-// so the index never names a file that failed to upload.
+// Each folder also has the current image at a fixed name, which is what the
+// site loads (it knows the talent, not the date):
+//
+//   <branch>/<talent>/avatar.webp     <branch>/<talent>/banner.webp
+//
+// Those are copies of the dated file, made inside the bucket by the workflow
+// from OUT_DIR/latest.tsv ("<dated key>\t<fixed key>" per line). The index
+// records which dated file each one was last copied from (`latest`), so a copy
+// that failed is simply made again next run.
+//
+// This script only writes: new files under OUT_DIR, ready to upload, the copy
+// list, and the index at data/art-archive.json. The workflow uploads and
+// copies, then commits the index, so the index never names a file that failed
+// to upload.
 
 const fs     = require('fs');
 const path   = require('path');
@@ -139,13 +150,30 @@ async function main() {
     }
   }
 
-  if (stored || relinked || reused) {
+  // The fixed-name copies whose source changed (or were never made).
+  const copies = [];
+  for (const [folder, rec] of Object.entries(index.channels)) {
+    rec.latest = rec.latest || {};
+    for (const kind of ['avatar', 'banner']) {
+      const cur = (rec[kind] || []).at(-1);
+      if (!cur || rec.latest[kind] === cur.key) continue;
+      copies.push(cur.key + '\t' + folder + '/' + kind + '.webp');
+      rec.latest[kind] = cur.key;
+    }
+  }
+  if (copies.length) {
+    fs.mkdirSync(OUT_DIR, { recursive: true });
+    fs.writeFileSync(path.join(OUT_DIR, 'latest.tsv'), copies.join('\n') + '\n', 'utf8');
+  }
+
+  if (stored || relinked || reused || copies.length) {
     index.lastUpdated = new Date().toISOString();
     fs.writeFileSync(INDEX, JSON.stringify(index, null, 2) + '\n', 'utf8');
   }
   console.log(`\n${Object.keys(index.channels).length} channels in ${((Date.now() - started) / 1000).toFixed(1)}s — `
             + `${stored} new image(s) (${(bytes / 1048576).toFixed(1)}MB), ${reused} back to an older image, `
-            + `${relinked} same image under a new link, ${gone} no longer on YouTube, ${failed} failed`);
+            + `${relinked} same image under a new link, ${gone} no longer on YouTube, ${failed} failed, `
+            + `${copies.length} current-image copies to make`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
