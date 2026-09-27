@@ -12,12 +12,24 @@ name: Full Recheck (Daily)
 
 on:
   workflow_dispatch:
+    inputs:
+      org:
+        description: 'Which roster (cron-job.org runs take the default: both)'
+        type: choice
+        options: [both, hololive, vspo]
+        default: both
+
+# The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
+# sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
+env:
+  VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=634314027&single=true&output=csv'
 
 jobs:
   full-recheck:
     runs-on: ubuntu-latest
     # A full recheck takes about 90 minutes; this only stops a stuck one.
-    timeout-minutes: 180
+    # VSPO!'s 32 channels add about half an hour after hololive's pass.
+    timeout-minutes: 240
     permissions:
       contents: write
     steps:
@@ -29,7 +41,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run full recheck (backfill mode, all channels)
+      - name: Run full recheck (backfill mode, all channels, hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ secrets.CSV_URL }}
@@ -39,12 +52,23 @@ jobs:
           DATA_DIR:        ./data
         run: node scripts/update.js
 
+      - name: Run full recheck (backfill mode, all channels, VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ env.VSPO_CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY_RECHECK }}
+          ROWS:            all
+          BACKFILL:        'true'
+          DATA_DIR:        ./vspo
+        run: node scripts/update.js
+
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           BASE=$(git rev-parse HEAD)
-          git add data/
+          git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           MSG="full recheck: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git commit -m "$MSG"
@@ -60,7 +84,7 @@ jobs:
             git fetch origin main || continue
             node scripts/merge-data.js "$BASE" || exit 1
             BASE=$(git rev-parse origin/main)
-            git add data/
+            git add data/; [ -d vspo ] && git add vspo/
             git diff --cached --quiet || git commit -m "$MSG"
           done
           echo "push failed after 15 attempts" >&2; exit 1

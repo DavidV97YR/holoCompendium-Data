@@ -28,6 +28,19 @@ on:
         description: 'Backfill: crawl each feed as deep as YouTube allows (slow; use in slices)'
         type: boolean
         default: false
+      # cron-job.org starts this with no inputs, so its runs take the default
+      # and cover both rosters. Row numbers belong to one sheet, so a run with
+      # anything but "all" has to name which.
+      org:
+        description: 'Which roster (row numbers need one sheet, not both)'
+        type: choice
+        options: [both, hololive, vspo]
+        default: both
+
+# The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
+# sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
+env:
+  VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=634314027&single=true&output=csv'
 
 # Posts are written by this workflow and nothing else. Two writers previously
 # caused duplicate video entries in this repo — two jobs discovering the same
@@ -44,6 +57,12 @@ jobs:
       contents: write
 
     steps:
+      - name: Check inputs
+        if: ${{ inputs.org == 'both' && inputs.rows != 'all' }}
+        run: |
+          echo "::error::Row numbers are per sheet. Pick hololive or vspo for rows '${{ inputs.rows }}', or use rows 'all'."
+          exit 1
+
       - name: Checkout repo
         uses: actions/checkout@v4
 
@@ -54,19 +73,36 @@ jobs:
 
       # No install step: fetch-posts.js uses only Node builtins.
 
-      - name: Fetch community posts
+      - name: Fetch community posts (hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           CSV_URL:  ${{ secrets.CSV_URL }}
           DATA_DIR: ./data
-          ROWS:     ${{ github.event.inputs.rows }}
+          ROWS:     ${{ github.event.inputs.rows || 'all' }}
           BACKFILL: ${{ github.event.inputs.backfill }}
-        run: node scripts/fetch-posts.js
+        run: node --max-old-space-size=6144 scripts/fetch-posts.js
 
+      # VSPO! has its own branch files (vspo/posts/jp.json, en.json). Skipped
+      # until VSPO! has been bootstrapped: posts are keyed off the talent files.
+      - name: Fetch community posts (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          CSV_URL:  ${{ env.VSPO_CSV_URL }}
+          DATA_DIR: ./vspo
+          BRANCHES: jp,en
+          ROWS:     ${{ github.event.inputs.rows || 'all' }}
+          BACKFILL: ${{ github.event.inputs.backfill }}
+        run: node --max-old-space-size=6144 scripts/fetch-posts.js
+
+      # always(): the script saves after each channel, so a crash partway must
+      # still commit what it gathered — otherwise a long backfill slice loses
+      # everything on any failure.
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/posts/
+          git add data/posts/; [ -d vspo/posts ] && git add vspo/posts/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "posts: $(date -u +'%Y-%m-%d %H:%M UTC')"
           # -X ours: on a genuine conflict, defer to whatever's already on
@@ -74,7 +110,7 @@ jobs:
           # anyway. Also stops the rebase getting stuck on an unresolved
           # conflict, which plain retries could never recover from.
           #
-          # Only data/posts/ is staged, so a concurrent update.yml or
+          # Only the posts folders are staged, so a concurrent update.yml or
           # fetch-views.yml commit touches different files and merges cleanly.
           for i in $(seq 1 10); do
             git pull --rebase -X ours origin main && git push && exit 0

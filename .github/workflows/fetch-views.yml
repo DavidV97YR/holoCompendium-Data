@@ -9,12 +9,17 @@ on:
         description: 'Rebuild popular.json only (skip fetching views)'
         type: boolean
         default: false
+      org:
+        description: 'Which roster (cron-job.org runs take the default: both)'
+        type: choice
+        options: [both, hololive, vspo]
+        default: both
 
 jobs:
   fetch-views:
     runs-on: ubuntu-latest
     # Stops a stuck run from holding for GitHub's default six hours.
-    timeout-minutes: 60
+    timeout-minutes: 75
     permissions:
       contents: write
 
@@ -30,11 +35,18 @@ jobs:
       - name: Install dependencies
         run: npm ci --omit=dev || npm install --omit=dev
 
-      - name: Fetch view counts
-        if: ${{ inputs.popular_only != true }}
+      - name: Fetch view counts (hololive)
+        if: ${{ inputs.popular_only != true && inputs.org != 'vspo' }}
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
           DATA_DIR:   ./data
+        run: node scripts/fetch-views.js
+
+      - name: Fetch view counts (VSPO!)
+        if: ${{ inputs.popular_only != true && inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          DATA_DIR:   ./vspo
         run: node scripts/fetch-views.js
 
       # The SQLite catalogue and popular.json are built and published by
@@ -46,7 +58,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "views: $(date -u +'%Y-%m-%d %H:%M UTC')"
           # -X ours: defer to whatever's already on origin on a genuine

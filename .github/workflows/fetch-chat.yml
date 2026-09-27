@@ -24,6 +24,11 @@ on:
         description: 'Streams walked in parallel'
         required: false
         default: '6'
+      org:
+        description: 'Which roster (cron-job.org runs take the default: both)'
+        type: choice
+        options: [both, hololive, vspo]
+        default: both
 
 # Chat jobs must not overlap each other: both this and Backfill Chat Data write
 # the same {slug}-chat.json files, and a rebase between two in-flight runs just
@@ -37,7 +42,8 @@ concurrency:
 jobs:
   fetch-chat:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    # hololive's pass has 75 minutes of budget and VSPO!'s 20, one after the other.
+    timeout-minutes: 110
     permissions:
       contents: write
 
@@ -50,7 +56,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch chat data (recent streams)
+      - name: Fetch chat data (recent streams, hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           MODE:         recent
           WINDOW_HOURS: ${{ github.event.inputs.window_hours || '36' }}
@@ -64,11 +71,22 @@ jobs:
           DATA_DIR:     ./data
         run: node scripts/fetch-chat.js
 
+      - name: Fetch chat data (recent streams, VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          MODE:         recent
+          WINDOW_HOURS: ${{ github.event.inputs.window_hours || '36' }}
+          CONCURRENCY:  ${{ github.event.inputs.concurrency || '6' }}
+          BUDGET_MIN:   '20'
+          MAX_ATTEMPTS: '32'
+          DATA_DIR:     ./vspo
+        run: node scripts/fetch-chat.js
+
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "chat: $(date -u +'%Y-%m-%d %H:%M UTC')"
           # -X ours: on a genuine content conflict, defer to whatever's already

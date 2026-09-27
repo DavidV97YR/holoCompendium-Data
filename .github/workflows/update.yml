@@ -11,6 +11,19 @@ on:
         description: 'Backfill: re-enrich ALL existing videos (heavier; use after schema changes)'
         type: boolean
         default: false
+      # cron-job.org starts this with no inputs, so its runs take the default
+      # and cover both rosters. Row numbers belong to one sheet, so a run with
+      # anything but "all" has to name which.
+      org:
+        description: 'Which roster (row numbers need one sheet, not both)'
+        type: choice
+        options: [both, hololive, vspo]
+        default: both
+
+# The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
+# sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
+env:
+  VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=634314027&single=true&output=csv'
 
 jobs:
   update:
@@ -20,6 +33,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check inputs
+        if: ${{ inputs.org == 'both' && inputs.rows != 'all' }}
+        run: |
+          echo "::error::Row numbers are per sheet. Pick hololive or vspo for rows '${{ inputs.rows }}', or use rows 'all'."
+          exit 1
+
       - name: Checkout repo
         uses: actions/checkout@v4
 
@@ -28,14 +47,27 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run updater
+      - name: Run updater (hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ secrets.CSV_URL }}
           YT_API_KEY:      ${{ secrets.YT_API_KEY }}
-          ROWS:            ${{ github.event.inputs.rows }}
+          ROWS:            ${{ github.event.inputs.rows || 'all' }}
           BACKFILL:        ${{ github.event.inputs.backfill }}
           DATA_DIR:        ./data
+        run: node scripts/update.js
+
+      # Skipped until VSPO! has been bootstrapped: there is nothing to update.
+      - name: Run updater (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ env.VSPO_CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY }}
+          ROWS:            ${{ github.event.inputs.rows || 'all' }}
+          BACKFILL:        ${{ github.event.inputs.backfill }}
+          DATA_DIR:        ./vspo
         run: node scripts/update.js
 
       # ── Catalogue ─────────────────────────────────────────────────────────
@@ -51,15 +83,26 @@ jobs:
       #
       # update.js stays on the Node it has always run on; the catalogue scripts
       # need node:sqlite, which only exists from Node 22.
+      #
+      # Each roster gets its own catalogue, popular.json and ranks.json. The
+      # hololive files keep their names; VSPO!'s go under vspo/ in the bucket.
       - name: Setup Node.js 24 for the catalogue
         uses: actions/setup-node@v4
         with:
           node-version: '24'
 
-      - name: Build SQLite catalogue
+      - name: Build SQLite catalogue (hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           DATA_DIR: ./data
           OUT:      ./data.sqlite
+        run: node scripts/build-sqlite.js
+
+      - name: Build SQLite catalogue (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          DATA_DIR: ./vspo
+          OUT:      ./vspo.sqlite
         run: node scripts/build-sqlite.js
 
       # The home page's three Popular sections are nine fixed queries whose
@@ -67,10 +110,18 @@ jobs:
       # means the page fetches a ~22 KB result instead of downloading a 507 KB
       # SQLite engine and range-reading a 50 MB file to recompute them in every
       # visitor's browser.
-      - name: Build popular.json
+      - name: Build popular.json (hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           DB:  ./data.sqlite
           OUT: ./popular.json
+        run: node scripts/build-popular.js
+
+      - name: Build popular.json (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo.sqlite') != '' }}
+        env:
+          DB:  ./vspo.sqlite
+          OUT: ./vspo-popular.json
         run: node scripts/build-popular.js
 
       # The /rank page's six leaderboards. Same reasoning as popular.json, one
@@ -79,10 +130,18 @@ jobs:
       # them at all. This reads data/ directly rather than the catalogue,
       # because the boards link to "/<branch>/<slug>" and the catalogue is
       # keyed by channel id.
-      - name: Build ranks.json
+      - name: Build ranks.json (hololive)
+        if: ${{ inputs.org != 'vspo' }}
         env:
           DATA_DIR: ./data
           OUT:      ./ranks.json
+        run: node scripts/build-ranks.js
+
+      - name: Build ranks.json (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          DATA_DIR: ./vspo
+          OUT:      ./vspo-ranks.json
         run: node scripts/build-ranks.js
 
       # popular.json and ranks.json are the ones a browser fetches, and both are
@@ -95,6 +154,9 @@ jobs:
       # Nothing fetches it today. When something does — search reading it over
       # byte ranges — it will need a content-hashed name again, because
       # overwriting a file in place under a reader is what caused that bug.
+      #
+      # Each file is uploaded only if this run built it, so a run for one
+      # roster leaves the other's published files alone.
       - name: Publish to R2
         env:
           AWS_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
@@ -109,20 +171,24 @@ jobs:
           set -euo pipefail
           EP="https://${ACCOUNT_ID}.r2.cloudflarestorage.com"
           BUCKET="s3://holocompendium-db"
-          echo "data.sqlite  $(stat -c%s ./data.sqlite) bytes"
-          echo "popular.json $(stat -c%s ./popular.json) bytes"
-          echo "ranks.json   $(stat -c%s ./ranks.json) bytes"
-
-          aws s3 cp ./popular.json "$BUCKET/popular.json" --endpoint-url "$EP" --content-type application/json --cache-control "public, max-age=300"
-          aws s3 cp ./ranks.json "$BUCKET/ranks.json" --endpoint-url "$EP" --content-type application/json --cache-control "public, max-age=300"
-          aws s3 cp ./data.sqlite "$BUCKET/data.sqlite" --endpoint-url "$EP" --content-type application/vnd.sqlite3 --cache-control "public, max-age=300"
+          put() {   # put <local file> <key in bucket> <content type>
+            [ -f "$1" ] || return 0
+            echo "$2  $(stat -c%s "$1") bytes"
+            aws s3 cp "$1" "$BUCKET/$2" --endpoint-url "$EP" --content-type "$3" --cache-control "public, max-age=300"
+          }
+          put ./popular.json      popular.json      application/json
+          put ./ranks.json        ranks.json        application/json
+          put ./data.sqlite       data.sqlite       application/vnd.sqlite3
+          put ./vspo-popular.json vspo/popular.json application/json
+          put ./vspo-ranks.json   vspo/ranks.json   application/json
+          put ./vspo.sqlite       vspo/data.sqlite  application/vnd.sqlite3
 
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           BASE=$(git rev-parse HEAD)
-          git add data/
+          git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
           MSG="update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git commit -m "$MSG"
@@ -138,7 +204,7 @@ jobs:
             git fetch origin main || continue
             node scripts/merge-data.js "$BASE" || exit 1
             BASE=$(git rev-parse origin/main)
-            git add data/
+            git add data/; [ -d vspo ] && git add vspo/
             git diff --cached --quiet || git commit -m "$MSG"
           done
           echo "push failed after 10 attempts" >&2; exit 1
