@@ -1,7 +1,7 @@
 {
   "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
   "channelName": "Mococo Abyssgard",
-  "lastUpdated": "2026-09-26T11:05:55.848Z",
+  "lastUpdated": "2026-09-27T08:04:58.897Z",
   "streams": {
     "lUHDankrXds": {
       "cur": {
@@ -14557,6 +14557,23 @@
       "gift": 11,
       "recv": 61,
       "sent": 92
+    },
+    "uHDGJmhsX7k": {
+      "cur": {
+        "$": 613.95,
+        "€": 10,
+        "SGD": 50,
+        "CA$": 20,
+        "ARS": 1100,
+        "NOK": 20,
+        "¥": 1200
+      },
+      "sc": 33,
+      "member": 6,
+      "milestone": 37,
+      "gift": 2,
+      "recv": 20,
+      "sent": 20
     }
   }
 }
