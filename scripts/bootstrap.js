@@ -92,13 +92,29 @@ async function fetchVideoDetails(videoIds, apiKey) {
   const details = {};
   for (let i = 0; i < videoIds.length; i += 50) {
     const batch = videoIds.slice(i, i + 50);
-    const data = await ytGet('videos', { part: 'contentDetails,snippet', id: batch.join(',') }, apiKey);
+    // liveStreamingDetails costs nothing extra (videos.list is 1 unit a call
+    // whatever the parts) and says whether each video is past, live or still
+    // upcoming. Without it a new talent's live stream and waiting rooms were
+    // stored as plain past streams, and their page listed them twice (Live &
+    // Upcoming and Past Streams) until a backfill run set the status.
+    const data = await ytGet('videos', { part: 'contentDetails,snippet,liveStreamingDetails', id: batch.join(',') }, apiKey);
     for (const item of (data.items || [])) {
-      details[item.id] = { duration: item.contentDetails?.duration || '' };
+      const live = item.liveStreamingDetails;
+      details[item.id] = {
+        duration: item.contentDetails?.duration || '',
+        // Same rules and field names as update.js (deriveLiveStatus, isoTime).
+        status: !live || live.actualEndTime ? 'past'
+              : live.actualStartTime ? 'live'
+              : live.scheduledStartTime ? 'upcoming' : 'past',
+        scheduledStart: isoTime(live?.scheduledStartTime),
+        actualStart:    isoTime(live?.actualStartTime),
+      };
     }
   }
   return details;
 }
+
+function isoTime(t) { const ms = Date.parse(t); return Number.isFinite(ms) ? new Date(ms).toISOString() : ''; }
 
 function parseDuration(iso) {
   if (!iso) return 0;
@@ -188,13 +204,20 @@ async function processChannel(talent, apiKey, outputDir) {
   const uniqueIds = [...new Set(allMapped.map(v => v.id))];
   const details = await fetchVideoDetails(uniqueIds, apiKey);
 
-  const videos = allMapped.map(({ id, type, snippet }) => ({
-    id,
-    title:     snippet.title || '',
-    published: snippet.publishedAt || '',
-    type,
-    duration:  parseDuration(details[id]?.duration),
-  }));
+  const videos = allMapped.map(({ id, type, snippet }) => {
+    const d = details[id] || {};
+    const v = {
+      id,
+      title:     snippet.title || '',
+      published: snippet.publishedAt || '',
+      type,
+      duration:  parseDuration(d.duration),
+    };
+    if (d.status)         v.status         = d.status;
+    if (d.scheduledStart) v.scheduledStart = d.scheduledStart;
+    if (d.actualStart)    v.actualStart    = d.actualStart;
+    return v;
+  });
 
   videos.sort((a, b) => new Date(b.published) - new Date(a.published));
 
