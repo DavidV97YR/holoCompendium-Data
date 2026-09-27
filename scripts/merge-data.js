@@ -113,7 +113,7 @@ function mergeFile(file, base) {
 function main() {
   const base = process.argv[2];
   if (!base) { console.error('usage: node scripts/merge-data.js <base-sha>'); process.exit(2); }
-  const files = git('diff', '--name-only', '--no-renames', base, 'HEAD', '--', 'data/')
+  const files = git('diff', '--name-only', '--no-renames', base, 'HEAD', '--', 'data/', 'vspo/')
     .split('\n').filter(Boolean);
 
   const results = new Map();

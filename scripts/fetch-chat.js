@@ -111,6 +111,9 @@ function parseCSV(text) {
     const cols = line.split(',').map(c => c.trim().replace(/^"|"$/g, ''));
     const row = { _row: i + 2 };
     headers.forEach((h, j) => row[h] = cols[j] || '');
+    // The VSPO! sheet names the channel by its bare @handle in a 'YouTube'
+    // column; everything downstream reads 'Channel ID' as a channel URL.
+    if (!row['Channel ID'] && row.YouTube) row['Channel ID'] = 'https://www.youtube.com/' + row.YouTube.replace(/^@?/, '@');
     return row;
   });
 }

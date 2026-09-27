@@ -28,12 +28,18 @@ function parseCSV(text) {
     const cols = line.split(',').map(c => c.trim().replace(/^"|"$/g, ''));
     const row = { _row: i + 2 };
     headers.forEach((h, j) => row[h] = cols[j] || '');
+    // The VSPO! sheet names the channel by its bare @handle in a 'YouTube'
+    // column; everything downstream reads 'Channel ID' as a channel URL.
+    if (!row['Channel ID'] && row.YouTube) row['Channel ID'] = 'https://www.youtube.com/' + row.YouTube.replace(/^@?/, '@');
     return row;
   });
 }
 
 function extractHandle(raw) {
-  const m = raw.match(/@([\w-]+)/);
+  // Any letters, not just a-z: YouTube handles can be Japanese (@八雲べに).
+  let text = raw;
+  try { text = decodeURIComponent(raw); } catch {}   // a stray % is not worth a crash
+  const m = text.match(/@([\p{L}\p{N}_.\-·]+)/u);
   if (m) return m[1];
   if (raw.startsWith('UC')) return raw.trim();
   return null;

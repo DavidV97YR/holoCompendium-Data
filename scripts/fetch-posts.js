@@ -134,6 +134,9 @@ function parseCSV(text) {
     const cols = line.split(',').map(c => c.trim().replace(/^"|"$/g, ''));
     const row = { _row: i + 2 };
     headers.forEach((h, j) => { row[h] = cols[j] || ''; });
+    // The VSPO! sheet names the channel by its bare @handle in a 'YouTube'
+    // column; everything downstream reads 'Channel ID' as a channel URL.
+    if (!row['Channel ID'] && row.YouTube) row['Channel ID'] = 'https://www.youtube.com/' + row.YouTube.replace(/^@?/, '@');
     return row;
   });
 }
@@ -433,7 +436,8 @@ async function doChannel(talent, channelId, store, backfill) {
 
 // ── store ─────────────────────────────────────────────────────────────────
 
-const BRANCHES = ['jp', 'en', 'id', 'dev_is', 'mekpark', 'hololive'];
+// hololive's by default; the VSPO! run passes its own (BRANCHES=jp,en).
+const BRANCHES = (process.env.BRANCHES || 'jp,en,id,dev_is,mekpark,hololive').split(',').map(b => b.trim()).filter(Boolean);
 
 // Serialized posts of each branch file as it currently stands on disk, so
 // saveStore can tell a real change from a no-op without re-reading 6 MB once
