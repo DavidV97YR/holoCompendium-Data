@@ -1,7 +1,7 @@
 {
   "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
   "channelName": "Reimei Mira",
-  "lastUpdated": "2026-09-27T08:05:35.775Z",
+  "lastUpdated": "2026-09-27T14:09:22.729Z",
   "streams": {
     "Fu4v9NyanX8": {
       "cur": {
@@ -1032,6 +1032,10 @@
       "gift": 2,
       "recv": 15,
       "sent": 15
+    },
+    "-GIzwjJA8Qg": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }

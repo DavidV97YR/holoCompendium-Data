@@ -1,7 +1,7 @@
 {
   "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
   "channelName": "Kiyosumi Lyra",
-  "lastUpdated": "2026-09-27T08:05:24.331Z",
+  "lastUpdated": "2026-09-27T14:09:13.093Z",
   "streams": {
     "Fu4v9NyanX8": {
       "cur": {
@@ -1032,6 +1032,10 @@
       "gift": 2,
       "recv": 15,
       "sent": 15
+    },
+    "-GIzwjJA8Qg": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
