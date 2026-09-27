@@ -7,1422 +7,1933 @@
     "avatarUrl": "https://yt3.ggpht.com/bztupxiQMfCNoxlX5ir_3qRpCzGPEzoTOs7gSq6jqgZ-oRAtbyS_seR_Jd9NlT0c0hUzS-kw",
     "bannerUrl": "https://yt3.googleusercontent.com/RLdIhoK7f6T-JZU3mv7W2YYLSbACn50nyahI52lI5yl4_wVXFhRzjSBQFVmi5_duw0BSdXpwHA=s0"
   },
-  "lastUpdated": "2026-09-27T16:14:05.745Z",
+  "lastUpdated": "2026-09-27T17:32:33.139Z",
   "videoCount": 202,
   "videos": [
+    {
+      "id": "bK6Kxcz6aR8",
+      "title": "◤Wuthering Waves◢ RESONATOR SHOWCASE FIRST TIME REACT ! | #JunoUmezono #VSPOEN",
+      "published": "2026-09-27T17:27:26Z",
+      "type": "stream",
+      "duration": 12004,
+      "status": "past",
+      "scheduledStart": "2026-09-27T14:00:00.000Z",
+      "actualStart": "2026-09-27T14:00:42.000Z"
+    },
     {
       "id": "804fKIbHkXU",
       "title": "◤Apex Legends◢ ranked w/ my mom & leo porte (ANGRY FACE) | #JunoUmezono #VSPOEN",
       "published": "2026-09-26T16:59:44Z",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-28T06:00:00.000Z"
     },
     {
       "id": "52NRLkU4gSc",
       "title": "hag vtuber explains life in gamer terms #vtuber #vspo #vtuberclips",
       "published": "2026-09-26T11:30:06Z",
       "type": "short",
-      "duration": 28
-    },
-    {
-      "id": "eaH3cBaET8g",
-      "title": "◤NYOMIES◢ nyom | #JunoUmezono #VSPOEN",
-      "published": "2026-09-25T15:44:07Z",
-      "type": "member",
-      "duration": 8645
-    },
-    {
-      "id": "bK6Kxcz6aR8",
-      "title": "◤Wuthering Waves◢ RESONATOR SHOWCASE FIRST TIME REACT ! | #JunoUmezono #VSPOEN",
-      "published": "2026-09-24T22:49:41+00:00",
-      "type": "stream",
-      "duration": 0
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "k5UF5gQxy0w",
       "title": "◤League of Legends◢ DUO WITH MY MOM/DAD? @DubsteP_ch  | #JunoUmezono #VSPOEN",
       "published": "2026-09-24T20:15:28Z",
       "type": "stream",
-      "duration": 25245
+      "duration": 25245,
+      "status": "past",
+      "scheduledStart": "2026-09-24T13:00:00.000Z",
+      "actualStart": "2026-09-24T12:59:59.000Z"
+    },
+    {
+      "id": "eaH3cBaET8g",
+      "title": "◤NYOMIES◢ nyom | #JunoUmezono #VSPOEN",
+      "published": "2026-09-22T22:36:58Z",
+      "type": "member",
+      "duration": 8645,
+      "status": "past",
+      "scheduledStart": "2026-09-25T13:00:00.000Z",
+      "actualStart": "2026-09-25T13:01:32.000Z"
     },
     {
       "id": "XTsZ748K3s0",
       "title": "◤Wuthering Waves 3.0 part 2◢ i'm inlove with my professor?! | #JunoUmezono #VSPOEN",
       "published": "2026-09-22T18:15:07Z",
       "type": "stream",
-      "duration": 14591
+      "duration": 14591,
+      "status": "past",
+      "scheduledStart": "2026-09-22T14:00:00.000Z",
+      "actualStart": "2026-09-22T14:01:37.000Z"
     },
     {
       "id": "ihQoOuz2000",
       "title": "juno's REAL height?! #vspo #vtuber #vtuberclips",
       "published": "2026-09-22T11:30:08Z",
       "type": "short",
-      "duration": 26
+      "duration": 26,
+      "status": "past"
     },
     {
       "id": "FzYfPSvuUUA",
       "title": "◤Dota 2◢ this game will make you bald w/ @KunehoKarotkeyk @PanVTuber | #JunoUmezono #VSPOEN",
       "published": "2026-09-21T14:59:39Z",
       "type": "stream",
-      "duration": 13317
+      "duration": 13317,
+      "status": "past",
+      "scheduledStart": "2026-09-21T11:00:00.000Z",
+      "actualStart": "2026-09-21T11:04:57.000Z"
     },
     {
       "id": "UIo_SBs9z2M",
       "title": "◤Apex Legends◢ SOLO IN TOKYO (its been 3 weeks..) | #JunoUmezono #VSPOEN",
       "published": "2026-09-20T15:41:07Z",
       "type": "stream",
-      "duration": 9021
+      "duration": 9021,
+      "status": "past",
+      "scheduledStart": "2026-09-20T13:00:00.000Z",
+      "actualStart": "2026-09-20T13:02:47.000Z"
     },
     {
       "id": "VKTRoUswuQQ",
       "title": "◤Wuthering Waves 3.0 part 1◢ TIME FOR LAHAI ROI ! JOURNEY WELLING | #JunoUmezono #VSPOEN",
       "published": "2026-09-19T17:51:32Z",
       "type": "stream",
-      "duration": 11641
+      "duration": 11641,
+      "status": "past",
+      "scheduledStart": "2026-09-19T14:30:00.000Z",
+      "actualStart": "2026-09-19T14:29:47.000Z"
     },
     {
       "id": "gfmr1cNrvqI",
       "title": "◤Wuthering Waves 2.8 part 2◢ why is Chisa THE potential girl? | #JunoUmezono #VSPOEN",
       "published": "2026-09-15T18:09:13Z",
       "type": "stream",
-      "duration": 14065
+      "duration": 14065,
+      "status": "past",
+      "scheduledStart": "2026-09-15T14:00:00.000Z",
+      "actualStart": "2026-09-15T14:01:12.000Z"
     },
     {
       "id": "v6PxKqHjeDc",
       "title": "juno shares a CRAZY random fun fact with chat #vtuber #envtuber #vspo",
       "published": "2026-09-13T11:30:16Z",
       "type": "short",
-      "duration": 27
+      "duration": 27,
+      "status": "past"
     },
     {
       "id": "BJ5J19gX4Xw",
       "title": "◤Valorant ^_^◢ PCute Custom Tournament Day ! | #JunoUmezono #VSPOEN",
       "published": "2026-09-13T11:23:09Z",
       "type": "stream",
-      "duration": 26718
+      "duration": 26718,
+      "status": "past",
+      "scheduledStart": "2026-09-13T03:30:00.000Z",
+      "actualStart": "2026-09-13T03:33:59.000Z"
     },
     {
       "id": "qMEZNnV11lE",
       "title": "◤Wuthering Waves 2.8 part 1◢ potential girl of VSPO! meets THE potential girl | #JunoUmezono #VSPOEN",
       "published": "2026-09-12T17:57:07Z",
       "type": "stream",
-      "duration": 5980
+      "duration": 5980,
+      "status": "past",
+      "scheduledStart": "2026-09-12T15:00:00.000Z",
+      "actualStart": "2026-09-12T15:06:25.000Z"
     },
     {
       "id": "0pzKvYeLENs",
       "title": "◤How to Fish◢ teach fish man how to feed for day for lifetime | #JunoUmezono #VSPOEN",
       "published": "2026-09-12T15:16:57Z",
       "type": "stream",
-      "duration": 14630
+      "duration": 14630,
+      "status": "past",
+      "scheduledStart": "2026-09-12T11:00:00.000Z",
+      "actualStart": "2026-09-12T11:01:14.000Z"
     },
     {
       "id": "3yK5aAhX5u0",
       "title": "VSPO! math is unmatched #vtuber #vspo #vtuberclips",
       "published": "2026-09-11T11:30:36Z",
       "type": "short",
-      "duration": 20
+      "duration": 20,
+      "status": "past"
     },
     {
       "id": "-z3eWraaoiE",
       "title": "◤VALORANT :)◢ hi VSPO! were you looking for a valorant streamer? | #JunoUmezono #VSPOEN",
       "published": "2026-09-11T11:17:27Z",
       "type": "stream",
-      "duration": 14188
+      "duration": 14188,
+      "status": "past",
+      "scheduledStart": "2026-09-11T07:00:00.000Z",
+      "actualStart": "2026-09-11T06:59:11.000Z"
     },
     {
       "id": "j39weMlFoC8",
       "title": "◤VALORANT :(◢ showing YOU why VSPO! hired me (satire) | #JunoUmezono #VSPOEN",
       "published": "2026-09-10T12:14:09Z",
       "type": "stream",
-      "duration": 17578
+      "duration": 17578,
+      "status": "past",
+      "scheduledStart": "2026-09-10T07:00:00.000Z",
+      "actualStart": "2026-09-10T06:57:57.000Z"
     },
     {
       "id": "kmYPHmOAM3c",
       "title": "◤Dota 2◢ control your emotions junson | #JunoUmezono #VSPOEN",
       "published": "2026-09-09T18:24:05Z",
       "type": "stream",
-      "duration": 12405
+      "duration": 12405,
+      "status": "past",
+      "scheduledStart": "2026-09-09T14:45:00.000Z",
+      "actualStart": "2026-09-09T14:47:49.000Z"
     },
     {
       "id": "uLCTl0lWuU4",
       "title": "◤YAP/Zatsu◢ miss me ? | #JunoUmezono #VSPOEN",
       "published": "2026-09-08T17:54:54Z",
       "type": "stream",
-      "duration": 9999
+      "duration": 9999,
+      "status": "past",
+      "scheduledStart": "2026-09-08T15:00:00.000Z",
+      "actualStart": "2026-09-08T15:01:07.000Z"
     },
     {
       "id": "RvtuWVPcDqI",
       "title": "juno suffers with eris for mimi senpai's entertainment #minecraft #vspo #vtuber",
       "published": "2026-09-07T11:30:19Z",
       "type": "short",
-      "duration": 21
+      "duration": 21,
+      "status": "past"
     },
     {
       "id": "L7Dp-cyEUA0",
       "title": "juno's chat teases her about her fanart with tsuna #vspo #vtuber #vtuberclips",
       "published": "2026-09-03T11:30:38Z",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "MQAxKHvtS2E",
       "title": "◤Minecraft◢ FIRST TIME IN VSPO SERVER ! | #JunoUmezono #VSPOEN",
       "published": "2026-09-02T14:25:30Z",
       "type": "stream",
-      "duration": 15225
+      "duration": 15225,
+      "status": "past",
+      "scheduledStart": "2026-09-02T10:00:00.000Z",
+      "actualStart": "2026-09-02T09:58:49.000Z"
     },
     {
       "id": "Y_XS5PsJd7Y",
       "title": "◤Apex Legends◢ SOLO IN TOKYO | #JunoUmezono #VSPOEN",
       "published": "2026-09-01T21:30:19Z",
       "type": "stream",
-      "duration": 21444
+      "duration": 21444,
+      "status": "past",
+      "scheduledStart": "2026-09-01T15:11:00.000Z",
+      "actualStart": "2026-09-01T15:12:59.000Z"
     },
     {
       "id": "cfwmgwqTW0k",
       "title": "◤ASMR/Zatsu◢ reading YOUR confessions | #JunoUmezono #VSPOEN",
-      "published": "2026-09-01T15:21:01Z",
+      "published": "2026-08-31T19:05:29Z",
       "type": "member",
-      "duration": 7690
+      "duration": 7690,
+      "status": "past",
+      "scheduledStart": "2026-09-01T13:00:00.000Z",
+      "actualStart": "2026-09-01T13:04:27.000Z"
     },
     {
       "id": "wQpJhP0mwx0",
       "title": "◤DOTA 2◢ LEAST TOXIC FILIPINO STACK (RARE) | #JunoUmezono #VSPOEN",
       "published": "2026-08-31T17:31:20Z",
       "type": "stream",
-      "duration": 18989
+      "duration": 18989,
+      "status": "past",
+      "scheduledStart": "2026-08-31T12:00:00.000Z",
+      "actualStart": "2026-08-31T12:00:23.000Z"
     },
     {
       "id": "LsRZuCfqOSA",
       "title": "VSPO! EN's unluckiest member #PEAK #vtuber #vspo",
       "published": "2026-08-31T11:00:18Z",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "ZPHTsPGA_6I",
       "title": "◤Wuthering Waves 2.7 part 2◢ FINALE ! DEFEATING THE LEVIATHAN | #JunoUmezono #VSPOEN",
       "published": "2026-08-30T19:39:50Z",
       "type": "stream",
-      "duration": 16024
+      "duration": 16024,
+      "status": "past",
+      "scheduledStart": "2026-08-30T15:00:00.000Z",
+      "actualStart": "2026-08-30T15:01:09.000Z"
     },
     {
       "id": "ahR1o0GOuYc",
       "title": "◤Machine Party◢ juno make friends in not friendly game | #JunoUmezono #VSPOEN",
       "published": "2026-08-28T19:15:54Z",
       "type": "stream",
-      "duration": 6807
+      "duration": 6807,
+      "status": "past",
+      "scheduledStart": "2026-08-28T17:00:00.000Z",
+      "actualStart": "2026-08-28T17:05:09.000Z"
     },
     {
       "id": "F4uMtwEVofs",
       "title": "◤The Closing Shift◢ FIRST SOLO HORROR HELP ME | #JunoUmezono #VSPOEN",
       "published": "2026-08-28T16:46:15Z",
       "type": "stream",
-      "duration": 9460
+      "duration": 9460,
+      "status": "past",
+      "scheduledStart": "2026-08-28T14:00:00.000Z",
+      "actualStart": "2026-08-28T13:58:05.000Z"
     },
     {
       "id": "7_EuGR-r_Ps",
       "title": "◤Meccha Chameleon◢ meccha chameleon retired professional | #JunoUmezono #VSPOEN",
       "published": "2026-08-27T16:07:22Z",
       "type": "stream",
-      "duration": 12239
+      "duration": 12239,
+      "status": "past",
+      "scheduledStart": "2026-08-27T12:30:00.000Z",
+      "actualStart": "2026-08-27T12:31:17.000Z"
     },
     {
       "id": "vm0rfDFbclw",
       "title": "◤Apex Legends◢ cultivating with my senpai and father in law | #JunoUmezono #VSPOEN",
       "published": "2026-08-26T17:06:37Z",
       "type": "stream",
-      "duration": 14091
+      "duration": 14091,
+      "status": "past",
+      "scheduledStart": "2026-08-26T13:00:00.000Z",
+      "actualStart": "2026-08-26T12:59:53.000Z"
     },
     {
       "id": "Twzu9yGiPrs",
       "title": "JUNO GETS 12 KILLS CHAMPION ! #apexlegends #vspo #vtuber",
       "published": "2026-08-25T11:00:17Z",
       "type": "short",
-      "duration": 25
+      "duration": 25,
+      "status": "past"
     },
     {
       "id": "x_fSaGukeIU",
       "title": "◤Big Walk part 2◢ 5 vtubers and 1 bald dude | #JunoUmezono #VSPOEN",
       "published": "2026-08-24T15:21:21Z",
       "type": "stream",
-      "duration": 14692
+      "duration": 14692,
+      "status": "past",
+      "scheduledStart": "2026-08-24T11:00:00.000Z",
+      "actualStart": "2026-08-24T11:05:17.000Z"
     },
     {
       "id": "FKKbe1I3dxQ",
       "title": "◤Wuthering Waves 2.7 part 1◢ best tummy in solaris? | #JunoUmezono #VSPOEN",
       "published": "2026-08-23T20:02:47Z",
       "type": "stream",
-      "duration": 20623
+      "duration": 20623,
+      "status": "past",
+      "scheduledStart": "2026-08-23T14:00:00.000Z",
+      "actualStart": "2026-08-23T14:03:27.000Z"
     },
     {
       "id": "9Dx-vLFiXyQ",
       "title": "◤Insaniquarium◢ but its 2026 | #JunoUmezono #VSPOEN",
       "published": "2026-08-22T15:54:04Z",
       "type": "stream",
-      "duration": 8166
+      "duration": 8166,
+      "status": "past",
+      "scheduledStart": "2026-08-22T13:30:00.000Z",
+      "actualStart": "2026-08-22T13:30:44.000Z"
     },
     {
       "id": "6uA3_KB0LMU",
       "title": "◤PEAK◢ can VSPO EN! climb together? (probably not) | #JunoUmezono #VSPOEN",
       "published": "2026-08-21T16:54:24Z",
       "type": "stream",
-      "duration": 13478
+      "duration": 13478,
+      "status": "past",
+      "scheduledStart": "2026-08-21T13:00:00.000Z",
+      "actualStart": "2026-08-21T13:01:29.000Z"
     },
     {
       "id": "AHjE3mFVOi8",
       "title": "◤Apex Legends◢ CATCH THESE TOES | #JunoUmezono #VSPOEN",
       "published": "2026-08-19T19:01:51Z",
       "type": "stream",
-      "duration": 17072
+      "duration": 17072,
+      "status": "past",
+      "scheduledStart": "2026-08-19T14:00:00.000Z",
+      "actualStart": "2026-08-19T14:03:55.000Z"
     },
     {
       "id": "8etk_7uF8rw",
       "title": "◤Wuthering Waves 2.6 part 2◢ MOON(feet) PRIESTESS | #JunoUmezono #VSPOEN",
       "published": "2026-08-18T20:40:16Z",
       "type": "stream",
-      "duration": 20243
+      "duration": 20243,
+      "status": "past",
+      "scheduledStart": "2026-08-18T14:30:00.000Z",
+      "actualStart": "2026-08-18T14:39:48.000Z"
     },
     {
       "id": "fOEIHhisjDY",
       "title": "juno explains why we look at anime bitties #wutheringwaves #vtuberclips #vspo",
       "published": "2026-08-16T11:00:20Z",
       "type": "short",
-      "duration": 30
+      "duration": 30,
+      "status": "past"
     },
     {
       "id": "5XZFdtYxeoA",
       "title": "◤Big Walk◢ can these vtubers walk the talk? | #JunoUmezono #VSPOEN",
       "published": "2026-08-15T16:57:05Z",
       "type": "stream",
-      "duration": 14291
+      "duration": 14291,
+      "status": "past",
+      "scheduledStart": "2026-08-15T13:00:00.000Z",
+      "actualStart": "2026-08-15T12:50:33.000Z"
     },
     {
       "id": "q_gmkJE3U8Q",
       "title": "◤Wuthering Waves 2.6 part 1◢ FIRST LOOK w/ EYETRACKER (NO LOOK @ IUNO FEET) | #JunoUmezono #VSPOEN",
       "published": "2026-08-14T20:02:38Z",
       "type": "stream",
-      "duration": 20837
+      "duration": 20837,
+      "status": "past",
+      "scheduledStart": "2026-08-14T14:00:00.000Z",
+      "actualStart": "2026-08-14T14:01:47.000Z"
     },
     {
       "id": "TaIj35OwGXE",
       "title": "first time league of legends classic be like #vtuber #leagueoflegends #vtuberclips",
       "published": "2026-08-13T11:00:20Z",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "QBeNpAqHIes",
       "title": "◤Apex Legends◢ watashi wa tamago | #JunoUmezono #VSPOEN",
       "published": "2026-08-12T17:04:20Z",
       "type": "stream",
-      "duration": 13282
+      "duration": 13282,
+      "status": "past",
+      "scheduledStart": "2026-08-12T13:15:00.000Z",
+      "actualStart": "2026-08-12T13:12:18.000Z"
     },
     {
       "id": "nnfzvYmxJSc",
       "title": "◤Happy's Humble Burger Cult◢ VSPO! EN tries to cook in a horror game? | #JunoUmezono #VSPOEN",
       "published": "2026-08-11T16:29:06Z",
       "type": "stream",
-      "duration": 8760
+      "duration": 8760,
+      "status": "past",
+      "scheduledStart": "2026-08-11T13:50:00.000Z",
+      "actualStart": "2026-08-11T13:55:24.000Z"
     },
     {
       "id": "f1Fs-wZ5MBI",
       "title": "◤BIRTHDAY 2026◢ Zatsu + VSPO EN Family Feud | #JunoUmezono #VSPOEN",
       "published": "2026-08-10T18:20:55Z",
       "type": "stream",
-      "duration": 17461
+      "duration": 17461,
+      "status": "past",
+      "scheduledStart": "2026-08-10T13:00:00.000Z",
+      "actualStart": "2026-08-10T13:03:44.000Z"
     },
     {
       "id": "pxSoW25UQSs",
       "title": "◤Apex Legends◢ SOLO GRIND | #JunoUmezono #VSPOEN",
       "published": "2026-08-09T09:38:07Z",
       "type": "stream",
-      "duration": 10991
+      "duration": 10991,
+      "status": "past",
+      "scheduledStart": "2026-08-09T06:30:00.000Z",
+      "actualStart": "2026-08-09T06:25:27.000Z"
     },
     {
       "id": "P2w_Wu6PrCA",
       "title": "◤Apex Legends◢ KUROHA INVITATIONAL DAY ! TEAM PREDAFURS ! | #FurTheWin #JunoUmezono #VSPOEN",
       "published": "2026-08-09T06:41:42Z",
       "type": "stream",
-      "duration": 17732
+      "duration": 17732,
+      "status": "past",
+      "scheduledStart": "2026-08-09T01:30:00.000Z",
+      "actualStart": "2026-08-09T01:29:07.000Z"
     },
     {
       "id": "JF2xWuZ6HMY",
       "title": "◤Meccha Chameleon◢ THE BIGGEST PH VTUBER COLLAB IN HISTORY? | #JunoUmezono #VSPOEN",
       "published": "2026-08-07T15:05:53Z",
       "type": "stream",
-      "duration": 10528
+      "duration": 10528,
+      "status": "past",
+      "scheduledStart": "2026-08-07T12:00:00.000Z",
+      "actualStart": "2026-08-07T12:01:30.000Z"
     },
     {
       "id": "gUhfSIyZJ2E",
       "title": "juno runs into a japanese couple in apex #vtuber #vspo #apexlegends",
       "published": "2026-08-07T11:00:27Z",
       "type": "short",
-      "duration": 31
+      "duration": 31,
+      "status": "past"
     },
     {
       "id": "_KhyPvyYh0o",
       "title": "◤Machine Party◢ ITS PARTY TIME | #JunoUmezono #VSPOEN",
       "published": "2026-08-06T13:59:07Z",
       "type": "stream",
-      "duration": 9988
+      "duration": 9988,
+      "status": "past",
+      "scheduledStart": "2026-08-06T11:00:00.000Z",
+      "actualStart": "2026-08-06T11:00:39.000Z"
     },
     {
       "id": "WeqJNUCzOkA",
       "title": "◤Apex Legends◢ Kuroha Scrims Day 1 Team 9 | #JunoUmezono #VSPOEN",
       "published": "2026-08-06T06:37:20Z",
       "type": "stream",
-      "duration": 17753
+      "duration": 17753,
+      "status": "past",
+      "scheduledStart": "2026-08-06T01:30:00.000Z",
+      "actualStart": "2026-08-06T01:27:48.000Z"
     },
     {
       "id": "qyJ-9iaYZvk",
       "title": "◤Apex Legends◢ Kuroha Invitational training ! | #JunoUmezono #VSPOEN",
       "published": "2026-08-05T17:05:18Z",
       "type": "stream",
-      "duration": 8780
+      "duration": 8780,
+      "status": "past",
+      "scheduledStart": "2026-08-05T14:30:00.000Z",
+      "actualStart": "2026-08-05T14:30:02.000Z"
     },
     {
       "id": "hi3mESADavo",
       "title": "juno @AbaddonCh and @AkiraTsukiyono try ASMR #asmr #vtuber #vspo",
       "published": "2026-08-05T11:30:11Z",
       "type": "short",
-      "duration": 36
+      "duration": 36,
+      "status": "past"
     },
     {
       "id": "J95UghuT01w",
       "title": "◤Marvel Rivals◢ THE FILIPINO AVENGERS? | #JunoUmezono #VSPOEN",
       "published": "2026-08-04T07:34:51Z",
       "type": "stream",
-      "duration": 12587
+      "duration": 12587,
+      "status": "past",
+      "scheduledStart": "2026-08-04T04:00:00.000Z",
+      "actualStart": "2026-08-04T03:52:39.000Z"
     },
     {
       "id": "cXJbO-X_XqE",
       "title": "◤Wuthering Waves 2.5◢ PHROLOVA ARC FIRST LOOK ! | #JunoUmezono #VSPOEN",
       "published": "2026-08-02T18:29:13Z",
       "type": "stream",
-      "duration": 15547
+      "duration": 15547,
+      "status": "past",
+      "scheduledStart": "2026-08-02T14:00:00.000Z",
+      "actualStart": "2026-08-02T14:02:19.000Z"
     },
     {
       "id": "du_Z7RxSOCE",
       "title": "juno teaches dtto and arya tagalog ! #vspo  #apexlegends #vtuber",
       "published": "2026-08-02T10:00:23Z",
       "type": "short",
-      "duration": 21
+      "duration": 21,
+      "status": "past"
     },
     {
       "id": "n5JM7A0gT3o",
       "title": "◤Apex Legends◢ 1 potential girl, 2 furries, 3 filipinos | #JunoUmezono #VSPOEN",
       "published": "2026-07-31T16:40:39Z",
       "type": "stream",
-      "duration": 9171
+      "duration": 9171,
+      "status": "past",
+      "scheduledStart": "2026-07-31T14:00:00.000Z",
+      "actualStart": "2026-07-31T13:59:00.000Z"
     },
     {
       "id": "mAdWluv3HwI",
       "title": "◤Meccha Chameleon◢ w/ deme, cotton, crelly, fraiki, kumi, saruei, shoto, zen, layna | #VSPOEN",
       "published": "2026-07-30T19:31:19Z",
       "type": "stream",
-      "duration": 8829
+      "duration": 8829,
+      "status": "past",
+      "scheduledStart": "2026-07-30T17:00:00.000Z",
+      "actualStart": "2026-07-30T16:58:50.000Z"
     },
     {
       "id": "Cp5da0xnTH4",
       "title": "◤Leauge of Legends◢ FIRST TIME PLAYING CLASSIC | #JunoUmezono #VSPOEN",
       "published": "2026-07-30T19:26:28Z",
       "type": "stream",
-      "duration": 10127
+      "duration": 10127,
+      "status": "past",
+      "scheduledStart": "2026-07-30T14:00:00.000Z",
+      "actualStart": "2026-07-30T14:01:27.000Z"
     },
     {
       "id": "w-sPifTcAHk",
       "title": "◤Apex Legends◢ TOURNAMENT DAY VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
       "published": "2026-07-29T15:31:45Z",
       "type": "stream",
-      "duration": 11332
+      "duration": 11332,
+      "status": "past",
+      "scheduledStart": "2026-07-29T10:30:00.000Z",
+      "actualStart": "2026-07-29T10:29:06.000Z"
     },
     {
       "id": "6CH-JJp5Y_0",
       "title": "◤Apex Legends◢ Day 2 scrims for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
       "published": "2026-07-28T13:57:32Z",
       "type": "stream",
-      "duration": 14202
+      "duration": 14202,
+      "status": "past",
+      "scheduledStart": "2026-07-28T09:45:00.000Z",
+      "actualStart": "2026-07-28T09:45:27.000Z"
     },
     {
       "id": "tUkPlhKt--M",
       "title": "juno is dtto's dog? #vtuber #apexlegends #vspo",
       "published": "2026-07-28T13:37:37Z",
       "type": "short",
-      "duration": 18
+      "duration": 18,
+      "status": "past"
     },
     {
       "id": "xRyxPJPKz1E",
       "title": "◤Apex Legends◢ Day 1 scrims for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
       "published": "2026-07-27T15:12:05Z",
       "type": "stream",
-      "duration": 18570
+      "duration": 18570,
+      "status": "past",
+      "scheduledStart": "2026-07-27T09:45:00.000Z",
+      "actualStart": "2026-07-27T09:47:27.000Z"
     },
     {
       "id": "e1VAaMndHBM",
       "title": "◤Apex Legends◢ CULTIVATING for VSPO!GG #ぶいすぽGG | #JunoUmezono #VSPOEN",
       "published": "2026-07-26T18:20:18Z",
       "type": "stream",
-      "duration": 14455
+      "duration": 14455,
+      "status": "past",
+      "scheduledStart": "2026-07-26T14:00:00.000Z",
+      "actualStart": "2026-07-26T14:08:26.000Z"
     },
     {
       "id": "PyGVMyuY3L4",
       "title": "i made a dota 2 friend #dota2 #vtuber #vspoen",
       "published": "2026-07-26T10:00:15Z",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
     },
     {
       "id": "LGlwGvMw0nI",
       "title": "◤Wuthering Waves 2.4◢ THIS PATCH HAS THE BEST WIVES (PART. 2) | #JunoUmezono #VSPOEN",
       "published": "2026-07-25T18:13:14Z",
       "type": "stream",
-      "duration": 14622
+      "duration": 14622,
+      "status": "past",
+      "scheduledStart": "2026-07-25T14:00:00.000Z",
+      "actualStart": "2026-07-25T14:00:35.000Z"
     },
     {
       "id": "owGIzor5Ccc",
       "title": "◤Scratch Creek◢ playing with someone shorter than me @jirajisaki | #JunoUmezono #VSPOEN",
       "published": "2026-07-23T17:39:39Z",
       "type": "stream",
-      "duration": 12777
+      "duration": 12777,
+      "status": "past",
+      "scheduledStart": "2026-07-23T14:00:00.000Z",
+      "actualStart": "2026-07-23T13:59:05.000Z"
     },
     {
       "id": "dIbadFDNiAQ",
       "title": "◤Wuthering Waves 2.4◢ meeting my twin? POTENTIAL GIRL? (PART 1.) | #JunoUmezono #VSPOEN",
       "published": "2026-07-22T18:06:07Z",
       "type": "stream",
-      "duration": 13154
+      "duration": 13154,
+      "status": "past",
+      "scheduledStart": "2026-07-22T14:15:00.000Z",
+      "actualStart": "2026-07-22T14:17:21.000Z"
     },
     {
       "id": "--6PMCJGoEo",
       "title": "i did NOT see him.. #vtuber #vspo #mecchachameleon",
       "published": "2026-07-21T13:00:09Z",
       "type": "short",
-      "duration": 32
+      "duration": 32,
+      "status": "past"
     },
     {
       "id": "Gs1opE13Xpg",
       "title": "◤Apex Legends◢ ERIS CARRIES ME TO DIAMOND | #JunoUmezono #VSPOEN",
       "published": "2026-07-20T17:37:42Z",
       "type": "stream",
-      "duration": 12122
+      "duration": 12122,
+      "status": "past",
+      "scheduledStart": "2026-07-20T14:00:00.000Z",
+      "actualStart": "2026-07-20T14:02:13.000Z"
     },
     {
       "id": "C6vyOk1Mmo8",
       "title": "◤DOTA 2◢ \"BKB IS USELESS\" -SEA | #JunoUmezono #VSPOEN",
       "published": "2026-07-19T22:34:25Z",
       "type": "stream",
-      "duration": 17340
+      "duration": 17340,
+      "status": "past",
+      "scheduledStart": "2026-07-19T14:00:00.000Z",
+      "actualStart": "2026-07-19T14:02:04.000Z"
     },
     {
       "id": "ET0zK2NpvE4",
       "title": "◤Wuthering Waves 2.2◢ NEW WIVES? w/ EYE TRACKER (part. 1) | #JunoUmezono #VSPOEN",
       "published": "2026-07-17T20:28:17Z",
       "type": "stream",
-      "duration": 16284
+      "duration": 16284,
+      "status": "past",
+      "scheduledStart": "2026-07-17T14:00:00.000Z",
+      "actualStart": "2026-07-17T14:00:31.000Z"
     },
     {
       "id": "whI53lORIuo",
       "title": "meccha chameleon with filipinos pt. 2 #vspo #mecchachameleon #vtuber",
       "published": "2026-07-17T13:00:14Z",
       "type": "short",
-      "duration": 30
+      "duration": 30,
+      "status": "past"
     },
     {
       "id": "qXaZl1ar-Vs",
       "title": "◤Apex Legends◢ with my wife and my mom | #JunoUmezono #VSPOEN",
       "published": "2026-07-15T21:43:09Z",
       "type": "stream",
-      "duration": 33466
+      "duration": 33466,
+      "status": "past",
+      "scheduledStart": "2026-07-15T11:50:00.000Z",
+      "actualStart": "2026-07-15T11:52:40.000Z"
     },
     {
       "id": "2LOuMhMeoJw",
       "title": "◤Wuthering Waves 2.0◢ CONTINUING MY 2.X JOURNEY w/ EYE TRACKER (part. 2) | #JunoUmezono #VSPOEN",
       "published": "2026-07-14T19:23:57Z",
       "type": "stream",
-      "duration": 17619
+      "duration": 17619,
+      "status": "past",
+      "scheduledStart": "2026-07-14T14:15:00.000Z",
+      "actualStart": "2026-07-14T14:15:48.000Z"
     },
     {
       "id": "Oy8gA5fCSZM",
       "title": "wuwa glizzie overdrive #wutheringwaves #vspo #vtuber",
       "published": "2026-07-13T13:56:36Z",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "_cMf3dapJDw",
       "title": "◤ART◢ Drawing VSPO! EN senpais from MEMORY?! (i have terrible memory) | #JunoUmezono #VSPOEN",
       "published": "2026-07-12T16:32:29Z",
       "type": "stream",
-      "duration": 8710
+      "duration": 8710,
+      "status": "past",
+      "scheduledStart": "2026-07-12T14:00:00.000Z",
+      "actualStart": "2026-07-12T14:01:57.000Z"
     },
     {
       "id": "KngYh36oyBI",
       "title": "◤Rocket League◢ VSPO! WORLD CUP? TEAM EN POV! | #JunoUmezono #VSPOEN #ぶいすぽGG",
       "published": "2026-07-11T13:58:36Z",
       "type": "stream",
-      "duration": 10009
+      "duration": 10009,
+      "status": "past",
+      "scheduledStart": "2026-07-11T11:00:00.000Z",
+      "actualStart": "2026-07-11T11:03:28.000Z"
     },
     {
       "id": "epopEr27lvo",
       "title": "◤Dota 2◢ VSPO'S DOTA 2 DEBUT | #JunoUmezono #VSPOEN",
       "published": "2026-07-10T18:57:45Z",
       "type": "stream",
-      "duration": 17230
+      "duration": 17230,
+      "status": "past",
+      "scheduledStart": "2026-07-10T14:00:00.000Z",
+      "actualStart": "2026-07-10T14:00:08.000Z"
     },
     {
       "id": "QMyLVr5IGGY",
       "title": "i am a good dog #mecchachameleon #vspo #vtuber",
       "published": "2026-07-10T11:30:22Z",
       "type": "short",
-      "duration": 22
+      "duration": 22,
+      "status": "past"
     },
     {
       "id": "1DvWl7OXPzY",
       "title": "◤Meccha Chameleon◢ i got invited to play meccha chameleon so im live again | #JunoUmezono #VSPOEN",
       "published": "2026-07-08T22:38:13Z",
       "type": "stream",
-      "duration": 7295
+      "duration": 7295,
+      "status": "past",
+      "scheduledStart": "2026-07-08T20:30:00.000Z",
+      "actualStart": "2026-07-08T20:32:00.000Z"
     },
     {
       "id": "8oEPejpbxD4",
       "title": "◤Wuthering Waves 2.x◢ EXPLORING RINASCITA ! | #JunoUmezono #VSPOEN",
       "published": "2026-07-08T19:33:36Z",
       "type": "stream",
-      "duration": 19236
+      "duration": 19236,
+      "status": "past",
+      "scheduledStart": "2026-07-08T14:00:00.000Z",
+      "actualStart": "2026-07-08T14:01:09.000Z"
     },
     {
       "id": "WoYACqfxN7M",
       "title": "ragebaiting @rprxx is my specialty #vspoen #vtuberclips #shorts",
       "published": "2026-07-08T11:40:33Z",
       "type": "short",
-      "duration": 17
+      "duration": 17,
+      "status": "past"
     },
     {
       "id": "_lDnPLG3yJc",
       "title": "◤Wuthering Waves 2.0◢ CONTINUING MY JOURNEY ! (part. 1) | #JunoUmezono #VSPOEN",
       "published": "2026-07-07T20:45:53Z",
       "type": "stream",
-      "duration": 23150
+      "duration": 23150,
+      "status": "past",
+      "scheduledStart": "2026-07-07T14:00:00.000Z",
+      "actualStart": "2026-07-07T14:02:10.000Z"
     },
     {
       "id": "A4UMWeerXfA",
       "title": "meccha chameleon with filipinos #mecchachameleon #vtuber #vspo",
       "published": "2026-07-05T12:00:02Z",
       "type": "short",
-      "duration": 30
+      "duration": 30,
+      "status": "past"
     },
     {
       "id": "27I8CxaQVYg",
       "title": "◤Meccha Chameleon◢ senpai please dont shoot your kouhai | #JunoUmezono #VSPOEN",
       "published": "2026-07-05T02:14:29Z",
       "type": "stream",
-      "duration": 11284
+      "duration": 11284,
+      "status": "past",
+      "scheduledStart": "2026-07-04T23:00:00.000Z",
+      "actualStart": "2026-07-04T22:55:11.000Z"
     },
     {
       "id": "qS5AWdBq8nU",
       "title": "◤Apex Legends◢ TGS customs first tournament with @dttodot & @rprxx  | #JunoUmezono #VSPOEN",
       "published": "2026-07-04T16:39:25Z",
       "type": "stream",
-      "duration": 13464
+      "duration": 13464,
+      "status": "past",
+      "scheduledStart": "2026-07-04T11:00:00.000Z",
+      "actualStart": "2026-07-04T10:18:27.000Z"
     },
     {
       "id": "B7sKjZHddw4",
       "title": "◤Apex Legends◢ CULTIVATION (APEX TOURNEY PRACTICE) | #JunoUmezono #VSPOEN",
       "published": "2026-07-03T20:36:58Z",
       "type": "stream",
-      "duration": 20958
+      "duration": 20958,
+      "status": "past",
+      "scheduledStart": "2026-07-03T14:30:00.000Z",
+      "actualStart": "2026-07-03T14:30:51.000Z"
     },
     {
       "id": "sSch77FI108",
       "title": "◤Valorant◢ PEWPEW with pinoys | #JunoUmezono #VSPOEN",
       "published": "2026-07-03T07:03:04Z",
       "type": "stream",
-      "duration": 10952
+      "duration": 10952,
+      "status": "past",
+      "scheduledStart": "2026-07-03T04:00:00.000Z",
+      "actualStart": "2026-07-03T03:53:08.000Z"
     },
     {
       "id": "LBonoABzP4M",
       "title": "◤League of Legends◢ dantes and jynxzi but vtubers | #JunoUmezono #VSPOEN",
       "published": "2026-07-02T11:28:22Z",
       "type": "stream",
-      "duration": 13736
+      "duration": 13736,
+      "status": "past",
+      "scheduledStart": "2026-07-02T07:30:00.000Z",
+      "actualStart": "2026-07-02T07:28:27.000Z"
     },
     {
       "id": "dw44tbH-h7M",
       "title": "◤Meccha Chameleon◢ PAINTING WITH PINOYS | #JunoUmezono #VSPOEN",
       "published": "2026-07-01T14:32:35Z",
       "type": "stream",
-      "duration": 15968
+      "duration": 15968,
+      "status": "past",
+      "scheduledStart": "2026-07-01T10:00:00.000Z",
+      "actualStart": "2026-07-01T09:51:05.000Z"
     },
     {
       "id": "-A-dhpoNGt4",
       "title": "◤ZATSU◢ yapyapyap | #JunoUmezono #VSPOEN",
       "published": "2026-06-30T11:27:21Z",
       "type": "stream",
-      "duration": 8404
+      "duration": 8404,
+      "status": "past",
+      "scheduledStart": "2026-06-30T09:00:00.000Z",
+      "actualStart": "2026-06-30T09:00:09.000Z"
     },
     {
       "id": "fBOqGPhEmtA",
       "title": "◤Meccha Chameleon◢ color blind plays meccha chameleon | #JunoUmezono #VSPOEN",
       "published": "2026-06-28T16:32:00Z",
       "type": "stream",
-      "duration": 8565
+      "duration": 8565,
+      "status": "past",
+      "scheduledStart": "2026-06-28T14:00:00.000Z",
+      "actualStart": "2026-06-28T13:59:33.000Z"
     },
     {
       "id": "8fVa4qyRS98",
       "title": "◤Wuthering Waves 1.x◢ FINISHING 1.x? (part. 5) | #JunoUmezono #VSPOEN",
       "published": "2026-06-27T11:26:24Z",
       "type": "stream",
-      "duration": 14968
+      "duration": 14968,
+      "status": "past",
+      "scheduledStart": "2026-06-27T07:00:00.000Z",
+      "actualStart": "2026-06-27T06:59:10.000Z"
     },
     {
       "id": "5XelE5hMgiU",
       "title": "occupation bald? #shiftatmidnight #horrorgaming #shorts",
       "published": "2026-06-27T04:00:13Z",
       "type": "short",
-      "duration": 23
+      "duration": 23,
+      "status": "past"
     },
     {
       "id": "_s92pT-qe7w",
       "title": "◤Apex Legends◢ NEW SPLIT w/ ex valorant pro and temu rpr | #JunoUmezono #VSPOEN",
       "published": "2026-06-26T16:31:01Z",
       "type": "stream",
-      "duration": 14766
+      "duration": 14766,
+      "status": "past",
+      "scheduledStart": "2026-06-26T12:00:00.000Z",
+      "actualStart": "2026-06-26T12:12:43.000Z"
     },
     {
       "id": "MfMiOMNtVLw",
       "title": "◤Wuthering Waves◢ 3.5 REVEAL! NEW WIVES? NEW REGION? RERUNS? (NOOB POV) | #JunoUmezono #VSPOEN",
       "published": "2026-06-26T12:41:20Z",
       "type": "stream",
-      "duration": 4858
+      "duration": 4858,
+      "status": "past",
+      "scheduledStart": "2026-06-26T10:55:00.000Z",
+      "actualStart": "2026-06-26T10:50:17.000Z"
     },
     {
       "id": "-zhD32SzDkI",
       "title": "◤Wuthering Waves 1.x◢ WUWA IS MY MEDICINE (part. 4) | #JunoUmezono #VSPOEN",
       "published": "2026-06-25T09:08:54Z",
       "type": "stream",
-      "duration": 11032
+      "duration": 11032,
+      "status": "past",
+      "scheduledStart": "2026-06-25T06:00:00.000Z",
+      "actualStart": "2026-06-25T05:53:33.000Z"
     },
     {
       "id": "tE1YmpwQCHA",
       "title": "◤Wuthering Waves 1.x◢ I DONT LOSE THE 50/50 (part. 3) | #JunoUmezono #VSPOEN",
       "published": "2026-06-22T16:40:13Z",
       "type": "stream",
-      "duration": 6096
+      "duration": 6096,
+      "status": "past",
+      "scheduledStart": "2026-06-22T14:00:00.000Z",
+      "actualStart": "2026-06-22T14:08:18.000Z"
     },
     {
       "id": "boLY4_-Fi1c",
       "title": "◤OFF COLLAB◢ my korean senpai tries filipino snacks for the first time! | #JunoUmezono #VSPOEN",
       "published": "2026-06-21T09:57:41Z",
       "type": "stream",
-      "duration": 4515
+      "duration": 4515,
+      "status": "past",
+      "scheduledStart": "2026-06-21T07:00:00.000Z",
+      "actualStart": "2026-06-21T07:01:00.000Z"
     },
     {
       "id": "HL-M7SCNr4k",
       "title": "◤Shift At Midnight◢ CAN THE DOPPELGANGERS CAN HEAR US? | #JunoUmezono #VSPOEN",
       "published": "2026-06-18T16:20:19Z",
       "type": "stream",
-      "duration": 6829
+      "duration": 6829,
+      "status": "past",
+      "scheduledStart": "2026-06-18T14:00:00.000Z",
+      "actualStart": "2026-06-18T13:55:16.000Z"
     },
     {
       "id": "OEP4GepSWKo",
       "title": "◤Wuthering Waves 1.x◢ how long can i go without swiping? (PART 2) | #JunoUmezono #VSPOEN",
       "published": "2026-06-17T12:58:32Z",
       "type": "stream",
-      "duration": 20081
+      "duration": 20081,
+      "status": "past",
+      "scheduledStart": "2026-06-17T07:00:00.000Z",
+      "actualStart": "2026-06-17T06:59:59.000Z"
     },
     {
       "id": "h0QN9vY-K_s",
       "title": "this is VSPO EN! wink ~ #vspo #ぶいすぽ #ぶいすぽっ",
       "published": "2026-06-17T04:00:11Z",
       "type": "short",
-      "duration": 19
+      "duration": 19,
+      "status": "past"
     },
     {
       "id": "xA2u42byqgY",
       "title": "◤League of Legends◢ THE GRIPPER RIPPER | #JunoUmezono #VSPOEN",
       "published": "2026-06-16T11:07:34Z",
       "type": "stream",
-      "duration": 13949
+      "duration": 13949,
+      "status": "past",
+      "scheduledStart": "2026-06-16T07:00:00.000Z",
+      "actualStart": "2026-06-16T06:59:26.000Z"
     },
     {
       "id": "n4uNH0JOoyo",
       "title": "◤Counter Strike 2◢ IS CS2 SAFE FOR VTUBERS? (Competitive) | #JunoUmezono #VSPOEN",
       "published": "2026-06-15T16:54:13Z",
       "type": "stream",
-      "duration": 10138
-    },
-    {
-      "id": "V_8ScnBBpZw",
-      "title": "◤Nyomies◢ its been awhile nyomies 8) miss me? | #JunoUmezono #VSPOEN",
-      "published": "2026-06-15T02:01:58Z",
-      "type": "member",
-      "duration": 5906
+      "duration": 10138,
+      "status": "past",
+      "scheduledStart": "2026-06-15T13:50:00.000Z",
+      "actualStart": "2026-06-15T13:54:16.000Z"
     },
     {
       "id": "eWKOPcgBD80",
       "title": "◤Wuthering Waves 1.x◢ NEW PLAYER journeys into solaris-3 (PART 1) | #JunoUmezono #VSPOEN",
       "published": "2026-06-14T19:51:16Z",
       "type": "stream",
-      "duration": 20034
+      "duration": 20034,
+      "status": "past",
+      "scheduledStart": "2026-06-14T14:00:00.000Z",
+      "actualStart": "2026-06-14T14:00:22.000Z"
     },
     {
       "id": "K72A7njub-c",
       "title": "the Wuthering Waves x Cyberpunk Edgerunners collab was too much #wutheringwaves #cyberpunk #vtuber",
       "published": "2026-06-13T14:51:33Z",
       "type": "short",
-      "duration": 28
+      "duration": 28,
+      "status": "past"
+    },
+    {
+      "id": "V_8ScnBBpZw",
+      "title": "◤Nyomies◢ its been awhile nyomies 8) miss me? | #JunoUmezono #VSPOEN",
+      "published": "2026-06-13T11:50:17Z",
+      "type": "member",
+      "duration": 5906,
+      "status": "past",
+      "scheduledStart": "2026-06-14T12:00:00.000Z",
+      "actualStart": "2026-06-14T12:00:39.000Z"
     },
     {
       "id": "iAU-NGijx5U",
       "title": "◤Apex Legends◢ 1 gaki 1 mommy and 1 oji san walk into a bar | #JunoUmezono #VSPOEN",
       "published": "2026-06-12T14:17:20Z",
       "type": "stream",
-      "duration": 10692
+      "duration": 10692,
+      "status": "past",
+      "scheduledStart": "2026-06-12T11:00:00.000Z",
+      "actualStart": "2026-06-12T11:01:55.000Z"
     },
     {
       "id": "C0NXgKqKH2E",
       "title": "do i actually sound like a pokemon? #valorantclips #vspo #vtuber",
       "published": "2026-06-12T03:42:38Z",
       "type": "short",
-      "duration": 19
+      "duration": 19,
+      "status": "past"
     },
     {
       "id": "ca0X5K7C4bs",
       "title": "◤Wuthering Waves Pt. 2◢ IS THAT A COMPROMISE? (finishing event today) | #JunoUmezono #VSPOEN",
       "published": "2026-06-11T12:33:46Z",
       "type": "stream",
-      "duration": 18592
+      "duration": 18592,
+      "status": "past",
+      "scheduledStart": "2026-06-11T07:00:00.000Z",
+      "actualStart": "2026-06-11T07:07:10.000Z"
     },
     {
       "id": "VVxlUb6Uaig",
       "title": "◤Wuthering Waves Pt. 1◢ i don't know why i'm no one... | #JunoUmezono #VSPOEN",
       "published": "2026-06-10T12:03:01Z",
       "type": "stream",
-      "duration": 17334
+      "duration": 17334,
+      "status": "past",
+      "scheduledStart": "2026-06-10T07:00:00.000Z",
+      "actualStart": "2026-06-10T07:00:06.000Z"
     },
     {
       "id": "sjol_GjeH0w",
       "title": "no way she just said that #subnautica #vtuberclips #vspo",
       "published": "2026-06-10T04:00:01Z",
       "type": "short",
-      "duration": 30
+      "duration": 30,
+      "status": "past"
     },
     {
       "id": "vYqgJhvTGcA",
       "title": "◤League of Legends◢ THE WORLD SHALL KNOW FEET | #JunoUmezono #VSPOEN",
       "published": "2026-06-09T11:47:58Z",
       "type": "stream",
-      "duration": 12850
+      "duration": 12850,
+      "status": "past",
+      "scheduledStart": "2026-06-09T08:00:00.000Z",
+      "actualStart": "2026-06-09T07:59:38.000Z"
     },
     {
       "id": "U8ccFuvrJ0U",
       "title": "天天天国地獄国 (Tententengokujigokugoku) / cover by Juno Umezono & Eris Suzukami【ENG sub】",
       "published": "2026-06-07T09:07:06Z",
       "type": "video",
-      "duration": 232
+      "duration": 232,
+      "status": "past",
+      "scheduledStart": "2026-06-07T09:07:00.000Z",
+      "actualStart": "2026-06-07T09:07:06.000Z"
     },
     {
       "id": "vuxFxLkMnPY",
       "title": "◤Valorant◢ valorant jump scare | #JunoUmezono #VSPOEN",
       "published": "2026-06-06T16:29:11Z",
       "type": "stream",
-      "duration": 7526
+      "duration": 7526,
+      "status": "past",
+      "scheduledStart": "2026-06-06T14:15:00.000Z",
+      "actualStart": "2026-06-06T14:16:30.000Z"
     },
     {
       "id": "cl_aMCq0XJE",
       "title": "◤League of Legends◢ short stream with @dttodot  | #JunoUmezono #VSPOEN",
       "published": "2026-06-06T00:46:35Z",
       "type": "stream",
-      "duration": 30724
+      "duration": 30724,
+      "status": "past",
+      "scheduledStart": "2026-06-05T15:45:00.000Z",
+      "actualStart": "2026-06-05T15:45:46.000Z"
     },
     {
       "id": "fjvax0RzfjY",
       "title": "◤Forza Horizon 6◢ cultivating my driving | #JunoUmezono #VSPOEN",
       "published": "2026-06-04T00:46:04Z",
       "type": "stream",
-      "duration": 11647
+      "duration": 11647,
+      "status": "past",
+      "scheduledStart": "2026-06-03T13:30:00.000Z",
+      "actualStart": "2026-06-03T13:36:19.000Z"
     },
     {
       "id": "LXgMIoNr91M",
       "title": "◤League of Legends◢ duo with the fiance @dttodot   | #JunoUmezono #VSPOEN",
       "published": "2026-06-04T00:40:29Z",
       "type": "stream",
-      "duration": 26939
+      "duration": 26939,
+      "status": "past",
+      "scheduledStart": "2026-06-03T16:50:00.000Z",
+      "actualStart": "2026-06-03T16:50:55.000Z"
     },
     {
       "id": "_OSiWK_Jc78",
       "title": "first cover teaser ! ! ! TEN TEN TEN #vspo #cover",
       "published": "2026-06-03T10:07:32Z",
       "type": "short",
-      "duration": 19
+      "duration": 19,
+      "status": "past"
     },
     {
       "id": "cgBm0hThUBg",
       "title": "◤ZATSU◢ low cortisol yapping | #JunoUmezono #VSPOEN",
       "published": "2026-06-02T14:05:18Z",
       "type": "stream",
-      "duration": 6992
+      "duration": 6992,
+      "status": "past",
+      "scheduledStart": "2026-06-02T11:00:00.000Z",
+      "actualStart": "2026-06-02T11:00:11.000Z"
     },
     {
       "id": "rIdJ3T_Dc7U",
       "title": "first time driving #forzahorizon6 #vspo #vtuber",
       "published": "2026-06-02T04:59:25Z",
       "type": "short",
-      "duration": 32
+      "duration": 32,
+      "status": "past"
     },
     {
       "id": "4tYSXntGLDg",
       "title": "◤Fall Guys◢ FIRST MEMBERS GAMES! | #JunoUmezono #VSPOEN",
       "published": "2026-05-31T16:45:43Z",
       "type": "stream",
-      "duration": 7511
+      "duration": 7511,
+      "status": "past",
+      "scheduledStart": "2026-05-31T14:30:00.000Z",
+      "actualStart": "2026-05-31T14:34:00.000Z"
     },
     {
       "id": "wNUIh-dsC0g",
       "title": "◤Forza Horizon 6◢ kachow (FIRST RACING GAME) | #JunoUmezono #VSPOEN",
       "published": "2026-05-30T17:32:53Z",
       "type": "stream",
-      "duration": 13515
+      "duration": 13515,
+      "status": "past",
+      "scheduledStart": "2026-05-30T13:30:00.000Z",
+      "actualStart": "2026-05-30T13:34:32.000Z"
     },
     {
       "id": "Yz6CGh5TsdM",
       "title": "◤Subnautica 2◢ we are undor da wator | #JunoUmezono #VSPOEN",
       "published": "2026-05-29T17:13:03Z",
       "type": "stream",
-      "duration": 10983
+      "duration": 10983,
+      "status": "past",
+      "scheduledStart": "2026-05-29T14:00:00.000Z",
+      "actualStart": "2026-05-29T13:59:35.000Z"
     },
     {
       "id": "hdY2-z6acR8",
       "title": "dtto rizz is too strong. . . #vspo #vtuber #honkaistarrail",
       "published": "2026-05-29T04:00:27Z",
       "type": "short",
-      "duration": 27
+      "duration": 27,
+      "status": "past"
     },
     {
       "id": "C_uL7_0Hy2c",
       "title": "◤Forza Horizon 6◢ first time driving in game | #JunoUmezono #VSPOEN",
       "published": "2026-05-28T19:14:47Z",
       "type": "stream",
-      "duration": 19502
+      "duration": 19502,
+      "status": "past",
+      "scheduledStart": "2026-05-28T13:30:00.000Z",
+      "actualStart": "2026-05-28T13:31:33.000Z"
     },
     {
       "id": "Ox_QXA3-rIY",
       "title": "◤Dark Anthology: House of Ashes◢ VSPO! EN's bravest soldiers | #JunoUmezono #VSPOEN",
       "published": "2026-05-28T05:33:39Z",
       "type": "stream",
-      "duration": 8660
+      "duration": 8660,
+      "status": "past",
+      "scheduledStart": "2026-05-28T03:00:00.000Z",
+      "actualStart": "2026-05-28T03:01:22.000Z"
     },
     {
       "id": "anBvLC04ePE",
       "title": "◤League of Legends◢ GOLD DEMON | #JunoUmezono #VSPOEN",
       "published": "2026-05-27T12:47:24Z",
       "type": "stream",
-      "duration": 12755
+      "duration": 12755,
+      "status": "past",
+      "scheduledStart": "2026-05-27T09:00:00.000Z",
+      "actualStart": "2026-05-27T09:00:28.000Z"
     },
     {
       "id": "hjPk_XGqS0g",
       "title": "i found eris suzukami a boyfriend #vspo #horrorgaming #vtuber",
       "published": "2026-05-26T04:00:33Z",
       "type": "short",
-      "duration": 33
+      "duration": 33,
+      "status": "past"
     },
     {
       "id": "m5QZyPwSmA4",
       "title": "◤Apex Legends◢ getting Diamond tonight surely? | #JunoUmezono #VSPOEN",
       "published": "2026-05-25T18:44:26Z",
       "type": "stream",
-      "duration": 29571
-    },
-    {
-      "id": "rYvPM6u6H7s",
-      "title": "◤NYOMIES◢ im a believer | #JunoUmezono #VSPOEN",
-      "published": "2026-05-24T16:43:30Z",
-      "type": "member",
-      "duration": 12659
+      "duration": 29571,
+      "status": "past",
+      "scheduledStart": "2026-05-25T10:00:00.000Z",
+      "actualStart": "2026-05-25T09:54:01.000Z"
     },
     {
       "id": "4xT9Vv22_yg",
       "title": "TOP 2 secured movement god #apexlegends #vtuber #vspo",
       "published": "2026-05-24T04:00:05Z",
       "type": "short",
-      "duration": 23
+      "duration": 23,
+      "status": "past"
+    },
+    {
+      "id": "rYvPM6u6H7s",
+      "title": "◤NYOMIES◢ im a believer | #JunoUmezono #VSPOEN",
+      "published": "2026-05-23T20:13:20Z",
+      "type": "member",
+      "duration": 12659,
+      "status": "past",
+      "scheduledStart": "2026-05-24T13:00:00.000Z",
+      "actualStart": "2026-05-24T13:02:43.000Z"
     },
     {
       "id": "7taq-y47n_Q",
       "title": "◤Apex Legends◢ i miss her | #JunoUmezono #VSPOEN",
       "published": "2026-05-23T19:46:15Z",
       "type": "stream",
-      "duration": 16217
+      "duration": 16217,
+      "status": "past",
+      "scheduledStart": "2026-05-23T15:00:00.000Z",
+      "actualStart": "2026-05-23T15:03:09.000Z"
     },
     {
       "id": "1InU6EFC98Q",
       "title": "◤Cooking Simulator 2◢ housewife simulator | #JunoUmezono #VSPOEN",
       "published": "2026-05-21T23:40:55Z",
       "type": "stream",
-      "duration": 8967
+      "duration": 8967,
+      "status": "past",
+      "scheduledStart": "2026-05-21T21:00:00.000Z",
+      "actualStart": "2026-05-21T20:53:37.000Z"
     },
     {
       "id": "9WZBhByXRkY",
       "title": "◤Among Us◢ THERES A FILIPINO AMONG US (i am innocent) | #JunoUmezono #VSPOEN",
       "published": "2026-05-20T13:34:20Z",
       "type": "stream",
-      "duration": 8838
+      "duration": 8838,
+      "status": "past",
+      "scheduledStart": "2026-05-20T11:00:00.000Z",
+      "actualStart": "2026-05-20T10:59:12.000Z"
     },
     {
       "id": "XAIeJ0_2PcU",
       "title": "japanese learning hacks #vtuber #apexlegends #vspo",
       "published": "2026-05-20T04:00:23Z",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "vXoakGPazts",
       "title": "◤League of Legends◢ S/D GRIND WITH @narinmikure  | #JunoUmezono #VSPOEN",
       "published": "2026-05-19T08:49:30Z",
       "type": "stream",
-      "duration": 19993
+      "duration": 19993,
+      "status": "past",
+      "scheduledStart": "2026-05-19T03:00:00.000Z",
+      "actualStart": "2026-05-19T03:01:11.000Z"
     },
     {
       "id": "LFz2KoJu5-I",
       "title": "◤ZATSU◢ RARE JUNO YAP STREAM | #JunoUmezono #VSPOEN",
       "published": "2026-05-18T12:51:49Z",
       "type": "stream",
-      "duration": 6522
+      "duration": 6522,
+      "status": "past",
+      "scheduledStart": "2026-05-18T09:30:00.000Z",
+      "actualStart": "2026-05-18T09:31:43.000Z"
     },
     {
       "id": "Er-2a0Moo6o",
       "title": "◤Apex Legends◢ help me | #JunoUmezono #VSPOEN",
       "published": "2026-05-17T20:49:18Z",
       "type": "stream",
-      "duration": 20090
+      "duration": 20090,
+      "status": "past",
+      "scheduledStart": "2026-05-17T15:00:00.000Z",
+      "actualStart": "2026-05-17T14:59:30.000Z"
     },
     {
       "id": "tXnsXKyIFVY",
       "title": "◤NYOMIES◢ thank you for 20k! | #JunoUmezono #VSPOEN",
-      "published": "2026-05-17T16:38:03Z",
+      "published": "2026-05-16T14:39:19Z",
       "type": "member",
-      "duration": 6325
+      "duration": 6325,
+      "status": "past",
+      "scheduledStart": "2026-05-17T13:00:00.000Z",
+      "actualStart": "2026-05-17T13:02:15.000Z"
     },
     {
       "id": "0i6oUN0UoXc",
       "title": "◤Backrooms Society◢ my first complete VSPO! EN collab | #JunoUmezono #VSPOEN",
       "published": "2026-05-16T03:13:32Z",
       "type": "stream",
-      "duration": 10073
+      "duration": 10073,
+      "status": "past",
+      "scheduledStart": "2026-05-16T00:00:00.000Z",
+      "actualStart": "2026-05-15T23:57:54.000Z"
     },
     {
       "id": "MZSq5vpdU3k",
       "title": "just die (in game) #apexlegends #vtuber #vspo",
       "published": "2026-05-15T10:00:36Z",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "BM8LBTp4YFk",
       "title": "◤Outlast Trials◢ spooky with the pookies | #JunoUmezono #VSPOEN",
       "published": "2026-05-14T14:44:32Z",
       "type": "stream",
-      "duration": 9444
+      "duration": 9444,
+      "status": "past",
+      "scheduledStart": "2026-05-14T12:00:00.000Z",
+      "actualStart": "2026-05-14T11:56:53.000Z"
     },
     {
       "id": "_2u-dSF1fHQ",
       "title": "◤League of Legendss◢ FIRST RANKED GAMES WITH @narinmikure  | #JunoUmezono #VSPOEN",
       "published": "2026-05-14T08:08:31Z",
       "type": "stream",
-      "duration": 17663
+      "duration": 17663,
+      "status": "past",
+      "scheduledStart": "2026-05-14T03:00:00.000Z",
+      "actualStart": "2026-05-14T03:00:15.000Z"
     },
     {
       "id": "OX-FX021zRk",
       "title": "◤Apex Legends◢ MORE APEX MORE APEX | #JunoUmezono #VSPOEN",
       "published": "2026-05-13T18:55:49Z",
       "type": "stream",
-      "duration": 34420
+      "duration": 34420,
+      "status": "past",
+      "scheduledStart": "2026-05-13T09:00:00.000Z",
+      "actualStart": "2026-05-13T08:52:47.000Z"
     },
     {
       "id": "tlpPoyefT64",
       "title": "VSPO PR TRAINING ARC #vspo #vtuber #apexlegends",
       "published": "2026-05-12T10:06:55Z",
       "type": "short",
-      "duration": 37
+      "duration": 37,
+      "status": "past"
     },
     {
       "id": "DghbEu5E41E",
       "title": "◤Apex Legends◢ am i getting adopted today? | #JunoUmezono #VSPOEN",
       "published": "2026-05-11T20:28:24Z",
       "type": "stream",
-      "duration": 22445
-    },
-    {
-      "id": "s-ZGGrtWgp8",
-      "title": "◤NYOMIES◢ MEMBERSHIP ZATSU!!! | #JunoUmezono #VSPOEN",
-      "published": "2026-05-11T03:50:33Z",
-      "type": "member",
-      "duration": 6545
+      "duration": 22445,
+      "status": "past",
+      "scheduledStart": "2026-05-11T14:00:00.000Z",
+      "actualStart": "2026-05-11T13:51:29.000Z"
     },
     {
       "id": "yfJwgvyZA9M",
       "title": "◤Apex Legends◢ SOLO CULTIVATING DEMON MODE | #JunoUmezono #VSPOEN",
       "published": "2026-05-10T18:44:49Z",
       "type": "stream",
-      "duration": 11315
+      "duration": 11315,
+      "status": "past",
+      "scheduledStart": "2026-05-10T15:20:00.000Z",
+      "actualStart": "2026-05-10T15:25:09.000Z"
     },
     {
       "id": "l4YSOdeTPxI",
       "title": "Juno Umezono【VSPO! EN】 Live Stream",
       "published": "2026-05-10T14:23:37Z",
       "type": "stream",
-      "duration": 0
+      "duration": 0,
+      "status": "past"
+    },
+    {
+      "id": "s-ZGGrtWgp8",
+      "title": "◤NYOMIES◢ MEMBERSHIP ZATSU!!! | #JunoUmezono #VSPOEN",
+      "published": "2026-05-10T12:22:14Z",
+      "type": "member",
+      "duration": 6545,
+      "status": "past",
+      "scheduledStart": "2026-05-10T13:00:00.000Z",
+      "actualStart": "2026-05-10T13:01:07.000Z"
     },
     {
       "id": "UivnhsC6uKk",
       "title": "◤Apex Legends◢ DEGEN GRIND | #JunoUmezono #VSPOEN",
       "published": "2026-05-09T20:31:10Z",
       "type": "stream",
-      "duration": 18038
+      "duration": 18038,
+      "status": "past",
+      "scheduledStart": "2026-05-09T15:20:00.000Z",
+      "actualStart": "2026-05-09T15:17:31.000Z"
     },
     {
       "id": "zu3LiRgq3OA",
       "title": "◤Apex Legends◢ playing with goats @rprxx and @AryaKuroha  | #JunoUmezono #VSPOEN",
       "published": "2026-05-07T17:40:32Z",
       "type": "stream",
-      "duration": 22059
+      "duration": 22059,
+      "status": "past",
+      "scheduledStart": "2026-05-07T10:55:00.000Z",
+      "actualStart": "2026-05-07T10:55:45.000Z"
     },
     {
       "id": "FKpHzeV-rgQ",
       "title": "practicing my japanese and mj impression #vspo #vtuber #shorts",
       "published": "2026-05-07T04:00:22Z",
       "type": "short",
-      "duration": 21
+      "duration": 21,
+      "status": "past"
     },
     {
       "id": "Bw4epY7kKcA",
       "title": "◤Apex Legends◢ ranked today for sure ? | #JunoUmezono #VSPOEN",
       "published": "2026-05-06T19:43:20Z",
       "type": "stream",
-      "duration": 13893
+      "duration": 13893,
+      "status": "past",
+      "scheduledStart": "2026-05-06T15:45:00.000Z",
+      "actualStart": "2026-05-06T15:40:27.000Z"
     },
     {
       "id": "ua1v0rmHm1o",
       "title": "◤Apex Legends◢ will i rank today? | #JunoUmezono #VSPOEN",
       "published": "2026-05-05T19:06:18Z",
       "type": "stream",
-      "duration": 9298
+      "duration": 9298,
+      "status": "past",
+      "scheduledStart": "2026-05-05T16:00:00.000Z",
+      "actualStart": "2026-05-05T15:59:59.000Z"
     },
     {
       "id": "617fNEvPVZM",
       "title": "◤Overwatch◢ OwOwatch with senpai | #JunoUmezono #VSPOEN",
       "published": "2026-05-05T08:02:09Z",
       "type": "stream",
-      "duration": 10147
+      "duration": 10147,
+      "status": "past",
+      "scheduledStart": "2026-05-05T05:00:00.000Z",
+      "actualStart": "2026-05-05T05:00:43.000Z"
     },
     {
       "id": "ZXtnYqIC7dw",
       "title": "◤Bow Wow Battle◢ competitive barker (im sorry neighbors) | #JunoUmezono #VSPOEN",
       "published": "2026-05-04T17:51:13Z",
       "type": "stream",
-      "duration": 6328
+      "duration": 6328,
+      "status": "past",
+      "scheduledStart": "2026-05-04T10:00:00.000Z",
+      "actualStart": "2026-05-04T10:00:37.000Z"
     },
     {
       "id": "hA5BFTH2Gx8",
       "title": "◤NYOMIES ONLY◢ 1ST MEMBERSHIP STREAM ! | #JunoUmezono #VSPOEN",
-      "published": "2026-05-03T16:18:06Z",
+      "published": "2026-05-03T07:21:56Z",
       "type": "member",
-      "duration": 11452
+      "duration": 11452,
+      "status": "past",
+      "scheduledStart": "2026-05-03T13:00:00.000Z",
+      "actualStart": "2026-05-03T12:56:07.000Z"
     },
     {
       "id": "LYv1jJovHbU",
       "title": "◤Don't Scream Together◢ two gakis get lost in the forest | #JunoUmezono #VSPOEN",
       "published": "2026-05-02T14:12:52Z",
       "type": "stream",
-      "duration": 7766
+      "duration": 7766,
+      "status": "past",
+      "scheduledStart": "2026-05-02T10:55:00.000Z",
+      "actualStart": "2026-05-02T10:54:27.000Z"
     },
     {
       "id": "aAwz8HU1UzI",
       "title": "senpai what are you doing?! #shorts #vspo #vtuber",
       "published": "2026-05-02T12:00:01Z",
       "type": "short",
-      "duration": 27
+      "duration": 27,
+      "status": "past"
     },
     {
       "id": "Qs4px6SP0oE",
-      "title": "◤Apex Legends�� UNLOCK RANK TODAY! | #JunoUmezono #VSPOEN",
+      "title": "◤Apex Legends◢ UNLOCK RANK TODAY! | #JunoUmezono #VSPOEN",
       "published": "2026-05-01T18:25:31Z",
       "type": "stream",
-      "duration": 11625
+      "duration": 11625,
+      "status": "past",
+      "scheduledStart": "2026-05-01T15:00:00.000Z",
+      "actualStart": "2026-05-01T15:00:07.000Z"
     },
     {
       "id": "jEsYfK80GKM",
       "title": "◤VALORANT◢ valorant :( with akira :) | #JunoUmezono #VSPOEN",
       "published": "2026-04-30T15:35:48Z",
       "type": "stream",
-      "duration": 22341
+      "duration": 22341,
+      "status": "past",
+      "scheduledStart": "2026-04-30T08:45:00.000Z",
+      "actualStart": "2026-04-30T08:45:39.000Z"
     },
     {
       "id": "WOxMQxU_rQM",
       "title": "◤MONTHSARY◢ 1 MONTH CELEBRATION! lets answer questions. . .  | #JunoUmezono #VSPOEN",
       "published": "2026-04-29T08:24:58Z",
       "type": "stream",
-      "duration": 10414
+      "duration": 10414,
+      "status": "past",
+      "scheduledStart": "2026-04-29T05:00:00.000Z",
+      "actualStart": "2026-04-29T05:00:12.000Z"
     },
     {
       "id": "xLq0qDwt8S0",
       "title": "i went on a minecraft date with my senpai on accident? #shorts #minecraft #tsvminecraft",
       "published": "2026-04-29T04:01:04Z",
       "type": "short",
-      "duration": 35
+      "duration": 35,
+      "status": "past"
     },
     {
       "id": "_k9LDMIVg-Y",
       "title": "◤VALORANT◢ BANORANT WITH THE PH GOATS | #JunoUmezono #VSPOEN",
       "published": "2026-04-27T16:17:38Z",
       "type": "stream",
-      "duration": 18004
+      "duration": 18004,
+      "status": "past",
+      "scheduledStart": "2026-04-27T10:50:00.000Z",
+      "actualStart": "2026-04-27T10:49:52.000Z"
     },
     {
       "id": "4HwRnjxluUM",
       "title": "first time building in minecraft! #shorts #minecraft #envtuber",
       "published": "2026-04-27T04:00:03Z",
       "type": "short",
-      "duration": 32
+      "duration": 32,
+      "status": "past"
     },
     {
       "id": "KLEMUYOx6QI",
       "title": "◤MONETIZATION MAYHEM◢ MONETIZATION IS LOCKED UNTIL I WIN?  | #JunoUmezono #VSPOEN",
       "published": "2026-04-26T08:46:43Z",
       "type": "stream",
-      "duration": 19000
+      "duration": 19000,
+      "status": "past",
+      "scheduledStart": "2026-04-26T03:00:00.000Z",
+      "actualStart": "2026-04-26T03:00:25.000Z"
     },
     {
       "id": "-sp_L0uX3DU",
       "title": "◤zatsuzono◢ TALK TO ME ! ! ! #JunoUmezono",
       "published": "2026-04-25T16:24:37Z",
       "type": "stream",
-      "duration": 7137
+      "duration": 7137,
+      "status": "past",
+      "scheduledStart": "2026-04-25T13:00:00.000Z",
+      "actualStart": "2026-04-25T13:01:40.000Z"
     },
     {
       "id": "L0r7Oau0jJc",
       "title": "◤MIMESIS◢ 4 KAWAII GIRLS GET LOST | #VSPOEN #JunoUmezono",
       "published": "2026-04-24T15:10:13Z",
       "type": "stream",
-      "duration": 10714
+      "duration": 10714,
+      "status": "past",
+      "scheduledStart": "2026-04-24T11:50:00.000Z",
+      "actualStart": "2026-04-24T11:50:29.000Z"
     },
     {
       "id": "jYlIRgCH8Z0",
       "title": "◤Apex Legends◢ CLICK HERE FOR RETIRED GAMEPLAY | #VSPOEN #JunoUmezono",
       "published": "2026-04-22T10:47:57Z",
       "type": "stream",
-      "duration": 26337
+      "duration": 26337,
+      "status": "past",
+      "scheduledStart": "2026-04-22T03:00:00.000Z",
+      "actualStart": "2026-04-22T03:00:17.000Z"
     },
     {
       "id": "sCu74Qvyd9k",
       "title": "◤MINECRAFT TSV◢ LAST DAY OF JUNO THE HERO! DAY 5 | #VSPOEN #JunoUmezono",
       "published": "2026-04-21T02:10:21Z",
       "type": "stream",
-      "duration": 5982
+      "duration": 5982,
+      "status": "past",
+      "scheduledStart": "2026-04-21T00:00:00.000Z",
+      "actualStart": "2026-04-20T23:59:19.000Z"
     },
     {
       "id": "C6LQr8-XUBM",
       "title": "◤VALORANT◢ getting out of ELO HELL?! | #VSPOEN #JunoUmezono",
       "published": "2026-04-20T11:53:19Z",
       "type": "stream",
-      "duration": 9785
+      "duration": 9785,
+      "status": "past",
+      "scheduledStart": "2026-04-20T09:00:00.000Z",
+      "actualStart": "2026-04-20T09:00:45.000Z"
     },
     {
       "id": "LQkqymBwQd4",
       "title": "◤ZATSU◢ VSPO! EN TIER LIST | #VSPOEN #JunoUmezono",
       "published": "2026-04-19T12:00:19Z",
       "type": "stream",
-      "duration": 8564
+      "duration": 8564,
+      "status": "past",
+      "scheduledStart": "2026-04-19T09:30:00.000Z",
+      "actualStart": "2026-04-19T09:30:15.000Z"
     },
     {
       "id": "aSxj8j6WnFE",
       "title": "◤TSV Minecraft◢ i need a hero to get me through all these bosses pls DAY 4 | #VSPOEN #JunoUmezono",
       "published": "2026-04-18T09:39:19Z",
       "type": "stream",
-      "duration": 22573
+      "duration": 22573,
+      "status": "past",
+      "scheduledStart": "2026-04-18T03:00:00.000Z",
+      "actualStart": "2026-04-18T03:01:07.000Z"
     },
     {
       "id": "8xnA-_DjVNM",
       "title": "i want to be like tsuna senpai #vtuber #vspo #valorant",
       "published": "2026-04-18T04:00:18Z",
       "type": "short",
-      "duration": 27
+      "duration": 27,
+      "status": "past"
     },
     {
       "id": "1NjeOt0QtPY",
       "title": "◤VALORANT◢ practicing PMA like my senpais | #VSPOEN #JunoUmezono",
       "published": "2026-04-16T14:07:47Z",
       "type": "stream",
-      "duration": 14933
+      "duration": 14933,
+      "status": "past",
+      "scheduledStart": "2026-04-16T09:10:00.000Z",
+      "actualStart": "2026-04-16T09:10:21.000Z"
     },
     {
       "id": "KsZLLF-MVz0",
       "title": "when your vtuber teammate meows #valorant #vspo #shorts",
       "published": "2026-04-16T04:00:21Z",
       "type": "short",
-      "duration": 23
+      "duration": 23,
+      "status": "past"
     },
     {
       "id": "XZkXuZhGNeo",
       "title": "◤DEADLOCK◢ i love hot bat girl | #VSPOEN #JunoUmezono",
       "published": "2026-04-15T12:33:50Z",
       "type": "stream",
-      "duration": 12082
+      "duration": 12082,
+      "status": "past",
+      "scheduledStart": "2026-04-15T09:00:00.000Z",
+      "actualStart": "2026-04-15T09:00:39.000Z"
     },
     {
       "id": "dym8vqDSP8Q",
       "title": "◤VALORANT◢ GREATEST GOLD GAMEPLAY CLICK HERE | #VSPOEN #JunoUmezono",
       "published": "2026-04-14T15:35:50Z",
       "type": "stream",
-      "duration": 18791
+      "duration": 18791,
+      "status": "past",
+      "scheduledStart": "2026-04-14T10:00:00.000Z",
+      "actualStart": "2026-04-14T10:00:19.000Z"
     },
     {
       "id": "6Jirwu4bxnE",
       "title": "first day of minecraft! #minecraft #minecraftshorts #vspo",
       "published": "2026-04-14T04:00:13Z",
       "type": "short",
-      "duration": 32
+      "duration": 32,
+      "status": "past"
     },
     {
       "id": "ZVMEelvv3Xw",
       "title": "◤TSV Minecraft◢ NEW DUNGEON! elp i am undor da wator DAY 3 | #VSPOEN #JunoUmezono",
       "published": "2026-04-13T04:25:38Z",
       "type": "stream",
-      "duration": 10212
+      "duration": 10212,
+      "status": "past",
+      "scheduledStart": "2026-04-13T01:00:00.000Z",
+      "actualStart": "2026-04-13T00:59:49.000Z"
     },
     {
       "id": "rnrdfaN1reM",
       "title": "◤TSV Minecraft◢ not all heroes wear capes DAY 2 | #VSPOEN #JunoUmezono",
       "published": "2026-04-12T10:08:38Z",
       "type": "stream",
-      "duration": 6460
+      "duration": 6460,
+      "status": "past",
+      "scheduledStart": "2026-04-12T02:30:00.000Z",
+      "actualStart": "2026-04-12T02:29:20.000Z"
     },
     {
       "id": "34_ECQMeHgI",
       "title": "low cortisol penta? #leagueoflegends #vtuber #shorts",
       "published": "2026-04-12T06:00:04Z",
       "type": "short",
-      "duration": 24
+      "duration": 24,
+      "status": "past"
     },
     {
       "id": "jnA8-dO5NgQ",
       "title": "◤TSV Minecraft◢ shameless introvert tries to find her party of heroes DAY 1【#VSPOEN #JunoUmezono】",
       "published": "2026-04-11T10:22:42Z",
       "type": "stream",
-      "duration": 25932
+      "duration": 25932,
+      "status": "past",
+      "scheduledStart": "2026-04-11T02:00:00.000Z",
+      "actualStart": "2026-04-11T01:57:59.000Z"
     },
     {
       "id": "AyLC2jIEVPw",
       "title": "◤Apex Legends◢ APEX WITH MONSTER @AryaKuroha【#VSPOEN #JunoUmezono】",
       "published": "2026-04-10T06:27:11Z",
       "type": "stream",
-      "duration": 14984
+      "duration": 14984,
+      "status": "past",
+      "scheduledStart": "2026-04-10T02:00:00.000Z",
+      "actualStart": "2026-04-10T01:55:03.000Z"
     },
     {
       "id": "S1GdVIIidL4",
       "title": "learned a new word BAOBEI #vspo #envtuber #apex",
       "published": "2026-04-09T04:00:28Z",
       "type": "short",
-      "duration": 21
+      "duration": 21,
+      "status": "past"
     },
     {
       "id": "K5dFjX5gyJE",
       "title": "◤Counter-Strike 2◢  first time cs2 lets go w/ @RemiaAotsuki 【#VSPOEN #JunoUmezono】",
       "published": "2026-04-08T18:12:21Z",
       "type": "stream",
-      "duration": 10212
+      "duration": 10212,
+      "status": "past",
+      "scheduledStart": "2026-04-08T15:00:00.000Z",
+      "actualStart": "2026-04-08T14:59:37.000Z"
     },
     {
       "id": "26Ji7n2-FEI",
       "title": "◤VALORANT◢ HEART OF GOLD, RADIANT MINDSET【#VSPOEN #JunoUmezono】",
       "published": "2026-04-07T12:18:19Z",
       "type": "stream",
-      "duration": 14633
+      "duration": 14633,
+      "status": "past",
+      "scheduledStart": "2026-04-07T08:00:00.000Z",
+      "actualStart": "2026-04-07T08:00:07.000Z"
     },
     {
       "id": "-myG3F1OliE",
       "title": "◤League of Legends◢ my happy place【#VSPOEN #JunoUmezono】",
       "published": "2026-04-06T11:32:22Z",
       "type": "stream",
-      "duration": 15576
+      "duration": 15576,
+      "status": "past",
+      "scheduledStart": "2026-04-06T07:00:00.000Z",
+      "actualStart": "2026-04-06T07:00:31.000Z"
     },
     {
       "id": "yoODqilEll4",
       "title": "67 but in japanese #vspo #shorts #vtuber",
       "published": "2026-04-06T11:25:06Z",
       "type": "short",
-      "duration": 16
+      "duration": 16,
+      "status": "past"
     },
     {
       "id": "rrqGdbPNVcU",
       "title": "◤VALORANT◢ finishing placements today!【#VSPOEN #JunoUmezono】",
       "published": "2026-04-04T13:05:56Z",
       "type": "stream",
-      "duration": 18874
+      "duration": 18874,
+      "status": "past",
+      "scheduledStart": "2026-04-04T07:00:00.000Z",
+      "actualStart": "2026-04-04T06:59:57.000Z"
     },
     {
       "id": "Q5xR7UzQyV8",
       "title": "positive mental attitude! #vtuber #valorant #vtuberclips",
       "published": "2026-04-04T04:00:22Z",
       "type": "short",
-      "duration": 31
+      "duration": 31,
+      "status": "past"
     },
     {
       "id": "6G6s5l9iqqM",
       "title": "◤ League of Legends ◢ rawr im briawr【#VSPOEN #JunoUmezono】",
       "published": "2026-04-03T15:08:53Z",
       "type": "stream",
-      "duration": 20179
+      "duration": 20179,
+      "status": "past",
+      "scheduledStart": "2026-04-03T09:00:00.000Z",
+      "actualStart": "2026-04-03T08:59:19.000Z"
     },
     {
       "id": "U1J670VkXrE",
       "title": "【APEX LEGENDS】retired and washed【#VSPOEN #JunoUmezono】",
       "published": "2026-04-02T12:59:59Z",
       "type": "stream",
-      "duration": 13353
+      "duration": 13353,
+      "status": "past",
+      "scheduledStart": "2026-04-02T09:00:00.000Z",
+      "actualStart": "2026-04-02T08:59:19.000Z"
     },
     {
       "id": "sGyTR5WVuec",
       "title": "【利用規約に同意したい / AGREEEE】untiltable【#VSPOEN #JunoUmezono】",
       "published": "2026-04-01T19:52:20Z",
       "type": "stream",
-      "duration": 10131
+      "duration": 10131,
+      "status": "past",
+      "scheduledStart": "2026-04-01T15:00:00.000Z",
+      "actualStart": "2026-04-01T15:03:21.000Z"
     },
     {
       "id": "cnAD6jz00xE",
       "title": "【LoL】TOP SEA JUNGLE BRIAR GAMEPLAY【#VSPOEN #JunoUmezono】",
       "published": "2026-04-01T17:41:43Z",
       "type": "stream",
-      "duration": 11475
+      "duration": 11475,
+      "status": "past",
+      "scheduledStart": "2026-04-01T12:00:00.000Z",
+      "actualStart": "2026-04-01T11:51:33.000Z"
     },
     {
       "id": "Bpce82030ts",
       "title": "【VALORANT】low cortisol gamer【#VSPOEN #JunoUmezono】",
       "published": "2026-03-31T12:03:52Z",
       "type": "stream",
-      "duration": 17037
+      "duration": 17037,
+      "status": "past",
+      "scheduledStart": "2026-03-31T07:00:00.000Z",
+      "actualStart": "2026-03-31T06:59:17.000Z"
     },
     {
       "id": "TMS6dRQqhMg",
       "title": "【DEBUT 2.0】lets get to know eachother !【#VSPOEN #JunoUmezono】",
       "published": "2026-03-30T16:28:38Z",
       "type": "stream",
-      "duration": 9094
+      "duration": 9094,
+      "status": "past",
+      "scheduledStart": "2026-03-30T13:00:00.000Z",
+      "actualStart": "2026-03-30T12:59:39.000Z"
     },
     {
       "id": "J955HDmnWjg",
       "title": "【DEBUT STREAM】JUNO.EXE【#VSPOEN #JunoUmezono】",
       "published": "2026-03-29T02:12:04Z",
       "type": "stream",
-      "duration": 3618
+      "duration": 3618,
+      "status": "past",
+      "scheduledStart": "2026-03-29T01:00:00.000Z",
+      "actualStart": "2026-03-29T01:00:17.000Z"
     },
     {
       "id": "sHp8FC4YS0o",
       "title": "debut in less than 24 hours!! #VSPO #VSPOEN",
       "published": "2026-03-28T07:00:37Z",
       "type": "short",
-      "duration": 8
+      "duration": 8,
+      "status": "past"
     }
   ]
 }
