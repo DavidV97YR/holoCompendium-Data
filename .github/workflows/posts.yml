@@ -63,8 +63,16 @@ jobs:
           echo "::error::Row numbers are per sheet. Pick hololive or vspo for rows '${{ inputs.rows }}', or use rows 'all'."
           exit 1
 
+      # Everything but the chat folders: they are ~1.8 of the repo's ~1.9 GB and
+      # this job never reads them, and downloading them took over a minute.
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /*
+            !/data/*/chat/
+            !/vspo/*/chat/
+          sparse-checkout-cone-mode: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
