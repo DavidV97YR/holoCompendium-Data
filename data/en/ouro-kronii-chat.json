@@ -1,7 +1,7 @@
 {
   "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
   "channelName": "Ouro Kronii",
-  "lastUpdated": "2026-09-26T04:01:55.350Z",
+  "lastUpdated": "2026-09-28T08:02:31.303Z",
   "streams": {
     "eFkylhywqKU": {
       "e": "noreplay",
@@ -14318,6 +14318,13 @@
       "gift": 7,
       "recv": 11,
       "sent": 11
+    },
+    "XkNLDt2J37M": {
+      "member": 10,
+      "milestone": 77,
+      "gift": 31,
+      "recv": 109,
+      "sent": 109
     }
   }
 }
