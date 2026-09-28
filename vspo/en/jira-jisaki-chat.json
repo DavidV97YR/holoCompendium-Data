@@ -1,12 +1,2202 @@
 {
   "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
   "channelName": "Jira Jisaki",
-  "lastUpdated": "2026-09-27T19:01:58.704Z",
+  "lastUpdated": "2026-09-28T01:47:31.369Z",
   "streams": {
     "PxbKX7vB7yk": {
       "gift": 1,
       "recv": 1,
       "sent": 1
-    }
+    },
+    "IKiYQ-uZcD0": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "V-IT64B_VS8": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "iK1EwZCJ3XM": {
+      "member": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "1qd79bmM3vA": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "evJet0Ty3LY": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "uDu7b8sVJ1A": {
+      "milestone": 1,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "ztdgx7iEtGk": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "UnYCSdtg3hw": {
+      "cur": {
+        "$": 5,
+        "¥": 1000
+      },
+      "sc": 2,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "Uyk3Rc4NY-U": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "cSxi9wE64Cg": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "rvnboU6Zltw": {
+      "cur": {
+        "$": 30,
+        "CA$": 7.79
+      },
+      "sc": 5,
+      "milestone": 1
+    },
+    "F_Et9dLjZvM": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1,
+      "member": 2,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "V9IYlHqfnY4": {
+      "cur": {
+        "$": 150
+      },
+      "sc": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "Y_6sqAGzdpE": {
+      "member": 1,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "Aa3WtgL6urg": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "milestone": 4,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "12GP00W9whI": {
+      "cur": {
+        "$": 50
+      },
+      "sc": 1,
+      "milestone": 2,
+      "gift": 2,
+      "recv": 1,
+      "sent": 2
+    },
+    "ohWXZyut81g": {
+      "member": 1,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "oRQs0-8yEV4": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "xNs4PQx2lZI": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "EFMgE6DnWIM": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "dACByAqb1MY": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "-i7eA1LO4jg": {
+      "cur": {
+        "$": 17
+      },
+      "sc": 3,
+      "member": 1,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "xvaY34IBmKE": {
+      "member": 2,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "kY5qM0KFWZo": {
+      "milestone": 1,
+      "gift": 3,
+      "recv": 3,
+      "sent": 3
+    },
+    "2NsEypds7Fo": {
+      "milestone": 3,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "Rvgk2rLAkJw": {
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "gCQ2b0mp-bE": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "LwqHtkdp95s": {
+      "cur": {
+        "$": 2
+      },
+      "sc": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "3Zpubd9Xd0A": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "wqiFzvweick": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "39XKbkYexp8": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "hIWmo-3dk9Q": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "UTD1eqEo_Ac": {
+      "cur": {
+        "¥": 200,
+        "MYR": 6
+      },
+      "sc": 2,
+      "member": 3,
+      "milestone": 8,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "QiHbY-jdnPg": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "mWUDiofF-AM": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "RhS9mIw_mK0": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "P1KfhQO61zs": {
+      "cur": {
+        "¥": 1600
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "63kC_AkpNdQ": {
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "ikuf97yGro4": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "35A6Mc8IlqE": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "gCarRbg76Zc": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "lql7Z7UjlY0": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "A7wZYAPJxuU": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "Xn5m48KEu18": {
+      "cur": {
+        "CA$": 2,
+        "$": 6.49
+      },
+      "sc": 2,
+      "sticker": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "rAc_zdC3aqI": {
+      "member": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "0OazivHz51s": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "CC7_w-OTJQw": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "98vhAVwbSF0": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "d1_y4dOoRE4": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "ie6fYIiGqu4": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "oUnxO9YOEdo": {
+      "cur": {
+        "A$": 100,
+        "¥": 4500,
+        "$": 60,
+        "MYR": 5.5,
+        "NT$": 300,
+        "₩": 20000
+      },
+      "sc": 10,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 5,
+      "gift": 3,
+      "recv": 65,
+      "sent": 65
+    },
+    "H3n986tscvo": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "SJWWrM6TUl0": {
+      "member": 1,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "lfu56G-OlZc": {
+      "milestone": 2,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "n_bmPIa8Sq0": {
+      "member": 1,
+      "milestone": 4,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "uLvsz0TtlzI": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "kwChMVptLds": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "_8ZjUTtxjvY": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "uDIdRge9awY": {
+      "milestone": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "yWNKtrqQD-4": {
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "euYLyX5virk": {
+      "cur": {
+        "$": 47.98,
+        "SGD": 5,
+        "₱": 125,
+        "CA$": 10
+      },
+      "sc": 10,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 11,
+      "sent": 11
+    },
+    "UVk-pnurVC4": {
+      "milestone": 1,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "UPqg-9wszO4": {
+      "cur": {
+        "¥": 1800
+      },
+      "sc": 1,
+      "sticker": 1,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "SFlf0a7x3YE": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "VBUcdGtxlLs": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "UuKSoM8lZN4": {
+      "cur": {
+        "$": 5,
+        "¥": 500
+      },
+      "sc": 2,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "-0hU27ae78U": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "Ad1tpPXeYN4": {
+      "member": 1,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "c2rK_yW2ZEU": {
+      "member": 1,
+      "milestone": 1
+    },
+    "dGU5MBHxu7s": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "zkC6vDxGSMk": {
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "5sY0zj60uRI": {
+      "member": 1,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "a2zs7UYs3eg": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "0VqQcQ-yPds": {
+      "cur": {
+        "$": 19,
+        "¥": 1000
+      },
+      "sc": 6,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "dLSsr8zr0Vo": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "lmZzwpMhBdw": {
+      "gift": 2,
+      "recv": 51,
+      "sent": 51
+    },
+    "a3IRf14mnW0": {
+      "cur": {
+        "$": 5,
+        "¥": 200
+      },
+      "sc": 2,
+      "member": 1,
+      "milestone": 2
+    },
+    "oSKBRqX3nyM": {
+      "milestone": 2
+    },
+    "M6MQqJjitHk": {
+      "milestone": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "DBVUW03LnAg": 0,
+    "XH5hogm1LD0": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "LKI_zVohnvY": {
+      "cur": {
+        "¥": 200
+      },
+      "sticker": 1
+    },
+    "RRS77oi3adM": {
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 1,
+      "member": 1
+    },
+    "6neds-UyuYs": {
+      "member": 1,
+      "milestone": 3,
+      "gift": 2,
+      "recv": 21,
+      "sent": 21
+    },
+    "YEWiw7o3DDs": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "1YvlRsiYcoI": {
+      "milestone": 1
+    },
+    "Ro_hwnv0XL4": 0,
+    "ih8sGaHYd2s": 0,
+    "9vQuCiJ7NgU": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "DMLmHobfNtI": {
+      "cur": {
+        "CA$": 2
+      },
+      "sc": 1,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "vrWav2IXeI0": {
+      "gift": 3,
+      "recv": 7,
+      "sent": 7
+    },
+    "ts6mOJ2r4CA": {
+      "cur": {
+        "A$": 3
+      },
+      "sticker": 1,
+      "milestone": 1
+    },
+    "Y2Kf_qMdvI4": 0,
+    "wZj8B1zcj4g": {
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "EJX4x6Htaho": {
+      "cur": {
+        "¥": 1000,
+        "$": 60.78,
+        "A$": 100
+      },
+      "sc": 6,
+      "milestone": 2
+    },
+    "B77pY-VvweM": 0,
+    "XEvvVxiOFzU": {
+      "milestone": 1
+    },
+    "FgTOXAweA2w": {
+      "cur": {
+        "$": 2
+      },
+      "sc": 1,
+      "milestone": 4
+    },
+    "kUqHnO5J9HQ": 0,
+    "cdtxvt_COY8": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "hV4exPWrVeY": 0,
+    "z4Db9n3bCps": {
+      "cur": {
+        "A$": 3
+      },
+      "sticker": 1
+    },
+    "RidG_n_fYqo": 0,
+    "Ku55HlOvEcs": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "milestone": 2
+    },
+    "8wCxAHX7si4": {
+      "milestone": 1
+    },
+    "lekmt7nJVgY": 0,
+    "tgzWHXx88Ng": {
+      "milestone": 1
+    },
+    "XYPvBV6Hk04": 0,
+    "_lQcPQFOlDY": {
+      "milestone": 1
+    },
+    "xrv71mw-0oQ": {
+      "cur": {
+        "A$": 15,
+        "¥": 2000
+      },
+      "sc": 4
+    },
+    "Zh3BvdNnyks": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "milestone": 1
+    },
+    "COZXJmYPItM": {
+      "member": 1
+    },
+    "QCpo6i9QIaU": {
+      "member": 1,
+      "milestone": 5
+    },
+    "EpbNnzd912s": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "s4_YgAZX_Vo": {
+      "cur": {
+        "A$": 100,
+        "$": 202,
+        "₩": 40000,
+        "¥": 2200,
+        "R$": 5
+      },
+      "sc": 9,
+      "member": 2,
+      "milestone": 10,
+      "gift": 3,
+      "recv": 71,
+      "sent": 71
+    },
+    "7P9n05IQEqg": 0,
+    "pPzuq5Xdst4": {
+      "cur": {
+        "$": 20
+      },
+      "sc": 2,
+      "milestone": 2
+    },
+    "vwAkmuoWyTs": {
+      "cur": {
+        "¥": 800
+      },
+      "sc": 1,
+      "milestone": 2
+    },
+    "ZOCihTvoQGQ": {
+      "cur": {
+        "¥": 400
+      },
+      "sc": 2,
+      "member": 1,
+      "milestone": 8
+    },
+    "UC1vFLb8N-4": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1
+    },
+    "lF1l-FHDL44": 0,
+    "RFSRX1tAA2I": 0,
+    "E6Z9BtDVoVk": {
+      "cur": {
+        "¥": 520,
+        "NZ$": 1.49,
+        "$": 7,
+        "₩": 10000
+      },
+      "sc": 5,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "G314RzQaPmc": {
+      "cur": {
+        "¥": 500,
+        "$": 50
+      },
+      "sc": 2,
+      "milestone": 3,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "HDh3QS5XD1E": 0,
+    "HlcrvXDLsHg": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1
+    },
+    "Ly8TIpfkuIo": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1
+    },
+    "FnqlEco-zE0": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1,
+      "member": 2,
+      "milestone": 1
+    },
+    "gnjkE86Yejw": {
+      "cur": {
+        "€": 5,
+        "A$": 5
+      },
+      "sc": 2,
+      "member": 2,
+      "milestone": 2,
+      "gift": 2,
+      "recv": 25,
+      "sent": 25
+    },
+    "6MKfOyIUs38": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1
+    },
+    "pu21jYb4QFk": {
+      "cur": {
+        "$": 40
+      },
+      "sc": 2,
+      "member": 1
+    },
+    "dIlpk2aTdQ0": {
+      "milestone": 1
+    },
+    "lz8Fvzlk36U": 0,
+    "H0z-qnc7fj4": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "milestone": 1
+    },
+    "SL-J9KVMhXQ": {
+      "member": 1,
+      "milestone": 2
+    },
+    "IZkjh6WhgoI": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "-GRtJTPyGPU": {
+      "milestone": 4
+    },
+    "eMHY-8RzZi8": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1,
+      "milestone": 1
+    },
+    "j5nBsi95-sw": 0,
+    "2q6VHTa8AE4": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1,
+      "milestone": 4
+    },
+    "j6y1PnGC_sY": 0,
+    "_iJNPuJymS4": {
+      "milestone": 1
+    },
+    "aJCm-6lMJIQ": {
+      "member": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "Pu0JgOq6eNc": 0,
+    "Wxn0S6jLTAM": {
+      "cur": {
+        "ARS": 100
+      },
+      "sc": 1
+    },
+    "j_IKuJnjxx0": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1
+    },
+    "RvzwmDXVF_E": {
+      "cur": {
+        "€": 10
+      },
+      "sc": 1,
+      "member": 1
+    },
+    "SBj2aGjoDp8": {
+      "cur": {
+        "¥": 200,
+        "$": 1.49
+      },
+      "sc": 1,
+      "sticker": 1
+    },
+    "XAYFfbfZgF0": 0,
+    "qC54u8B4lzk": {
+      "milestone": 1
+    },
+    "SvWUo1qdlrc": {
+      "cur": {
+        "$": 30
+      },
+      "sc": 3
+    },
+    "nWTSP-AuS8A": {
+      "cur": {
+        "€": 2
+      },
+      "sc": 1
+    },
+    "BEZXifT65Zk": {
+      "milestone": 4
+    },
+    "7mxx5cyil3w": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1
+    },
+    "IhqtO14CKUA": {
+      "cur": {
+        "$": 1.49,
+        "SGD": 1.49
+      },
+      "sticker": 2,
+      "member": 1
+    },
+    "FmPMYYbvseY": {
+      "member": 1,
+      "milestone": 7
+    },
+    "1gzK3gkXMOs": {
+      "cur": {
+        "¥": 320
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 2
+    },
+    "6bw5yMRE98U": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 1
+    },
+    "fjSaZeZcHMU": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1
+    },
+    "xYgLfShjU6Q": {
+      "cur": {
+        "A$": 2
+      },
+      "sc": 1
+    },
+    "KF04dehWO4E": {
+      "cur": {
+        "$": 10,
+        "¥": 500
+      },
+      "sc": 2,
+      "milestone": 3
+    },
+    "gYvmnQVuTE0": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "member": 1
+    },
+    "SXe9ZX640oc": 0,
+    "qErQEyQSkLE": {
+      "cur": {
+        "CA$": 10,
+        "$": 55
+      },
+      "sc": 5,
+      "milestone": 1
+    },
+    "QlRrS6yVYUI": {
+      "cur": {
+        "A$": 12
+      },
+      "sc": 3
+    },
+    "a_xPcpc3g9M": {
+      "cur": {
+        "A$": 10,
+        "¥": 200,
+        "$": 1.49
+      },
+      "sc": 3,
+      "sticker": 1
+    },
+    "RjXc4f2qAPU": {
+      "cur": {
+        "¥": 12160,
+        "$": 110,
+        "R$": 5,
+        "₩": 10000,
+        "NZ$": 10,
+        "CA$": 105,
+        "NT$": 150
+      },
+      "sc": 13,
+      "milestone": 11,
+      "gift": 5,
+      "recv": 129,
+      "sent": 135
+    },
+    "10FJmtQ1Lt0": {
+      "cur": {
+        "¥": 200,
+        "CA$": 1.49
+      },
+      "sc": 1,
+      "sticker": 1,
+      "milestone": 2
+    },
+    "CLQIEOAeof8": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "T427mt8qZXY": {
+      "cur": {
+        "CA$": 10,
+        "¥": 200
+      },
+      "sc": 2,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "_u1o-kbVj2g": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1
+    },
+    "s3FOrvrcV20": {
+      "cur": {
+        "$": 4.97,
+        "¥": 1000,
+        "NZ$": 5
+      },
+      "sc": 4,
+      "sticker": 2,
+      "member": 1,
+      "milestone": 1
+    },
+    "-QpfkG7_hfg": 0,
+    "FSS5NlsxVdQ": {
+      "milestone": 1
+    },
+    "lzzDYUsAvNY": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "milestone": 1
+    },
+    "viTJcrgsEok": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 2
+    },
+    "ChgFvxIdh1c": {
+      "cur": {
+        "$": 9.98
+      },
+      "sc": 2,
+      "sticker": 2,
+      "member": 2,
+      "milestone": 1
+    },
+    "pbA9E2alQeA": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "W4lS7KEc3A4": {
+      "cur": {
+        "$": 6.98
+      },
+      "sc": 2,
+      "sticker": 2,
+      "milestone": 1
+    },
+    "psdRoyfO_bU": {
+      "cur": {
+        "$": 6
+      },
+      "sc": 1,
+      "milestone": 6
+    },
+    "IypJVWkmdbA": 0,
+    "C-bnmazD2RU": {
+      "cur": {
+        "$": 1.49
+      },
+      "sticker": 1,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "A8bH4Tsccm4": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1
+    },
+    "u53XRHN_JNs": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 24,
+      "sent": 25
+    },
+    "d8bvNU4p5SQ": {
+      "cur": {
+        "¥": 200,
+        "$": 5
+      },
+      "sc": 2
+    },
+    "QMt6EfaP3E0": {
+      "cur": {
+        "¥": 200,
+        "NZ$": 2.98,
+        "$": 2.98
+      },
+      "sc": 1,
+      "sticker": 4,
+      "milestone": 1
+    },
+    "C7dgAE90DSk": {
+      "cur": {
+        "$": 12.98
+      },
+      "sc": 1,
+      "sticker": 2,
+      "milestone": 13,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "pu-1cDyz7U4": {
+      "cur": {
+        "$": 1.49,
+        "CA$": 1.49,
+        "NZ$": 1.49
+      },
+      "sticker": 3,
+      "member": 2,
+      "gift": 4,
+      "recv": 4,
+      "sent": 4
+    },
+    "TnkhX8E94IA": {
+      "cur": {
+        "$": 55,
+        "₩": 20000,
+        "CA$": 20,
+        "¥": 400
+      },
+      "sc": 7,
+      "member": 1,
+      "milestone": 9,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
+    },
+    "s9seVFibK1c": {
+      "milestone": 9
+    },
+    "4oIxZFtDAAc": {
+      "cur": {
+        "¥": 200,
+        "$": 100
+      },
+      "sc": 2,
+      "milestone": 2,
+      "gift": 2,
+      "recv": 21,
+      "sent": 21
+    },
+    "o9Mq8NZCzZY": {
+      "cur": {
+        "CA$": 1.49,
+        "$": 2.98,
+        "NZ$": 1.49,
+        "¥": 700
+      },
+      "sc": 2,
+      "sticker": 4,
+      "milestone": 1
+    },
+    "94ReLR_6giY": {
+      "cur": {
+        "CA$": 1.49,
+        "$": 2.98,
+        "NZ$": 1.49,
+        "¥": 200
+      },
+      "sc": 1,
+      "sticker": 4,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "5ktQGOwrScU": {
+      "cur": {
+        "$": 90,
+        "CA$": 2,
+        "COP": 4000
+      },
+      "sc": 5,
+      "member": 1,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "hmTbWXXO1mE": {
+      "cur": {
+        "$": 210,
+        "COP": 4000,
+        "¥": 500
+      },
+      "sc": 6,
+      "milestone": 1
+    },
+    "7bZMNhkDkD4": {
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "NC1TXj9J4Y8": {
+      "cur": {
+        "$": 32.98,
+        "NZ$": 16.49
+      },
+      "sc": 8,
+      "sticker": 3,
+      "member": 1,
+      "milestone": 1
+    },
+    "bZDVz6vQLWk": {
+      "cur": {
+        "$": 7.98,
+        "CA$": 2.98,
+        "¥": 320
+      },
+      "sc": 2,
+      "sticker": 4,
+      "member": 4,
+      "milestone": 2
+    },
+    "qqiuy2LKkVM": {
+      "cur": {
+        "¥": 500,
+        "CA$": 2,
+        "$": 10
+      },
+      "sc": 3,
+      "member": 1,
+      "milestone": 1
+    },
+    "DTeFkHFdAAI": 0,
+    "FpWKUNFxWHE": {
+      "cur": {
+        "CA$": 62,
+        "$": 10,
+        "NZ$": 10
+      },
+      "sc": 5
+    },
+    "rJpMT1CA06k": {
+      "cur": {
+        "$": 3.49,
+        "NZ$": 1.49,
+        "¥": 200
+      },
+      "sc": 2,
+      "sticker": 2,
+      "milestone": 4
+    },
+    "1ZRqlSWorM4": {
+      "cur": {
+        "$": 30,
+        "¥": 200
+      },
+      "sc": 5,
+      "milestone": 3
+    },
+    "sB4ySaHjfVI": {
+      "cur": {
+        "₩": 5000,
+        "₱": 500,
+        "¥": 200,
+        "$": 5,
+        "NT$": 300,
+        "NZ$": 1.49
+      },
+      "sc": 7,
+      "sticker": 1,
+      "member": 1,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
+    },
+    "3C7rmCDwQVY": {
+      "milestone": 2,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
+    },
+    "RtTFAS-d-2w": {
+      "cur": {
+        "CA$": 4.47,
+        "¥": 500,
+        "$": 1.49
+      },
+      "sc": 1,
+      "sticker": 4,
+      "member": 1,
+      "milestone": 4
+    },
+    "lyYr9GdApyw": {
+      "cur": {
+        "CA$": 2,
+        "NZ$": 2,
+        "¥": 200,
+        "$": 10
+      },
+      "sc": 4
+    },
+    "FgOuZcOHzg0": {
+      "cur": {
+        "CA$": 10,
+        "$": 5
+      },
+      "sc": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "aSq5-KUw5jo": {
+      "cur": {
+        "$": 10,
+        "NZ$": 5
+      },
+      "sc": 2
+    },
+    "tihlMUvT6k0": {
+      "cur": {
+        "CA$": 30,
+        "$": 55
+      },
+      "sc": 6,
+      "milestone": 3,
+      "gift": 3,
+      "recv": 60,
+      "sent": 60
+    },
+    "iPK0whPwytg": 0,
+    "Xx9IdEZnd_s": {
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "ZHnd6nXp7ro": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "milestone": 1
+    },
+    "JXcxMbkahWI": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1
+    },
+    "EY1gIb5DC_s": {
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "cSPGgv-e8Tk": {
+      "cur": {
+        "$": 64.77,
+        "CA$": 19.98,
+        "¥": 3925,
+        "NZ$": 11.49
+      },
+      "sc": 13,
+      "sticker": 6,
+      "milestone": 1
+    },
+    "Sj-P8el2Ug0": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1
+    },
+    "mhpMcbUgAr8": {
+      "cur": {
+        "¥": 200,
+        "$": 5
+      },
+      "sc": 2,
+      "milestone": 1
+    },
+    "fpBhACbqqJ4": {
+      "cur": {
+        "CA$": 50,
+        "$": 10
+      },
+      "sc": 2,
+      "milestone": 2,
+      "gift": 2,
+      "recv": 24,
+      "sent": 25
+    },
+    "LBqA5Z3CGYQ": {
+      "cur": {
+        "$": 60,
+        "CA$": 10,
+        "¥": 400
+      },
+      "sc": 8,
+      "milestone": 2
+    },
+    "zkZqzInO_64": {
+      "cur": {
+        "$": 4.47
+      },
+      "sticker": 3,
+      "member": 1,
+      "gift": 2,
+      "recv": 9,
+      "sent": 10
+    },
+    "zNBbKW17B3g": {
+      "cur": {
+        "$": 10,
+        "CA$": 2
+      },
+      "sc": 2
+    },
+    "4Mur8zW8z6s": {
+      "cur": {
+        "NZ$": 5,
+        "¥": 200,
+        "$": 5
+      },
+      "sc": 3,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "gdtgwRBv5qo": {
+      "cur": {
+        "¥": 400,
+        "CA$": 13.99,
+        "$": 10
+      },
+      "sc": 4,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "W_DrhzkNBzg": {
+      "cur": {
+        "$": 5,
+        "¥": 200
+      },
+      "sc": 2,
+      "member": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "UKDQot1HWtU": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 1
+    },
+    "B4vLOzf5ces": {
+      "cur": {
+        "$": 5,
+        "CA$": 13.99,
+        "¥": 200
+      },
+      "sc": 3,
+      "member": 1
+    },
+    "sMHnxJ5XIKw": {
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 1
+    },
+    "78OPA_WJ2zs": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "HeMG7sAiMWo": {
+      "cur": {
+        "CA$": 2,
+        "NT$": 150,
+        "$": 12,
+        "¥": 200
+      },
+      "sc": 5,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "agfd7WyQTDo": 0,
+    "i9Z77wRtYWA": {
+      "cur": {
+        "$": 10,
+        "¥": 200
+      },
+      "sc": 2,
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "H8MTqOgSnz8": {
+      "cur": {
+        "$": 5,
+        "¥": 200,
+        "CA$": 10
+      },
+      "sc": 3
+    },
+    "NiQpg4um3sA": {
+      "cur": {
+        "NZ$": 10,
+        "CA$": 2,
+        "$": 19,
+        "¥": 200
+      },
+      "sc": 7,
+      "milestone": 1
+    },
+    "yaWEK6uCqN0": {
+      "milestone": 4,
+      "gift": 3,
+      "recv": 15,
+      "sent": 15
+    },
+    "zk52I_0mWXA": {
+      "cur": {
+        "$": 5,
+        "CA$": 50,
+        "NT$": 75
+      },
+      "sc": 3,
+      "milestone": 1
+    },
+    "crP_yl5N-dc": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "HK6fjxBl1Dw": {
+      "cur": {
+        "$": 25
+      },
+      "sc": 2,
+      "member": 1,
+      "milestone": 3
+    },
+    "O1GYuvA5KR4": {
+      "cur": {
+        "$": 5,
+        "CA$": 10
+      },
+      "sc": 2,
+      "milestone": 2
+    },
+    "KR3pJX616tQ": {
+      "cur": {
+        "NT$": 1500,
+        "¥": 700,
+        "$": 30,
+        "CA$": 20
+      },
+      "sc": 5,
+      "sticker": 1,
+      "member": 1,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "wNhImWUBr4U": {
+      "cur": {
+        "NT$": 75,
+        "CA$": 15,
+        "$": 10
+      },
+      "sc": 4,
+      "member": 2,
+      "milestone": 1
+    },
+    "9505e8KqRcQ": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "AsVLhM2gqEA": {
+      "cur": {
+        "NT$": 75
+      },
+      "sc": 1,
+      "milestone": 1
+    },
+    "b85_AnEvCL4": {
+      "cur": {
+        "₩": 10000,
+        "$": 15
+      },
+      "sc": 4,
+      "member": 2,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
+    },
+    "GXNFujM-pbg": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "member": 2,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "Dou9BldRSz8": {
+      "cur": {
+        "₫": 70000,
+        "NT$": 150,
+        "$": 10
+      },
+      "sc": 6,
+      "member": 1
+    },
+    "ckp_tG3OVoU": {
+      "cur": {
+        "¥": 1300
+      },
+      "sc": 1,
+      "sticker": 1
+    },
+    "oxVFuqpI8ME": {
+      "cur": {
+        "CA$": 10,
+        "¥": 500,
+        "$": 10
+      },
+      "sc": 3
+    },
+    "q_6mCMCDJAQ": {
+      "cur": {
+        "NT$": 75
+      },
+      "sc": 1,
+      "milestone": 2
+    },
+    "6KcwEbis_K0": {
+      "cur": {
+        "$": 20,
+        "¥": 200
+      },
+      "sc": 4,
+      "milestone": 1
+    },
+    "OPZJ_orf5Ok": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "HtB5DyAGanw": {
+      "member": 2,
+      "milestone": 6
+    },
+    "tVa1WLjj7VQ": {
+      "cur": {
+        "¥": 700,
+        "NT$": 75,
+        "₱": 125
+      },
+      "sc": 4
+    },
+    "dEuuwD1cPjk": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 4,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "_h7NCjr8y3M": {
+      "cur": {
+        "$": 27,
+        "¥": 700,
+        "CA$": 10,
+        "NT$": 75
+      },
+      "sc": 8,
+      "member": 3
+    },
+    "ZjkwoUVrn_8": {
+      "cur": {
+        "NT$": 240
+      },
+      "sc": 2
+    },
+    "Uf_IanYO1yM": {
+      "cur": {
+        "NT$": 75,
+        "HK$": 15,
+        "$": 5
+      },
+      "sc": 3,
+      "milestone": 1
+    },
+    "ahhsClCzZpw": {
+      "cur": {
+        "CA$": 25,
+        "$": 84.99,
+        "¥": 1900,
+        "A$": 2
+      },
+      "sc": 17,
+      "member": 1,
+      "milestone": 4,
+      "gift": 2,
+      "recv": 25,
+      "sent": 25
+    },
+    "XT_ElTYMusE": {
+      "cur": {
+        "¥": 700,
+        "NT$": 75
+      },
+      "sc": 3,
+      "member": 1,
+      "milestone": 1
+    },
+    "wu83xlT0HbE": {
+      "cur": {
+        "¥": 1000,
+        "NT$": 150
+      },
+      "sc": 3,
+      "member": 1
+    },
+    "9KiMCQz78c8": {
+      "cur": {
+        "¥": 320,
+        "$": 5,
+        "£": 50,
+        "A$": 15,
+        "NT$": 75
+      },
+      "sc": 6,
+      "member": 2,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "A30giqKCdfY": {
+      "cur": {
+        "¥": 200
+      },
+      "sc": 1,
+      "member": 2
+    },
+    "4qxPvyHtrow": {
+      "cur": {
+        "IDR": 20000,
+        "$": 50,
+        "CA$": 10,
+        "NT$": 75
+      },
+      "sc": 6,
+      "sticker": 1,
+      "member": 1
+    },
+    "GLSMp-Ysaw0": {
+      "cur": {
+        "CA$": 10,
+        "NT$": 75,
+        "$": 29.98
+      },
+      "sc": 4
+    },
+    "sdS3q03REV4": {
+      "cur": {
+        "CA$": 10,
+        "IDR": 20000,
+        "¥": 520,
+        "$": 11,
+        "NT$": 300
+      },
+      "sc": 10,
+      "member": 1
+    },
+    "zh0PKap-fhI": {
+      "member": 3,
+      "milestone": 3
+    },
+    "gWyt-3luvuA": {
+      "cur": {
+        "$": 10
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "ZSWcrxnGpmA": {
+      "member": 3
+    },
+    "cnBn7znXvPE": {
+      "cur": {
+        "$": 10,
+        "SGD": 5,
+        "NT$": 300,
+        "CA$": 10
+      },
+      "sc": 8,
+      "member": 1,
+      "milestone": 2
+    },
+    "C1AsCxa-Wio": {
+      "cur": {
+        "NT$": 75,
+        "¥": 500
+      },
+      "sc": 2,
+      "member": 1,
+      "gift": 1,
+      "recv": 9,
+      "sent": 10
+    },
+    "SQua5rNoHxs": {
+      "cur": {
+        "¥": 1000,
+        "$": 2
+      },
+      "sc": 2,
+      "member": 7,
+      "milestone": 3
+    },
+    "W2oy3kN0--k": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "member": 2
+    },
+    "zcHrXif42hA": {
+      "cur": {
+        "₩": 5000,
+        "IDR": 20000,
+        "NT$": 70,
+        "¥": 200,
+        "$": 20
+      },
+      "sc": 6,
+      "member": 1,
+      "milestone": 2
+    },
+    "lmVGOOI4nh4": {
+      "cur": {
+        "CA$": 10,
+        "A$": 10,
+        "¥": 2000,
+        "$": 35
+      },
+      "sc": 5,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 7
+    },
+    "Le-4JMfpc7o": {
+      "cur": {
+        "¥": 7200,
+        "$": 30,
+        "IDR": 90000,
+        "NT$": 70
+      },
+      "sc": 7,
+      "sticker": 1,
+      "member": 1,
+      "milestone": 3,
+      "gift": 3,
+      "recv": 29,
+      "sent": 30
+    },
+    "Qf5QYCluPdE": {
+      "cur": {
+        "¥": 200,
+        "$": 12,
+        "CA$": 5
+      },
+      "sc": 4,
+      "sticker": 1
+    },
+    "-xnSY1VVooI": {
+      "cur": {
+        "CA$": 22,
+        "NT$": 170,
+        "¥": 200
+      },
+      "sc": 4,
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "-pqaIcKIEj4": {
+      "cur": {
+        "$": 160,
+        "¥": 5000
+      },
+      "sc": 4,
+      "member": 3
+    },
+    "-7MQl4i8-BU": {
+      "cur": {
+        "MYR": 4.5
+      },
+      "sticker": 1,
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "ya8TX6Tl-ps": {
+      "cur": {
+        "¥": 820,
+        "$": 5
+      },
+      "sc": 3,
+      "member": 3
+    },
+    "UO0cTH0yjN4": 0,
+    "4tHacYzbyiA": {
+      "cur": {
+        "$": 100,
+        "¥": 500
+      },
+      "sc": 2
+    },
+    "ZiyCh6RiKbI": {
+      "cur": {
+        "NT$": 240,
+        "¥": 1020,
+        "CA$": 5,
+        "$": 10
+      },
+      "sc": 7,
+      "milestone": 3
+    },
+    "Ow7loDFa2Es": {
+      "cur": {
+        "¥": 200,
+        "$": 100
+      },
+      "sc": 2
+    },
+    "KrXJwFcpEIM": {
+      "cur": {
+        "¥": 800
+      },
+      "sc": 1,
+      "member": 1
+    },
+    "EO4sm3ytzVs": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "oowtvDag8XQ": {
+      "cur": {
+        "$": 10,
+        "¥": 200
+      },
+      "sc": 1,
+      "sticker": 1
+    },
+    "RueoUhOkC4g": 0,
+    "x2hA4yjzEpU": {
+      "cur": {
+        "$": 2
+      },
+      "sticker": 1,
+      "member": 1
+    },
+    "G1m5rbbyIM8": {
+      "member": 2,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "Gptm0lMHuvg": {
+      "cur": {
+        "¥": 2200,
+        "MYR": 4.5
+      },
+      "sc": 2,
+      "sticker": 1,
+      "gift": 2,
+      "recv": 24,
+      "sent": 25
+    },
+    "wjn9qVH4myE": {
+      "cur": {
+        "¥": 320
+      },
+      "sc": 1,
+      "member": 2,
+      "gift": 3,
+      "recv": 20,
+      "sent": 20
+    },
+    "86IRsL1Fy6Q": {
+      "cur": {
+        "$": 92.98,
+        "¥": 10000,
+        "R$": 30,
+        "IDR": 20000
+      },
+      "sc": 11,
+      "sticker": 1,
+      "member": 1,
+      "gift": 3,
+      "recv": 120,
+      "sent": 120
+    },
+    "Bfi5G-W88Jk": {
+      "cur": {
+        "$": 100
+      },
+      "sc": 1,
+      "member": 1,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "aaT2_RXemb8": {
+      "cur": {
+        "ARS": 20
+      },
+      "sc": 1,
+      "member": 5
+    },
+    "lcm0AmZwclg": {
+      "cur": {
+        "¥": 200,
+        "$": 2
+      },
+      "sc": 2,
+      "member": 3,
+      "gift": 2,
+      "recv": 19,
+      "sent": 20
+    },
+    "vHekubWHPYA": 0,
+    "58qg7wuWYS0": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "IxW5fG_zJPA": {
+      "cur": {
+        "¥": 500,
+        "$": 15
+      },
+      "sc": 3
+    },
+    "jGHhdE12A7U": {
+      "member": 5,
+      "gift": 3,
+      "recv": 20,
+      "sent": 20
+    },
+    "San2pPWXtkQ": 0,
+    "cA5yc4bzxLY": {
+      "cur": {
+        "¥": 200,
+        "$": 42,
+        "CA$": 10
+      },
+      "sc": 10,
+      "member": 3,
+      "milestone": 7,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "lq4IYLCZUnU": 0,
+    "eum5T7jymtw": 0,
+    "ZfVg8Cwn0Tc": 0,
+    "AzABh5IDJds": 0,
+    "uY_DaIa320Q": 0,
+    "XiWzGXNfIAs": 0,
+    "EtGs-Rg9lx8": 0,
+    "1MgpCfPEYBE": 0,
+    "OkCxe3-fL1w": 0,
+    "T1AMuPUVr7s": 0,
+    "pUdK1MtJ8_4": 0,
+    "Q26ZztEPXVA": 0,
+    "fNfYqk3Oow0": 0,
+    "tGCvi-nVCh0": {
+      "cur": {
+        "$": 196.99,
+        "¥": 30600,
+        "₩": 225000,
+        "IDR": 50000,
+        "CA$": 40
+      },
+      "sc": 26,
+      "member": 76,
+      "gift": 7,
+      "recv": 56,
+      "sent": 76
+    },
+    "QFgip3Ru-nQ": 0,
+    "Gkt2Xm8XTgU": 0,
+    "gunp6Pafz7w": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "m1X5rkOC9RM": 0,
+    "mY8RL1VXBIU": 0,
+    "GgZpXA0PVFw": 0,
+    "fOmtSrZV-H0": 0
   }
 }
