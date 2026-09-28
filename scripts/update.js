@@ -365,6 +365,14 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
     if (v.status !== undefined && !['past', 'live', 'upcoming', 'unavailable'].includes(v.status)) {
       v.status = 'past'; changed = true;
     }
+    // A video with no status but a length is over: an upload, or a broadcast
+    // that has ended (live and upcoming ones have length 0). The Full Recheck
+    // sets status from the Data API, which returns nothing for a few public
+    // streams (two of Choya Hanabi's), so those stayed without one and out of
+    // the Rank counts.
+    if (v.status === undefined && v.duration > 0) {
+      v.status = 'past'; changed = true;
+    }
   }
   // A count that no longer matches the list (left by a text merge of two jobs'
   // commits) is corrected by the save below.
