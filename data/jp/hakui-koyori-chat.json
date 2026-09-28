@@ -1,7 +1,7 @@
 {
   "channelId": "UC6eWCld0KwmyHFbAqK3V-Rw",
   "channelName": "Hakui Koyori",
-  "lastUpdated": "2026-09-27T16:14:08.579Z",
+  "lastUpdated": "2026-09-28T00:02:02.646Z",
   "streams": {
     "vnTSdJSAWrg": {
       "cur": {
@@ -32366,6 +32366,17 @@
       "sc": 14,
       "sticker": 1,
       "milestone": 1
+    },
+    "Jr4bYLjNYpM": {
+      "cur": {
+        "¥": 3444,
+        "$": 12
+      },
+      "sc": 13,
+      "milestone": 2,
+      "gift": 4,
+      "recv": 8,
+      "sent": 8
     }
   }
 }

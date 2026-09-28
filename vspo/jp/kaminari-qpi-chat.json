@@ -1,7 +1,7 @@
 {
   "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
   "channelName": "Kaminari Qpi",
-  "lastUpdated": "2026-09-27T21:03:22.668Z",
+  "lastUpdated": "2026-09-28T00:05:10.299Z",
   "streams": {
     "h5gzZkssz-w": {
       "cur": {
@@ -405,80 +405,127 @@
       "member": 1
     },
     "abcF7UR9miE": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3200
+      },
+      "sc": 5,
+      "member": 2
     },
     "Z8PSF1IOan4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 325429,
+        "HK$": 710,
+        "$": 10,
+        "NT$": 240
+      },
+      "sc": 84,
+      "member": 68
     },
     "InqP32GTJNg": {
       "member": 1
     },
     "2cAVvkdPMtM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3000
+      },
+      "sc": 2
     },
     "9J7sq9-UGEs": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 800
+      },
+      "sc": 1
     },
     "b4NNTio-LDo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7060
+      },
+      "sc": 9,
+      "member": 2
     },
-    "XgCJPrWpbUY": {
-      "e": "http503",
-      "n": 0
-    },
+    "XgCJPrWpbUY": 0,
     "8uRoAruJ8Dc": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 85809,
+        "HK$": 250,
+        "ARS": 2000
+      },
+      "sc": 40,
+      "member": 7
     },
     "2A7vLw51vKk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 38779,
+        "HK$": 75
+      },
+      "sc": 22,
+      "member": 1
     },
-    "5Ydej5vDINc": {
-      "e": "http503",
-      "n": 0
-    },
+    "5Ydej5vDINc": 0,
     "Ky54lqKjAxI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 1
     },
     "czCdaKQ1beE": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1600,
+        "A$": 2
+      },
+      "sc": 3
     },
     "e2TTm4ONSdU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 2520
+      },
+      "sc": 5,
+      "member": 3
     },
     "czW4BSByBYM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 400
+      },
+      "sc": 2,
+      "member": 1
     },
     "5Xz-Xo6UpB0": {
-      "e": "http503",
-      "n": 0
+      "member": 2
     },
     "O_cCbrIRkZ0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 103718,
+        "A$": 10,
+        "HK$": 275
+      },
+      "sc": 45,
+      "member": 1
     },
     "8o0TtVXzk_U": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 9280
+      },
+      "sc": 14,
+      "member": 1
     },
     "Cqc01I2N95I": {
-      "e": "http503",
-      "n": 0
+      "member": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     },
     "bNZaAQoQico": 0,
     "-Lzp2E1Q4QA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7220,
+        "MYR": 6
+      },
+      "sc": 13,
+      "sticker": 1,
+      "member": 1,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
     },
     "Wx5dSBTlJeQ": {
       "cur": {
@@ -488,105 +535,194 @@
       "member": 2
     },
     "qd-hinK5iOg": {
-      "e": "http503",
-      "n": 0
+      "member": 1
     },
     "KjcZQy6-re4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3340,
+        "₫": 20000
+      },
+      "sc": 8,
+      "member": 1
     },
     "UaqS-7QBaxk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1600
+      },
+      "sc": 2
     },
     "PIHN38BALZ0": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 40162,
+        "HK$": 50
+      },
+      "sc": 23,
+      "member": 1
     },
     "tfrMI7E_bls": {
-      "e": "http503",
-      "n": 0
+      "member": 1
     },
     "whlT8rq2oxk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7760,
+        "AED": 225,
+        "€": 5
+      },
+      "sc": 12
     },
     "ScFylM6Mvo4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 320
+      },
+      "sc": 1,
+      "member": 3,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "7ihFNtL-V4A": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 12520
+      },
+      "sc": 8,
+      "member": 4
     },
     "QgdVoRWOMRs": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7700
+      },
+      "sc": 8
     },
     "_mvKMwlmzoI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 2,
+      "member": 1
     },
     "QIutehAgh9U": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 6900,
+        "$": 5
+      },
+      "sc": 9,
+      "member": 5
     },
     "ngDYr9xZpb4": {
-      "e": "http503",
-      "n": 0
+      "member": 8
     },
     "8kUW98PBLyw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 201686,
+        "HK$": 327.6,
+        "A$": 2,
+        "NT$": 30
+      },
+      "sc": 65,
+      "member": 9
     },
     "hbcYjmqVYh4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 439248,
+        "HK$": 1075,
+        "NT$": 2520,
+        "A$": 10
+      },
+      "sc": 132,
+      "sticker": 2,
+      "member": 149,
+      "gift": 4,
+      "recv": 70,
+      "sent": 70
     },
     "Tz8Wx3LMebI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 820
+      },
+      "sc": 2,
+      "member": 2
     },
     "V4kmJdGAl54": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 5900
+      },
+      "sc": 9
     },
     "3brWZ6VEDp4": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 19663,
+        "HK$": 25,
+        "NT$": 15
+      },
+      "sc": 17,
+      "sticker": 4,
+      "member": 1
     },
     "_ahO9rkaUMs": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 15079
+      },
+      "sc": 16
     },
     "eiZHsZ2B_6k": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3199
+      },
+      "sc": 2
     },
     "Ti8ffUkWENk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 5120
+      },
+      "sc": 5,
+      "member": 4
     },
     "05FoeO89EdA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 47229,
+        "NT$": 1980,
+        "HK$": 25
+      },
+      "sc": 43,
+      "sticker": 1,
+      "member": 8,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     },
     "cF0e5PMmuhs": 0,
     "1bpovOJICpU": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 510048,
+        "HK$": 1200,
+        "NT$": 1650
+      },
+      "sc": 120,
+      "member": 10,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "BmoUQLw6KAo": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7920
+      },
+      "sc": 5,
+      "member": 2
     },
     "uCqBTzpn6sI": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 113239,
+        "HK$": 350
+      },
+      "sc": 39,
+      "member": 4
     },
     "1J9Fx5zP6Ug": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1000
+      },
+      "sc": 2
     },
     "uDc_3lSXAUI": {
       "cur": {
@@ -596,12 +732,21 @@
     },
     "LLr0LuYlOd0": 0,
     "m1KbsKCTMog": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 4720
+      },
+      "sc": 9,
+      "member": 5,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     },
     "I5849mpgjUk": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 400
+      },
+      "sc": 2,
+      "member": 2
     },
     "m_I_R69pwWo": {
       "cur": {
@@ -611,16 +756,30 @@
       "member": 2
     },
     "0p-h5CiYiWw": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 9140,
+        "HK$": 100
+      },
+      "sc": 13,
+      "member": 3,
+      "gift": 5,
+      "recv": 28,
+      "sent": 28
     },
     "ceSuoUw7ovY": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 3100,
+        "NT$": 15
+      },
+      "sc": 5,
+      "member": 3
     },
     "Z5v6bMF7XAM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 24399
+      },
+      "sc": 9,
+      "member": 1
     },
     "5YzMZFKgpuE": {
       "cur": {
@@ -630,8 +789,11 @@
       "member": 3
     },
     "ls4Ni__3Njc": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 2900,
+        "HK$": 100
+      },
+      "sc": 6
     },
     "op9Bw3T0Bag": {
       "cur": {
@@ -640,10 +802,7 @@
       "sc": 2,
       "member": 2
     },
-    "6_dSXQyis68": {
-      "e": "http503",
-      "n": 0
-    },
+    "6_dSXQyis68": 0,
     "rgA7fw-JUMU": 0,
     "LtVyfJ_S8ws": {
       "cur": {
@@ -653,8 +812,12 @@
       "member": 1
     },
     "22zef-yqw5I": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 7095,
+        "HK$": 20
+      },
+      "sc": 13,
+      "member": 2
     },
     "PSfqi5NZSQ8": {
       "cur": {
@@ -1456,7 +1619,7 @@
     "A63R6ZWEYfA": 0,
     "yl_4mXI7e8c": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "OOH32o4nvKU": {
       "cur": {
@@ -1818,7 +1981,7 @@
     },
     "WnX60HMSo3Q": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "TuUjARwjP8E": {
       "cur": {
@@ -2078,7 +2241,7 @@
     },
     "EIYb4V4ZoG4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "-HCjVXbbz4c": {
       "cur": {
@@ -2091,7 +2254,7 @@
     },
     "fYf_l8Fiifs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "r9joMcMrlUc": {
       "cur": {
@@ -5280,7 +5443,7 @@
     },
     "Q55Z9DWPdCs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "zZuHNNu37rk": {
       "cur": {
@@ -5428,7 +5591,7 @@
     },
     "5lfGhxPi67Q": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "DXukGwsFwKE": {
       "cur": {
@@ -6355,7 +6518,7 @@
     },
     "X_wdiKbMMgs": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "89E-2BDNogU": {
       "cur": {
@@ -7498,7 +7661,7 @@
     },
     "QWswWZtn8Ek": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "fUyxkhM0lUI": {
       "cur": {
@@ -8044,7 +8207,7 @@
     },
     "14l71S1G63g": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "BlqDKgxr5Kc": {
       "cur": {
