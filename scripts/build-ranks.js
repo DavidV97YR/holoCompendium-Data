@@ -111,13 +111,13 @@ function startMs(v, pub) {
 }
 
 // ── Currency → yen ─────────────────────────────────────────────────────────
-// A copy of the table in the site's js/stats.js, and it has to stay in step
+// A copy of the table in the site's js/shared.js, and it has to stay in step
 // with it: the two pages would otherwise print different totals for the same
 // streams. EDIT BOTH, always. The "currencies with no rate" report at the end
 // of this run is what catches the drift when one gets forgotten.
 //
 // These are static, approximate rates (USD/JPY ~= 150). See the long note in
-// js/stats.js for why they are deliberately not fetched live.
+// js/shared.js for why they are deliberately not fetched live.
 //
 // Symbols are whatever fetch-chat.js scraped out of purchaseAmountText, so both
 // the glyph forms ("NT$") and the plain codes ("SGD") appear. Note 'F\u202fCFA'
@@ -368,7 +368,7 @@ function main() {
     console.log('\n  ! currencies with no rate (counted as zero):');
     for (const [sym, n] of [...unknownSymbols].sort((a, b) => b[1] - a[1]))
       console.log('      ' + JSON.stringify(sym) + '  x' + n.toLocaleString());
-    console.log('    add them to JPY_RATES here AND in the site js/stats.js');
+    console.log('    add them to JPY_RATES here AND in the site js/shared.js');
   }
   console.log('\n  ' + OUT + '  ' + kb + ' KB\n');
 }

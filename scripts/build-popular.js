@@ -56,6 +56,10 @@ const SQL = `
     -- affinity used to convert; an expression has none, so it is cast here.
     AND COALESCE(v.actual_start, v.published) >= CAST(strftime('%s', 'now', ?) AS INTEGER)
     AND v.views > 0
+    -- Hidden everywhere on the site (talent.js). A stream made private keeps
+    -- its old view count until fetch-views.js next runs, and could sit in
+    -- Popular as a dead link meanwhile.
+    AND (v.status IS NULL OR v.status != 'unavailable')
   ORDER BY v.views DESC, v.id
   LIMIT ${LIMIT}`;
 
