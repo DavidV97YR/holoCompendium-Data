@@ -37,8 +37,12 @@ function get(url) {
     const client = url.startsWith('https') ? https : http;
     let data = '';
     client.get(url, res => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location)
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        // Read off the redirect's own body: left unread, it held its connection
+        // open and the process alive for ~4 minutes after the work was done.
+        res.resume();
         return get(res.headers.location).then(resolve).catch(reject);
+      }
       res.on('data', c => data += c);
       res.on('end', () => resolve({ status: res.statusCode, body: data }));
     }).on('error', reject);

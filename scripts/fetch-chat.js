@@ -77,8 +77,12 @@ function get(url, headers) {
     const opts = { headers: hdrs };
     if (url.startsWith('https')) opts.agent = agent;
     client.get(url, opts, res => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location)
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        // Read off the redirect's own body: left unread, it held its connection
+        // open and the process alive for ~4 minutes after the work was done.
+        res.resume();
         return get(res.headers.location, headers).then(resolve).catch(reject);
+      }
       const chunks = [];
       res.on('data', c => chunks.push(Buffer.isBuffer(c) ? c : Buffer.from(c)));
       res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks).toString('utf8') }));

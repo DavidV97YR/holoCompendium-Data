@@ -46,8 +46,9 @@ const INNERTUBE_CTX = {
 
 const MAX_PAGES        = 250;   // runaway guard only; the real stop is a missing token
 const STOP_AFTER_KNOWN = 5;     // consecutive known posts before a normal run stops
-const NEW_SCAN_PAGES   = 5;     // pages a normal run reads before concluding nothing is new
+const NEW_SCAN_PAGES   = 2;     // pages a normal run reads before concluding nothing is new
 const CHANNEL_DELAY    = 2500;
+const CHANNEL_WORKERS  = 3;     // channels crawled at once on a normal run (a backfill goes one at a time)
 const PAGE_DELAY       = 250;
 const POST_DELAY       = 300;
 
@@ -60,8 +61,12 @@ function get(url, headers) {
     const opts = { headers: Object.assign({ 'user-agent': UA }, headers || {}) };
     const client = url.startsWith('https') ? https : http;
     client.get(url, opts, res => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location)
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        // Read off the redirect's own body: left unread, it held its connection
+        // open and the process alive for ~4 minutes after the work was done.
+        res.resume();
         return get(res.headers.location, headers).then(resolve).catch(reject);
+      }
       const chunks = [];
       res.on('data', c => chunks.push(c));
       res.on('end', () => resolve({ status: res.statusCode, body: Buffer.concat(chunks).toString('utf8') }));
@@ -367,6 +372,11 @@ async function crawlFeed(channelId, knownIds, backfill) {
     // neither counter above, so a normal run used to walk every page of them.
     // Rushia has no public posts at all and cost 20 pages a run.
     //
+    // Two pages, not more: a new post is the newest item in the chain, so it
+    // is on page 1 (after a pinned post at most), and the second page is only
+    // a margin for a page that comes back short. Five cost most channels five
+    // pages every run, for nothing.
+    //
     // Consequence: a channel with no local data yet needs a backfill to
     // populate, since a normal run stops before reading deep. That was already
     // true — the ~200-post ceiling means new channels get backfilled anyway.
@@ -562,7 +572,14 @@ async function main() {
   const failed = [];
   let ok = 0;
 
-  for (const t of talents) {
+  // A few channels at a time: most of a normal run is waiting (the delays
+  // between pages and channels), and one channel at a time made it ~10
+  // minutes for nothing new. Each worker keeps the same pace as before. The
+  // store is shared, which is safe: JavaScript runs one worker at a time
+  // between awaits, and saveStore does not await.
+  let nextTalent = 0;
+  const worker = async () => { while (nextTalent < talents.length) {
+    const t = talents[nextTalent++];
     try {
       const r = await doChannel(t, ids.get(t), store, backfill);
       ok++;
@@ -581,7 +598,8 @@ async function main() {
     // Save after every channel so a slice that dies keeps its progress.
     saveStore(postsDir, store);
     await sleep(CHANNEL_DELAY);
-  }
+  } };
+  await Promise.all(Array.from({ length: backfill ? 1 : CHANNEL_WORKERS }, worker));
 
   console.log('');
   for (const b of BRANCHES) {
