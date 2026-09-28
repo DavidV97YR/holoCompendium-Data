@@ -77,7 +77,13 @@ jobs:
           DATA_DIR:    ${{ inputs.org == 'vspo' && './vspo' || './data' }}
         run: node scripts/fetch-chat.js
 
+      # always(): the script writes each stream's chat as it finishes, so a run
+      # that is cancelled or fails partway still commits what it gathered
+      # (posts.yml does the same). Chat data is idempotent: anything missed is
+      # walked again next run. Before this, a run cancelled 20 minutes in lost
+      # all 20 minutes.
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
