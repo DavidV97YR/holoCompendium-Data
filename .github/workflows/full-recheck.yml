@@ -1,4 +1,4 @@
-name: Full Recheck (Daily)
+name: Full Recheck
 
 # Runs backfill mode against every channel. Triggered externally by
 # cron-job.org hitting the workflow_dispatch webhook — same pattern as

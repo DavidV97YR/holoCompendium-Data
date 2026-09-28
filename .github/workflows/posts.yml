@@ -1,4 +1,4 @@
-name: Community Posts
+name: Fetch Posts
 
 # Triggered externally by cron-job.org hitting the workflow_dispatch webhook —
 # same pattern as fetch-views.yml and full-recheck.yml — rather than GitHub's
