@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/N7qEUQMbq8z1lQdp4WBUz3vQ83gYiYmPt-alI5K1xMYnOh4uAxuQlUVPneZQKetzACogh6E_qA",
     "bannerUrl": "https://yt3.googleusercontent.com/cAvF8yT7Ru6kjwkDb-FhZ5qdCztsP6gbc8TppLIlzYzaRbVEWrsb36YDXKgvkHuXOBcD9rjjFoE=s0"
   },
-  "lastUpdated": "2026-09-28T01:12:48.932Z",
+  "lastUpdated": "2026-09-28T03:12:40.022Z",
   "videoCount": 930,
   "videos": [
     {
@@ -15,8 +15,8 @@
       "title": "【 Euro Truck Simulator 2 】 乗ってけ(免許なし)(サムネはあくまで未来)!!!!!!! 【 ぶいすぽっ! ⁠/蝶屋はなび 】",
       "published": "2026-09-27T23:51:21.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 10110,
+      "status": "past",
       "scheduledStart": "2026-09-28T00:10:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-09-28T00:09:47.000Z"
@@ -5514,7 +5514,8 @@
       "title": "【 メン限】今日はちるする【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
       "published": "2025-08-16T16:13:23Z",
       "type": "member",
-      "duration": 5089
+      "duration": 5089,
+      "status": "past"
     },
     {
       "id": "FMexScXHoSc",
@@ -5542,7 +5543,8 @@
       "published": "2025-08-13T00:06:51Z",
       "type": "stream",
       "duration": 7048,
-      "actualStart": "2025-08-12T22:00:15.000Z"
+      "actualStart": "2025-08-12T22:00:15.000Z",
+      "status": "past"
     },
     {
       "id": "0uhIezFimxw",
