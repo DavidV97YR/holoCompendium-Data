@@ -1,7 +1,7 @@
 {
   "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
   "channelName": "Komori Met",
-  "lastUpdated": "2026-09-28T20:09:37.672Z",
+  "lastUpdated": "2026-09-28T21:04:45.721Z",
   "streams": {
     "HRimslvX3YM": {
       "cur": {
@@ -1635,7 +1635,7 @@
     },
     "avHulgKq54c": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "InUsUDMaxkI": {
       "cur": {
@@ -1931,7 +1931,7 @@
     },
     "0QNcSx5_Qjg": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "9oQ_PbEOD28": {
       "cur": {
@@ -3973,7 +3973,7 @@
     },
     "rP9QcGHTaOA": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "-LU9vjSni1I": {
       "cur": {
@@ -13292,7 +13292,7 @@
     },
     "bQuU07yiF7E": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "GHquuCl_WDM": {
       "cur": {
@@ -14468,7 +14468,7 @@
     },
     "5AtM3u6sF1w": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "ixLjeygeKXQ": {
       "cur": {
@@ -14889,7 +14889,7 @@
     },
     "-ONQ2JN4UnU": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "_n5umzY6jOw": {
       "cur": {
@@ -15037,7 +15037,7 @@
     },
     "-Rxpsl0iQy0": {
       "e": "noreplay",
-      "n": 20
+      "n": 21
     },
     "8QsqcxaaYA4": {
       "cur": {
@@ -15146,8 +15146,11 @@
     "9jGN0RY_9Lw": 0,
     "RW81f4mExCw": 0,
     "0q2IUb9FcsI": {
-      "e": "noreplay",
-      "n": 6
+      "cur": {
+        "¥": 2220,
+        "NT$": 825
+      },
+      "sc": 7
     }
   }
 }
