@@ -59,6 +59,39 @@ const ENDPOINT = 'https://www.youtube.com/youtubei/v1/live_chat/get_live_chat_re
 const CONTEXT  = { client: { clientName: 'WEB', clientVersion: '2.20240726.00.00', hl: 'en', gl: 'US' } };
 const UA       = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36';
 
+// Talents who share one channel each have a file, but the site reads one
+// genmate's chat for all of them: the `file` in CHANNEL_ALIASES in its
+// js/shared.js. Walking every copy walked each stream two or three times and
+// stored its log as often (FUWAMOCO's 874 streams twice, UNIT B's and
+// ACHRORA's three times). Only that file is walked now; the others get its
+// totals copied at the end, since build-ranks.js reads whichever it meets first.
+const SHARED_CHAT = {
+  'mococo-abyssgard': 'fuwawa-abyssgard',
+  'reimei-mira':      'yoinagi-neon',    'kiyosumi-lyra':  'yoinagi-neon',
+  'rumigaki-rirara':  'sumishio-sayana', 'yuikawa-hinami': 'sumishio-sayana',
+};
+const chatTwin = f => {
+  const to = SHARED_CHAT[path.basename(f, '.json')];
+  return to ? path.join(path.dirname(f), to + '.json') : f;
+};
+
+// Brings each genmate's -chat.json in line with the walked one. Written only
+// when it differs, so a quiet run commits nothing.
+function syncSharedChat(dataDir) {
+  let n = 0;
+  for (const f of findChannelFiles(dataDir)) {
+    const twin = chatTwin(f);
+    if (twin === f) continue;
+    const src = twin.replace(/\.json$/, '-chat.json'), dst = f.replace(/\.json$/, '-chat.json');
+    if (!fs.existsSync(src)) continue;
+    const body = fs.readFileSync(src, 'utf8');
+    if (fs.existsSync(dst) && fs.readFileSync(dst, 'utf8') === body) continue;
+    fs.writeFileSync(dst, body, 'utf8');
+    n++;
+  }
+  return n;
+}
+
 // ── helpers ──────────────────────────────────────────────────────────────────
 
 // The CSV/row helpers below mirror update.js so ROWS means the same thing in
@@ -638,6 +671,9 @@ async function main() {
     channelFiles = findChannelFiles(dataDir);
   }
 
+  // A genmate on a shared channel is walked as the file the site reads.
+  channelFiles = [...new Set(channelFiles.map(chatTwin))].filter(f => fs.existsSync(f));
+
   console.log('📂  ' + channelFiles.length + ' channel file(s) in ' + dataDir + '\n');
 
   const cutoff = Date.now() - windowHours * 3600 * 1000;
@@ -765,6 +801,10 @@ async function main() {
     console.log('\n🎁  gift totals recovered for ' + back.fixed + ' stream(s) across '
               + back.files + ' channel file(s)');
   }
+
+  // After fillGiftSent, which would otherwise work on the genmates' old copies.
+  const synced = syncSharedChat(dataDir);
+  if (synced) console.log('\n👥  shared-channel totals copied to ' + synced + ' genmate file(s)');
 
   const idx = buildChatIndex(dataDir, parseInt(process.env.INDEX_DAYS || '14', 10));
   console.log('\n🗂  chat-index.json — ' + idx.streams + ' streams / '
