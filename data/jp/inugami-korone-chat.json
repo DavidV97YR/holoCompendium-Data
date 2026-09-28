@@ -1,7 +1,7 @@
 {
   "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
   "channelName": "Inugami Korone",
-  "lastUpdated": "2026-09-28T18:04:21.817Z",
+  "lastUpdated": "2026-09-28T19:07:55.803Z",
   "streams": {
     "wVNKRvzJWL0": {
       "cur": {
@@ -22947,8 +22947,21 @@
       "sent": 21
     },
     "h3joGokdAiM": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 38523,
+        "$": 15,
+        "€": 15.63,
+        "SGD": 56.3,
+        "R$": 25.63,
+        "₩": 20000
+      },
+      "sc": 41,
+      "sticker": 10,
+      "member": 3,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
