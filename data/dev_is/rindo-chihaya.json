@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0"
   },
-  "lastUpdated": "2026-09-28T11:10:11.081Z",
+  "lastUpdated": "2026-09-28T15:10:17.226Z",
   "videoCount": 818,
   "videos": [
+    {
+      "id": "Mf5iJ2NpR48",
+      "title": "【首都高バトル】そろそろ本物になりにいこうか【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+      "published": "2026-09-28T13:59:43+00:00",
+      "type": "stream",
+      "duration": 13614,
+      "status": "past",
+      "scheduledStart": "2026-09-28T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-09-28T10:01:13.000Z"
+    },
     {
       "id": "-qWH8NXTDTM",
       "title": "大きな声で怖さを吹き飛ばそう！#shorts # #ゲーム実況 #切り抜き",
@@ -18,17 +29,6 @@
       "duration": 12,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "Mf5iJ2NpR48",
-      "title": "【首都高バトル】そろそろ本物になりにいこうか【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-      "published": "2026-09-28T03:15:47.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-28T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-09-28T10:01:13.000Z"
     },
     {
       "id": "kctpbW6MPec",
