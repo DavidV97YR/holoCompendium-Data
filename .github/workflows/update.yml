@@ -35,8 +35,11 @@ jobs:
     steps:
       - name: Check inputs
         if: ${{ inputs.org == 'both' && inputs.rows != 'all' }}
+        # Free text, so it reaches the shell as data, never as script.
+        env:
+          ROWS: ${{ inputs.rows }}
         run: |
-          echo "::error::Row numbers are per sheet. Pick hololive or vspo for rows '${{ inputs.rows }}', or use rows 'all'."
+          echo "::error::Row numbers are per sheet. Pick hololive or vspo for rows '$ROWS', or use rows 'all'."
           exit 1
 
       - name: Checkout repo

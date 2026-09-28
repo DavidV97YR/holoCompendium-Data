@@ -49,13 +49,16 @@ jobs:
         run: node scripts/bootstrap.js
 
       - name: Commit updated data
+        # Free text, so it reaches the shell as data, never as script.
+        env:
+          ROWS: ${{ github.event.inputs.rows }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           BASE=$(git rev-parse HEAD)
           git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
-          MSG="bootstrap (${{ inputs.org }}): ${{ github.event.inputs.rows }}"
+          MSG="bootstrap (${{ inputs.org }}): $ROWS"
           git commit -m "$MSG"
           # Another job may have pushed meanwhile. Its changes and ours are then
           # merged by content, video by video (scripts/merge-data.js), never as

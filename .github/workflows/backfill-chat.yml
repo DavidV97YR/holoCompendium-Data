@@ -84,12 +84,15 @@ jobs:
       # all 20 minutes.
       - name: Commit updated data
         if: always()
+        # Free text, so it reaches the shell as data, never as script.
+        env:
+          ROWS: ${{ github.event.inputs.rows }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
-          git commit -m "chat backfill (${{ inputs.org }} rows ${{ github.event.inputs.rows }}): $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "chat backfill (${{ inputs.org }} rows $ROWS): $(date -u +'%Y-%m-%d %H:%M UTC')"
           # -X ours, same reasoning as fetch-chat.yml: chat data is idempotent,
           # so deferring to origin on a conflict costs a re-walk next run rather
           # than corrupting anything.
