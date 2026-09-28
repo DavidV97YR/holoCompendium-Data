@@ -409,10 +409,16 @@ async function doChannel(talent, channelId, store, backfill) {
   const byId = new Map(bucket.map(p => [p.id, p]));
 
   const crawl = await crawlFeed(channelId, new Set(byId.keys()), backfill);
+  let added = 0;
   for (const p of crawl.found) {
+    // Checked against the bucket as it is now, not the snapshot above: with
+    // channels crawled side by side, another one may have added this post
+    // while this crawl ran (a post showing on two channels' feeds).
+    if (bucket.some(x => x.id === p.id)) continue;
     p.channel = channelId;
     bucket.push(p);
     byId.set(p.id, p);
+    added++;
   }
 
   // Repair fields on posts we already hold, keeping the date we paid for.
@@ -439,7 +445,7 @@ async function doChannel(talent, channelId, store, backfill) {
 
   return {
     name: talent.Name, branch: branch, pages: crawl.pages, truncated: crawl.truncated,
-    added: crawl.found.length, repaired: repaired, dated: dated, dateFails: dateFails,
+    added: added, repaired: repaired, dated: dated, dateFails: dateFails,
     total: bucket.filter(p => p.channel === channelId).length,
   };
 }
