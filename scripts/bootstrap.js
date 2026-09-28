@@ -112,6 +112,7 @@ async function fetchVideoDetails(videoIds, apiKey) {
               : live.scheduledStartTime ? 'upcoming' : 'past',
         scheduledStart: isoTime(live?.scheduledStartTime),
         actualStart:    isoTime(live?.actualStartTime),
+        broadcast:      !!live,
       };
     }
   }
@@ -210,6 +211,11 @@ async function processChannel(talent, apiKey, outputDir) {
 
   const videos = allMapped.map(({ id, type, snippet }) => {
     const d = details[id] || {};
+    // "In none of the lists" means a stream only if it was ever broadcast. A
+    // new upload can reach UU before the Videos / Shorts lists catch up, and
+    // the Full Recheck leaves a non-broadcast "stream" alone (see update.js),
+    // so a guess made here would stick. The Recheck sorts video from Short.
+    if (type === 'stream' && details[id] && !d.broadcast) type = 'video';
     const v = {
       id,
       title:     snippet.title || '',
