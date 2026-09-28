@@ -40,7 +40,7 @@ on:
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
 # sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
 env:
-  VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=634314027&single=true&output=csv'
+  VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=105975973&single=true&output=csv'
 
 # Posts are written by this workflow and nothing else. Two writers previously
 # caused duplicate video entries in this repo — two jobs discovering the same
