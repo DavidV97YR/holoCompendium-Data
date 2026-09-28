@@ -42,7 +42,9 @@ async function classify(id) {
   let p = null, reason = '';
   for (const [i, client] of CLIENTS.entries()) {
     if (i) await new Promise(r => setTimeout(r, 1500));
-    p = await player(id, client);
+    // An HTTP or network error on one client is a reason to try the next,
+    // the same as a bot check.
+    try { p = await player(id, client); } catch (e) { reason = e.message; p = null; continue; }
     if (p.microformat && p.videoDetails && p.videoDetails.videoId) break;
     reason = ((p.playabilityStatus || {}).reason || (p.playabilityStatus || {}).status || 'no details').slice(0, 60);
     p = null;
