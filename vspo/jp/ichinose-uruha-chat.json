@@ -1,7 +1,7 @@
 {
   "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
   "channelName": "Ichinose Uruha",
-  "lastUpdated": "2026-09-28T15:06:26.958Z",
+  "lastUpdated": "2026-09-28T17:16:51.215Z",
   "streams": {
     "jLzEiITrba4": {
       "cur": {
@@ -10845,7 +10845,7 @@
     },
     "uKDhG8EGCzQ": {
       "e": "noreplay",
-      "n": 18
+      "n": 19
     },
     "VMmCMHXq3EE": {
       "cur": {
@@ -13346,7 +13346,7 @@
     },
     "y1_tqnFCR7Q": {
       "e": "noreplay",
-      "n": 18
+      "n": 19
     },
     "FdDSjN0L0W4": {
       "cur": {
@@ -17828,7 +17828,7 @@
     "ORzVJbc9rlE": 0,
     "BLSRD01DtuM": {
       "e": "noreplay",
-      "n": 18
+      "n": 19
     },
     "s-dPeIuhLbU": {
       "cur": {
@@ -18028,8 +18028,10 @@
     "jHNdvSZgeMY": 0,
     "T1CvdwNu7xU": 0,
     "ISCwhS9xuhE": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "¥": 3256
+      },
+      "sc": 9
     }
   }
 }

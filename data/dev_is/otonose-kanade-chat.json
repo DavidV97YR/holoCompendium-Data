@@ -1,7 +1,7 @@
 {
   "channelId": "UCWQtYtq9EOB4-I5P-3fh8lA",
   "channelName": "Otonose Kanade",
-  "lastUpdated": "2026-09-24T15:02:19.986Z",
+  "lastUpdated": "2026-09-28T17:01:57.279Z",
   "streams": {
     "IHbC4UdyW6s": {
       "cur": {
@@ -7974,6 +7974,10 @@
       "gift": 3,
       "recv": 45,
       "sent": 45
+    },
+    "-SqrxwHyfEE": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
