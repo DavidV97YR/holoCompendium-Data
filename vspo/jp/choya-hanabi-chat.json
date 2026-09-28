@@ -1,7 +1,7 @@
 {
   "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
   "channelName": "Choya Hanabi",
-  "lastUpdated": "2026-09-28T01:14:52.887Z",
+  "lastUpdated": "2026-09-28T02:06:01.953Z",
   "streams": {
     "6Msg_fkjYJ0": {
       "cur": {
@@ -3362,12 +3362,12 @@
     },
     "_mPyZv1Jq30": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "2mte2kcfaO8": 0,
     "IAgyafafHO4": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "dZ3CbEqmmC4": {
       "cur": {
@@ -3582,8 +3582,11 @@
       "sc": 2
     },
     "CXKXWJDvz4o": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "A$": 100,
+        "¥": 320
+      },
+      "sc": 2
     },
     "Ag4FZPk53n0": {
       "member": 2
@@ -3627,8 +3630,11 @@
       "sent": 10
     },
     "-E0GdukSz4Q": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 1300
+      },
+      "sc": 1,
+      "sticker": 1
     },
     "h6aJS9juXqg": {
       "cur": {
@@ -5248,7 +5254,7 @@
     },
     "Mip3mq_UCxM": {
       "e": "noreplay",
-      "n": 1
+      "n": 2
     },
     "Wyj2NywQve8": 0,
     "Ev8mYjyCBo4": {
