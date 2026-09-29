@@ -7,9 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/lBR2WoXWscLmYRBvwkwJBQR8-hkPl3aWzEZWzIlRLLG2hJMY-JZxwQ7Cc_EGqcyxqbzfMEzi",
     "bannerUrl": "https://yt3.googleusercontent.com/JCY2pnKwXdJ-vz9kY_UBwmFMMiql7X3Ic57KIlRaCDkaas_XAOLoitDUDuipD1qBKgcH_Dx5NQ=s0"
   },
-  "lastUpdated": "2026-09-29T09:31:16.198Z",
-  "videoCount": 1511,
+  "lastUpdated": "2026-09-29T11:01:14.277Z",
+  "videoCount": 1513,
   "videos": [
+    {
+      "id": "bLEwHUTCWcg",
+      "title": "【たぬファイ】明日本番！スクリム！！！【空澄セナ/ぶいすぽっ！】",
+      "published": "2026-09-29T10:53:50.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "upcoming",
+      "scheduledStart": "2026-09-29T12:15:00.000Z",
+      "typedBy": "innertube"
+    },
     {
       "id": "lWS6asXbu7s",
       "title": "【新衣装】モエチャッカファイア歌わせていただきました。【ぶいすぽっ！/空澄セナ】#shorts",
@@ -239,6 +249,17 @@
       "status": "past",
       "scheduledStart": "2026-09-08T16:30:00.000Z",
       "actualStart": "2026-09-08T16:33:25.000Z"
+    },
+    {
+      "id": "n_m9qeUGRIw",
+      "title": "【コラボ】4人でSteelSeriesお揃い！！【空澄セナ/ぶいすぽっ！】",
+      "published": "2026-09-08T16:25:24.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-29T11:00:00.000Z",
+      "actualStart": "2026-09-29T11:00:11.000Z",
+      "typedBy": "data-api"
     },
     {
       "id": "HkvoU1oDkHA",
