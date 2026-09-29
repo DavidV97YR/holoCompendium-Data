@@ -1,7 +1,7 @@
 {
   "channelId": "UC9LSiN9hXI55svYEBrrK-tw",
   "channelName": "Isaki Riona",
-  "lastUpdated": "2026-09-29T14:01:37.043Z",
+  "lastUpdated": "2026-09-29T15:02:09.015Z",
   "streams": {
     "9LpZ1cm-1zQ": {
       "cur": {
@@ -7565,8 +7565,19 @@
       "sent": 1
     },
     "4UR4XCh5-OA": {
-      "e": "http503",
-      "n": 0
+      "cur": {
+        "¥": 121157,
+        "NT$": 850,
+        "₩": 7000,
+        "HK$": 100,
+        "A$": 5
+      },
+      "sc": 140,
+      "member": 5,
+      "milestone": 15,
+      "gift": 6,
+      "recv": 40,
+      "sent": 45
     }
   }
 }
