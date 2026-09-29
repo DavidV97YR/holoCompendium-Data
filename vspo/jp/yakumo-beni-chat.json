@@ -1,7 +1,7 @@
 {
   "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
   "channelName": "Yakumo Beni",
-  "lastUpdated": "2026-09-29T12:06:02.321Z",
+  "lastUpdated": "2026-09-29T22:03:10.909Z",
   "streams": {
     "sL6SZO48BoY": {
       "cur": {
@@ -14796,6 +14796,16 @@
       },
       "sc": 2,
       "member": 1,
+      "milestone": 1
+    },
+    "FhUsZr6il-I": {
+      "cur": {
+        "¥": 1820,
+        "NT$": 300
+      },
+      "sc": 5,
+      "sticker": 1,
+      "member": 5,
       "milestone": 1
     }
   }
