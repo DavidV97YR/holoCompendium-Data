@@ -1,7 +1,7 @@
 {
   "channelId": "UCCzUftO8KOVkV4wQG1vkUvg",
   "channelName": "Houshou Marine",
-  "lastUpdated": "2026-09-27T16:17:44.508Z",
+  "lastUpdated": "2026-09-29T18:10:01.724Z",
   "streams": {
     "AZX3tWkfk3M": {
       "cur": {
@@ -14097,6 +14097,19 @@
       "gift": 5,
       "recv": 12,
       "sent": 17
+    },
+    "hiftM9MxlCs": {
+      "cur": {
+        "¥": 104623,
+        "₩": 8000,
+        "NT$": 30
+      },
+      "sc": 12,
+      "member": 3,
+      "milestone": 6,
+      "gift": 3,
+      "recv": 6,
+      "sent": 11
     }
   }
 }
