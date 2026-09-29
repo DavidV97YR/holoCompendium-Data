@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/t8oKW3u3BqieOUZ4j3d_qxV2fBEypIpVkq3vY2SYlOD2gblH-4fSjBOGW9O5eiOagOhhuUzA",
     "bannerUrl": "https://yt3.googleusercontent.com/JqeeIAMO79ydj7E_8PA1VrMFth8dMfNfPTI4RhxRKP-f8nK63cyZAY23_UrG725WyF-0Tn49=s0"
   },
-  "lastUpdated": "2026-09-29T15:13:15.632Z",
+  "lastUpdated": "2026-09-29T17:31:43.257Z",
   "videoCount": 1361,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "status": "live",
       "scheduledStart": "2026-09-29T13:30:00.000Z",
       "actualStart": "2026-09-29T13:30:49.000Z",
+      "typedBy": "data-api"
+    },
+    {
+      "id": "sy1GZ2Id1vA",
+      "title": "【PUBG】SteelSeriesさんのイヤホンを使ってドン勝するぞ！【ぶいすぽ / 猫汰つな】",
+      "published": "2026-09-29T12:08:17Z",
+      "type": "stream",
+      "duration": 3752,
+      "status": "past",
+      "scheduledStart": "2026-09-29T11:00:00.000Z",
+      "actualStart": "2026-09-29T11:00:08.000Z",
       "typedBy": "data-api"
     },
     {
@@ -34,7 +45,7 @@
     },
     {
       "id": "cCidd8wC3HA",
-      "title": "【APEX】WEしか勝たんのよ  w/きなこさん、VDK【ぶいすぽ / 猫汰つな】",
+      "title": "【APEX】WEしか勝たんのよ　 w/きなこさん、VDK【ぶいすぽ / 猫汰つな】",
       "published": "2026-09-27T17:47:55+00:00",
       "type": "stream",
       "duration": 17842,
@@ -337,17 +348,6 @@
       "status": "past",
       "scheduledStart": "2026-09-03T09:30:00.000Z",
       "actualStart": "2026-09-03T09:30:54.000Z"
-    },
-    {
-      "id": "sy1GZ2Id1vA",
-      "title": "【PUBG】SteelSeriesさんのイヤホンを使ってドン勝するぞ！【ぶいすぽ / 猫汰つな】",
-      "published": "2026-09-03T08:53:19.000Z",
-      "type": "stream",
-      "duration": 3780,
-      "status": "past",
-      "scheduledStart": "2026-09-29T11:00:00.000Z",
-      "actualStart": "2026-09-29T11:00:08.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "QpN8PTuM7HQ",
