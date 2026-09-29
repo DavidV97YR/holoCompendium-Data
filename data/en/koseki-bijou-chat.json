@@ -1,7 +1,7 @@
 {
   "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
   "channelName": "Koseki Bijou",
-  "lastUpdated": "2026-09-27T09:03:41.210Z",
+  "lastUpdated": "2026-09-29T08:02:09.606Z",
   "streams": {
     "In43SMi0dPE": {
       "cur": {
@@ -15125,6 +15125,25 @@
       "gift": 8,
       "recv": 141,
       "sent": 141
+    },
+    "PjjnGS9hBsA": {
+      "cur": {
+        "NT$": 150,
+        "HK$": 50,
+        "$": 216.96,
+        "¥": 820,
+        "₱": 500,
+        "CA$": 21.99,
+        "MYR": 23.9,
+        "£": 2,
+        "₫": 100000
+      },
+      "sc": 33,
+      "member": 3,
+      "milestone": 30,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }
