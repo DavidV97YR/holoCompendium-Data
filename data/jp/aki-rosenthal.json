@@ -7,27 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-09-29T14:30:46.312Z",
+  "lastUpdated": "2026-09-29T15:02:02.871Z",
   "videoCount": 1829,
   "videos": [
+    {
+      "id": "V65I-HIZsHw",
+      "title": "【ホロライブドリームス】新エリア遊びにいく！後半はメンバー限定でミニゲーム一緒にやりたい【ホロライブ/アキロゼ】",
+      "published": "2026-09-29T14:35:19+00:00",
+      "type": "stream",
+      "duration": 5014,
+      "status": "past",
+      "scheduledStart": "2026-09-29T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-09-29T13:04:26.000Z"
+    },
     {
       "id": "yFPnc8Szo_U",
       "title": "【メンバー限定/Member】ホロドリ！参加型ミニゲームで遊ぼ！【ホロライブ/アキロゼ】",
       "published": "2026-09-29T14:29:06.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "V65I-HIZsHw",
-      "title": "【ホロライブドリームス】新エリア遊びにいく！後半はメンバー限定でミニゲーム一緒にやりたい【ホロライブ/アキロゼ】",
-      "published": "2026-09-29T12:18:29.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-29T13:00:00.000Z",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-09-29T14:30:00.000Z",
+      "actualStart": "2026-09-29T14:32:43.000Z"
     },
     {
       "id": "CjSzYQVF9S4",
