@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
     "bannerUrl": "https://yt3.googleusercontent.com/EP1u-nLVWBd7baERapt2e_-iI4YVl1wCukSEmw0FP2CJFompE-7TtSlxG0uKk2oT5Kn8l54g1w=s0"
   },
-  "lastUpdated": "2026-09-29T05:11:35.166Z",
+  "lastUpdated": "2026-09-29T13:04:41.132Z",
   "videoCount": 2489,
   "videos": [
     {
@@ -26,9 +26,10 @@
       "published": "2026-09-28T22:59:48.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-29T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-29T12:03:25.000Z"
     },
     {
       "id": "Hy-Q7BedPLY",
@@ -92,7 +93,7 @@
     },
     {
       "id": "ShgTs2dOmhc",
-      "title": "【OHAPOL】#204 9/24木曜日!伝説のモーニング配信 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+      "title": "【OHAPOL】#205 9/24木曜日!伝説のモーニング配信 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
       "published": "2026-09-23T22:51:33+00:00",
       "type": "stream",
       "duration": 6393,

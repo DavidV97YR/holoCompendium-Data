@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
     "bannerUrl": "https://yt3.googleusercontent.com/UvLAarOsnyYFmBW4CnB8gQAO_WjxhmR3GHzxLtEd2gC7vp0E6ngpCoWoRuZo0ymAP94WTELz=s0"
   },
-  "lastUpdated": "2026-09-29T11:03:07.368Z",
+  "lastUpdated": "2026-09-29T13:03:15.461Z",
   "videoCount": 1519,
   "videos": [
     {
@@ -16,13 +16,14 @@
       "published": "2026-09-29T08:05:11.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-29T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-29T12:00:44.000Z"
     },
     {
       "id": "h3joGokdAiM",
-      "title": "【バイオハザード HDリマスター】やるです。経験者です。楽勝です。",
+      "title": "#1【バイオハザード HDリマスター】やるです。",
       "published": "2026-09-28T16:18:29Z",
       "type": "stream",
       "duration": 14843,
