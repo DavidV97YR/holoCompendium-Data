@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-09-30T07:01:01.227Z",
+  "lastUpdated": "2026-09-30T11:10:28.859Z",
   "videoCount": 174,
   "videos": [
+    {
+      "id": "SwJOyPosScg",
+      "title": "【ゼルダの伝説 】退魔の剣を手に入れたい！＆目指せ盾パリィ習得【 #UNIT_B / #清澄ライラ】",
+      "published": "2026-09-30T09:23:32+00:00",
+      "type": "stream",
+      "duration": 15119,
+      "status": "past",
+      "scheduledStart": "2026-09-30T05:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T04:58:06.000Z"
+    },
     {
       "id": "kGGx1gUwzso",
       "title": "【LOSER/米津玄師】歌わせていただきました【 #UNIT_B / #清澄ライラ】",
@@ -25,9 +36,10 @@
       "published": "2026-09-29T12:59:12.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-30T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T10:59:53.000Z"
     },
     {
       "id": "NlJfrSItSDM",
@@ -35,9 +47,10 @@
       "published": "2026-09-29T12:55:50.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-30T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T10:59:33.000Z"
     },
     {
       "id": "b7DD_HNdHu0",
@@ -70,25 +83,15 @@
       "typedBy": "innertube"
     },
     {
-      "id": "SwJOyPosScg",
-      "title": "【ゼルダの伝説 】退魔の剣を手に入れたい！＆目指せ盾パリィ習得【 #UNIT_B / #清澄ライラ】",
-      "published": "2026-09-29T07:09:04.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-30T05:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-09-30T04:58:06.000Z"
-    },
-    {
       "id": "8Yg-InhEaPk",
       "title": "【BOMBANANA!】見ざる、聞かざる、言わざる。【 #UNIT_B / ネオン視点】",
       "published": "2026-09-29T06:21:32.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-30T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T10:59:27.000Z"
     },
     {
       "id": "zS2GkMjSI8k",
