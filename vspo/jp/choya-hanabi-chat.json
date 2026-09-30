@@ -1,7 +1,7 @@
 {
   "channelId": "UCL9hJsdk9eQa0IlWbFB2oRg",
   "channelName": "Choya Hanabi",
-  "lastUpdated": "2026-09-29T09:03:10.845Z",
+  "lastUpdated": "2026-09-30T04:02:02.701Z",
   "streams": {
     "6Msg_fkjYJ0": {
       "cur": {
@@ -5889,6 +5889,18 @@
       },
       "sc": 10,
       "member": 1
+    },
+    "_uK6Hjy9CJg": {
+      "cur": {
+        "¥": 21715,
+        "₩": 10000,
+        "NT$": 15
+      },
+      "sc": 40,
+      "member": 1,
+      "gift": 2,
+      "recv": 100,
+      "sent": 100
     }
   }
 }
