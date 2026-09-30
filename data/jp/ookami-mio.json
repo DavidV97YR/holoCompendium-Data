@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-09-30T12:30:48.750Z",
+  "lastUpdated": "2026-09-30T13:02:50.739Z",
   "videoCount": 1663,
   "videos": [
     {
@@ -35,10 +35,11 @@
       "title": "【Balatro】イカサマでポーカーに勝ちまくる？！ビルド系ポーカーです【ホロライブ/大神ミオ】",
       "published": "2026-09-30T09:49:01.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 31,
+      "status": "past",
       "scheduledStart": "2026-09-30T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T12:00:54.000Z"
     },
     {
       "id": "aPA_5mR3llY",
