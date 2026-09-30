@@ -43,10 +43,10 @@ jobs:
           exit 1
 
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
 
@@ -90,7 +90,7 @@ jobs:
       # Each roster gets its own catalogue, popular.json and ranks.json. The
       # hololive files keep their names; VSPO!'s go under vspo/ in the bucket.
       - name: Setup Node.js 24 for the catalogue
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '24'
 
