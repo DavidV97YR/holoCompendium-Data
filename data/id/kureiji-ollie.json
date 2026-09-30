@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-09-30T13:05:59.202Z",
+  "lastUpdated": "2026-09-30T15:06:04.976Z",
   "videoCount": 1800,
   "videos": [
+    {
+      "id": "vlJ4s7NvxVk",
+      "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
+      "published": "2026-09-30T14:45:24+00:00",
+      "type": "stream",
+      "duration": 8785,
+      "status": "past",
+      "scheduledStart": "2026-09-30T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T12:03:06.000Z"
+    },
     {
       "id": "Ci0ZDtpeays",
       "title": "【FREETALK - RAKU】 MESSING AROUND IN THE NEW 3D ROOM!! 【Kureiji Ollie】",
@@ -52,17 +63,6 @@
       "scheduledStart": "2026-09-28T13:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-09-28T13:02:29.000Z"
-    },
-    {
-      "id": "vlJ4s7NvxVk",
-      "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
-      "published": "2026-09-28T12:58:41.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-30T12:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-09-30T12:03:06.000Z"
     },
     {
       "id": "x4eIbYKOZXo",

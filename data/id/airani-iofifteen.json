@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-09-30T15:00:48.958Z",
+  "lastUpdated": "2026-09-30T15:05:39.249Z",
   "videoCount": 1822,
   "videos": [
     {
@@ -31,6 +31,17 @@
       "typedBy": "innertube"
     },
     {
+      "id": "WZCqlQZ_ss8",
+      "title": "【#holodori 】Multi Minigames! And Live【 iofi / hololive】",
+      "published": "2026-09-30T14:34:49+00:00",
+      "type": "stream",
+      "duration": 4986,
+      "status": "past",
+      "scheduledStart": "2026-09-30T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T13:01:57.000Z"
+    },
+    {
       "id": "Xatu14OogO8",
       "title": "【 #holoctober 】 KICK OFF! DAY 1 : STICKMAN【 iofi / hololive】",
       "published": "2026-09-30T14:32:15.000Z",
@@ -38,16 +49,6 @@
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-10-01T13:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "WZCqlQZ_ss8",
-      "title": "【#holodori 】Multi Minigames! And Live【 iofi / hololive】",
-      "published": "2026-09-30T07:47:13.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-09-30T13:00:00.000Z",
       "typedBy": "innertube"
     },
     {

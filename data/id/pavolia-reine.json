@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
     "bannerUrl": "https://yt3.googleusercontent.com/7ONLBzfLI1l1HdGA7hIHkiaqrTwobf_YTGfJCA0Ghu6oRDronIJxkdbIGjr0KDUGsyI74zc0YA=s0"
   },
-  "lastUpdated": "2026-09-30T13:06:15.702Z",
+  "lastUpdated": "2026-09-30T15:06:24.173Z",
   "videoCount": 2061,
   "videos": [
     {
-      "id": "Ha4tLWbWnnE",
-      "title": "【hololive Dreams】1-Hour Fishing #holodori【Pavolia Reine/hololive】",
-      "published": "2026-09-30T12:58:59.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-09-30T14:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
       "id": "enOCOvvHWII",
       "title": "Vacation With Crush Goes Wrong in Blood Lily: Killers Can't Sink a Yuri Ship【Pavolia Reine/hololive】",
-      "published": "2026-09-30T07:30:01.000Z",
+      "published": "2026-09-30T13:06:23+00:00",
       "type": "stream",
       "duration": 13864,
       "status": "past",
       "scheduledStart": "2026-09-30T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-09-30T09:03:28.000Z"
+    },
+    {
+      "id": "Ha4tLWbWnnE",
+      "title": "【hololive Dreams】1-Hour Fishing #holodori【Pavolia Reine/hololive】",
+      "published": "2026-09-30T12:58:59.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-09-30T14:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T14:00:36.000Z"
     },
     {
       "id": "evwXzfFKzPQ",

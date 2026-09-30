@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-09-30T11:10:05.706Z",
+  "lastUpdated": "2026-09-30T15:10:14.869Z",
   "videoCount": 174,
   "videos": [
     {
@@ -35,8 +35,8 @@
       "title": "【BOMBANANA!】見ざる、聞かざる、言わざる。【 #UNIT_B / ライラ視点】",
       "published": "2026-09-29T12:59:12.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 9129,
+      "status": "past",
       "scheduledStart": "2026-09-30T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-09-30T10:59:53.000Z"
@@ -46,8 +46,8 @@
       "title": "【BOMBANANA!】見ざる、聞かざる、言わざる。【 #UNIT_B / ミラ視点】",
       "published": "2026-09-29T12:55:50.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 9147,
+      "status": "past",
       "scheduledStart": "2026-09-30T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-09-30T10:59:33.000Z"
@@ -78,17 +78,18 @@
       "published": "2026-09-29T07:48:37.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-09-30T14:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-09-30T14:01:28.000Z"
     },
     {
       "id": "8Yg-InhEaPk",
       "title": "【BOMBANANA!】見ざる、聞かざる、言わざる。【 #UNIT_B / ネオン視点】",
       "published": "2026-09-29T06:21:32.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 9155,
+      "status": "past",
       "scheduledStart": "2026-09-30T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-09-30T10:59:27.000Z"
