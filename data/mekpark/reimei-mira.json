@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-01T07:01:17.986Z",
+  "lastUpdated": "2026-10-01T09:10:03.765Z",
   "videoCount": 176,
   "videos": [
     {
@@ -15,8 +15,8 @@
       "title": "【スプラ3】第1回A帯脱出計画 #UNIT_B / #玲銘ミラ】",
       "published": "2026-10-01T03:47:58.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 15833,
+      "status": "past",
       "scheduledStart": "2026-10-01T04:30:00.000Z",
       "actualStart": "2026-10-01T04:33:19.000Z",
       "typedBy": "data-api"
@@ -38,7 +38,7 @@
       "published": "2026-09-30T16:00:16.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-01T09:00:00.000Z",
       "typedBy": "innertube"
     },
