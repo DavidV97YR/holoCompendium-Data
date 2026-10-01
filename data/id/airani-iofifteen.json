@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-10-01T13:05:32.579Z",
+  "lastUpdated": "2026-10-01T15:05:33.084Z",
   "videoCount": 1822,
   "videos": [
+    {
+      "id": "x9F-2UR4oJ8",
+      "title": "【#holodori 】FC Songs!【 iofi / hololive】",
+      "published": "2026-10-01T13:14:19+00:00",
+      "type": "stream",
+      "duration": 3882,
+      "status": "past",
+      "scheduledStart": "2026-10-01T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T12:02:42.000Z"
+    },
     {
       "id": "dy0y6uIvo6M",
       "title": "【TCG CARD SHOP SIM】Hi there beautiful【 iofi / hololive】",
@@ -20,17 +31,6 @@
       "scheduledStart": "2026-10-01T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-01T09:00:10.000Z"
-    },
-    {
-      "id": "x9F-2UR4oJ8",
-      "title": "【#holodori 】FC Songs!【 iofi / hololive】",
-      "published": "2026-09-30T14:44:24.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-01T12:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-01T12:02:42.000Z"
     },
     {
       "id": "WZCqlQZ_ss8",
@@ -49,9 +49,10 @@
       "published": "2026-09-30T14:32:15.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-01T14:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T14:01:12.000Z"
     },
     {
       "id": "NR6iA0T0kP4",
