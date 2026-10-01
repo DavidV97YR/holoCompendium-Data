@@ -1,7 +1,7 @@
 {
   "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
   "channelName": "Arya Kuroha",
-  "lastUpdated": "2026-09-29T09:01:19.129Z",
+  "lastUpdated": "2026-10-01T00:01:28.682Z",
   "streams": {
     "dCWRZUezxhk": {
       "member": 1,
@@ -4108,6 +4108,13 @@
       "recv": 30,
       "sent": 30
     },
-    "a_Wl95RMap0": 0
+    "a_Wl95RMap0": 0,
+    "5SarhnVfy3g": {
+      "cur": {
+        "NZ$": 8.99
+      },
+      "sc": 1,
+      "milestone": 1
+    }
   }
 }
