@@ -1,7 +1,7 @@
 {
   "channelId": "UC5LyYg6cCA4yHEYvtUsir3g",
   "channelName": "Ichinose Uruha",
-  "lastUpdated": "2026-10-01T18:14:01.350Z",
+  "lastUpdated": "2026-10-01T19:03:39.502Z",
   "streams": {
     "jLzEiITrba4": {
       "cur": {
@@ -18067,8 +18067,12 @@
       "sent": 5
     },
     "LxQNn8PCRds": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 3568
+      },
+      "sc": 8,
+      "sticker": 1,
+      "member": 3
     }
   }
 }
