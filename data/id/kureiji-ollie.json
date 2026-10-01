@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-10-01T07:05:36.704Z",
+  "lastUpdated": "2026-10-01T17:28:34.986Z",
   "videoCount": 1801,
   "videos": [
+    {
+      "id": "PJv4XSMhjps",
+      "title": "【hololive Dreams】 SPLASH BALL PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
+      "published": "2026-10-01T11:57:39Z",
+      "type": "stream",
+      "duration": 5265,
+      "status": "past",
+      "scheduledStart": "2026-10-01T04:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T04:01:37.000Z"
+    },
     {
       "id": "vlJ4s7NvxVk",
       "title": "【hololive Dreams】 FISH-RELATED STREAM #holodori #ホロドリ 【Kureiji Ollie】",
@@ -173,17 +184,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-02T04:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "PJv4XSMhjps",
-      "title": "【hololive Dreams】 SPLASH BALL PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
-      "published": "2026-09-27T08:38:00.000Z",
-      "type": "stream",
-      "duration": 5258,
-      "status": "past",
-      "scheduledStart": "2026-10-01T04:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-01T04:01:37.000Z"
     },
     {
       "id": "n0HdG-SqM0k",
