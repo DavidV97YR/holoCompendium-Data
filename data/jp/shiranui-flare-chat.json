@@ -1,7 +1,7 @@
 {
   "channelId": "UCvInZx9h3jC2JzsIzoOebWg",
   "channelName": "Shiranui Flare",
-  "lastUpdated": "2026-09-30T20:01:59.568Z",
+  "lastUpdated": "2026-10-01T18:10:41.965Z",
   "streams": {
     "voVBqT4K4PU": {
       "cur": {
@@ -21701,6 +21701,19 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "x38YQN5B9zk": {
+      "cur": {
+        "NT$": 15,
+        "¥": 5000,
+        "HK$": 38
+      },
+      "sc": 8,
+      "member": 2,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
     }
   }
 }

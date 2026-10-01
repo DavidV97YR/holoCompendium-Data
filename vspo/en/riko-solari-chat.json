@@ -1,7 +1,7 @@
 {
   "channelId": "UC7Xglp1fske9zmRe7Oj8YyA",
   "channelName": "Riko Solari",
-  "lastUpdated": "2026-09-30T18:16:25.669Z",
+  "lastUpdated": "2026-10-01T18:13:21.131Z",
   "streams": {
     "giumS9mdxpQ": {
       "cur": {
@@ -3663,6 +3663,10 @@
         "$": 2
       },
       "sc": 1
+    },
+    "2HfIsWWBBMg": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
