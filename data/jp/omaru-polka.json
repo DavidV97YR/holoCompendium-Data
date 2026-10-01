@@ -7,18 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
     "bannerUrl": "https://yt3.googleusercontent.com/EP1u-nLVWBd7baERapt2e_-iI4YVl1wCukSEmw0FP2CJFompE-7TtSlxG0uKk2oT5Kn8l54g1w=s0"
   },
-  "lastUpdated": "2026-10-01T07:01:06.847Z",
+  "lastUpdated": "2026-10-01T11:04:55.173Z",
   "videoCount": 2494,
   "videos": [
     {
       "id": "jbplP2yCo3Y",
       "title": "【ポルカの伝説】最強のお弁当を作りたい",
-      "published": "2026-10-01T03:04:10.000Z",
+      "published": "2026-10-01T09:30:08+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 587,
+      "status": "past",
       "scheduledStart": "2026-10-01T09:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T09:30:08.000Z"
     },
     {
       "id": "FDPk8xTorBg",
@@ -26,9 +27,10 @@
       "published": "2026-10-01T02:33:57.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-01T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T09:59:47.000Z"
     },
     {
       "id": "nbj6P1YQ7Dw",

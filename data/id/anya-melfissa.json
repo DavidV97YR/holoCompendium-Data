@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
     "bannerUrl": "https://yt3.googleusercontent.com/t-qfe1FvO8_VCsEYqzGSGeaRid25fJ3A0_PQ8pBQ7pvMkZDF3g8cH2PYrQgOsZwvLWdRxXnT6A=s0"
   },
-  "lastUpdated": "2026-10-01T10:00:55.436Z",
+  "lastUpdated": "2026-10-01T11:06:38.745Z",
   "videoCount": 1248,
   "videos": [
     {
@@ -37,10 +37,11 @@
       "title": "【#マイクラ肝試し2026】MINECRAFT TEST OF COURAGE ~ 2026 MAP ふれわたーニャで肝試し本番！！ 【hololive holoro | Anya Melfissa】",
       "published": "2026-09-30T11:17:29.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 101,
+      "status": "past",
       "scheduledStart": "2026-10-01T09:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T09:35:34.000Z"
     },
     {
       "id": "ZqzLMBhCoqI",

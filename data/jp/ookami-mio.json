@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0"
   },
-  "lastUpdated": "2026-10-01T05:06:04.099Z",
+  "lastUpdated": "2026-10-01T11:03:08.436Z",
   "videoCount": 1663,
   "videos": [
     {
@@ -27,9 +27,10 @@
       "published": "2026-09-30T10:02:24.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-01T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-01T09:00:19.000Z"
     },
     {
       "id": "2x3nntd5vs0",
@@ -47,7 +48,7 @@
       "title": "【歌枠】たくさん歌っていたけど、歌枠は久しぶりです🎤【ホロライブ/大神ミオ】",
       "published": "2026-09-30T09:15:15+00:00",
       "type": "stream",
-      "duration": 4721,
+      "duration": 4425,
       "status": "past",
       "scheduledStart": "2026-09-29T12:00:00.000Z",
       "typedBy": "innertube",
