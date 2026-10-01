@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/9cJ6zJabky32vTsNMD4NdQQrCIttzqpmC_kW55tKwJuh6OUiCs8MVziidVYfJOa9dBLlgcNwHw",
     "bannerUrl": "https://yt3.googleusercontent.com/9bfb9tFVbz7rTqCRPnW6pm8Bav8mM07z39OgiwyOfMRdxLrbWVzFpEZVvNzUzmadueIKl90ORg=s0"
   },
-  "lastUpdated": "2026-10-01T11:31:23.903Z",
+  "lastUpdated": "2026-10-01T13:11:33.714Z",
   "videoCount": 1993,
   "videos": [
+    {
+      "id": "nTRSL_ia_RA",
+      "title": "【妹に運転を教える】説明下手だけど優しく教えることはできるよ^^【ぶいすぽ/兎咲ミミ】",
+      "published": "2026-10-01T11:33:56+00:00",
+      "type": "stream",
+      "duration": 5616,
+      "status": "past",
+      "scheduledStart": "2026-10-01T10:00:00.000Z",
+      "actualStart": "2026-10-01T09:45:10.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "MApO2NHqowk",
       "title": "【メンバー限定】ちる",
       "published": "2026-10-01T11:22:00.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 6120,
+      "status": "past",
       "actualStart": "2026-10-01T11:26:53.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "nTRSL_ia_RA",
-      "title": "【妹に運転を教える】説明下手だけど優しく教えることはできるよ^^【ぶいすぽ/兎咲ミミ】",
-      "published": "2026-10-01T09:34:57.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-01T10:00:00.000Z",
-      "actualStart": "2026-10-01T09:45:10.000Z",
-      "typedBy": "data-api"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-01T11:30:00.000Z"
     },
     {
       "id": "dzXFNl9ruZo",
