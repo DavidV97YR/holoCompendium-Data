@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/IwEr_84NWbwSIRj6ZG3pt0yBieCqPcUwG978KkMw1HiVtorKvHhX3ZaLqOndMAfSU8S9aJw",
     "bannerUrl": "https://yt3.googleusercontent.com/1bjfFf_puKrXk8nnfnnjWmcEsgcAQd4s7ogcpdQ8TVMmk5dRLlJtJNfeK2U1uw8hZHGtphvMVg=s0"
   },
-  "lastUpdated": "2026-10-02T13:00:38.956Z",
+  "lastUpdated": "2026-10-02T13:09:28.350Z",
   "videoCount": 1144,
   "videos": [
+    {
+      "id": "k5-tsJOnn4I",
+      "title": "【妹に運転を教える】ねえ聞こえてる？【轟はじめ/ホロライブReGLOSS】",
+      "published": "2026-10-02T12:37:12+00:00",
+      "type": "stream",
+      "duration": 5497,
+      "status": "past",
+      "scheduledStart": "2026-10-02T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-02T11:00:17.000Z"
+    },
     {
       "id": "ODY69VwMZbg",
       "title": "【Dressmaker】ドレスは女の子の夢【轟はじめ/ホロライブReGLOSS】",
@@ -48,17 +59,6 @@
       "duration": 11,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "k5-tsJOnn4I",
-      "title": "【妹に運転を教える】ねえ聞こえてる？【轟はじめ/ホロライブReGLOSS】",
-      "published": "2026-09-29T11:43:30.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-02T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-02T11:00:17.000Z"
     },
     {
       "id": "g96gVmSDfCA",

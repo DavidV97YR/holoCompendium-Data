@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/lBR2WoXWscLmYRBvwkwJBQR8-hkPl3aWzEZWzIlRLLG2hJMY-JZxwQ7Cc_EGqcyxqbzfMEzi",
     "bannerUrl": "https://yt3.googleusercontent.com/JCY2pnKwXdJ-vz9kY_UBwmFMMiql7X3Ic57KIlRaCDkaas_XAOLoitDUDuipD1qBKgcH_Dx5NQ=s0"
   },
-  "lastUpdated": "2026-10-02T12:31:02.132Z",
+  "lastUpdated": "2026-10-02T13:12:15.007Z",
   "videoCount": 1517,
   "videos": [
     {
@@ -16,8 +16,21 @@
       "published": "2026-10-02T12:21:25.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-02T12:30:00.000Z",
+      "actualStart": "2026-10-02T12:31:17.000Z"
+    },
+    {
+      "id": "vMr5WfaLOi0",
+      "title": "【m HOLD’EM】復刻コラボがくるらしいですよ！！【空澄セナ/ぶいすぽっ！】",
+      "published": "2026-10-02T12:06:38+00:00",
+      "type": "stream",
+      "duration": 3699,
+      "status": "past",
+      "scheduledStart": "2026-10-02T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-02T11:01:21.000Z"
     },
     {
       "id": "5V0Cr4NB4Bw",
@@ -80,17 +93,6 @@
       "duration": 60,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "vMr5WfaLOi0",
-      "title": "【m HOLD'EM】復刻コラボがくるらしいですよ!!【空澄セナ/ぶいすぽっ!】",
-      "published": "2026-09-28T08:06:12.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-02T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-02T11:01:21.000Z"
     },
     {
       "id": "KqEu9ALMGjA",
