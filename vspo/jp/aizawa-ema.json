@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wuec9EJq49vLP5Urd_Jtr-2-UcRnKA_Z0VffwgIV5OCkrdiYqKURoN8q431M6MxCnGzMGDtlLw",
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0"
   },
-  "lastUpdated": "2026-10-02T17:01:08.782Z",
+  "lastUpdated": "2026-10-02T17:31:59.114Z",
   "videoCount": 1757,
   "videos": [
     {
@@ -21,11 +21,22 @@
       "typedBy": "innertube"
     },
     {
+      "id": "dNoHoT0wsN4",
+      "title": "【m HOLD’EM】m HOLD’EM×ぶいすぽの復刻コラボイベントが始まる！✨【ぶいすぽっ！/ 藍沢エマ】",
+      "published": "2026-10-02T12:08:49Z",
+      "type": "stream",
+      "duration": 3766,
+      "status": "past",
+      "scheduledStart": "2026-10-02T11:00:00.000Z",
+      "actualStart": "2026-10-02T11:00:40.000Z",
+      "typedBy": "data-api"
+    },
+    {
       "id": "j2wl1fPUN8U",
       "title": "【スト6】たくさんねてしまった・・・【ぶいすぽっ！/ 藍沢エマ】",
       "published": "2026-10-02T09:43:16+00:00",
       "type": "stream",
-      "duration": 12637,
+      "duration": 12638,
       "status": "past",
       "scheduledStart": "2026-10-02T06:00:00.000Z",
       "actualStart": "2026-10-02T05:55:29.000Z",
@@ -159,10 +170,11 @@
       "id": "ktKmjGJHmAU",
       "title": "5周年記念グッズ発売中！★受注生産10/2まで！★",
       "published": "2026-09-24T13:50:40Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-02T14:45:00.000Z"
+      "type": "member",
+      "duration": 967,
+      "status": "past",
+      "scheduledStart": "2026-10-02T14:45:00.000Z",
+      "actualStart": "2026-10-02T17:14:10.000Z"
     },
     {
       "id": "ojZGVsjjDL0",
@@ -263,17 +275,6 @@
       "status": "past",
       "scheduledStart": "2026-09-18T22:00:00.000Z",
       "actualStart": "2026-09-18T22:00:06.000Z"
-    },
-    {
-      "id": "dNoHoT0wsN4",
-      "title": "【m HOLD’EM】m HOLD’EM×ぶいすぽの復刻コラボイベントが始まる！✨【ぶいすぽっ！/ 藍沢エマ】",
-      "published": "2026-09-18T15:24:30.000Z",
-      "type": "stream",
-      "duration": 3764,
-      "status": "past",
-      "scheduledStart": "2026-10-02T11:00:00.000Z",
-      "actualStart": "2026-10-02T11:00:40.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "y6NsHlzSr3k",
