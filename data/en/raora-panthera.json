@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0"
   },
-  "lastUpdated": "2026-10-02T07:30:36.100Z",
+  "lastUpdated": "2026-10-02T09:08:28.099Z",
   "videoCount": 554,
   "videos": [
     {
@@ -15,9 +15,11 @@
       "title": "THIS IS A TEST STREAM RAO RAO",
       "published": "2026-10-02T07:30:08.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 4797,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-02T07:30:08.000Z",
+      "actualStart": "2026-10-02T07:32:17.000Z"
     },
     {
       "id": "aoFsQp_pWmc",
