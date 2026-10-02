@@ -1,7 +1,7 @@
 {
   "channelId": "UCIcAj6WkJ8vZ7DeJVgmeqKw",
   "channelName": "Kurumi Noah",
-  "lastUpdated": "2026-10-02T21:01:51.290Z",
+  "lastUpdated": "2026-10-02T22:02:14.649Z",
   "streams": {
     "NrEWpd5yA8o": {
       "cur": {
@@ -21682,11 +21682,16 @@
     },
     "yTzkcFh_lgw": {
       "e": "noreplay",
-      "n": 8
+      "n": 9
     },
     "JawD7Ojzwvg": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "¥": 16190,
+        "NT$": 30,
+        "HK$": 50
+      },
+      "sc": 29,
+      "member": 1
     }
   }
 }
