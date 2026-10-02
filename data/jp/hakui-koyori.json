@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
     "bannerUrl": "https://yt3.googleusercontent.com/vNCRYP8INcAEM3Z85s1UmVMaZ1lvD0FF1ID0sC61bkCPhLqB8zv9d3-UysiE3UcgMMLEk2qGEXU=s0"
   },
-  "lastUpdated": "2026-10-02T19:00:55.325Z",
+  "lastUpdated": "2026-10-02T19:04:47.784Z",
   "videoCount": 3495,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-04T10:00:00.000Z",
       "typedBy": "innertube"
+    },
+    {
+      "id": "vgMLFzr7LZA",
+      "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目春の甲子園へ！⚾3連覇するぞ！🏆✨【博衣こより/ホロライブ】",
+      "published": "2026-10-02T18:12:41+00:00",
+      "type": "stream",
+      "duration": 24750,
+      "status": "past",
+      "scheduledStart": "2026-10-02T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-02T11:02:46.000Z"
     },
     {
       "id": "_DaNHhyTHA8",
@@ -79,17 +90,6 @@
       "duration": 18,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "vgMLFzr7LZA",
-      "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目春の甲子園へ！⚾3連覇するぞ！🏆✨【博衣こより/ホロライブ】",
-      "published": "2026-10-01T06:00:57.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-02T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-02T11:02:46.000Z"
     },
     {
       "id": "k6396BuDH-w",
