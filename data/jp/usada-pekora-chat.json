@@ -1,7 +1,7 @@
 {
   "channelId": "UC1DCedRgGHBdm81E1llLhOQ",
   "channelName": "Usada Pekora",
-  "lastUpdated": "2026-10-02T14:10:34.357Z",
+  "lastUpdated": "2026-10-02T16:11:25.605Z",
   "streams": {
     "jIwPff9zoZI": {
       "cur": {
@@ -32314,6 +32314,10 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "h1ARhYO5RNo": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
