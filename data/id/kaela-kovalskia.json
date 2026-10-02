@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
     "bannerUrl": "https://yt3.googleusercontent.com/JhknNUVHVa8KZ9zxZ0MGMi3pV3BevLvL1TQNVUCZU9MlKLnH20rU1-ZF_zXCRiuP29ye3U24d5w=s0"
   },
-  "lastUpdated": "2026-10-02T13:06:50.389Z",
+  "lastUpdated": "2026-10-02T15:06:37.474Z",
   "videoCount": 1757,
   "videos": [
+    {
+      "id": "3GT_OxyYoaE",
+      "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
+      "published": "2026-10-02T14:59:23+00:00",
+      "type": "stream",
+      "duration": 6346,
+      "status": "past",
+      "scheduledStart": "2026-10-02T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-02T12:59:17.000Z"
+    },
     {
       "id": "z3_J7k_DahM",
       "title": "【hololive Dreams】what da holoh3ro doing now 【#holodori】",
@@ -26,20 +37,10 @@
       "published": "2026-10-02T01:24:04.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-02T14:45:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "3GT_OxyYoaE",
-      "title": "【hololive Dreams】what da GRAONDSTONE doing today?【#holodori】",
-      "published": "2026-10-02T01:09:41.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-02T13:00:00.000Z",
+      "scheduledStart": "2026-10-02T14:45:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-02T12:59:17.000Z"
+      "actualStart": "2026-10-02T14:46:28.000Z"
     },
     {
       "id": "pPXaqk00utA",
@@ -54,7 +55,7 @@
     },
     {
       "id": "B7fT6-qr-Ds",
-      "title": "【hololive Dreams】GRINDSTONE is back after 67000 years #holodori",
+      "title": "【hololive Dreams】GRINDSTONE is back after 67000 years  #holodori",
       "published": "2026-09-30T17:08:33Z",
       "type": "stream",
       "duration": 12362,
