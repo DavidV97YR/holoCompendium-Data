@@ -288,8 +288,11 @@ function main() {
       const paid    = isAnalysed(summary) ? summary : null;
       // Chat walked, money or not. A 0 is a stream read with nothing paid in it
       // (a debut before Super Chats are switched on), which the page must not
-      // report as "not read yet".
-      const read    = summary === 0 || !!paid;
+      // report as "not read yet". A 0-second stream (a frame that never
+      // started, a pre-debut test) has no chat to read, so it counts as read
+      // too, or it held its talent on "Chat Not Read Yet" for good. It still
+      // counts as a stream, as frames always have.
+      const read    = summary === 0 || !!paid || !(v.duration > 0);
       const yen     = paid ? toYen(paid.cur || {}) : 0;
 
       // When it started, which is what every page shows. published is the VOD
