@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-10-03T16:30:42.740Z",
+  "lastUpdated": "2026-10-03T17:06:06.709Z",
   "videoCount": 1225,
   "videos": [
     {
@@ -23,12 +23,13 @@
     {
       "id": "sS0uGlhH3js",
       "title": "【Hololive Dreams】It's Gacha time!【hololive | moona】",
-      "published": "2026-10-03T12:06:18.000Z",
+      "published": "2026-10-03T14:34:35+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4374,
+      "status": "past",
       "scheduledStart": "2026-10-03T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-03T13:02:12.000Z"
     },
     {
       "id": "r824CVNNLUI",
