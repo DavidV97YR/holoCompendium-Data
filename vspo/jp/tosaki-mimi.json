@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/9cJ6zJabky32vTsNMD4NdQQrCIttzqpmC_kW55tKwJuh6OUiCs8MVziidVYfJOa9dBLlgcNwHw",
     "bannerUrl": "https://yt3.googleusercontent.com/9bfb9tFVbz7rTqCRPnW6pm8Bav8mM07z39OgiwyOfMRdxLrbWVzFpEZVvNzUzmadueIKl90ORg=s0"
   },
-  "lastUpdated": "2026-10-03T12:01:16.332Z",
+  "lastUpdated": "2026-10-03T13:11:43.656Z",
   "videoCount": 1995,
   "videos": [
+    {
+      "id": "uEGSj4aqVek",
+      "title": "【VALORANT 】そろこんぺ【ぶいすぽ/兎咲ミミ】",
+      "published": "2026-10-03T11:53:27+00:00",
+      "type": "stream",
+      "duration": 12207,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-03T08:00:00.000Z",
+      "actualStart": "2026-10-03T08:13:55.000Z"
+    },
     {
       "id": "UHfX__0rG4E",
       "title": "【メンバー限定】同時視聴：プロジェクト.ヘイル.メアリー",
@@ -18,18 +29,8 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-10-03T11:44:34.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "uEGSj4aqVek",
-      "title": "【VALORANT 】そろこんぺ【ぶいすぽ/兎咲ミミ】",
-      "published": "2026-10-03T07:52:05.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
       "typedBy": "innertube",
-      "scheduledStart": "2026-10-03T08:00:00.000Z",
-      "actualStart": "2026-10-03T08:13:55.000Z"
+      "scheduledStart": "2026-10-03T11:40:00.000Z"
     },
     {
       "id": "nTRSL_ia_RA",
