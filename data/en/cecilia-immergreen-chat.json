@@ -1,7 +1,7 @@
 {
   "channelId": "UCvN5h1ShZtc7nly3pezRayg",
   "channelName": "Cecilia Immergreen",
-  "lastUpdated": "2026-09-29T10:01:36.665Z",
+  "lastUpdated": "2026-10-04T00:03:22.882Z",
   "streams": {
     "L-MQsH7kNzE": {
       "cur": {
@@ -6579,6 +6579,48 @@
     "NjvAkQy9FBI": {
       "member": 1,
       "milestone": 4
+    },
+    "nl7VxDtpbKA": {
+      "cur": {
+        "$": 2539.72,
+        "CA$": 345,
+        "HK$": 2307,
+        "€": 820.72,
+        "¥": 40040,
+        "NT$": 1370,
+        "IDR": 970000,
+        "RON": 150,
+        "SEK": 450,
+        "£": 138.98,
+        "₩": 131000,
+        "₫": 300000,
+        "ARS": 19700,
+        "SGD": 22,
+        "₱": 2098,
+        "₪": 6,
+        "MYR": 150,
+        "TRY": 209,
+        "MX$": 280,
+        "R$": 69,
+        "CLP": 7500,
+        "CZK": 1100,
+        "PLN": 110,
+        "THB": 200,
+        "HUF": 400,
+        "NGN": 400,
+        "NOK": 1100,
+        "SAR": 10,
+        "CRC": 1000,
+        "PEN": 10,
+        "A$": 40
+      },
+      "sc": 503,
+      "sticker": 2,
+      "member": 17,
+      "milestone": 505,
+      "gift": 7,
+      "recv": 67,
+      "sent": 77
     }
   }
 }
