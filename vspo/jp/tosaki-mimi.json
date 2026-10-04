@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/9cJ6zJabky32vTsNMD4NdQQrCIttzqpmC_kW55tKwJuh6OUiCs8MVziidVYfJOa9dBLlgcNwHw",
     "bannerUrl": "https://yt3.googleusercontent.com/9bfb9tFVbz7rTqCRPnW6pm8Bav8mM07z39OgiwyOfMRdxLrbWVzFpEZVvNzUzmadueIKl90ORg=s0"
   },
-  "lastUpdated": "2026-10-04T13:01:13.319Z",
+  "lastUpdated": "2026-10-04T13:11:15.377Z",
   "videoCount": 1997,
   "videos": [
     {
@@ -24,10 +24,11 @@
       "title": "【メンバー限定】同時視聴：名探偵コナン 30号殺人事件",
       "published": "2026-10-04T10:29:34.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 6355,
+      "status": "past",
       "scheduledStart": "2026-10-04T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-04T11:01:07.000Z"
     },
     {
       "id": "uEGSj4aqVek",

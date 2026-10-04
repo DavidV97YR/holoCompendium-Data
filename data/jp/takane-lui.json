@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-10-04T11:04:44.689Z",
+  "lastUpdated": "2026-10-04T13:04:35.070Z",
   "videoCount": 2415,
   "videos": [
+    {
+      "id": "f2bhTJqNwCk",
+      "title": "ハートにピース / 鷹嶺ルイ(official)",
+      "published": "2026-10-04T12:10:06+00:00",
+      "type": "video",
+      "duration": 171,
+      "status": "past",
+      "scheduledStart": "2026-10-04T12:10:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-04T12:10:06.000Z"
+    },
     {
       "id": "ZNzyrv24iVI",
       "title": "【初体験！】ねこたかで初めての楊国福麻辣湯で大好きなマーラータンを爆食✨【ルイ姉、今日なにする？】#5",
@@ -20,16 +31,6 @@
       "scheduledStart": "2026-10-04T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-04T09:00:09.000Z"
-    },
-    {
-      "id": "f2bhTJqNwCk",
-      "title": "ハートにピース / 鷹嶺ルイ(official)",
-      "published": "2026-10-04T05:17:50.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-04T12:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "82H8NTimtvM",
@@ -80,8 +81,8 @@
       "title": "【 3D 】ソロライブ『REBELLION』続報解禁！関係各所からの裏話アリ!?【#鷹嶺ルイの反逆】",
       "published": "2026-10-02T10:30:28.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4286,
+      "status": "past",
       "scheduledStart": "2026-10-04T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-04T10:57:18.000Z"
