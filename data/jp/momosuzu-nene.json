@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0"
   },
-  "lastUpdated": "2026-10-04T14:30:56.233Z",
+  "lastUpdated": "2026-10-04T15:04:19.567Z",
   "videoCount": 1412,
   "videos": [
     {
@@ -24,10 +24,11 @@
       "title": "メン限するわよませ～～～～～～【 桃鈴ねね / hololive 】",
       "published": "2026-10-04T11:15:10.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 5612,
+      "status": "past",
       "scheduledStart": "2026-10-04T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-04T13:01:37.000Z"
     },
     {
       "id": "mq0oM_OYgeo",
