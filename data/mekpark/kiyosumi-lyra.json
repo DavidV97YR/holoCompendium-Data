@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-04T07:01:21.780Z",
+  "lastUpdated": "2026-10-04T09:09:46.452Z",
   "videoCount": 180,
   "videos": [
     {
@@ -16,9 +16,10 @@
       "published": "2026-10-04T01:29:56.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-04T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-04T08:58:24.000Z"
     },
     {
       "id": "AgpvhcpGcXM",
@@ -36,7 +37,7 @@
       "title": "【妹に運転を教える】お姉ちゃん全然できま～す❣【 #UNIT_B / #宵凪ネオン】",
       "published": "2026-10-02T16:11:23Z",
       "type": "stream",
-      "duration": 8598,
+      "duration": 8289,
       "status": "past",
       "scheduledStart": "2026-10-02T11:00:00.000Z",
       "typedBy": "innertube",
