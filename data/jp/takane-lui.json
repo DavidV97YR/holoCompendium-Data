@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/4gkDXbZRFyPeKst-oi3XCAe5yd6_ZvcIszJCZk17dBYe1eWIS9sy1vJxs1bsaBJYfzdTclPP=s0"
   },
-  "lastUpdated": "2026-10-04T10:00:51.226Z",
+  "lastUpdated": "2026-10-04T11:04:44.689Z",
   "videoCount": 2415,
   "videos": [
     {
@@ -15,8 +15,8 @@
       "title": "【初体験！】ねこたかで初めての楊国福麻辣湯で大好きなマーラータンを爆食✨【ルイ姉、今日なにする？】#5",
       "published": "2026-10-04T09:00:09+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "live",
+      "duration": 765,
+      "status": "past",
       "scheduledStart": "2026-10-04T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-04T09:00:09.000Z"
@@ -81,9 +81,10 @@
       "published": "2026-10-02T10:30:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-04T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-04T10:57:18.000Z"
     },
     {
       "id": "iDzKYmwR9gM",
