@@ -1,7 +1,7 @@
 {
   "channelId": "UCQ0UDLQCjY0rmuxCDE38FGg",
   "channelName": "Natsuiro Matsuri",
-  "lastUpdated": "2026-10-04T16:07:29.952Z",
+  "lastUpdated": "2026-10-05T18:05:05.452Z",
   "streams": {
     "eBrln7M6Rdo": {
       "milestone": 1,
@@ -18807,6 +18807,13 @@
       "gift": 15,
       "recv": 114,
       "sent": 124
+    },
+    "TuQepgnClwM": {
+      "member": 4,
+      "milestone": 2,
+      "gift": 7,
+      "recv": 42,
+      "sent": 42
     }
   }
 }
