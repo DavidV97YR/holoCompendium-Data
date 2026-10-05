@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-10-05T05:15:40.527Z",
+  "lastUpdated": "2026-10-05T07:05:30.487Z",
   "videoCount": 1805,
   "videos": [
     {
@@ -16,9 +16,10 @@
       "published": "2026-10-04T18:07:00.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-05T06:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-05T06:01:25.000Z"
     },
     {
       "id": "Tpd_eeg2NfM",
@@ -226,8 +227,8 @@
       "title": "【hololive Dreams】WHOA MORE COLLABS #holodori #ホロドリ 【Kureiji Ollie】",
       "published": "2026-09-27T08:50:39.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 5419,
+      "status": "past",
       "scheduledStart": "2026-10-05T04:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-05T04:01:23.000Z"

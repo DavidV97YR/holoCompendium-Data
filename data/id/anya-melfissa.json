@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
     "bannerUrl": "https://yt3.googleusercontent.com/t-qfe1FvO8_VCsEYqzGSGeaRid25fJ3A0_PQ8pBQ7pvMkZDF3g8cH2PYrQgOsZwvLWdRxXnT6A=s0"
   },
-  "lastUpdated": "2026-10-05T05:15:57.097Z",
+  "lastUpdated": "2026-10-05T07:05:41.694Z",
   "videoCount": 1254,
   "videos": [
+    {
+      "id": "7RD4-JhQXXM",
+      "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
+      "published": "2026-10-05T05:38:28+00:00",
+      "type": "stream",
+      "duration": 5515,
+      "status": "past",
+      "scheduledStart": "2026-10-05T04:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-05T04:01:11.000Z"
+    },
     {
       "id": "IKrHPv8ok7w",
       "title": "【BOMBANANA!】HOLORO V.S. DEFUSING BOMBS V.S. BANANAS【hololive holoro | Anya Melfissa】",
       "published": "2026-10-04T17:24:44.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-05T06:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "7RD4-JhQXXM",
-      "title": "【hololive Dreams ホロライブドリームス】HOLODOMORNING!【hololive holoro | Anya Melfissa】",
-      "published": "2026-10-04T17:19:35.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-05T04:00:00.000Z",
+      "scheduledStart": "2026-10-05T06:00:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-05T04:01:11.000Z"
+      "actualStart": "2026-10-05T06:03:03.000Z"
     },
     {
       "id": "Snk0CJCQOa8",
