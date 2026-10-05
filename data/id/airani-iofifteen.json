@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-10-05T11:07:00.930Z",
+  "lastUpdated": "2026-10-05T13:05:38.686Z",
   "videoCount": 1834,
   "videos": [
+    {
+      "id": "x9Z-ntAHhgM",
+      "title": "【#holodori 】POKAJAN WITH IOFORIA【 iofi / hololive】",
+      "published": "2026-10-05T11:20:50+00:00",
+      "type": "stream",
+      "duration": 5547,
+      "status": "past",
+      "scheduledStart": "2026-10-05T09:40:00.000Z",
+      "actualStart": "2026-10-05T09:41:12.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "Mu8nw6XcnA8",
       "title": "【 #holoctober 】DAY 5 : Teacher【 iofi / hololive】",
@@ -22,25 +33,15 @@
       "actualStart": "2026-10-05T08:00:28.000Z"
     },
     {
-      "id": "x9Z-ntAHhgM",
-      "title": "【#holodori 】POKAJAN WITH IOFORIA【 iofi / hololive】",
-      "published": "2026-10-05T09:38:29.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-05T09:40:00.000Z",
-      "actualStart": "2026-10-05T09:41:12.000Z",
-      "typedBy": "data-api"
-    },
-    {
       "id": "VshCIU0Xlsk",
       "title": "【 NO Man's Sky】ioMoona Date【 iofi / hololive】",
       "published": "2026-10-04T17:33:06.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-05T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-05T13:00:45.000Z"
     },
     {
       "id": "FrOWjDg8YEI",
