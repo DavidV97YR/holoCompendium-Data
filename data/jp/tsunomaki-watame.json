@@ -7,18 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
     "bannerUrl": "https://yt3.googleusercontent.com/qayRHMxLu8da1JWWG9B7km4vvFZU56OqXiKfHfHJlHJkOuaxG2mDZMNnT4Y7rD5Bx2E6pPP4lDk=s0"
   },
-  "lastUpdated": "2026-10-06T13:03:43.586Z",
+  "lastUpdated": "2026-10-06T15:03:48.774Z",
   "videoCount": 3564,
   "videos": [
+    {
+      "id": "bKe51HBcG_4",
+      "title": "【 #凶乱令嬢 】第１話！同時視聴しませんか？オープニングテーマ『リスポーン!!』もついに解禁！！【角巻わため/ホロライブ４期生】",
+      "published": "2026-10-06T13:21:55+00:00",
+      "type": "stream",
+      "duration": 4458,
+      "status": "past",
+      "scheduledStart": "2026-10-06T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-06T12:02:30.000Z"
+    },
     {
       "id": "YdWKF9y7hUI",
       "title": "【リスポーン!!先行配信待機枠】お喋りしながら正座待機！！！【角巻わため/ホロライブ４期生】",
       "published": "2026-10-06T09:24:29.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-06T14:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-06T14:02:43.000Z"
     },
     {
       "id": "XAyVqA9EA3g",
@@ -28,17 +40,6 @@
       "duration": 39,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "bKe51HBcG_4",
-      "title": "【 #凶乱令嬢 】第１話！同時視聴しませんか？オープニングテーマ『リスポーン!!』もついに解禁！！【角巻わため/ホロライブ４期生】",
-      "published": "2026-10-05T17:13:10.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-06T12:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-06T12:02:30.000Z"
     },
     {
       "id": "BsKbBSIsaiI",

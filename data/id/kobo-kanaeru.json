@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
     "bannerUrl": "https://yt3.googleusercontent.com/HkdBYiIHoZdS3jhzfTtLCAf6upeuzDb_yNeMyMi4fH3JGh57C-S1leqJG2VksyUTpPPKE2jcRSk=s0"
   },
-  "lastUpdated": "2026-10-06T13:06:27.304Z",
+  "lastUpdated": "2026-10-06T15:06:36.805Z",
   "videoCount": 864,
   "videos": [
+    {
+      "id": "FFH9wmgDjJo",
+      "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
+      "published": "2026-10-06T13:57:18+00:00",
+      "type": "stream",
+      "duration": 6517,
+      "status": "past",
+      "scheduledStart": "2026-10-06T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-06T12:01:51.000Z"
+    },
     {
       "id": "II1-2CzVUAU",
       "title": "Gak boleh sembarang \"EHEK\" #shorts #hololive #vtuber #kobokanaeru #kobokan",
@@ -18,17 +29,6 @@
       "duration": 50,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "FFH9wmgDjJo",
-      "title": "【hololive Dreams】Dialy holodori... #holodori #ホロドリ",
-      "published": "2026-10-06T08:10:32.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-06T12:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-06T12:01:51.000Z"
     },
     {
       "id": "zwOysulSv68",
