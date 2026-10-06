@@ -44,6 +44,10 @@
  * `v.type === 'stream'` and could not do otherwise, since a members-only replay
  * is gated and the scraper is not signed in.
  *
+ * Premieres (a video with actualStart, which fetch-chat.js also walks) add
+ * their chat money — yen, sc, members, gifts — and can be the top earner, but
+ * are not streams: they never count toward streams, hours, views or streaks.
+ *
  * `top.m` is the window's highest-earning stream and `top.v` its most-viewed.
  * Both are public by construction. When one stream tops both, `v` is the string
  * "m" rather than a second copy of it.
@@ -274,7 +278,9 @@ function main() {
       // would drag every average down; "unavailable" is a private or deleted
       // video update.js has struck twice; shorts, uploads and the members-only
       // playlist are not public streams.
-      if (v.type !== 'stream') continue;
+      // Premieres are the one exception, for their money only (see the top).
+      const isStream = v.type === 'stream';
+      if (!isStream && !(v.type === 'video' && v.actualStart)) continue;
       if (v.status !== 'past') continue;
 
       const ts = Date.parse(v.published);
@@ -294,6 +300,7 @@ function main() {
       // counts as a stream, as frames always have.
       const read    = summary === 0 || !!paid || !(v.duration > 0);
       const yen     = paid ? toYen(paid.cur || {}) : 0;
+      if (!isStream && !paid) continue;
 
       // When it started, which is what every page shows. published is the VOD
       // going up, i.e. the end, so a stream that began 25 hours ago and ran
@@ -302,13 +309,15 @@ function main() {
 
       // Streaks count calendar days, not streams, so a day with four streams
       // is one day.
-      t._days.add(jstDay(start));
+      if (isStream) t._days.add(jstDay(start));
 
       for (const w of WINDOWS) {
         if (w !== 'all' && start < cutoff[w]) continue;
         const b = t.w[w];
-        b.streams++; b.hours += hours; b.views += view;
-        if (read) b.read++;
+        if (isStream) {
+          b.streams++; b.hours += hours; b.views += view;
+          if (read) b.read++;
+        }
         if (paid) {
           b.yen     += yen;
           b.sc      += (paid.sc || 0) + (paid.sticker || 0);
@@ -317,7 +326,7 @@ function main() {
         }
 
         const beatsMoney = yen  > 0 && (!b._m || yen  > b._m.yen);
-        const beatsViews = view > 0 && (!b._v || view > b._v.views);
+        const beatsViews = isStream && view > 0 && (!b._v || view > b._v.views);
         if (beatsMoney || beatsViews) {
           const entry = {
             id: v.id, title: v.title || '', published: new Date(start).toISOString(),   // when it started

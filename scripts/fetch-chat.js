@@ -36,6 +36,8 @@
  *
  * Env vars:
  *   MODE         'recent' (default) | 'backfill'
+ *   KINDS        'both' (default) | 'streams' | 'videos' — what gets walked.
+ *                'videos' is premieres only; see isPremiere().
  *   ROWS         backfill only — sheet rows, same syntax as update.js
  *                ('78', '2-10', '2,5,74' or 'all')
  *   CSV_URL      backfill only — talent sheet, to resolve ROWS → channels
@@ -410,6 +412,20 @@ function summarise(log) {
   return s;
 }
 
+// What has a chat replay to walk. Every finished public stream does. A video
+// only does if it went out as a premiere, and the Data API marks those with the
+// same liveStreamingDetails a stream carries, which update.js stores as
+// actualStart. Plain uploads and Shorts have no chat at all, so they're never
+// tried — walking them would only collect 'noreplay' strikes.
+function isPastStream(v) {
+  if (v.type !== 'stream' || !v.published || !v.duration) return false;
+  return v.status !== 'live' && v.status !== 'upcoming';
+}
+function isPremiere(v) {
+  if (v.type !== 'video' || !v.actualStart || !v.published || !v.duration) return false;
+  return v.status !== 'live' && v.status !== 'upcoming';
+}
+
 /** Every channel JSON, skipping the -views/-chat companions. */
 function findChannelFiles(dataDir) {
   const results = [];
@@ -515,12 +531,14 @@ function buildChatIndex(dataDir, days) {
 
     let used = false;
     for (const v of channel.videos) {
-      if (v.type !== 'stream' || !v.published || !v.duration) continue;
-      if (v.status === 'live' || v.status === 'upcoming') continue;
+      // Premieres too: their chat money belongs in the window's totals.
+      const premiere = isPremiere(v);
+      if (!premiere && !isPastStream(v)) continue;
       if (new Date(v.published).getTime() < cutoff) continue;
 
       const s   = done[v.id];
       const row = { id: v.id, ch: key, title: v.title || '', published: v.published, duration: v.duration };
+      if (premiere) row.kind = 'video';
       // Carried so the Stats feed can place the stream at the hour it started:
       // `published` is when the VOD went up, and without this the feed can only
       // estimate the start from published minus duration, ~17 minutes late.
@@ -607,6 +625,13 @@ async function main() {
   const rowsRaw     = (process.env.ROWS || 'all').trim();
   const csvUrl      = process.env.CSV_URL;
   const talentsArg  = (process.env.TALENTS || "").trim();
+  const kinds       = (process.env.KINDS || 'both').toLowerCase();
+  if (['both', 'streams', 'videos'].indexOf(kinds) < 0) {
+    console.error('❌  KINDS must be both, streams or videos (got "' + kinds + '")');
+    process.exit(1);
+  }
+  const wantStreams = kinds !== 'videos';
+  const wantVideos  = kinds !== 'streams';
 
   const deadline = Date.now() + budgetMin * 60 * 1000;
   const expired  = () => Date.now() > deadline;
@@ -614,7 +639,7 @@ async function main() {
   console.log('\n╔══════════════════════════════════════════╗');
   console.log('║   Hololive Chat / Superchat Fetcher      ║');
   console.log('╚══════════════════════════════════════════╝\n');
-  console.log('  mode=' + mode + '  concurrency=' + concurrency + '  budget=' + budgetMin + 'min'
+  console.log('  mode=' + mode + '  kinds=' + kinds + '  concurrency=' + concurrency + '  budget=' + budgetMin + 'min'
             + (mode === 'recent' ? '  window=' + windowHours + 'h' : '  rows=' + rowsRaw) + '\n');
 
   let channelFiles;
@@ -697,10 +722,9 @@ async function main() {
     });
     const done = chatFile.streams;
 
-    // Candidates: finished streams we have not settled yet.
+    // Candidates: finished streams and premieres we have not settled yet.
     const candidates = (channel.videos || []).filter(v => {
-      if (v.type !== 'stream' || !v.published || !v.duration) return false;
-      if (v.status === 'live' || v.status === 'upcoming') return false;
+      if (!((wantStreams && isPastStream(v)) || (wantVideos && isPremiere(v)))) return false;
       const prev = done[v.id];
       // Stragglers are swept at ANY age, including by the hourly run — a
       // stream whose replay wasn't ready, or that hit a network blip, heals
@@ -716,7 +740,7 @@ async function main() {
     if (!candidates.length) continue;
     summary.channels++;
     console.log('  ' + ((channel.channel && channel.channel.name) || slug)
-              + '  —  ' + candidates.length + ' stream(s) to process');
+              + '  —  ' + candidates.length + ' stream(s)/premiere(s) to process');
 
     const bundles = new Map();   // 'YYYY-MM' → { videoId: log }
     let changed = false;
