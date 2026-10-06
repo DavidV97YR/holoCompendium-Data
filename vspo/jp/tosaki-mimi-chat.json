@@ -1,7 +1,7 @@
 {
   "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
   "channelName": "Tosaki Mimi",
-  "lastUpdated": "2026-10-06T20:11:26.412Z",
+  "lastUpdated": "2026-10-06T23:25:16.819Z",
   "streams": {
     "TRP7I1wiP-E": {
       "cur": {
@@ -12433,6 +12433,33 @@
       },
       "sc": 18,
       "milestone": 1
+    },
+    "J7cAFhiAJeE": {
+      "cur": {
+        "NT$": 75
+      },
+      "sc": 1
+    },
+    "e8ZxtA3U2Xo": {
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
+    },
+    "UBfsNv1ivyo": {
+      "member": 3,
+      "milestone": 8,
+      "gift": 1,
+      "recv": 9,
+      "sent": 10
+    },
+    "XtvWWS-50l8": 0,
+    "Af3GQ89Kygs": {
+      "member": 3,
+      "milestone": 83
+    },
+    "RusRFiL_udY": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }

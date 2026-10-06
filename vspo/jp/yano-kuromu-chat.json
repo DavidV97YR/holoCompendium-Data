@@ -1,7 +1,7 @@
 {
   "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
   "channelName": "Yano Kuromu",
-  "lastUpdated": "2026-10-06T16:12:12.900Z",
+  "lastUpdated": "2026-10-06T23:25:47.965Z",
   "streams": {
     "JkBfMSz4kcQ": {
       "cur": {
@@ -5797,6 +5797,94 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "SEABn1jepkY": {
+      "cur": {
+        "¥": 5700
+      },
+      "sc": 5
+    },
+    "rzHThntbANM": {
+      "cur": {
+        "¥": 500
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 1
+    },
+    "u39MpTzPzIk": {
+      "cur": {
+        "¥": 6552
+      },
+      "sc": 5,
+      "sticker": 1,
+      "milestone": 1
+    },
+    "ac4BaGzD6bg": 0,
+    "mrAWbxB5p4k": {
+      "cur": {
+        "¥": 5800
+      },
+      "sc": 3
+    },
+    "KXvopwR04as": {
+      "cur": {
+        "NT$": 300,
+        "¥": 800
+      },
+      "sc": 2,
+      "member": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "AaQgYhkRpKU": {
+      "cur": {
+        "¥": 2920
+      },
+      "sc": 3,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "WekSPzztoug": {
+      "cur": {
+        "NT$": 75,
+        "¥": 3200
+      },
+      "sc": 2,
+      "member": 1
+    },
+    "3zrCTEYimcE": {
+      "cur": {
+        "¥": 58437
+      },
+      "sc": 9,
+      "milestone": 1,
+      "gift": 5,
+      "recv": 54,
+      "sent": 54
+    },
+    "RJXALPS3cl0": {
+      "cur": {
+        "¥": 1766
+      },
+      "sc": 2,
+      "member": 1,
+      "milestone": 1
+    },
+    "vkRzTQiUTDg": {
+      "member": 1,
+      "milestone": 8,
+      "gift": 7,
+      "recv": 1,
+      "sent": 35
+    },
+    "aOGn3wOHbWs": {
+      "member": 1,
+      "gift": 2,
+      "recv": 10,
+      "sent": 11
     }
   }
 }

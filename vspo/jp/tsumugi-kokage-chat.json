@@ -1,7 +1,7 @@
 {
   "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
   "channelName": "Tsumugi Kokage",
-  "lastUpdated": "2026-10-05T18:10:20.370Z",
+  "lastUpdated": "2026-10-06T23:25:26.248Z",
   "streams": {
     "LlM5i6LOaP4": {
       "cur": {
@@ -9685,6 +9685,66 @@
       "gift": 11,
       "recv": 11,
       "sent": 11
+    },
+    "Jxl2n5EiB1s": {
+      "cur": {
+        "¥": 3378
+      },
+      "sc": 3,
+      "milestone": 5,
+      "gift": 1,
+      "recv": 35,
+      "sent": 50
+    },
+    "hXkgK2Y-w1Q": {
+      "milestone": 2,
+      "gift": 1,
+      "sent": 10
+    },
+    "LYSUw7VW8Ao": {
+      "member": 1,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 53,
+      "sent": 3
+    },
+    "b8liFH9OVYs": {
+      "cur": {
+        "¥": 5512,
+        "NT$": 15
+      },
+      "sc": 5,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 11,
+      "sent": 11
+    },
+    "GEGkyKJTS6U": {
+      "cur": {
+        "¥": 2752
+      },
+      "sc": 2,
+      "sticker": 1,
+      "member": 14,
+      "milestone": 18,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "4BiGlILqdBM": {
+      "member": 2,
+      "milestone": 54,
+      "gift": 5,
+      "recv": 38,
+      "sent": 76
+    },
+    "rlDoFSPNHZI": {
+      "cur": {
+        "¥": 5726
+      },
+      "sc": 3,
+      "member": 27,
+      "milestone": 8
     }
   }
 }

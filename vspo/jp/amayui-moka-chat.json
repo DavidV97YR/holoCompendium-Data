@@ -1,7 +1,7 @@
 {
   "channelId": "UC8vKBjGY2HVfbW9GAmgikWw",
   "channelName": "Amayui Moka",
-  "lastUpdated": "2026-10-05T16:07:34.008Z",
+  "lastUpdated": "2026-10-06T23:22:32.821Z",
   "streams": {
     "j5nhdK7f-Y4": {
       "cur": {
@@ -4336,6 +4336,23 @@
       "sc": 8,
       "sticker": 1,
       "member": 1
+    },
+    "KSKKBq86WKg": {
+      "cur": {
+        "¥": 1200
+      },
+      "sc": 2,
+      "sticker": 1
+    },
+    "CWBiSN2WLG4": {
+      "cur": {
+        "¥": 2000
+      },
+      "sc": 3,
+      "member": 3,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }
