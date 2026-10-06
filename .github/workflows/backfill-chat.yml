@@ -33,6 +33,11 @@ on:
         type: choice
         options: [hololive, vspo]
         default: hololive
+      kinds:
+        description: 'What to walk: streams, premiered videos, or both'
+        type: choice
+        options: [both, streams, videos]
+        default: both
 
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
 # sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
@@ -67,6 +72,7 @@ jobs:
       - name: Backfill chat data
         env:
           MODE:        backfill
+          KINDS:       ${{ inputs.kinds || 'both' }}
           ROWS:        ${{ github.event.inputs.rows }}
           CSV_URL:     ${{ inputs.org == 'vspo' && env.VSPO_CSV_URL || secrets.CSV_URL }}
           CONCURRENCY: ${{ github.event.inputs.concurrency || '6' }}
@@ -92,7 +98,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/; [ -d vspo ] && git add vspo/
           if git diff --cached --quiet; then echo "No changes to commit"; exit 0; fi
-          git commit -m "chat backfill (${{ inputs.org }} rows $ROWS): $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "chat backfill (${{ inputs.org }} ${{ inputs.kinds }} rows $ROWS): $(date -u +'%Y-%m-%d %H:%M UTC')"
           # -X ours, same reasoning as fetch-chat.yml: chat data is idempotent,
           # so deferring to origin on a conflict costs a re-walk next run rather
           # than corrupting anything.
