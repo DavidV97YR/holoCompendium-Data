@@ -63,6 +63,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v5
+        # The latest main, not the commit the run was triggered on: a run that
+        # queued behind another chat job (a backfill can hold the group for
+        # hours) would otherwise start from data that old and miss its work.
+        with:
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v5
