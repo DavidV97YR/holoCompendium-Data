@@ -1,7 +1,7 @@
 {
   "channelId": "UCTvHWSfBZgtxE4sILOaurIQ",
   "channelName": "Vestia Zeta",
-  "lastUpdated": "2026-10-07T19:02:32.972Z",
+  "lastUpdated": "2026-10-07T20:03:38.016Z",
   "streams": {
     "mRlzbsJDjeg": {
       "cur": {
@@ -15316,7 +15316,7 @@
     },
     "8WSnkjJBZRo": {
       "e": "noreplay",
-      "n": 18
+      "n": 19
     },
     "wQ1_0oeXW6M": 0,
     "WDueRRGIKzw": {
@@ -15409,6 +15409,28 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "_Dl6Vu1L3kw": {
+      "cur": {
+        "¥": 28502,
+        "IDR": 560000,
+        "CA$": 2,
+        "₱": 250,
+        "$": 195,
+        "€": 1,
+        "NT$": 30,
+        "HK$": 50,
+        "CZK": 50,
+        "THB": 179,
+        "SGD": 2,
+        "₩": 2000
+      },
+      "sc": 40,
+      "member": 9,
+      "milestone": 5,
+      "gift": 7,
+      "recv": 35,
+      "sent": 35
     }
   }
 }
