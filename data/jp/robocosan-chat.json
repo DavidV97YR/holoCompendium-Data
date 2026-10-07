@@ -1,7 +1,7 @@
 {
   "channelId": "UCDqI2jOz0weumE8s7paEk6g",
   "channelName": "Robocosan",
-  "lastUpdated": "2026-10-07T15:03:33.393Z",
+  "lastUpdated": "2026-10-07T16:09:21.027Z",
   "streams": {
     "u9blvdasFBA": 0,
     "dbary4r2nQs": {
@@ -18077,8 +18077,11 @@
       "member": 6
     },
     "xF6lHgRijKU": {
-      "e": "noreplay",
-      "n": 2
+      "member": 2,
+      "milestone": 2,
+      "gift": 7,
+      "recv": 7,
+      "sent": 7
     }
   }
 }
