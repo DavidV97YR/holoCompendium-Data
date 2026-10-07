@@ -45,8 +45,9 @@
  * is gated and the scraper is not signed in.
  *
  * Premieres (a video with actualStart, which fetch-chat.js also walks) add
- * their chat money — yen, sc, members, gifts — and can be the top earner, but
- * are not streams: they never count toward streams, hours, views or streaks.
+ * their chat money — yen, sc, members, gifts — but are not streams: they never
+ * count toward streams, hours, views or streaks, and never top the Top Streams
+ * board.
  *
  * `top.m` is the window's highest-earning stream and `top.v` its most-viewed.
  * Both are public by construction. When one stream tops both, `v` is the string
@@ -325,7 +326,7 @@ function main() {
           b.gifts   += paid.sent   || 0;
         }
 
-        const beatsMoney = yen  > 0 && (!b._m || yen  > b._m.yen);
+        const beatsMoney = isStream && yen > 0 && (!b._m || yen > b._m.yen);
         const beatsViews = isStream && view > 0 && (!b._v || view > b._v.views);
         if (beatsMoney || beatsViews) {
           const entry = {
