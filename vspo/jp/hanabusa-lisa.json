@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_nDEKrUIjF9DlTu-bEc-DenqIj-md5YkUqhGhqwyBLBgQ",
     "bannerUrl": "https://yt3.googleusercontent.com/_bW2F17SBjEfQVh6r1TwyBvuLDl0ANqH5pXxpWh6GNXIQMtR0VMhx_CZF0R8PEmpqHd5hvkWY6c=s0"
   },
-  "lastUpdated": "2026-10-07T15:01:19.037Z",
+  "lastUpdated": "2026-10-07T15:13:32.081Z",
   "videoCount": 1574,
   "videos": [
     {
@@ -22,6 +22,17 @@
       "typedBy": "data-api"
     },
     {
+      "id": "DqWSaZKhOZA",
+      "title": "【神視点】ぶいすぽGG 英リサ presents PUBG【#ぶいすぽGG】",
+      "published": "2026-10-07T14:37:09+00:00",
+      "type": "stream",
+      "duration": 14931,
+      "status": "past",
+      "scheduledStart": "2026-10-07T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-07T10:00:14.000Z"
+    },
+    {
       "id": "OqRY5HnYwtw",
       "title": "【PUBG】明日に向けてのれんしう　参加型カスタム【ぶいすぽっ！/英リサ】",
       "published": "2026-10-06T19:46:32+00:00",
@@ -31,17 +42,6 @@
       "scheduledStart": "2026-10-06T13:20:00.000Z",
       "actualStart": "2026-10-06T13:18:58.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "DqWSaZKhOZA",
-      "title": "【神視点】ぶいすぽGG 英リサ presents PUBG【#ぶいすぽGG】",
-      "published": "2026-10-06T09:29:12.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-07T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-07T10:00:14.000Z"
     },
     {
       "id": "yYpCcfBzpxI",
