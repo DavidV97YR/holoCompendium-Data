@@ -1,7 +1,7 @@
 {
   "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
   "channelName": "Koseki Bijou",
-  "lastUpdated": "2026-10-05T08:03:02.463Z",
+  "lastUpdated": "2026-10-07T00:15:52.855Z",
   "streams": {
     "In43SMi0dPE": {
       "cur": {
@@ -15258,6 +15258,64 @@
       "gift": 3,
       "recv": 22,
       "sent": 22
-    }
+    },
+    "VaVIJw6Lcc0": {
+      "member": 3,
+      "milestone": 186
+    },
+    "NfhJK602XdE": {
+      "cur": {
+        "$": 130.98,
+        "CA$": 100,
+        "₱": 500,
+        "€": 5
+      },
+      "sc": 14,
+      "milestone": 77
+    },
+    "2QecdWZ6dcw": 0,
+    "1ulTgWcWWRU": {
+      "cur": {
+        "$": 55,
+        "₩": 10000
+      },
+      "sc": 6,
+      "member": 1,
+      "milestone": 20
+    },
+    "M3pjFfKBonI": {
+      "cur": {
+        "$": 209.98,
+        "MYR": 6,
+        "NT$": 70,
+        "CA$": 5,
+        "HK$": 50,
+        "THB": 40,
+        "¥": 1000,
+        "₱": 500,
+        "ZAR": 99.99
+      },
+      "sc": 19,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 241,
+      "gift": 1,
+      "sent": 5
+    },
+    "XSZ0iMP80QQ": {
+      "cur": {
+        "NT$": 600,
+        "CLP": 10000,
+        "$": 124.99,
+        "A$": 2,
+        "₩": 20000,
+        "CA$": 2,
+        "€": 10
+      },
+      "sc": 12,
+      "member": 4,
+      "milestone": 36
+    },
+    "Akn_Gdi05Ys": 0
   }
 }

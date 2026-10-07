@@ -1,7 +1,7 @@
 {
   "channelId": "UCTvHWSfBZgtxE4sILOaurIQ",
   "channelName": "Vestia Zeta",
-  "lastUpdated": "2026-10-06T16:01:47.108Z",
+  "lastUpdated": "2026-10-07T00:32:51.569Z",
   "streams": {
     "mRlzbsJDjeg": {
       "cur": {
@@ -15226,6 +15226,177 @@
       },
       "sc": 5,
       "milestone": 1
+    },
+    "VuyRSDwlte8": 0,
+    "JHqop6hEQiw": 0,
+    "Gwg4t91rkCM": 0,
+    "V_09zQsoH1o": {
+      "cur": {
+        "IDR": 100000,
+        "$": 1.99
+      },
+      "sc": 2,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "ITSkHupAnFE": {
+      "cur": {
+        "¥": 1000,
+        "€": 10,
+        "IDR": 100000
+      },
+      "sc": 1,
+      "sticker": 2,
+      "milestone": 11,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "XdgzEDySUS8": {
+      "cur": {
+        "¥": 7000,
+        "$": 14.99,
+        "€": 10,
+        "IDR": 100000,
+        "₱": 125
+      },
+      "sc": 3,
+      "sticker": 5,
+      "member": 1,
+      "milestone": 10,
+      "gift": 2,
+      "recv": 2,
+      "sent": 2
+    },
+    "dhgfvQM57sA": {
+      "milestone": 10
+    },
+    "k6JKj88UJXM": {
+      "cur": {
+        "¥": 190,
+        "IDR": 50000
+      },
+      "sc": 1,
+      "sticker": 1
+    },
+    "v07VtKEVM6A": {
+      "cur": {
+        "IDR": 79000
+      },
+      "sc": 1
+    },
+    "q4CY4XY-06Q": {
+      "cur": {
+        "A$": 10,
+        "SGD": 2,
+        "$": 6.99,
+        "¥": 1000,
+        "₱": 500,
+        "IDR": 200000,
+        "MYR": 9
+      },
+      "sc": 2,
+      "sticker": 7,
+      "milestone": 19
+    },
+    "qozGlh7HJL8": {
+      "member": 1,
+      "milestone": 20
+    },
+    "oe4wxQmP6qc": {
+      "cur": {
+        "IDR": 100000
+      },
+      "sticker": 1,
+      "milestone": 13,
+      "gift": 3,
+      "recv": 5,
+      "sent": 11
+    },
+    "8WSnkjJBZRo": {
+      "e": "noreplay",
+      "n": 1
+    },
+    "wQ1_0oeXW6M": 0,
+    "WDueRRGIKzw": {
+      "cur": {
+        "IDR": 518000,
+        "$": 5,
+        "NT$": 75
+      },
+      "sc": 4,
+      "sticker": 3,
+      "member": 1,
+      "milestone": 26
+    },
+    "6yTHNTWEcH0": {
+      "cur": {
+        "$": 10.99,
+        "THB": 40,
+        "IDR": 160000,
+        "₱": 125
+      },
+      "sc": 9,
+      "sticker": 1,
+      "milestone": 8
+    },
+    "KFFtUqQVLrI": {
+      "cur": {
+        "¥": 3100,
+        "₩": 2000,
+        "THB": 40,
+        "IDR": 50000,
+        "MYR": 15,
+        "ARS": 1000,
+        "₱": 125,
+        "€": 100
+      },
+      "sc": 9,
+      "sticker": 2,
+      "member": 4,
+      "milestone": 13
+    },
+    "Q2GSUd-rhlE": {
+      "cur": {
+        "IDR": 1766677,
+        "₱": 4699,
+        "₩": 22000,
+        "¥": 2500
+      },
+      "sc": 15,
+      "sticker": 2,
+      "milestone": 24,
+      "gift": 1,
+      "sent": 5
+    },
+    "3Fb7Qv36of4": {
+      "cur": {
+        "€": 10,
+        "¥": 5574,
+        "IDR": 450000,
+        "THB": 40,
+        "NT$": 225,
+        "₱": 125,
+        "PEN": 7
+      },
+      "sc": 12,
+      "sticker": 3,
+      "member": 3,
+      "milestone": 9
+    },
+    "40LfYq7eKTM": {
+      "cur": {
+        "IDR": 840000,
+        "€": 20,
+        "₱": 250,
+        "MYR": 9,
+        "$": 11.99
+      },
+      "sc": 4,
+      "sticker": 10,
+      "member": 17,
+      "milestone": 6
     }
   }
 }

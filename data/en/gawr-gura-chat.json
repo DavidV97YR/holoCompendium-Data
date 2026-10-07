@@ -1,7 +1,7 @@
 {
   "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
   "channelName": "Gawr Gura",
-  "lastUpdated": "2026-09-21T18:03:58.086Z",
+  "lastUpdated": "2026-10-07T00:12:51.044Z",
   "streams": {
     "7WFg2wq10rw": {
       "member": 381,
@@ -11148,6 +11148,151 @@
       "sc": 769,
       "sticker": 39
     },
-    "dBK0gKW61NU": 0
+    "dBK0gKW61NU": 0,
+    "W7q8cHY91Ew": {
+      "member": 2,
+      "milestone": 47,
+      "gift": 2,
+      "recv": 10,
+      "sent": 11
+    },
+    "8dzJS6r2qzU": {
+      "cur": {
+        "$": 26,
+        "₩": 10000,
+        "MX$": 65,
+        "NT$": 150
+      },
+      "sc": 6,
+      "member": 1,
+      "milestone": 27
+    },
+    "qMQ4P-vI3JI": {
+      "cur": {
+        "NT$": 300,
+        "₩": 10000,
+        "$": 15.99,
+        "CA$": 5,
+        "PEN": 10,
+        "¥": 500
+      },
+      "sc": 8,
+      "member": 1,
+      "milestone": 56
+    },
+    "kJGsWORSg-4": {
+      "cur": {
+        "$": 241.99,
+        "NT$": 790,
+        "CA$": 20,
+        "CZK": 50,
+        "€": 5,
+        "¥": 1220,
+        "₱": 125
+      },
+      "sc": 14,
+      "sticker": 1,
+      "member": 5,
+      "milestone": 11
+    },
+    "YjzQm_34aVw": {
+      "member": 1,
+      "milestone": 21,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "nCQ_zZIiGLA": {
+      "cur": {
+        "$": 114.98,
+        "€": 15,
+        "ARS": 69,
+        "A$": 2,
+        "CA$": 15,
+        "CLP": 1000,
+        "£": 10,
+        "NT$": 75,
+        "HK$": 25
+      },
+      "sc": 24,
+      "sticker": 1,
+      "member": 9,
+      "milestone": 277
+    },
+    "OGj0xMWReQM": {
+      "member": 5,
+      "milestone": 24,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "AI24NCKB7-k": {
+      "member": 2,
+      "milestone": 189
+    },
+    "qNIhngowViI": {
+      "member": 4
+    },
+    "uCfjf3rvTJY": {
+      "member": 2,
+      "milestone": 58
+    },
+    "aPdSzrt9MuQ": {
+      "cur": {
+        "€": 60,
+        "RUB": 2000,
+        "$": 5,
+        "MX$": 50,
+        "HK$": 25,
+        "CA$": 20,
+        "₱": 24,
+        "NT$": 1690
+      },
+      "sc": 11,
+      "sticker": 1,
+      "member": 4,
+      "milestone": 25
+    },
+    "WGgEFoI9MhE": {
+      "cur": {
+        "RUB": 1800,
+        "€": 120,
+        "$": 259.98,
+        "NT$": 3270,
+        "₱": 5625,
+        "HK$": 273,
+        "¥": 18485,
+        "£": 44.99,
+        "ARS": 50,
+        "₩": 50000,
+        "SEK": 1000,
+        "CA$": 49.99,
+        "CLP": 3500,
+        "A$": 32,
+        "SGD": 5,
+        "NOK": 69.69,
+        "ZAR": 35
+      },
+      "sc": 79,
+      "member": 22
+    },
+    "McKL5PR2F-w": {
+      "cur": {
+        "MX$": 100,
+        "₩": 20000,
+        "HK$": 103,
+        "$": 568.96,
+        "NZ$": 2,
+        "CA$": 160,
+        "€": 5,
+        "NT$": 1296,
+        "A$": 20,
+        "£": 15
+      },
+      "sc": 45,
+      "sticker": 1,
+      "member": 13,
+      "milestone": 77
+    }
   }
 }

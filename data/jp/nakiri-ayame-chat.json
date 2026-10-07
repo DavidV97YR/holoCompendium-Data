@@ -1,7 +1,7 @@
 {
   "channelId": "UC7fk0CB07ly8oSl0aqKkqFg",
   "channelName": "Nakiri Ayame",
-  "lastUpdated": "2026-09-29T14:07:21.721Z",
+  "lastUpdated": "2026-10-07T00:55:28.316Z",
   "streams": {
     "g1jF4SJP2-E": {
       "cur": {
@@ -6585,6 +6585,83 @@
       },
       "sc": 11,
       "member": 1
+    },
+    "k4IJROgvWHc": {
+      "cur": {
+        "¥": 7480,
+        "NT$": 330,
+        "MYR": 6,
+        "$": 5
+      },
+      "sc": 15,
+      "member": 1
+    },
+    "GDCq9cNnk50": {
+      "cur": {
+        "¥": 16650
+      },
+      "sc": 9,
+      "member": 6,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "mySACB_aVAE": {
+      "member": 4,
+      "gift": 6,
+      "recv": 2,
+      "sent": 29
+    },
+    "isKfR7BopUU": {
+      "cur": {
+        "¥": 23040,
+        "₩": 20000
+      },
+      "sc": 15,
+      "member": 5,
+      "gift": 1,
+      "sent": 1
+    },
+    "irMD1KMIYE4": {
+      "cur": {
+        "¥": 18760,
+        "NT$": 165,
+        "SGD": 5
+      },
+      "sc": 21,
+      "member": 28
+    },
+    "aOcYn6YAO5E": {
+      "cur": {
+        "¥": 21200,
+        "A$": 2,
+        "NT$": 15,
+        "$": 5
+      },
+      "sc": 11,
+      "member": 74,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "eGfyyU9qouA": {
+      "member": 11
+    },
+    "uTO0KnDsVH0": {
+      "member": 11
+    },
+    "z1W4c7ym49Y": {
+      "member": 18
+    },
+    "ECkxzFgbJqQ": {
+      "cur": {
+        "¥": 43103,
+        "HK$": 10,
+        "NT$": 525,
+        "MYR": 6
+      },
+      "sc": 23,
+      "member": 12
     }
   }
 }

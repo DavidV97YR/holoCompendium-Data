@@ -1,7 +1,7 @@
 {
   "channelId": "UCDHABijvPBnJm7F-KlNME3w",
   "channelName": "Gigi Murin",
-  "lastUpdated": "2026-10-03T08:01:45.515Z",
+  "lastUpdated": "2026-10-07T00:13:05.702Z",
   "streams": {
     "SQqpK0FbIQk": {
       "e": "noreplay",
@@ -7312,6 +7312,104 @@
       "sc": 8,
       "member": 5,
       "milestone": 5
+    },
+    "xQ3lLxLpc30": {
+      "member": 1
+    },
+    "xONtg3B8lm8": {
+      "cur": {
+        "$": 25
+      },
+      "sc": 2
+    },
+    "bmT_cEfOTJE": 0,
+    "tZLyZlJq0D0": 0,
+    "B_N1uEAHk10": {
+      "cur": {
+        "$": 160,
+        "PEN": 5
+      },
+      "sc": 4,
+      "member": 2,
+      "milestone": 8
+    },
+    "ZEdbSuoF7uM": {
+      "cur": {
+        "$": 74.99
+      },
+      "sc": 3,
+      "sticker": 1,
+      "member": 11,
+      "milestone": 7
+    },
+    "EvdDIJ2ojDM": {
+      "cur": {
+        "$": 229.99,
+        "A$": 2,
+        "THB": 69,
+        "ARS": 100
+      },
+      "sc": 10,
+      "sticker": 1,
+      "member": 3,
+      "milestone": 54
+    },
+    "BkeAQTf2KZE": {
+      "cur": {
+        "$": 42,
+        "ARS": 2000,
+        "CA$": 5
+      },
+      "sc": 6,
+      "sticker": 1,
+      "member": 4,
+      "milestone": 9
+    },
+    "YSz3aUW2_ZE": {
+      "cur": {
+        "A$": 2,
+        "$": 115
+      },
+      "sc": 4,
+      "member": 25,
+      "milestone": 8,
+      "gift": 1,
+      "sent": 5
+    },
+    "t3tIj88yzLM": {
+      "cur": {
+        "€": 5
+      },
+      "sc": 1,
+      "member": 1,
+      "milestone": 38,
+      "gift": 1,
+      "recv": 9,
+      "sent": 10
+    },
+    "srcZjISq-k8": {
+      "cur": {
+        "$": 70
+      },
+      "sc": 1,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 19
+    },
+    "3m15lUh0WP4": {
+      "cur": {
+        "$": 34.98,
+        "A$": 5
+      },
+      "sc": 5,
+      "member": 2,
+      "milestone": 19
+    },
+    "Qq-fgjrc-uc": {
+      "member": 9,
+      "milestone": 138,
+      "gift": 1,
+      "sent": 5
     }
   }
 }

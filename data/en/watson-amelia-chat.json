@@ -1,7 +1,7 @@
 {
   "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
   "channelName": "Watson Amelia",
-  "lastUpdated": "2026-09-21T18:06:51.753Z",
+  "lastUpdated": "2026-10-07T00:25:41.714Z",
   "streams": {
     "MPb3HMp5clg": {
       "member": 56,
@@ -14915,6 +14915,105 @@
       "sticker": 14
     },
     "zkbXdXbs8vk": 0,
-    "MXrFrkIlE-0": 0
+    "MXrFrkIlE-0": 0,
+    "1f_LwO9wKK0": {
+      "cur": {
+        "$": 9.99,
+        "SGD": 10,
+        "₩": 10000
+      },
+      "sticker": 5,
+      "member": 5,
+      "milestone": 39
+    },
+    "gpvlUoIzGUQ": {
+      "cur": {
+        "$": 92,
+        "SGD": 5,
+        "₱": 300
+      },
+      "sc": 4,
+      "sticker": 6,
+      "milestone": 94,
+      "gift": 2,
+      "recv": 3,
+      "sent": 70
+    },
+    "VupT9JCJaOY": {
+      "cur": {
+        "₱": 1500,
+        "$": 147,
+        "MX$": 150,
+        "ARS": 20,
+        "CA$": 5,
+        "¥": 610,
+        "SGD": 5
+      },
+      "sc": 14,
+      "member": 3,
+      "milestone": 18
+    },
+    "IT7mfF97m3w": {
+      "cur": {
+        "£": 10,
+        "HUF": 10000,
+        "$": 358.64,
+        "NT$": 450,
+        "₱": 2749,
+        "CA$": 30,
+        "¥": 2220,
+        "MX$": 170,
+        "A$": 5,
+        "HK$": 10,
+        "₩": 25000
+      },
+      "sc": 38,
+      "sticker": 4,
+      "member": 3,
+      "milestone": 34
+    },
+    "fYVweqOW31w": {
+      "cur": {
+        "$": 456.97,
+        "CA$": 25,
+        "SGD": 40,
+        "¥": 1230,
+        "₱": 250,
+        "R$": 5,
+        "₩": 15118,
+        "£": 50,
+        "MX$": 125,
+        "NT$": 330,
+        "ARS": 225,
+        "A$": 30
+      },
+      "sc": 32,
+      "sticker": 3,
+      "member": 3,
+      "milestone": 92,
+      "gift": 1,
+      "sent": 1
+    },
+    "NOrfhrL0D9k": {
+      "cur": {
+        "$": 222.35,
+        "NT$": 525,
+        "¥": 1610,
+        "SGD": 20,
+        "ARS": 20,
+        "₱": 250,
+        "£": 20,
+        "₩": 5000,
+        "A$": 17
+      },
+      "sc": 25,
+      "sticker": 4,
+      "member": 3,
+      "milestone": 100
+    },
+    "ZyuAdljyvoc": {
+      "member": 2,
+      "milestone": 26
+    }
   }
 }

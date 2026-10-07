@@ -1,7 +1,7 @@
 {
   "channelId": "UCS9uQI-jC3DE0L4IpXyvr6w",
   "channelName": "Kiryu Coco",
-  "lastUpdated": "2026-09-21T17:15:33.970Z",
+  "lastUpdated": "2026-10-07T00:51:34.202Z",
   "streams": {
     "4U8bLa6egiU": {
       "cur": {
@@ -11516,6 +11516,54 @@
     "DWDol8mek0w": 0,
     "q4KXbpc0OOE": 0,
     "db5yKOLnB00": 0,
-    "0ngDDHw45AM": 0
+    "0ngDDHw45AM": 0,
+    "skeC80CGejI": {
+      "member": 10
+    },
+    "f_djNpDqm3Q": {
+      "member": 10
+    },
+    "khRDaLiyGdA": {
+      "cur": {
+        "¥": 75277,
+        "SGD": 23.93,
+        "NT$": 1148,
+        "$": 75.99,
+        "HK$": 174.3,
+        "₱": 250,
+        "£": 15,
+        "R$": 10,
+        "€": 2.29,
+        "MX$": 100,
+        "ARS": 1000,
+        "CLP": 1000,
+        "A$": 2
+      },
+      "sc": 144,
+      "member": 10
+    },
+    "PqTA58UkGkA": {
+      "cur": {
+        "NT$": 10700,
+        "¥": 75769,
+        "A$": 115,
+        "$": 239.96,
+        "SGD": 49.41,
+        "£": 15,
+        "HK$": 1056,
+        "NOK": 50,
+        "SEK": 100,
+        "₱": 3599,
+        "₹": 400,
+        "CRC": 2500,
+        "DKK": 50,
+        "CLP": 2500,
+        "ARS": 200,
+        "€": 15,
+        "HUF": 400
+      },
+      "sc": 214,
+      "member": 56
+    }
   }
 }

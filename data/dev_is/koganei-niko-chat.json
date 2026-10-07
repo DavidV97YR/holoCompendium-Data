@@ -1,7 +1,7 @@
 {
   "channelId": "UCuI_opAVX6qbxZY-a-AxFuQ",
   "channelName": "Koganei Niko",
-  "lastUpdated": "2026-10-03T02:01:37.063Z",
+  "lastUpdated": "2026-10-07T00:07:46.492Z",
   "streams": {
     "6HHWbh1g7iQ": {
       "e": "noreplay",
@@ -3100,6 +3100,96 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "VonPbRQQIhU": {
+      "milestone": 3
+    },
+    "5ccqXCOshHc": 0,
+    "-VtkEfYFNbA": 0,
+    "dzTLhrun_zE": {
+      "milestone": 2
+    },
+    "jjB7pZfgRHs": {
+      "member": 2,
+      "milestone": 2
+    },
+    "iipgmtf7Bvw": {
+      "milestone": 2
+    },
+    "ILhaHJQ13UM": {
+      "milestone": 3,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
+    },
+    "x9WGcROpvM4": 0,
+    "QCMtwotxvxY": {
+      "member": 2
+    },
+    "tY0hBQ-p1JY": {
+      "member": 3,
+      "milestone": 1
+    },
+    "jhdv_bil7x4": {
+      "member": 26
+    },
+    "pqL8lSA-OpI": {
+      "member": 1,
+      "milestone": 13
+    },
+    "ISY2E1r7m9U": 0,
+    "oVQf6Z_JdWE": {
+      "cur": {
+        "A$": 5,
+        "¥": 1000
+      },
+      "sc": 3,
+      "milestone": 9
+    },
+    "-50Y21x-pUQ": {
+      "cur": {
+        "¥": 11372,
+        "A$": 2,
+        "NT$": 150,
+        "$": 10
+      },
+      "sc": 9,
+      "member": 4,
+      "milestone": 3
+    },
+    "sVlhCjjBUSI": 0,
+    "GLrYFtF36Uk": {
+      "cur": {
+        "A$": 2,
+        "¥": 200,
+        "₱": 125
+      },
+      "sc": 3,
+      "member": 1,
+      "milestone": 9
+    },
+    "qJFtD4P0tlg": {
+      "milestone": 15,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "tg1zTSmngHg": {
+      "member": 1,
+      "milestone": 20
+    },
+    "z2gIkj-Swlo": {
+      "cur": {
+        "NT$": 150,
+        "A$": 2,
+        "¥": 3345
+      },
+      "sc": 8,
+      "member": 43,
+      "milestone": 20,
+      "gift": 2,
+      "recv": 25,
+      "sent": 25
     }
   }
 }

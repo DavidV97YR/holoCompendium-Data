@@ -1,7 +1,7 @@
 {
   "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
   "channelName": "Elizabeth Rose Bloodflame",
-  "lastUpdated": "2026-09-29T00:01:22.209Z",
+  "lastUpdated": "2026-10-07T00:11:42.735Z",
   "streams": {
     "SlcmjzBIkDM": {
       "cur": {
@@ -3797,6 +3797,102 @@
       "gift": 5,
       "recv": 13,
       "sent": 13
+    },
+    "e9rY7slCeOw": {
+      "cur": {
+        "CHF": 20,
+        "€": 310,
+        "ARS": 2000,
+        "$": 26.49,
+        "¥": 500,
+        "NT$": 1500,
+        "₱": 125,
+        "HUF": 2000,
+        "£": 1.49
+      },
+      "sc": 10,
+      "sticker": 2,
+      "member": 1,
+      "milestone": 4,
+      "gift": 1,
+      "sent": 5
+    },
+    "zZXW_iXIrss": 0,
+    "jqFPgcMt_Jo": {
+      "cur": {
+        "MYR": 30,
+        "$": 108.49,
+        "MX$": 42
+      },
+      "sc": 4,
+      "sticker": 4,
+      "member": 1,
+      "milestone": 33,
+      "gift": 2,
+      "recv": 2,
+      "sent": 11
+    },
+    "_pv18gHgjQI": {
+      "cur": {
+        "¥": 1104
+      },
+      "sc": 2,
+      "milestone": 24,
+      "gift": 1,
+      "sent": 10
+    },
+    "QAPasXCYkPU": {
+      "member": 2,
+      "milestone": 13,
+      "gift": 6,
+      "recv": 5,
+      "sent": 18
+    },
+    "tBzZss_kh_0": {
+      "cur": {
+        "£": 1.49,
+        "€": 21.49,
+        "₱": 74,
+        "HUF": 2245,
+        "$": 45.99,
+        "SEK": 14,
+        "NT$": 450,
+        "CA$": 2.79
+      },
+      "sc": 10,
+      "sticker": 8,
+      "milestone": 17
+    },
+    "JBPc2ezXYJE": {
+      "cur": {
+        "$": 174.98,
+        "HUF": 245,
+        "THB": 40,
+        "NT$": 183,
+        "£": 101.99,
+        "₱": 125,
+        "¥": 1000
+      },
+      "sc": 8,
+      "sticker": 3,
+      "member": 5,
+      "milestone": 19,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
+    },
+    "UcfyJC4rhHU": {
+      "cur": {
+        "R$": 50,
+        "$": 30,
+        "MYR": 30,
+        "THB": 40
+      },
+      "sc": 5,
+      "milestone": 29,
+      "gift": 6,
+      "recv": 20,
+      "sent": 33
     }
   }
 }

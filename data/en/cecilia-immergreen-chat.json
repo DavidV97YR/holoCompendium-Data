@@ -1,7 +1,7 @@
 {
   "channelId": "UCvN5h1ShZtc7nly3pezRayg",
   "channelName": "Cecilia Immergreen",
-  "lastUpdated": "2026-10-04T23:02:05.942Z",
+  "lastUpdated": "2026-10-07T00:10:04.954Z",
   "streams": {
     "L-MQsH7kNzE": {
       "cur": {
@@ -6634,6 +6634,66 @@
       "sc": 8,
       "member": 5,
       "milestone": 19
+    },
+    "5x9ix5CGmoo": {
+      "milestone": 5
+    },
+    "FZkkGB2bUyo": {
+      "cur": {
+        "$": 2
+      },
+      "sc": 1,
+      "member": 4,
+      "milestone": 4
+    },
+    "bTxEGwMOQQI": {
+      "cur": {
+        "MYR": 15,
+        "$": 34.99,
+        "£": 5,
+        "₱": 125,
+        "A$": 5,
+        "NT$": 75
+      },
+      "sc": 5,
+      "sticker": 3,
+      "member": 13,
+      "milestone": 27
+    },
+    "twto2g0FwTQ": 0,
+    "0ry5cruKqsw": {
+      "cur": {
+        "$": 25,
+        "A$": 5,
+        "€": 13,
+        "₱": 250
+      },
+      "sc": 4,
+      "sticker": 4,
+      "milestone": 43,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
+    },
+    "hX_3P0TBGP4": {
+      "member": 5,
+      "milestone": 83,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "Kqh6-vjars8": {
+      "cur": {
+        "$": 164.99,
+        "MYR": 30,
+        "IDR": 500000,
+        "A$": 5,
+        "CA$": 10
+      },
+      "sc": 12,
+      "sticker": 3,
+      "member": 8,
+      "milestone": 17
     }
   }
 }
