@@ -7,18 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
     "bannerUrl": "https://yt3.googleusercontent.com/7ONLBzfLI1l1HdGA7hIHkiaqrTwobf_YTGfJCA0Ghu6oRDronIJxkdbIGjr0KDUGsyI74zc0YA=s0"
   },
-  "lastUpdated": "2026-10-08T14:00:49.873Z",
+  "lastUpdated": "2026-10-08T15:06:52.206Z",
   "videoCount": 2076,
   "videos": [
+    {
+      "id": "jhtdCbM-mqQ",
+      "title": "Theodora DON'T Freak Out and Beat People Up in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
+      "published": "2026-10-08T14:04:01+00:00",
+      "type": "stream",
+      "duration": 22472,
+      "status": "past",
+      "scheduledStart": "2026-10-08T07:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-08T07:30:11.000Z"
+    },
     {
       "id": "YV5v9TTR_hI",
       "title": "【hololive Dreams】PC Rhythm Training Arc #holodori【Pavolia Reine/hololive】",
       "published": "2026-10-08T13:45:49.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-08T14:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-08T14:30:48.000Z"
     },
     {
       "id": "VH5MaGG71qI",
@@ -28,17 +40,6 @@
       "duration": 23,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "jhtdCbM-mqQ",
-      "title": "Theodora DON'T Freak Out and Beat People Up in Fire Emblem: Fortune's Weave【Pavolia Reine/hololive】",
-      "published": "2026-10-08T06:42:32.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-08T07:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-08T07:30:11.000Z"
     },
     {
       "id": "te4AvMXOtcs",
