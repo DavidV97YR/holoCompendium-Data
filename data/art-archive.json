@@ -2090,11 +2090,20 @@
           "width": 2048,
           "height": 1152,
           "bytes": 1537004
+        },
+        {
+          "date": "2026-10-08",
+          "key": "jp/takane-lui/2026-10-08/banner.webp",
+          "src": "https://yt3.googleusercontent.com/-qxtd4TgQmq7uQR7f0_tjwh29lWOQvZ0iM9iytFeElQVlzBcvFgAovo_IvYiAYPm0sgl0L8EnkI",
+          "sha256": "db1f08b8b0e347d6ff8d31639b3a5d49edd4e6bbdb4ce5af2badb8b76eb71d4e",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 3028718
         }
       ],
       "latest": {
         "avatar": "jp/takane-lui/2026-09-26/avatar.webp",
-        "banner": "jp/takane-lui/2026-09-26/banner.webp"
+        "banner": "jp/takane-lui/2026-10-08/banner.webp"
       }
     },
     "jp/tokino-sora": {
@@ -2388,5 +2397,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-07T13:18:29.316Z"
+  "lastUpdated": "2026-10-08T13:17:41.100Z"
 }
