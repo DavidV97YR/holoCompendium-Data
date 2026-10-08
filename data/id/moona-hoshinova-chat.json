@@ -1,7 +1,7 @@
 {
   "channelId": "UCP0BspO_AMEe3aQqqpo89Dg",
   "channelName": "Moona Hoshinova",
-  "lastUpdated": "2026-10-07T12:03:23.856Z",
+  "lastUpdated": "2026-10-08T18:04:21.049Z",
   "streams": {
     "hR_U7-vMdiU": {
       "milestone": 1
@@ -12965,6 +12965,23 @@
       },
       "sc": 1,
       "member": 1
+    },
+    "iZ-GXK5b1kI": {
+      "cur": {
+        "¥": 2000,
+        "IDR": 100000,
+        "₩": 2000,
+        "NT$": 45,
+        "€": 2,
+        "A$": 5
+      },
+      "sc": 4,
+      "sticker": 2,
+      "member": 1,
+      "milestone": 4,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }
