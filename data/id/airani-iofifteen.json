@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-10-08T08:00:41.540Z",
+  "lastUpdated": "2026-10-08T09:06:08.193Z",
   "videoCount": 1841,
   "videos": [
+    {
+      "id": "pTXVlP3DaFw",
+      "title": "【#holodori 】ioRisu in da house! @ayundarisu 【 iofi / hololive】",
+      "published": "2026-10-08T08:15:43+00:00",
+      "type": "stream",
+      "duration": 5055,
+      "status": "past",
+      "scheduledStart": "2026-10-08T06:00:00.000Z",
+      "actualStart": "2026-10-08T06:01:57.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "iU4Y-xRXO2g",
       "title": "【 #holoctober 】DAY 8 : Sleepwear【 iofi / hololive】",
@@ -26,20 +37,9 @@
       "published": "2026-10-08T07:30:13.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-08T09:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "pTXVlP3DaFw",
-      "title": "【#holodori 】ioRisu in da house! @ayundarisu 【 iofi / hololive】",
-      "published": "2026-10-08T03:05:13.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-08T06:00:00.000Z",
-      "actualStart": "2026-10-08T06:01:57.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "QxgSd37q-v0",
