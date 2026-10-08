@@ -1,7 +1,7 @@
 {
   "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
   "channelName": "Ginjo Saine",
-  "lastUpdated": "2026-10-08T12:02:58.009Z",
+  "lastUpdated": "2026-10-08T13:02:15.724Z",
   "streams": {
     "Nfi2Behdzwg": {
       "cur": {
@@ -1653,8 +1653,14 @@
       "sc": 2
     },
     "BJDPXh0twdI": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 2020
+      },
+      "sc": 5,
+      "member": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }
