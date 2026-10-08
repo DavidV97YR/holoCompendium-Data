@@ -1,7 +1,7 @@
 {
   "channelId": "UCAoy6rzhSf4ydcYjJw3WoVg",
   "channelName": "Airani Iofifteen",
-  "lastUpdated": "2026-10-08T10:01:57.418Z",
+  "lastUpdated": "2026-10-08T12:02:04.725Z",
   "streams": {
     "CQEoZ0t70w8": {
       "cur": {
@@ -16043,6 +16043,16 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "P8eRh91xH8g": {
+      "cur": {
+        "CA$": 60,
+        "IDR": 20000,
+        "¥": 500
+      },
+      "sc": 12,
+      "sticker": 1,
+      "milestone": 1
     }
   }
 }
