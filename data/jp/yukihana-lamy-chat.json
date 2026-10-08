@@ -1,7 +1,7 @@
 {
   "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
   "channelName": "Yukihana Lamy",
-  "lastUpdated": "2026-10-08T19:02:18.817Z",
+  "lastUpdated": "2026-10-08T20:05:24.012Z",
   "streams": {
     "yssZGngfE7E": {
       "cur": {
@@ -20959,8 +20959,19 @@
       "sent": 1
     },
     "x32aA-g3OZw": {
-      "e": "noreplay",
-      "n": 4
+      "cur": {
+        "¥": 11120,
+        "HK$": 35,
+        "MX$": 50,
+        "NT$": 105,
+        "€": 2
+      },
+      "sc": 34,
+      "member": 3,
+      "milestone": 7,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }
