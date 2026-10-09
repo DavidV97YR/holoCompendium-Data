@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0"
   },
-  "lastUpdated": "2026-10-09T13:01:07.501Z",
+  "lastUpdated": "2026-10-09T13:11:45.376Z",
   "videoCount": 288,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-10T09:00:00.000Z",
       "typedBy": "innertube"
+    },
+    {
+      "id": "Me_x_C_eImY",
+      "title": "【ARK】DAY1 恐竜10種そろうまで毎日ARK🦕【#ACHRORA】#ASA #あくろら初ARK",
+      "published": "2026-10-09T12:33:47+00:00",
+      "type": "stream",
+      "duration": 11346,
+      "status": "past",
+      "scheduledStart": "2026-10-09T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-09T09:00:11.000Z"
     },
     {
       "id": "XCDc7KUhLWw",
@@ -80,17 +91,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-15T11:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "Me_x_C_eImY",
-      "title": "【ARK】DAY1 恐竜10種そろうまで毎日ARK🦕【#ACHRORA】#ASA #あくろら初ARK",
-      "published": "2026-10-07T15:21:27.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-09T09:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-09T09:00:11.000Z"
     },
     {
       "id": "abp2o3ymc9o",
