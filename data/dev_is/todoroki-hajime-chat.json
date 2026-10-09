@@ -1,7 +1,7 @@
 {
   "channelId": "UC1iA6_NT4mtAcIII6ygrvCw",
   "channelName": "Todoroki Hajime",
-  "lastUpdated": "2026-10-08T05:02:01.394Z",
+  "lastUpdated": "2026-10-09T16:05:26.662Z",
   "streams": {
     "GoAvc5jXoX8": {
       "cur": {
@@ -6503,6 +6503,18 @@
     "H-W9ae-Gt60": {
       "e": "noreplay",
       "n": 15
+    },
+    "10RADClbBWA": {
+      "cur": {
+        "NT$": 6000,
+        "¥": 8920
+      },
+      "sc": 13,
+      "member": 1,
+      "milestone": 13,
+      "gift": 1,
+      "recv": 16,
+      "sent": 20
     }
   }
 }
