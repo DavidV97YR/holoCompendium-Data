@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
     "bannerUrl": "https://yt3.googleusercontent.com/VIBQZXSxxqQyKF76sHZlIWDrxlVbd-zmJWHkbBKjXLNY7eCJcv0bS7RSr4Aw3hVz5kD8Q0gyOA=s0"
   },
-  "lastUpdated": "2026-10-09T05:12:11.502Z",
+  "lastUpdated": "2026-10-09T07:05:20.592Z",
   "videoCount": 983,
   "videos": [
+    {
+      "id": "sQlSXKR3uKE",
+      "title": "【duolingo】한국어 공부 방송！２！",
+      "published": "2026-10-09T06:40:47+00:00",
+      "type": "stream",
+      "duration": 2562,
+      "status": "past",
+      "scheduledStart": "2026-10-09T06:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-09T05:55:29.000Z"
+    },
     {
       "id": "Zz3C18nIgLw",
       "title": "【衝撃】神イヤホンの実態 #INZONE #VTuber #PR 【ラプラス・ダークネス/ホロライブ】",
@@ -27,16 +38,6 @@
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-10-13T12:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "sQlSXKR3uKE",
-      "title": "【duolingo】한국어 공부 방송！２！",
-      "published": "2026-10-06T14:45:03.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-09T06:00:00.000Z",
       "typedBy": "innertube"
     },
     {
