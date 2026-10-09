@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/-qxtd4TgQmq7uQR7f0_tjwh29lWOQvZ0iM9iytFeElQVlzBcvFgAovo_IvYiAYPm0sgl0L8EnkI=s0"
   },
-  "lastUpdated": "2026-10-09T08:00:55.350Z",
+  "lastUpdated": "2026-10-09T11:05:43.609Z",
   "videoCount": 2423,
   "videos": [
     {
@@ -54,9 +54,10 @@
       "published": "2026-10-06T08:00:11.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-09T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-09T10:03:34.000Z"
     },
     {
       "id": "VmnLH-Ctnhs",
