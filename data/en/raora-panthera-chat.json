@@ -1,7 +1,7 @@
 {
   "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
   "channelName": "Raora Panthera",
-  "lastUpdated": "2026-10-08T18:03:37.450Z",
+  "lastUpdated": "2026-10-10T22:04:53.756Z",
   "streams": {
     "OSt_jg3VRE8": {
       "cur": {
@@ -8391,6 +8391,26 @@
       "gift": 6,
       "recv": 95,
       "sent": 95
+    },
+    "M_-a09BBegM": {
+      "cur": {
+        "$": 126.98,
+        "MX$": 250,
+        "€": 9,
+        "₩": 10000,
+        "CA$": 5,
+        "¥": 1600,
+        "HK$": 25,
+        "CHF": 4,
+        "₱": 125,
+        "₫": 50000
+      },
+      "sc": 30,
+      "member": 5,
+      "milestone": 17,
+      "gift": 5,
+      "recv": 23,
+      "sent": 23
     }
   }
 }
