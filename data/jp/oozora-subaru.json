@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
     "bannerUrl": "https://yt3.googleusercontent.com/mBMQexEqBHnlUZvE0vq2sHLAW37Pp8pNIQ4rLZlFc6fzADoGMKiYrPqZ1gynW4gyvximE8dlWhY=s0"
   },
-  "lastUpdated": "2026-10-09T17:06:25.379Z",
+  "lastUpdated": "2026-10-10T03:03:17.840Z",
   "videoCount": 2222,
   "videos": [
     {
@@ -46,10 +46,11 @@
       "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
       "published": "2026-10-09T13:03:45.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 5528,
+      "status": "past",
       "scheduledStart": "2026-10-10T01:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-10T01:01:51.000Z"
     },
     {
       "id": "B5EyiloD_7E",
