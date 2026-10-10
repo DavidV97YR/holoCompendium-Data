@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-10T16:30:50.765Z",
+  "lastUpdated": "2026-10-10T17:09:58.342Z",
   "videoCount": 201,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-11T04:00:00.000Z",
       "typedBy": "innertube"
+    },
+    {
+      "id": "SEOw40Kk7sk",
+      "title": "【出汁が決め手】塩ラーメンへいおまち！【Japanese Ramen Simulator】#UNIT_B #玲銘ミラ",
+      "published": "2026-10-10T15:31:47+00:00",
+      "type": "stream",
+      "duration": 15275,
+      "status": "past",
+      "scheduledStart": "2026-10-10T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-10T11:00:43.000Z"
     },
     {
       "id": "dLukH8G7c50",
@@ -110,17 +121,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-11T03:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "SEOw40Kk7sk",
-      "title": "【出汁が決め手】塩ラーメンへいおまち！【Japanese Ramen Simulator】#UNIT_B  #玲銘ミラ",
-      "published": "2026-10-09T09:33:06.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-10T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-10T11:00:43.000Z"
     },
     {
       "id": "sTFOEGI2K4U",
