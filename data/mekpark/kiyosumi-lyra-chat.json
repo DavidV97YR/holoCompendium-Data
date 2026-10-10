@@ -1,7 +1,7 @@
 {
   "channelId": "UC3OH5FKQ3qtl4uRme_vZTgA",
   "channelName": "Yoinagi Neon",
-  "lastUpdated": "2026-10-09T21:02:25.259Z",
+  "lastUpdated": "2026-10-10T10:05:54.865Z",
   "streams": {
     "zYAE5BlKDgg": {
       "e": "noreplay",
@@ -1277,6 +1277,17 @@
       "gift": 3,
       "recv": 15,
       "sent": 15
+    },
+    "5nwl3moARDE": {
+      "cur": {
+        "¥": 2300,
+        "MX$": 200
+      },
+      "sc": 7,
+      "member": 4,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
