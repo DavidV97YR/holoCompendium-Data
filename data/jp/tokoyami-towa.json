@@ -7,13 +7,13 @@
     "avatarUrl": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
     "bannerUrl": "https://yt3.googleusercontent.com/FF7U-8fSNFmZalS5rOz0xblWY-wNC_IxZZ4AG_BctbqptVxfIAhNrn-6E3MYNCH33EgcASGJ=s0"
   },
-  "lastUpdated": "2026-10-10T11:04:40.227Z",
+  "lastUpdated": "2026-10-10T13:03:46.692Z",
   "videoCount": 1919,
   "videos": [
     {
       "id": "M7MCl7N3nlQ",
       "title": "【 #1 】まったりホロ鯖ARKきたあああああああ【常闇トワ/ホロライブ】",
-      "published": "2026-10-10T00:33:01.000Z",
+      "published": "2026-10-10T11:20:38+00:00",
       "type": "stream",
       "duration": 31258,
       "status": "past",
@@ -27,9 +27,10 @@
       "published": "2026-10-10T00:26:27.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-10T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-10T13:00:06.000Z"
     },
     {
       "id": "kUf3E7fz8FQ",
