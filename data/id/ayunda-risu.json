@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-10-10T07:00:51.004Z",
+  "lastUpdated": "2026-10-10T09:05:57.696Z",
   "videoCount": 1739,
   "videos": [
     {
@@ -15,9 +15,11 @@
       "title": "【hololive Dreams】 Area15.1 plays holodori together !!!【#holodori #ホロドリ】",
       "published": "2026-10-10T06:18:23.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 6261,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-10T07:00:00.000Z",
+      "actualStart": "2026-10-10T07:02:19.000Z"
     },
     {
       "id": "BC04qOxjTPM",

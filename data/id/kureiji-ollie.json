@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-10-10T09:00:47.061Z",
+  "lastUpdated": "2026-10-10T09:06:26.628Z",
   "videoCount": 1809,
   "videos": [
     {
@@ -272,10 +272,11 @@
       "title": "【hololive Dreams】 MAKE WAY AREA 15.1 IS HERE!! #holodori #ホロドリ 【Kureiji Ollie】",
       "published": "2026-09-27T09:46:11.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 6615,
+      "status": "past",
       "scheduledStart": "2026-10-10T07:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-10T07:03:43.000Z"
     },
     {
       "id": "n0HdG-SqM0k",

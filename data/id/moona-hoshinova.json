@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-10-10T07:00:52.454Z",
+  "lastUpdated": "2026-10-10T09:06:06.331Z",
   "videoCount": 1232,
   "videos": [
     {
@@ -15,9 +15,11 @@
       "title": "【Hololive Dreams】Area15.1 in the house!【hololive | moona】",
       "published": "2026-10-10T06:36:00.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 5617,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-10T07:00:00.000Z",
+      "actualStart": "2026-10-10T07:08:40.000Z"
     },
     {
       "id": "Qpm2GeNmykY",

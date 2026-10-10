@@ -7,16 +7,16 @@
     "avatarUrl": "https://yt3.ggpht.com/k5cVF6C4_wfjYaf3iNU9ZfqTUZp6nwk_f4_Jid3VPIMJcjQj4Zll31sdE0J3yP1HEJoNtl0gyho",
     "bannerUrl": "https://yt3.googleusercontent.com/lS_8xng9FBW43-gQbWyBkQjMKId6Vi0ECeEEup6lXJ582V_k5nsONUcmhudOBnQFuVOIofH3=s0"
   },
-  "lastUpdated": "2026-10-10T07:01:44.112Z",
+  "lastUpdated": "2026-10-10T09:13:38.891Z",
   "videoCount": 935,
   "videos": [
     {
       "id": "OZ4mRovojRw",
       "title": "【VALORANT】う、うおおおおおおおおーーーーん【ぶいすぽっ！ / 紡木こかげ】",
-      "published": "2026-10-10T03:21:00.000Z",
+      "published": "2026-10-10T09:01:27+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 18282,
+      "status": "past",
       "scheduledStart": "2026-10-10T03:45:00.000Z",
       "actualStart": "2026-10-10T03:43:27.000Z",
       "typedBy": "data-api"
@@ -27,9 +27,10 @@
       "published": "2026-10-10T03:05:57.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-10T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-10T09:01:01.000Z"
     },
     {
       "id": "T-t0U8H8ebY",
