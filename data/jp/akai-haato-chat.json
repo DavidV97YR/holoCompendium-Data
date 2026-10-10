@@ -1,7 +1,7 @@
 {
   "channelId": "UC1CfXB_kRs3C-zaeTG3oGyg",
   "channelName": "Akai Haato",
-  "lastUpdated": "2026-10-07T12:03:34.915Z",
+  "lastUpdated": "2026-10-10T12:02:54.001Z",
   "streams": {
     "egpHivusivI": {
       "gift": 7,
@@ -14542,6 +14542,11 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "9z2a1tC27fE": {
+      "gift": 4,
+      "recv": 23,
+      "sent": 23
     }
   }
 }
