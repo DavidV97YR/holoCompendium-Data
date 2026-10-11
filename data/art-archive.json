@@ -1365,11 +1365,20 @@
           "width": 2560,
           "height": 1440,
           "bytes": 2228710
+        },
+        {
+          "date": "2026-10-11",
+          "key": "jp/hakui-koyori/2026-10-11/banner.webp",
+          "src": "https://yt3.googleusercontent.com/zKD5BdupX59MQphlisd2ZswiBeuoC5TfcnW92BN--hjkJ2VlpzJJiw0nrZr1PMXKgcNEHLQVWJs",
+          "sha256": "55a60ada967ccca50844132693ee43bccab0c7d7e4941e2b8a2a43f8edd795f4",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 2058194
         }
       ],
       "latest": {
         "avatar": "jp/hakui-koyori/2026-09-26/avatar.webp",
-        "banner": "jp/hakui-koyori/2026-09-26/banner.webp"
+        "banner": "jp/hakui-koyori/2026-10-11/banner.webp"
       }
     },
     "jp/himemori-luna": {
@@ -2397,5 +2406,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-08T13:17:41.100Z"
+  "lastUpdated": "2026-10-11T15:16:09.589Z"
 }
