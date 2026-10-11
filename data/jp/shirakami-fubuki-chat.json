@@ -1,7 +1,7 @@
 {
   "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
   "channelName": "Shirakami Fubuki",
-  "lastUpdated": "2026-10-10T16:07:28.907Z",
+  "lastUpdated": "2026-10-11T16:11:40.991Z",
   "streams": {
     "hvlAlhDS9SQ": {
       "member": 1
@@ -33369,6 +33369,13 @@
       "gift": 3,
       "recv": 15,
       "sent": 20
+    },
+    "gbCsK3KnVVE": {
+      "member": 5,
+      "milestone": 5,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }
