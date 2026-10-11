@@ -7,16 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-10-11T09:30:38.191Z",
+  "lastUpdated": "2026-10-11T11:01:46.770Z",
   "videoCount": 1854,
   "videos": [
+    {
+      "id": "PPOAqpd6Pz4",
+      "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
+      "published": "2026-10-11T10:29:42+00:00",
+      "type": "stream",
+      "duration": 4106,
+      "status": "past",
+      "scheduledStart": "2026-10-11T08:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-11T08:02:22.000Z"
+    },
     {
       "id": "tOIdBJ9Dm3E",
       "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
       "published": "2026-10-11T09:09:48.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 1668,
+      "status": "past",
       "actualStart": "2026-10-11T09:10:55.000Z",
       "typedBy": "innertube"
     },
@@ -39,17 +50,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-11T13:30:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "PPOAqpd6Pz4",
-      "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
-      "published": "2026-10-11T07:22:06.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-11T08:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-11T08:02:22.000Z"
     },
     {
       "id": "c9XZhiqOPk4",

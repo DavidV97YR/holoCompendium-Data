@@ -7,16 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg",
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0"
   },
-  "lastUpdated": "2026-10-11T09:05:03.792Z",
+  "lastUpdated": "2026-10-11T11:04:57.990Z",
   "videoCount": 1300,
   "videos": [
+    {
+      "id": "JK8qZPCZiL8",
+      "title": "【#ホロARK】初上陸🏝生き延びる【風真いろは/ホロライブ】",
+      "published": "2026-10-11T09:17:11+00:00",
+      "type": "stream",
+      "duration": 14242,
+      "status": "past",
+      "scheduledStart": "2026-10-11T05:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-11T05:01:42.000Z"
+    },
     {
       "id": "NfZnchcKVw0",
       "title": "ノンブレス・オブリージュ - ピノキオピー / Covered by 風真いろは",
       "published": "2026-10-11T09:00:10+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "live",
+      "duration": 209,
+      "status": "past",
       "scheduledStart": "2026-10-11T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-11T09:00:10.000Z"
@@ -41,17 +52,6 @@
       "scheduledStart": "2026-10-10T22:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-10T21:59:33.000Z"
-    },
-    {
-      "id": "JK8qZPCZiL8",
-      "title": "【#ホロARK】初上陸🏝生き延びる【風真いろは/ホロライブ】",
-      "published": "2026-10-10T21:50:51.000Z",
-      "type": "stream",
-      "duration": 14242,
-      "status": "past",
-      "scheduledStart": "2026-10-11T05:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-11T05:01:42.000Z"
     },
     {
       "id": "4I9tJTc3Ye4",
