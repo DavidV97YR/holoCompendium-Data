@@ -1,7 +1,7 @@
 {
   "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
   "channelName": "Hakos Baelz",
-  "lastUpdated": "2026-10-10T16:02:09.290Z",
+  "lastUpdated": "2026-10-11T06:02:20.293Z",
   "streams": {
     "UbE1V8D_lWc": {
       "cur": {
@@ -18726,6 +18726,21 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "5pc_-YAwKAE": {
+      "cur": {
+        "$": 34.99,
+        "A$": 2,
+        "₩": 5000,
+        "¥": 2000,
+        "HK$": 25
+      },
+      "sc": 7,
+      "member": 1,
+      "milestone": 6,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     }
   }
 }
