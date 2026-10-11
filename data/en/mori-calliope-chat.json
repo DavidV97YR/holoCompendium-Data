@@ -1,7 +1,7 @@
 {
   "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
   "channelName": "Mori Calliope",
-  "lastUpdated": "2026-10-10T06:02:37.709Z",
+  "lastUpdated": "2026-10-11T08:02:55.523Z",
   "streams": {
     "APCP5OpOixE": {
       "milestone": 10
@@ -24475,6 +24475,29 @@
       "gift": 6,
       "recv": 64,
       "sent": 64
+    },
+    "RdaWhu97HqA": {
+      "cur": {
+        "$": 380.51,
+        "A$": 102,
+        "CA$": 123.99,
+        "HK$": 500,
+        "ARS": 2000,
+        "€": 6,
+        "₩": 2100,
+        "R$": 3,
+        "HUF": 400,
+        "£": 0.79,
+        "NT$": 75,
+        "CHF": 3
+      },
+      "sc": 85,
+      "sticker": 2,
+      "member": 3,
+      "milestone": 19,
+      "gift": 4,
+      "recv": 12,
+      "sent": 12
     }
   }
 }

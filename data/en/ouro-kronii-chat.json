@@ -1,7 +1,7 @@
 {
   "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
   "channelName": "Ouro Kronii",
-  "lastUpdated": "2026-10-10T08:02:18.188Z",
+  "lastUpdated": "2026-10-11T08:03:11.788Z",
   "streams": {
     "_DbU-jizOho": {
       "cur": {
@@ -14561,6 +14561,28 @@
       "gift": 7,
       "recv": 5,
       "sent": 7
+    },
+    "liHFYjCa2Dg": {
+      "cur": {
+        "$": 126.98,
+        "A$": 10,
+        "NT$": 750,
+        "₩": 10000,
+        "R$": 10,
+        "¥": 500,
+        "NZ$": 5,
+        "MYR": 15,
+        "€": 20,
+        "IDR": 50000,
+        "UYU": 75,
+        "CA$": 5
+      },
+      "sc": 24,
+      "member": 1,
+      "milestone": 15,
+      "gift": 8,
+      "recv": 12,
+      "sent": 12
     }
   }
 }
