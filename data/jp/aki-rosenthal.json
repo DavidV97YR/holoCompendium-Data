@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-10-11T13:01:48.429Z",
+  "lastUpdated": "2026-10-11T15:01:54.020Z",
   "videoCount": 1854,
   "videos": [
+    {
+      "id": "me_Pq47Plxg",
+      "title": "【 Big Walk 】4人で協力謎解きできる！？#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
+      "published": "2026-10-11T13:40:39+00:00",
+      "type": "stream",
+      "duration": 8815,
+      "status": "past",
+      "scheduledStart": "2026-10-11T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-11T11:01:16.000Z"
+    },
     {
       "id": "PPOAqpd6Pz4",
       "title": "【ホロライブドリームス】釣り雑談～図鑑コンプへの道！ #ホロドリ【ホロライブ/アキロゼ】",
@@ -32,25 +43,15 @@
       "typedBy": "innertube"
     },
     {
-      "id": "me_Pq47Plxg",
-      "title": "【 Big Walk 】4人で協力謎解きできる！？#ちくまろ /ひまちゃん、べにちゃん、ちょこせん【アキロゼ/ホロライブ】",
-      "published": "2026-10-11T07:51:36.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-11T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-11T11:01:16.000Z"
-    },
-    {
       "id": "dbMiQqtqP_Y",
       "title": "【 #ホロARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
       "published": "2026-10-11T07:32:08.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-11T13:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-11T13:37:54.000Z"
     },
     {
       "id": "c9XZhiqOPk4",
