@@ -1,7 +1,7 @@
 {
   "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
   "channelName": "Hakos Baelz",
-  "lastUpdated": "2026-10-11T17:01:22.360Z",
+  "lastUpdated": "2026-10-11T18:01:26.521Z",
   "streams": {
     "UbE1V8D_lWc": {
       "cur": {
@@ -18743,8 +18743,13 @@
       "sent": 6
     },
     "MXUSGZT_Prs": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "CA$": 2,
+        "$": 10
+      },
+      "sc": 2,
+      "member": 2,
+      "milestone": 9
     }
   }
 }
