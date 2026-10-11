@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-10-11T15:05:22.898Z",
+  "lastUpdated": "2026-10-11T17:05:09.655Z",
   "videoCount": 1234,
   "videos": [
+    {
+      "id": "4H-VTnYQB-M",
+      "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
+      "published": "2026-10-11T16:28:15+00:00",
+      "type": "stream",
+      "duration": 4440,
+      "status": "past",
+      "scheduledStart": "2026-10-11T14:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-11T14:00:43.000Z"
+    },
     {
       "id": "NbzZWUP7yjY",
       "title": "【Membership】Watch and Walk【Moona Hoshinova】",
       "published": "2026-10-11T13:45:28.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-11T16:30:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "4H-VTnYQB-M",
-      "title": "【Hololive Dreams】MoonKae in the house!【hololive | moona】",
-      "published": "2026-10-11T13:29:53.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-11T14:00:00.000Z",
+      "scheduledStart": "2026-10-11T16:30:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-11T14:00:43.000Z"
+      "actualStart": "2026-10-11T16:32:40.000Z"
     },
     {
       "id": "8M4IFbZ_SxA",
