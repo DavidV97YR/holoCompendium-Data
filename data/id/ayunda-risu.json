@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-10-11T07:00:58.185Z",
+  "lastUpdated": "2026-10-11T07:05:23.439Z",
   "videoCount": 1742,
   "videos": [
+    {
+      "id": "z3DPrfBGFqA",
+      "title": "#8 DINKUM HALLOWEEN EVENT w/ @sammybollivienn & @sayaayaaulya",
+      "published": "2026-10-11T06:31:40+00:00",
+      "type": "stream",
+      "duration": 7364,
+      "status": "past",
+      "scheduledStart": "2026-10-11T04:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-11T04:19:47.000Z"
+    },
     {
       "id": "VSmelPligX8",
       "title": "【hololive Dreams】 Area15.1 plays holodori together !!!【#holodori #ホロドリ】",
@@ -31,17 +42,6 @@
       "scheduledStart": "2026-10-11T01:00:00.000Z",
       "actualStart": "2026-10-11T01:00:27.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "z3DPrfBGFqA",
-      "title": "#8 DINKUM HALLOWEEN EVENT w/ @sammybollivienn & @sayaayaaulya",
-      "published": "2026-10-10T15:04:47.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-11T04:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-11T04:19:47.000Z"
     },
     {
       "id": "cJCd_eCQx9M",
