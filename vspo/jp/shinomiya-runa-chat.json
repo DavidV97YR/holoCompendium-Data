@@ -1,7 +1,7 @@
 {
   "channelId": "UCD5W21JqNMv_tV9nfjvF9sw",
   "channelName": "Shinomiya Runa",
-  "lastUpdated": "2026-10-11T22:08:39.109Z",
+  "lastUpdated": "2026-10-11T23:01:29.292Z",
   "streams": {
     "Nh3KrUumaSs": {
       "cur": {
@@ -10603,8 +10603,10 @@
       "member": 1
     },
     "efhcHNoliXA": {
-      "e": "noreplay",
-      "n": 9
+      "cur": {
+        "¥": 2000
+      },
+      "sc": 4
     }
   }
 }
