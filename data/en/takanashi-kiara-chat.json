@@ -1,7 +1,7 @@
 {
   "channelId": "UCHsx4Hqa-1ORjQTh9TYDhww",
   "channelName": "Takanashi Kiara",
-  "lastUpdated": "2026-10-10T22:05:10.401Z",
+  "lastUpdated": "2026-10-12T00:01:35.478Z",
   "streams": {
     "1b1VhDCFRzY": {
       "cur": {
@@ -27541,6 +27541,23 @@
       "gift": 2,
       "recv": 2,
       "sent": 2
+    },
+    "aqUN0NpH1l0": {
+      "cur": {
+        "MYR": 83.9,
+        "$": 201,
+        "A$": 80,
+        "€": 21,
+        "HUF": 400,
+        "MX$": 20,
+        "CA$": 5
+      },
+      "sc": 25,
+      "member": 3,
+      "milestone": 19,
+      "gift": 4,
+      "recv": 17,
+      "sent": 17
     }
   }
 }
