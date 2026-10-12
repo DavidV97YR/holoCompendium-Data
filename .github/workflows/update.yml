@@ -142,7 +142,7 @@ jobs:
           OUT: ./vspo-popular.json
         run: node scripts/build-popular.js
 
-      # The Music page: every video YouTube marks as music (fetch-views.js
+      # The Music page: every video YouTube marks as music (fetch-music.js
       # records the marks), from every talent, answered from the catalogue
       # for the same reason as popular.json.
       - name: Build music.json (hololive)
