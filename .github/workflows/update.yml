@@ -94,6 +94,21 @@ jobs:
         with:
           node-version: '24'
 
+      # YouTube's ♪ on each channel's Videos tab, into the talents' views
+      # files, so a new song reaches the talent page and the Music page in this
+      # same run. A minute or so for every channel; no quota (innertube).
+      - name: Fetch music marks (hololive)
+        if: ${{ inputs.org != 'vspo' }}
+        env:
+          DATA_DIR: ./data
+        run: node scripts/fetch-music.js
+
+      - name: Fetch music marks (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        env:
+          DATA_DIR: ./vspo
+        run: node scripts/fetch-music.js
+
       - name: Build SQLite catalogue (hololive)
         if: ${{ inputs.org != 'vspo' }}
         env:
