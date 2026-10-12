@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0"
   },
-  "lastUpdated": "2026-10-12T17:16:26.222Z",
+  "lastUpdated": "2026-10-12T19:05:22.472Z",
   "videoCount": 1813,
   "videos": [
+    {
+      "id": "sX-z3lGc-8E",
+      "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAYS WITH YOU!! 【Kureiji Ollie】",
+      "published": "2026-10-12T18:14:49+00:00",
+      "type": "stream",
+      "duration": 9373,
+      "status": "past",
+      "scheduledStart": "2026-10-12T15:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T15:29:37.000Z"
+    },
     {
       "id": "x4eIbYKOZXo",
       "title": "【hololive Dreams】 DREAMING IN PARTY!! #holodori #ホロドリ 【Kureiji Ollie】",
@@ -39,7 +50,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-13T02:00:00.000Z",
+      "scheduledStart": "2026-10-13T01:00:00.000Z",
       "typedBy": "innertube"
     },
     {
@@ -126,17 +137,6 @@
       "duration": 13,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "sX-z3lGc-8E",
-      "title": "【BIRTHDAY COUNTDOWN】 6 YEARS OF BIRTHDAYS WITH YOU!! 【Kureiji Ollie】",
-      "published": "2026-10-05T11:28:21.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-12T15:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-12T15:29:37.000Z"
     },
     {
       "id": "59Pbq66VTBw",
