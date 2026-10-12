@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0"
   },
-  "lastUpdated": "2026-10-12T21:00:32.486Z",
+  "lastUpdated": "2026-10-12T21:08:55.109Z",
   "videoCount": 1184,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-13T13:30:00.000Z",
       "typedBy": "innertube"
+    },
+    {
+      "id": "B8uQ19SjIVQ",
+      "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢／ホロライブ】",
+      "published": "2026-10-12T19:36:38+00:00",
+      "type": "stream",
+      "duration": 20359,
+      "status": "past",
+      "scheduledStart": "2026-10-12T13:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T13:32:06.000Z"
     },
     {
       "id": "6NGG3Ka4R88",
@@ -48,17 +59,6 @@
       "duration": 23,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "B8uQ19SjIVQ",
-      "title": "【dressmaker】Chill🩵センス◎をみせます【水宮枢／ホロライブ】",
-      "published": "2026-10-10T21:56:52.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-12T13:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-12T13:32:06.000Z"
     },
     {
       "id": "MfUlg9FWdx4",
