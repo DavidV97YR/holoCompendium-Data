@@ -78,6 +78,10 @@ function main() {
   const channels = new Map();
   const videos   = new Map();
   const avatars  = {};   // "<branch>/<slug>" -> avatar URL, for the Members grid
+  // Videos YouTube marks as music (fetch-views.js reads the ♪ off each
+  // channel's Videos tab). Gathered over every file first: a shared channel's
+  // copy of a video may sit in a file read before the one that lists it.
+  const music    = new Set();
 
   for (const fp of files) {
     let data;
@@ -100,7 +104,11 @@ function main() {
     let views = {};
     const vp = fp.replace(/\.json$/, '-views.json');
     if (fs.existsSync(vp)) {
-      try { views = JSON.parse(fs.readFileSync(vp, 'utf8')).views || {}; } catch (_) {}
+      try {
+        const vf = JSON.parse(fs.readFileSync(vp, 'utf8'));
+        views = vf.views || {};
+        (vf.music || []).forEach(id => music.add(id));
+      } catch (_) {}
     }
 
     for (const v of (data.videos || [])) {
@@ -145,14 +153,15 @@ function main() {
       type       TEXT NOT NULL,
       status     TEXT,
       views      INTEGER,
-      actual_start INTEGER
+      actual_start INTEGER,
+      music      INTEGER NOT NULL DEFAULT 0
     );
   `);
 
   const insCh = db.prepare('INSERT INTO channels (id,name,branch,avatar) VALUES (?,?,?,?)');
   const insV  = db.prepare(
-    'INSERT INTO videos (id,channel_id,title,published,duration,type,status,views,actual_start)' +
-    ' VALUES (?,?,?,?,?,?,?,?,?)');
+    'INSERT INTO videos (id,channel_id,title,published,duration,type,status,views,actual_start,music)' +
+    ' VALUES (?,?,?,?,?,?,?,?,?,?)');
 
   db.exec('BEGIN');
   for (const c of channels.values()) insCh.run(c.id, c.name, c.branch, c.avatar);
@@ -162,7 +171,8 @@ function main() {
   // difference between touching 0.4% of the table and 99%.
   const ordered = [...videos.values()].sort((a, b) => b.published - a.published);
   for (const v of ordered)
-    insV.run(v.id, v.channel_id, v.title, v.published, v.duration, v.type, v.status, v.views, v.actual_start);
+    insV.run(v.id, v.channel_id, v.title, v.published, v.duration, v.type, v.status, v.views, v.actual_start,
+             music.has(v.id) ? 1 : 0);
   db.exec('COMMIT');
 
   db.exec(`
@@ -186,6 +196,7 @@ function main() {
   db.exec('ANALYZE');
 
   const withViews = db.prepare('SELECT COUNT(*) n FROM videos WHERE views > 0').get().n;
+  const withMusic = db.prepare('SELECT COUNT(*) n FROM videos WHERE music = 1').get().n;
   const byType    = db.prepare('SELECT type, COUNT(*) n FROM videos GROUP BY type ORDER BY n DESC').all();
   db.close();
 
@@ -207,6 +218,7 @@ function main() {
   console.log('  avatars          : ' + Object.keys(avatars).length + '  -> ' + avatarsOut);
   console.log('  videos           : ' + videos.size.toLocaleString());
   console.log('  with view counts : ' + withViews.toLocaleString());
+  console.log('  marked as music  : ' + withMusic.toLocaleString());
   byType.forEach(r => console.log('    ' + String(r.type).padEnd(7) + ' ' + r.n.toLocaleString()));
   console.log('\n  ' + OUT + '  ' + mb + ' MB\n');
 }
