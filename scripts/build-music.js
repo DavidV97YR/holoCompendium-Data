@@ -3,7 +3,7 @@
  * build-music.js
  *
  * Produces music.json — every video YouTube marks as music (the ♪ on its
- * duration badge, read off each channel's Videos tab by fetch-views.js), from
+ * duration badge, read off each channel's Videos tab by fetch-music.js), from
  * every talent, for the site's Music page. Reads the SQLite catalogue built by
  * build-sqlite.js, so a video on a shared channel (FUWAMOCO, the mekPark
  * units) is listed once, under the channel's own name. Run after it.

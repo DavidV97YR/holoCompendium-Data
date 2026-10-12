@@ -45,7 +45,7 @@ const WINDOWS = { daily: 1, weekly: 7, monthly: 30 };
 const TYPES   = { streams: 'stream', videos: 'video', shorts: 'short' };
 
 const SQL = `
-  SELECT v.id, v.title, v.published, v.duration, v.views, v.actual_start,
+  SELECT v.id, v.title, v.published, v.duration, v.views, v.actual_start, v.music,
          c.name AS channelName, c.avatar AS channelAvatar
   FROM videos v
   JOIN channels c ON c.id = v.channel_id
@@ -86,6 +86,10 @@ function main() {
           views: Number(r.views),
         });
         delete row.actual_start;
+        // YouTube's ♪ (fetch-music.js), only where there is one, so the home
+        // page's cards show it as the talent page's do.
+        delete row.music;
+        if (Number(r.music)) row.music = 1;
         if (r.actual_start != null) row.actualStart = new Date(Number(r.actual_start) * 1000).toISOString();
         return row;
       });

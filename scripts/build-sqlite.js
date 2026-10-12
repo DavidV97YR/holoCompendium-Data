@@ -78,7 +78,7 @@ function main() {
   const channels = new Map();
   const videos   = new Map();
   const avatars  = {};   // "<branch>/<slug>" -> avatar URL, for the Members grid
-  // Videos YouTube marks as music (fetch-views.js reads the ♪ off each
+  // Videos YouTube marks as music (fetch-music.js reads the ♪ off each
   // channel's Videos tab). Gathered over every file first: a shared channel's
   // copy of a video may sit in a file read before the one that lists it.
   const music    = new Set();
