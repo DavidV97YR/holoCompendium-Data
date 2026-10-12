@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
     "bannerUrl": "https://yt3.googleusercontent.com/-qxtd4TgQmq7uQR7f0_tjwh29lWOQvZ0iM9iytFeElQVlzBcvFgAovo_IvYiAYPm0sgl0L8EnkI=s0"
   },
-  "lastUpdated": "2026-10-12T13:05:17.119Z",
+  "lastUpdated": "2026-10-12T15:04:51.316Z",
   "videoCount": 2429,
   "videos": [
     {
@@ -15,10 +15,11 @@
       "title": "【 #ホロドリ 】ホロトリでホロドリ！？！？！？！？！？【鷹嶺ルイ/ホロライブ】",
       "published": "2026-10-12T06:30:04.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 7060,
+      "status": "past",
       "scheduledStart": "2026-10-12T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T13:02:29.000Z"
     },
     {
       "id": "y6IjGqE5z7E",
