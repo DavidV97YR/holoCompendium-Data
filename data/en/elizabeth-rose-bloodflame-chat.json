@@ -1,7 +1,7 @@
 {
   "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
   "channelName": "Elizabeth Rose Bloodflame",
-  "lastUpdated": "2026-10-07T00:11:42.735Z",
+  "lastUpdated": "2026-10-12T06:01:09.420Z",
   "streams": {
     "SlcmjzBIkDM": {
       "cur": {
@@ -3893,6 +3893,27 @@
       "gift": 6,
       "recv": 20,
       "sent": 33
+    },
+    "zNCnpGZRo8s": {
+      "cur": {
+        "MYR": 60,
+        "₱": 662,
+        "HUF": 245,
+        "£": 1.49,
+        "CLP": 3240,
+        "$": 120,
+        "€": 20,
+        "NT$": 2250,
+        "ARS": 1000,
+        "MX$": 114
+      },
+      "sc": 11,
+      "sticker": 6,
+      "member": 3,
+      "milestone": 15,
+      "gift": 3,
+      "recv": 31,
+      "sent": 31
     }
   }
 }
