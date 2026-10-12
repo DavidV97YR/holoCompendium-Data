@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-12T05:24:12.854Z",
+  "lastUpdated": "2026-10-12T09:09:46.836Z",
   "videoCount": 204,
   "videos": [
+    {
+      "id": "m7HXJUw55uE",
+      "title": "【Minecraft】ここから本格始動！【 #UNIT_B / #ゆにびマイクラ】",
+      "published": "2026-10-12T09:01:44+00:00",
+      "type": "stream",
+      "duration": 16910,
+      "status": "past",
+      "scheduledStart": "2026-10-12T04:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T04:05:31.000Z"
+    },
     {
       "id": "HwhAH-K60lM",
       "title": "【労働は生きがい】本日も一生懸命働きます。【Japanese Ramen Simulator】#UNIT_B  #玲銘ミラ",
@@ -20,17 +31,6 @@
       "scheduledStart": "2026-10-11T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-11T10:59:36.000Z"
-    },
-    {
-      "id": "m7HXJUw55uE",
-      "title": "【Minecraft】ここから本格始動！【 #UNIT_B / #ゆにびマイクラ】",
-      "published": "2026-10-11T14:39:00.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-12T04:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-12T04:05:31.000Z"
     },
     {
       "id": "umlV5BDMdSQ",
@@ -49,13 +49,14 @@
       "published": "2026-10-11T09:34:31.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-12T09:15:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T09:02:06.000Z"
     },
     {
       "id": "SEOw40Kk7sk",
-      "title": "【出汁が決め手】塩ラーメンへいおまち！【Japanese Ramen Simulator】#UNIT_B #玲銘ミラ",
+      "title": "【出汁が決め手】塩ラーメンへいおまち!【Japanese Ramen Simulator】#UNIT_B  #玲銘ミラ",
       "published": "2026-10-10T15:31:47Z",
       "type": "stream",
       "duration": 15265,
