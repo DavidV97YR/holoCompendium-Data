@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-12T11:10:03.553Z",
+  "lastUpdated": "2026-10-12T13:11:02.090Z",
   "videoCount": 205,
   "videos": [
+    {
+      "id": "shtv2FbPF-w",
+      "title": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
+      "published": "2026-10-12T11:17:30+00:00",
+      "type": "stream",
+      "duration": 5452,
+      "status": "past",
+      "scheduledStart": "2026-10-12T09:15:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T09:02:06.000Z"
+    },
     {
       "id": "wxMeQcLEbI8",
       "title": "間違えて「ペッ」してしまうギャル【 #UNIT_B / #宵凪ネオン】",
@@ -51,17 +62,6 @@
       "scheduledStart": "2026-10-11T04:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-11T03:59:12.000Z"
-    },
-    {
-      "id": "shtv2FbPF-w",
-      "title": "夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】",
-      "published": "2026-10-11T09:34:31.000Z",
-      "type": "stream",
-      "duration": 5452,
-      "status": "past",
-      "scheduledStart": "2026-10-12T09:15:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-12T09:02:06.000Z"
     },
     {
       "id": "SEOw40Kk7sk",
@@ -151,9 +151,10 @@
       "published": "2026-10-09T09:53:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-12T11:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-12T11:29:31.000Z"
     },
     {
       "id": "0mfPRs6GF3E",
