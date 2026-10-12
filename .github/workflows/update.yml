@@ -127,6 +127,23 @@ jobs:
           OUT: ./vspo-popular.json
         run: node scripts/build-popular.js
 
+      # The Music page: every video YouTube marks as music (fetch-views.js
+      # records the marks), from every talent, answered from the catalogue
+      # for the same reason as popular.json.
+      - name: Build music.json (hololive)
+        if: ${{ inputs.org != 'vspo' }}
+        env:
+          DB:  ./data.sqlite
+          OUT: ./music.json
+        run: node scripts/build-music.js
+
+      - name: Build music.json (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo.sqlite') != '' }}
+        env:
+          DB:  ./vspo.sqlite
+          OUT: ./vspo-music.json
+        run: node scripts/build-music.js
+
       # The /rank page's six leaderboards. Same reasoning as popular.json, one
       # step further: the all-time boards are aggregates over every channel
       # JSON (~43 MB) and every chat JSON (~40 MB), so a browser cannot compute
@@ -181,9 +198,11 @@ jobs:
           }
           put ./popular.json      popular.json      application/json
           put ./ranks.json        ranks.json        application/json
+          put ./music.json        music.json        application/json
           put ./data.sqlite       data.sqlite       application/vnd.sqlite3
           put ./vspo-popular.json vspo/popular.json application/json
           put ./vspo-ranks.json   vspo/ranks.json   application/json
+          put ./vspo-music.json   vspo/music.json   application/json
           put ./vspo.sqlite       vspo/data.sqlite  application/vnd.sqlite3
 
       - name: Commit updated data
