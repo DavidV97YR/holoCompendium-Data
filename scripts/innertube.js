@@ -87,4 +87,72 @@ async function classify(id) {
   };
 }
 
-module.exports = { classify };
+// ── Music: YouTube's ♪ on a video's duration badge ─────────────────────────
+// youtube.com marks a music video (a cover, an original, a 3D live song) with
+// a note before its length. That mark is not the video's category — PekoVivi's
+// "Onegai Darling" 3D live is filed under Gaming — and nothing a single video
+// answers carries it. The channel's Videos tab does: each card's badge names
+// the MUSIC icon. So the whole tab is walked, page by page, as a reader would
+// scroll it. Members-only videos are on it too; streams are not (they are on
+// the Live tab, which is not walked).
+//
+// → { ids: [videoId…] (the music ones), seen: n, complete: true|false }
+//   complete is false when a page failed part way: the caller keeps what it
+//   had for the videos it did not reach rather than dropping their marks.
+const VIDEOS_TAB    = 'EgZ2aWRlb3PyBgQKAjoA';
+const BROWSE_CLIENT = { clientName: 'WEB', clientVersion: '2.20250101.00.00', hl: 'en' };
+
+async function browse(body) {
+  const r = await fetch('https://www.youtube.com/youtubei/v1/browse?key=' + KEY, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ context: { client: BROWSE_CLIENT }, ...body }),
+  });
+  if (!r.ok) throw new Error('innertube HTTP ' + r.status);
+  return r.json();
+}
+
+// One page: every badge's video, and the grid's next-page token. The next
+// page is the LAST entry of the grid's list; the page carries other
+// continuations too (menus, chips) that lead somewhere else.
+function scanPage(page, seen, music) {
+  let token = null;
+  (function walk(x) {
+    if (!x || typeof x !== 'object') return;
+    const b = x.thumbnailBadgeViewModel;
+    if (b && b.animationActivationTargetId) {
+      seen.add(b.animationActivationTargetId);
+      const icons = ((b.icon || {}).sources || []).map(s => (s.clientResource || {}).imageName);
+      if (icons.includes('MUSIC')) music.add(b.animationActivationTargetId);
+    }
+    const list = (x.richGridRenderer && x.richGridRenderer.contents)
+              || (x.appendContinuationItemsAction && x.appendContinuationItemsAction.continuationItems);
+    if (list) {
+      const c = list[list.length - 1] && list[list.length - 1].continuationItemRenderer;
+      token = (c && c.continuationEndpoint && c.continuationEndpoint.continuationCommand
+               && c.continuationEndpoint.continuationCommand.token) || null;
+    }
+    for (const k in x) walk(x[k]);
+  })(page);
+  return token;
+}
+
+async function musicVideos(channelId) {
+  const seen = new Set(), music = new Set();
+  let complete = false;
+  try {
+    let token = scanPage(await browse({ browseId: channelId, params: VIDEOS_TAB }), seen, music);
+    // A channel has a few hundred videos at most (Suisei: 7 pages of 30); the
+    // cap only stops a token that never ends.
+    for (let pages = 1; token && pages < 100; pages++) {
+      await new Promise(r => setTimeout(r, 200));
+      token = scanPage(await browse({ continuation: token }), seen, music);
+    }
+    // A first page with no cards at all is a bot check or a changed layout,
+    // not a channel without videos: a failure, not "no music".
+    complete = !token && seen.size > 0;
+  } catch (e) { /* complete stays false */ }
+  return { ids: [...music].sort(), seen: seen.size, complete };
+}
+
+module.exports = { classify, musicVideos };

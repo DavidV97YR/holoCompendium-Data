@@ -14,7 +14,8 @@
  *   "views": {
  *     "<videoId>": <viewCount>,
  *     ...
- *   }
+ *   },
+ *   "music": ["<videoId>", ...]   ← YouTube's ♪ (innertube.js musicVideos)
  * }
  *
  * Required env vars (set as GitHub Actions secrets):
@@ -29,6 +30,7 @@ const https   = require('https');
 const http    = require('http');
 const fs      = require('fs');
 const path    = require('path');
+const { musicVideos } = require('./innertube');
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 
@@ -135,6 +137,7 @@ async function main() {
     totalVideos: 0,
     totalQuota:  0,
   };
+  const musicByChannel = new Map();   // channelId -> musicVideos() result
 
   for (const filePath of channelFiles) {
     let channel;
@@ -163,10 +166,12 @@ async function main() {
     const viewsFilePath = filePath.replace(/\.json$/, '-views.json');
 
     // Load existing views so we can detect changes
-    let existingViews = {};
+    let existingViews = {}, existingMusic = [];
     if (fs.existsSync(viewsFilePath)) {
       try {
-        existingViews = JSON.parse(fs.readFileSync(viewsFilePath, 'utf8')).views || {};
+        const old = JSON.parse(fs.readFileSync(viewsFilePath, 'utf8'));
+        existingViews = old.views || {};
+        existingMusic = old.music || [];
       } catch (_) { /* start fresh if file is corrupt */ }
     }
 
@@ -182,8 +187,17 @@ async function main() {
     summary.totalVideos += videoIds.length;
     summary.totalQuota  += quotaUsed;
 
+    // Which videos YouTube marks as music. No quota: innertube, not the Data
+    // API. Walked once per channel, as FUWAMOCO and the mekPark units share
+    // one. A walk cut short only adds marks, so a failed page never drops any.
+    if (!musicByChannel.has(channelId)) musicByChannel.set(channelId, await musicVideos(channelId));
+    const walk  = musicByChannel.get(channelId);
+    const music = walk.complete ? walk.ids : [...new Set([...existingMusic, ...walk.ids])].sort();
+    if (!walk.complete) console.log(`    ⚠  Music walk incomplete (${walk.seen} seen) — kept the previous marks`);
+
     // Check whether anything actually changed
-    const changed = Object.keys(views).some(id => views[id] !== existingViews[id]);
+    const changed = Object.keys(views).some(id => views[id] !== existingViews[id])
+                 || music.join() !== existingMusic.join();
 
     if (!changed && Object.keys(existingViews).length > 0) {
       console.log(`    ✓ No changes (${quotaUsed} quota unit${quotaUsed !== 1 ? 's' : ''})`);
@@ -196,6 +210,7 @@ async function main() {
       channelName,
       lastUpdated: new Date().toISOString(),
       views,
+      music,
     };
 
     fs.writeFileSync(viewsFilePath, JSON.stringify(out, null, 2), 'utf8');
