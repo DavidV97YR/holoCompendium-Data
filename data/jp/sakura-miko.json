@@ -7,18 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0"
   },
-  "lastUpdated": "2026-10-13T13:01:39.420Z",
+  "lastUpdated": "2026-10-13T15:01:39.410Z",
   "videoCount": 2392,
   "videos": [
     {
+      "id": "0sik9RTdQ04",
+      "title": "【検証】ついに決着をつける時がきた――――――。告知アリ!【ホロライブ/さくらみこ】",
+      "published": "2026-10-13T13:07:24+00:00",
+      "type": "stream",
+      "duration": 3590,
+      "status": "past",
+      "scheduledStart": "2026-10-13T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-13T12:02:48.000Z"
+    },
+    {
       "id": "i5GP5VRzB4E",
-      "title": "？？？？？？？？？",
+      "title": "【Animation MV】PON-DERFUL!!! / さくらみこ (official)",
       "published": "2026-10-13T13:00:11+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 226,
+      "status": "past",
       "scheduledStart": "2026-10-13T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-13T13:00:11.000Z"
     },
     {
       "id": "efFNIDrV9Io",
@@ -56,20 +68,10 @@
       "published": "2026-10-12T08:28:56.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-13T14:30:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "0sik9RTdQ04",
-      "title": "【検証】ついに決着をつける時がきた――――――。告知アリ!【ホロライブ/さくらみこ】",
-      "published": "2026-10-12T08:27:16.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-13T12:00:00.000Z",
+      "scheduledStart": "2026-10-13T14:30:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-13T12:02:48.000Z"
+      "actualStart": "2026-10-13T14:33:32.000Z"
     },
     {
       "id": "0_-7MQxVxjk",
