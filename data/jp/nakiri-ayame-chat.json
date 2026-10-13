@@ -1,7 +1,7 @@
 {
   "channelId": "UC7fk0CB07ly8oSl0aqKkqFg",
   "channelName": "Nakiri Ayame",
-  "lastUpdated": "2026-10-07T00:55:28.316Z",
+  "lastUpdated": "2026-10-13T14:05:17.313Z",
   "streams": {
     "g1jF4SJP2-E": {
       "cur": {
@@ -6662,6 +6662,10 @@
       },
       "sc": 23,
       "member": 12
+    },
+    "qbpGRUKFqnA": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
