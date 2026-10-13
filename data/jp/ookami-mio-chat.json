@@ -1,7 +1,7 @@
 {
   "channelId": "UCp-5t9SrOQwXMU7iIjQfARg",
   "channelName": "Ookami Mio",
-  "lastUpdated": "2026-10-12T02:02:47.003Z",
+  "lastUpdated": "2026-10-13T18:05:28.271Z",
   "streams": {
     "8el7kOW8qp0": {
       "cur": {
@@ -18691,6 +18691,19 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "bSU9petYzKc": {
+      "cur": {
+        "¥": 3760,
+        "NT$": 30,
+        "THB": 69
+      },
+      "sc": 7,
+      "member": 1,
+      "milestone": 15,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     }
   }
 }
