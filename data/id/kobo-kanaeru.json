@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
     "bannerUrl": "https://yt3.googleusercontent.com/HkdBYiIHoZdS3jhzfTtLCAf6upeuzDb_yNeMyMi4fH3JGh57C-S1leqJG2VksyUTpPPKE2jcRSk=s0"
   },
-  "lastUpdated": "2026-10-13T01:06:05.637Z",
+  "lastUpdated": "2026-10-13T03:05:59.661Z",
   "videoCount": 871,
   "videos": [
     {
@@ -15,10 +15,11 @@
       "title": "【hololive Dreams】HAPPY BIRTHDAY KUREIJI OLLIE daily holodori ... #holodori #ホロドリ",
       "published": "2026-10-12T18:25:33.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 5002,
+      "status": "past",
       "scheduledStart": "2026-10-13T01:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-13T01:04:25.000Z"
     },
     {
       "id": "n1M-2Qe7OMg",
