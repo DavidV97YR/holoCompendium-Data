@@ -11,8 +11,9 @@
  * run. No quota: innertube, not the Data API.
  *
  * Only the "music" key is written; fetch-views.js owns the rest of the file
- * and carries the list over when it rewrites the views. A walk cut short only
- * adds marks, so a failed page never drops any.
+ * and carries the list over when it rewrites the views. A mark is dropped only
+ * when the tab shows that video without the note: a video gone from the tab
+ * (made unlisted) keeps it, and a walk cut short only adds marks.
  *
  * Env:
  *   DATA_DIR — data folder (default: ./data); ./vspo for VSPO!
@@ -74,7 +75,11 @@ async function main() {
       let doc = null;
       try { doc = JSON.parse(fs.readFileSync(vp, 'utf8')); } catch { /* none yet */ }
       const had = (doc && doc.music) || [];
-      const music = walk.complete ? walk.ids : [...new Set([...had, ...walk.ids])].sort();
+      // A mark goes only when the tab shows the video without the note. One
+      // that has left the tab (unlisted, like Toto's members-only Donut Hole
+      // cover) keeps its mark, as does every mark when the walk was cut short.
+      const keep = walk.complete ? had.filter(v => !walk.seenIds.has(v)) : had;
+      const music = [...new Set([...keep, ...walk.ids])].sort();
       marks += music.length;
       if (doc && music.join() === had.join()) continue;
       // Nothing to record and no file yet (a deleted channel: Rushia, Mel).

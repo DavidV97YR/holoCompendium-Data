@@ -96,7 +96,8 @@ async function classify(id) {
 // scroll it. Members-only videos are on it too; streams are not (they are on
 // the Live tab, which is not walked).
 //
-// → { ids: [videoId…] (the music ones), seen: n, complete: true|false }
+// → { ids: [videoId…] (the music ones), seen: n, seenIds: Set (every video
+//   on the tab), complete: true|false }
 //   complete is false when a page failed part way: the caller keeps what it
 //   had for the videos it did not reach rather than dropping their marks.
 const VIDEOS_TAB    = 'EgZ2aWRlb3PyBgQKAjoA';
@@ -152,7 +153,7 @@ async function musicVideos(channelId) {
     // not a channel without videos: a failure, not "no music".
     complete = !token && seen.size > 0;
   } catch (e) { /* complete stays false */ }
-  return { ids: [...music].sort(), seen: seen.size, complete };
+  return { ids: [...music].sort(), seen: seen.size, seenIds: seen, complete };
 }
 
 module.exports = { classify, musicVideos };
