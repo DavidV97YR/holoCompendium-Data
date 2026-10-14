@@ -1,7 +1,7 @@
 {
   "channelId": "UCuDY3ibSP2MFRgf7eo3cojg",
   "channelName": "Sendo Yuuhi",
-  "lastUpdated": "2026-10-14T21:04:03.056Z",
+  "lastUpdated": "2026-10-14T22:02:09.811Z",
   "streams": {
     "Egj3NxuW5-c": {
       "cur": {
@@ -7678,8 +7678,12 @@
       "sent": 51
     },
     "J2LTHmiDIVw": {
-      "e": "noreplay",
-      "n": 4
+      "cur": {
+        "¥": 6950
+      },
+      "sc": 8,
+      "member": 2,
+      "milestone": 3
     }
   }
 }
