@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
     "bannerUrl": "https://yt3.googleusercontent.com/6x-pnDsIX6xsDOB_jW0NIFrzcz0lWfZc8eoirTW1cEwJwTp7FzPOcFBBh18dRLx3cr8LSfVriA=s0"
   },
-  "lastUpdated": "2026-10-14T03:06:07.134Z",
+  "lastUpdated": "2026-10-14T05:05:55.208Z",
   "videoCount": 1025,
   "videos": [
     {
@@ -15,10 +15,11 @@
       "title": "【hololive Dreams】Playing With VIVIIIIITAAAANNNNNNN!!!!!!! @KikiraraVivi",
       "published": "2026-10-13T16:25:12.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 6938,
+      "status": "past",
       "scheduledStart": "2026-10-14T03:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-14T03:02:26.000Z"
     },
     {
       "id": "K9mIMtHW68k",
