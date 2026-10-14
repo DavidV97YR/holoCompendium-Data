@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0"
   },
-  "lastUpdated": "2026-10-14T13:07:29.269Z",
+  "lastUpdated": "2026-10-14T15:08:15.202Z",
   "videoCount": 940,
   "videos": [
+    {
+      "id": "asHmzNw6E6Y",
+      "title": "【HOLOLIVE DREAMS】mother? #holodori",
+      "published": "2026-10-14T14:17:56+00:00",
+      "type": "stream",
+      "duration": 7585,
+      "status": "past",
+      "scheduledStart": "2026-10-14T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-14T12:01:53.000Z"
+    },
     {
       "id": "F7pN152ClPo",
       "title": "【ACE COMBAT 8: WINGS OF THEVE】GET IN THE PILOT'S SEAT BIBOO",
@@ -29,17 +40,6 @@
       "duration": 50,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "asHmzNw6E6Y",
-      "title": "【HOLOLIVE DREAMS】mother? #holodori",
-      "published": "2026-10-14T05:19:18.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-14T12:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-14T12:01:53.000Z"
     },
     {
       "id": "AMKwq_MXukM",
