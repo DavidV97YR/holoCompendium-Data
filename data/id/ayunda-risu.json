@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg",
     "bannerUrl": "https://yt3.googleusercontent.com/KI-ksAnWgjfrQPJkMIVKGkSP5i1k4DV8KtZdf01mEEppEBgEZf6yHCO875YvQa09VZ3fKfrp4kE=s0"
   },
-  "lastUpdated": "2026-10-15T14:00:50.186Z",
+  "lastUpdated": "2026-10-15T15:05:41.415Z",
   "videoCount": 1747,
   "videos": [
     {
-      "id": "iHEo94t6jIU",
-      "title": "PRISUNERS Talk (grin emoji)",
-      "published": "2026-10-15T13:49:30.000Z",
-      "type": "member",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-15T14:15:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
       "id": "COli1xENiU8",
       "title": "【hololive Dreams】Risu, Iofi, Ollie trying new holodori event !!【#holodori #ホロドリ】",
-      "published": "2026-10-15T07:00:05.000Z",
+      "published": "2026-10-15T14:51:21+00:00",
       "type": "stream",
       "duration": 6261,
       "status": "past",
       "scheduledStart": "2026-10-15T08:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-15T08:00:11.000Z"
+    },
+    {
+      "id": "iHEo94t6jIU",
+      "title": "PRISUNERS Talk (grin emoji)",
+      "published": "2026-10-15T13:49:30.000Z",
+      "type": "member",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-10-15T14:15:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-15T14:14:39.000Z"
     },
     {
       "id": "J7X_-Z37pt4",
