@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-10-15T21:30:34.319Z",
+  "lastUpdated": "2026-10-15T23:09:13.958Z",
   "videoCount": 1273,
   "videos": [
     {
@@ -16,9 +16,10 @@
       "published": "2026-10-15T21:22:52.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-15T22:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-15T22:01:01.000Z"
     },
     {
       "id": "577mhxKG9cQ",
@@ -96,7 +97,7 @@
       "title": "【#ホロドリ 】イナ先輩と初サシコラボ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published": "2026-10-14T05:07:42Z",
       "type": "stream",
-      "duration": 7165,
+      "duration": 7015,
       "status": "past",
       "scheduledStart": "2026-10-14T03:00:00.000Z",
       "typedBy": "innertube",
