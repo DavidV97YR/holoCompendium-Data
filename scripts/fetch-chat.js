@@ -349,6 +349,9 @@ async function walkChat(videoId) {
 // bot-gating rather than a genuinely private video, so it retries like the rest.
 const TRANSIENT = ['neterr', 'timeout', 'noreplay', 'gated'];
 
+// How long a stream given up as "no replay" is still asked about, once a day.
+const LATE_RETRY_DAYS = 14;
+
 async function walkChatRetrying(videoId, tries) {
   const n = tries || 3;
   let last = null;
@@ -702,6 +705,7 @@ async function main() {
   console.log('📂  ' + channelFiles.length + ' channel file(s) in ' + dataDir + '\n');
 
   const cutoff = Date.now() - windowHours * 3600 * 1000;
+  const lateRetry = new Date().getUTCHours() === 12;
   const summary = { streams: 0, withMoney: 0, unavailable: 0, remaining: 0, channels: 0 };
   let ranOut = false;
 
@@ -732,7 +736,15 @@ async function main() {
       // digits per talent), so this costs the hourly job almost nothing.
       // Entries written by the short-lived "permanent" logic have no `n`; treat
       // them as attempt 0 so they rejoin the normal retry path.
-      if (prev && prev.e) return (prev.n || 0) < maxAttempts;
+      if (prev && prev.e) {
+        if ((prev.n || 0) < maxAttempts) return true;
+        // Given up as "no replay": asked once more a day, by the 12:00 UTC
+        // run, for two weeks. YouTube can publish a replay after the hourly
+        // tries have run out — FUWAMOCO's and Lui's hololive Dreams streams
+        // had theirs two days on, and were left reading "turned off".
+        return prev.e === 'noreplay' && lateRetry
+            && Date.now() - new Date(v.published).getTime() < LATE_RETRY_DAYS * 86400000;
+      }
       if (mode === 'recent' && new Date(v.published).getTime() < cutoff) return false;
       return prev === undefined;                              // never tried
     });
