@@ -55,14 +55,17 @@ jobs:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: node scripts/watch-new.js
 
+      # !cancelled(): a failed hololive check is no reason to skip the other
+      # roster or to drop what was found.
       - name: Check feeds for new videos (VSPO!)
-        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        if: ${{ !cancelled() && inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
         env:
           DATA_DIR: ./vspo
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: node scripts/watch-new.js
 
       - name: Commit new videos
+        if: ${{ !cancelled() }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
