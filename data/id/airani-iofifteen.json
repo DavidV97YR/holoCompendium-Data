@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0"
   },
-  "lastUpdated": "2026-10-15T07:30:42.370Z",
+  "lastUpdated": "2026-10-15T09:05:17.434Z",
   "videoCount": 1856,
   "videos": [
     {
@@ -16,9 +16,10 @@
       "published": "2026-10-15T07:07:31.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-15T08:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-15T08:03:12.000Z"
     },
     {
       "id": "BshwrRG38BU",
