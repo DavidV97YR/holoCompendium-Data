@@ -7,8 +7,8 @@
     "avatarUrl": "https://yt3.ggpht.com/wuec9EJq49vLP5Urd_Jtr-2-UcRnKA_Z0VffwgIV5OCkrdiYqKURoN8q431M6MxCnGzMGDtlLw",
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0"
   },
-  "lastUpdated": "2026-10-15T05:26:38.401Z",
-  "videoCount": 1774,
+  "lastUpdated": "2026-10-15T12:31:07.126Z",
+  "videoCount": 1775,
   "videos": [
     {
       "id": "Hjq1k0CooSk",
@@ -611,6 +611,16 @@
       "status": "past",
       "scheduledStart": "2026-09-10T07:00:00.000Z",
       "actualStart": "2026-09-10T06:57:30.000Z"
+    },
+    {
+      "id": "Y5FsysFgMUY",
+      "title": "Gohan",
+      "published": "2026-09-10T04:43:35.000Z",
+      "type": "member",
+      "duration": 0,
+      "status": "live",
+      "actualStart": "2026-10-15T12:15:45.000Z",
+      "typedBy": "innertube"
     },
     {
       "id": "OnIXJOyO2-k",
