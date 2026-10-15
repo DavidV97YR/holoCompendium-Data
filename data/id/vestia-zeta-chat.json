@@ -1,7 +1,7 @@
 {
   "channelId": "UCTvHWSfBZgtxE4sILOaurIQ",
   "channelName": "Vestia Zeta",
-  "lastUpdated": "2026-10-15T14:04:07.280Z",
+  "lastUpdated": "2026-10-15T18:03:03.866Z",
   "streams": {
     "mRlzbsJDjeg": {
       "cur": {
@@ -15559,6 +15559,17 @@
       "gift": 2,
       "recv": 6,
       "sent": 6
+    },
+    "UQox0Df00rE": {
+      "cur": {
+        "$": 15,
+        "IDR": 120000,
+        "HK$": 10,
+        "¥": 320,
+        "SGD": 20
+      },
+      "sc": 6,
+      "sticker": 2
     }
   }
 }
