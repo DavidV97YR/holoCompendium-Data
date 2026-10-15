@@ -1,7 +1,7 @@
 {
   "channelId": "UC61OwuYOVuKkpKnid-43Twg",
   "channelName": "Shiranami Ramune",
-  "lastUpdated": "2026-10-15T16:10:54.696Z",
+  "lastUpdated": "2026-10-15T17:01:41.711Z",
   "streams": {
     "7SB_lilsYOk": {
       "cur": {
@@ -3332,8 +3332,11 @@
       "member": 1
     },
     "YwgWHMXLmhI": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 5820
+      },
+      "sc": 13,
+      "member": 3
     }
   }
 }
