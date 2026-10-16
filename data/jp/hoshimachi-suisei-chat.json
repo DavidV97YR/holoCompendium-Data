@@ -1,7 +1,7 @@
 {
   "channelId": "UC5CwaMl1eIgY8h02uZw7u8A",
   "channelName": "Hoshimachi Suisei",
-  "lastUpdated": "2026-10-13T14:05:07.667Z",
+  "lastUpdated": "2026-10-16T14:08:45.118Z",
   "streams": {
     "jIYmEBX58hs": {
       "e": "noreplay",
@@ -9871,6 +9871,19 @@
       "gift": 3,
       "recv": 10,
       "sent": 30
+    },
+    "ySKURYzOMJ4": {
+      "cur": {
+        "NT$": 450,
+        "¥": 52180,
+        "MYR": 15,
+        "IDR": 100000
+      },
+      "sc": 59,
+      "member": 8,
+      "gift": 3,
+      "recv": 35,
+      "sent": 35
     }
   }
 }
