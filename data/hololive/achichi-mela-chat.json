@@ -1,7 +1,7 @@
 {
   "channelId": "UC8eitCE9Z6EwUCs-VUi1blg",
   "channelName": "Achichi Mela",
-  "lastUpdated": "2026-10-16T14:04:00.794Z",
+  "lastUpdated": "2026-10-16T15:06:28.785Z",
   "streams": {
     "CEo1T9NzynY": 0,
     "mvLjwGCje64": 0,
@@ -32,11 +32,8 @@
     "xKhbOWNoYN8": 0,
     "tQS9sZ_zoZI": {
       "e": "noreplay",
-      "n": 25
+      "n": 26
     },
-    "nxuUKS_yq44": {
-      "e": "http503",
-      "n": 0
-    }
+    "nxuUKS_yq44": 0
   }
 }
