@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/P0TCuLWSv_bK-G6p7j-wY2XM6w78G8Z-vtZ-XxkuIXfjFuScBCL3_LLCl1W6dgdMe3GcikiskQ",
     "bannerUrl": "https://yt3.googleusercontent.com/5eeeR5MicXGp-wrT04AutRX4kT3Sb1WVKmGBqCToXpj4frJSIdNXKKM75zBF0H2ivpTyEj79eQ=s0"
   },
-  "lastUpdated": "2026-10-16T11:01:09.865Z",
+  "lastUpdated": "2026-10-16T11:10:51.300Z",
   "videoCount": 2783,
   "videos": [
     {
@@ -24,10 +24,10 @@
     {
       "id": "YwETXYxSkO8",
       "title": "【 スプラトゥーン３ 】一旦ちょっとだけ【 ぶいすぽっ！胡桃のあ 】",
-      "published": "2026-10-16T07:49:19.000Z",
+      "published": "2026-10-16T10:06:41+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 7654,
+      "status": "past",
       "scheduledStart": "2026-10-16T07:50:00.000Z",
       "actualStart": "2026-10-16T07:51:24.000Z",
       "typedBy": "data-api"
@@ -214,7 +214,7 @@
       "published": "2026-10-02T05:49:09.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "unavailable",
       "scheduledStart": "2026-10-14T14:59:00.000Z",
       "typedBy": "innertube"
     },
