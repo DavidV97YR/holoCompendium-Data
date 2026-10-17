@@ -1,7 +1,7 @@
 {
   "channelId": "UCzUNASdzI4PV5SlqtYwAkKQ",
   "channelName": "Komori Met",
-  "lastUpdated": "2026-10-12T09:01:29.960Z",
+  "lastUpdated": "2026-10-17T20:05:00.419Z",
   "streams": {
     "HRimslvX3YM": {
       "cur": {
@@ -15353,6 +15353,10 @@
         "NT$": 1500
       },
       "sc": 4
+    },
+    "3ELEhVxn9FQ": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }

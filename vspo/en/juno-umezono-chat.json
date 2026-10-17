@@ -1,7 +1,7 @@
 {
   "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
   "channelName": "Juno Umezono",
-  "lastUpdated": "2026-10-17T12:02:56.265Z",
+  "lastUpdated": "2026-10-17T20:04:50.948Z",
   "streams": {
     "bK6Kxcz6aR8": {
       "cur": {
@@ -1507,6 +1507,16 @@
       "gift": 2,
       "recv": 6,
       "sent": 6
+    },
+    "8LIk_itnFOY": {
+      "cur": {
+        "¥": 1000,
+        "₱": 125,
+        "$": 65
+      },
+      "sc": 6,
+      "member": 2,
+      "milestone": 5
     }
   }
 }
