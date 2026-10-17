@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/8km4MzJjHfYgZ7gbACC42-p2iwGFjmRFL-mppdpn4y35mIWhDTg2qVxmrGV1WQCqrjV7ZB9_Bw",
     "bannerUrl": "https://yt3.googleusercontent.com/dhY9Tmg0hhqdsU1GAETSnb0zFIeISS4AOuwsjJwO6YSWhq85tYbTj6cV79u-1UT_u29d_GHT9g=s0"
   },
-  "lastUpdated": "2026-10-17T19:11:17.458Z",
+  "lastUpdated": "2026-10-17T23:11:50.778Z",
   "videoCount": 1825,
   "videos": [
     {
-      "id": "OG2azFsrbJ4",
-      "title": "【 ニチアサ 】最近さむない？2nd【 ぶいすぽっ！ / 小森めと 】",
-      "published": "2026-10-17T14:42:59.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-17T23:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
       "id": "3ELEhVxn9FQ",
       "title": "【 APEX 】華の土曜日づお w/ エニ【 ぶいすぽっ！ / 小森めと 】",
-      "published": "2026-10-17T12:46:16.000Z",
+      "published": "2026-10-17T21:33:48+00:00",
       "type": "stream",
       "duration": 16694,
       "status": "past",
       "typedBy": "innertube",
       "scheduledStart": "2026-10-17T13:00:00.000Z",
       "actualStart": "2026-10-17T13:07:39.000Z"
+    },
+    {
+      "id": "OG2azFsrbJ4",
+      "title": "【 ニチアサ 】最近さむない？2nd【 ぶいすぽっ！ / 小森めと 】",
+      "published": "2026-10-17T14:42:59.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-10-17T23:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-17T23:00:30.000Z"
     },
     {
       "id": "3LB1RwJTGko",
