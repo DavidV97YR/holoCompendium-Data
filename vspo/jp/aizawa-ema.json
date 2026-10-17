@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/wuec9EJq49vLP5Urd_Jtr-2-UcRnKA_Z0VffwgIV5OCkrdiYqKURoN8q431M6MxCnGzMGDtlLw",
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0"
   },
-  "lastUpdated": "2026-10-17T09:01:13.306Z",
+  "lastUpdated": "2026-10-17T11:11:59.031Z",
   "videoCount": 1779,
   "videos": [
     {
@@ -16,9 +16,10 @@
       "published": "2026-10-17T08:34:32.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-17T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-17T10:01:53.000Z"
     },
     {
       "id": "1osNqf3rnkg",
@@ -47,7 +48,7 @@
       "title": "【スト6】きんにくつう【ぶいすぽっ！/ 藍沢エマ】",
       "published": "2026-10-15T17:50:48+00:00",
       "type": "stream",
-      "duration": 12425,
+      "duration": 12105,
       "status": "past",
       "scheduledStart": "2026-10-15T14:15:00.000Z",
       "actualStart": "2026-10-15T14:15:27.000Z",
