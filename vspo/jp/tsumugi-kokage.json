@@ -7,16 +7,16 @@
     "avatarUrl": "https://yt3.ggpht.com/k5cVF6C4_wfjYaf3iNU9ZfqTUZp6nwk_f4_Jid3VPIMJcjQj4Zll31sdE0J3yP1HEJoNtl0gyho",
     "bannerUrl": "https://yt3.googleusercontent.com/lS_8xng9FBW43-gQbWyBkQjMKId6Vi0ECeEEup6lXJ582V_k5nsONUcmhudOBnQFuVOIofH3=s0"
   },
-  "lastUpdated": "2026-10-17T07:01:53.653Z",
+  "lastUpdated": "2026-10-17T09:12:06.298Z",
   "videoCount": 944,
   "videos": [
     {
       "id": "IgPlOzjI_OI",
       "title": "【VALORANT】とりあえずお芋3つ…って思ってたらもうレディ埋まったらしい。求：今から15連勝する方法【ぶいすぽっ！ / 紡木こかげ】",
-      "published": "2026-10-17T04:11:16.000Z",
+      "published": "2026-10-17T08:44:29+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 15171,
+      "status": "past",
       "scheduledStart": "2026-10-17T04:30:00.000Z",
       "actualStart": "2026-10-17T04:19:36.000Z",
       "typedBy": "data-api"
@@ -27,9 +27,10 @@
       "published": "2026-10-17T04:06:27.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-17T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-17T09:00:36.000Z"
     },
     {
       "id": "Uo5nXcBq1YU",
@@ -47,7 +48,7 @@
       "title": "【VALORANT】新ACT2日目。レディアントくんもう少しこっちにきてくれないか【ぶいすぽっ！ / 紡木こかげ】",
       "published": "2026-10-15T16:15:29Z",
       "type": "stream",
-      "duration": 46588,
+      "duration": 42899,
       "status": "past",
       "scheduledStart": "2026-10-15T02:30:00.000Z",
       "actualStart": "2026-10-15T02:43:22.000Z",

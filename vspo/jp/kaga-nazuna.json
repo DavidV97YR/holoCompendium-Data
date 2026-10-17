@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/AiM0dD6-tajxuBeozH1YberZhKAANawzH_WDwLo9zLaqlGaen_nxW6q1RQt7k79FXEeQLXPFOIM",
     "bannerUrl": "https://yt3.googleusercontent.com/Av1gFK_jUR-q4zbqkhKbjeuwg2jbOwwU63TAsasubFW36OelKojjbEzc2lL29bM10-ipEWiVyg=s0"
   },
-  "lastUpdated": "2026-10-17T08:01:05.867Z",
+  "lastUpdated": "2026-10-17T09:10:08.831Z",
   "videoCount": 2098,
   "videos": [
     {
@@ -16,17 +16,18 @@
       "published": "2026-10-17T07:49:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-17T08:15:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-17T08:09:44.000Z"
     },
     {
       "id": "zJiD3MfF3kg",
       "title": "【ポケモンリーフグリーン】#4 ミリだけポケモン知ってます ※指示禁止【ぶいすぽ/花芽なずな】",
       "published": "2026-10-17T05:51:05.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 6704,
+      "status": "past",
       "scheduledStart": "2026-10-17T05:55:00.000Z",
       "actualStart": "2026-10-17T05:56:44.000Z",
       "typedBy": "data-api"
