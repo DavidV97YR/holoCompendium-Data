@@ -1,7 +1,7 @@
 {
   "channelId": "UCYz_5n-uDuChHtLo7My1HnQ",
   "channelName": "Kureiji Ollie",
-  "lastUpdated": "2026-10-16T16:04:33.789Z",
+  "lastUpdated": "2026-10-17T04:02:12.481Z",
   "streams": {
     "5wY4VzBEePU": {
       "cur": {
@@ -22246,6 +22246,16 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "kS1znvfnNlc": {
+      "cur": {
+        "$": 5,
+        "NT$": 170,
+        "€": 2
+      },
+      "sc": 3,
+      "member": 1,
+      "milestone": 2
     }
   }
 }
