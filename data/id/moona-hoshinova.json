@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
     "bannerUrl": "https://yt3.googleusercontent.com/KkXdJeSV62RLefnd4n6R15dhEkBRhjq8ykfEEaUamkYwPBRvul3Ujv0FvtrnH66nbVO4yISt_A=s0"
   },
-  "lastUpdated": "2026-10-18T15:05:08.884Z",
+  "lastUpdated": "2026-10-18T17:05:05.168Z",
   "videoCount": 1243,
   "videos": [
+    {
+      "id": "7LMSX43mAFU",
+      "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
+      "published": "2026-10-18T15:44:00+00:00",
+      "type": "stream",
+      "duration": 4351,
+      "status": "past",
+      "scheduledStart": "2026-10-18T12:00:00.000Z",
+      "actualStart": "2026-10-18T12:10:11.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "oVx5xEKL6Ms",
       "title": "【Membership】just watch.【Moona Hoshinova】",
@@ -20,17 +31,6 @@
       "scheduledStart": "2026-10-18T14:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-18T14:04:15.000Z"
-    },
-    {
-      "id": "7LMSX43mAFU",
-      "title": "【Hololive Dreams】Rythm Learning~【hololive | moona】",
-      "published": "2026-10-18T11:52:26.000Z",
-      "type": "stream",
-      "duration": 4351,
-      "status": "past",
-      "scheduledStart": "2026-10-18T12:00:00.000Z",
-      "actualStart": "2026-10-18T12:10:11.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "fht4M1kLgBw",
