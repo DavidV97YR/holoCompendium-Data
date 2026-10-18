@@ -1,7 +1,7 @@
 {
   "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
   "channelName": "Jira Jisaki",
-  "lastUpdated": "2026-10-14T18:16:37.312Z",
+  "lastUpdated": "2026-10-18T20:03:00.338Z",
   "streams": {
     "PxbKX7vB7yk": {
       "gift": 1,
@@ -2234,6 +2234,10 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "e4cJmuVp-Po": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
