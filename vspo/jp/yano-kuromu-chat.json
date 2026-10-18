@@ -1,7 +1,7 @@
 {
   "channelId": "UCX4WL24YEOUYd7qDsFSLDOw",
   "channelName": "Yano Kuromu",
-  "lastUpdated": "2026-10-18T11:01:38.638Z",
+  "lastUpdated": "2026-10-18T12:03:42.215Z",
   "streams": {
     "JkBfMSz4kcQ": {
       "cur": {
@@ -5949,8 +5949,12 @@
       "milestone": 9
     },
     "9sR0FYpGR4A": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "¥": 19780
+      },
+      "sc": 11,
+      "member": 2,
+      "milestone": 11
     }
   }
 }

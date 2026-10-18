@@ -1,7 +1,7 @@
 {
   "channelId": "UCGWa1dMU_sDCaRQjdabsVgg",
   "channelName": "Kisaragi Ren",
-  "lastUpdated": "2026-10-10T00:02:40.500Z",
+  "lastUpdated": "2026-10-18T12:03:33.202Z",
   "streams": {
     "4_XQSiWrv5w": {
       "cur": {
@@ -4166,6 +4166,16 @@
       "milestone": 2,
       "gift": 1,
       "recv": 10,
+      "sent": 10
+    },
+    "ZeMXF8ofP_c": {
+      "cur": {
+        "¥": 3200
+      },
+      "sc": 1,
+      "member": 2,
+      "gift": 1,
+      "recv": 2,
       "sent": 10
     }
   }
