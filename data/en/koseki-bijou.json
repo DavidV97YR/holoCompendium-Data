@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0"
   },
-  "lastUpdated": "2026-10-19T13:07:24.704Z",
+  "lastUpdated": "2026-10-19T15:07:33.596Z",
   "videoCount": 949,
   "videos": [
+    {
+      "id": "7LQx7N-K2OM",
+      "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
+      "published": "2026-10-19T14:56:00+00:00",
+      "type": "stream",
+      "duration": 6313,
+      "status": "past",
+      "scheduledStart": "2026-10-19T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-19T13:02:56.000Z"
+    },
     {
       "id": "Dt5OHkR6Tok",
       "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
@@ -27,20 +38,9 @@
       "published": "2026-10-19T08:08:55.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-19T15:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "7LQx7N-K2OM",
-      "title": "【HOLOLIVE DREAMS】swimsuit biboo. that it. that's the stream #holodori",
-      "published": "2026-10-19T08:03:11.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-19T13:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-19T13:02:56.000Z"
     },
     {
       "id": "2w5zzIc76-U",

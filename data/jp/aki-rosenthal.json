@@ -7,17 +7,19 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-10-19T13:00:47.118Z",
+  "lastUpdated": "2026-10-19T15:01:52.814Z",
   "videoCount": 1871,
   "videos": [
     {
       "id": "SLpQS06YZ-M",
       "title": "【ホロライブドリームス】 今日も実質雑談！図鑑コンプまで残り9匹！#ホロドリ【ホロライブ/アキロゼ】",
-      "published": "2026-10-19T12:50:57.000Z",
+      "published": "2026-10-19T14:13:27+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 3784,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-19T13:00:00.000Z",
+      "actualStart": "2026-10-19T13:06:19.000Z"
     },
     {
       "id": "eXp9OF4YbRw",
@@ -168,9 +170,10 @@
       "published": "2026-10-12T15:12:06.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-19T14:40:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-19T14:43:04.000Z"
     },
     {
       "id": "MxpAOjgZX3Y",
