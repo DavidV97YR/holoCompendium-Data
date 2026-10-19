@@ -1,7 +1,7 @@
 {
   "channelId": "UChpRPsAeSZn5DistGacR3iA",
   "channelName": "Sumishio Sayana",
-  "lastUpdated": "2026-10-18T18:12:14.903Z",
+  "lastUpdated": "2026-10-19T00:01:23.820Z",
   "streams": {
     "6ktaKNhtyQ0": {
       "cur": {
@@ -1545,6 +1545,16 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "VmRIU0s56Ww": {
+      "cur": {
+        "¥": 1019
+      },
+      "sc": 1,
+      "member": 2,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
