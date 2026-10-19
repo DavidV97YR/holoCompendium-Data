@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w",
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0"
   },
-  "lastUpdated": "2026-10-19T05:25:30.836Z",
+  "lastUpdated": "2026-10-19T11:10:09.629Z",
   "videoCount": 45,
   "videos": [
+    {
+      "id": "Ozmk8fKIvVU",
+      "title": "【収益化記念配信リレー】歌いますのじゃ！祝！収益化！【ホロライブ/アソビ★まわり隊！/熱千めら】",
+      "published": "2026-10-19T10:33:16+00:00",
+      "type": "stream",
+      "duration": 1886,
+      "status": "past",
+      "scheduledStart": "2026-10-19T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-19T09:59:10.000Z"
+    },
     {
       "id": "XdPi4FjYQ8U",
       "title": "人間はこういうのが好きなんじゃろー？ #ホロライブ",
@@ -38,16 +49,6 @@
       "duration": 84,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "Ozmk8fKIvVU",
-      "title": "【収益化記念配信リレー】歌いますのじゃ！祝！収益化！【ホロライブ/アソビ★まわり隊！/熱千めら】",
-      "published": "2026-10-16T14:21:55.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-19T10:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "nxuUKS_yq44",
