@@ -7,18 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
     "bannerUrl": "https://yt3.googleusercontent.com/HkdBYiIHoZdS3jhzfTtLCAf6upeuzDb_yNeMyMi4fH3JGh57C-S1leqJG2VksyUTpPPKE2jcRSk=s0"
   },
-  "lastUpdated": "2026-10-19T08:30:41.733Z",
+  "lastUpdated": "2026-10-19T13:06:05.044Z",
   "videoCount": 880,
   "videos": [
+    {
+      "id": "0-21K73BYWc",
+      "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
+      "published": "2026-10-19T13:03:12+00:00",
+      "type": "stream",
+      "duration": 1870,
+      "status": "past",
+      "scheduledStart": "2026-10-19T12:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-19T12:29:25.000Z"
+    },
     {
       "id": "rd9l86n4vdE",
       "title": "【hololive Dreams】gacha kaela cuz she's my genmate #holodori #ホロドリ",
       "published": "2026-10-19T08:04:24.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-19T14:10:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-19T13:03:19.000Z"
     },
     {
       "id": "uhsXGA58_f4",
@@ -41,16 +53,6 @@
       "scheduledStart": "2026-10-17T06:45:00.000Z",
       "actualStart": "2026-10-17T06:46:24.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "0-21K73BYWc",
-      "title": "【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】",
-      "published": "2026-10-17T04:31:50.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-19T12:30:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "smyROHJ-JLE",
