@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-20T10:30:55.950Z",
+  "lastUpdated": "2026-10-20T11:09:27.795Z",
   "videoCount": 226,
   "videos": [
+    {
+      "id": "e37QsduMNu4",
+      "title": "【リベンジ】空で弾き語り２☁️リクエスト曲もたくさん歌いたい日です【 #UNIT_B / #清澄ライラ】",
+      "published": "2026-10-20T11:04:30+00:00",
+      "type": "stream",
+      "duration": 7229,
+      "status": "past",
+      "scheduledStart": "2026-10-20T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-20T08:57:32.000Z"
+    },
     {
       "id": "ntQgfq9bOlU",
       "title": "世界の真実に気づいてしまったネオン【 #UNIT_B / #宵凪ネオン】",
@@ -36,9 +47,10 @@
       "published": "2026-10-20T00:58:20.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-20T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-20T10:59:24.000Z"
     },
     {
       "id": "wKOaFzTYNZ0",
@@ -50,17 +62,6 @@
       "scheduledStart": "2026-10-20T06:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-20T06:06:41.000Z"
-    },
-    {
-      "id": "e37QsduMNu4",
-      "title": "【リベンジ】空で弾き語り２☁️リクエスト曲もたくさん歌いたい日です【 #UNIT_B / #清澄ライラ】",
-      "published": "2026-10-19T16:42:55.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-20T09:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-20T08:57:32.000Z"
     },
     {
       "id": "uC46QEPsLCU",
