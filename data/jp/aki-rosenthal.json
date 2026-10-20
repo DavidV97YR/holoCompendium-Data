@@ -7,27 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
     "bannerUrl": "https://yt3.googleusercontent.com/W0O7zWsm_Os2pEClrabntdfCnJn12BVeOZ7Ismu0jVB3uSNu3KHOoo74RU8aQWgLszxepLArXrg=s0"
   },
-  "lastUpdated": "2026-10-20T14:00:50.152Z",
+  "lastUpdated": "2026-10-20T15:01:47.706Z",
   "videoCount": 1875,
   "videos": [
     {
       "id": "G8ecvgF6WvY",
       "title": "【 #ホロ鯖ARK 】DAY12│拠点大整理とダエオドン！からの洞窟！【ホロライブ/アキロゼ】",
-      "published": "2026-10-20T13:43:21.000Z",
+      "published": "2026-10-20T14:07:26+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 46,
+      "status": "past",
       "scheduledStart": "2026-10-20T15:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-20T14:05:21.000Z"
     },
     {
       "id": "mqbSYtp8auE",
-      "title": "【ホロライブドリームス】 釣り！w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
+      "title": "【ホロライブドリームス】 釣り対決!w/アーニャ、ちょこ先 #ホロドリ【ホロライブ/アキロゼ】",
       "published": "2026-10-20T13:39:19.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-20T14:00:00.000Z",
+      "actualStart": "2026-10-20T14:06:56.000Z"
     },
     {
       "id": "NTAafRzR9SE",
