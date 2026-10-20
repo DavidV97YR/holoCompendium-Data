@@ -7,7 +7,7 @@
     "avatarUrl": "https://yt3.ggpht.com/t8oKW3u3BqieOUZ4j3d_qxV2fBEypIpVkq3vY2SYlOD2gblH-4fSjBOGW9O5eiOagOhhuUzA",
     "bannerUrl": "https://yt3.googleusercontent.com/JqeeIAMO79ydj7E_8PA1VrMFth8dMfNfPTI4RhxRKP-f8nK63cyZAY23_UrG725WyF-0Tn49=s0"
   },
-  "lastUpdated": "2026-10-20T05:26:24.876Z",
+  "lastUpdated": "2026-10-20T09:12:11.426Z",
   "videoCount": 1383,
   "videos": [
     {
@@ -48,10 +48,11 @@
       "title": "【歌枠】秋がやってきたよー！秋の曲歌いたい！#秋を奏でる歌枠リレー【ぶいすぽ / 猫汰つな】",
       "published": "2026-10-17T14:13:11.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 1799,
+      "status": "past",
       "scheduledStart": "2026-10-20T08:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-20T08:30:19.000Z"
     },
     {
       "id": "DBjiUz0H9HY",
