@@ -7,29 +7,30 @@
     "avatarUrl": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0"
   },
-  "lastUpdated": "2026-10-20T19:07:46.391Z",
+  "lastUpdated": "2026-10-20T21:07:47.772Z",
   "videoCount": 474,
   "videos": [
+    {
+      "id": "f3s7xRhIZmw",
+      "title": "【REBROADCAST】UNARCHIVED KARAOKE RERUN!!!",
+      "published": "2026-10-20T19:57:05+00:00",
+      "type": "stream",
+      "duration": 3172,
+      "status": "past",
+      "scheduledStart": "2026-10-20T19:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-20T19:00:26.000Z"
+    },
     {
       "id": "pPGahrMUZWY",
       "title": "【HOLODORI】THE MASTER TAKES ON A NEW STUDENT",
       "published": "2026-10-20T12:57:03.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-20T20:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "f3s7xRhIZmw",
-      "title": "【REBROADCAST】UNARCHIVED KARAOKE RERUN!!!",
-      "published": "2026-10-20T12:46:44.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-20T19:00:00.000Z",
+      "scheduledStart": "2026-10-20T20:00:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-20T19:00:26.000Z"
+      "actualStart": "2026-10-20T19:58:53.000Z"
     },
     {
       "id": "HdEGLyy4y4c",
