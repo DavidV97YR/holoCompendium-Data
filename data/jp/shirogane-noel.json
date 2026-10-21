@@ -7,16 +7,27 @@
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0"
   },
-  "lastUpdated": "2026-10-21T07:01:06.753Z",
+  "lastUpdated": "2026-10-21T09:03:18.834Z",
   "videoCount": 1831,
   "videos": [
+    {
+      "id": "tqpAhwF-yU4",
+      "title": "【ホロドリ】久々のホロドリ！現在54種類～お魚コンプ目指して１時間釣り太郎ッ！【白銀ノエル/ホロライブ】",
+      "published": "2026-10-21T08:43:26+00:00",
+      "type": "stream",
+      "duration": 3909,
+      "status": "past",
+      "scheduledStart": "2026-10-21T07:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-21T07:34:45.000Z"
+    },
     {
       "id": "HL79bf1HLKo",
       "title": "【ホロ鯖ARK】拠点完成まであと60％！完成目指して！(至高ガチャやダエオドンテイムもしたい！)【白銀ノエル/ホロライブ】",
       "published": "2026-10-21T05:26:55.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-21T09:00:00.000Z",
       "typedBy": "innertube"
     },
@@ -30,16 +41,6 @@
       "scheduledStart": "2026-10-20T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-20T09:00:20.000Z"
-    },
-    {
-      "id": "tqpAhwF-yU4",
-      "title": "【ホロドリ】久々のホロドリ！現在54種類～お魚コンプ目指して１時間釣り太郎ッ！【白銀ノエル/ホロライブ】",
-      "published": "2026-10-20T23:11:56.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-21T07:30:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "IRtl8s__ptk",
