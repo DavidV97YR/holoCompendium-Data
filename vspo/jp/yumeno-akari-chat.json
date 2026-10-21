@@ -1,7 +1,7 @@
 {
   "channelId": "UCS5l_Y0oMVTjEos2LuyeSZQ",
   "channelName": "Yumeno Akari",
-  "lastUpdated": "2026-10-06T23:26:22.104Z",
+  "lastUpdated": "2026-10-21T16:12:23.027Z",
   "streams": {
     "aJQG8X80Az8": {
       "milestone": 1
@@ -118,6 +118,18 @@
     "JvX5lkSe9iw": 0,
     "zYPWhivOG5M": {
       "milestone": 19
+    },
+    "CxIJbX2ZIF4": {
+      "cur": {
+        "¥": 72008,
+        "NT$": 15,
+        "MYR": 150,
+        "HK$": 25
+      },
+      "sc": 34,
+      "sticker": 2,
+      "member": 123,
+      "milestone": 38
     }
   }
 }
