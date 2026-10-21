@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-21T11:01:10.080Z",
+  "lastUpdated": "2026-10-21T11:09:19.688Z",
   "videoCount": 231,
   "videos": [
+    {
+      "id": "cdEo8ZkkXS0",
+      "title": "【Minecraft】めちゃくちゃ掘ってめちゃくちゃ話そう⛏💎【 #UNIT_B / #ゆにびマイクラ】",
+      "published": "2026-10-21T10:57:33+00:00",
+      "type": "stream",
+      "duration": 13409,
+      "status": "past",
+      "scheduledStart": "2026-10-21T06:00:00.000Z",
+      "actualStart": "2026-10-21T05:59:19.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "Hk0hUUkghWs",
       "title": "【爆弾解除】ライラ視点【 #UNIT_B / #宵凪ネオン#清澄ライラ】",
@@ -37,19 +48,21 @@
       "published": "2026-10-20T15:18:54.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-21T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-21T09:59:16.000Z"
     },
     {
       "id": "WbYaFf-Ez2w",
       "title": "【爆弾解除】ライラ視点【 #UNIT_B / #宵凪ネオン#清澄ライラ】",
       "published": "2026-10-20T15:13:33.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 2988,
+      "status": "past",
       "scheduledStart": "2026-10-21T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-21T10:00:48.000Z"
     },
     {
       "id": "PIRhWrFLXso",
@@ -61,17 +74,6 @@
       "scheduledStart": "2026-10-20T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-20T10:59:24.000Z"
-    },
-    {
-      "id": "cdEo8ZkkXS0",
-      "title": "【Minecraft】めちゃくちゃ掘ってめちゃくちゃ話そう⛏💎【 #UNIT_B / #ゆにびマイクラ】",
-      "published": "2026-10-20T15:05:57.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-21T06:00:00.000Z",
-      "actualStart": "2026-10-21T05:59:19.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "e37QsduMNu4",
