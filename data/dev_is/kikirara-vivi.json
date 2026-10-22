@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0"
   },
-  "lastUpdated": "2026-10-22T10:30:37.872Z",
+  "lastUpdated": "2026-10-22T11:09:14.172Z",
   "videoCount": 1293,
   "videos": [
+    {
+      "id": "aX5yYyyBkdI",
+      "title": "【#ホロドリ 】魚図鑑コンプリート目指して…！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+      "published": "2026-10-22T10:07:47+00:00",
+      "type": "stream",
+      "duration": 3818,
+      "status": "past",
+      "scheduledStart": "2026-10-22T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-22T09:00:25.000Z"
+    },
     {
       "id": "FXd5UkKblhA",
       "title": "【＃ホロ鯖かくれんぼ】伝説の農婦復活！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
@@ -23,23 +34,12 @@
     },
     {
       "id": "7iDLrvFlD6s",
-      "title": "初めてのソーラン節踊ってみた！めちゃキツイ…#vtuber #ホロライブ #dance #shorts",
+      "title": "初めてのソーラン節",
       "published": "2026-10-22T08:40:15.000Z",
       "type": "short",
       "duration": 27,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "aX5yYyyBkdI",
-      "title": "【#ホロドリ 】魚図鑑コンプリート目指して…！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-      "published": "2026-10-22T08:09:48.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-22T09:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-22T09:00:25.000Z"
     },
     {
       "id": "lFE7x8fo3f8",
@@ -74,7 +74,7 @@
     },
     {
       "id": "4FBV1OqyOlE",
-      "title": "【#ホロARK】初めてのホロ鯖ARK!!#11【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "title": "【#ホロARK】初めてのホロ鯖ARK!!#12【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published": "2026-10-20T15:55:33Z",
       "type": "stream",
       "duration": 9690,
