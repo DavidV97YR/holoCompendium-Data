@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
     "bannerUrl": "https://yt3.googleusercontent.com/EP1u-nLVWBd7baERapt2e_-iI4YVl1wCukSEmw0FP2CJFompE-7TtSlxG0uKk2oT5Kn8l54g1w=s0"
   },
-  "lastUpdated": "2026-10-22T15:04:45.936Z",
+  "lastUpdated": "2026-10-22T17:04:24.098Z",
   "videoCount": 2522,
   "videos": [
+    {
+      "id": "sF7SZcOidhM",
+      "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
+      "published": "2026-10-22T16:37:41+00:00",
+      "type": "stream",
+      "duration": 7156,
+      "status": "past",
+      "scheduledStart": "2026-10-22T14:30:00.000Z",
+      "actualStart": "2026-10-22T14:30:35.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "JP3UUwvy-XQ",
       "title": "【#ホロドリ】天井までに全員引くぞ！！！！ホロドリガチャ！！！！【尾丸ポルカ/ホロライブ】",
@@ -20,17 +31,6 @@
       "scheduledStart": "2026-10-22T13:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-22T13:00:16.000Z"
-    },
-    {
-      "id": "sF7SZcOidhM",
-      "title": "【R.E.P.O.】ポルカもそろそろまぜろよ【尾丸ポルカ視点/ホロライブ】",
-      "published": "2026-10-22T14:17:41.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-22T14:30:00.000Z",
-      "actualStart": "2026-10-22T14:30:35.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "anxRIt1Y9Uw",
