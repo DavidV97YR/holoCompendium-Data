@@ -12,18 +12,23 @@ on:
         type: boolean
         default: false
       # cron-job.org starts this with no inputs, so its runs take the default
-      # and cover both rosters. Row numbers belong to one sheet, so a run with
+      # and cover every roster: hololive, VSPO! and the official channels. Row
+      # numbers belong to one sheet, so a run with
       # anything but "all" has to name which.
       org:
         description: 'Which roster (row numbers need one sheet, not both)'
         type: choice
-        options: [both, hololive, vspo]
+        options: [both, hololive, vspo, official]
         default: both
 
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
 # sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
 env:
   VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=105975973&single=true&output=csv'
+  # hololive's official channels (hololive, hololive English, the unit
+  # channels…): their own sheet, Name / Branch "Official" / YouTube. Their data
+  # lives in data/official/, beside the talents' branches.
+  OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vScKzfvk6rvz-6GiK2rdVKze_IBumM8rcYKrglVwPIkzy1CPkWNkkEWl01iI6YFng/pub?output=csv'
 
 jobs:
   update:
@@ -39,7 +44,7 @@ jobs:
         env:
           ROWS: ${{ inputs.rows }}
         run: |
-          echo "::error::Row numbers are per sheet. Pick hololive or vspo for rows '$ROWS', or use rows 'all'."
+          echo "::error::Row numbers are per sheet. Pick hololive, vspo or official for rows '$ROWS', or use rows 'all'."
           exit 1
 
       - name: Checkout repo
@@ -51,7 +56,7 @@ jobs:
           node-version: '20'
 
       - name: Run updater (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'official' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ secrets.CSV_URL }}
@@ -63,7 +68,7 @@ jobs:
 
       # Skipped until VSPO! has been bootstrapped: there is nothing to update.
       - name: Run updater (VSPO!)
-        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'official' && hashFiles('vspo/*/*.json') != '' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ env.VSPO_CSV_URL }}
@@ -71,6 +76,21 @@ jobs:
           ROWS:            ${{ github.event.inputs.rows || 'all' }}
           BACKFILL:        ${{ github.event.inputs.backfill }}
           DATA_DIR:        ./vspo
+        run: node scripts/update.js
+
+      # The official channels, from their own sheet into data/official/.
+      # Skipped until they have been bootstrapped. Everything after this reads
+      # data/ by folder, so the catalogue, Videos, Music and the rest pick them
+      # up with no step of their own.
+      - name: Run updater (official)
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && hashFiles('data/official/*.json') != '' }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ env.OFFICIAL_CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY }}
+          ROWS:            ${{ github.event.inputs.rows || 'all' }}
+          BACKFILL:        ${{ github.event.inputs.backfill }}
+          DATA_DIR:        ./data
         run: node scripts/update.js
 
       # ── Catalogue ─────────────────────────────────────────────────────────
