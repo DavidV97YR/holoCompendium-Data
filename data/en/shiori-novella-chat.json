@@ -1,7 +1,7 @@
 {
   "channelId": "UCgnfPPb9JI3e9A4cXHnWbyg",
   "channelName": "Shiori Novella",
-  "lastUpdated": "2026-10-20T04:02:01.301Z",
+  "lastUpdated": "2026-10-22T04:02:00.561Z",
   "streams": {
     "sEu1Yj-cICI": {
       "e": "noreplay",
@@ -12043,6 +12043,25 @@
       "gift": 9,
       "recv": 16,
       "sent": 56
+    },
+    "YQu-0jotU0w": {
+      "cur": {
+        "MX$": 20,
+        "$": 432.94,
+        "₱": 250,
+        "R$": 12,
+        "CA$": 26.99,
+        "CLP": 2500,
+        "¥": 5800,
+        "₩": 2000,
+        "£": 7
+      },
+      "sc": 60,
+      "member": 9,
+      "milestone": 35,
+      "gift": 17,
+      "recv": 87,
+      "sent": 92
     }
   }
 }
