@@ -1,7 +1,7 @@
 {
   "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
   "channelName": "Fuwawa Abyssgard",
-  "lastUpdated": "2026-10-20T12:02:16.519Z",
+  "lastUpdated": "2026-10-22T14:04:44.594Z",
   "streams": {
     "_emS73CGqYc": {
       "cur": {
@@ -14803,6 +14803,16 @@
       "gift": 10,
       "recv": 36,
       "sent": 46
+    },
+    "bs2wM6dE8Js": {
+      "cur": {
+        "¥": 200,
+        "ZAR": 70
+      },
+      "sc": 1,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 9
     }
   }
 }
