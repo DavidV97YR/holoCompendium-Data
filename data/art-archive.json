@@ -2404,7 +2404,181 @@
         "avatar": "mekpark/achrora/2026-09-26/avatar.webp",
         "banner": "mekpark/achrora/2026-09-26/banner.webp"
       }
+    },
+    "official/asobi-mawari-tai": {
+      "channelId": "UCAHwWUotyS3l2qBetFDsjgQ",
+      "avatar": [
+        {
+          "date": "2026-10-22",
+          "key": "official/asobi-mawari-tai/2026-10-22/avatar.webp",
+          "src": "https://yt3.ggpht.com/dq_Yzt9WRv6MhuF04AKL6TR-Rm6cXE36D8WCtFcWx2J6ZQ5tTf_9Cno6Nb4-KiNsGJlBeG-_hg",
+          "sha256": "5c67b8957c97d04592c3c7fb521669e2d51f981f96b4a7aab5d980b6a3d88cab",
+          "width": 800,
+          "height": 800,
+          "bytes": 98580
+        }
+      ],
+      "banner": [
+        {
+          "date": "2026-10-22",
+          "key": "official/asobi-mawari-tai/2026-10-22/banner.webp",
+          "src": "https://yt3.googleusercontent.com/e8wmvsUvszqws8Gz2XlLuh7batPJKsBDsBsUfkctbUd7rvY5UYrKuvUl67cpD01_QgJ95QTXLKg",
+          "sha256": "f92abd1585c236e2aed2ae72b7027ef79d13b1272d88758383ecd1880b610805",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 1667328
+        }
+      ],
+      "latest": {
+        "avatar": "official/asobi-mawari-tai/2026-10-22/avatar.webp",
+        "banner": "official/asobi-mawari-tai/2026-10-22/banner.webp"
+      }
+    },
+    "official/hololive-english": {
+      "channelId": "UCotXwY6s8pWmuWd_snKYjhg",
+      "avatar": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-english/2026-10-22/avatar.webp",
+          "src": "https://yt3.ggpht.com/TvszWVCadS-5F30r3omWB2K2SZWfu6ZTcKHZ69N7Mmb0Qx6VD22vgaKkEkm9frbF_x2pnx7K",
+          "sha256": "0688408310172574e4e2e4ab35607d0ffb05380190d53c982445083bd8e316da",
+          "width": 800,
+          "height": 800,
+          "bytes": 11332
+        }
+      ],
+      "banner": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-english/2026-10-22/banner.webp",
+          "src": "https://yt3.googleusercontent.com/hep64XoBCHtP_fUS4tk_MIxnt5-aaBB8jlR1i8dV4drIsPWGFZ5pK7-xFOibE_iRrEwzCsoW",
+          "sha256": "21866c3a08f9e4f1513d9e0a1d4073c762926af69d54ff0197065b0e0fd575a3",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 67048
+        }
+      ],
+      "latest": {
+        "avatar": "official/hololive-english/2026-10-22/avatar.webp",
+        "banner": "official/hololive-english/2026-10-22/banner.webp"
+      }
+    },
+    "official/hololive-flow-glow": {
+      "channelId": "UCu2n3qHuOuQIygREMnWeQWg",
+      "avatar": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-flow-glow/2026-10-22/avatar.webp",
+          "src": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs",
+          "sha256": "196100469958b14ba7f999cd38be6540c79a64058fdea09e3da7bd6815033010",
+          "width": 400,
+          "height": 400,
+          "bytes": 5584
+        }
+      ],
+      "banner": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-flow-glow/2026-10-22/banner.webp",
+          "src": "https://yt3.googleusercontent.com/RQBOqavcerBIlG4fAkymThsnnfVneyQclTaOH71PDn0eUkjLTyYFn8sUyZrdvJM4sSN9_Wk5HQ",
+          "sha256": "7f45beb569ed75b1edadd859dd443c6238ded7f5a333540739caddd2b2ac9605",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 964708
+        }
+      ],
+      "latest": {
+        "avatar": "official/hololive-flow-glow/2026-10-22/avatar.webp",
+        "banner": "official/hololive-flow-glow/2026-10-22/banner.webp"
+      }
+    },
+    "official/hololive-indonesia": {
+      "channelId": "UCfrWoRGlawPQDQxxeIDRP0Q",
+      "avatar": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-indonesia/2026-10-22/avatar.webp",
+          "src": "https://yt3.ggpht.com/Z20y_dnNBDh2qiAY3m_8VYJ4HcokDFTnX0hjM9oJsTrmhTVapZA1EtGpE7nLKvzwo6FfehAn1w",
+          "sha256": "15f21e2234f6af899bf9e13a774a0531b9df420dcb20f7edaaaae413b4575e32",
+          "width": 800,
+          "height": 800,
+          "bytes": 12184
+        }
+      ],
+      "banner": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-indonesia/2026-10-22/banner.webp",
+          "src": "https://yt3.googleusercontent.com/gZtvIev7A9K0ALjnZdwNgQmpNT1i5P69Z58gUFm6DBsSQVkbExBaCy1qqU7qr9WdyqcR3LXcRQ",
+          "sha256": "408c9d69310cee121985a793c9776411fd7af38a42b4bb8af3d593d11a8976f4",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 66286
+        }
+      ],
+      "latest": {
+        "avatar": "official/hololive-indonesia/2026-10-22/avatar.webp",
+        "banner": "official/hololive-indonesia/2026-10-22/banner.webp"
+      }
+    },
+    "official/hololive-regloss": {
+      "channelId": "UC10wVt6hoQiwySRhz7RdOUA",
+      "avatar": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-regloss/2026-10-22/avatar.webp",
+          "src": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ",
+          "sha256": "1a88e3ab49c73bf9e5ff18b4debb0515476ac01aad6affe8dfff7ea6dc0a8a60",
+          "width": 320,
+          "height": 320,
+          "bytes": 3262
+        }
+      ],
+      "banner": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive-regloss/2026-10-22/banner.webp",
+          "src": "https://yt3.googleusercontent.com/RXwTHTGL4yK-ctVJGkW3A7-5KUafCYaeC52TSwIZ3VPVyBQMKv3iN__EqQHKKf3HPHGlh_8cdA",
+          "sha256": "82ffe15b791bd7e8823b7713388bd2c69d9248b3d1d2ac88ea6fb11cae25f3fc",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 2230442
+        }
+      ],
+      "latest": {
+        "avatar": "official/hololive-regloss/2026-10-22/avatar.webp",
+        "banner": "official/hololive-regloss/2026-10-22/banner.webp"
+      }
+    },
+    "official/hololive": {
+      "channelId": "UCJFZiqLMntJufDCHc6bQixg",
+      "avatar": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive/2026-10-22/avatar.webp",
+          "src": "https://yt3.ggpht.com/rl6ZG9_MqKPDABLRDNG75FPX7EOPGXHtJ-2Hm97yqWziq6gkcwnsSe6wA8vv8xIhGuQe9joF",
+          "sha256": "d734be9c37de6cb70ad20edf3630dceb0150d825a657f27cbef15d01e166bb0a",
+          "width": 800,
+          "height": 800,
+          "bytes": 4014
+        }
+      ],
+      "banner": [
+        {
+          "date": "2026-10-22",
+          "key": "official/hololive/2026-10-22/banner.webp",
+          "src": "https://yt3.googleusercontent.com/gs2-5Vp5zumGCtTT3u7Radu_YeBRGHpyMarzo-QKKrMSfFWq9v8bplpQzOr0wvb8lbsdm0FE-A",
+          "sha256": "ddb96b6eb0cff392d443696195ad3a58f0eaba39626711e01dc5527926923f1a",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 88892
+        }
+      ],
+      "latest": {
+        "avatar": "official/hololive/2026-10-22/avatar.webp",
+        "banner": "official/hololive/2026-10-22/banner.webp"
+      }
     }
   },
-  "lastUpdated": "2026-10-11T15:16:09.589Z"
+  "lastUpdated": "2026-10-22T03:24:31.471Z"
 }
