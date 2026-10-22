@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw",
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0"
   },
-  "lastUpdated": "2026-10-22T17:24:40.036Z",
+  "lastUpdated": "2026-10-22T19:09:23.548Z",
   "videoCount": 233,
   "videos": [
+    {
+      "id": "DcMpWqmUnoM",
+      "title": "【Minecraft】全てを失った。【 #UNIT_B / #ゆにびマイクラ】",
+      "published": "2026-10-22T18:30:27+00:00",
+      "type": "stream",
+      "duration": 22488,
+      "status": "past",
+      "scheduledStart": "2026-10-22T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-22T09:00:25.000Z"
+    },
     {
       "id": "YUUa9KyOdwU",
       "title": "【音楽勉強会】教えて！ライラちゃん！【 #UNIT_B / #フレアグランス 】",
@@ -20,17 +31,6 @@
       "scheduledStart": "2026-10-22T05:00:00.000Z",
       "actualStart": "2026-10-22T04:58:21.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "DcMpWqmUnoM",
-      "title": "【Minecraft】全てを失った。【 #UNIT_B / #ゆにびマイクラ】",
-      "published": "2026-10-22T04:16:25.000Z",
-      "type": "stream",
-      "duration": 22488,
-      "status": "past",
-      "scheduledStart": "2026-10-22T09:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-22T09:00:25.000Z"
     },
     {
       "id": "PhlPEvGdOUM",
