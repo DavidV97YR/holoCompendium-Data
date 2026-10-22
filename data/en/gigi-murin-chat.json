@@ -1,7 +1,7 @@
 {
   "channelId": "UCDHABijvPBnJm7F-KlNME3w",
   "channelName": "Gigi Murin",
-  "lastUpdated": "2026-10-21T02:02:12.872Z",
+  "lastUpdated": "2026-10-22T02:01:48.483Z",
   "streams": {
     "SQqpK0FbIQk": {
       "e": "noreplay",
@@ -7587,6 +7587,15 @@
       "sc": 6,
       "member": 1,
       "milestone": 3
+    },
+    "1kPBkAmaHkA": {
+      "cur": {
+        "CA$": 18.99,
+        "$": 139.99
+      },
+      "sc": 19,
+      "member": 3,
+      "milestone": 6
     }
   }
 }
