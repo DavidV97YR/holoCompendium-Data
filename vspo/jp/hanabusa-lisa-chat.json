@@ -1,7 +1,7 @@
 {
   "channelId": "UCurEA8YoqFwimJcAuSHU0MQ",
   "channelName": "Hanabusa Lisa",
-  "lastUpdated": "2026-10-22T20:02:24.538Z",
+  "lastUpdated": "2026-10-22T21:02:06.947Z",
   "streams": {
     "4TUmKRpPMxA": {
       "cur": {
@@ -11367,8 +11367,15 @@
       "member": 2
     },
     "m1v0UhYPUDg": {
-      "e": "noreplay",
-      "n": 3
+      "cur": {
+        "¥": 5312
+      },
+      "sc": 6,
+      "sticker": 1,
+      "member": 4,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }
