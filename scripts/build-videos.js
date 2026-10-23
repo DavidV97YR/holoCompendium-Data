@@ -29,8 +29,8 @@
  *   talent choice before the older years have loaded.
  *   OUT_DIR/<year>.json
  *     { "lastUpdated", "year", "channels": [...], "items": [...] }
- * Each item: { "id", "t": title, "p": published ISO, "s": start ISO (streams
- *   with a recorded start), "d": seconds, "v": views (left out when none),
+ * Each item: { "id", "t": title, "p": published ISO, "s": start ISO (streams,
+ *   members-only ones too, with a recorded start), "d": seconds, "v": views (left out when none),
  *   "k": "s" stream | "v" video | "h" short | "m" members-only,
  *   "u": 1 when YouTube marks it as music (fetch-music.js), "c": index into
  *   that file's channels }
@@ -67,8 +67,12 @@ const sql = music => `
 // When it happened, as the site dates it: a stream by its start, everything
 // else by its upload. A stream with no recorded start is dated its upload
 // less its running time, as streamStart() in the site's shared.js does.
+// A members-only item with a recorded start was a stream too (an upload has
+// none): its `published` is when the waiting room went up — Marine's
+// watchalong read 4:03 AM for a stream that began at 6:05.
 function when(r) {
   const pub = Number(r.published) * 1000;
+  if (r.type === 'member' && r.actual_start != null) return Number(r.actual_start) * 1000;
   if (r.type !== 'stream') return pub;
   if (r.actual_start != null) return Number(r.actual_start) * 1000;
   return pub - (Number(r.duration) || 0) * 1000;
@@ -100,7 +104,7 @@ function main() {
   function pack(list) {
     const items = list.map(r => {
       const it = { id: r.id, t: r.title, p: new Date(Number(r.published) * 1000).toISOString() };
-      if (r.type === 'stream' && r.actual_start != null) it.s = new Date(Number(r.actual_start) * 1000).toISOString();
+      if ((r.type === 'stream' || r.type === 'member') && r.actual_start != null) it.s = new Date(Number(r.actual_start) * 1000).toISOString();
       it.d = Number(r.duration) || 0;
       if (r.views != null && Number(r.views) > 0) it.v = Number(r.views);
       it.k = KIND[r.type];
