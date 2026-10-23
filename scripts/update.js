@@ -656,6 +656,14 @@ async function updateChannel(talent, holodexKey, dataDir, backfill = false) {
       changed = true;
       console.log(`    ↻ Banner updated`);
     }
+
+    // The subscriber count, from the same record: the talent, Stats and
+    // Official pages read it here instead of asking Holodex on every visit.
+    const subs = Number(ch.subscriber_count) || 0;
+    if (subs && subs !== local.channel.subscriberCount) {
+      local.channel.subscriberCount = subs;
+      changed = true;
+    }
   } catch(e) {
     console.log(`    ⚠ Holodex channel sync failed: ${e.message}`);
   }
