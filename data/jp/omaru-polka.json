@@ -7,9 +7,20 @@
     "avatarUrl": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
     "bannerUrl": "https://yt3.googleusercontent.com/EP1u-nLVWBd7baERapt2e_-iI4YVl1wCukSEmw0FP2CJFompE-7TtSlxG0uKk2oT5Kn8l54g1w=s0"
   },
-  "lastUpdated": "2026-10-23T13:04:28.168Z",
+  "lastUpdated": "2026-10-23T15:04:34.594Z",
   "videoCount": 2523,
   "videos": [
+    {
+      "id": "QoQRLGY7LFg",
+      "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
+      "published": "2026-10-23T13:15:25+00:00",
+      "type": "stream",
+      "duration": 10497,
+      "status": "past",
+      "scheduledStart": "2026-10-23T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-23T10:01:57.000Z"
+    },
     {
       "id": "wd4lBj7WGYc",
       "title": "【鳴潮】3人でクイズ！？まつりとルーナといっしょに挑戦！【尾丸ポルカ/夏色まつり/姫森ルーナ/ホロライブ】",
@@ -17,7 +28,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-10-24T10:00:00.000Z",
+      "scheduledStart": "2026-10-24T11:00:00.000Z",
       "typedBy": "innertube"
     },
     {
@@ -72,17 +83,6 @@
       "scheduledStart": "2026-10-20T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-20T11:00:16.000Z"
-    },
-    {
-      "id": "QoQRLGY7LFg",
-      "title": "【#ねぽっくす 同時視聴】ねぽらぼの皆で観る！イベント同時視聴配信～～！【 #ねぽらぼ /ホロライブ】",
-      "published": "2026-10-20T02:54:55.000Z",
-      "type": "stream",
-      "duration": 10497,
-      "status": "past",
-      "scheduledStart": "2026-10-23T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-23T10:01:57.000Z"
     },
     {
       "id": "vShW-eC3M4I",
