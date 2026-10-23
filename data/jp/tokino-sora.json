@@ -5,11 +5,23 @@
     "branch": "JP",
     "slug": "tokino-sora",
     "avatarUrl": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh",
-    "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0"
+    "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0",
+    "subscriberCount": 1350000
   },
-  "lastUpdated": "2026-10-23T15:01:15.533Z",
+  "lastUpdated": "2026-10-23T17:01:09.837Z",
   "videoCount": 2030,
   "videos": [
+    {
+      "id": "XX8Nn9x7Ma0",
+      "title": "【筆談配信】わたしの思いを聞いてほしい【ときのそら/ホロライブ】",
+      "published": "2026-10-23T15:45:44+00:00",
+      "type": "stream",
+      "duration": 9100,
+      "status": "past",
+      "scheduledStart": "2026-10-23T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-23T13:05:20.000Z"
+    },
     {
       "id": "b5QTsoEJ9XU",
       "title": "ときのそら「∞超スーパー無限インフィニティ∞」【Dance Practice Video】",
@@ -18,17 +30,6 @@
       "duration": 209,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "XX8Nn9x7Ma0",
-      "title": "【筆談配信】わたしの思いを聞いてほしい【ときのそら/ホロライブ】",
-      "published": "2026-10-23T11:49:15.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-23T13:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-23T13:05:20.000Z"
     },
     {
       "id": "7Aq266GeNx8",

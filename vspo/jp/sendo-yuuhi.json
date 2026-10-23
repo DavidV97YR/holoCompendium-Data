@@ -5,9 +5,10 @@
     "branch": "JP",
     "slug": "sendo-yuuhi",
     "avatarUrl": "https://yt3.ggpht.com/LwrClvbMurf6c81aevjCuKoy8CKwQbuChZlNExzHHeWfaeQQ1kQpbMZPjqBu24TmVeg0RBH7Cg",
-    "bannerUrl": "https://yt3.googleusercontent.com/VlYdMdPDKB1npWiaIMkUWo9kZ4aeuRLA-WPO0MpO2yvd-wbUH4bR6n8xq3WfwAfl2h72fwTC2_Y=s0"
+    "bannerUrl": "https://yt3.googleusercontent.com/VlYdMdPDKB1npWiaIMkUWo9kZ4aeuRLA-WPO0MpO2yvd-wbUH4bR6n8xq3WfwAfl2h72fwTC2_Y=s0",
+    "subscriberCount": 389000
   },
-  "lastUpdated": "2026-10-23T15:13:15.098Z",
+  "lastUpdated": "2026-10-23T17:12:59.545Z",
   "videoCount": 971,
   "videos": [
     {
@@ -27,9 +28,10 @@
       "published": "2026-10-23T12:07:20.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-23T17:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-23T17:00:20.000Z"
     },
     {
       "id": "Su1yEBnMxUs",

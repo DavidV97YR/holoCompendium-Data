@@ -5,9 +5,10 @@
     "branch": "JP",
     "slug": "ginjo-saine",
     "avatarUrl": "https://yt3.ggpht.com/1GsQmWJZ_ABGy-QkyuVM59_5F-iOPMMk5r5dR8bBVwRWjfY2u_Y-vuQptYrnezEvcDiTqXU7",
-    "bannerUrl": "https://yt3.googleusercontent.com/fAgUsmV0yIsHODsKE2TmwDrH3ulYU_MxIwi7FMSsDGkX_XKGoDdjnIb3zPLOa3rpwP8w_527=s0"
+    "bannerUrl": "https://yt3.googleusercontent.com/fAgUsmV0yIsHODsKE2TmwDrH3ulYU_MxIwi7FMSsDGkX_XKGoDdjnIb3zPLOa3rpwP8w_527=s0",
+    "subscriberCount": 211000
   },
-  "lastUpdated": "2026-10-23T14:31:03.274Z",
+  "lastUpdated": "2026-10-23T17:13:19.047Z",
   "videoCount": 256,
   "videos": [
     {
@@ -16,9 +17,10 @@
       "published": "2026-10-23T14:15:19.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-23T16:45:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-23T16:45:11.000Z"
     },
     {
       "id": "2zyqYJ_Pa_E",
