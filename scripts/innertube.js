@@ -198,4 +198,46 @@ async function channelTabs(channelId) {
   return out;
 }
 
-module.exports = { classify, musicVideos, channelTabs };
+// ── The game a stream was played in, as YouTube files it ───────────────────
+// The streamer picks the game from YouTube's own list when they set up a
+// Gaming stream, and the watch page shows it under the description as a box-art
+// card in a section headed "Games". That is read here, from the same request
+// youtube.com's watch page makes (/next). No quota. prettyPrint=false halves
+// the answer (~700 KB), which is still most of the cost of a lookup.
+//
+// → { game: 'R.E.P.O.' } | { game: '' } (a stream with no game set: chatting,
+//   singing, a watchalong) | { failed: reason } (no answer this time; the
+//   caller tries again on a later run rather than recording "no game").
+async function streamGame(id) {
+  let r;
+  try {
+    r = await fetch('https://www.youtube.com/youtubei/v1/next?key=' + KEY + '&prettyPrint=false', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ context: { client: BROWSE_CLIENT }, videoId: id }),
+    });
+  } catch (e) { return { failed: e.message }; }
+  if (!r.ok) return { failed: 'HTTP ' + r.status };
+  let page;
+  try { page = await r.json(); } catch { return { failed: 'bad JSON' }; }
+  // A page without its description panel is a bot check or an unavailable
+  // video, not a stream with no game.
+  if (!JSON.stringify(page.engagementPanels || []).includes('structuredDescriptionContentRenderer'))
+    return { failed: 'no description panel' };
+  let game = '';
+  (function walk(x) {
+    if (game || !x || typeof x !== 'object') return;
+    const s = x.videoAttributesSectionViewModel;
+    // "Games" in English (BROWSE_CLIENT's hl): the same box is used for a
+    // video's music credits and places, under other headers.
+    if (s && s.headerTitle === 'Games') {
+      const a = ((s.videoAttributeViewModels || [])[0] || {}).videoAttributeViewModel;
+      game = (a && typeof a.title === 'string' && a.title.trim()) || '';
+      return;
+    }
+    for (const k in x) walk(x[k]);
+  })(page);
+  return { game };
+}
+
+module.exports = { classify, musicVideos, channelTabs, streamGame };

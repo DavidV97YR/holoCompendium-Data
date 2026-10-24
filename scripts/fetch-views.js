@@ -17,6 +17,8 @@
  *   },
  *   "music": ["<videoId>", ...]   ← YouTube's ♪, written by fetch-music.js;
  *                                   kept as it is when this rewrites the file
+ *   "games": {...}, "gamesChecked": {...}  ← streams' games, written by
+ *                                   fetch-games.js; kept as they are too
  * }
  *
  * Required env vars (set as GitHub Actions secrets):
@@ -165,12 +167,14 @@ async function main() {
     const viewsFilePath = filePath.replace(/\.json$/, '-views.json');
 
     // Load existing views so we can detect changes
-    let existingViews = {}, existingMusic = [];
+    let existingViews = {}, existingMusic = [], existingGames = null, existingChecked = null;
     if (fs.existsSync(viewsFilePath)) {
       try {
         const old = JSON.parse(fs.readFileSync(viewsFilePath, 'utf8'));
         existingViews = old.views || {};
         existingMusic = old.music || [];
+        existingGames = old.games || null;
+        existingChecked = old.gamesChecked || null;
       } catch (_) { /* start fresh if file is corrupt */ }
     }
 
@@ -202,6 +206,9 @@ async function main() {
       views,
       // fetch-music.js's, carried over untouched.
       music: existingMusic,
+      // fetch-games.js's, likewise.
+      ...(existingGames ? { games: existingGames } : {}),
+      ...(existingChecked ? { gamesChecked: existingChecked } : {}),
     };
 
     fs.writeFileSync(viewsFilePath, JSON.stringify(out, null, 2), 'utf8');
