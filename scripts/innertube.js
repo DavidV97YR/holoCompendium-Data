@@ -156,4 +156,46 @@ async function musicVideos(channelId) {
   return { ids: [...music].sort(), seen: seen.size, seenIds: seen, complete };
 }
 
-module.exports = { classify, musicVideos };
+// ── Newest uploads, from the channel's own tabs ────────────────────────────
+// What watch-new.js reads when the uploads feed fails: the first page of the
+// Videos, Shorts and Live tabs (30–48 cards each, more than the feed's 15),
+// newest first. A members-only card carries YouTube's BADGE_MEMBERS_ONLY.
+//
+// → { videos: [{ id, members }], shorts: [...], streams: [...] }
+//   A tab the channel does not have is an empty list: YouTube answers with
+//   its Home tab instead, which is told apart by the tab marked selected.
+//   Throws when no tab came back at all (a bot check or a changed layout),
+//   so the caller can say the channel was not checked.
+const CHANNEL_TABS = {
+  videos:  { params: VIDEOS_TAB,                 title: 'Videos' },
+  shorts:  { params: 'EgZzaG9ydHPyBgUKA5oBAA==', title: 'Shorts' },
+  streams: { params: 'EgdzdHJlYW1z8gYECgJ6AA==', title: 'Live' },
+};
+
+async function channelTabs(channelId) {
+  const out = {};
+  let answered = 0;
+  for (const [name, tab] of Object.entries(CHANNEL_TABS)) {
+    const page = await browse({ browseId: channelId, params: tab.params });
+    let selected = null;
+    const cards = [];
+    (function walk(x) {
+      if (!x || typeof x !== 'object') return;
+      if (x.tabRenderer && x.tabRenderer.selected) selected = x.tabRenderer.title;
+      if (x.richItemRenderer) {
+        const s  = JSON.stringify(x.richItemRenderer);
+        const id = (s.match(/"(?:videoId|contentId)":"([\w-]{11})"/) || [])[1];
+        if (id) cards.push({ id, members: s.includes('BADGE_MEMBERS_ONLY') });
+        return;
+      }
+      for (const k in x) walk(x[k]);
+    })(page);
+    if (selected) answered++;
+    out[name] = selected === tab.title ? cards : [];
+    await new Promise(r => setTimeout(r, 200));
+  }
+  if (!answered) throw new Error('no channel tabs returned');
+  return out;
+}
+
+module.exports = { classify, musicVideos, channelTabs };

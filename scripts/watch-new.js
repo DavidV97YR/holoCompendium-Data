@@ -3,7 +3,8 @@
 // ── Quick new-video watcher (every 30 minutes) ──────────────────────────────
 // Reads each channel's uploads feed and members feed and compares them with
 // what is already saved. Nothing new → nothing else happens, so a quiet run
-// is two small requests per channel. Anything new is identified by innertube
+// is two small requests per channel. When the uploads feed fails, the
+// channel's Videos, Shorts and Live tabs are read instead (innertube.js). Anything new is identified by innertube
 // (./innertube.js) — Short, stream, video or members — and saved at once,
 // with its real start time if it is live or finished.
 //
@@ -23,7 +24,7 @@
 
 const fs   = require('fs');
 const path = require('path');
-const { classify } = require('./innertube');
+const { classify, channelTabs } = require('./innertube');
 
 const DATA_DIR = process.env.DATA_DIR || './data';
 const pause = ms => new Promise(r => setTimeout(r, ms));
@@ -33,11 +34,12 @@ function decodeHtmlEntities(str) {
             .replace(/&quot;/g, '"').replace(/&#39;/g, "'");
 }
 
-// Same parse as update.js's fetchRSS. A channel with no members feed answers
-// 404, which is simply an empty list.
+// Same parse as update.js's fetchRSS. A 404 is null: for the members feed
+// that is simply a channel without one, but every channel has an uploads
+// feed, so there it means the feeds are down (see main).
 async function feed(playlistId) {
   const r = await fetch('https://www.youtube.com/feeds/videos.xml?playlist_id=' + playlistId);
-  if (r.status === 404) return [];
+  if (r.status === 404) return null;
   if (!r.ok) throw new Error('RSS HTTP ' + r.status + ' for ' + playlistId);
   const body = await r.text();
   const out = [];
@@ -106,19 +108,33 @@ function channels() {
 async function main() {
   const started = Date.now();
   const groups = channels();
-  let added = 0, skipped = 0, failed = 0;
+  let added = 0, skipped = 0, failed = 0, fromTabs = 0;
 
   for (const [channelId, group] of groups) {
     const suffix = channelId.replace(/^UC/, '');
     const known  = new Set(group.files.flatMap(f => f.doc.videos.map(v => v.id)));
 
-    let uploads, members;
+    let uploads = null, members = null, feedError = '404';
     try {
       [uploads, members] = await Promise.all([feed('UU' + suffix), feed('UUMO' + suffix)]);
-    } catch (e) {
-      console.log(`  ⚠ ${group.name}: ${e.message}`); failed++; continue;
+    } catch (e) { uploads = null; feedError = e.message; }
+
+    // The uploads feed failed: the channel's own Videos, Shorts and Live tabs
+    // stand in. On 2026-10-24 the feeds answered 404 for every channel for
+    // hours, which this run took for "nothing new" — no video was added and
+    // every run still passed.
+    let tabs = null;
+    if (!uploads) {
+      try { tabs = await channelTabs(channelId); }
+      catch (e) {
+        console.log(`  ⚠ ${group.name}: uploads feed failed (${feedError}) and so did the channel tabs (${e.message})`);
+        failed++; continue;
+      }
+      fromTabs++;
+      uploads = [...tabs.videos, ...tabs.shorts, ...tabs.streams].map(c => ({ id: c.id, title: '', published: '' }));
+      members = [...tabs.videos, ...tabs.streams].filter(c => c.members);
     }
-    const memberIds = new Set(members.map(e => e.id));
+    const memberIds = new Set((members || []).map(e => e.id));
     const fresh = [...uploads, ...members].filter((e, i, a) => !known.has(e.id) && a.findIndex(x => x.id === e.id) === i);
     if (!fresh.length) continue;
 
@@ -141,9 +157,11 @@ async function main() {
           skipped++; continue;
         }
         if (!fb.broadcast) {
-          if (!lists) {
-            const [v, s] = await Promise.all([feed('UULF' + suffix).catch(() => []), feed('UUSH' + suffix).catch(() => [])]);
-            lists = { videos: new Set(v.map(e => e.id)), shorts: new Set(s.map(e => e.id)) };
+          if (!lists && tabs) {
+            lists = { videos: new Set(tabs.videos.map(c => c.id)), shorts: new Set(tabs.shorts.map(c => c.id)) };
+          } else if (!lists) {
+            const [v, s] = await Promise.all([feed('UULF' + suffix).catch(() => null), feed('UUSH' + suffix).catch(() => null)]);
+            lists = { videos: new Set((v || []).map(e => e.id)), shorts: new Set((s || []).map(e => e.id)) };
           }
           if (lists.shorts.has(entry.id))      fb.type = 'short';
           else if (lists.videos.has(entry.id)) fb.type = 'video';
@@ -157,6 +175,11 @@ async function main() {
       }
       // The members feed is YouTube's own list of members content; it wins.
       if (memberIds.has(entry.id)) info.type = 'member';
+      // A tab card has no date of its own, and the list is kept newest first.
+      if (!info.published && !entry.published) {
+        console.log(`  … ${group.name}: ${entry.id} has no date yet — retried next run`);
+        skipped++; continue;
+      }
       records.push({
         id:        entry.id,
         title:     info.title || entry.title,
@@ -186,7 +209,8 @@ async function main() {
   }
 
   console.log(`\n${groups.size} channels checked in ${((Date.now() - started) / 1000).toFixed(1)}s — `
-            + `${added} new video(s) added, ${skipped} to retry next run, ${failed} feed failure(s)`);
+            + `${added} new video(s) added, ${skipped} to retry next run, ${failed} feed failure(s)`
+            + (fromTabs ? `, ${fromTabs} read from the channel tabs (uploads feed down)` : ''));
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
