@@ -1,11 +1,17 @@
 {
   "channelId": "UCfrWoRGlawPQDQxxeIDRP0Q",
   "channelName": "hololive Indonesia",
-  "lastUpdated": "2026-10-24T13:01:18.221Z",
+  "lastUpdated": "2026-10-24T14:07:03.353Z",
   "streams": {
     "t0alZwYhHL4": {
       "e": "noreplay",
-      "n": 24
+      "n": 25
+    },
+    "h7cefJBNItQ": {
+      "cur": {
+        "IDR": 20000
+      },
+      "sticker": 1
     }
   }
 }
