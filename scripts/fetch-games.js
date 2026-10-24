@@ -41,17 +41,30 @@ const RECHECK_GAP = 12 * 3600000;      // … at most this often
 const LEAD   = /^(?:[#＃]\d+\s*)?(?:【([^】]+)】|\[([^\]]+)\]|〖([^〗]+)〗|◤([^◢]+)◢|≪([^≫]+)≫|〘([^〙]+)〙)/;
 const BARRED = /^([^│┃【\[〖◤≪〘]{2,30}?)\s*[│┃]/;
 const MARKER = /^[#＃]?\s*(?:[0-9０-９]{1,3}|最終回|初回|前編|中編|後編|完結編|(?:part|pt|ep|episode|day)\.?\s*[0-9０-９]+)$/i;
-// A bracket that says how the stream is, not what (CAT_TAG, CAT_AGENCY):
-// 【ネタバレあり】, 【初見】, 【ゲリラ】, 【縦型配信】, 【メン限】, 【ホロライブ/白上フブキ】.
-// The site files those under the game where one is set.
-const TAG    = /^[#＃!！\s]*(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|メン限|メンバー(?:シップ)?限定(?:配信)?|members?'?s?[\s-]*(?:only|stream|limited)|memberships?(?:[\s-]*only)?)[!！\s]*$/i;
+// A bracket that says how the stream is, not what (CAT_TAG, CAT_AGENCY,
+// untagCategory): 【ネタバレあり】, 【初見】, 【ゲリラ】, 【縦型配信】, 【メン限】,
+// 【オフコラボ】, 【ホロライブ/白上フブキ】. The site files those under the game
+// where one is set. A tag beside a real name comes off it ("歌枠＊メン限" is
+// 歌枠), and one that leaves only an episode number ("＃３/ネタバレあり") is
+// looked up like 【#3】.
+const TAG    = /^[#＃!！※\s]*(?:ド[★☆]?)?(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|vertical(?:\s*stream(?:ing)?)?|(?:録画は|アーカイブは?)?メン限(?:配信)?|メンバー(?:シップ)?(?:限定)?(?:配信)?|member(?:ship)?s?\s*限定|members?'?s?(?:[\s-]*(?:only|stream|limited))?|memberships?(?:[\s-]*(?:only|stream))?|(?:off[\s-]?)?collab|オフコラボ|コラボ(?:配信)?)[!！\s~〜]*$/iu;
 const AGENCY = /^(?:ホロライブ|hololive|ぶいすぽっ?[!！]?|vspo[!！]?)$/i;
-const isTag  = c => TAG.test(c) || (/[\/／]/.test(c) && c.split(/[\/／]/).some(p => AGENCY.test(p.trim())));
+const isTag  = c => { const b = c.replace(/^[\p{Extended_Pictographic}\p{So}️\s]+|[\p{Extended_Pictographic}\p{So}️\s]+$/gu, ''); return !!b && TAG.test(b); };
+function untag(c) {
+  if (isTag(c)) return null;
+  if (/[\/／]/.test(c) && c.split(/[\/／]/).some(p => AGENCY.test(p.trim()))) return null;
+  const parts = c.split(/(?<!\b[wW])\s*[\/／]\s*|\s*[|｜・＊]\s*|\s+[-–]\s+/).filter(p => p.trim());
+  if (parts.length < 2) return c;
+  const keep = parts.filter(p => !isTag(p));
+  return !keep.length ? null : keep.length === parts.length ? c : keep.join(' / ');
+}
 function titleNamesGame(title) {
   const t = String(title || '').trim();
   const m = t.match(LEAD) || t.match(BARRED);
-  const c = m ? (m[1] || m[2] || m[3] || m[4] || m[5] || m[6] || '').replace(/\s+/g, ' ').trim() : '';
-  return !!c && !MARKER.test(c) && !isTag(c);
+  const c = m ? (m[1] || m[2] || m[3] || m[4] || m[5] || m[6] || '').replace(/[​-‍⁠﻿]/g, '').replace(/\s+/g, ' ').trim() : '';
+  if (!c || MARKER.test(c)) return false;
+  const name = untag(c);
+  return name !== null && !MARKER.test(name);
 }
 
 // Public streams, and members-only ones (the members playlist's items with a
