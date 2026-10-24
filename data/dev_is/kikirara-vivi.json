@@ -8,28 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0",
     "subscriberCount": 757000
   },
-  "lastUpdated": "2026-10-24T12:00:34.147Z",
+  "lastUpdated": "2026-10-24T13:09:15.719Z",
   "videoCount": 1300,
   "videos": [
+    {
+      "id": "LSS11WEsPtI",
+      "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃16【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published": "2026-10-24T12:58:15+00:00",
+      "type": "stream",
+      "duration": 15780,
+      "status": "past",
+      "scheduledStart": "2026-10-24T07:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-24T07:19:30.000Z"
+    },
     {
       "id": "scBzgQKnnf0",
       "title": "【#ホロドリ 】イオフィ先輩と初サシコラボ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
       "published": "2026-10-24T11:36:56.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "LSS11WEsPtI",
-      "title": "【#ホロARK】ドラゴンテイムしたい！！初めてのホロ鯖ARK！！＃16【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-      "published": "2026-10-24T03:58:09.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-24T07:00:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-24T07:19:30.000Z"
+      "scheduledStart": "2026-10-24T12:00:00.000Z",
+      "actualStart": "2026-10-24T12:02:19.000Z"
     },
     {
       "id": "uaYhTEjkGFU",

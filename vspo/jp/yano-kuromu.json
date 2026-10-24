@@ -6,9 +6,9 @@
     "slug": "yano-kuromu",
     "avatarUrl": "https://yt3.ggpht.com/1akMwH-5NFyiA_cSCHjkOi-h0ZygMVcxMdRHYmCgBtjfha__trYziilH92BCAYgYZQBGOWynsg",
     "bannerUrl": "https://yt3.googleusercontent.com/NYbjtvspd82kF5napVNMe9O8WhQ6HQTsk9hZkbWiJM-oAU9gAMtjXZXs_LHeKrjCZ3-sVEXNFn4=s0",
-    "subscriberCount": 622000
+    "subscriberCount": 623000
   },
-  "lastUpdated": "2026-10-24T02:51:19.017Z",
+  "lastUpdated": "2026-10-24T13:12:21.305Z",
   "videoCount": 736,
   "videos": [
     {
@@ -348,9 +348,10 @@
       "published": "2026-09-16T04:07:31.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-24T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-24T11:54:51.000Z"
     },
     {
       "id": "NhZF17QPKi8",
