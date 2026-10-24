@@ -134,7 +134,8 @@ async function main() {
       uploads = [...tabs.videos, ...tabs.shorts, ...tabs.streams].map(c => ({ id: c.id, title: '', published: '' }));
       members = [...tabs.videos, ...tabs.streams].filter(c => c.members);
     }
-    const memberIds = new Set((members || []).map(e => e.id));
+    members = members || [];               // null: the channel has no members feed
+    const memberIds = new Set(members.map(e => e.id));
     const fresh = [...uploads, ...members].filter((e, i, a) => !known.has(e.id) && a.findIndex(x => x.id === e.id) === i);
     if (!fresh.length) continue;
 
