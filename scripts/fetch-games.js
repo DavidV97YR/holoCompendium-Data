@@ -4,12 +4,13 @@
 // The site files a stream under the game named in its title's opening bracket
 // (【Minecraft】, ◤ VALORANT ◢). Some titles name none: the bracket holds only
 // the episode number ("【#3】Hollow Knight: Silksong") or a word for one
-// (【#最終回】), or there is no bracket at all. Those streams were filed under
-// "#3", mixing every game's third episode, or under nothing. For them the site
-// falls back on the game the streamer picked on YouTube (innertube.js
-// streamGame), which this script records.
+// (【#最終回】), or a tag (【ネタバレあり】, 【メン限】), or there is no bracket at
+// all. Those streams were filed under "#3", mixing every game's third episode,
+// or under nothing. For them the site falls back on the game the streamer
+// picked on YouTube (innertube.js streamGame), which this script records.
+// Members-only streams are included: YouTube shows their game to anyone.
 //
-// Only those streams are looked up (about 8,000 of 110,000; the title wins
+// Only those streams are looked up (about 15,000 of 119,000; the title wins
 // everywhere else), each once when first seen and again on each run while it
 // is under a week old, so a game the streamer sets or corrects after going
 // live is picked up. No quota.
@@ -40,12 +41,22 @@ const RECHECK_GAP = 12 * 3600000;      // … at most this often
 const LEAD   = /^(?:[#＃]\d+\s*)?(?:【([^】]+)】|\[([^\]]+)\]|〖([^〗]+)〗|◤([^◢]+)◢|≪([^≫]+)≫|〘([^〙]+)〙)/;
 const BARRED = /^([^│┃【\[〖◤≪〘]{2,30}?)\s*[│┃]/;
 const MARKER = /^[#＃]?\s*(?:[0-9０-９]{1,3}|最終回|初回|前編|中編|後編|完結編|(?:part|pt|ep|episode|day)\.?\s*[0-9０-９]+)$/i;
+// A bracket that says how the stream is, not what (CAT_TAG, CAT_AGENCY):
+// 【ネタバレあり】, 【初見】, 【ゲリラ】, 【縦型配信】, 【メン限】, 【ホロライブ/白上フブキ】.
+// The site files those under the game where one is set.
+const TAG    = /^[#＃!！\s]*(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|メン限|メンバー(?:シップ)?限定(?:配信)?|members?'?s?[\s-]*(?:only|stream|limited)|memberships?(?:[\s-]*only)?)[!！\s]*$/i;
+const AGENCY = /^(?:ホロライブ|hololive|ぶいすぽっ?[!！]?|vspo[!！]?)$/i;
+const isTag  = c => TAG.test(c) || (/[\/／]/.test(c) && c.split(/[\/／]/).some(p => AGENCY.test(p.trim())));
 function titleNamesGame(title) {
   const t = String(title || '').trim();
   const m = t.match(LEAD) || t.match(BARRED);
   const c = m ? (m[1] || m[2] || m[3] || m[4] || m[5] || m[6] || '').replace(/\s+/g, ' ').trim() : '';
-  return !!c && !MARKER.test(c);
+  return !!c && !MARKER.test(c) && !isTag(c);
 }
+
+// Public streams, and members-only ones (the members playlist's items with a
+// real start; its uploads have none).
+const isStream = v => v.type === 'stream' || (v.type === 'member' && Number.isFinite(Date.parse(v.actualStart)));
 
 function streamStartMs(v) {
   return Date.parse(v.actualStart) || Date.parse(v.published) || 0;
@@ -87,7 +98,7 @@ async function main() {
     const doc = readViews(g.files[0]) || {};
     const checked = doc.gamesChecked || {};
     for (const v of g.videos) {
-      if (v.type !== 'stream' || v.status === 'upcoming' || v.status === 'live' || v.status === 'unavailable') continue;
+      if (!isStream(v) || v.status === 'upcoming' || v.status === 'live' || v.status === 'unavailable') continue;
       if (titleNamesGame(v.title)) continue;
       const at = Date.parse(checked[v.id]) || 0;
       const young = started - streamStartMs(v) < RECHECK_FOR;
