@@ -6,9 +6,9 @@
     "slug": "mizumiya-su",
     "avatarUrl": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa",
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0",
-    "subscriberCount": 750000
+    "subscriberCount": 751000
   },
-  "lastUpdated": "2026-10-24T05:22:26.746Z",
+  "lastUpdated": "2026-10-24T15:08:55.286Z",
   "videoCount": 1212,
   "videos": [
     {
@@ -36,9 +36,10 @@
       "published": "2026-10-23T21:20:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-24T13:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-24T13:39:11.000Z"
     },
     {
       "id": "jHKZlIRSd0g",
