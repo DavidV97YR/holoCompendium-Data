@@ -129,6 +129,28 @@ jobs:
           DATA_DIR: ./vspo
         run: node scripts/fetch-music.js
 
+      # The game YouTube files each stream under, for the streams whose title
+      # doesn't name one ("【#3】Hollow Knight: Silksong"), into the same views
+      # files. No quota (innertube). The first runs work through the ~8,000
+      # older ones within the time budget and carry on where they stopped;
+      # after that it is the week's new streams, a minute or so. A failure
+      # here never holds up the data update below.
+      - name: Fetch stream games (hololive)
+        if: ${{ inputs.org != 'vspo' }}
+        continue-on-error: true
+        env:
+          DATA_DIR:   ./data
+          BUDGET_MIN: '15'
+        run: node scripts/fetch-games.js
+
+      - name: Fetch stream games (VSPO!)
+        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        continue-on-error: true
+        env:
+          DATA_DIR:   ./vspo
+          BUDGET_MIN: '8'
+        run: node scripts/fetch-games.js
+
       - name: Build SQLite catalogue (hololive)
         if: ${{ inputs.org != 'vspo' }}
         env:
