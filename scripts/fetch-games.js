@@ -59,7 +59,7 @@ function untag(c) {
   return !keep.length ? null : keep.length === parts.length ? c : keep.join(' / ');
 }
 function titleNamesGame(title) {
-  const t = String(title || '').trim();
+  const t = String(title || '').trim().replace(/♯(?=[0-9０-９生])/g, '#');
   const m = t.match(LEAD) || t.match(BARRED);
   const c = m ? (m[1] || m[2] || m[3] || m[4] || m[5] || m[6] || '').replace(/[​-‍⁠﻿]/g, '').replace(/\s+/g, ' ').trim() : '';
   if (!c || MARKER.test(c)) return false;
