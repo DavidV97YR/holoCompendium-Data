@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/dUZHiwqserqwmYLgodAHl7WnKEYuJkdzbrTG5N64GYPVO0diUGEBpfTa64DmTC_ExeYFx4o6nw=s0",
     "subscriberCount": 66500
   },
-  "lastUpdated": "2026-10-25T16:01:10.923Z",
+  "lastUpdated": "2026-10-25T17:13:12.192Z",
   "videoCount": 391,
   "videos": [
+    {
+      "id": "jUY2DSPIIE8",
+      "title": "【Dark Hours】'겁'은 뭐냐 난 안무서워 난 겁이없어 w. hebi isha【#VSPOEN #JiraJisaki】",
+      "published": "2026-10-25T16:02:48+00:00",
+      "type": "stream",
+      "duration": 11345,
+      "status": "past",
+      "scheduledStart": "2026-10-25T10:05:00.000Z",
+      "actualStart": "2026-10-25T10:17:30.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "MsYMTzauNdc",
       "title": "【L4D2】spooky title【#VSPOEN #JiraJisaki】",
@@ -42,25 +53,15 @@
       "typedBy": "innertube"
     },
     {
-      "id": "jUY2DSPIIE8",
-      "title": "【Dark Hours】'겁'은 뭐냐 난 안무서워 난 겁이없어 w. hebi isha【#VSPOEN #JiraJisaki】",
-      "published": "2026-10-25T10:05:45.000Z",
-      "type": "stream",
-      "duration": 11345,
-      "status": "past",
-      "scheduledStart": "2026-10-25T10:05:00.000Z",
-      "actualStart": "2026-10-25T10:17:30.000Z",
-      "typedBy": "data-api"
-    },
-    {
       "id": "IAb7FCbhihQ",
-      "title": "【Happy's Humble Burger Farm】burgers cooking burgers【#VSPOEN #JiraJisaki】",
+      "title": "【Happy's Humble Burger Cult】burgers cooking burgers【#VSPOEN #JiraJisaki】",
       "published": "2026-10-25T09:59:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-25T17:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-25T17:09:07.000Z"
     },
     {
       "id": "e4cJmuVp-Po",
