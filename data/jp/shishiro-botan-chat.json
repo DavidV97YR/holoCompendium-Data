@@ -1,7 +1,7 @@
 {
   "channelId": "UCUKD-uaobj9jiqB-VXt71mA",
   "channelName": "Shishiro Botan",
-  "lastUpdated": "2026-10-24T12:04:28.996Z",
+  "lastUpdated": "2026-10-25T16:04:16.807Z",
   "streams": {
     "GgCngKC9aPk": {
       "member": 1,
@@ -18681,6 +18681,18 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "tFcJg5DfOpM": {
+      "cur": {
+        "¥": 4300,
+        "NT$": 1000
+      },
+      "sc": 2,
+      "sticker": 1,
+      "member": 5,
+      "gift": 5,
+      "recv": 16,
+      "sent": 21
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "channelId": "UCjLEmnpCNeisMxy134KPwWw",
   "channelName": "Kobo Kanaeru",
-  "lastUpdated": "2026-10-24T15:04:09.285Z",
+  "lastUpdated": "2026-10-25T16:01:39.529Z",
   "streams": {
     "B-qxc7rAaOA": {
       "milestone": 1
@@ -9661,6 +9661,20 @@
       "milestone": 2,
       "gift": 1,
       "sent": 10
+    },
+    "dAkUy8ScRNY": {
+      "cur": {
+        "₩": 100000,
+        "IDR": 60000,
+        "NT$": 75,
+        "THB": 40
+      },
+      "sc": 6,
+      "member": 1,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
     }
   }
 }
