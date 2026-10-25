@@ -8,26 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0",
     "subscriberCount": 757000
   },
-  "lastUpdated": "2026-10-25T12:30:29.332Z",
+  "lastUpdated": "2026-10-25T13:09:43.252Z",
   "videoCount": 1303,
   "videos": [
+    {
+      "id": "EfplefkAuuE",
+      "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
+      "published": "2026-10-25T12:24:01+00:00",
+      "type": "stream",
+      "duration": 4535,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-25T11:00:00.000Z",
+      "actualStart": "2026-10-25T11:03:10.000Z"
+    },
     {
       "id": "Yd_NLK5IGn4",
       "title": "【#ホロARK】ルミナテイムしたい！！初めてのホロ鯖ARK！！＃17【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published": "2026-10-25T12:16:02.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "EfplefkAuuE",
-      "title": "【#ホロドリ 】おしゃべりフェス終わりのおしゃべりしたいヴィヴィ【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】",
-      "published": "2026-10-25T10:30:45.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-25T12:30:00.000Z",
+      "actualStart": "2026-10-25T12:33:32.000Z"
     },
     {
       "id": "ysZexmdOM1c",
