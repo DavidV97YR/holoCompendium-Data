@@ -8,18 +8,19 @@
     "bannerUrl": "https://yt3.googleusercontent.com/HkdBYiIHoZdS3jhzfTtLCAf6upeuzDb_yNeMyMi4fH3JGh57C-S1leqJG2VksyUTpPPKE2jcRSk=s0",
     "subscriberCount": 2800000
   },
-  "lastUpdated": "2026-10-25T13:06:31.849Z",
+  "lastUpdated": "2026-10-25T15:06:09.152Z",
   "videoCount": 886,
   "videos": [
     {
       "id": "dAkUy8ScRNY",
       "title": "【hololive Dreams】holodori daily #holodori #ホロドリ",
-      "published": "2026-10-25T10:02:25.000Z",
+      "published": "2026-10-25T14:48:30+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4714,
+      "status": "past",
       "scheduledStart": "2026-10-25T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-25T13:01:06.000Z"
     },
     {
       "id": "h03mMhkVP_s",

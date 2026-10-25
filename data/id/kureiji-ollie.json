@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0",
     "subscriberCount": 1410000
   },
-  "lastUpdated": "2026-10-25T13:05:55.734Z",
+  "lastUpdated": "2026-10-25T15:05:32.490Z",
   "videoCount": 1828,
   "videos": [
     {
@@ -17,17 +17,18 @@
       "published": "2026-10-25T08:55:36.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-25T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-25T13:29:51.000Z"
     },
     {
       "id": "BQzobP1HOmI",
       "title": "【hololive Dreams】 TEAM CULTURE IN THE HOUSE!?!! #holodori #ホロドリ 【Kureiji Ollie】",
       "published": "2026-10-25T08:47:03.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 5210,
+      "status": "past",
       "scheduledStart": "2026-10-25T12:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-25T12:00:41.000Z"
