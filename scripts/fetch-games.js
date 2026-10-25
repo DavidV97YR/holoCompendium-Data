@@ -47,13 +47,13 @@ const MARKER = /^[#＃]?\s*(?:[0-9０-９]{1,3}|最終回|初回|前編|中編|�
 // where one is set. A tag beside a real name comes off it ("歌枠＊メン限" is
 // 歌枠), and one that leaves only an episode number ("＃３/ネタバレあり") is
 // looked up like 【#3】.
-const TAG    = /^[#＃!！※\s]*(?:ド[★☆]?)?(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|vertical(?:\s*stream(?:ing)?)?|(?:録画は|アーカイブは?)?メン限(?:配信)?|メンバー(?:シップ)?(?:限定)?(?:配信)?|member(?:ship)?s?\s*限定|members?'?s?(?:[\s-]*(?:only|stream|limited))?|memberships?(?:[\s-]*(?:only|stream))?|(?:off[\s-]?)?collab|オフコラボ|コラボ(?:配信)?|holo(?:live)?\s*(?:en|id|jp|dev[_\s-]?is|english|indonesia)?|ホロライブ(?:所属|[0-9０-９]期生)?|ぶいすぽっ?[!！]?|vspo[!！]?(?:\s*en)?|新人\s*vtuber|vtuber|area\s*15|regloss|flow\s*glow|justice|en|eng|english|jp|jpn|japanese|日本語|id|ind|indonesia|bahasa(?:\s*indonesia)?|案件|企業案件|pr|ad|sponsored|なのらいぶ)[!！\s~〜]*$/iu;
+const TAG    = /^[#＃!！※\s]*(?:ド[★☆]?)?(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|vertical(?:\s*stream(?:ing)?)?|(?:録画は|アーカイブは?)?メン限(?:配信)?|メンバー(?:シップ)?(?:限定)?(?:配信)?|member(?:ship)?s?\s*限定|members?'?s?(?:[\s-]*(?:only|stream|limited))?|memberships?(?:[\s-]*(?:only|stream))?|(?:off[\s-]?)?collab|オフコラボ|コラボ(?:配信)?|holo(?:live)?\s*(?:en|id|jp|dev[_\s-]?is|english|indonesia)?|ホロライブ(?:所属|[0-9０-９]期生)?|ぶいすぽっ?[!！]?|vspo[!！]?(?:\s*en)?|新人\s*vtuber|vtuber|area\s*15|regloss|flow\s*glow|justice|en|eng|english|jp|jpn|japanese|日本語|id|ind|indonesia|bahasa(?:\s*indonesia)?|案件|企業案件|pr|ad|sponsored|なのらいぶ|生スバル|生放送|生配信|[#＃]\S{1,10}生放送|(?:視聴者|リスナー)参加型?(?:配信)?|参加型(?:配信)?|viewer\s*participation|(?:クリア)?耐久(?:配信)?|guerr?ill?a(?:\s*stream)?|english\s*only(?:\s*stream)?|[^\/／|｜・＊┃│：:\s]{1,14}視点|(?:[^\/／|｜・＊┃│：:-]+\s+)?pov)[!！?？\s~〜]*$/iu;
 const AGENCY = /^(?:ホロライブ|hololive|ぶいすぽっ?[!！]?|vspo[!！]?)$/i;
 const isTag  = c => { const b = c.replace(/^[\p{Extended_Pictographic}\p{So}️\s]+|[\p{Extended_Pictographic}\p{So}️\s]+$/gu, ''); return !!b && TAG.test(b); };
 function untag(c) {
   if (isTag(c)) return null;
   if (/[\/／]/.test(c) && c.split(/[\/／]/).some(p => AGENCY.test(p.trim()))) return null;
-  const parts = c.split(/(?<!\b[wW])\s*[\/／]\s*|\s*[|｜・＊]\s*|\s+[-–]\s+/).filter(p => p.trim());
+  const parts = c.split(/(?<!\b[wW])\s*[\/／]\s*|\s*[|｜・＊┃│：]\s*|\s+[-–]\s+/).filter(p => p.trim());
   if (parts.length < 2) return c;
   const keep = parts.filter(p => !isTag(p));
   return !keep.length ? null : keep.length === parts.length ? c : keep.join(' / ');
