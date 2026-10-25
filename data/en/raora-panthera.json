@@ -6,9 +6,9 @@
     "slug": "raora-panthera",
     "avatarUrl": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0",
-    "subscriberCount": 696000
+    "subscriberCount": 697000
   },
-  "lastUpdated": "2026-10-24T17:22:18.260Z",
+  "lastUpdated": "2026-10-25T05:07:42.432Z",
   "videoCount": 565,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-10-24T10:45:20.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-25T04:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-25T04:04:03.000Z"
     },
     {
       "id": "-OUq_BR3XV4",
