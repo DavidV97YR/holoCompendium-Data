@@ -43,11 +43,11 @@ const BARRED = /^([^│┃【\[〖◤≪〘]{2,30}?)\s*[│┃]/;
 const MARKER = /^[#＃]?\s*(?:[0-9０-９]{1,3}|最終回|初回|前編|中編|後編|完結編|(?:part|pt|ep|episode|day)\.?\s*[0-9０-９]+)$/i;
 // A bracket that says how the stream is, not what (CAT_TAG, CAT_AGENCY,
 // untagCategory): 【ネタバレあり】, 【初見】, 【ゲリラ】, 【縦型配信】, 【メン限】,
-// 【オフコラボ】, 【hololiveID】, 【EN】, 【ホロライブ/白上フブキ】. The site files those under the game
+// 【オフコラボ】, 【hololiveID】, 【EN】, 【案件】, 【ホロライブ/白上フブキ】. The site files those under the game
 // where one is set. A tag beside a real name comes off it ("歌枠＊メン限" is
 // 歌枠), and one that leaves only an episode number ("＃３/ネタバレあり") is
 // looked up like 【#3】.
-const TAG    = /^[#＃!！※\s]*(?:ド[★☆]?)?(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|vertical(?:\s*stream(?:ing)?)?|(?:録画は|アーカイブは?)?メン限(?:配信)?|メンバー(?:シップ)?(?:限定)?(?:配信)?|member(?:ship)?s?\s*限定|members?'?s?(?:[\s-]*(?:only|stream|limited))?|memberships?(?:[\s-]*(?:only|stream))?|(?:off[\s-]?)?collab|オフコラボ|コラボ(?:配信)?|holo(?:live)?\s*(?:en|id|jp|dev[_\s-]?is|english|indonesia)?|ホロライブ(?:所属|[0-9０-９]期生)?|ぶいすぽっ?[!！]?|vspo[!！]?(?:\s*en)?|新人\s*vtuber|vtuber|area\s*15|regloss|flow\s*glow|justice|en|eng|english|jp|jpn|japanese|日本語|id|ind|indonesia|bahasa(?:\s*indonesia)?)[!！\s~〜]*$/iu;
+const TAG    = /^[#＃!！※\s]*(?:ド[★☆]?)?(?:ネタバレ(?:あり|有り?|注意|含む)?|spoilers?(?:\s*(?:alert|warning))?|初見(?:実況|プレイ(?:実況)?)?|完全初見|ゲリラ(?:配信)?|突発(?:配信)?|縦型(?:配信)?|縦配信|vertical(?:\s*stream(?:ing)?)?|(?:録画は|アーカイブは?)?メン限(?:配信)?|メンバー(?:シップ)?(?:限定)?(?:配信)?|member(?:ship)?s?\s*限定|members?'?s?(?:[\s-]*(?:only|stream|limited))?|memberships?(?:[\s-]*(?:only|stream))?|(?:off[\s-]?)?collab|オフコラボ|コラボ(?:配信)?|holo(?:live)?\s*(?:en|id|jp|dev[_\s-]?is|english|indonesia)?|ホロライブ(?:所属|[0-9０-９]期生)?|ぶいすぽっ?[!！]?|vspo[!！]?(?:\s*en)?|新人\s*vtuber|vtuber|area\s*15|regloss|flow\s*glow|justice|en|eng|english|jp|jpn|japanese|日本語|id|ind|indonesia|bahasa(?:\s*indonesia)?|案件|企業案件|pr|ad|sponsored|なのらいぶ)[!！\s~〜]*$/iu;
 const AGENCY = /^(?:ホロライブ|hololive|ぶいすぽっ?[!！]?|vspo[!！]?)$/i;
 const isTag  = c => { const b = c.replace(/^[\p{Extended_Pictographic}\p{So}️\s]+|[\p{Extended_Pictographic}\p{So}️\s]+$/gu, ''); return !!b && TAG.test(b); };
 function untag(c) {
