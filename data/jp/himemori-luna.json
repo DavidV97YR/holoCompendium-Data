@@ -8,13 +8,13 @@
     "bannerUrl": "https://yt3.googleusercontent.com/m4hI8Er_vGrR-Ycxic0Sahx2uUOaIHflx9BTDJe_6HruUGOIHwZjrhwR8LGAJlYaR5o7_Ks=s0",
     "subscriberCount": 1170000
   },
-  "lastUpdated": "2026-10-26T09:03:38.435Z",
+  "lastUpdated": "2026-10-26T11:03:45.862Z",
   "videoCount": 1701,
   "videos": [
     {
       "id": "FnslU_8Mxcs",
       "title": "【 #ホロ鯖ARK 】ホロ鯖ARKに上陸するのら！！！【姫森ルーナ/ホロライブ】",
-      "published": "2026-10-26T02:23:24.000Z",
+      "published": "2026-10-26T09:20:25+00:00",
       "type": "stream",
       "duration": 17610,
       "status": "past",
@@ -28,9 +28,10 @@
       "published": "2026-10-25T12:53:33.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-26T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-26T09:59:41.000Z"
     },
     {
       "id": "RXStusVgNi4",
