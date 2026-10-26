@@ -6,11 +6,22 @@
     "slug": "achichi-mela",
     "avatarUrl": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w",
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0",
-    "subscriberCount": 390000
+    "subscriberCount": 391000
   },
-  "lastUpdated": "2026-10-26T11:09:43.311Z",
+  "lastUpdated": "2026-10-26T13:10:01.742Z",
   "videoCount": 58,
   "videos": [
+    {
+      "id": "0PgUff6IQ-Y",
+      "title": "電柱ソムリエの一歩も動かないGeoGuessr【ホロライブ/熱千めら】",
+      "published": "2026-10-26T12:14:22+00:00",
+      "type": "stream",
+      "duration": 7866,
+      "status": "past",
+      "scheduledStart": "2026-10-26T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-26T09:57:23.000Z"
+    },
     {
       "id": "MiLyVyEHCeA",
       "title": "過去の炎上経験を語るホロライブの新人Vtuber",
@@ -19,17 +30,6 @@
       "duration": 66,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "0PgUff6IQ-Y",
-      "title": "電柱ソムリエの一歩も動かないGeoGuessr【ホロライブ/熱千めら】",
-      "published": "2026-10-25T13:50:32.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-26T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-26T09:57:23.000Z"
     },
     {
       "id": "g2fCOjojJhQ",
