@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/xHg2zMwBbYTQlvXejI0BseK05dp9wd5mBhuNOVEF-ssgnFv2PCaKk5daHteNkVbU_UdSYv0kjHM=s0",
     "subscriberCount": 1340000
   },
-  "lastUpdated": "2026-10-26T10:30:41.981Z",
+  "lastUpdated": "2026-10-26T15:14:09.298Z",
   "videoCount": 1488,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "【デス桃太郎】えー、今日は岡山県に行きたいと思います【ホロライブ / AZKi】",
       "published": "2026-10-26T10:07:29.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 7749,
+      "status": "past",
       "scheduledStart": "2026-10-26T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-26T13:01:27.000Z"
     },
     {
       "id": "WAo2tt6kHsY",
