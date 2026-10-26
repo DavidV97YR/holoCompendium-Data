@@ -1,7 +1,7 @@
 {
   "channelId": "UCOyYb1c43VlX9rc_lT6NKQw",
   "channelName": "Ayunda Risu",
-  "lastUpdated": "2026-10-25T16:01:33.098Z",
+  "lastUpdated": "2026-10-26T16:04:06.224Z",
   "streams": {
     "qlYLSPbryjg": {
       "cur": {
@@ -16769,6 +16769,20 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "RvJmjgyzTm0": {
+      "cur": {
+        "IDR": 429000,
+        "MYR": 6,
+        "¥": 12500,
+        "$": 4.99
+      },
+      "sc": 15,
+      "member": 2,
+      "milestone": 7,
+      "gift": 4,
+      "recv": 8,
+      "sent": 8
     }
   }
 }
