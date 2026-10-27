@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 121000
   },
-  "lastUpdated": "2026-10-27T10:01:02.728Z",
+  "lastUpdated": "2026-10-27T11:09:36.363Z",
   "videoCount": 245,
   "videos": [
     {
@@ -26,16 +26,18 @@
       "published": "2026-10-27T05:34:51.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-27T10:00:00.000Z",
+      "actualStart": "2026-10-27T10:01:01.000Z"
     },
     {
       "id": "Db9D67sQbyw",
       "title": "【ゼルダの伝説】ミファーの過去が知りたい！！！！！英傑たちの詩攻略に挑みます。ゼルダの伝説ブレス オブ ザ ワイルド DLC【 #UNIT_B / #清澄ライラ】",
       "published": "2026-10-27T03:13:38.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 19959,
+      "status": "past",
       "scheduledStart": "2026-10-27T04:30:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-27T04:27:27.000Z"

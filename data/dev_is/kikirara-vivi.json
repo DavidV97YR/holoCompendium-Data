@@ -6,9 +6,9 @@
     "slug": "kikirara-vivi",
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0",
-    "subscriberCount": 757000
+    "subscriberCount": 758000
   },
-  "lastUpdated": "2026-10-27T09:30:38.959Z",
+  "lastUpdated": "2026-10-27T11:09:28.453Z",
   "videoCount": 1307,
   "videos": [
     {
@@ -17,12 +17,14 @@
       "published": "2026-10-27T09:22:19.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-27T09:30:00.000Z",
+      "actualStart": "2026-10-27T09:48:03.000Z"
     },
     {
       "id": "QnBn4A17eMo",
-      "title": "ネットミームダンス #vtuber #ホロライブ #dance #shorts",
+      "title": "ネットミームダンス #vtuber #ホロライブ",
       "published": "2026-10-27T09:04:34.000Z",
       "type": "short",
       "duration": 50,
@@ -51,7 +53,7 @@
     },
     {
       "id": "Yd_NLK5IGn4",
-      "title": "【#ホロARK】ルミナテイムしたい!!初めてのホロ鯖ARK!!#17【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "title": "【#ホロ鯖ARK】ルミナテイムしたい!!初めてのホロ鯖ARK!!#17【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published": "2026-10-25T19:50:51+00:00",
       "type": "stream",
       "duration": 13997,
