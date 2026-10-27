@@ -1,7 +1,7 @@
 {
   "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
   "channelName": "Momosuzu Nene",
-  "lastUpdated": "2026-10-27T16:04:40.781Z",
+  "lastUpdated": "2026-10-27T17:02:32.270Z",
   "streams": {
     "yenHV47ZdOY": {
       "e": "noreplay",
@@ -18937,8 +18937,18 @@
       "sent": 12
     },
     "3tEFLB14elE": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 91040,
+        "HK$": 25,
+        "NT$": 1875,
+        "₩": 20000
+      },
+      "sc": 76,
+      "member": 2,
+      "milestone": 20,
+      "gift": 7,
+      "recv": 41,
+      "sent": 41
     }
   }
 }
