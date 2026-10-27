@@ -1,7 +1,7 @@
 {
   "channelId": "UCIjdfjcSaEgdjwbgjxC3ZWg",
   "channelName": "Nekota Tsuna",
-  "lastUpdated": "2026-10-27T22:02:10.968Z",
+  "lastUpdated": "2026-10-27T23:01:50.939Z",
   "streams": {
     "cCidd8wC3HA": {
       "cur": {
@@ -10586,8 +10586,12 @@
       "member": 8
     },
     "KI6OqBgB4aA": {
-      "e": "noreplay",
-      "n": 7
+      "cur": {
+        "¥": 2147,
+        "NT$": 450
+      },
+      "sc": 8,
+      "member": 4
     }
   }
 }
