@@ -6,9 +6,9 @@
     "slug": "achichi-mela",
     "avatarUrl": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w",
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0",
-    "subscriberCount": 392000
+    "subscriberCount": 393000
   },
-  "lastUpdated": "2026-10-27T17:27:35.759Z",
+  "lastUpdated": "2026-10-27T23:09:51.225Z",
   "videoCount": 61,
   "videos": [
     {
@@ -229,9 +229,10 @@
       "published": "2026-10-16T06:10:13.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-27T22:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-27T21:59:31.000Z"
     },
     {
       "id": "ZAyucx6pb5o",
