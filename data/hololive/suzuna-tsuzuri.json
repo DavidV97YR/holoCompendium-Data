@@ -6,9 +6,9 @@
     "slug": "suzuna-tsuzuri",
     "avatarUrl": "https://yt3.ggpht.com/XcXvmoDV0Cx77O7Lh730dwbR-f2-XlSwPSdvcfh_zS5jBY3R2Qe0NWEGeJTWVXDY025ShlmER2o",
     "bannerUrl": "https://yt3.googleusercontent.com/DZGUz3jaPuKFhV_2mhTv3ZPuCGefWes8qwzClwWoQZ3Z67OsjhpNsrWEMPM6TW4m_xIGPv2dZBM=s0",
-    "subscriberCount": 344000
+    "subscriberCount": 345000
   },
-  "lastUpdated": "2026-10-27T11:00:49.912Z",
+  "lastUpdated": "2026-10-27T13:10:33.893Z",
   "videoCount": 32,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-10-27T10:56:15.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-27T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-27T11:59:33.000Z"
     },
     {
       "id": "fTourElHTFo",
