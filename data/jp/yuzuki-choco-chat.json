@@ -1,7 +1,7 @@
 {
   "channelId": "UC1suqwovbL1kzsoaZgFZLKg",
   "channelName": "Yuzuki Choco",
-  "lastUpdated": "2026-10-28T20:04:19.326Z",
+  "lastUpdated": "2026-10-28T21:03:52.574Z",
   "streams": {
     "YDDaZCTDLhk": {
       "cur": {
@@ -11240,8 +11240,11 @@
       "sent": 20
     },
     "pUyTDOyLrVE": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 100
+      },
+      "sc": 1,
+      "milestone": 1
     }
   }
 }
