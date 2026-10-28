@@ -1,7 +1,7 @@
 {
   "channelId": "UC8eitCE9Z6EwUCs-VUi1blg",
   "channelName": "Achichi Mela",
-  "lastUpdated": "2026-10-27T12:02:00.989Z",
+  "lastUpdated": "2026-10-28T06:03:59.825Z",
   "streams": {
     "CEo1T9NzynY": 0,
     "mvLjwGCje64": 0,
@@ -164,6 +164,26 @@
       "gift": 9,
       "recv": 17,
       "sent": 17
+    },
+    "F3z7xeNZJRI": {
+      "cur": {
+        "¥": 23420,
+        "NT$": 780,
+        "$": 61.99,
+        "€": 18.49,
+        "HK$": 110,
+        "A$": 4,
+        "CHF": 3,
+        "£": 10,
+        "₩": 20000,
+        "₱": 125,
+        "CA$": 23.99
+      },
+      "sc": 46,
+      "member": 51,
+      "gift": 5,
+      "recv": 12,
+      "sent": 13
     }
   }
 }
