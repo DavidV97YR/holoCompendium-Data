@@ -1,7 +1,7 @@
 {
   "channelId": "UCoW8qQy80mKH0RJTKAK-nNA",
   "channelName": "Tatsumaki Chise",
-  "lastUpdated": "2026-10-27T23:02:28.005Z",
+  "lastUpdated": "2026-10-28T00:02:17.281Z",
   "streams": {
     "8Kx9bnMlRCw": {
       "cur": {
@@ -2170,8 +2170,14 @@
       "sc": 13
     },
     "PWkun5plqIo": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "¥": 6000
+      },
+      "sc": 14,
+      "member": 1,
+      "gift": 1,
+      "recv": 20,
+      "sent": 20
     }
   }
 }
