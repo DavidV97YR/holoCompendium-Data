@@ -6,9 +6,9 @@
     "slug": "riko-solari",
     "avatarUrl": "https://yt3.ggpht.com/bGho6eDQPk7uQl3wvAPi2vt-upGXZr99KDjaHiWoQBKstD75_Em7GvT7svwM98WS1t6YHAjXBHc",
     "bannerUrl": "https://yt3.googleusercontent.com/J3gNrWHDsyHiY43K_Jonj23gn2jlX5y4qWH0DfWSnfVZ79uc7dBemaVzUSL2WvEL5UKLPCBx2zk=s0",
-    "subscriberCount": 72700
+    "subscriberCount": 72800
   },
-  "lastUpdated": "2026-10-27T23:13:26.395Z",
+  "lastUpdated": "2026-10-28T15:14:50.320Z",
   "videoCount": 553,
   "videos": [
     {
@@ -58,9 +58,10 @@
       "published": "2026-10-25T19:59:37.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-28T14:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-28T14:02:35.000Z"
     },
     {
       "id": "PCJkhqemYPA",
