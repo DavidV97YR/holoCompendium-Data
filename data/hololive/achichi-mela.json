@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0",
     "subscriberCount": 393000
   },
-  "lastUpdated": "2026-10-28T05:23:19.920Z",
+  "lastUpdated": "2026-10-28T11:38:40.131Z",
   "videoCount": 61,
   "videos": [
+    {
+      "id": "GtTgOHWTJ-c",
+      "title": "【歌枠】ボカロオタクはじめての…【ホロライブ/熱千めら】",
+      "published": "2026-10-28T11:16:54+00:00",
+      "type": "stream",
+      "duration": 4439,
+      "status": "past",
+      "scheduledStart": "2026-10-28T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-28T09:58:59.000Z"
+    },
     {
       "id": "F3z7xeNZJRI",
       "title": "【のじゃEnglish】中学英語を復習するのじゃ!!!【ホロライブ/アソビ★まわり隊!/熱千めら】",
@@ -30,16 +41,6 @@
       "duration": 60,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "GtTgOHWTJ-c",
-      "title": "【歌枠】ボカロオタクはじめての…【ホロライブ/熱千めら】",
-      "published": "2026-10-26T16:17:22.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-28T10:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "0PgUff6IQ-Y",
