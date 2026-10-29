@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/IfFOR2qsXn8NaqpzsoxL_vU2WXEc-q8C1VRbVtUYXE-5ehhRJybRbLrC9_h3Bd42OSPJ2Xz59Q=s0",
     "subscriberCount": 1030000
   },
-  "lastUpdated": "2026-10-29T17:35:00.846Z",
+  "lastUpdated": "2026-10-29T21:11:06.050Z",
   "videoCount": 1850,
   "videos": [
+    {
+      "id": "rn1fhTkiso0",
+      "title": "【 League of Legends 】ITNEXTすくりむ  #LTK  【 ぶいすぽっ！/橘ひなの 】",
+      "published": "2026-10-29T20:20:13+00:00",
+      "type": "stream",
+      "duration": 22491,
+      "status": "past",
+      "scheduledStart": "2026-10-29T13:45:00.000Z",
+      "actualStart": "2026-10-29T13:51:44.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "tNMMQJGhMSk",
       "title": "【 japanese ramen simulator 】ラーメン屋でバイトします🍜 【 ぶいすぽっ！/橘ひなの 】",
@@ -20,17 +31,6 @@
       "status": "past",
       "scheduledStart": "2026-10-29T11:10:00.000Z",
       "actualStart": "2026-10-29T11:11:20.000Z",
-      "typedBy": "data-api"
-    },
-    {
-      "id": "rn1fhTkiso0",
-      "title": "【 League of Legends 】ITNEXTすくりむ  #LTK  【 ぶいすぽっ！/橘ひなの 】",
-      "published": "2026-10-29T13:46:34.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-29T13:45:00.000Z",
-      "actualStart": "2026-10-29T13:51:44.000Z",
       "typedBy": "data-api"
     },
     {
