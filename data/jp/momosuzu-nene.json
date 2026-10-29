@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/IaLFgTIY4y0J3IIAc9o8YDwF2rNrfVE5MAAdue9u-Pc0pef7OStvgKxVivyLXXoEz5sPZygaySQ=s0",
     "subscriberCount": 1330000
   },
-  "lastUpdated": "2026-10-29T14:01:03.813Z",
+  "lastUpdated": "2026-10-29T15:05:15.021Z",
   "videoCount": 1427,
   "videos": [
     {
@@ -23,25 +23,26 @@
       "typedBy": "data-api"
     },
     {
+      "id": "4l9K_QpV0Hc",
+      "title": "【 #ホロ鯖ARK 】ルミナのサドル作る！！【 桃鈴ねね / hololive 】",
+      "published": "2026-10-29T13:11:41+00:00",
+      "type": "stream",
+      "duration": 391,
+      "status": "past",
+      "scheduledStart": "2026-10-29T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-29T13:02:23.000Z"
+    },
+    {
       "id": "hjdva75lJvM",
       "title": "【 #ホロ鯖ARK 】ルミナのサドルとワイバーンお世話！【 桃鈴ねね / hololive 】",
       "published": "2026-10-29T13:09:32.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 1683,
+      "status": "past",
       "scheduledStart": "2026-10-29T13:10:00.000Z",
       "actualStart": "2026-10-29T13:10:08.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "4l9K_QpV0Hc",
-      "title": "【 #ホロ鯖ARK 】ルミナのサドル作る！！【 桃鈴ねね / hololive 】",
-      "published": "2026-10-29T10:54:07.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-29T13:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "3tEFLB14elE",

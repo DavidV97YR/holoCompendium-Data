@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/RrSQcWKgnUWc6d5er-RJTZv_6I6PD8635RYKnkUyMJDio7pnAVN1HlS20SYzWCHoO26z7Q_6dg=s0",
     "subscriberCount": 1410000
   },
-  "lastUpdated": "2026-10-29T14:00:53.313Z",
+  "lastUpdated": "2026-10-29T15:06:38.781Z",
   "videoCount": 1831,
   "videos": [
     {
@@ -17,8 +17,10 @@
       "published": "2026-10-29T13:53:30.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-29T14:00:00.000Z",
+      "actualStart": "2026-10-29T14:02:10.000Z"
     },
     {
       "id": "59Pbq66VTBw",
@@ -329,8 +331,8 @@
       "title": "【#OllieNewDrip】 ERM ACTUALLY- NEW OUTFIT!! 【Kureiji Ollie】",
       "published": "2026-10-07T14:46:51.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 6594,
+      "status": "past",
       "scheduledStart": "2026-10-29T12:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-29T12:00:29.000Z"

@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/WMGd5fRjaxWor-Z-6MBeIAl5RylNcbkd4StAGSc-KGvrGtjhYnenyJDG_lAvpULdNMfqNlBMQQ=s0",
     "subscriberCount": 1160000
   },
-  "lastUpdated": "2026-10-29T13:03:31.454Z",
+  "lastUpdated": "2026-10-29T15:03:13.377Z",
   "videoCount": 1925,
   "videos": [
     {
@@ -19,7 +19,8 @@
       "duration": 0,
       "status": "live",
       "scheduledStart": "2026-10-29T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-29T13:04:29.000Z"
     },
     {
       "id": "rionEC_FEwo",
