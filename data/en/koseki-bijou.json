@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0",
     "subscriberCount": 1000000
   },
-  "lastUpdated": "2026-10-29T15:09:38.488Z",
+  "lastUpdated": "2026-10-29T19:07:11.132Z",
   "videoCount": 959,
   "videos": [
+    {
+      "id": "WRS2SODdX8w",
+      "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
+      "published": "2026-10-29T18:19:22+00:00",
+      "type": "stream",
+      "duration": 11534,
+      "status": "past",
+      "scheduledStart": "2026-10-29T15:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-29T15:01:05.000Z"
+    },
     {
       "id": "JWtRHVWt8dY",
       "title": "【The Kidnap】yoink",
@@ -21,17 +32,6 @@
       "scheduledStart": "2026-10-28T23:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-28T22:58:56.000Z"
-    },
-    {
-      "id": "WRS2SODdX8w",
-      "title": "【DETROIT: BECOME HUMAN】Stuck between a rock and an automaton WITH  @holoen_ceciliaimmergreen​",
-      "published": "2026-10-29T01:08:20.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-29T15:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-29T15:01:05.000Z"
     },
     {
       "id": "YlzdFQIPBTM",
