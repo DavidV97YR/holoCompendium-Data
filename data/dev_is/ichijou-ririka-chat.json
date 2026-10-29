@@ -1,7 +1,7 @@
 {
   "channelId": "UCtyWhCj3AqKh2dXctLkDtng",
   "channelName": "Ichijou Ririka",
-  "lastUpdated": "2026-10-29T13:01:17.662Z",
+  "lastUpdated": "2026-10-29T14:01:48.105Z",
   "streams": {
     "F1PLQLDEyyM": {
       "cur": {
@@ -10086,7 +10086,13 @@
     },
     "R9kCk8nojzs": {
       "e": "noreplay",
-      "n": 24
+      "n": 25
+    },
+    "V2DPSq7wwp4": {
+      "milestone": 52,
+      "gift": 13,
+      "recv": 46,
+      "sent": 51
     }
   }
 }
