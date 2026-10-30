@@ -9,11 +9,14 @@
  * Run after it.
  *
  * All of it is ~4 MB compressed for hololive, so it is split: recent.json is
- * the last 365 days, which the page opens on (~0.8 MB), and one file per
- * calendar year holds the rest, fetched only when the reader scrolls past
+ * the last RECENT_DAYS (60), which the page opens on (~0.25 MB), and one file
+ * per calendar year holds the rest, fetched only when the reader scrolls past
  * the recent ones or asks for an order that needs everything (Popular,
- * Oldest). A year file holds the whole year, so the current and previous
- * years overlap recent.json; the page drops the ids it already has.
+ * Oldest). A year file holds the whole year, so the current year (and, in
+ * January and February, the previous one) overlaps recent.json; the page
+ * drops the ids it already has. recent.json was a whole year until
+ * 2026-10-30: 1.3 MB to download and 4.5 MB to read before the page drew its
+ * first 48 cards.
  *
  * Left out, as the talent pages leave them out: deleted videos (status
  * "unavailable"), and anything still upcoming or live, which is not a video
@@ -54,6 +57,7 @@ const { DatabaseSync } = require('node:sqlite');
 const DB      = process.env.DB      || './data.sqlite';
 const OUT_DIR = process.env.OUT_DIR || './videos';
 const KIND    = { stream: 's', video: 'v', short: 'h', member: 'm' };
+const RECENT_DAYS = 60;
 
 // A catalogue from before the music column reads every video as not music.
 const sql = music => `
@@ -89,7 +93,7 @@ function main() {
   db.close();
 
   const now = Date.now(), lastUpdated = new Date(now).toISOString();
-  const cutoff = now - 365 * 86400000;
+  const cutoff = now - RECENT_DAYS * 86400000;
   rows.forEach(r => { r.at = when(r); });
   rows.sort((a, b) => b.at - a.at || (a.id < b.id ? -1 : 1));
 
