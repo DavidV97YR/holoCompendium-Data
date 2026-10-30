@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0",
     "subscriberCount": 1000000
   },
-  "lastUpdated": "2026-10-30T07:00:38.113Z",
+  "lastUpdated": "2026-10-30T09:07:35.460Z",
   "videoCount": 961,
   "videos": [
+    {
+      "id": "tiTvG0apB-w",
+      "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
+      "published": "2026-10-30T07:57:47+00:00",
+      "type": "stream",
+      "duration": 16024,
+      "status": "past",
+      "scheduledStart": "2026-10-30T03:10:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T03:11:15.000Z"
+    },
     {
       "id": "SRdO1hBERWU",
       "title": "【MEMBER'S WATCHALONG】Cabin in the Woods",
@@ -20,17 +31,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-10-30T23:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "tiTvG0apB-w",
-      "title": "【Five Nights at Freddy's: Security Breach】I CAN DO THIS, FREDDY!",
-      "published": "2026-10-29T22:13:25.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-30T03:10:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-30T03:11:15.000Z"
     },
     {
       "id": "WRS2SODdX8w",
