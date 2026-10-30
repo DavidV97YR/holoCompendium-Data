@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/9bfb9tFVbz7rTqCRPnW6pm8Bav8mM07z39OgiwyOfMRdxLrbWVzFpEZVvNzUzmadueIKl90ORg=s0",
     "subscriberCount": 462000
   },
-  "lastUpdated": "2026-10-30T14:31:20.070Z",
+  "lastUpdated": "2026-10-30T15:11:58.096Z",
   "videoCount": 2013,
   "videos": [
+    {
+      "id": "0qfWsTHCWck",
+      "title": "【雑談】お酒飲むか？【ぶいすぽ/兎咲ミミ】",
+      "published": "2026-10-30T14:40:07+00:00",
+      "type": "stream",
+      "duration": 5851,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-10-30T12:30:00.000Z",
+      "actualStart": "2026-10-30T12:33:25.000Z"
+    },
     {
       "id": "hYgp7GTtgck",
       "title": "【メンバー限定】酔っ払い歌",
@@ -19,18 +30,8 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-10-30T14:15:55.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "0qfWsTHCWck",
-      "title": "【雑談】お酒飲むか？【ぶいすぽ/兎咲ミミ】",
-      "published": "2026-10-30T12:18:16.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
       "typedBy": "innertube",
-      "scheduledStart": "2026-10-30T12:30:00.000Z",
-      "actualStart": "2026-10-30T12:33:25.000Z"
+      "scheduledStart": "2026-10-30T14:15:00.000Z"
     },
     {
       "id": "wmG-eX_ob6g",

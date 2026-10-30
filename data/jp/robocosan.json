@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/y8hWElFNjX7rDqZHo0D_379Fu9om7rAk18KeXFOAejA4CcaTqrkrDZugYgpDl1KqrFcjAoFOGnQ=s0",
     "subscriberCount": 1200000
   },
-  "lastUpdated": "2026-10-30T13:00:56.467Z",
+  "lastUpdated": "2026-10-30T15:01:37.449Z",
   "videoCount": 2237,
   "videos": [
     {
@@ -26,10 +26,11 @@
       "title": "【告知】お知らせがある！！！【ホロライブ/ ロボ子さん 】",
       "published": "2026-10-30T00:57:23.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 4308,
+      "status": "past",
       "scheduledStart": "2026-10-30T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T13:04:38.000Z"
     },
     {
       "id": "SgqkVNZYNQI",
