@@ -1,7 +1,7 @@
 {
   "channelId": "UCPkKpOHxEDcwmUAnRpIu-Ng",
   "channelName": "Aizawa Ema",
-  "lastUpdated": "2026-10-29T23:01:55.868Z",
+  "lastUpdated": "2026-10-30T00:02:06.495Z",
   "streams": {
     "Go6FaEy_dUE": {
       "cur": {
@@ -15019,8 +15019,12 @@
       "sticker": 2
     },
     "4YURQS3eUds": {
-      "e": "noreplay",
-      "n": 8
+      "cur": {
+        "¥": 812
+      },
+      "sc": 5,
+      "sticker": 1,
+      "member": 1
     }
   }
 }
