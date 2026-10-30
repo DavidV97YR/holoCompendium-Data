@@ -6,18 +6,18 @@
     "slug": "rindo-chihaya",
     "avatarUrl": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9",
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0",
-    "subscriberCount": 626000
+    "subscriberCount": 627000
   },
-  "lastUpdated": "2026-10-30T08:30:38.219Z",
+  "lastUpdated": "2026-10-30T11:09:45.191Z",
   "videoCount": 865,
   "videos": [
     {
       "id": "9GET5G91x_s",
       "title": "【JUMP KING HOLORACE】駆け込み練習～～～！！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-      "published": "2026-10-30T08:17:03.000Z",
+      "published": "2026-10-30T09:34:08+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4014,
+      "status": "past",
       "scheduledStart": "2026-10-30T08:20:00.000Z",
       "actualStart": "2026-10-30T08:24:13.000Z",
       "typedBy": "data-api"
@@ -28,9 +28,10 @@
       "published": "2026-10-30T07:58:02.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-30T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T10:03:06.000Z"
     },
     {
       "id": "uNfrn28Q9Fk",

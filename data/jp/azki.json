@@ -8,18 +8,19 @@
     "bannerUrl": "https://yt3.googleusercontent.com/xHg2zMwBbYTQlvXejI0BseK05dp9wd5mBhuNOVEF-ssgnFv2PCaKk5daHteNkVbU_UdSYv0kjHM=s0",
     "subscriberCount": 1340000
   },
-  "lastUpdated": "2026-10-29T15:01:08.587Z",
+  "lastUpdated": "2026-10-30T11:01:27.504Z",
   "videoCount": 1491,
   "videos": [
     {
       "id": "xZVjjUTFgj0",
       "title": "IRIS OUT - 米津玄師 / AZKi (Cover)",
-      "published": "2026-10-29T14:20:02.000Z",
+      "published": "2026-10-30T10:00:08+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 150,
+      "status": "past",
       "scheduledStart": "2026-10-30T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T10:00:08.000Z"
     },
     {
       "id": "XPlyUmp0dbw",

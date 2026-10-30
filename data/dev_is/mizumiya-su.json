@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/Rc2MU_N1V14rKVZ-km1gKhHK3axiuYWpYqipPHe_GwFiPQt2vggVbQXnc3cv1gsRbgSs61C70Q=s0",
     "subscriberCount": 752000
   },
-  "lastUpdated": "2026-10-30T09:30:34.418Z",
+  "lastUpdated": "2026-10-30T11:09:35.613Z",
   "videoCount": 1225,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "duration": 11,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "FI1HuollS5U",
+      "title": "【Jump King 】初めてのジャンキン！キレない1時間練習配信【水宮枢／ホロライブ】",
+      "published": "2026-10-30T09:27:44+00:00",
+      "type": "stream",
+      "duration": 4969,
+      "status": "past",
+      "scheduledStart": "2026-10-30T08:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T08:00:11.000Z"
     },
     {
       "id": "_u-noAqX_Xk",
@@ -66,20 +77,10 @@
       "published": "2026-10-27T18:09:46.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-30T10:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "FI1HuollS5U",
-      "title": "【Jump King 】初めてのジャンキン！キレない1時間練習配信【水宮枢／ホロライブ】",
-      "published": "2026-10-27T18:07:47.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-10-30T08:00:00.000Z",
+      "scheduledStart": "2026-10-30T10:00:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-10-30T08:00:11.000Z"
+      "actualStart": "2026-10-30T10:04:23.000Z"
     },
     {
       "id": "QZ-GN3Yo7dU",

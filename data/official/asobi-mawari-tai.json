@@ -6,9 +6,9 @@
     "slug": "asobi-mawari-tai",
     "avatarUrl": "https://yt3.ggpht.com/dq_Yzt9WRv6MhuF04AKL6TR-Rm6cXE36D8WCtFcWx2J6ZQ5tTf_9Cno6Nb4-KiNsGJlBeG-_hg",
     "bannerUrl": "https://yt3.googleusercontent.com/e8wmvsUvszqws8Gz2XlLuh7batPJKsBDsBsUfkctbUd7rvY5UYrKuvUl67cpD01_QgJ95QTXLKg=s0",
-    "subscriberCount": 191000
+    "subscriberCount": 192000
   },
-  "lastUpdated": "2026-10-30T11:01:20.146Z",
+  "lastUpdated": "2026-10-30T11:15:30.620Z",
   "videoCount": 50,
   "videos": [
     {
@@ -19,6 +19,28 @@
       "duration": 28,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "We0W8ZoqCp4",
+      "title": "オリオンをなぞる / アソビ★まわり隊!(cover) 【歌ってみた/ホロライブ 】",
+      "published": "2026-10-30T10:30:08+00:00",
+      "type": "video",
+      "duration": 264,
+      "status": "past",
+      "scheduledStart": "2026-10-30T10:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T10:30:08.000Z"
+    },
+    {
+      "id": "8PIZ8QE7e7s",
+      "title": "【迷番組始動】キョーコを気持ちよく実況させろ！【アソビ★まわり隊！ #アソばん 第1回 】",
+      "published": "2026-10-30T10:00:10+00:00",
+      "type": "video",
+      "duration": 1534,
+      "status": "past",
+      "scheduledStart": "2026-10-30T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T10:00:10.000Z"
     },
     {
       "id": "F6D03daj3q8",
@@ -39,16 +61,6 @@
       "typedBy": "data-api"
     },
     {
-      "id": "8PIZ8QE7e7s",
-      "title": "【迷番組始動】キョーコを気持ちよく実況させろ！【アソビ★まわり隊！ #アソばん 第1回 】",
-      "published": "2026-10-27T09:08:48.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-30T10:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
       "id": "zZ-9HTwJ01Y",
       "title": "【スタジオにサイン書いてみた！】#熱千めら #百灯キョーコ #アソビまわり隊",
       "published": "2026-10-27T09:00:09.000Z",
@@ -56,16 +68,6 @@
       "duration": 57,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "We0W8ZoqCp4",
-      "title": "【COMING SOON】「？？？」 / アソビ★まわり隊  (cover)",
-      "published": "2026-10-26T10:40:01.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-30T10:30:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "y5bYM4K1q-Q",
