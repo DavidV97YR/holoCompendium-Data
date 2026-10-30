@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 72000
   },
-  "lastUpdated": "2026-10-29T23:09:29.643Z",
+  "lastUpdated": "2026-10-30T03:09:51.572Z",
   "videoCount": 336,
   "videos": [
     {
@@ -28,9 +28,10 @@
       "published": "2026-10-29T15:28:37.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-30T03:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T03:01:33.000Z"
     },
     {
       "id": "5vku8E04R5I",
@@ -57,8 +58,8 @@
       "title": "【UNDERTALE】#８ Gルート今度こそ！！今回は絶対に勝利🤤サンズ戦耐久２！！！！！ ＃墨汐さやな ＃さやな時間",
       "published": "2026-10-29T08:51:26.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 19987,
+      "status": "past",
       "scheduledStart": "2026-10-29T21:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-29T21:01:02.000Z"
