@@ -6,20 +6,32 @@
     "slug": "kikirara-vivi",
     "avatarUrl": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0",
-    "subscriberCount": 758000
+    "subscriberCount": 759000
   },
-  "lastUpdated": "2026-10-30T12:00:39.132Z",
+  "lastUpdated": "2026-10-30T13:10:00.726Z",
   "videoCount": 1315,
   "videos": [
+    {
+      "id": "e_t_f0XaqCg",
+      "title": "【JUMP KING HOLORACE】人生初🔰本番！！どこまでいけるか・・・【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published": "2026-10-30T12:32:33+00:00",
+      "type": "stream",
+      "duration": 6600,
+      "status": "past",
+      "scheduledStart": "2026-10-30T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T10:03:20.000Z"
+    },
     {
       "id": "tKeU3Dl8zmg",
       "title": "【#ホロ鯖ARK】初めてのホロ鯖ARK！！＃22【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
       "published": "2026-10-30T11:52:40.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-30T12:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-30T12:40:18.000Z"
     },
     {
       "id": "a069HGnNj9A",
@@ -31,17 +43,6 @@
       "scheduledStart": "2026-10-30T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-30T09:00:38.000Z"
-    },
-    {
-      "id": "e_t_f0XaqCg",
-      "title": "【JUMP KING HOLORACE】人生初🔰本番！！どこまでいけるか・・・【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-      "published": "2026-10-30T08:43:55.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-30T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-30T10:03:20.000Z"
     },
     {
       "id": "PYzl_UlO6ZU",
