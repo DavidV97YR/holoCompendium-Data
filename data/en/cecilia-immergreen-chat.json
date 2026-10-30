@@ -1,7 +1,7 @@
 {
   "channelId": "UCvN5h1ShZtc7nly3pezRayg",
   "channelName": "Cecilia Immergreen",
-  "lastUpdated": "2026-10-30T17:01:37.451Z",
+  "lastUpdated": "2026-10-30T18:01:54.727Z",
   "streams": {
     "L-MQsH7kNzE": {
       "cur": {
@@ -6888,8 +6888,13 @@
       "milestone": 24
     },
     "whveNujaPVo": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "€": 5,
+        "$": 20
+      },
+      "sc": 2,
+      "member": 2,
+      "milestone": 18
     }
   }
 }
