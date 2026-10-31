@@ -1,7 +1,7 @@
 {
   "channelId": "UCGzTVXqMQHa4AgJVJIVvtDQ",
   "channelName": "Kikirara Vivi",
-  "lastUpdated": "2026-10-31T00:01:19.620Z",
+  "lastUpdated": "2026-10-31T01:02:20.115Z",
   "streams": {
     "X4W9H1wdYZI": {
       "cur": {
@@ -9935,8 +9935,13 @@
       "milestone": 3
     },
     "tKeU3Dl8zmg": {
-      "e": "noreplay",
-      "n": 5
+      "cur": {
+        "$": 5,
+        "¥": 5100
+      },
+      "sc": 6,
+      "member": 5,
+      "milestone": 1
     }
   }
 }
