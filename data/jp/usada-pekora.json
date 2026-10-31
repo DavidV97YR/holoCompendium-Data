@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/w_n8yUnJiwX4WfpFKYDPFKtMrk0my03WJSNpraNZ79bu0OfgXEIPtKm77dERXitsmQ_Y4bH7Jg=s0",
     "subscriberCount": 2800000
   },
-  "lastUpdated": "2026-10-31T09:31:13.512Z",
+  "lastUpdated": "2026-10-31T11:03:11.084Z",
   "videoCount": 2810,
   "videos": [
     {
@@ -26,10 +26,11 @@
       "title": "【メンバー限定】ハロウィン🎃お菓子作り【ホロライブ/兎田ぺこら】",
       "published": "2026-10-31T06:41:27.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 5841,
+      "status": "past",
       "scheduledStart": "2026-10-31T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T09:03:03.000Z"
     },
     {
       "id": "J_0fi6QvUfE",
