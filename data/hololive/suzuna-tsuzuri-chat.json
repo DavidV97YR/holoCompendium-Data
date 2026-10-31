@@ -1,7 +1,7 @@
 {
   "channelId": "UCy9mgxB8pn2C4aNK_MPthDQ",
   "channelName": "Suzuna Tsuzuri",
-  "lastUpdated": "2026-10-30T18:04:20.611Z",
+  "lastUpdated": "2026-10-31T10:01:45.716Z",
   "streams": {
     "M9sb87e-IVM": 0,
     "BFlpKxkM7oM": 0,
@@ -140,6 +140,31 @@
       },
       "sc": 9,
       "member": 26,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
+    },
+    "Go7vY-ZdJGA": {
+      "cur": {
+        "¥": 10835,
+        "$": 2,
+        "NT$": 75
+      },
+      "sc": 13,
+      "member": 4,
+      "gift": 2,
+      "recv": 15,
+      "sent": 15
+    },
+    "efmeth3jUts": {
+      "cur": {
+        "¥": 18851,
+        "NT$": 225,
+        "IDR": 20000,
+        "HK$": 38
+      },
+      "sc": 29,
+      "member": 19,
       "gift": 2,
       "recv": 6,
       "sent": 6
