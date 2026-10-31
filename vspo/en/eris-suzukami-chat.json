@@ -1,7 +1,7 @@
 {
   "channelId": "UCp_3ej2br9l9L1DSoHVDZGw",
   "channelName": "Eris Suzukami",
-  "lastUpdated": "2026-10-31T06:01:58.427Z",
+  "lastUpdated": "2026-10-31T07:01:29.895Z",
   "streams": {
     "f_r099fpqLY": {
       "milestone": 1,
@@ -1518,8 +1518,14 @@
       "sticker": 1
     },
     "DRZLP-GXFlQ": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "$": 2
+      },
+      "sc": 1,
+      "milestone": 1,
+      "gift": 1,
+      "recv": 1,
+      "sent": 1
     }
   }
 }
