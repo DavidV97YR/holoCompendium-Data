@@ -1,7 +1,7 @@
 {
   "channelId": "UCK9V2B22uJYu3N7eR_BT9QA",
   "channelName": "Omaru Polka",
-  "lastUpdated": "2026-10-30T16:03:51.457Z",
+  "lastUpdated": "2026-10-31T12:04:26.237Z",
   "streams": {
     "5xy1_s3emDM": {
       "cur": {
@@ -23606,6 +23606,16 @@
       "sc": 2,
       "member": 2,
       "milestone": 1
+    },
+    "qnPw4IjMBsM": {
+      "cur": {
+        "¥": 2020
+      },
+      "sc": 4,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }
