@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0",
     "subscriberCount": 2660000
   },
-  "lastUpdated": "2026-10-31T01:06:01.212Z",
+  "lastUpdated": "2026-10-31T03:06:08.692Z",
   "videoCount": 1973,
   "videos": [
     {
@@ -46,10 +46,11 @@
       "title": "spooky scary skeletons (no archive)",
       "published": "2026-10-30T05:04:11.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 3641,
+      "status": "past",
       "scheduledStart": "2026-10-31T02:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T02:00:07.000Z"
     },
     {
       "id": "zHorAsW9mPQ",
@@ -57,9 +58,10 @@
       "published": "2026-10-30T00:40:46.000Z",
       "type": "video",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-31T03:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T03:00:09.000Z"
     },
     {
       "id": "2ViX_GxT--4",
