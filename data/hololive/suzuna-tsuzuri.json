@@ -8,19 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/DZGUz3jaPuKFhV_2mhTv3ZPuCGefWes8qwzClwWoQZ3Z67OsjhpNsrWEMPM6TW4m_xIGPv2dZBM=s0",
     "subscriberCount": 354000
   },
-  "lastUpdated": "2026-10-31T08:30:48.663Z",
+  "lastUpdated": "2026-10-31T09:10:28.719Z",
   "videoCount": 37,
   "videos": [
     {
       "id": "efmeth3jUts",
       "title": "【雑談】ちょっとだけお話!!!!　【鈴鳴つづり/ホロライブ/アソビ★まわり隊！】 #ホロライブ #アソビまわり隊  #つづり配達中",
-      "published": "2026-10-31T08:15:21.000Z",
+      "published": "2026-10-31T09:03:44+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 2544,
+      "status": "past",
       "scheduledStart": "2026-10-31T08:15:00.000Z",
       "actualStart": "2026-10-31T08:17:19.000Z",
       "typedBy": "data-api"
+    },
+    {
+      "id": "Go7vY-ZdJGA",
+      "title": "？？？　covered by 鈴鳴つづり ホロライブ",
+      "published": "2026-10-31T09:00:09+00:00",
+      "type": "video",
+      "duration": 192,
+      "status": "past",
+      "scheduledStart": "2026-10-31T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T09:00:09.000Z"
     },
     {
       "id": "JvUyxkeFWRM",
@@ -32,16 +43,6 @@
       "scheduledStart": "2026-10-30T13:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-30T13:00:53.000Z"
-    },
-    {
-      "id": "Go7vY-ZdJGA",
-      "title": "？？？　covered by 鈴鳴つづり ホロライブ",
-      "published": "2026-10-29T17:00:39.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-31T09:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "4QheebpQqGg",
