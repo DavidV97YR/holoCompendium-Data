@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5rGx5kFR2cFMasmkuErXCCR7b5Q7pw8_EVnCJ6Pn7yjJ43Ek3urOl2UMkOBGmxbG3l-rRFFQAw=s0",
     "subscriberCount": 330000
   },
-  "lastUpdated": "2026-10-31T11:10:43.868Z",
+  "lastUpdated": "2026-10-31T13:11:31.601Z",
   "videoCount": 70,
   "videos": [
+    {
+      "id": "oTiW26A4-vw",
+      "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+      "published": "2026-10-31T12:46:43+00:00",
+      "type": "stream",
+      "duration": 6023,
+      "status": "past",
+      "scheduledStart": "2026-10-31T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T11:00:04.000Z"
+    },
     {
       "id": "kYxfR1beO4o",
       "title": "【EN】#7 WHO IS LEFT!? I'M COMING FOR YOU!!!! | Cuphead【Hyakuto Kyoko/Hololive】",
@@ -28,9 +39,10 @@
       "published": "2026-10-31T04:35:06.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-31T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T12:59:56.000Z"
     },
     {
       "id": "B_NEeTucjJI",
@@ -51,17 +63,6 @@
       "duration": 14224,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "oTiW26A4-vw",
-      "title": "【マシュマロ雑談】ハロウィンだー！アソビ★まわり隊！４人でマシュマロ食べまくる！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-      "published": "2026-10-30T08:59:09.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-10-31T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-31T11:00:04.000Z"
     },
     {
       "id": "e3hrAwhfRA4",

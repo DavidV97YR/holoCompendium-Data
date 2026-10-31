@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/lS_8xng9FBW43-gQbWyBkQjMKId6Vi0ECeEEup6lXJ582V_k5nsONUcmhudOBnQFuVOIofH3=s0",
     "subscriberCount": 463000
   },
-  "lastUpdated": "2026-10-31T07:13:13.097Z",
+  "lastUpdated": "2026-10-31T13:13:57.113Z",
   "videoCount": 960,
   "videos": [
     {
@@ -28,16 +28,17 @@
       "published": "2026-10-30T10:04:33.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-31T12:40:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T12:40:21.000Z"
     },
     {
       "id": "wMuK_9Ms0pI",
       "title": "【VALORANT】あがらないね！れーと。【ぶいすぽっ！ / 紡木こかげ】",
       "published": "2026-10-29T20:03:36+00:00",
       "type": "stream",
-      "duration": 17093,
+      "duration": 16890,
       "status": "past",
       "scheduledStart": "2026-10-29T10:45:00.000Z",
       "typedBy": "innertube",

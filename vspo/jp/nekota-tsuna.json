@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/JqeeIAMO79ydj7E_8PA1VrMFth8dMfNfPTI4RhxRKP-f8nK63cyZAY23_UrG725WyF-0Tn49=s0",
     "subscriberCount": 670000
   },
-  "lastUpdated": "2026-10-31T11:31:06.271Z",
+  "lastUpdated": "2026-10-31T13:13:24.045Z",
   "videoCount": 1396,
   "videos": [
     {
@@ -17,9 +17,21 @@
       "published": "2026-10-31T11:27:42.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-31T12:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T12:32:59.000Z"
+    },
+    {
+      "id": "k00TN0_RfA0",
+      "title": "【Liar's Bar】#ぶいすぽハロウィン 騙し合いだああああ　Aチーム　猫汰つな視点【ぶいすぽ / 猫汰つな】",
+      "published": "2026-10-31T11:17:24+00:00",
+      "type": "stream",
+      "duration": 4924,
+      "status": "past",
+      "scheduledStart": "2026-10-31T09:20:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T09:22:25.000Z"
     },
     {
       "id": "FaDhlJvOtQw",
@@ -42,17 +54,6 @@
       "scheduledStart": "2026-10-31T05:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-31T04:59:04.000Z"
-    },
-    {
-      "id": "k00TN0_RfA0",
-      "title": "【Liar's Bar】#ぶいすぽハロウィン 騙し合いだああああ　Aチーム　猫汰つな視点【ぶいすぽ / 猫汰つな】",
-      "published": "2026-10-30T22:25:20.000Z",
-      "type": "stream",
-      "duration": 4924,
-      "status": "past",
-      "scheduledStart": "2026-10-31T09:20:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-10-31T09:22:25.000Z"
     },
     {
       "id": "YL6NXYNeqcU",

@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/CFpM3g1n4yf_ryDtQDcLtKDRFAGxii3eUeog9MYCr_kqiKohfwyjuYrUZPXRYz7y_O46OUC3kA=s0",
     "subscriberCount": 835000
   },
-  "lastUpdated": "2026-10-30T05:15:07.571Z",
+  "lastUpdated": "2026-10-31T13:06:21.144Z",
   "videoCount": 1878,
   "videos": [
+    {
+      "id": "c9yFK-ytqPg",
+      "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
+      "published": "2026-10-31T12:00:09+00:00",
+      "type": "video",
+      "duration": 199,
+      "status": "past",
+      "scheduledStart": "2026-10-31T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T12:00:09.000Z"
+    },
     {
       "id": "gX4NtduorW0",
       "title": "【 APEX LEGENDS 】IOLLIE, THE LEGEND IS BACK【 iofi / hololive】",
@@ -28,9 +39,10 @@
       "published": "2026-10-29T17:17:26.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-10-31T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-10-31T13:00:47.000Z"
     },
     {
       "id": "YYK6BkOUQ0Q",
@@ -42,16 +54,6 @@
       "scheduledStart": "2026-10-27T15:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-27T15:00:14.000Z"
-    },
-    {
-      "id": "c9yFK-ytqPg",
-      "title": "Goblok Tenan | OST Troublemaker 2 Beyond Dream by AREA15 hololive",
-      "published": "2026-10-27T09:22:13.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-10-31T12:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "8O7uRt1WR9I",
