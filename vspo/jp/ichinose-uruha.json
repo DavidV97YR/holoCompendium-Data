@@ -6,9 +6,9 @@
     "slug": "ichinose-uruha",
     "avatarUrl": "https://yt3.ggpht.com/ytc/AIdro_myySkwnJbRZM78Ct6Zqok5H0oegoEjLOtg6sdq117VRAM",
     "bannerUrl": "https://yt3.googleusercontent.com/n4EhW4JxCJxO4l6shT0qwUhe0s5ma5-IWu-6Uf7iXUAJ88JuNAOirG7lxxrQAChIjKTsiuzW=s0",
-    "subscriberCount": 773000
+    "subscriberCount": 774000
   },
-  "lastUpdated": "2026-11-01T07:01:12.478Z",
+  "lastUpdated": "2026-11-01T10:10:33.292Z",
   "videoCount": 2452,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-11-01T06:59:25.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-01T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T09:02:04.000Z"
     },
     {
       "id": "te7HqgtkTXs",
