@@ -8,18 +8,41 @@
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0",
     "subscriberCount": 1600000
   },
-  "lastUpdated": "2026-11-01T12:02:11.867Z",
+  "lastUpdated": "2026-11-01T14:02:12.906Z",
   "videoCount": 1954,
   "videos": [
+    {
+      "id": "oMXaXv1q7kw",
+      "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
+      "published": "2026-11-01T12:59:56+00:00",
+      "type": "stream",
+      "duration": 4373,
+      "status": "past",
+      "scheduledStart": "2026-11-01T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T10:53:13.000Z"
+    },
+    {
+      "id": "LCCe_mqLNH8",
+      "title": "【オリジナル曲】せんしゅセンセーション【ホロライブ/夏色まつり/Medansy(TRIFRONTIER)】",
+      "published": "2026-11-01T12:05:07+00:00",
+      "type": "video",
+      "duration": 230,
+      "status": "past",
+      "scheduledStart": "2026-11-01T12:05:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T12:05:07.000Z"
+    },
     {
       "id": "VqlJVq4vfGY",
       "title": "【 メン限 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
       "published": "2026-11-01T08:07:59.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 1128,
+      "status": "past",
       "scheduledStart": "2026-11-01T12:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T12:27:15.000Z"
     },
     {
       "id": "IkplrR6pbzc",
@@ -29,16 +52,6 @@
       "duration": 38,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "LCCe_mqLNH8",
-      "title": "？？？",
-      "published": "2026-11-01T02:26:00.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-01T12:05:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "QmHlNoxJYiM",
@@ -99,17 +112,6 @@
       "duration": 25,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "oMXaXv1q7kw",
-      "title": "【 3DLIVE 】速報！夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
-      "published": "2026-10-29T07:24:20.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-01T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-01T10:53:13.000Z"
     },
     {
       "id": "arKJjOrXReg",
