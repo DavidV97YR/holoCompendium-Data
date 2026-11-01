@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0",
     "subscriberCount": 1150000
   },
-  "lastUpdated": "2026-11-01T12:30:41.013Z",
+  "lastUpdated": "2026-11-01T16:05:13.241Z",
   "videoCount": 1333,
   "videos": [
     {
@@ -26,10 +26,11 @@
       "title": "風真いろはの #ねるまえらじお 📻❣ #27",
       "published": "2026-11-01T08:53:26.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 1975,
+      "status": "past",
       "scheduledStart": "2026-11-01T15:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T15:29:58.000Z"
     },
     {
       "id": "iLMQ3_nRusc",
