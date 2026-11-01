@@ -69,6 +69,15 @@
           "width": 400,
           "height": 400,
           "bytes": 131066
+        },
+        {
+          "date": "2026-11-01",
+          "key": "dev_is/isaki-riona/2026-11-01/avatar.webp",
+          "src": "https://yt3.ggpht.com/4eNoZ3izogRHDyK8Bsoaz8rQwOGqCn6oumnmOr9GJ5RW4aD_lD03FSAnm7XNdmDFbuqM9mje",
+          "sha256": "b9b4e1d2b571c9281e3d996c6356e71b788c495c5150f565ee8e836094d5a495",
+          "width": 400,
+          "height": 400,
+          "bytes": 153482
         }
       ],
       "banner": [
@@ -83,7 +92,7 @@
         }
       ],
       "latest": {
-        "avatar": "dev_is/isaki-riona/2026-09-26/avatar.webp",
+        "avatar": "dev_is/isaki-riona/2026-11-01/avatar.webp",
         "banner": "dev_is/isaki-riona/2026-09-26/banner.webp"
       }
     },
@@ -127,6 +136,15 @@
           "width": 400,
           "height": 400,
           "bytes": 151164
+        },
+        {
+          "date": "2026-11-01",
+          "key": "dev_is/kikirara-vivi/2026-11-01/avatar.webp",
+          "src": "https://yt3.ggpht.com/GoNhfGdAjTpVy0Ej1lHd1Sg42DZgyfwMD-E0Kt2QcjWV9RrKVEO9cxPFqOmxjGvB_pUAPugOSg",
+          "sha256": "f09e0116377dc194dafecde59fa64b1e782981ad61b8d034c90374496fdfc621",
+          "width": 400,
+          "height": 400,
+          "bytes": 176806
         }
       ],
       "banner": [
@@ -141,7 +159,7 @@
         }
       ],
       "latest": {
-        "avatar": "dev_is/kikirara-vivi/2026-09-26/avatar.webp",
+        "avatar": "dev_is/kikirara-vivi/2026-11-01/avatar.webp",
         "banner": "dev_is/kikirara-vivi/2026-09-26/banner.webp"
       }
     },
@@ -156,6 +174,15 @@
           "width": 400,
           "height": 400,
           "bytes": 121460
+        },
+        {
+          "date": "2026-11-01",
+          "key": "dev_is/koganei-niko/2026-11-01/avatar.webp",
+          "src": "https://yt3.ggpht.com/YuUoz9D6C6cKCujiVYy_sWYYfLGPl52L4KKnq00SsKVzeBjAmN-NzHZFMx8niLhe_31qV5E9",
+          "sha256": "96f1668383942831a275f322f40a5f9d5c503258c01f5b01b26852bb9928df76",
+          "width": 400,
+          "height": 400,
+          "bytes": 165952
         }
       ],
       "banner": [
@@ -170,7 +197,7 @@
         }
       ],
       "latest": {
-        "avatar": "dev_is/koganei-niko/2026-09-26/avatar.webp",
+        "avatar": "dev_is/koganei-niko/2026-11-01/avatar.webp",
         "banner": "dev_is/koganei-niko/2026-09-26/banner.webp"
       }
     },
@@ -185,6 +212,15 @@
           "width": 400,
           "height": 400,
           "bytes": 127392
+        },
+        {
+          "date": "2026-11-01",
+          "key": "dev_is/mizumiya-su/2026-11-01/avatar.webp",
+          "src": "https://yt3.ggpht.com/dJtIwdARWIYw-6PVluASVT4Ugn1XvK-C8FTbWBU_niWacqOAtdfB4uvSiqmme-vJ65TO9KbeHA",
+          "sha256": "d9941275f0e328d896dba66284cc3e224d3dd11554d5e57cb06414c1599dba2b",
+          "width": 400,
+          "height": 400,
+          "bytes": 166622
         }
       ],
       "banner": [
@@ -199,7 +235,7 @@
         }
       ],
       "latest": {
-        "avatar": "dev_is/mizumiya-su/2026-09-26/avatar.webp",
+        "avatar": "dev_is/mizumiya-su/2026-11-01/avatar.webp",
         "banner": "dev_is/mizumiya-su/2026-09-26/banner.webp"
       }
     },
@@ -243,6 +279,15 @@
           "width": 400,
           "height": 400,
           "bytes": 122118
+        },
+        {
+          "date": "2026-11-01",
+          "key": "dev_is/rindo-chihaya/2026-11-01/avatar.webp",
+          "src": "https://yt3.ggpht.com/Stp3Ku6cyXyfOfhe-_QQQItPbBTKSUDm0ySR-VsbzbMxqJtGoyrIlI-O_rjqFB0F391WMBFA7A",
+          "sha256": "926b78047b2000b864033c0fa1cd20731fdc86fcf19485542110163ea20a39d9",
+          "width": 400,
+          "height": 400,
+          "bytes": 165108
         }
       ],
       "banner": [
@@ -257,7 +302,7 @@
         }
       ],
       "latest": {
-        "avatar": "dev_is/rindo-chihaya/2026-09-26/avatar.webp",
+        "avatar": "dev_is/rindo-chihaya/2026-11-01/avatar.webp",
         "banner": "dev_is/rindo-chihaya/2026-09-26/banner.webp"
       }
     },
@@ -2589,5 +2634,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-24T13:17:01.018Z"
+  "lastUpdated": "2026-11-01T08:16:58.184Z"
 }
