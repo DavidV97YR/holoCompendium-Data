@@ -1,7 +1,7 @@
 {
   "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
   "channelName": "Nekomata Okayu",
-  "lastUpdated": "2026-10-07T02:06:02.155Z",
+  "lastUpdated": "2026-11-01T17:06:29.416Z",
   "streams": {
     "6Pe4NNewLYk": {
       "member": 2,
@@ -23810,6 +23810,26 @@
       },
       "sc": 104,
       "member": 12
+    },
+    "N1yk3MOe0sE": {
+      "cur": {
+        "¥": 310310,
+        "₩": 62000,
+        "CA$": 100,
+        "NT$": 75,
+        "HK$": 25,
+        "$": 110,
+        "R$": 100,
+        "SEK": 200,
+        "₫": 9000,
+        "€": 2
+      },
+      "sc": 144,
+      "member": 40,
+      "milestone": 779,
+      "gift": 4,
+      "recv": 45,
+      "sent": 45
     }
   }
 }
