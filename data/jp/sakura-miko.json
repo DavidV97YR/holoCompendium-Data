@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/TnXlW8BkKvQQozwQLzyMH_mWBlx9LaBME6Slm0HxJn4sQejgWsbeWZ3tcTmRIB1QraKNodFG=s0",
     "subscriberCount": 2460000
   },
-  "lastUpdated": "2026-11-02T12:01:35.282Z",
+  "lastUpdated": "2026-11-02T14:01:38.896Z",
   "videoCount": 2413,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-11-02T07:24:10.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-02T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-02T12:05:26.000Z"
     },
     {
       "id": "wZ3YTAOBAJ4",
