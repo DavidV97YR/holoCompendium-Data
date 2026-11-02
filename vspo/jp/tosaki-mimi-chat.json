@@ -1,7 +1,7 @@
 {
   "channelId": "UCnvVG9RbOW3J6Ifqo-zKLiw",
   "channelName": "Tosaki Mimi",
-  "lastUpdated": "2026-11-02T12:04:05.945Z",
+  "lastUpdated": "2026-11-02T13:01:42.690Z",
   "streams": {
     "TRP7I1wiP-E": {
       "cur": {
@@ -12578,8 +12578,12 @@
       "milestone": 1
     },
     "TCWzA0MFdbc": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "¥": 5617
+      },
+      "sc": 13,
+      "member": 3,
+      "milestone": 1
     }
   }
 }
