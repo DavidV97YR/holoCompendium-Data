@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/RLdIhoK7f6T-JZU3mv7W2YYLSbACn50nyahI52lI5yl4_wVXFhRzjSBQFVmi5_duw0BSdXpwHA=s0",
     "subscriberCount": 43000
   },
-  "lastUpdated": "2026-11-01T20:13:12.120Z",
+  "lastUpdated": "2026-11-02T06:34:52.277Z",
   "videoCount": 241,
   "videos": [
+    {
+      "id": "xYveWllzbNU",
+      "title": "◤Nintendo Switch Sports Resort◢ IM AN ATHLETE | #JunoUmezono #VSPOEN",
+      "published": "2026-11-01T22:22:08Z",
+      "type": "stream",
+      "duration": 14351,
+      "status": "past",
+      "scheduledStart": "2026-11-01T14:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T13:57:18.000Z"
+    },
     {
       "id": "4w944wZX7SQ",
       "title": "juno's halloween went well #vspo #vtuberclips #vtuber",
@@ -78,19 +89,8 @@
       "type": "member",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-02T11:00:00.000Z",
+      "scheduledStart": "2026-11-03T11:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "xYveWllzbNU",
-      "title": "◤Nintendo Switch Sports Resort◢ IM AN ATHLETE | #JunoUmezono #VSPOEN",
-      "published": "2026-10-27T06:22:03.000Z",
-      "type": "stream",
-      "duration": 14343,
-      "status": "past",
-      "scheduledStart": "2026-11-01T14:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-01T13:57:18.000Z"
     },
     {
       "id": "svhZlvfWUCY",
@@ -193,7 +193,7 @@
       "published": "2026-10-17T13:00:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
       "scheduledStart": "2026-11-01T14:00:00.000Z",
       "typedBy": "innertube"
     },
