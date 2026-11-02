@@ -1,7 +1,7 @@
 {
   "channelId": "UCKMWFR6lAstLa7Vbf5dH7ig",
   "channelName": "Rindo Chihaya",
-  "lastUpdated": "2026-11-02T01:01:50.392Z",
+  "lastUpdated": "2026-11-02T15:03:24.642Z",
   "streams": {
     "7qXkC06yDpw": 0,
     "B3oFOpzvocY": {
@@ -6321,6 +6321,20 @@
       "sc": 1,
       "sticker": 1,
       "member": 1
+    },
+    "X2vuO3s1vBE": {
+      "cur": {
+        "¥": 35413,
+        "NT$": 75,
+        "SGD": 5
+      },
+      "sc": 34,
+      "sticker": 3,
+      "member": 8,
+      "milestone": 3,
+      "gift": 4,
+      "recv": 8,
+      "sent": 8
     }
   }
 }
