@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0",
     "subscriberCount": 1360000
   },
-  "lastUpdated": "2026-11-01T18:06:11.917Z",
+  "lastUpdated": "2026-11-02T00:02:40.925Z",
   "videoCount": 1680,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "【#朝ミオ 】１１月だ！月曜日だよ～～！おはみぉーん！",
       "published": "2026-11-01T10:47:19.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 4231,
+      "status": "past",
       "scheduledStart": "2026-11-01T22:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-01T22:31:03.000Z"
     },
     {
       "id": "RxqGatF8tLI",
