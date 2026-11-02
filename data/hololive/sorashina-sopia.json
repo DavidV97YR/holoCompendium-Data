@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5axB48rZadSq8B5enQe5xhCoPXQ7Q6-mWXPAmkdhwUJjDgfEVqmEzERo8KUQiLx7S8HPcZ72PA=s0",
     "subscriberCount": 325000
   },
-  "lastUpdated": "2026-11-02T18:00:52.437Z",
+  "lastUpdated": "2026-11-02T18:10:12.445Z",
   "videoCount": 44,
   "videos": [
     {
@@ -26,9 +26,11 @@
       "title": "【ゲリラメン限】作業配信【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
       "published": "2026-11-02T15:55:31.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 7245,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-02T16:00:00.000Z",
+      "actualStart": "2026-11-02T16:01:31.000Z"
     },
     {
       "id": "WqqhJzKlBT0",
