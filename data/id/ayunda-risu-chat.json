@@ -1,7 +1,7 @@
 {
   "channelId": "UCOyYb1c43VlX9rc_lT6NKQw",
   "channelName": "Ayunda Risu",
-  "lastUpdated": "2026-11-02T17:02:26.336Z",
+  "lastUpdated": "2026-11-02T18:03:24.190Z",
   "streams": {
     "qlYLSPbryjg": {
       "cur": {
@@ -16785,8 +16785,24 @@
       "sent": 8
     },
     "nLJQ_uNNSls": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "₱": 125,
+        "¥": 11920,
+        "IDR": 1288000,
+        "CA$": 14,
+        "₫": 200000,
+        "€": 30,
+        "₩": 5000,
+        "PLN": 50,
+        "$": 5,
+        "MYR": 6
+      },
+      "sc": 35,
+      "member": 13,
+      "milestone": 12,
+      "gift": 5,
+      "recv": 21,
+      "sent": 21
     }
   }
 }
