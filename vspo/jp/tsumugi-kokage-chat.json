@@ -1,7 +1,7 @@
 {
   "channelId": "UC-WX1CXssCtCtc2TNIRnJzg",
   "channelName": "Tsumugi Kokage",
-  "lastUpdated": "2026-11-01T22:02:10.375Z",
+  "lastUpdated": "2026-11-02T11:02:11.460Z",
   "streams": {
     "LlM5i6LOaP4": {
       "cur": {
@@ -10056,6 +10056,10 @@
       "gift": 7,
       "recv": 7,
       "sent": 7
+    },
+    "zKG2Lssl95k": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
