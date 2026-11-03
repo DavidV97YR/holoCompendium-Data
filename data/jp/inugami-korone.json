@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/UvLAarOsnyYFmBW4CnB8gQAO_WjxhmR3GHzxLtEd2gC7vp0E6ngpCoWoRuZo0ymAP94WTELz=s0",
     "subscriberCount": 2290000
   },
-  "lastUpdated": "2026-11-03T14:00:56.254Z",
+  "lastUpdated": "2026-11-03T14:03:18.944Z",
   "videoCount": 1542,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "duration": 23,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "M9eA-TmMgFg",
+      "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
+      "published": "2026-11-03T12:31:11+00:00",
+      "type": "stream",
+      "duration": 5176,
+      "status": "past",
+      "scheduledStart": "2026-11-03T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-03T11:00:09.000Z"
     },
     {
       "id": "StlocFxdRVM",
@@ -40,17 +51,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-04T10:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "M9eA-TmMgFg",
-      "title": "【#戌神ころね新衣装】新衣装で並びたいので『おがゆ限定凸待ち』しまーーーす🐱",
-      "published": "2026-11-02T20:18:27.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-03T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-03T11:00:09.000Z"
     },
     {
       "id": "IXi0umJ1SpM",
@@ -123,7 +123,7 @@
       "title": "【Memberships only】新環境でASMRテスト配信だでなっ【寝る前ざつだーん】",
       "published": "2026-10-23T08:09:48.000Z",
       "type": "member",
-      "duration": 7121,
+      "duration": 7042,
       "status": "past",
       "scheduledStart": "2026-10-23T13:00:00.000Z",
       "typedBy": "innertube",
