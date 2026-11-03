@@ -1,7 +1,7 @@
 {
   "channelId": "UCFKOVgVbGmX65RxO3EtH3iw",
   "channelName": "Yukihana Lamy",
-  "lastUpdated": "2026-10-29T16:10:54.160Z",
+  "lastUpdated": "2026-11-03T17:14:59.479Z",
   "streams": {
     "yssZGngfE7E": {
       "cur": {
@@ -21033,6 +21033,10 @@
       "gift": 10,
       "recv": 37,
       "sent": 37
+    },
+    "FG6gwtixrLc": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
