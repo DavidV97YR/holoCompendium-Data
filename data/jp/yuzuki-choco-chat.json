@@ -1,7 +1,7 @@
 {
   "channelId": "UC1suqwovbL1kzsoaZgFZLKg",
   "channelName": "Yuzuki Choco",
-  "lastUpdated": "2026-11-03T18:06:47.352Z",
+  "lastUpdated": "2026-11-03T19:10:15.240Z",
   "streams": {
     "YDDaZCTDLhk": {
       "cur": {
@@ -11255,8 +11255,27 @@
       "milestone": 1
     },
     "9kCuLtDhT-w": {
-      "e": "noreplay",
-      "n": 4
+      "cur": {
+        "¥": 5700,
+        "₩": 1000,
+        "$": 5
+      },
+      "sc": 8,
+      "sticker": 1,
+      "member": 5,
+      "gift": 2,
+      "recv": 69,
+      "sent": 70
+    },
+    "uypK_OwqdnY": {
+      "cur": {
+        "¥": 100
+      },
+      "sc": 1,
+      "member": 6,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
