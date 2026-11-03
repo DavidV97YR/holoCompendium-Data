@@ -8,16 +8,27 @@
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0",
     "subscriberCount": 1600000
   },
-  "lastUpdated": "2026-11-03T10:02:19.899Z",
+  "lastUpdated": "2026-11-03T12:02:15.779Z",
   "videoCount": 1957,
   "videos": [
+    {
+      "id": "Oej51lnlYlE",
+      "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
+      "published": "2026-11-03T10:06:54+00:00",
+      "type": "stream",
+      "duration": 3725,
+      "status": "past",
+      "scheduledStart": "2026-11-03T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-03T09:00:10.000Z"
+    },
     {
       "id": "iCgymy1w4JE",
       "title": "【ダンスレッスン】新オリ曲の初振り入れレッスン！【ホロライブ/夏色まつり】",
       "published": "2026-11-03T10:00:09+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "live",
+      "duration": 3397,
+      "status": "past",
       "scheduledStart": "2026-11-03T10:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-03T10:00:09.000Z"
@@ -30,17 +41,6 @@
       "duration": 31,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "Oej51lnlYlE",
-      "title": "【裏話】振り返り雑談✨生ライブ頑張ったで賞ください！【ホロライブ/夏色まつり】",
-      "published": "2026-11-02T11:17:34.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-03T09:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-03T09:00:10.000Z"
     },
     {
       "id": "oMXaXv1q7kw",

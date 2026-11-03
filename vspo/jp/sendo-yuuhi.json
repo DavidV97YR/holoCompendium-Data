@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/VlYdMdPDKB1npWiaIMkUWo9kZ4aeuRLA-WPO0MpO2yvd-wbUH4bR6n8xq3WfwAfl2h72fwTC2_Y=s0",
     "subscriberCount": 391000
   },
-  "lastUpdated": "2026-11-03T12:01:14.563Z",
+  "lastUpdated": "2026-11-03T12:12:57.622Z",
   "videoCount": 991,
   "videos": [
     {
@@ -35,10 +35,11 @@
       "title": "【メン限】ワイちゃんがごはんをたべるだけ【 ぶいすぽっ！ / 千燈ゆうひ 】",
       "published": "2026-11-03T11:05:29.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 3297,
+      "status": "past",
       "actualStart": "2026-11-03T11:05:58.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-03T11:05:00.000Z"
     },
     {
       "id": "EoZFofw4OSU",

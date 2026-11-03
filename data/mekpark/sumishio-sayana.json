@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 72700
   },
-  "lastUpdated": "2026-11-03T10:09:44.731Z",
+  "lastUpdated": "2026-11-03T12:09:52.866Z",
   "videoCount": 350,
   "videos": [
+    {
+      "id": "fzwVpFKvWpk",
+      "title": "【 ドラゴンボールZ:KAKAROT 】#1 予習はバッチリ😉楽しみすぎる🥺やるぞ～～！　#墨汐さやな ＃さやな時間",
+      "published": "2026-11-03T10:10:24+00:00",
+      "type": "stream",
+      "duration": 15086,
+      "status": "past",
+      "scheduledStart": "2026-11-03T04:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-03T04:01:14.000Z"
+    },
     {
       "id": "OCHTANmeqg4",
       "title": "【ゼルダの伝説 時のオカリナ】完全初見！7年の時を越えて知った真実。勇者は新たな旅へ！【初見プレイ#5】#ひなみ通信　#由比河ひなみ",
@@ -48,9 +59,10 @@
       "published": "2026-11-02T09:10:42.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-03T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-03T11:00:06.000Z"
     },
     {
       "id": "fltwkTGxTtU",
@@ -91,17 +103,6 @@
       "scheduledStart": "2026-10-31T12:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-10-31T12:06:23.000Z"
-    },
-    {
-      "id": "fzwVpFKvWpk",
-      "title": "【 ドラゴンボールZ:KAKAROT 】#1 予習はバッチリ😉楽しみすぎる🥺やるぞ～～！　#墨汐さやな ＃さやな時間",
-      "published": "2026-10-31T15:51:26.000Z",
-      "type": "stream",
-      "duration": 15086,
-      "status": "past",
-      "scheduledStart": "2026-11-03T04:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-03T04:01:14.000Z"
     },
     {
       "id": "GFaj6qXxsEA",

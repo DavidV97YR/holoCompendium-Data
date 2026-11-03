@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5eeeR5MicXGp-wrT04AutRX4kT3Sb1WVKmGBqCToXpj4frJSIdNXKKM75zBF0H2ivpTyEj79eQ=s0",
     "subscriberCount": 813000
   },
-  "lastUpdated": "2026-11-03T11:01:23.121Z",
+  "lastUpdated": "2026-11-03T12:11:07.962Z",
   "videoCount": 2812,
   "videos": [
     {
@@ -17,13 +17,15 @@
       "published": "2026-11-03T10:43:57.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-03T11:00:00.000Z",
+      "actualStart": "2026-11-03T11:05:08.000Z"
     },
     {
       "id": "8zNJTSAdHQg",
       "title": "【 APEX 】積極的【 ぶいすぽっ！胡桃のあ 】",
-      "published": "2026-11-03T04:51:28.000Z",
+      "published": "2026-11-03T10:34:29+00:00",
       "type": "stream",
       "duration": 14565,
       "status": "past",
