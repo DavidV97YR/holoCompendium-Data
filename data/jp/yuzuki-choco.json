@@ -8,28 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/AnNPRrfMcNbahc8l2TMgGBqaVmpSwCPIzVxyiUpY36mmOx4ROOVTnLk6GxpytYpVRl3Hf4BV=s0",
     "subscriberCount": 1130000
   },
-  "lastUpdated": "2026-11-03T14:31:00.350Z",
+  "lastUpdated": "2026-11-03T16:03:12.603Z",
   "videoCount": 1258,
   "videos": [
     {
-      "id": "uypK_OwqdnY",
-      "title": "【#ホロ鯖ARK】ARK上陸２０日目！ドレッドメア召喚するのだ！【ホロライブ/癒月ちょこ】",
-      "published": "2026-11-03T14:15:52.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
-    },
-    {
       "id": "9kCuLtDhT-w",
       "title": "【#ホロ鯖ARK】ARK上陸20日目！海賊船準備なのだ！【ホロライブ/癒月ちょこ】",
-      "published": "2026-11-03T02:20:47.000Z",
+      "published": "2026-11-03T14:37:38+00:00",
       "type": "stream",
       "duration": 39269,
       "status": "past",
       "scheduledStart": "2026-11-03T03:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-03T03:00:23.000Z"
+    },
+    {
+      "id": "uypK_OwqdnY",
+      "title": "【#ホロ鯖ARK】ARK上陸２０日目！ドレッドメア召喚するのだ！【ホロライブ/癒月ちょこ】",
+      "published": "2026-11-03T14:15:52.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-03T14:30:00.000Z",
+      "actualStart": "2026-11-03T14:36:53.000Z"
     },
     {
       "id": "AgfaQtEJvrw",

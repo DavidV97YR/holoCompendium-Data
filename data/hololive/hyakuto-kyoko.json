@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5rGx5kFR2cFMasmkuErXCCR7b5Q7pw8_EVnCJ6Pn7yjJ43Ek3urOl2UMkOBGmxbG3l-rRFFQAw=s0",
     "subscriberCount": 334000
   },
-  "lastUpdated": "2026-11-03T16:00:54.974Z",
+  "lastUpdated": "2026-11-03T16:11:12.178Z",
   "videoCount": 76,
   "videos": [
     {
@@ -20,6 +20,17 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-04T03:00:00.000Z",
       "typedBy": "innertube"
+    },
+    {
+      "id": "5E8wedwJyNA",
+      "title": "【コラボ】ヤベェ幽霊が出るらしいお家に突入ーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
+      "published": "2026-11-03T15:16:43+00:00",
+      "type": "stream",
+      "duration": 7627,
+      "status": "past",
+      "scheduledStart": "2026-11-03T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-03T13:00:30.000Z"
     },
     {
       "id": "-ITkl7EoxMo",
@@ -42,17 +53,6 @@
       "scheduledStart": "2026-11-02T13:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-02T12:59:17.000Z"
-    },
-    {
-      "id": "5E8wedwJyNA",
-      "title": "【コラボ】ヤベェ幽霊が出るらしいお家に突入ーー！！【百灯キョーコ/ホロライブ/アソビ★まわり隊！】",
-      "published": "2026-11-02T16:07:14.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-03T13:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-03T13:00:30.000Z"
     },
     {
       "id": "0O54TfKz4Ic",
