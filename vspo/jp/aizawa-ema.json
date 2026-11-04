@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0",
     "subscriberCount": 705000
   },
-  "lastUpdated": "2026-11-04T13:01:43.566Z",
+  "lastUpdated": "2026-11-04T14:12:00.522Z",
   "videoCount": 1812,
   "videos": [
     {
@@ -19,15 +19,16 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-11-04T12:35:42.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-04T12:35:00.000Z"
     },
     {
       "id": "-IOBSVtkAes",
       "title": "ねむーい",
       "published": "2026-11-04T12:25:48.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 337,
+      "status": "past",
       "scheduledStart": "2026-11-04T12:25:47.000Z",
       "actualStart": "2026-11-04T12:28:56.000Z",
       "typedBy": "data-api"
