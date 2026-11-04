@@ -1,7 +1,7 @@
 {
   "channelId": "UC-hM6YJuNYVAmUWxeIr9FeA",
   "channelName": "Sakura Miko",
-  "lastUpdated": "2026-11-04T15:07:47.298Z",
+  "lastUpdated": "2026-11-04T19:12:19.905Z",
   "streams": {
     "L-c8R712bXc": {
       "cur": {
@@ -25375,6 +25375,24 @@
       },
       "sc": 2,
       "member": 4
+    },
+    "vUFuPPevafo": {
+      "cur": {
+        "$": 110,
+        "HK$": 1268,
+        "¥": 312070,
+        "NT$": 8705,
+        "€": 20,
+        "₩": 132500,
+        "R$": 60,
+        "CA$": 20,
+        "MYR": 15
+      },
+      "sc": 164,
+      "member": 4,
+      "gift": 27,
+      "recv": 125,
+      "sent": 132
     }
   }
 }
