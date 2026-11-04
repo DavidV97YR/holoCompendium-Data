@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/eFO_bR55Ix6PV1u2_N12Nrbc2jD2kekokL5XqNjmmj03YnVBWhCg8wgTwz6YOtW86_LLtslMGw=s0",
     "subscriberCount": 756000
   },
-  "lastUpdated": "2026-11-03T18:25:35.873Z",
+  "lastUpdated": "2026-11-04T04:08:08.778Z",
   "videoCount": 1365,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "ニコたんはコイツが好きだと聞いた【#一条莉々華の限界飯】",
       "published": "2026-11-03T15:08:02.000Z",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 799,
+      "status": "past",
       "scheduledStart": "2026-11-04T03:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-04T03:30:10.000Z"
     },
     {
       "id": "mwSlrxL5jMo",
