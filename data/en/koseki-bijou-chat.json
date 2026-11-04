@@ -1,7 +1,7 @@
 {
   "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
   "channelName": "Koseki Bijou",
-  "lastUpdated": "2026-11-02T05:05:00.991Z",
+  "lastUpdated": "2026-11-04T07:01:12.040Z",
   "streams": {
     "In43SMi0dPE": {
       "cur": {
@@ -15797,6 +15797,10 @@
       "gift": 6,
       "recv": 140,
       "sent": 140
+    },
+    "ydMW5pd1bOM": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
