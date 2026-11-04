@@ -8,18 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0",
     "subscriberCount": 2150000
   },
-  "lastUpdated": "2026-11-04T10:03:04.168Z",
+  "lastUpdated": "2026-11-04T12:03:08.402Z",
   "videoCount": 1900,
   "videos": [
+    {
+      "id": "vZHb1OwdDpA",
+      "title": "【 ソニックレーシング クロスワールド 】おかころきちゃああ!! 🍙🥐✦ 思いっきり遊んじゃお!! #おかころ【 猫又おかゆ/戌神ころね/ホロライブ 】",
+      "published": "2026-11-04T11:11:06+00:00",
+      "type": "stream",
+      "duration": 4013,
+      "status": "past",
+      "scheduledStart": "2026-11-04T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-04T10:00:08.000Z"
+    },
     {
       "id": "z5Y6l9WORI4",
       "title": "【 AIドット絵バトル 】最強のモンスター考えてみた🤣🤣🤣ｗｗｗ【 猫又おかゆ/ホロライブ 】",
       "published": "2026-11-03T19:01:03.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-04T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-04T12:01:10.000Z"
     },
     {
       "id": "9pQneXmdlpU",
@@ -40,17 +52,6 @@
       "duration": 20,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "vZHb1OwdDpA",
-      "title": "【 ソニックレーシング クロスワールド 】おかころきちゃああ!! 🍙🥐✦ 思いっきり遊んじゃお!! #おかころ【 猫又おかゆ/戌神ころね/ホロライブ 】",
-      "published": "2026-11-02T15:38:20.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-04T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-04T10:00:08.000Z"
     },
     {
       "id": "JTRI5dPcho0",

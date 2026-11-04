@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0",
     "subscriberCount": 1350000
   },
-  "lastUpdated": "2026-11-04T12:01:15.276Z",
+  "lastUpdated": "2026-11-04T12:01:19.304Z",
   "videoCount": 2046,
   "videos": [
     {
@@ -23,12 +23,13 @@
     {
       "id": "GKUUf0fs_So",
       "title": "ときのそら「マルゴトミライ」【Official Music Video】",
-      "published": "2026-11-04T02:32:08.000Z",
+      "published": "2026-11-04T11:00:08+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 208,
+      "status": "past",
       "scheduledStart": "2026-11-04T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-04T11:00:08.000Z"
     },
     {
       "id": "eaPEREHrA5w",
