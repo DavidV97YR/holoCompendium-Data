@@ -743,11 +743,20 @@
           "width": 2560,
           "height": 1440,
           "bytes": 459878
+        },
+        {
+          "date": "2026-11-04",
+          "key": "en/ouro-kronii/2026-11-04/banner.webp",
+          "src": "https://yt3.googleusercontent.com/_NQ77FtBBRiAByPu9_fvkeaJAvkH3ouASvRsaudPPdqOBZ8LTFmvTQF9jFMGo3m4aJ7sWQlXmQA",
+          "sha256": "5cc68299db8d03657b29134d65d6baf317f0a874bf83e8e9d2d91bdef209a048",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 457360
         }
       ],
       "latest": {
         "avatar": "en/ouro-kronii/2026-09-26/avatar.webp",
-        "banner": "en/ouro-kronii/2026-09-26/banner.webp"
+        "banner": "en/ouro-kronii/2026-11-04/banner.webp"
       }
     },
     "en/raora-panthera": {
@@ -2634,5 +2643,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-01T08:16:58.184Z"
+  "lastUpdated": "2026-11-04T12:17:34.544Z"
 }
