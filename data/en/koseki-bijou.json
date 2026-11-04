@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0",
     "subscriberCount": 1000000
   },
-  "lastUpdated": "2026-11-04T16:00:43.593Z",
+  "lastUpdated": "2026-11-04T16:07:23.857Z",
   "videoCount": 966,
   "videos": [
+    {
+      "id": "xBG42xoBM0U",
+      "title": "【SOUL CHAINED】CHAINED TO MY CUTE KOHAI",
+      "published": "2026-11-04T15:42:56+00:00",
+      "type": "stream",
+      "duration": 12474,
+      "status": "past",
+      "scheduledStart": "2026-11-04T12:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-04T12:03:22.000Z"
+    },
     {
       "id": "AqWWkm-ltFg",
       "title": "【The Legend of Zelda: Ocarina of Time Remake】HYAH! HAH! HYAAAAAAAAAHHHHH",
@@ -20,17 +31,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-05T00:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "xBG42xoBM0U",
-      "title": "【SOUL CHAINED】CHAINED TO MY CUTE KOHAI",
-      "published": "2026-11-04T10:02:03.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-04T12:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-04T12:03:22.000Z"
     },
     {
       "id": "ydMW5pd1bOM",
