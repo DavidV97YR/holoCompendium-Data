@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/DwlC-CnswuTfYAIllaNBk9dxloTYPFIonRQyjfxm_5apuDqG7--hNkfr85ANzPlnd1CAiM12TA=s0",
     "subscriberCount": 628000
   },
-  "lastUpdated": "2026-11-05T12:09:06.800Z",
+  "lastUpdated": "2026-11-05T14:09:25.890Z",
   "videoCount": 875,
   "videos": [
+    {
+      "id": "EWdKaGccKWU",
+      "title": "【雑談】オリ曲制作裏話～～～！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
+      "published": "2026-11-05T12:45:29+00:00",
+      "type": "stream",
+      "duration": 5929,
+      "status": "past",
+      "scheduledStart": "2026-11-05T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-05T11:00:12.000Z"
+    },
     {
       "id": "VJX6bRbqHZw",
       "title": "【Vlog】モビリティリゾートもてぎに行ってきた～！！！！",
@@ -19,17 +30,6 @@
       "duration": 1178,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "EWdKaGccKWU",
-      "title": "【雑談】オリ曲制作裏話～～～！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-      "published": "2026-11-05T04:08:57.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-05T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-05T11:00:12.000Z"
     },
     {
       "id": "N_77GxuprFY",

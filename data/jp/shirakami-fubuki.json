@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/sZR7H8ye0MmNeLXg70SypSOH45r_OAgA-IbJrqKRmwk4T1CkWAh5g0n6kGv5t8o29Swcc1DiUg=s0",
     "subscriberCount": 2690000
   },
-  "lastUpdated": "2026-11-05T12:02:07.014Z",
+  "lastUpdated": "2026-11-05T14:02:17.866Z",
   "videoCount": 3326,
   "videos": [
+    {
+      "id": "gZ42MAwjPGA",
+      "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
+      "published": "2026-11-05T13:14:18+00:00",
+      "type": "stream",
+      "duration": 7533,
+      "status": "past",
+      "scheduledStart": "2026-11-05T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-05T10:59:42.000Z"
+    },
     {
       "id": "02OOQBuTODA",
       "title": "【3D LIVE】Special♡Spell・歌詞無しver【ホロライブ/白上フブキ/風真いろは】",
@@ -19,17 +30,6 @@
       "duration": 192,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "gZ42MAwjPGA",
-      "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
-      "published": "2026-11-05T07:31:56.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-05T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-05T10:59:42.000Z"
     },
     {
       "id": "uwL3J0l9ueI",
