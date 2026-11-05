@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/B0PGej5swp07_4NGZ1Ksyn0DvZlLPZ7o8R_lzoV1IoiQH-k0HdP5vt5HYngiRy6c0ebLbJUt=s0",
     "subscriberCount": 81500
   },
-  "lastUpdated": "2026-11-05T16:01:15.680Z",
+  "lastUpdated": "2026-11-05T18:13:30.522Z",
   "videoCount": 797,
   "videos": [
     {
@@ -17,8 +17,10 @@
       "published": "2026-11-05T15:47:13.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-05T16:00:00.000Z",
+      "actualStart": "2026-11-05T16:14:09.000Z"
     },
     {
       "id": "TRWBMGcSGfQ",
@@ -63,7 +65,7 @@
     },
     {
       "id": "il2QNjX_Y7Q",
-      "title": "【Counter-Strike 2】   it's g-growing?! 🐥 |  Premier  【#VSPOEN #RemiaAotsuki】",
+      "title": "【Counter-Strike 2/OVERWATCH 2】   it's g-growing?! 🐥 |  Premier 25K!  【#VSPOEN #RemiaAotsuki】",
       "published": "2026-11-03T22:27:47Z",
       "type": "stream",
       "duration": 15194,
