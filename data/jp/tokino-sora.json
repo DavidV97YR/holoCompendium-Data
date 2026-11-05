@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/ZruRm2-7By3UtEQ75kyXF1RV_772WSVXCrhfZ1XgpGMjCOqH2g2ktH3Jd0baH7aXAT4K64bvMg=s0",
     "subscriberCount": 1350000
   },
-  "lastUpdated": "2026-11-05T12:01:05.953Z",
+  "lastUpdated": "2026-11-05T12:01:15.977Z",
   "videoCount": 2048,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "duration": 67,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "eaPEREHrA5w",
+      "title": "ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】",
+      "published": "2026-11-05T11:00:09+00:00",
+      "type": "video",
+      "duration": 185,
+      "status": "past",
+      "scheduledStart": "2026-11-05T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-05T11:00:09.000Z"
     },
     {
       "id": "N9zZZFuOqXU",
@@ -48,16 +59,6 @@
       "scheduledStart": "2026-11-04T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-04T11:00:08.000Z"
-    },
-    {
-      "id": "eaPEREHrA5w",
-      "title": "ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】",
-      "published": "2026-11-04T02:22:39.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-05T11:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "BxJqCSku0O4",

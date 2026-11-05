@@ -6,9 +6,9 @@
     "slug": "juno-umezono",
     "avatarUrl": "https://yt3.ggpht.com/bztupxiQMfCNoxlX5ir_3qRpCzGPEzoTOs7gSq6jqgZ-oRAtbyS_seR_Jd9NlT0c0hUzS-kw",
     "bannerUrl": "https://yt3.googleusercontent.com/RLdIhoK7f6T-JZU3mv7W2YYLSbACn50nyahI52lI5yl4_wVXFhRzjSBQFVmi5_duw0BSdXpwHA=s0",
-    "subscriberCount": 43100
+    "subscriberCount": 43200
   },
-  "lastUpdated": "2026-11-05T08:13:33.260Z",
+  "lastUpdated": "2026-11-05T12:14:07.925Z",
   "videoCount": 245,
   "videos": [
     {
@@ -28,9 +28,10 @@
       "published": "2026-11-04T15:22:47.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-05T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-05T11:58:35.000Z"
     },
     {
       "id": "Diun65f08gQ",

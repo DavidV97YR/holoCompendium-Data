@@ -6,9 +6,9 @@
     "slug": "yuikawa-hinami",
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
-    "subscriberCount": 73100
+    "subscriberCount": 73200
   },
-  "lastUpdated": "2026-11-05T11:31:26.147Z",
+  "lastUpdated": "2026-11-05T12:10:03.780Z",
   "videoCount": 359,
   "videos": [
     {
@@ -20,6 +20,17 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-06T07:00:00.000Z",
       "typedBy": "innertube"
+    },
+    {
+      "id": "r5GUwbucJr8",
+      "title": "【ゼルダの伝説 時のオカリナ】リメイク版が出ましたが…こちらはまだ水の神殿から出られません。【初見プレイ#7】#ひなみ通信　#由比河ひなみ",
+      "published": "2026-11-05T10:56:19+00:00",
+      "type": "stream",
+      "duration": 28655,
+      "status": "past",
+      "scheduledStart": "2026-11-05T01:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-05T01:01:02.000Z"
     },
     {
       "id": "XcOQiMYQs0g",
@@ -42,17 +53,6 @@
       "scheduledStart": "2026-11-04T12:05:00.000Z",
       "actualStart": "2026-11-04T12:12:38.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "r5GUwbucJr8",
-      "title": "【ゼルダの伝説 時のオカリナ】リメイク版が出ましたが…こちらはまだ水の神殿から出られません。【初見プレイ#7】#ひなみ通信　#由比河ひなみ",
-      "published": "2026-11-04T15:24:47.000Z",
-      "type": "stream",
-      "duration": 28655,
-      "status": "past",
-      "scheduledStart": "2026-11-05T01:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-05T01:01:02.000Z"
     },
     {
       "id": "OgNTTJZ-vgU",
