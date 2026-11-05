@@ -1,7 +1,7 @@
 {
   "channelId": "UCiMG6VdScBabPhJ1ZtaVmbw",
   "channelName": "Kaga Nazuna",
-  "lastUpdated": "2026-11-05T13:03:26.853Z",
+  "lastUpdated": "2026-11-05T14:02:19.170Z",
   "streams": {
     "qgdhjK9Gfyg": {
       "cur": {
@@ -19269,8 +19269,14 @@
       "member": 4
     },
     "xJxTtyaVOY0": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 31502,
+        "HK$": 25,
+        "₩": 20000
+      },
+      "sc": 23,
+      "sticker": 2,
+      "member": 3
     }
   }
 }
