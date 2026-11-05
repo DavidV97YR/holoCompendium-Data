@@ -1,7 +1,7 @@
 {
   "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
   "channelName": "Jira Jisaki",
-  "lastUpdated": "2026-11-05T06:01:25.944Z",
+  "lastUpdated": "2026-11-05T07:02:49.017Z",
   "streams": {
     "PxbKX7vB7yk": {
       "gift": 1,
@@ -2295,8 +2295,22 @@
       "member": 1
     },
     "6eOU9zI7elM": {
+      "cur": {
+        "₩": 40000,
+        "$": 110,
+        "¥": 12000,
+        "SGD": 2
+      },
+      "sc": 8,
+      "member": 1,
+      "milestone": 1,
+      "gift": 3,
+      "recv": 40,
+      "sent": 40
+    },
+    "ru4SMTdIdYQ": {
       "e": "noreplay",
-      "n": 2
+      "n": 1
     }
   }
 }
