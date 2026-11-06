@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 73300
   },
-  "lastUpdated": "2026-11-06T06:22:01.891Z",
+  "lastUpdated": "2026-11-06T08:09:44.664Z",
   "videoCount": 359,
   "videos": [
     {
@@ -39,9 +39,10 @@
       "published": "2026-11-05T11:18:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-06T07:00:00.000Z",
-      "typedBy": "innertube"
+      "status": "live",
+      "scheduledStart": "2026-11-06T07:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-06T07:20:24.000Z"
     },
     {
       "id": "r5GUwbucJr8",
@@ -81,8 +82,8 @@
       "title": "【 ドラゴンボールZ:KAKAROT 】#３ いざ！！ナメック星へ🫡ドラゴンボール復活！！！！　#墨汐さやな ＃さやな時間",
       "published": "2026-11-04T13:39:10.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 22275,
+      "status": "past",
       "scheduledStart": "2026-11-06T01:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-06T01:00:58.000Z"
