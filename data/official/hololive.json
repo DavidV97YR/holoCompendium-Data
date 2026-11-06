@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/gs2-5Vp5zumGCtTT3u7Radu_YeBRGHpyMarzo-QKKrMSfFWq9v8bplpQzOr0wvb8lbsdm0FE-A=s0",
     "subscriberCount": 2980000
   },
-  "lastUpdated": "2026-11-06T10:01:11.636Z",
+  "lastUpdated": "2026-11-06T10:13:54.704Z",
   "videoCount": 2137,
   "videos": [
     {
@@ -23,12 +23,13 @@
     {
       "id": "ccu5HnPptWA",
       "title": "【新ボイス】あなたとわたしが初めて出逢うとき―",
-      "published": "2026-11-04T23:03:30.000Z",
+      "published": "2026-11-06T09:30:10+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 121,
+      "status": "past",
       "scheduledStart": "2026-11-06T09:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-06T09:30:10.000Z"
     },
     {
       "id": "ze2iEveLWb4",
