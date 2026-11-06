@@ -12,13 +12,14 @@ on:
         type: boolean
         default: false
       # cron-job.org starts this with no inputs, so its runs take the default
-      # and cover every roster: hololive, VSPO! and the official channels. Row
+      # and cover every roster: hololive, VSPO! and both agencies' official
+      # channels. Row
       # numbers belong to one sheet, so a run with
       # anything but "all" has to name which.
       org:
         description: 'Which roster (row numbers need one sheet, not both)'
         type: choice
-        options: [both, hololive, vspo, official]
+        options: [both, hololive, vspo, official, vspo-official]
         default: both
 
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
@@ -29,6 +30,9 @@ env:
   # channels…): their own sheet, Name / Branch "Official" / YouTube. Their data
   # lives in data/official/, beside the talents' branches.
   OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vScKzfvk6rvz-6GiK2rdVKze_IBumM8rcYKrglVwPIkzy1CPkWNkkEWl01iI6YFng/pub?output=csv'
+  # VSPO!'s official channels (VSPO!, VSPO! EN): their own sheet, laid out as
+  # hololive's. Their data lives in vspo/official/, beside VSPO!'s branches.
+  VSPO_OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaYvF_iWQu3L2Y35nkePHFHynrfYCkpzDAw-Kd0sVOQwKGO2YDMV1AaVFPitgFxA/pub?output=csv'
 
 jobs:
   update:
@@ -44,7 +48,7 @@ jobs:
         env:
           ROWS: ${{ inputs.rows }}
         run: |
-          echo "::error::Row numbers are per sheet. Pick hololive, vspo or official for rows '$ROWS', or use rows 'all'."
+          echo "::error::Row numbers are per sheet. Pick hololive, vspo, official or vspo-official for rows '$ROWS', or use rows 'all'."
           exit 1
 
       - name: Checkout repo
@@ -56,7 +60,7 @@ jobs:
           node-version: '20'
 
       - name: Run updater (hololive)
-        if: ${{ inputs.org != 'vspo' && inputs.org != 'official' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'official' && inputs.org != 'vspo-official' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ secrets.CSV_URL }}
@@ -68,7 +72,7 @@ jobs:
 
       # Skipped until VSPO! has been bootstrapped: there is nothing to update.
       - name: Run updater (VSPO!)
-        if: ${{ inputs.org != 'hololive' && inputs.org != 'official' && hashFiles('vspo/*/*.json') != '' }}
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'official' && inputs.org != 'vspo-official' && hashFiles('vspo/*/*.json') != '' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ env.VSPO_CSV_URL }}
@@ -83,7 +87,7 @@ jobs:
       # data/ by folder, so the catalogue, Videos, Music and the rest pick them
       # up with no step of their own.
       - name: Run updater (official)
-        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && hashFiles('data/official/*.json') != '' }}
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && inputs.org != 'vspo-official' && hashFiles('data/official/*.json') != '' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ env.OFFICIAL_CSV_URL }}
@@ -91,6 +95,20 @@ jobs:
           ROWS:            ${{ github.event.inputs.rows || 'all' }}
           BACKFILL:        ${{ github.event.inputs.backfill }}
           DATA_DIR:        ./data
+        run: node scripts/update.js
+
+      # VSPO!'s official channels, from their own sheet into vspo/official/.
+      # Skipped until they have been bootstrapped. The VSPO! steps below read
+      # vspo/ by folder, so they pick them up as the hololive ones do data/official/.
+      - name: Run updater (VSPO! official)
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && inputs.org != 'official' && hashFiles('vspo/official/*.json') != '' }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ env.VSPO_OFFICIAL_CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY }}
+          ROWS:            ${{ github.event.inputs.rows || 'all' }}
+          BACKFILL:        ${{ github.event.inputs.backfill }}
+          DATA_DIR:        ./vspo
         run: node scripts/update.js
 
       # ── Catalogue ─────────────────────────────────────────────────────────
@@ -118,7 +136,7 @@ jobs:
       # files, so a new song reaches the talent page and the Music page in this
       # same run. A minute or so for every channel; no quota (innertube).
       - name: Fetch music marks (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         env:
           DATA_DIR: ./data
         run: node scripts/fetch-music.js
@@ -136,7 +154,7 @@ jobs:
       # after that it is the week's new streams, a minute or so. A failure
       # here never holds up the data update below.
       - name: Fetch stream games (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         continue-on-error: true
         env:
           DATA_DIR:   ./data
@@ -152,7 +170,7 @@ jobs:
         run: node scripts/fetch-games.js
 
       - name: Build SQLite catalogue (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         env:
           DATA_DIR: ./data
           OUT:      ./data.sqlite
@@ -171,7 +189,7 @@ jobs:
       # SQLite engine and range-reading a 50 MB file to recompute them in every
       # visitor's browser.
       - name: Build popular.json (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         env:
           DB:  ./data.sqlite
           OUT: ./popular.json
@@ -188,7 +206,7 @@ jobs:
       # records the marks), from every talent, answered from the catalogue
       # for the same reason as popular.json.
       - name: Build music.json (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         env:
           DB:  ./data.sqlite
           OUT: ./music.json
@@ -206,7 +224,7 @@ jobs:
       # hololive, so it is split: recent.json (the last 365 days, what the
       # page opens on) and one file per year (build-videos.js).
       - name: Build videos (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         env:
           DB:      ./data.sqlite
           OUT_DIR: ./videos
@@ -226,7 +244,7 @@ jobs:
       # because the boards link to "/<branch>/<slug>" and the catalogue is
       # keyed by channel id.
       - name: Build ranks.json (hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'vspo-official' }}
         env:
           DATA_DIR: ./data
           OUT:      ./ranks.json
