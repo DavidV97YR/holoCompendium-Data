@@ -16,7 +16,7 @@ on:
       org:
         description: 'Which sheet the rows are from'
         type: choice
-        options: [hololive, vspo, official]
+        options: [hololive, vspo, official, vspo-official]
         default: hololive
 
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
@@ -27,6 +27,9 @@ env:
   # channels…): their own sheet, Name / Branch "Official" / YouTube. Their data
   # lives in data/official/, beside the talents' branches.
   OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vScKzfvk6rvz-6GiK2rdVKze_IBumM8rcYKrglVwPIkzy1CPkWNkkEWl01iI6YFng/pub?output=csv'
+  # VSPO!'s official channels (VSPO!, VSPO! EN): their own sheet, laid out as
+  # hololive's. Their data lives in vspo/official/, beside VSPO!'s branches.
+  VSPO_OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaYvF_iWQu3L2Y35nkePHFHynrfYCkpzDAw-Kd0sVOQwKGO2YDMV1AaVFPitgFxA/pub?output=csv'
 
 jobs:
   bootstrap:
@@ -46,10 +49,10 @@ jobs:
       - name: Run bootstrap
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
-          CSV_URL:    ${{ inputs.org == 'vspo' && env.VSPO_CSV_URL || inputs.org == 'official' && env.OFFICIAL_CSV_URL || secrets.CSV_URL }}
+          CSV_URL:    ${{ inputs.org == 'vspo' && env.VSPO_CSV_URL || inputs.org == 'official' && env.OFFICIAL_CSV_URL || inputs.org == 'vspo-official' && env.VSPO_OFFICIAL_CSV_URL || secrets.CSV_URL }}
           ROWS:       ${{ github.event.inputs.rows }}
           FORCE:      ${{ github.event.inputs.force }}
-          OUT_DIR:    ${{ inputs.org == 'vspo' && './vspo' || './data' }}
+          OUT_DIR:    ${{ (inputs.org == 'vspo' || inputs.org == 'vspo-official') && './vspo' || './data' }}
         run: node scripts/bootstrap.js
 
       - name: Commit updated data
