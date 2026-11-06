@@ -27,6 +27,7 @@
  *   "talents": [{
  *     "key": "jp/hakui-koyori", "name": "Hakui Koyori",
  *     "branch": "jp", "avatar": "https://yt3.ggpht.com/...",
+ *     "subs": 2610000,                                 // 0 = no count saved yet
  *     "streak": { "cur": 5, "max": 87 },
  *     "w": { "d1": { streams, read, hours, views, yen, sc, members, gifts }, ... },
  *     "top": { "d1": { "m": <stream>|null, "v": <stream>|"m"|null }, ... }
@@ -48,6 +49,10 @@
  * their chat money — yen, sc, members, gifts — but are not streams: they never
  * count toward streams, hours, views or streaks, and never top the Top Streams
  * board.
+ *
+ * `subs` is the channel's subscriber count as update.js last saved it
+ * (channel.subscriberCount, from Holodex). Only the latest figure is kept, so
+ * it has no windows: the Subscribers board reads it as "now".
  *
  * `top.m` is the window's highest-earning stream and `top.v` its most-viewed.
  * Both are public by construction. When one stream tops both, `v` is the string
@@ -258,6 +263,7 @@ function main() {
         name: CANONICAL[ch.name] || ch.name || slug,
         branch: branch,
         avatar: ch.avatarUrl || '',
+        subs: 0,
         w: {}, top: {},
         _days: new Set(),      // JST day numbers with >= 1 public stream
         _seen: new Set(),      // video ids, so a shared upload is counted once
@@ -265,6 +271,9 @@ function main() {
       for (const w of WINDOWS) { t.w[w] = emptyWindow(); t.top[w] = { m: null, v: null }; }
       byChannel.set(ch.id, t);
     }
+    // Every genmate's file on a shared channel carries the same count; the
+    // largest is kept so one file that has none yet cannot zero it.
+    t.subs = Math.max(t.subs || 0, Number(ch.subscriberCount) || 0);
 
     // Views live in a companion file, keyed by video id.
     const views = (readJSON(fp.replace(/\.json$/, '-views.json')) || {}).views || {};
@@ -373,7 +382,8 @@ function main() {
     yen:     s.yen     + t.w.all.yen,
   }), { streams: 0, hours: 0, yen: 0 });
 
-  console.log('  talents          : ' + talents.length);
+  console.log('  talents          : ' + talents.length
+    + '  (' + talents.filter(t => t.subs > 0).length + ' with a subscriber count)');
   console.log('  streams          : ' + all.streams.toLocaleString());
   console.log('  hours            : ' + Math.round(all.hours).toLocaleString());
   console.log('  superchats       : JPY ' + Math.round(all.yen).toLocaleString());
