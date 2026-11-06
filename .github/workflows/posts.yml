@@ -29,13 +29,14 @@ on:
         type: boolean
         default: false
       # cron-job.org starts this with no inputs, so its runs take the default
-      # and cover every roster: hololive, VSPO! and the official channels. Row
+      # and cover every roster: hololive, VSPO! and both agencies' official
+      # channels. Row
       # numbers belong to one sheet, so a run with
       # anything but "all" has to name which.
       org:
         description: 'Which roster (row numbers need one sheet, not both)'
         type: choice
-        options: [both, hololive, vspo, official]
+        options: [both, hololive, vspo, official, vspo-official]
         default: both
 
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
@@ -46,6 +47,9 @@ env:
   # channels…): their own sheet, Name / Branch "Official" / YouTube. Their data
   # lives in data/official/, beside the talents' branches.
   OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vScKzfvk6rvz-6GiK2rdVKze_IBumM8rcYKrglVwPIkzy1CPkWNkkEWl01iI6YFng/pub?output=csv'
+  # VSPO!'s official channels (VSPO!, VSPO! EN): their own sheet, laid out as
+  # hololive's. Their data lives in vspo/official/, beside VSPO!'s branches.
+  VSPO_OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaYvF_iWQu3L2Y35nkePHFHynrfYCkpzDAw-Kd0sVOQwKGO2YDMV1AaVFPitgFxA/pub?output=csv'
 
 # Posts are written by this workflow and nothing else. Two writers previously
 # caused duplicate video entries in this repo — two jobs discovering the same
@@ -68,7 +72,7 @@ jobs:
         env:
           ROWS: ${{ inputs.rows }}
         run: |
-          echo "::error::Row numbers are per sheet. Pick hololive, vspo or official for rows '$ROWS', or use rows 'all'."
+          echo "::error::Row numbers are per sheet. Pick hololive, vspo, official or vspo-official for rows '$ROWS', or use rows 'all'."
           exit 1
 
       # Everything but the chat folders: they are ~1.8 of the repo's ~1.9 GB and
@@ -90,7 +94,7 @@ jobs:
       # No install step: fetch-posts.js uses only Node builtins.
 
       - name: Fetch community posts (hololive)
-        if: ${{ inputs.org != 'vspo' && inputs.org != 'official' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'official' && inputs.org != 'vspo-official' }}
         env:
           CSV_URL:  ${{ secrets.CSV_URL }}
           DATA_DIR: ./data
@@ -101,7 +105,7 @@ jobs:
       # VSPO! has its own branch files (vspo/posts/jp.json, en.json). Skipped
       # until VSPO! has been bootstrapped: posts are keyed off the talent files.
       - name: Fetch community posts (VSPO!)
-        if: ${{ inputs.org != 'hololive' && inputs.org != 'official' && hashFiles('vspo/*/*.json') != '' }}
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'official' && inputs.org != 'vspo-official' && hashFiles('vspo/*/*.json') != '' }}
         env:
           CSV_URL:  ${{ env.VSPO_CSV_URL }}
           DATA_DIR: ./vspo
@@ -113,10 +117,22 @@ jobs:
       # The official channels: one file for all of them, data/posts/official.json.
       # Skipped until they have been bootstrapped: posts are keyed off their files.
       - name: Fetch community posts (official)
-        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && hashFiles('data/official/*.json') != '' }}
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && inputs.org != 'vspo-official' && hashFiles('data/official/*.json') != '' }}
         env:
           CSV_URL:  ${{ env.OFFICIAL_CSV_URL }}
           DATA_DIR: ./data
+          BRANCHES: official
+          ROWS:     ${{ github.event.inputs.rows || 'all' }}
+          BACKFILL: ${{ github.event.inputs.backfill }}
+        run: node --max-old-space-size=6144 scripts/fetch-posts.js
+
+      # VSPO!'s official channels: one file for both, vspo/posts/official.json.
+      # Skipped until they have been bootstrapped: posts are keyed off their files.
+      - name: Fetch community posts (VSPO! official)
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && inputs.org != 'official' && hashFiles('vspo/official/*.json') != '' }}
+        env:
+          CSV_URL:  ${{ env.VSPO_OFFICIAL_CSV_URL }}
+          DATA_DIR: ./vspo
           BRANCHES: official
           ROWS:     ${{ github.event.inputs.rows || 'all' }}
           BACKFILL: ${{ github.event.inputs.backfill }}
