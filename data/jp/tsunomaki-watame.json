@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/qayRHMxLu8da1JWWG9B7km4vvFZU56OqXiKfHfHJlHJkOuaxG2mDZMNnT4Y7rD5Bx2E6pPP4lDk=s0",
     "subscriberCount": 1730000
   },
-  "lastUpdated": "2026-11-06T10:03:32.999Z",
+  "lastUpdated": "2026-11-06T12:03:41.244Z",
   "videoCount": 3625,
   "videos": [
     {
@@ -16,8 +16,8 @@
       "title": "わためぇ Night Fever!! in your dreams...【ギリギリわるくないわため】 #ギリわる",
       "published": "2026-11-06T10:00:11+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "live",
+      "duration": 20,
+      "status": "past",
       "scheduledStart": "2026-11-06T10:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-06T10:00:11.000Z"
@@ -37,9 +37,10 @@
       "published": "2026-11-05T18:38:58.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-06T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-06T11:59:58.000Z"
     },
     {
       "id": "ko3z615ZvQA",
