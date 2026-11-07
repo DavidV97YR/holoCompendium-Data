@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0",
     "subscriberCount": 2060000
   },
-  "lastUpdated": "2026-11-07T16:30:53.407Z",
+  "lastUpdated": "2026-11-07T18:03:27.853Z",
   "videoCount": 1851,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "published": "2026-11-07T16:24:48.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "unavailable",
       "scheduledStart": "2026-11-07T16:25:00.000Z",
       "actualStart": "2026-11-07T16:26:22.000Z",
       "typedBy": "data-api"
@@ -27,8 +27,8 @@
       "title": "【ホロ鯖ARK】カワウソ先生！試練の洞窟(天帝)や海賊船バトル！なにやら新人ちゃんの香りも...？！【白銀ノエル/ホロライブ】",
       "published": "2026-11-06T01:00:13.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 41089,
+      "status": "past",
       "scheduledStart": "2026-11-07T05:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-07T05:01:15.000Z"

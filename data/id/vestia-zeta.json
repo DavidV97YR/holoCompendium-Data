@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0",
     "subscriberCount": 1060000
   },
-  "lastUpdated": "2026-11-07T16:05:52.682Z",
+  "lastUpdated": "2026-11-07T18:05:58.492Z",
   "videoCount": 1091,
   "videos": [
+    {
+      "id": "bdeQCmODKCU",
+      "title": "【3D】After-Party/ EP LISTENING! #ZETA3DLIVE2026",
+      "published": "2026-11-07T17:34:25+00:00",
+      "type": "stream",
+      "duration": 5717,
+      "status": "past",
+      "scheduledStart": "2026-11-07T14:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-07T14:30:54.000Z"
+    },
     {
       "id": "Gr9kcxof0X4",
       "title": "【3D LIVE】Dance The Night Away! ♪【#ZETA3DLIVE2026】",
@@ -41,17 +52,6 @@
       "duration": 17,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "bdeQCmODKCU",
-      "title": "【3D】After-Party/ EP LISTENING! #ZETA3DLIVE2026",
-      "published": "2026-11-06T10:30:30.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-07T14:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-07T14:30:54.000Z"
     },
     {
       "id": "lUzGRYAD4Yc",
