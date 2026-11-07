@@ -6,9 +6,9 @@
     "slug": "hyakuto-kyoko",
     "avatarUrl": "https://yt3.ggpht.com/ICKlWnk7O6HXu8Y46SJhzgTUvCAwGWaEaGrrrT88VpGOerP9BOpZtYOKZ7MB5fIgAa4_R4u1ncM",
     "bannerUrl": "https://yt3.googleusercontent.com/5rGx5kFR2cFMasmkuErXCCR7b5Q7pw8_EVnCJ6Pn7yjJ43Ek3urOl2UMkOBGmxbG3l-rRFFQAw=s0",
-    "subscriberCount": 337000
+    "subscriberCount": 338000
   },
-  "lastUpdated": "2026-11-07T06:19:43.593Z",
+  "lastUpdated": "2026-11-07T08:10:06.574Z",
   "videoCount": 87,
   "videos": [
     {
@@ -28,9 +28,10 @@
       "published": "2026-11-06T15:30:44.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-07T06:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-07T06:39:01.000Z"
     },
     {
       "id": "Uk9GPvc1pkU",
