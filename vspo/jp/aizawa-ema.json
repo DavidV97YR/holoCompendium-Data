@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0",
     "subscriberCount": 705000
   },
-  "lastUpdated": "2026-11-07T13:31:01.973Z",
+  "lastUpdated": "2026-11-07T14:11:44.682Z",
   "videoCount": 1816,
   "videos": [
     {
@@ -19,7 +19,8 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-11-07T13:14:58.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-07T13:10:00.000Z"
     },
     {
       "id": "S1qTB1LBs84",
@@ -27,7 +28,7 @@
       "published": "2026-11-07T10:23:34.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-07T14:00:00.000Z",
       "typedBy": "innertube"
     },
@@ -124,10 +125,11 @@
       "title": "【ASMR】いつもありがとうね【ぶいすぽっ！/ 藍沢エマ】",
       "published": "2026-11-02T14:17:40.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 546,
+      "status": "past",
       "scheduledStart": "2026-11-07T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-07T13:02:35.000Z"
     },
     {
       "id": "RXJInNxY8L0",
