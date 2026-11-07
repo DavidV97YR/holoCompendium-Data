@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/y8hWElFNjX7rDqZHo0D_379Fu9om7rAk18KeXFOAejA4CcaTqrkrDZugYgpDl1KqrFcjAoFOGnQ=s0",
     "subscriberCount": 1200000
   },
-  "lastUpdated": "2026-11-07T10:01:15.563Z",
+  "lastUpdated": "2026-11-07T12:01:18.462Z",
   "videoCount": 2241,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "エジソン coverd by ロボ子さん ⚙ Cecilia Immergreen",
       "published": "2026-11-07T10:00:08+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 195,
+      "status": "past",
       "scheduledStart": "2026-11-07T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-07T10:00:08.000Z"
     },
     {
       "id": "XLpSn9ilNbU",

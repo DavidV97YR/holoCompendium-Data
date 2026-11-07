@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/sZR7H8ye0MmNeLXg70SypSOH45r_OAgA-IbJrqKRmwk4T1CkWAh5g0n6kGv5t8o29Swcc1DiUg=s0",
     "subscriberCount": 2690000
   },
-  "lastUpdated": "2026-11-07T08:01:59.214Z",
+  "lastUpdated": "2026-11-07T12:02:01.302Z",
   "videoCount": 3327,
   "videos": [
     {
@@ -17,16 +17,17 @@
       "published": "2026-11-07T05:13:51.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-07T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-07T11:03:09.000Z"
     },
     {
       "id": "gZ42MAwjPGA",
       "title": "【#4】Hollow Knight: Silksong【ホロライブ/白上フブキ】",
       "published": "2026-11-05T13:14:18+00:00",
       "type": "stream",
-      "duration": 7533,
+      "duration": 7464,
       "status": "past",
       "scheduledStart": "2026-11-05T11:00:00.000Z",
       "typedBy": "innertube",
