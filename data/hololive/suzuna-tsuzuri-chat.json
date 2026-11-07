@@ -1,7 +1,7 @@
 {
   "channelId": "UCy9mgxB8pn2C4aNK_MPthDQ",
   "channelName": "Suzuna Tsuzuri",
-  "lastUpdated": "2026-11-07T13:06:28.235Z",
+  "lastUpdated": "2026-11-07T15:05:54.192Z",
   "streams": {
     "M9sb87e-IVM": 0,
     "BFlpKxkM7oM": 0,
@@ -228,6 +228,14 @@
       "gift": 1,
       "recv": 10,
       "sent": 10
+    },
+    "xhJzctKLVSk": {
+      "cur": {
+        "¥": 10560,
+        "₩": 2000
+      },
+      "sc": 10,
+      "member": 4
     }
   }
 }
