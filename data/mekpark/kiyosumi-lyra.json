@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 123000
   },
-  "lastUpdated": "2026-11-08T09:02:07.109Z",
+  "lastUpdated": "2026-11-08T10:10:52.244Z",
   "videoCount": 266,
   "videos": [
     {
@@ -26,9 +26,10 @@
       "published": "2026-11-08T06:30:46.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-08T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-08T10:00:25.000Z"
     },
     {
       "id": "315g4O_h5Lc",
@@ -90,8 +91,8 @@
       "title": "【FF5】石板あと半分！！⚠️ネタバレあり【 #UNIT_B / #玲銘ミラ】",
       "published": "2026-11-06T04:37:20.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 17993,
+      "status": "past",
       "scheduledStart": "2026-11-08T05:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-08T04:57:43.000Z"
