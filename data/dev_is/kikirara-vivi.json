@@ -6,11 +6,22 @@
     "slug": "kikirara-vivi",
     "avatarUrl": "https://yt3.ggpht.com/GoNhfGdAjTpVy0Ej1lHd1Sg42DZgyfwMD-E0Kt2QcjWV9RrKVEO9cxPFqOmxjGvB_pUAPugOSg",
     "bannerUrl": "https://yt3.googleusercontent.com/OhMROZwJCIhk-V-y4HylKEVpVyI0SKzQwsD0jslrNa6sAVA_Nrbu7sFzLJCcDDi5Db_QDmtGog=s0",
-    "subscriberCount": 761000
+    "subscriberCount": 762000
   },
-  "lastUpdated": "2026-11-08T12:09:24.760Z",
+  "lastUpdated": "2026-11-08T14:09:33.466Z",
   "videoCount": 1336,
   "videos": [
+    {
+      "id": "v4nKi8VJY1g",
+      "title": "【 #ホロ1GP 】 的中100％！豪運のヴィヴィ！ラッキッキー💸【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published": "2026-11-08T12:20:03+00:00",
+      "type": "stream",
+      "duration": 11329,
+      "status": "past",
+      "scheduledStart": "2026-11-08T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-08T09:00:19.000Z"
+    },
     {
       "id": "mXehF9q1FGI",
       "title": "【#ホロ鯖ARK】ついに２周年迎える！！！初めてのホロ鯖ARK！！＃3２【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
@@ -19,7 +30,8 @@
       "duration": 0,
       "status": "live",
       "scheduledStart": "2026-11-08T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-08T12:12:27.000Z"
     },
     {
       "id": "FI30V2QTYsw",
@@ -29,17 +41,6 @@
       "duration": 16,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "v4nKi8VJY1g",
-      "title": "【 #ホロ1GP 】 的中100％！豪運のヴィヴィ！ラッキッキー💸【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-      "published": "2026-11-07T20:23:56.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-08T09:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-08T09:00:19.000Z"
     },
     {
       "id": "dWHoKOQNJtM",
