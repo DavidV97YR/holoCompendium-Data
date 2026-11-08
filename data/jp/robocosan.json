@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/y8hWElFNjX7rDqZHo0D_379Fu9om7rAk18KeXFOAejA4CcaTqrkrDZugYgpDl1KqrFcjAoFOGnQ=s0",
     "subscriberCount": 1200000
   },
-  "lastUpdated": "2026-11-08T11:00:48.707Z",
+  "lastUpdated": "2026-11-08T12:01:18.011Z",
   "videoCount": 2242,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "【メンバー限定】最近のおしゃべりちよちよ【ホロライブ/ ロボ子さん 】",
       "published": "2026-11-08T10:43:52.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 2392,
+      "status": "past",
       "actualStart": "2026-11-08T10:50:50.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-08T10:50:00.000Z"
     },
     {
       "id": "5Fg6ldWqESI",
