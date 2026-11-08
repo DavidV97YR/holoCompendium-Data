@@ -1,7 +1,7 @@
 {
   "channelId": "UCKSpM183c85d5V2cW5qaUjA",
   "channelName": "Narin Mikure",
-  "lastUpdated": "2026-11-01T09:02:12.777Z",
+  "lastUpdated": "2026-11-08T07:03:31.586Z",
   "streams": {
     "0rNpj_axApY": {
       "cur": {
@@ -2056,6 +2056,27 @@
       "gift": 2,
       "recv": 25,
       "sent": 25
+    },
+    "TVdtaltVAGc": {
+      "cur": {
+        "₩": 13000,
+        "₱": 100,
+        "¥": 38600,
+        "NZ$": 10,
+        "HK$": 25,
+        "$": 40,
+        "IDR": 40000,
+        "NT$": 75,
+        "A$": 100,
+        "MYR": 25
+      },
+      "sc": 22,
+      "sticker": 1,
+      "member": 2,
+      "milestone": 5,
+      "gift": 4,
+      "recv": 50,
+      "sent": 50
     }
   }
 }
