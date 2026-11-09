@@ -1,6 +1,9 @@
 name: Full Recheck
 
-# Runs backfill mode against every channel. Triggered externally by
+# Runs backfill mode against every channel: both agencies' members and their
+# official channels (hololive, hololive English, the unit channels, VSPO!…),
+# so a premiered MV saved as a stream is re-typed on official channels too
+# (2026-11-09: FLOW GLOW's BOUNCE BACK MV sat in Past Streams). Triggered externally by
 # cron-job.org hitting the workflow_dispatch webhook — same pattern as
 # fetch-views.yml — rather than GitHub's native `schedule:` trigger, which
 # is best-effort and can run late or get skipped entirely during high-load
@@ -16,13 +19,19 @@ on:
       org:
         description: 'Which roster (cron-job.org runs take the default: both)'
         type: choice
-        options: [both, hololive, vspo]
+        # both = all four rosters: the two agencies' members and their
+        # official channels.
+        options: [both, hololive, vspo, official, vspo-official]
         default: both
 
 # The VSPO! roster: the published CSV of the VSPO! talent sheet. hololive's
 # sheet stays in the CSV_URL secret. VSPO! data lives in vspo/, beside data/.
 env:
   VSPO_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSgDaNfheUYWaSoid-ehW1RRHV1PwXq4rdU6SpYco9MPOrCQRyVQLR5hErxBWYH-fguz3iCMbYmo2kM/pub?gid=105975973&single=true&output=csv'
+  # The official channels' sheets, as update.yml has them: hololive's into
+  # data/official/, VSPO!'s into vspo/official/.
+  OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vScKzfvk6rvz-6GiK2rdVKze_IBumM8rcYKrglVwPIkzy1CPkWNkkEWl01iI6YFng/pub?output=csv'
+  VSPO_OFFICIAL_CSV_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaYvF_iWQu3L2Y35nkePHFHynrfYCkpzDAw-Kd0sVOQwKGO2YDMV1AaVFPitgFxA/pub?output=csv'
 
 jobs:
   full-recheck:
@@ -42,7 +51,7 @@ jobs:
           node-version: '20'
 
       - name: Run full recheck (backfill mode, all channels, hololive)
-        if: ${{ inputs.org != 'vspo' }}
+        if: ${{ inputs.org != 'vspo' && inputs.org != 'official' && inputs.org != 'vspo-official' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ secrets.CSV_URL }}
@@ -53,10 +62,34 @@ jobs:
         run: node scripts/update.js
 
       - name: Run full recheck (backfill mode, all channels, VSPO!)
-        if: ${{ inputs.org != 'hololive' && hashFiles('vspo/*/*.json') != '' }}
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'official' && inputs.org != 'vspo-official' && hashFiles('vspo/*/*.json') != '' }}
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
           CSV_URL:         ${{ env.VSPO_CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY_RECHECK }}
+          ROWS:            all
+          BACKFILL:        'true'
+          DATA_DIR:        ./vspo
+        run: node scripts/update.js
+
+      # The official channels, as update.yml's official steps (skipped until
+      # they have been bootstrapped).
+      - name: Run full recheck (backfill mode, official channels, hololive)
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && inputs.org != 'vspo-official' && hashFiles('data/official/*.json') != '' }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ env.OFFICIAL_CSV_URL }}
+          YT_API_KEY:      ${{ secrets.YT_API_KEY_RECHECK }}
+          ROWS:            all
+          BACKFILL:        'true'
+          DATA_DIR:        ./data
+        run: node scripts/update.js
+
+      - name: Run full recheck (backfill mode, official channels, VSPO!)
+        if: ${{ inputs.org != 'hololive' && inputs.org != 'vspo' && inputs.org != 'official' && hashFiles('vspo/official/*.json') != '' }}
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+          CSV_URL:         ${{ env.VSPO_OFFICIAL_CSV_URL }}
           YT_API_KEY:      ${{ secrets.YT_API_KEY_RECHECK }}
           ROWS:            all
           BACKFILL:        'true'
