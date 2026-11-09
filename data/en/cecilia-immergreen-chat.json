@@ -1,7 +1,7 @@
 {
   "channelId": "UCvN5h1ShZtc7nly3pezRayg",
   "channelName": "Cecilia Immergreen",
-  "lastUpdated": "2026-11-05T01:01:45.209Z",
+  "lastUpdated": "2026-11-09T01:02:01.936Z",
   "streams": {
     "L-MQsH7kNzE": {
       "cur": {
@@ -6981,6 +6981,21 @@
       "gift": 1,
       "recv": 10,
       "sent": 10
+    },
+    "3mu5oQREf0U": {
+      "cur": {
+        "CA$": 15,
+        "$": 128.98,
+        "€": 45,
+        "¥": 2200,
+        "SEK": 50,
+        "₹": 200,
+        "RSD": 500,
+        "ARS": 200
+      },
+      "sc": 31,
+      "member": 3,
+      "milestone": 50
     }
   }
 }
