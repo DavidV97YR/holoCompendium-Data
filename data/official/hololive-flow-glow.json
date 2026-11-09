@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/RQBOqavcerBIlG4fAkymThsnnfVneyQclTaOH71PDn0eUkjLTyYFn8sUyZrdvJM4sSN9_Wk5HQ=s0",
     "subscriberCount": 385000
   },
-  "lastUpdated": "2026-11-09T12:31:04.949Z",
+  "lastUpdated": "2026-11-09T14:14:37.482Z",
   "videoCount": 691,
   "videos": [
+    {
+      "id": "48hUYLrV8bE",
+      "title": "【📢 重大発表 🔥】 BOUNCE BACK！【#FG2周年】",
+      "published": "2026-11-09T12:18:04+00:00",
+      "type": "stream",
+      "duration": 4373,
+      "status": "past",
+      "scheduledStart": "2026-11-09T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-09T10:57:54.000Z"
+    },
     {
       "id": "Mfcj1AdnzhQ",
       "title": "FLOW GLOW / BOUNCE BACK！【Official Music Video】",
@@ -56,10 +67,11 @@
       "title": "【#FG2周年 アンコール＆アフタートーク】感動の余韻そのままに…2周年配信の裏側、５人で語り尽くします！",
       "published": "2026-11-06T11:09:28.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 2149,
+      "status": "past",
       "actualStart": "2026-11-09T12:30:12.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-09T12:30:00.000Z"
     },
     {
       "id": "niQ20RlvkX4",
@@ -69,17 +81,6 @@
       "duration": 37,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "48hUYLrV8bE",
-      "title": "【📢 重大発表 🔥】 BOUNCE BACK！【#FG2周年】",
-      "published": "2026-11-06T03:05:32.000Z",
-      "type": "stream",
-      "duration": 4373,
-      "status": "past",
-      "scheduledStart": "2026-11-09T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-09T10:57:54.000Z"
     },
     {
       "id": "bo1peSPsa2U",
