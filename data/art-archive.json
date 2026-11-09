@@ -2593,11 +2593,20 @@
           "width": 2560,
           "height": 1440,
           "bytes": 964708
+        },
+        {
+          "date": "2026-11-09",
+          "key": "official/hololive-flow-glow/2026-11-09/banner.webp",
+          "src": "https://yt3.googleusercontent.com/mkl8qX1giqssXYi4bGKGrjNje9_JK7FMaHK1h0Pz1u9gFjEOYPr5fEVOB-NJDR6vJbGxbg7M",
+          "sha256": "2f7a490f0ecfd9e9859a6b4c8cf71820c8787eb1c4b6b7c04d9bb42ecf82d054",
+          "width": 2560,
+          "height": 1440,
+          "bytes": 1593782
         }
       ],
       "latest": {
         "avatar": "official/hololive-flow-glow/2026-10-22/avatar.webp",
-        "banner": "official/hololive-flow-glow/2026-10-22/banner.webp"
+        "banner": "official/hololive-flow-glow/2026-11-09/banner.webp"
       }
     },
     "official/hololive-indonesia": {
@@ -2688,5 +2697,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-09T14:18:00.837Z"
+  "lastUpdated": "2026-11-09T16:17:24.475Z"
 }
