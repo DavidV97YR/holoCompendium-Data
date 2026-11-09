@@ -8,28 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/m4hI8Er_vGrR-Ycxic0Sahx2uUOaIHflx9BTDJe_6HruUGOIHwZjrhwR8LGAJlYaR5o7_Ks=s0",
     "subscriberCount": 1170000
   },
-  "lastUpdated": "2026-11-09T06:08:38.659Z",
+  "lastUpdated": "2026-11-09T10:06:25.319Z",
   "videoCount": 1718,
   "videos": [
+    {
+      "id": "BUt6If2a6ic",
+      "title": "God knows... / 姫森ルーナ (cover)【#姫森ルーナ生誕ロックLIVE】",
+      "published": "2026-11-09T09:00:09+00:00",
+      "type": "video",
+      "duration": 279,
+      "status": "past",
+      "scheduledStart": "2026-11-09T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-09T09:00:09.000Z"
+    },
     {
       "id": "ZYw6Nedy9KQ",
       "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃３【姫森ルーナ/ホロライブ】",
       "published": "2026-11-09T04:01:49.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-09T10:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "BUt6If2a6ic",
-      "title": "God knows / 姫森ルーナ (cover)【#姫森ルーナ生誕ロックLIVE】",
-      "published": "2026-11-08T18:10:27.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-09T09:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-09T09:57:48.000Z"
     },
     {
       "id": "XloQPhUDsKk",

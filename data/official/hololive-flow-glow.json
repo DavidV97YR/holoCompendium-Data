@@ -6,11 +6,22 @@
     "slug": "hololive-flow-glow",
     "avatarUrl": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs",
     "bannerUrl": "https://yt3.googleusercontent.com/RQBOqavcerBIlG4fAkymThsnnfVneyQclTaOH71PDn0eUkjLTyYFn8sUyZrdvJM4sSN9_Wk5HQ=s0",
-    "subscriberCount": 383000
+    "subscriberCount": 384000
   },
-  "lastUpdated": "2026-11-09T03:32:34.864Z",
+  "lastUpdated": "2026-11-09T10:16:32.617Z",
   "videoCount": 689,
   "videos": [
+    {
+      "id": "6kO5HJKQ8GI",
+      "title": "【新ボイス】楽しい夕暮れから、落ち着いた夜へ",
+      "published": "2026-11-09T09:00:08+00:00",
+      "type": "video",
+      "duration": 133,
+      "status": "past",
+      "scheduledStart": "2026-11-09T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-09T09:00:08.000Z"
+    },
     {
       "id": "B_e9L3zpgpk",
       "title": "綺々羅々ヴィヴィ袋叩き！？",
@@ -37,16 +48,6 @@
       "duration": 37,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "6kO5HJKQ8GI",
-      "title": "【新ボイス】楽しい夕暮れから、落ち着いた夜へ",
-      "published": "2026-11-06T06:24:52.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-09T09:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "48hUYLrV8bE",
@@ -282,8 +283,8 @@
       "title": "FLOW GLOW Station",
       "published": "2026-10-14T09:51:33+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 2246266,
+      "status": "past",
       "scheduledStart": "2026-10-14T09:51:32.000Z",
       "actualStart": "2026-10-14T09:52:41.000Z"
     },
