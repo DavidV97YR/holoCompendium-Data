@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/RQBOqavcerBIlG4fAkymThsnnfVneyQclTaOH71PDn0eUkjLTyYFn8sUyZrdvJM4sSN9_Wk5HQ=s0",
     "subscriberCount": 385000
   },
-  "lastUpdated": "2026-11-09T12:14:09.028Z",
-  "videoCount": 689,
+  "lastUpdated": "2026-11-09T12:31:04.949Z",
+  "videoCount": 691,
   "videos": [
+    {
+      "id": "Mfcj1AdnzhQ",
+      "title": "FLOW GLOW / BOUNCE BACK！【Official Music Video】",
+      "published": "2026-11-09T12:11:23.000Z",
+      "type": "stream",
+      "duration": 241,
+      "status": "past",
+      "scheduledStart": "2026-11-09T12:11:12.000Z",
+      "actualStart": "2026-11-09T12:11:23.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "6kO5HJKQ8GI",
       "title": "【新ボイス】楽しい夕暮れから、落ち着いた夜へ",
@@ -39,6 +50,16 @@
       "duration": 24,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "Y4DLWUtPsYM",
+      "title": "【#FG2周年 アンコール＆アフタートーク】感動の余韻そのままに…2周年配信の裏側、５人で語り尽くします！",
+      "published": "2026-11-06T11:09:28.000Z",
+      "type": "member",
+      "duration": 0,
+      "status": "live",
+      "actualStart": "2026-11-09T12:30:12.000Z",
+      "typedBy": "innertube"
     },
     {
       "id": "niQ20RlvkX4",
