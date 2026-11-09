@@ -6,9 +6,9 @@
     "slug": "hololive-flow-glow",
     "avatarUrl": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs",
     "bannerUrl": "https://yt3.googleusercontent.com/RQBOqavcerBIlG4fAkymThsnnfVneyQclTaOH71PDn0eUkjLTyYFn8sUyZrdvJM4sSN9_Wk5HQ=s0",
-    "subscriberCount": 384000
+    "subscriberCount": 385000
   },
-  "lastUpdated": "2026-11-09T10:16:32.617Z",
+  "lastUpdated": "2026-11-09T12:14:09.028Z",
   "videoCount": 689,
   "videos": [
     {
@@ -54,10 +54,11 @@
       "title": "【📢 重大発表 🔥】 BOUNCE BACK！【#FG2周年】",
       "published": "2026-11-06T03:05:32.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 4373,
+      "status": "past",
       "scheduledStart": "2026-11-09T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-09T10:57:54.000Z"
     },
     {
       "id": "bo1peSPsa2U",
