@@ -1,7 +1,7 @@
 {
   "channelId": "UCuI_opAVX6qbxZY-a-AxFuQ",
   "channelName": "Koganei Niko",
-  "lastUpdated": "2026-11-07T13:01:38.384Z",
+  "lastUpdated": "2026-11-09T11:01:44.823Z",
   "streams": {
     "6HHWbh1g7iQ": {
       "e": "noreplay",
@@ -3241,6 +3241,26 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "WYg7Qpux_mA": {
+      "cur": {
+        "¥": 177236,
+        "NT$": 4300,
+        "$": 35.25,
+        "₱": 125,
+        "A$": 5,
+        "HK$": 178,
+        "€": 5.99,
+        "CA$": 5,
+        "THB": 250,
+        "₩": 5000
+      },
+      "sc": 90,
+      "member": 6,
+      "milestone": 28,
+      "gift": 5,
+      "recv": 75,
+      "sent": 75
     }
   }
 }
