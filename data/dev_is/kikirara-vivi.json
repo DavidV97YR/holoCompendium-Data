@@ -8,16 +8,27 @@
     "bannerUrl": "https://yt3.googleusercontent.com/qPXD781sqeNluDQsPb46qungR9oxGwWs5Ot9-jWJl_WGZ95kFGFvAETkqJAbbjcimmH9Lvu6jA=s0",
     "subscriberCount": 763000
   },
-  "lastUpdated": "2026-11-10T11:00:38.764Z",
+  "lastUpdated": "2026-11-10T12:09:17.532Z",
   "videoCount": 1341,
   "videos": [
+    {
+      "id": "qPmmRBA9yHE",
+      "title": "【凸待ち】重大告知あり!㊗️2周年突発凸待ち!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "published": "2026-11-10T11:04:49+00:00",
+      "type": "stream",
+      "duration": 3640,
+      "status": "past",
+      "scheduledStart": "2026-11-10T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-10T10:00:24.000Z"
+    },
     {
       "id": "wdpiw6KsLMU",
       "title": "【original MV】ビビッドキュート【綺々羅々ヴィヴィ/hololive】",
       "published": "2026-11-10T11:00:19.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 178,
+      "status": "past",
       "scheduledStart": "2026-11-10T11:00:00.000Z",
       "actualStart": "2026-11-10T11:00:19.000Z",
       "typedBy": "data-api"
@@ -30,17 +41,6 @@
       "duration": 58,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "qPmmRBA9yHE",
-      "title": "【凸待ち】重大告知あり!㊗️2周年突発凸待ち!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
-      "published": "2026-11-10T06:27:54.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-10T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-10T10:00:24.000Z"
     },
     {
       "id": "i7vpe8NZF-c",
