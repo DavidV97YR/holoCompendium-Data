@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/NYbjtvspd82kF5napVNMe9O8WhQ6HQTsk9hZkbWiJM-oAU9gAMtjXZXs_LHeKrjCZ3-sVEXNFn4=s0",
     "subscriberCount": 630000
   },
-  "lastUpdated": "2026-11-10T16:01:11.662Z",
+  "lastUpdated": "2026-11-10T18:12:32.604Z",
   "videoCount": 748,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "〖 メン限 〗おーい。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗",
       "published": "2026-11-10T15:51:53.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 3305,
+      "status": "past",
       "actualStart": "2026-11-10T15:55:16.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-10T15:55:00.000Z"
     },
     {
       "id": "oJH8YBFHDyE",
