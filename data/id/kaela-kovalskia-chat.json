@@ -1,7 +1,7 @@
 {
   "channelId": "UCZLZ8Jjx_RN2CXloOmgTHVg",
   "channelName": "Kaela Kovalskia",
-  "lastUpdated": "2026-11-09T11:03:46.899Z",
+  "lastUpdated": "2026-11-10T11:01:35.744Z",
   "streams": {
     "o-FEa_9Sgmk": {
       "cur": {
@@ -30172,6 +30172,28 @@
       "sc": 20,
       "member": 2,
       "milestone": 9
+    },
+    "CVVyTYmmgN8": {
+      "cur": {
+        "$": 133.93,
+        "MX$": 150,
+        "₱": 175,
+        "IDR": 290000,
+        "THB": 69,
+        "₩": 115000,
+        "HK$": 80,
+        "MYR": 6,
+        "NT$": 150,
+        "¥": 520,
+        "A$": 17,
+        "€": 2
+      },
+      "sc": 93,
+      "member": 11,
+      "milestone": 19,
+      "gift": 10,
+      "recv": 73,
+      "sent": 73
     }
   }
 }
