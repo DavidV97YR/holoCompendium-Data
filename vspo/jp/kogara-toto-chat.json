@@ -1,7 +1,7 @@
 {
   "channelId": "UCgTzsBI0DIRopMylJEDqnog",
   "channelName": "Kogara Toto",
-  "lastUpdated": "2026-11-10T17:05:26.797Z",
+  "lastUpdated": "2026-11-10T18:02:06.236Z",
   "streams": {
     "OXKSKEz4Siw": {
       "cur": {
@@ -8192,8 +8192,13 @@
       "milestone": 1
     },
     "A4WNrUdShPs": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 27250
+      },
+      "sc": 10,
+      "sticker": 1,
+      "member": 1,
+      "milestone": 1
     }
   }
 }
