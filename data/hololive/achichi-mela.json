@@ -8,8 +8,8 @@
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0",
     "subscriberCount": 414000
   },
-  "lastUpdated": "2026-11-10T18:23:17.245Z",
-  "videoCount": 83,
+  "lastUpdated": "2026-11-10T22:00:45.888Z",
+  "videoCount": 84,
   "videos": [
     {
       "id": "4rV1e2WPhQc",
@@ -461,6 +461,17 @@
       "type": "short",
       "duration": 26,
       "status": "past",
+      "typedBy": "data-api"
+    },
+    {
+      "id": "q3gGvOxaJ7o",
+      "title": "【のじゃEnglish】ENGLISH STUDY noja!【ホロライブ/アソビ★まわり隊！/熱千めら】",
+      "published": "2026-10-16T06:12:52.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-11-10T22:00:00.000Z",
+      "actualStart": "2026-11-10T21:58:43.000Z",
       "typedBy": "data-api"
     },
     {
