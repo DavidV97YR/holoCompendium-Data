@@ -8,28 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/_bW2F17SBjEfQVh6r1TwyBvuLDl0ANqH5pXxpWh6GNXIQMtR0VMhx_CZF0R8PEmpqHd5hvkWY6c=s0",
     "subscriberCount": 581000
   },
-  "lastUpdated": "2026-11-10T12:31:10.712Z",
+  "lastUpdated": "2026-11-10T14:11:47.444Z",
   "videoCount": 1601,
   "videos": [
     {
-      "id": "r5bUjpKzJ7Q",
-      "title": "【VALORANT】いつ見ても久しぶりだね/うるは先輩、レイドさん、うるかさん、ゆえさん【ぶいすぽっ！/英リサ】",
-      "published": "2026-11-10T12:17:23.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
-    },
-    {
       "id": "7hdhnZmY2BU",
       "title": "【APEX】ちょっと日にちが空いてしもうた/のあちゃん【ぶいすぽっ！/英リサ】",
-      "published": "2026-11-10T06:40:26.000Z",
+      "published": "2026-11-10T12:25:51+00:00",
       "type": "stream",
       "duration": 19604,
       "status": "past",
       "scheduledStart": "2026-11-10T06:40:00.000Z",
       "actualStart": "2026-11-10T06:42:02.000Z",
       "typedBy": "data-api"
+    },
+    {
+      "id": "r5bUjpKzJ7Q",
+      "title": "【VALORANT】いつ見ても久しぶりだね/うるは先輩、レイドさん、うるかさん、ゆえさん【ぶいすぽっ！/英リサ】",
+      "published": "2026-11-10T12:17:23.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-10T12:30:00.000Z",
+      "actualStart": "2026-11-10T12:33:08.000Z"
     },
     {
       "id": "lUb7PInrO30",

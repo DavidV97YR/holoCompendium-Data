@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 123000
   },
-  "lastUpdated": "2026-11-10T12:31:05.116Z",
+  "lastUpdated": "2026-11-10T14:09:48.128Z",
   "videoCount": 273,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "duration": 60,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "Vv4H0eDWzqQ",
+      "title": "ビッグブリッヂの死闘 / 玲銘ミラ【弾いてみた】",
+      "published": "2026-11-10T12:10:08+00:00",
+      "type": "video",
+      "duration": 144,
+      "status": "past",
+      "scheduledStart": "2026-11-10T12:10:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-10T12:10:08.000Z"
     },
     {
       "id": "28bsaCZQFpI",
@@ -41,16 +52,6 @@
       "scheduledStart": "2026-11-10T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-10T09:02:18.000Z"
-    },
-    {
-      "id": "Vv4H0eDWzqQ",
-      "title": "ビッグブリッヂの死闘 / 玲銘ミラ【弾いてみた】",
-      "published": "2026-11-10T06:34:01.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-10T12:10:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "zqlwlpHHQ4A",

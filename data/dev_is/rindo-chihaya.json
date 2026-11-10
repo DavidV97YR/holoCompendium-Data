@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/JYdHUkJEptGW7PdTHA0dfc6QgB3wzB3taNqhZXzbiGcUlKCEdT-KRPga81pyv_DT_aKGcqTrPNM=s0",
     "subscriberCount": 629000
   },
-  "lastUpdated": "2026-11-10T13:30:41.302Z",
+  "lastUpdated": "2026-11-10T14:09:35.193Z",
   "videoCount": 883,
   "videos": [
     {
@@ -19,16 +19,19 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-11-10T13:25:39.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-10T13:25:00.000Z"
     },
     {
       "id": "BZgPDZ5tjIE",
       "title": "【メン限】すきなことをしてしゃべるるるる【#輪堂千速 / #hololive #FLOWGLOW 】",
       "published": "2026-11-10T12:22:11.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 3029,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-10T12:30:00.000Z",
+      "actualStart": "2026-11-10T12:33:57.000Z"
     },
     {
       "id": "bd5nR7lYsU8",

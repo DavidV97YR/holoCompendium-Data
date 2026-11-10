@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/m4hI8Er_vGrR-Ycxic0Sahx2uUOaIHflx9BTDJe_6HruUGOIHwZjrhwR8LGAJlYaR5o7_Ks=s0",
     "subscriberCount": 1170000
   },
-  "lastUpdated": "2026-11-10T08:03:43.012Z",
+  "lastUpdated": "2026-11-10T14:04:09.169Z",
   "videoCount": 1719,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-11-10T06:08:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-10T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-10T12:58:47.000Z"
     },
     {
       "id": "ZYw6Nedy9KQ",
@@ -48,7 +49,7 @@
       "title": "【 ゼルダの伝説 時のオカリナ 】時オカリメイク版で遊ぶのら！！！The Legend of Zelda ＃２【姫森ルーナ/ホロライブ】",
       "published": "2026-11-08T15:52:49+00:00",
       "type": "stream",
-      "duration": 27069,
+      "duration": 26992,
       "status": "past",
       "scheduledStart": "2026-11-08T08:00:00.000Z",
       "typedBy": "innertube",
