@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5rGx5kFR2cFMasmkuErXCCR7b5Q7pw8_EVnCJ6Pn7yjJ43Ek3urOl2UMkOBGmxbG3l-rRFFQAw=s0",
     "subscriberCount": 342000
   },
-  "lastUpdated": "2026-11-11T12:09:56.145Z",
+  "lastUpdated": "2026-11-11T14:10:35.077Z",
   "videoCount": 96,
   "videos": [
     {
@@ -28,9 +28,10 @@
       "published": "2026-11-11T10:08:44.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-11T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-11T12:59:41.000Z"
     },
     {
       "id": "vK_G9vi58ok",
@@ -48,7 +49,7 @@
       "title": "【OW】\"最狂\"の暖色さんチームで突撃だーーー!!  | Overwatch【百灯キョーコ/ホロライブ/アソビ★まわり隊!】",
       "published": "2026-11-09T15:18:03+00:00",
       "type": "stream",
-      "duration": 9201,
+      "duration": 9340,
       "status": "past",
       "scheduledStart": "2026-11-09T12:30:00.000Z",
       "typedBy": "innertube",
