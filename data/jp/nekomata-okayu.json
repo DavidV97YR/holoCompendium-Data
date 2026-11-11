@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0",
     "subscriberCount": 2150000
   },
-  "lastUpdated": "2026-11-11T15:01:09.125Z",
+  "lastUpdated": "2026-11-11T16:03:07.622Z",
   "videoCount": 1908,
   "videos": [
     {
@@ -19,15 +19,16 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-11-11T14:40:51.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-11T14:35:05.000Z"
     },
     {
       "id": "2c2qahpayxk",
       "title": "【 #ホロゆび相撲 】最強決定戦🔥👈 優勝は誰の手に‼️💥✦| Nintendo Switch Sports Resort【 ホロライブ 】",
-      "published": "2026-11-10T12:21:12.000Z",
+      "published": "2026-11-11T14:20:15+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 11413,
+      "status": "past",
       "scheduledStart": "2026-11-11T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-11T11:01:04.000Z"
