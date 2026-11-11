@@ -8,15 +8,15 @@
     "bannerUrl": "https://yt3.googleusercontent.com/IfFOR2qsXn8NaqpzsoxL_vU2WXEc-q8C1VRbVtUYXE-5ehhRJybRbLrC9_h3Bd42OSPJ2Xz59Q=s0",
     "subscriberCount": 1030000
   },
-  "lastUpdated": "2026-11-11T18:11:35.200Z",
+  "lastUpdated": "2026-11-11T18:24:08.792Z",
   "videoCount": 1862,
   "videos": [
     {
       "id": "q8P-DdlWIcU",
       "title": "【 League of Legends 】本日の2-2-0  #LTK  【 ぶいすぽっ！/橘ひなの 】",
-      "published": "2026-11-11T16:45:01+00:00",
+      "published": "2026-11-11T16:45:01Z",
       "type": "stream",
-      "duration": 12054,
+      "duration": 12060,
       "status": "past",
       "scheduledStart": "2026-11-11T13:15:00.000Z",
       "actualStart": "2026-11-11T13:13:19.000Z",
@@ -27,7 +27,7 @@
       "title": "【 #橘ひなの生誕祭2026 】今年も無事に生まれました【 ぶいすぽっ！/橘ひなの 】",
       "published": "2026-11-11T12:06:29+00:00",
       "type": "stream",
-      "duration": 7128,
+      "duration": 7133,
       "status": "past",
       "scheduledStart": "2026-11-11T10:00:00.000Z",
       "typedBy": "innertube",
@@ -37,7 +37,7 @@
       "id": "brhQkxxZbxM",
       "title": "スーパーときめきヒロイン / 橘ひなの",
       "published": "2026-11-11T12:00:07.000Z",
-      "type": "stream",
+      "type": "video",
       "duration": 243,
       "status": "past",
       "scheduledStart": "2026-11-11T12:00:00.000Z",
@@ -18569,7 +18569,7 @@
       "published": "2020-08-17T14:21:27Z",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "upcoming",
       "scheduledStart": "2026-11-10T15:00:00.000Z"
     },
     {
