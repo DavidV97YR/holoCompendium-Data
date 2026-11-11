@@ -1,7 +1,7 @@
 {
   "channelId": "UCyLGcqYs7RsBb3L0SJfzGYA",
   "channelName": "Kaga Sumire",
-  "lastUpdated": "2026-11-11T12:03:03.464Z",
+  "lastUpdated": "2026-11-11T15:01:59.049Z",
   "streams": {
     "U9YP0EIdyTI": {
       "cur": {
@@ -11483,6 +11483,16 @@
       "gift": 1,
       "recv": 10,
       "sent": 10
+    },
+    "GDGi01EFktw": {
+      "cur": {
+        "¥": 5330,
+        "NT$": 225,
+        "HK$": 10
+      },
+      "sc": 11,
+      "sticker": 1,
+      "member": 6
     }
   }
 }
