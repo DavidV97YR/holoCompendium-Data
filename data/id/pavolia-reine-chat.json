@@ -1,7 +1,7 @@
 {
   "channelId": "UChgTyjG-pdNvxxhdsXfHQ5Q",
   "channelName": "Pavolia Reine",
-  "lastUpdated": "2026-11-11T20:01:24.721Z",
+  "lastUpdated": "2026-11-11T21:01:29.872Z",
   "streams": {
     "ZlnsUgMrOIc": {
       "milestone": 1
@@ -23635,8 +23635,11 @@
       "sc": 2
     },
     "wK5_1tPTAr4": {
-      "e": "noreplay",
-      "n": 4
+      "cur": {
+        "$": 60
+      },
+      "sc": 2,
+      "milestone": 8
     }
   }
 }
