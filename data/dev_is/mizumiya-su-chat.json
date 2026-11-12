@@ -1,7 +1,7 @@
 {
   "channelId": "UCjk2nKmHzgH5Xy-C5qYRd5A",
   "channelName": "Mizumiya Su",
-  "lastUpdated": "2026-11-11T19:02:27.724Z",
+  "lastUpdated": "2026-11-12T15:02:39.501Z",
   "streams": {
     "0-pvHnugGwo": {
       "cur": {
@@ -9153,6 +9153,18 @@
       "gift": 3,
       "recv": 11,
       "sent": 11
+    },
+    "Q94508R1j1M": {
+      "cur": {
+        "¥": 25700,
+        "₱": 250
+      },
+      "sc": 25,
+      "member": 3,
+      "milestone": 3,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     }
   }
 }
