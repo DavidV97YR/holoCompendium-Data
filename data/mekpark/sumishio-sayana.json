@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 74200
   },
-  "lastUpdated": "2026-11-12T07:32:05.642Z",
+  "lastUpdated": "2026-11-12T08:09:30.185Z",
   "videoCount": 378,
   "videos": [
+    {
+      "id": "AMcn-hwzz9g",
+      "title": "【ゼルダの伝説 時のオカリナ】完全初見！すべての賢者が揃った今、最後の戦いに挑む！【最終回#9】#ひなみ通信　#由比河ひなみ",
+      "published": "2026-11-12T07:11:43+00:00",
+      "type": "stream",
+      "duration": 14308,
+      "status": "past",
+      "scheduledStart": "2026-11-12T03:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-12T03:01:03.000Z"
+    },
     {
       "id": "cm5rah1w8hY",
       "title": "【 ドラゴンボールZ:KAKAROT 】#6 セル倒して遂に魔人ブウ編突入！※ネタバレあり　#墨汐さやな ＃さやな時間",
@@ -31,17 +42,6 @@
       "scheduledStart": "2026-11-11T09:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-11T09:01:13.000Z"
-    },
-    {
-      "id": "AMcn-hwzz9g",
-      "title": "【ゼルダの伝説 時のオカリナ】完全初見！すべての賢者が揃った今、最後の戦いに挑む！【最終回#9】#ひなみ通信　#由比河ひなみ",
-      "published": "2026-11-11T14:43:55.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-12T03:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-12T03:01:03.000Z"
     },
     {
       "id": "qu2o5J8212o",
@@ -143,9 +143,10 @@
       "published": "2026-11-09T06:14:13.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-12T08:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-12T08:00:08.000Z"
     },
     {
       "id": "mG-6baOPBGE",
