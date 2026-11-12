@@ -1,7 +1,7 @@
 {
   "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
   "channelName": "Ninomae Ina'nis",
-  "lastUpdated": "2026-11-03T05:02:59.485Z",
+  "lastUpdated": "2026-11-12T07:01:55.788Z",
   "streams": {
     "RpX4HlK70jk": {
       "cur": {
@@ -16447,6 +16447,19 @@
       "gift": 1,
       "recv": 10,
       "sent": 10
+    },
+    "vkM-6kWOSGE": {
+      "cur": {
+        "$": 39.99,
+        "SGD": 10,
+        "CA$": 2
+      },
+      "sc": 4,
+      "member": 5,
+      "milestone": 73,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     }
   }
 }
