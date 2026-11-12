@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/ghoYlXd408DVQ66H8KzBlryJcG4jhDszDWjs41x_6oInlXQkP6YGppx35rlk-uj02tLqLJS27Q=s0",
     "subscriberCount": 2930000
   },
-  "lastUpdated": "2026-11-12T10:01:34.589Z",
+  "lastUpdated": "2026-11-12T12:01:44.301Z",
   "videoCount": 1191,
   "videos": [
+    {
+      "id": "T1BY7ClURCQ",
+      "title": "【冒頭無料配信】HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 福岡公演",
+      "published": "2026-11-12T10:54:16+00:00",
+      "type": "stream",
+      "duration": 4199,
+      "status": "past",
+      "scheduledStart": "2026-11-12T09:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-12T09:40:05.000Z"
+    },
     {
       "id": "DzcO0JF7GbQ",
       "title": "【2時間耐久】星街すいせい『Once Upon a Stellar』開場BGM【作業用・ライブ待機用】",
@@ -19,17 +30,6 @@
       "duration": 7326,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "T1BY7ClURCQ",
-      "title": "【冒頭無料配信】HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 福岡公演",
-      "published": "2026-11-11T13:23:53.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-12T09:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-12T09:40:05.000Z"
     },
     {
       "id": "auw-e6pt6BY",

@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/sZR7H8ye0MmNeLXg70SypSOH45r_OAgA-IbJrqKRmwk4T1CkWAh5g0n6kGv5t8o29Swcc1DiUg=s0",
     "subscriberCount": 2690000
   },
-  "lastUpdated": "2026-11-12T09:01:10.179Z",
+  "lastUpdated": "2026-11-12T12:02:08.453Z",
   "videoCount": 3331,
   "videos": [
     {
@@ -26,9 +26,10 @@
       "published": "2026-11-12T02:25:13.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-12T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-12T11:08:11.000Z"
     },
     {
       "id": "MgPlox_h_Oo",
