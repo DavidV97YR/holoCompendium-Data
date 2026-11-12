@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/eFqh1G4dN-AW9DaZYpgAYXHfi9dHft9r8z2kw63a7wTxfa0iokwGfaOyZEKWvOGA6CitCcHYqw=s0",
     "subscriberCount": 666000
   },
-  "lastUpdated": "2026-11-12T14:01:32.765Z",
+  "lastUpdated": "2026-11-12T16:11:48.955Z",
   "videoCount": 1764,
   "videos": [
     {
@@ -23,12 +23,14 @@
     },
     {
       "id": "Wn6CGmmTH2Q",
-      "title": "【雑談】こんばんわいふ🌙【ぶいすぽ/八雲べに】",
+      "title": "【飲酒雑談】こんばんわいふ🌙【ぶいすぽ/八雲べに】",
       "published": "2026-11-12T13:39:19.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-12T14:00:00.000Z",
+      "actualStart": "2026-11-12T14:03:08.000Z"
     },
     {
       "id": "8Nt4HbXjamA",
