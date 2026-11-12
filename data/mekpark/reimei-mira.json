@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 123000
   },
-  "lastUpdated": "2026-11-12T12:09:47.588Z",
+  "lastUpdated": "2026-11-12T14:09:39.068Z",
   "videoCount": 280,
   "videos": [
+    {
+      "id": "e5878ppalio",
+      "title": "【時のオカリナ】炎の神殿に挑みます。  ゼルダの伝説 時のオカリナ リメイク【 #UNIT_B / #清澄ライラ】",
+      "published": "2026-11-12T12:43:06+00:00",
+      "type": "stream",
+      "duration": 16060,
+      "status": "past",
+      "scheduledStart": "2026-11-12T08:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-12T08:00:44.000Z"
+    },
     {
       "id": "l-Bo_7wgNrE",
       "title": "【雑談＆弾き語り】お花畑で歌いたい日🌸リクエスト曲歌います✨【 #UNIT_B / #清澄ライラ】",
@@ -32,17 +43,6 @@
       "scheduledStart": "2026-11-11T12:01:16.000Z",
       "actualStart": "2026-11-11T12:04:00.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "e5878ppalio",
-      "title": "【時のオカリナ】炎の神殿に挑みます。  ゼルダの伝説 時のオカリナ リメイク【 #UNIT_B / #清澄ライラ】",
-      "published": "2026-11-11T13:47:14.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-12T08:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-12T08:00:44.000Z"
     },
     {
       "id": "-ACcG4n-FMk",
