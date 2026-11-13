@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/n4EhW4JxCJxO4l6shT0qwUhe0s5ma5-IWu-6Uf7iXUAJ88JuNAOirG7lxxrQAChIjKTsiuzW=s0",
     "subscriberCount": 774000
   },
-  "lastUpdated": "2026-11-13T13:04:02.609Z",
+  "lastUpdated": "2026-11-13T14:12:14.332Z",
   "videoCount": 2463,
   "videos": [
     {
@@ -17,17 +17,18 @@
       "published": "2026-11-13T13:00:20.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-13T13:05:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-13T13:04:28.000Z"
     },
     {
       "id": "73Uw9Op4Igw",
       "title": "【ドラゴンボールZ カカロット】人造人間1号をとらえる【ぶいすぽ/一ノ瀬うるは】",
-      "published": "2026-11-13T07:30:13.000Z",
+      "published": "2026-11-13T12:57:53+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 10179,
+      "status": "past",
       "scheduledStart": "2026-11-13T10:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-13T10:00:11.000Z"
