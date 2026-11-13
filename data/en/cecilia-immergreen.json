@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0",
     "subscriberCount": 552000
   },
-  "lastUpdated": "2026-11-13T20:09:29.638Z",
+  "lastUpdated": "2026-11-13T22:08:12.974Z",
   "videoCount": 498,
   "videos": [
     {
@@ -28,9 +28,10 @@
       "published": "2026-11-13T19:10:39.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-13T20:15:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-13T20:16:20.000Z"
     },
     {
       "id": "oBTnjJoVtP0",
@@ -48,7 +49,7 @@
       "title": "【MY BIRTHDAY!】YOUTUBE vs TWITCH vs TWITTER【THE ULTIMATE CC QUIZ】#CCWEEK",
       "published": "2026-11-11T22:54:15+00:00",
       "type": "stream",
-      "duration": 8454,
+      "duration": 8387,
       "status": "past",
       "scheduledStart": "2026-11-11T20:30:00.000Z",
       "typedBy": "innertube",
