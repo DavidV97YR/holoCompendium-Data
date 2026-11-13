@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 74300
   },
-  "lastUpdated": "2026-11-13T02:09:41.301Z",
+  "lastUpdated": "2026-11-13T04:09:47.548Z",
   "videoCount": 379,
   "videos": [
+    {
+      "id": "_tb9NAL9lXQ",
+      "title": "【ゼルダの伝説 時のオカリナ】まだ終われない！すべての結末を見届けるまで！！！【シン・最終回】#ひなみ通信　#由比河ひなみ",
+      "published": "2026-11-13T04:09:28+00:00",
+      "type": "stream",
+      "duration": 10828,
+      "status": "past",
+      "scheduledStart": "2026-11-13T01:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-13T01:00:08.000Z"
+    },
     {
       "id": "qu2o5J8212o",
       "title": "【平成アニソン縛り】アニメトークしながら懐かしのアニソンたくさん歌うよ～！好きなアニメも教えて🥳 #墨汐さやな ＃さやな時間",
@@ -34,17 +45,6 @@
       "actualStart": "2026-11-12T08:00:08.000Z"
     },
     {
-      "id": "_tb9NAL9lXQ",
-      "title": "【ゼルダの伝説 時のオカリナ】まだ終われない！すべての結末を見届けるまで！！！【シン・最終回】#ひなみ通信　#由比河ひなみ",
-      "published": "2026-11-12T10:03:57.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-13T01:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-13T01:00:08.000Z"
-    },
-    {
       "id": "AMcn-hwzz9g",
       "title": "【ゼルダの伝説 時のオカリナ】完全初見！すべての賢者が揃った今、最後の戦いに挑む！【最終回#9】#ひなみ通信　#由比河ひなみ",
       "published": "2026-11-12T07:11:43+00:00",
@@ -61,9 +61,10 @@
       "published": "2026-11-12T02:51:20.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-13T04:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-13T04:00:51.000Z"
     },
     {
       "id": "1fQ-hD1rEHk",
