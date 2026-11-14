@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/hNHOvhRob-6Rt4EecYeleebwRmHzaXhE0hoSvdCWJvqBHqdlLCosuEyU0K5sVXSkVfazzTRx=s0",
     "subscriberCount": 704000
   },
-  "lastUpdated": "2026-11-14T16:08:42.931Z",
+  "lastUpdated": "2026-11-14T18:08:17.154Z",
   "videoCount": 581,
   "videos": [
+    {
+      "id": "bGVYY8c_0Ek",
+      "title": "【UNDERTALE】this is the end, is it not???【Genocide Run】",
+      "published": "2026-11-14T17:24:49+00:00",
+      "type": "stream",
+      "duration": 11583,
+      "status": "past",
+      "scheduledStart": "2026-11-14T14:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-14T14:05:20.000Z"
+    },
     {
       "id": "-haVXf58eTs",
       "title": "【COOKING STREAM】Kyoko will teach me to cook Omurice!",
@@ -29,17 +40,6 @@
       "duration": 36,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "bGVYY8c_0Ek",
-      "title": "【UNDERTALE】this is the end, is it not???【Genocide Run】",
-      "published": "2026-11-13T17:35:52.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-14T14:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-14T14:05:20.000Z"
     },
     {
       "id": "UX4Ps6FshsI",
