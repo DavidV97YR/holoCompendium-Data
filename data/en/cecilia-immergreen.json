@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0",
     "subscriberCount": 552000
   },
-  "lastUpdated": "2026-11-14T00:30:47.316Z",
+  "lastUpdated": "2026-11-14T02:07:55.192Z",
   "videoCount": 499,
   "videos": [
     {
@@ -16,9 +16,11 @@
       "title": "【DEADLOCK】just one game",
       "published": "2026-11-14T00:30:17.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "duration": 3980,
+      "status": "past",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-14T00:30:00.000Z",
+      "actualStart": "2026-11-14T00:34:06.000Z"
     },
     {
       "id": "nSbZ7y6C7vk",
@@ -36,8 +38,8 @@
       "title": "【DARK SOULS 3】Forcing @holoen_gigimurin to play my favourite game #CCWEEK",
       "published": "2026-11-13T19:10:39.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 15288,
+      "status": "past",
       "scheduledStart": "2026-11-13T20:15:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-13T20:16:20.000Z"

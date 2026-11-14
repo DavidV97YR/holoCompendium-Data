@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/rprLnFfDKRTE0meg5rMfIKcPX2bxcdmynlvbWj8a9E-o0L2tV_CoyGrQdG4DedK5nMFfApGobw=s0",
     "subscriberCount": 672000
   },
-  "lastUpdated": "2026-11-14T00:30:40.752Z",
+  "lastUpdated": "2026-11-14T02:08:47.360Z",
   "videoCount": 844,
   "videos": [
     {
@@ -16,8 +16,8 @@
       "title": "【 ＃朝ガオ vol.19】3年目の発酵タイガーはこちらです♡【虎金妃笑虎】",
       "published": "2026-11-14T00:04:41.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 3826,
+      "status": "past",
       "scheduledStart": "2026-11-14T00:00:00.000Z",
       "actualStart": "2026-11-14T00:08:49.000Z",
       "typedBy": "data-api"
@@ -266,7 +266,7 @@
       "published": "2026-10-10T10:15:18.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "live",
+      "status": "unavailable",
       "scheduledStart": "2026-11-14T00:00:00.000Z",
       "typedBy": "innertube"
     },
