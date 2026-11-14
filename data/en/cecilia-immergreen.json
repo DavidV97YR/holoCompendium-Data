@@ -6,18 +6,29 @@
     "slug": "cecilia-immergreen",
     "avatarUrl": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0",
-    "subscriberCount": 552000
+    "subscriberCount": 553000
   },
-  "lastUpdated": "2026-11-14T08:00:35.285Z",
+  "lastUpdated": "2026-11-14T14:08:16.404Z",
   "videoCount": 500,
   "videos": [
+    {
+      "id": "RFKeljZW5s0",
+      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
+      "published": "2026-11-14T14:07:17+00:00",
+      "type": "stream",
+      "duration": 3739,
+      "status": "past",
+      "scheduledStart": "2026-11-14T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-14T13:00:11.000Z"
+    },
     {
       "id": "CibHkJOA2Yw",
       "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
       "published": "2026-11-14T07:57:46.000Z",
       "type": "member",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-14T14:00:00.000Z",
       "typedBy": "innertube"
     },
@@ -97,16 +108,6 @@
       "scheduledStart": "2026-11-08T20:05:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-08T20:08:04.000Z"
-    },
-    {
-      "id": "RFKeljZW5s0",
-      "title": "【3D BDAY LIVE】EVERGREEN REPRISE #CCReprise【日本語字幕付き】",
-      "published": "2026-11-08T19:55:59.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-14T13:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "5FYnvlsXhoU",
