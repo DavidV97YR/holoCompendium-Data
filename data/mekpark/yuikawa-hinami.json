@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 74500
   },
-  "lastUpdated": "2026-11-14T04:02:20.070Z",
+  "lastUpdated": "2026-11-14T04:09:52.748Z",
   "videoCount": 383,
   "videos": [
     {
@@ -39,9 +39,10 @@
       "published": "2026-11-13T06:56:05.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-14T04:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-14T04:02:04.000Z"
     },
     {
       "id": "_tb9NAL9lXQ",
@@ -102,8 +103,8 @@
       "title": "【ぼくのなつやすみ４】21日目 11月半ば、夏。今日もさやなの宝探しが始まる🥳　 #墨汐さやな ＃さやな時間",
       "published": "2026-11-12T03:39:23.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 11650,
+      "status": "past",
       "scheduledStart": "2026-11-13T23:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-13T23:02:22.000Z"
