@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/VlYdMdPDKB1npWiaIMkUWo9kZ4aeuRLA-WPO0MpO2yvd-wbUH4bR6n8xq3WfwAfl2h72fwTC2_Y=s0",
     "subscriberCount": 392000
   },
-  "lastUpdated": "2026-11-14T18:31:04.773Z",
+  "lastUpdated": "2026-11-14T20:12:50.426Z",
   "videoCount": 1006,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "【メン限】千燈ゆうひさん　めんげんをれんぱつ【 ぶいすぽっ！ / 千燈ゆうひ 】",
       "published": "2026-11-14T18:11:02.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 3228,
+      "status": "past",
       "actualStart": "2026-11-14T18:11:35.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-14T18:10:00.000Z"
     },
     {
       "id": "Zxi3WkO3Ja4",
@@ -38,9 +39,10 @@
       "published": "2026-11-14T13:43:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-14T19:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-14T19:06:07.000Z"
     },
     {
       "id": "7duPLjb-ZCQ",
