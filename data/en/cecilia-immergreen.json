@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0",
     "subscriberCount": 553000
   },
-  "lastUpdated": "2026-11-14T14:08:16.404Z",
+  "lastUpdated": "2026-11-14T16:08:33.286Z",
   "videoCount": 500,
   "videos": [
     {
@@ -27,10 +27,11 @@
       "title": "【MEMBERS AFTERPARTY】ONE MORE SONG FOR MEMBERS! #CCReprise【日本語字幕付き】",
       "published": "2026-11-14T07:57:46.000Z",
       "type": "member",
-      "duration": 0,
-      "status": "live",
+      "duration": 643,
+      "status": "past",
       "scheduledStart": "2026-11-14T14:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-14T14:04:26.000Z"
     },
     {
       "id": "FIU7zFuxQKQ",
