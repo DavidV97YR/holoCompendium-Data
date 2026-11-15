@@ -8,16 +8,16 @@
     "bannerUrl": "https://yt3.googleusercontent.com/AnNPRrfMcNbahc8l2TMgGBqaVmpSwCPIzVxyiUpY36mmOx4ROOVTnLk6GxpytYpVRl3Hf4BV=s0",
     "subscriberCount": 1130000
   },
-  "lastUpdated": "2026-11-15T14:02:30.334Z",
+  "lastUpdated": "2026-11-15T16:02:37.569Z",
   "videoCount": 1275,
   "videos": [
     {
       "id": "XlDnC24OVqk",
       "title": "【Freetalk】深夜のちょこっと雑談📣 【ホロライブ/癒月ちょこ】",
-      "published": "2026-11-15T13:29:33.000Z",
+      "published": "2026-11-15T15:03:03+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 3569,
+      "status": "past",
       "scheduledStart": "2026-11-15T14:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-15T13:59:57.000Z"
@@ -28,9 +28,10 @@
       "published": "2026-11-15T13:27:00.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-15T15:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T15:01:43.000Z"
     },
     {
       "id": "o4d_7GB6P38",
