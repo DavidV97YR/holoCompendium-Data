@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/jPOZNGTp_HQmJ_yZjPIJgD8ecUA1hEzBCj0y1y-T_CYfLOwRicM5zAKRkbtoHJpHjYtBY6Ij8dU=s0",
     "subscriberCount": 755000
   },
-  "lastUpdated": "2026-11-15T12:10:52.497Z",
+  "lastUpdated": "2026-11-15T14:10:21.254Z",
   "videoCount": 1554,
   "videos": [
+    {
+      "id": "Zrtq0TQ8Qcs",
+      "title": "【Delta Force】渋谷に行くぞ！！【ぶいすぽっ！/花芽すみれ】",
+      "published": "2026-11-15T13:09:24+00:00",
+      "type": "stream",
+      "duration": 5593,
+      "status": "past",
+      "scheduledStart": "2026-11-15T11:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T11:31:12.000Z"
+    },
     {
       "id": "IIwS20MgjhQ",
       "title": "【ゼルダの伝説 時のオカリナ リメイク】はじめてゼルダするだ【ぶいすぽっ！/花芽すみれ】",
@@ -21,17 +32,6 @@
       "scheduledStart": "2026-11-14T15:10:00.000Z",
       "actualStart": "2026-11-14T15:12:28.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "Zrtq0TQ8Qcs",
-      "title": "【Delta Force】渋谷に行くぞ！！【ぶいすぽっ！/花芽すみれ】",
-      "published": "2026-11-12T13:25:40.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-15T11:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-15T11:31:12.000Z"
     },
     {
       "id": "GDGi01EFktw",

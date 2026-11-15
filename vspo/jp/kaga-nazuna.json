@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/Av1gFK_jUR-q4zbqkhKbjeuwg2jbOwwU63TAsasubFW36OelKojjbEzc2lL29bM10-ipEWiVyg=s0",
     "subscriberCount": 502000
   },
-  "lastUpdated": "2026-11-15T12:10:58.429Z",
+  "lastUpdated": "2026-11-15T14:10:27.312Z",
   "videoCount": 2117,
   "videos": [
+    {
+      "id": "NSbBeCezCqo",
+      "title": "【DeltaForce】渋谷が舞台の新マップをプレイするうう！！【ぶいすぽ/花芽なずな】",
+      "published": "2026-11-15T13:12:19+00:00",
+      "type": "stream",
+      "duration": 5589,
+      "status": "past",
+      "scheduledStart": "2026-11-15T11:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T11:31:09.000Z"
+    },
     {
       "id": "CbXk9ah2-Ck",
       "title": "【APEX】えぺのリハビリソロ部【ぶいすぽ/花芽なずな】",
@@ -32,17 +43,6 @@
       "scheduledStart": "2026-11-13T07:20:00.000Z",
       "actualStart": "2026-11-13T07:21:10.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "NSbBeCezCqo",
-      "title": "【DeltaForce】渋谷が舞台の新マップをプレイするうう！！【ぶいすぽ/花芽なずな】",
-      "published": "2026-11-12T19:30:48.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-15T11:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-15T11:31:09.000Z"
     },
     {
       "id": "92WMeeGDATY",
