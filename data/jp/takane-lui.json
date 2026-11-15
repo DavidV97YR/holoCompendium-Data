@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/-qxtd4TgQmq7uQR7f0_tjwh29lWOQvZ0iM9iytFeElQVlzBcvFgAovo_IvYiAYPm0sgl0L8EnkI=s0",
     "subscriberCount": 1130000
   },
-  "lastUpdated": "2026-11-15T02:04:30.020Z",
+  "lastUpdated": "2026-11-15T06:04:35.738Z",
   "videoCount": 2466,
   "videos": [
     {
@@ -27,17 +27,18 @@
       "published": "2026-11-14T14:32:35.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-15T05:30:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T05:32:27.000Z"
     },
     {
       "id": "JGWJZgmi5S4",
       "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！モンゾーラ島の再建をするぞぉ！！！【鷹嶺ルイ/ホロライブ】ネタバレあり",
       "published": "2026-11-14T14:30:24.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 18650,
+      "status": "past",
       "scheduledStart": "2026-11-15T00:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-15T00:03:22.000Z"
