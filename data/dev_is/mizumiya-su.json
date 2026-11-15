@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/YqdUog51dxbv59-FNrUjbu_ZiqhWN5yxdc0clphUqHQZ-nIPmWR9kiUcDEiKheVSYFFc_rjvQg=s0",
     "subscriberCount": 757000
   },
-  "lastUpdated": "2026-11-15T10:09:15.644Z",
+  "lastUpdated": "2026-11-15T12:09:11.751Z",
   "videoCount": 1259,
   "videos": [
+    {
+      "id": "k-fiYPedgwA",
+      "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢／ホロライブ】",
+      "published": "2026-11-15T12:05:31+00:00",
+      "type": "stream",
+      "duration": 7148,
+      "status": "past",
+      "scheduledStart": "2026-11-15T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T10:00:16.000Z"
+    },
     {
       "id": "6fRGZlNsh0o",
       "title": "結び／踊ってみた #vtuber #hololive #dance",
@@ -19,17 +30,6 @@
       "duration": 25,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "k-fiYPedgwA",
-      "title": "【MIMESIS】珍しメンバーと行く久々ミメシス❕🩵【水宮枢／ホロライブ】",
-      "published": "2026-11-14T19:48:45.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-15T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-15T10:00:16.000Z"
     },
     {
       "id": "zptsMXYZunc",
