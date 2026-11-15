@@ -1,7 +1,7 @@
 {
   "channelId": "UCJFZiqLMntJufDCHc6bQixg",
   "channelName": "hololive",
-  "lastUpdated": "2026-11-15T20:02:00.243Z",
+  "lastUpdated": "2026-11-15T21:01:56.630Z",
   "streams": {
     "ll4X00r44UU": {
       "cur": {
@@ -33,8 +33,8 @@
     },
     "tzJm1yDe-YU": 0,
     "TYar06YXdL8": {
-      "e": "noreplay",
-      "n": 30
+      "e": "http403",
+      "n": 31
     },
     "8Z6Fl9GlPog": {
       "member": 1

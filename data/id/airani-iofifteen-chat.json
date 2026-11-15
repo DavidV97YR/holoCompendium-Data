@@ -1,7 +1,7 @@
 {
   "channelId": "UCAoy6rzhSf4ydcYjJw3WoVg",
   "channelName": "Airani Iofifteen",
-  "lastUpdated": "2026-11-15T20:01:20.764Z",
+  "lastUpdated": "2026-11-15T21:01:37.062Z",
   "streams": {
     "CQEoZ0t70w8": {
       "cur": {
@@ -16383,8 +16383,8 @@
       "sent": 20
     },
     "JCR2UftWaEo": {
-      "e": "noreplay",
-      "n": 4
+      "e": "http403",
+      "n": 5
     }
   }
 }
