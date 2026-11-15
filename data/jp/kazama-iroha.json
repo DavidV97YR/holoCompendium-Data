@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/463BQdwrff-GKTT3iO3xc6RaNtSRzx5azhDVC7sf9rXN9sRS3nVe6gICEZrXX0NUffMuJG8nQPk=s0",
     "subscriberCount": 1150000
   },
-  "lastUpdated": "2026-11-15T16:05:05.219Z",
+  "lastUpdated": "2026-11-15T18:05:22.690Z",
   "videoCount": 1348,
   "videos": [
+    {
+      "id": "O4-DN5oHUGM",
+      "title": "風真いろはの #ねるまえらじお 📻❣ #29",
+      "published": "2026-11-15T16:05:45+00:00",
+      "type": "stream",
+      "duration": 1973,
+      "status": "past",
+      "scheduledStart": "2026-11-15T15:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T15:30:07.000Z"
+    },
     {
       "id": "KpRtAaOQ8YU",
       "title": "【メン限】メン限月曜日討伐朝活☀04【風真いろは/ホロライブ】",
@@ -20,17 +31,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-15T23:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "O4-DN5oHUGM",
-      "title": "風真いろはの #ねるまえらじお 📻❣ #29",
-      "published": "2026-11-15T03:57:24.000Z",
-      "type": "stream",
-      "duration": 1973,
-      "status": "past",
-      "scheduledStart": "2026-11-15T15:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-15T15:30:07.000Z"
     },
     {
       "id": "Rtv47UZkhmk",
@@ -995,7 +995,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-08-23T08:00:00Z"
+      "scheduledStart": "2026-08-23T08:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "NeAx7gIaKtk",

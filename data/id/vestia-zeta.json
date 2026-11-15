@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/CC8vsiTQUF_14W3YShXYHudJZJSUMgmsn46RBO5Yj2W_vMYvv0Aa5XqbdRFGag6nq5QvmnCZsKE=s0",
     "subscriberCount": 1060000
   },
-  "lastUpdated": "2026-11-15T06:15:04.805Z",
+  "lastUpdated": "2026-11-15T18:06:26.213Z",
   "videoCount": 1096,
   "videos": [
     {
@@ -9672,7 +9672,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-07T12:00:00.000Z"
+      "scheduledStart": "2026-11-07T12:00:00.000Z",
+      "missStreak": 1
     },
     {
       "id": "gW_1YVaqR-k",
