@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0",
     "subscriberCount": 1360000
   },
-  "lastUpdated": "2026-11-16T00:02:44.640Z",
+  "lastUpdated": "2026-11-16T06:05:44.292Z",
   "videoCount": 1689,
   "videos": [
+    {
+      "id": "2eDChrtlUiY",
+      "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+      "published": "2026-11-15T23:43:10Z",
+      "type": "stream",
+      "duration": 4104,
+      "status": "past",
+      "scheduledStart": "2026-11-15T22:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-15T22:32:06.000Z"
+    },
     {
       "id": "zFsabtefDl8",
       "title": "【Splatoon Raiders】スプラトゥーンやりすぎて軟骨ない狼のレイダース【ホロライブ/大神ミオ】",
@@ -21,17 +32,6 @@
       "scheduledStart": "2026-11-15T13:00:00.000Z",
       "typedBy": "data-api",
       "actualStart": "2026-11-15T13:01:07.000Z"
-    },
-    {
-      "id": "2eDChrtlUiY",
-      "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-      "published": "2026-11-15T12:17:19.000Z",
-      "type": "stream",
-      "duration": 4118,
-      "status": "past",
-      "scheduledStart": "2026-11-15T22:30:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-15T22:32:06.000Z"
     },
     {
       "id": "7VaJFM9GkFs",
