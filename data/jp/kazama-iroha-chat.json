@@ -1,7 +1,7 @@
 {
   "channelId": "UC_vMYWcDjmfdpH6r4TTn1MQ",
   "channelName": "Kazama Iroha",
-  "lastUpdated": "2026-11-16T05:01:30.841Z",
+  "lastUpdated": "2026-11-16T06:01:30.894Z",
   "streams": {
     "SUhvxyVWDEA": {
       "member": 5,
@@ -10388,8 +10388,8 @@
       "milestone": 7
     },
     "KpRtAaOQ8YU": {
-      "e": "noreplay",
-      "n": 3
+      "e": "http403",
+      "n": 4
     }
   }
 }
