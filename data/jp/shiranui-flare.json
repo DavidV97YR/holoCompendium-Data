@@ -8,28 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/WMGd5fRjaxWor-Z-6MBeIAl5RylNcbkd4StAGSc-KGvrGtjhYnenyJDG_lAvpULdNMfqNlBMQQ=s0",
     "subscriberCount": 1160000
   },
-  "lastUpdated": "2026-11-16T12:03:36.254Z",
+  "lastUpdated": "2026-11-16T14:03:19.686Z",
   "videoCount": 1939,
   "videos": [
     {
-      "id": "ifJl7HArfro",
-      "title": "祭囃子/ 不知火フレア(Cover)",
-      "published": "2026-11-16T09:43:32.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-16T13:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
       "id": "D52QsD82-9g",
       "title": "【#不知火フレア新衣装】お久しぶりのかわいい新衣装🎀どんな感じかな～？【不知火フレア/ホロライブ】",
-      "published": "2026-11-16T07:37:25.000Z",
+      "published": "2026-11-16T13:06:01+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 3575,
+      "status": "past",
       "scheduledStart": "2026-11-16T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-16T12:02:35.000Z"
+    },
+    {
+      "id": "ifJl7HArfro",
+      "title": "祭囃子/ 不知火フレア(Cover)",
+      "published": "2026-11-16T13:00:11+00:00",
+      "type": "video",
+      "duration": 123,
+      "status": "past",
+      "scheduledStart": "2026-11-16T13:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-16T13:00:11.000Z"
     },
     {
       "id": "FocPvoNiNBw",
