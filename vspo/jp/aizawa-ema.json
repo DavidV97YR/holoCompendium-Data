@@ -8,29 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0",
     "subscriberCount": 707000
   },
-  "lastUpdated": "2026-11-16T10:31:07.515Z",
+  "lastUpdated": "2026-11-16T12:13:12.613Z",
   "videoCount": 1830,
   "videos": [
     {
-      "id": "LDWUZULXRrY",
-      "title": "【APEX】寒色ふるぱ再び【ぶいすぽっ！/ 藍沢エマ】",
-      "published": "2026-11-16T10:10:59.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-16T11:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
       "id": "bskk4w03OGU",
       "title": "すこしだけサックス練習～～※初心者なので注意※",
-      "published": "2026-11-16T07:39:35.000Z",
+      "published": "2026-11-16T10:12:06+00:00",
       "type": "stream",
       "duration": 8239,
       "status": "past",
       "scheduledStart": "2026-11-16T07:45:00.000Z",
       "actualStart": "2026-11-16T07:48:56.000Z",
       "typedBy": "data-api"
+    },
+    {
+      "id": "LDWUZULXRrY",
+      "title": "【APEX】寒色ふるぱ再び【ぶいすぽっ！/ 藍沢エマ】",
+      "published": "2026-11-16T10:10:59.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-11-16T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-16T11:03:55.000Z"
     },
     {
       "id": "EZpQP4jnj2Y",

@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/xHg2zMwBbYTQlvXejI0BseK05dp9wd5mBhuNOVEF-ssgnFv2PCaKk5daHteNkVbU_UdSYv0kjHM=s0",
     "subscriberCount": 1350000
   },
-  "lastUpdated": "2026-11-16T10:01:29.748Z",
+  "lastUpdated": "2026-11-16T12:01:32.788Z",
   "videoCount": 1510,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "画面の中と向こうの君へ / AZKi (official)",
       "published": "2026-11-16T10:00:09+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 234,
+      "status": "past",
       "scheduledStart": "2026-11-16T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-16T10:00:09.000Z"
     },
     {
       "id": "OufwmksKxbg",

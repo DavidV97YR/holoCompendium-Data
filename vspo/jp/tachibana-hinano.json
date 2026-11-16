@@ -8,16 +8,16 @@
     "bannerUrl": "https://yt3.googleusercontent.com/IfFOR2qsXn8NaqpzsoxL_vU2WXEc-q8C1VRbVtUYXE-5ehhRJybRbLrC9_h3Bd42OSPJ2Xz59Q=s0",
     "subscriberCount": 1030000
   },
-  "lastUpdated": "2026-11-16T10:11:14.628Z",
+  "lastUpdated": "2026-11-16T12:12:34.502Z",
   "videoCount": 1865,
   "videos": [
     {
       "id": "8PrSQtClFvI",
       "title": "【 歌枠 】半年ぶりくらいにうたうぞおおお【ぶいすぽっ！/橘ひなの】",
-      "published": "2026-11-16T08:32:07.000Z",
+      "published": "2026-11-16T12:10:44+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 10714,
+      "status": "past",
       "scheduledStart": "2026-11-16T08:45:00.000Z",
       "typedBy": "data-api",
       "actualStart": "2026-11-16T09:04:17.000Z"
@@ -18603,7 +18603,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-10T15:00:00.000Z"
+      "scheduledStart": "2026-11-10T15:00:00.000Z",
+      "missStreak": 1
     },
     {
       "id": "5ksFWlKxUkg",

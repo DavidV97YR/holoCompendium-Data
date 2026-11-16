@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/lS_8xng9FBW43-gQbWyBkQjMKId6Vi0ECeEEup6lXJ582V_k5nsONUcmhudOBnQFuVOIofH3=s0",
     "subscriberCount": 464000
   },
-  "lastUpdated": "2026-11-16T11:01:24.109Z",
+  "lastUpdated": "2026-11-16T12:13:54.610Z",
   "videoCount": 979,
   "videos": [
     {
@@ -17,16 +17,18 @@
       "published": "2026-11-16T10:39:04.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-16T11:00:00.000Z",
+      "actualStart": "2026-11-16T11:02:53.000Z"
     },
     {
       "id": "sDU4QaoZZi4",
       "title": "【VALORANT】つむベイブレードv2【ぶいすぽっ！ / 紡木こかげ】",
-      "published": "2026-11-16T05:16:49.000Z",
+      "published": "2026-11-16T10:34:25+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 17507,
+      "status": "past",
       "scheduledStart": "2026-11-16T05:30:00.000Z",
       "actualStart": "2026-11-16T05:27:25.000Z",
       "typedBy": "data-api"
