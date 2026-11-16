@@ -1,7 +1,7 @@
 {
   "channelId": "UCFTLzh12_nrtzqBPsTCqenA",
   "channelName": "Aki Rosenthal",
-  "lastUpdated": "2026-11-09T17:04:23.911Z",
+  "lastUpdated": "2026-11-16T15:04:13.510Z",
   "streams": {
     "5OOczqslniI": {
       "cur": {
@@ -23698,6 +23698,18 @@
       "gift": 2,
       "recv": 6,
       "sent": 6
+    },
+    "zgUs9Rg3ln4": {
+      "cur": {
+        "¥": 7500,
+        "NT$": 15
+      },
+      "sc": 7,
+      "member": 1,
+      "milestone": 3,
+      "gift": 7,
+      "recv": 39,
+      "sent": 40
     }
   }
 }

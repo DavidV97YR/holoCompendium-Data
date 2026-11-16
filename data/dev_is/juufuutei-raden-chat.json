@@ -1,7 +1,7 @@
 {
   "channelId": "UCdXAk5MpyLD8594lm_OvtGQ",
   "channelName": "Juufuutei Raden",
-  "lastUpdated": "2026-11-14T13:01:28.878Z",
+  "lastUpdated": "2026-11-16T15:03:43.199Z",
   "streams": {
     "UZjSpAI9oWA": {
       "member": 2,
@@ -4562,6 +4562,13 @@
     "7pF0MJMKAtI": {
       "member": 1,
       "milestone": 1
+    },
+    "3Kgs5rsITD4": {
+      "member": 4,
+      "milestone": 2,
+      "gift": 3,
+      "recv": 11,
+      "sent": 12
     }
   }
 }
