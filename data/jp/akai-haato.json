@@ -8,18 +8,19 @@
     "bannerUrl": "https://yt3.googleusercontent.com/BMYYoRRyxad4xtG8T-rKkkeR041IJ-1nlIDZXkDhd7nmu5JsXpMkwQnrNFbTXI0LaMcmNHzVVO0=s0",
     "subscriberCount": 1600000
   },
-  "lastUpdated": "2026-11-17T06:03:35.900Z",
+  "lastUpdated": "2026-11-17T10:01:48.383Z",
   "videoCount": 1751,
   "videos": [
     {
       "id": "zogVnXIWkOM",
       "title": "四国一周、すんぞ？【ホロライブ/赤井はあと】",
-      "published": "2026-11-17T01:01:48.000Z",
+      "published": "2026-11-17T10:00:10+00:00",
       "type": "video",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-17T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-17T10:00:10.000Z"
     },
     {
       "id": "dTwnhH-Clko",
