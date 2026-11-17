@@ -8,18 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/A7HABJbkFvIMWyQeTAQ51LFKuZlc7WCgmH02dPTEu0pWLYK-cTg4Fp0Pi2KIWnPwMDOKBvWCFg=s0",
     "subscriberCount": 765000
   },
-  "lastUpdated": "2026-11-17T11:00:48.258Z",
+  "lastUpdated": "2026-11-17T12:09:42.606Z",
   "videoCount": 1355,
   "videos": [
     {
       "id": "g2giVzrLkF0",
-      "title": "【メンバー限定】【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
+      "title": "【メンバー限定】ナイショだよ💖【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】",
       "published": "2026-11-17T10:57:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-17T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-17T12:00:47.000Z"
+    },
+    {
+      "id": "yppSXXxygvA",
+      "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+      "published": "2026-11-17T10:36:51+00:00",
+      "type": "stream",
+      "duration": 8881,
+      "status": "past",
+      "scheduledStart": "2026-11-17T08:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-17T08:01:48.000Z"
     },
     {
       "id": "IfzJL2Fc1R8",
@@ -29,17 +41,6 @@
       "duration": 14,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "yppSXXxygvA",
-      "title": "【ヨッシーアイランド】完全初見！人生初のスーパーマリオ ヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-      "published": "2026-11-17T01:43:42.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-17T08:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-17T08:01:48.000Z"
     },
     {
       "id": "dxls8zS9AbY",
