@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/NYbjtvspd82kF5napVNMe9O8WhQ6HQTsk9hZkbWiJM-oAU9gAMtjXZXs_LHeKrjCZ3-sVEXNFn4=s0",
     "subscriberCount": 631000
   },
-  "lastUpdated": "2026-11-17T18:12:58.373Z",
+  "lastUpdated": "2026-11-17T18:29:43.115Z",
   "videoCount": 751,
   "videos": [
     {
@@ -16,10 +16,11 @@
       "title": "よるだわ。 #shorts",
       "published": "2026-11-17T15:55:40+00:00",
       "type": "stream",
-      "duration": 8287,
+      "duration": 8291,
       "status": "past",
       "typedBy": "data-api",
-      "scheduledStart": "2026-11-16T17:11:07.000Z"
+      "scheduledStart": "2026-11-16T17:11:07.000Z",
+      "actualStart": "2026-11-17T13:31:15.000Z"
     },
     {
       "id": "2-t8r94peOc",
@@ -27,7 +28,7 @@
       "published": "2026-11-17T15:50:30.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "past",
       "typedBy": "innertube",
       "scheduledStart": "2026-11-17T15:50:30.000Z"
     },
