@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/JCY2pnKwXdJ-vz9kY_UBwmFMMiql7X3Ic57KIlRaCDkaas_XAOLoitDUDuipD1qBKgcH_Dx5NQ=s0",
     "subscriberCount": 529000
   },
-  "lastUpdated": "2026-11-17T14:12:48.182Z",
+  "lastUpdated": "2026-11-17T16:11:49.980Z",
   "videoCount": 1554,
   "videos": [
+    {
+      "id": "qItk_KPa234",
+      "title": "【LoL】本日は無限日和   #LTK【空澄セナ/叶3.獅子堂あかり.鷹宮リオン.Yufuna.yuhiコーチぶいすぽっ！】",
+      "published": "2026-11-17T14:16:40+00:00",
+      "type": "stream",
+      "duration": 20558,
+      "status": "past",
+      "scheduledStart": "2026-11-17T08:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-17T08:17:18.000Z"
+    },
     {
       "id": "21989Y5m4pw",
       "title": "【#LTK】恭平くん呼びを叶と戦うあしゅみ #切り抜き #ぶいすぽ #空澄セナ #shorts",
@@ -19,17 +30,6 @@
       "duration": 35,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "qItk_KPa234",
-      "title": "【LoL】本日は無限日和   #LTK【空澄セナ/叶3.獅子堂あかり.鷹宮リオン.Yufuna.yuhiコーチぶいすぽっ！】",
-      "published": "2026-11-17T07:21:32.000Z",
-      "type": "stream",
-      "duration": 20558,
-      "status": "past",
-      "scheduledStart": "2026-11-17T08:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-17T08:17:18.000Z"
     },
     {
       "id": "63HIeOBnZFk",
@@ -15349,8 +15349,7 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2025-07-19T12:00:00.000Z",
-      "missStreak": 1
+      "scheduledStart": "2025-07-19T12:00:00.000Z"
     },
     {
       "id": "VL98Vx-FgXY",
