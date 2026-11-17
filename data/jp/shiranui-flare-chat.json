@@ -1,7 +1,7 @@
 {
   "channelId": "UCvInZx9h3jC2JzsIzoOebWg",
   "channelName": "Shiranui Flare",
-  "lastUpdated": "2026-11-17T22:01:28.131Z",
+  "lastUpdated": "2026-11-17T23:02:10.033Z",
   "streams": {
     "voVBqT4K4PU": {
       "cur": {
@@ -22423,8 +22423,21 @@
       "sent": 10
     },
     "h9kIXVJVAqk": {
-      "e": "http403",
-      "n": 1
+      "cur": {
+        "₩": 172000,
+        "¥": 30403,
+        "ARS": 1000,
+        "$": 102,
+        "HK$": 216,
+        "NT$": 375,
+        "€": 5
+      },
+      "sc": 46,
+      "member": 5,
+      "milestone": 5,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
