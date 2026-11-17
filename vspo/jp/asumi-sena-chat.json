@@ -1,7 +1,7 @@
 {
   "channelId": "UCF_U2GCKHvDz52jWdizppIA",
   "channelName": "Asumi Sena",
-  "lastUpdated": "2026-11-17T15:02:39.682Z",
+  "lastUpdated": "2026-11-17T16:07:29.382Z",
   "streams": {
     "W718e-CUu_8": {
       "cur": {
@@ -12235,8 +12235,10 @@
       "milestone": 1
     },
     "qItk_KPa234": {
-      "e": "http403",
-      "n": 1
+      "cur": {
+        "¥": 1120
+      },
+      "sc": 2
     }
   }
 }
