@@ -1,7 +1,7 @@
 {
   "channelId": "UC7fk0CB07ly8oSl0aqKkqFg",
   "channelName": "Nakiri Ayame",
-  "lastUpdated": "2026-10-13T15:02:39.051Z",
+  "lastUpdated": "2026-11-17T17:05:57.004Z",
   "streams": {
     "g1jF4SJP2-E": {
       "cur": {
@@ -6675,6 +6675,26 @@
       "gift": 1,
       "recv": 20,
       "sent": 20
+    },
+    "5c1t3P3zrAs": {
+      "cur": {
+        "NT$": 17788,
+        "¥": 801928,
+        "A$": 10,
+        "$": 200,
+        "HK$": 1015,
+        "IDR": 30000,
+        "₩": 200000,
+        "SGD": 100,
+        "£": 100,
+        "R$": 100,
+        "₫": 200000
+      },
+      "sc": 255,
+      "member": 89,
+      "gift": 23,
+      "recv": 108,
+      "sent": 108
     }
   }
 }
