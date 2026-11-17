@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/YqdUog51dxbv59-FNrUjbu_ZiqhWN5yxdc0clphUqHQZ-nIPmWR9kiUcDEiKheVSYFFc_rjvQg=s0",
     "subscriberCount": 759000
   },
-  "lastUpdated": "2026-11-17T12:09:25.903Z",
+  "lastUpdated": "2026-11-17T14:10:19.711Z",
   "videoCount": 1264,
   "videos": [
+    {
+      "id": "baMdEDpZGHo",
+      "title": "【 #ホロドリ 】ガチャ🍁俺の女なので10連✋【水宮枢／ホロライブ】",
+      "published": "2026-11-17T13:51:11+00:00",
+      "type": "stream",
+      "duration": 6198,
+      "status": "past",
+      "scheduledStart": "2026-11-17T12:00:00.000Z",
+      "typedBy": "data-api",
+      "actualStart": "2026-11-17T12:01:51.000Z"
+    },
     {
       "id": "gaSCtg1M8UY",
       "title": "Ring my name／踊ってみた #vtuber #hololive #dance",
@@ -29,17 +40,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-19T13:00:00.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "baMdEDpZGHo",
-      "title": "【 #ホロドリ 】ガチャ🍁俺の女なので10連✋【水宮枢／ホロライブ】",
-      "published": "2026-11-16T17:18:08.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-17T12:00:00.000Z",
-      "typedBy": "data-api",
-      "actualStart": "2026-11-17T12:01:51.000Z"
     },
     {
       "id": "cTVfAX7A1IY",

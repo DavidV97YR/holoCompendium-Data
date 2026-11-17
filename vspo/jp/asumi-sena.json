@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/JCY2pnKwXdJ-vz9kY_UBwmFMMiql7X3Ic57KIlRaCDkaas_XAOLoitDUDuipD1qBKgcH_Dx5NQ=s0",
     "subscriberCount": 529000
   },
-  "lastUpdated": "2026-11-17T10:11:13.078Z",
+  "lastUpdated": "2026-11-17T14:12:48.182Z",
   "videoCount": 1554,
   "videos": [
     {
@@ -25,8 +25,8 @@
       "title": "【LoL】本日は無限日和   #LTK【空澄セナ/叶3.獅子堂あかり.鷹宮リオン.Yufuna.yuhiコーチぶいすぽっ！】",
       "published": "2026-11-17T07:21:32.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 20558,
+      "status": "past",
       "scheduledStart": "2026-11-17T08:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-17T08:17:18.000Z"
@@ -15349,7 +15349,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2025-07-19T12:00:00.000Z"
+      "scheduledStart": "2025-07-19T12:00:00.000Z",
+      "missStreak": 1
     },
     {
       "id": "VL98Vx-FgXY",
