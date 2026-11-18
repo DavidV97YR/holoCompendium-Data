@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 124000
   },
-  "lastUpdated": "2026-11-18T08:01:22.231Z",
+  "lastUpdated": "2026-11-18T10:09:13.150Z",
   "videoCount": 294,
   "videos": [
     {
@@ -25,8 +25,8 @@
       "title": "【Minecraft】家の改装（？）＆採掘をしたい！！【 #UNIT_B / #玲銘ミラ】",
       "published": "2026-11-18T02:27:34.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 17942,
+      "status": "past",
       "scheduledStart": "2026-11-18T05:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-18T04:59:32.000Z"
@@ -59,9 +59,10 @@
       "published": "2026-11-17T09:30:57.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-18T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-18T10:00:36.000Z"
     },
     {
       "id": "d50y85xP-oA",
