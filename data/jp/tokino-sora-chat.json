@@ -1,7 +1,7 @@
 {
   "channelId": "UCp6993wxpyDPHUpavwDFqgg",
   "channelName": "Tokino Sora",
-  "lastUpdated": "2026-11-15T19:05:41.198Z",
+  "lastUpdated": "2026-11-18T19:02:10.587Z",
   "streams": {
     "QYFokdBCPWs": {
       "e": "noreplay",
@@ -20648,6 +20648,10 @@
       "gift": 2,
       "recv": 6,
       "sent": 6
+    },
+    "W9sdsmlryIg": {
+      "e": "http403",
+      "n": 1
     }
   }
 }
