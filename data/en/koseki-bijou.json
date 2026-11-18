@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/zShm3O93N6Ivv09pQbGLa86PjU1WLnUXEXN7ITNlErXScJhkD00cog8lUBSo7t_7NOpYFqukWA=s0",
     "subscriberCount": 1000000
   },
-  "lastUpdated": "2026-11-18T11:30:49.172Z",
+  "lastUpdated": "2026-11-18T12:08:28.419Z",
   "videoCount": 982,
   "videos": [
+    {
+      "id": "THV68_R0s0k",
+      "title": "【FORTNITE】MIKU",
+      "published": "2026-11-18T11:34:17+00:00",
+      "type": "stream",
+      "duration": 22256,
+      "status": "past",
+      "scheduledStart": "2026-11-18T05:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-18T05:05:11.000Z"
+    },
     {
       "id": "2i6a9BDr60E",
       "title": "【DEEP DISH DUNGEON】EATING GOOD WITH @holoen_ceciliaimmergreen AND @NinomaeInanis",
@@ -20,17 +31,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-18T13:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "THV68_R0s0k",
-      "title": "【FORTNITE】MIKU",
-      "published": "2026-11-17T15:50:00.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-18T05:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-18T05:05:11.000Z"
     },
     {
       "id": "qIOZShVkRTk",

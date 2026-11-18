@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/LMg2UC_mscUw5qEN-BUXWD8Y4QMZSAVDQom9kSQ9gtHPpT64QxRyXUS4yFQfiAoByM_r-JetSg=s0",
     "subscriberCount": 102000
   },
-  "lastUpdated": "2026-11-18T08:13:13.988Z",
+  "lastUpdated": "2026-11-18T12:16:04.328Z",
   "videoCount": 649,
   "videos": [
+    {
+      "id": "eU9qYv5S3pA",
+      "title": "【GTA VI】IT'S FINALLY HERE !! (contains spoilers) [PART 1]【#VSPOEN #AryaKuroha】",
+      "published": "2026-11-18T11:43:10+00:00",
+      "type": "stream",
+      "duration": 1819,
+      "status": "past",
+      "scheduledStart": "2026-11-18T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-18T11:00:45.000Z"
+    },
     {
       "id": "onl3Phyf5YQ",
       "title": "cuccos in ocarina of time still do this ?!? #ocarinaoftime #zelda #vtuber #vtuberclips #vspo",
@@ -50,16 +61,6 @@
       "scheduledStart": "2026-11-13T23:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-13T23:00:27.000Z"
-    },
-    {
-      "id": "eU9qYv5S3pA",
-      "title": "【GTA VI】IT'S FINALLY HERE !! (contains spoilers) [PART 1]【#VSPOEN #AryaKuroha】",
-      "published": "2026-11-12T06:38:27.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-18T11:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "ZhWwNt5trg4",
@@ -342,7 +343,7 @@
       "published": "2026-10-19T04:52:55.000Z",
       "type": "member",
       "duration": 0,
-      "status": "live",
+      "status": "unavailable",
       "scheduledStart": "2026-11-17T23:00:00.000Z",
       "typedBy": "innertube"
     },
