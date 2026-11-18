@@ -1,7 +1,7 @@
 {
   "channelId": "UCRJV_1aV4aZjFAEUn6o5arw",
   "channelName": "Juno Umezono",
-  "lastUpdated": "2026-11-12T23:03:06.456Z",
+  "lastUpdated": "2026-11-18T21:05:13.512Z",
   "streams": {
     "bK6Kxcz6aR8": {
       "cur": {
@@ -1715,6 +1715,10 @@
       "gift": 1,
       "recv": 20,
       "sent": 20
+    },
+    "w-dK_2ThBTM": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
