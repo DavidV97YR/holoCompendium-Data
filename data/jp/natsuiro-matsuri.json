@@ -8,16 +8,16 @@
     "bannerUrl": "https://yt3.googleusercontent.com/keU8I8VqscSvZYS5FycHbpoQ_ZjAZGLQewhC4KcV-e8LY9R9N1yvzfWwdo66rawJ_O2QVTqWrw=s0",
     "subscriberCount": 1610000
   },
-  "lastUpdated": "2026-11-18T14:02:34.158Z",
+  "lastUpdated": "2026-11-18T16:02:35.994Z",
   "videoCount": 1969,
   "videos": [
     {
       "id": "pe5fK7hWy1k",
       "title": "【鳴潮】リナシータ編進めるぞ～！！【ホロライブ/夏色まつり】",
-      "published": "2026-11-18T05:04:17.000Z",
+      "published": "2026-11-18T15:28:57+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 8359,
+      "status": "past",
       "scheduledStart": "2026-11-18T13:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-18T13:02:49.000Z"
@@ -19000,7 +19000,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2025-12-24T15:00:00Z"
+      "scheduledStart": "2025-12-24T15:00:00Z",
+      "missStreak": 1
     },
     {
       "id": "IW5b7btfayI",
