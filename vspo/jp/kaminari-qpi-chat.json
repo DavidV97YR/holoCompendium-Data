@@ -1,7 +1,7 @@
 {
   "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
   "channelName": "Kaminari Qpi",
-  "lastUpdated": "2026-11-15T22:02:12.450Z",
+  "lastUpdated": "2026-11-18T13:04:29.981Z",
   "streams": {
     "h5gzZkssz-w": {
       "cur": {
@@ -8486,6 +8486,10 @@
     "BjvctUuOwiY": 0,
     "RttCb1Dd79Q": {
       "member": 1
+    },
+    "tkeC2easQJE": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
