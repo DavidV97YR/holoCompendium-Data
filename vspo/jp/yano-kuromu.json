@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/NYbjtvspd82kF5napVNMe9O8WhQ6HQTsk9hZkbWiJM-oAU9gAMtjXZXs_LHeKrjCZ3-sVEXNFn4=s0",
     "subscriberCount": 631000
   },
-  "lastUpdated": "2026-11-19T02:13:48.350Z",
+  "lastUpdated": "2026-11-19T06:28:22.961Z",
   "videoCount": 753,
   "videos": [
     {
@@ -17,7 +17,7 @@
       "published": "2026-11-19T01:25:29.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "past",
       "typedBy": "innertube",
       "scheduledStart": "2026-11-19T01:25:29.000Z"
     },
@@ -44,13 +44,14 @@
     },
     {
       "id": "2-t8r94peOc",
-      "title": "あ、あさだゎ!!! #shorts",
+      "title": "あ、あさだゎ！！！ #shorts",
       "published": "2026-11-17T15:50:30.000Z",
-      "type": "stream",
-      "duration": 3376,
+      "type": "member",
+      "duration": 3380,
       "status": "past",
       "typedBy": "innertube",
-      "scheduledStart": "2026-11-17T15:50:30.000Z"
+      "scheduledStart": "2026-11-17T15:50:30.000Z",
+      "actualStart": "2026-11-19T00:29:07.000Z"
     },
     {
       "id": "totQF9be0Bo",
