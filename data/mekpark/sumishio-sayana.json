@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
     "subscriberCount": 75200
   },
-  "lastUpdated": "2026-11-19T12:09:34.664Z",
+  "lastUpdated": "2026-11-19T14:09:49.164Z",
   "videoCount": 398,
   "videos": [
     {
@@ -27,8 +27,8 @@
       "title": "【歌枠】昭和歌謡祭⁉️飲酒しながら昭和歌枠🎤🍺今日はスナックりららのママになります💋【#琉海垣りらら #りららだいびんぐ】",
       "published": "2026-11-18T11:50:14.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 7200,
+      "status": "past",
       "scheduledStart": "2026-11-19T11:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-19T11:00:09.000Z"
@@ -123,9 +123,10 @@
       "published": "2026-11-16T14:21:34.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-19T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-19T12:59:29.000Z"
     },
     {
       "id": "jl-mMzFVICU",
