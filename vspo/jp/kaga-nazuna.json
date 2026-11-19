@@ -8,9 +8,31 @@
     "bannerUrl": "https://yt3.googleusercontent.com/Av1gFK_jUR-q4zbqkhKbjeuwg2jbOwwU63TAsasubFW36OelKojjbEzc2lL29bM10-ipEWiVyg=s0",
     "subscriberCount": 502000
   },
-  "lastUpdated": "2026-11-19T10:10:54.324Z",
-  "videoCount": 2120,
+  "lastUpdated": "2026-11-19T15:31:27.014Z",
+  "videoCount": 2122,
   "videos": [
+    {
+      "id": "52ZsAgjgZDU",
+      "title": "寝る前にはなそう",
+      "published": "2026-11-19T15:28:49.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-11-19T15:30:00.000Z",
+      "actualStart": "2026-11-19T15:29:21.000Z",
+      "typedBy": "data-api"
+    },
+    {
+      "id": "zu6OV8JQ4Kc",
+      "title": "寝る前にはなそう",
+      "published": "2026-11-19T15:18:21.000Z",
+      "type": "stream",
+      "duration": 400,
+      "status": "past",
+      "scheduledStart": "2026-11-19T15:20:00.000Z",
+      "actualStart": "2026-11-19T15:21:51.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "yBlys5w7Hd8",
       "title": "【APEX】賞金うおおおおおお！！！優勝うおおおお#FFL【ぶいすぽ/花芽なずな】",
