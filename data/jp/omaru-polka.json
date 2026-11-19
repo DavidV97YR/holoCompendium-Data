@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/EP1u-nLVWBd7baERapt2e_-iI4YVl1wCukSEmw0FP2CJFompE-7TtSlxG0uKk2oT5Kn8l54g1w=s0",
     "subscriberCount": 1380000
   },
-  "lastUpdated": "2026-11-19T08:01:01.088Z",
+  "lastUpdated": "2026-11-19T10:04:24.215Z",
   "videoCount": 2551,
   "videos": [
+    {
+      "id": "MD8WSyRrG7U",
+      "title": "【ポルカの伝説】ホロメンの後輩で来てほしい野菜",
+      "published": "2026-11-19T10:00:07+00:00",
+      "type": "video",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-11-19T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-19T10:00:07.000Z"
+    },
     {
       "id": "tVnDn3w_wLQ",
       "title": "【死ぬな！】ガッテン承知の助で歌ってみた  #vtuber #尾丸ポルカ #shorts",
@@ -19,16 +30,6 @@
       "duration": 30,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "MD8WSyRrG7U",
-      "title": "【ポルカの伝説】ホロメンの後輩で来てほしい野菜",
-      "published": "2026-11-19T06:14:02.000Z",
-      "type": "video",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-19T10:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "HzAbJ2J5TFY",
