@@ -6,9 +6,9 @@
     "slug": "sumishio-sayana",
     "avatarUrl": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4",
     "bannerUrl": "https://yt3.googleusercontent.com/pk1k7w_RAY7KVZHsQsah_kyO7G3du9fxHtT9BKYyBmKF7oIhaabf6YT58xDzbY_cRA-AHvAO8w=s0",
-    "subscriberCount": 75100
+    "subscriberCount": 75200
   },
-  "lastUpdated": "2026-11-19T10:09:55.771Z",
+  "lastUpdated": "2026-11-19T12:09:34.664Z",
   "videoCount": 398,
   "videos": [
     {
@@ -28,9 +28,10 @@
       "published": "2026-11-18T11:50:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-19T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-19T11:00:09.000Z"
     },
     {
       "id": "diN2PJ0ychQ",
