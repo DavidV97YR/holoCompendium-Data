@@ -8,16 +8,16 @@
     "bannerUrl": "https://yt3.googleusercontent.com/w_n8yUnJiwX4WfpFKYDPFKtMrk0my03WJSNpraNZ79bu0OfgXEIPtKm77dERXitsmQ_Y4bH7Jg=s0",
     "subscriberCount": 2800000
   },
-  "lastUpdated": "2026-11-20T13:31:00.908Z",
+  "lastUpdated": "2026-11-20T14:03:11.083Z",
   "videoCount": 2838,
   "videos": [
     {
       "id": "HD1RfWpmM2k",
       "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published": "2026-11-20T13:16:44.000Z",
+      "published": "2026-11-20T13:54:52+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 1581,
+      "status": "past",
       "scheduledStart": "2026-11-20T13:15:00.000Z",
       "actualStart": "2026-11-20T13:26:13.000Z",
       "typedBy": "data-api"
@@ -25,13 +25,24 @@
     {
       "id": "9pgsqaOxo4U",
       "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published": "2026-11-20T12:07:07.000Z",
+      "published": "2026-11-20T13:22:49+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 4068,
+      "status": "past",
       "scheduledStart": "2026-11-20T12:07:06.000Z",
       "actualStart": "2026-11-20T12:10:13.000Z",
       "typedBy": "data-api"
+    },
+    {
+      "id": "_qgCikLYrTo",
+      "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+      "published": "2026-11-20T12:13:07+00:00",
+      "type": "stream",
+      "duration": 3968,
+      "status": "past",
+      "scheduledStart": "2026-11-20T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-20T11:01:54.000Z"
     },
     {
       "id": "YFfMY2abxJA",
@@ -43,17 +54,6 @@
       "scheduledStart": "2026-11-20T09:30:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-20T09:30:55.000Z"
-    },
-    {
-      "id": "_qgCikLYrTo",
-      "title": "【GTA VI】ついに発売！今日から始まるバイスシティ生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-      "published": "2026-11-20T04:55:37.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-20T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-20T11:01:54.000Z"
     },
     {
       "id": "xm0ZxpDQYJg",
