@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0",
     "subscriberCount": 2660000
   },
-  "lastUpdated": "2026-11-20T00:06:01.251Z",
+  "lastUpdated": "2026-11-20T04:06:30.182Z",
   "videoCount": 1996,
   "videos": [
+    {
+      "id": "-7bwpOUVrNo",
+      "title": "【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive",
+      "published": "2026-11-20T02:18:53+00:00",
+      "type": "stream",
+      "duration": 11429,
+      "status": "past",
+      "scheduledStart": "2026-11-19T23:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-19T23:00:32.000Z"
+    },
     {
       "id": "VmVocaicQTs",
       "title": "【MOUSE: P.I. for Hire】6 out of 10 too much cheese #calliolive",
@@ -30,17 +41,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-21T04:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "-7bwpOUVrNo",
-      "title": "【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive",
-      "published": "2026-11-19T08:45:33.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-19T23:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-19T23:00:32.000Z"
     },
     {
       "id": "tzzuQIFzdUo",

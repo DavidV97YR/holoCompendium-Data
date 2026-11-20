@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0",
     "subscriberCount": 707000
   },
-  "lastUpdated": "2026-11-20T03:01:03.857Z",
+  "lastUpdated": "2026-11-20T04:12:20.130Z",
   "videoCount": 1836,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-11-20T02:58:48.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-20T03:15:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-20T03:10:35.000Z"
     },
     {
       "id": "WPQ9hayuwOQ",
@@ -48,7 +49,7 @@
       "title": "めずらしくおひるざつ~",
       "published": "2026-11-18T04:12:09Z",
       "type": "stream",
-      "duration": 5404,
+      "duration": 5308,
       "status": "past",
       "scheduledStart": "2026-11-18T02:35:00.000Z",
       "actualStart": "2026-11-18T02:38:04.000Z",
