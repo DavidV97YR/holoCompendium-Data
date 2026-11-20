@@ -1,7 +1,7 @@
 {
   "channelId": "UCKSpM183c85d5V2cW5qaUjA",
   "channelName": "Narin Mikure",
-  "lastUpdated": "2026-11-13T07:02:00.995Z",
+  "lastUpdated": "2026-11-20T09:01:38.043Z",
   "streams": {
     "0rNpj_axApY": {
       "cur": {
@@ -2088,6 +2088,18 @@
       "gift": 1,
       "recv": 1,
       "sent": 1
+    },
+    "PNrZa6T4Bh4": {
+      "cur": {
+        "¥": 4200,
+        "$": 7
+      },
+      "sc": 2,
+      "sticker": 2,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 6,
+      "sent": 6
     }
   }
 }
