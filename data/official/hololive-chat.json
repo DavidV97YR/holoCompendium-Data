@@ -1,7 +1,7 @@
 {
   "channelId": "UCJFZiqLMntJufDCHc6bQixg",
   "channelName": "hololive",
-  "lastUpdated": "2026-11-20T12:02:33.946Z",
+  "lastUpdated": "2026-11-20T13:06:16.796Z",
   "streams": {
     "ll4X00r44UU": {
       "cur": {
@@ -38,6 +38,14 @@
     },
     "8Z6Fl9GlPog": {
       "member": 1
+    },
+    "QWb46fkCrys": {
+      "cur": {
+        "$": 5,
+        "¥": 200
+      },
+      "sc": 2,
+      "member": 2
     }
   }
 }
