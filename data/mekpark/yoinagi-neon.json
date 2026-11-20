@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 124000
   },
-  "lastUpdated": "2026-11-20T10:09:11.450Z",
+  "lastUpdated": "2026-11-20T12:09:31.884Z",
   "videoCount": 297,
   "videos": [
+    {
+      "id": "mqzhPMFOu-8",
+      "title": "【ガチ練習】今日も元気に練習だ！！【 #UNIT_B / #玲銘ミラ】",
+      "published": "2026-11-20T10:14:42+00:00",
+      "type": "stream",
+      "duration": 18161,
+      "status": "past",
+      "scheduledStart": "2026-11-20T05:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-20T05:00:15.000Z"
+    },
     {
       "id": "_xinTG-a3G8",
       "title": "【Minecraft】改装（落とし穴）完成めざす！！【 #UNIT_B / #玲銘ミラ】",
@@ -87,17 +98,6 @@
       "actualStart": "2026-11-17T05:00:03.000Z"
     },
     {
-      "id": "mqzhPMFOu-8",
-      "title": "【ガチ練習】今日も元気に練習だ！！【 #UNIT_B / #玲銘ミラ】",
-      "published": "2026-11-17T07:10:40.000Z",
-      "type": "stream",
-      "duration": 18161,
-      "status": "past",
-      "scheduledStart": "2026-11-20T05:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-20T05:00:15.000Z"
-    },
-    {
       "id": "d50y85xP-oA",
       "title": "【Minecraft】アイアンゴーレムトラップを作りたい⛏【 #UNIT_B / #ゆにびマイクラ】",
       "published": "2026-11-16T15:25:22+00:00",
@@ -169,9 +169,10 @@
       "published": "2026-11-13T10:53:33.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-20T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-20T11:00:42.000Z"
     },
     {
       "id": "JluPD8Rqco0",

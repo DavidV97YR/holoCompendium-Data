@@ -6,9 +6,9 @@
     "slug": "sorashina-sopia",
     "avatarUrl": "https://yt3.ggpht.com/YXxYUbMUyZJoaXHM6o6t5DrJKypsgFxrLoQofAa6gUlBpahlVI4fhcskR53XfzDahQkH_PsjaUY",
     "bannerUrl": "https://yt3.googleusercontent.com/5axB48rZadSq8B5enQe5xhCoPXQ7Q6-mWXPAmkdhwUJjDgfEVqmEzERo8KUQiLx7S8HPcZ72PA=s0",
-    "subscriberCount": 337000
+    "subscriberCount": 338000
   },
-  "lastUpdated": "2026-11-20T03:00:41.794Z",
+  "lastUpdated": "2026-11-20T12:10:24.388Z",
   "videoCount": 56,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-11-20T02:34:14.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-20T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-20T11:02:53.000Z"
     },
     {
       "id": "vWZGK_nD5bY",
