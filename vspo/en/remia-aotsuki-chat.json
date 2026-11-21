@@ -1,7 +1,7 @@
 {
   "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
   "channelName": "Remia Aotsuki",
-  "lastUpdated": "2026-11-21T03:02:01.666Z",
+  "lastUpdated": "2026-11-21T04:01:25.301Z",
   "streams": {
     "fg_msVOcBCU": {
       "cur": {
@@ -3430,8 +3430,11 @@
     "HiFHUN4NW7I": 0,
     "45nB48NyRPM": 0,
     "_9I_WuYEr1s": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "$": 9.99
+      },
+      "sc": 1,
+      "milestone": 1
     }
   }
 }
