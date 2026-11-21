@@ -1,7 +1,7 @@
 {
   "channelId": "UCOyYb1c43VlX9rc_lT6NKQw",
   "channelName": "Ayunda Risu",
-  "lastUpdated": "2026-11-19T17:03:31.815Z",
+  "lastUpdated": "2026-11-21T11:02:19.327Z",
   "streams": {
     "qlYLSPbryjg": {
       "cur": {
@@ -16893,6 +16893,16 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "EK86_zSVsn4": {
+      "cur": {
+        "$": 5
+      },
+      "sc": 1,
+      "member": 1,
+      "gift": 2,
+      "recv": 10,
+      "sent": 10
     }
   }
 }
