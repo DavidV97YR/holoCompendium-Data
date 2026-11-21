@@ -8,29 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/lS_8xng9FBW43-gQbWyBkQjMKId6Vi0ECeEEup6lXJ582V_k5nsONUcmhudOBnQFuVOIofH3=s0",
     "subscriberCount": 464000
   },
-  "lastUpdated": "2026-11-21T06:28:32.579Z",
+  "lastUpdated": "2026-11-21T10:12:41.736Z",
   "videoCount": 984,
   "videos": [
     {
+      "id": "sWYMjQhx9e0",
+      "title": "【今夜のつむおは何を食う】つむおじさん、本日のご飯を決めます。🍚#１４【ぶいすぽっ！ / 紡木こかげ】",
+      "published": "2026-11-21T10:10:13+00:00",
+      "type": "stream",
+      "duration": 3264,
+      "status": "past",
+      "scheduledStart": "2026-11-21T09:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-21T09:00:07.000Z"
+    },
+    {
       "id": "Ab4B_GxDgQY",
       "title": "【VALORANT】堅忍不抜【ぶいすぽっ！ / 紡木こかげ】",
-      "published": "2026-11-21T04:49:40.000Z",
+      "published": "2026-11-21T08:55:13+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 13300,
+      "status": "past",
       "typedBy": "innertube",
       "scheduledStart": "2026-11-21T05:00:00.000Z",
       "actualStart": "2026-11-21T05:04:07.000Z"
-    },
-    {
-      "id": "sWYMjQhx9e0",
-      "title": "【今夜のつむおは何を食う】つむおじさん、本日のご飯を決めます。🍚#１４【ぶいすぽっ！ / 紡木こかげ】",
-      "published": "2026-11-20T16:04:00.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-21T09:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "61CJ7geINfM",
@@ -48,7 +49,7 @@
       "title": "【雑談】ぶいすPOPを振り返る、皆の感想聞かせて🥺【ぶいすぽっ！ / 紡木こかげ】",
       "published": "2026-11-19T11:04:27+00:00",
       "type": "stream",
-      "duration": 5805,
+      "duration": 5553,
       "status": "past",
       "scheduledStart": "2026-11-19T09:20:00.000Z",
       "typedBy": "innertube",
