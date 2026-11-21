@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/LMg2UC_mscUw5qEN-BUXWD8Y4QMZSAVDQom9kSQ9gtHPpT64QxRyXUS4yFQfiAoByM_r-JetSg=s0",
     "subscriberCount": 102000
   },
-  "lastUpdated": "2026-11-21T22:00:58.584Z",
+  "lastUpdated": "2026-11-21T22:13:04.150Z",
   "videoCount": 655,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "duration": 35,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "CfrVGT4yK7M",
+      "title": "【GTA VI】VICE CITY HERE WE COME !!! [PART 2]【#VSPOEN #AryaKuroha】",
+      "published": "2026-11-21T20:20:54+00:00",
+      "type": "stream",
+      "duration": 39715,
+      "status": "past",
+      "scheduledStart": "2026-11-19T23:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-19T23:01:40.000Z"
     },
     {
       "id": "LGhyBa7Lk5c",
@@ -60,17 +71,6 @@
       "scheduledStart": "2026-11-19T05:00:00.000Z",
       "actualStart": "2026-11-19T05:00:29.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "CfrVGT4yK7M",
-      "title": "【GTA VI】VICE CITY HERE WE COME !!! [PART 2]【#VSPOEN #AryaKuroha】",
-      "published": "2026-11-19T22:09:13.000Z",
-      "type": "stream",
-      "duration": 39715,
-      "status": "past",
-      "scheduledStart": "2026-11-19T23:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-19T23:01:40.000Z"
     },
     {
       "id": "eU9qYv5S3pA",
