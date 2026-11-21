@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5eeeR5MicXGp-wrT04AutRX4kT3Sb1WVKmGBqCToXpj4frJSIdNXKKM75zBF0H2ivpTyEj79eQ=s0",
     "subscriberCount": 814000
   },
-  "lastUpdated": "2026-11-21T11:31:14.363Z",
+  "lastUpdated": "2026-11-21T12:10:56.304Z",
   "videoCount": 2831,
   "videos": [
     {
@@ -23,6 +23,17 @@
       "typedBy": "data-api"
     },
     {
+      "id": "O1ocwE3ZZ1I",
+      "title": "【 #コアラマットレス 】マットレストいえばみたいなところある【 ぶいすぽっ！胡桃のあ 】",
+      "published": "2026-11-21T11:05:06+00:00",
+      "type": "stream",
+      "duration": 3634,
+      "status": "past",
+      "scheduledStart": "2026-11-21T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-21T10:01:01.000Z"
+    },
+    {
       "id": "yBJnghJ4qjI",
       "title": "【 魔法少女ノ魔女裁判 】あほでも理解できるんかな(不安) ※ネタバレあり【 ぶいすぽっ!胡桃のあ 】",
       "published": "2026-11-20T10:47:21+00:00",
@@ -32,17 +43,6 @@
       "scheduledStart": "2026-11-20T06:35:00.000Z",
       "actualStart": "2026-11-20T06:42:07.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "O1ocwE3ZZ1I",
-      "title": "【 #コアラマットレス 】マットレストいえばみたいなところある【 ぶいすぽっ！胡桃のあ 】",
-      "published": "2026-11-20T10:46:52.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-21T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-21T10:01:01.000Z"
     },
     {
       "id": "2UVoYe_ushs",

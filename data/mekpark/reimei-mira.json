@@ -8,13 +8,13 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 124000
   },
-  "lastUpdated": "2026-11-21T10:09:30.201Z",
+  "lastUpdated": "2026-11-21T12:09:26.052Z",
   "videoCount": 299,
   "videos": [
     {
       "id": "fin2eF2SvEk",
       "title": "【Minecraft】エンドへの準備完遂編！！【 #UNIT_B / #ゆにびマイクラ】",
-      "published": "2026-11-20T18:44:55.000Z",
+      "published": "2026-11-21T10:18:57+00:00",
       "type": "stream",
       "duration": 25230,
       "status": "past",
@@ -28,9 +28,10 @@
       "published": "2026-11-20T18:38:37.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-21T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-21T10:59:48.000Z"
     },
     {
       "id": "9d5ecQza6IU",
