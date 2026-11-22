@@ -1,7 +1,7 @@
 {
   "channelId": "UC_sFNM0z0MWm9A6WlKPuMMg",
   "channelName": "Nerissa Ravencroft",
-  "lastUpdated": "2026-11-21T05:02:58.120Z",
+  "lastUpdated": "2026-11-22T05:02:00.862Z",
   "streams": {
     "jAF7sZz4Y1E": {
       "cur": {
@@ -9330,6 +9330,35 @@
       "gift": 4,
       "recv": 1,
       "sent": 36
+    },
+    "wPe0DW46bRY": {
+      "cur": {
+        "THB": 200,
+        "HUF": 2000,
+        "$": 1078.98,
+        "A$": 100,
+        "¥": 9820,
+        "€": 205,
+        "₩": 100000,
+        "HK$": 2040,
+        "NT$": 150,
+        "UYU": 150,
+        "CLP": 25000,
+        "CRC": 10000,
+        "CA$": 65,
+        "SEK": 500,
+        "₫": 50000,
+        "MYR": 15,
+        "MX$": 500,
+        "₱": 375,
+        "R$": 10
+      },
+      "sc": 73,
+      "member": 9,
+      "milestone": 144,
+      "gift": 12,
+      "recv": 77,
+      "sent": 98
     }
   }
 }
