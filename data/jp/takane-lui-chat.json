@@ -1,7 +1,7 @@
 {
   "channelId": "UCs9_O1tRPMQTHQ-N_L6FU2g",
   "channelName": "Takane Lui",
-  "lastUpdated": "2026-11-21T15:05:33.131Z",
+  "lastUpdated": "2026-11-22T07:02:27.410Z",
   "streams": {
     "zY4xF3Q3i9E": 0,
     "U0JrgWxheSo": 0,
@@ -18151,6 +18151,13 @@
     "EHIhYF-bAIs": {
       "member": 1,
       "milestone": 2
+    },
+    "sqlWqMpM84Q": {
+      "member": 2,
+      "milestone": 2,
+      "gift": 1,
+      "recv": 10,
+      "sent": 10
     }
   }
 }

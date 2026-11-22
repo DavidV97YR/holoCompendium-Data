@@ -1,7 +1,7 @@
 {
   "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
   "channelName": "Arya Kuroha",
-  "lastUpdated": "2026-11-21T18:08:57.021Z",
+  "lastUpdated": "2026-11-22T07:02:48.150Z",
   "streams": {
     "dCWRZUezxhk": {
       "member": 1,
@@ -4362,6 +4362,10 @@
       "gift": 1,
       "recv": 5,
       "sent": 5
+    },
+    "OHmNaTXog8k": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
