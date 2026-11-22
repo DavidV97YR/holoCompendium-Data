@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0",
     "subscriberCount": 2150000
   },
-  "lastUpdated": "2026-11-22T09:01:02.763Z",
+  "lastUpdated": "2026-11-22T12:02:48.967Z",
   "videoCount": 1918,
   "videos": [
     {
@@ -37,16 +37,17 @@
       "published": "2026-11-21T15:23:33.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-22T11:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-22T11:00:48.000Z"
     },
     {
       "id": "ROHtRsXeOaE",
       "title": "浮気なんかしてないよね？？？",
       "published": "2026-11-20T13:12:40+00:00",
       "type": "stream",
-      "duration": 4060,
+      "duration": 3971,
       "status": "past",
       "scheduledStart": "2026-11-20T12:00:00.000Z",
       "typedBy": "innertube",
