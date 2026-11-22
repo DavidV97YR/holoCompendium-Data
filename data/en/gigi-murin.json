@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iBaGLA10FOOPnKA8dJP-KYJJW099KsNFrZEgjWH-8IBTArRVsm455XrcSAZdxT9ev7xHdrL4z7o=s0",
     "subscriberCount": 620000
   },
-  "lastUpdated": "2026-11-21T22:07:42.075Z",
+  "lastUpdated": "2026-11-22T02:07:51.716Z",
   "videoCount": 605,
   "videos": [
+    {
+      "id": "tJoru1Dc5wQ",
+      "title": "【SC KETCHUP】LET'S KETCHUP!",
+      "published": "2026-11-22T01:02:07+00:00",
+      "type": "stream",
+      "duration": 10397,
+      "status": "past",
+      "scheduledStart": "2026-11-21T22:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-21T22:02:49.000Z"
+    },
     {
       "id": "4brS7Q-Ytmk",
       "title": "【DEADLOCK】waiter! waiter! 5 MORE HOURS OF DEADLOCK with @HyakutoKyoko​",
@@ -18,19 +29,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2026-11-22T02:00:00.000Z",
+      "scheduledStart": "2026-11-22T03:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "tJoru1Dc5wQ",
-      "title": "【SC KETCHUP】LET'S KETCHUP!",
-      "published": "2026-11-21T08:44:35.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-21T22:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-21T22:02:49.000Z"
     },
     {
       "id": "5OuKBxNjb-I",

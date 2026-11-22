@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/dhY9Tmg0hhqdsU1GAETSnb0zFIeISS4AOuwsjJwO6YSWhq85tYbTj6cV79u-1UT_u29d_GHT9g=s0",
     "subscriberCount": 850000
   },
-  "lastUpdated": "2026-11-22T02:01:20.007Z",
+  "lastUpdated": "2026-11-22T02:12:11.699Z",
   "videoCount": 1845,
   "videos": [
     {
@@ -22,6 +22,17 @@
       "typedBy": "innertube"
     },
     {
+      "id": "B8hfc0VWDzU",
+      "title": "【 ニチアサ 】朝は起きる！！！！！！！！！！！！【 ぶいすぽっ！ / 小森めと 】",
+      "published": "2026-11-22T01:23:19+00:00",
+      "type": "stream",
+      "duration": 8244,
+      "status": "past",
+      "scheduledStart": "2026-11-21T23:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-21T23:00:08.000Z"
+    },
+    {
       "id": "rh1sYamtNLc",
       "title": "【 VALORANT 】がらすにしたふるぱ【 ぶいすぽっ！ / 小森めと 】",
       "published": "2026-11-21T13:26:56+00:00",
@@ -31,16 +42,6 @@
       "typedBy": "innertube",
       "scheduledStart": "2026-11-21T10:00:00.000Z",
       "actualStart": "2026-11-21T10:04:19.000Z"
-    },
-    {
-      "id": "B8hfc0VWDzU",
-      "title": "【 ニチアサ 】朝は起きる！！！！！！！！！！！！【 ぶいすぽっ！ / 小森めと 】",
-      "published": "2026-11-21T13:18:01.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-21T23:00:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "aNn91pEbx_A",
