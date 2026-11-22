@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/Av1gFK_jUR-q4zbqkhKbjeuwg2jbOwwU63TAsasubFW36OelKojjbEzc2lL29bM10-ipEWiVyg=s0",
     "subscriberCount": 502000
   },
-  "lastUpdated": "2026-11-22T14:10:50.283Z",
+  "lastUpdated": "2026-11-22T16:10:36.772Z",
   "videoCount": 2125,
   "videos": [
+    {
+      "id": "ihp4V7EJfBU",
+      "title": "【歌枠】ラブライブふぇすで脳焼かれた件【ぶいすぽ/花芽なずな】",
+      "published": "2026-11-22T15:12:48+00:00",
+      "type": "stream",
+      "duration": 6830,
+      "status": "past",
+      "scheduledStart": "2026-11-22T13:15:00.000Z",
+      "actualStart": "2026-11-22T13:11:59.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "Wec0QGmjYgY",
       "title": "【APEX】ぶいすぽGGスクリム！麻倉シノ、サイネ！！！！！【ぶいすぽ/花芽なずな】",
@@ -20,17 +31,6 @@
       "status": "past",
       "scheduledStart": "2026-11-22T09:45:00.000Z",
       "actualStart": "2026-11-22T09:46:55.000Z",
-      "typedBy": "data-api"
-    },
-    {
-      "id": "ihp4V7EJfBU",
-      "title": "【歌枠】ラブライブふぇすで脳焼かれた件【ぶいすぽ/花芽なずな】",
-      "published": "2026-11-22T13:03:44.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-22T13:15:00.000Z",
-      "actualStart": "2026-11-22T13:11:59.000Z",
       "typedBy": "data-api"
     },
     {
