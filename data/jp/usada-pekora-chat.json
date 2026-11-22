@@ -1,7 +1,7 @@
 {
   "channelId": "UC1DCedRgGHBdm81E1llLhOQ",
   "channelName": "Usada Pekora",
-  "lastUpdated": "2026-11-22T16:01:28.928Z",
+  "lastUpdated": "2026-11-22T17:09:42.531Z",
   "streams": {
     "jIwPff9zoZI": {
       "cur": {
@@ -33195,12 +33195,20 @@
       "sent": 7
     },
     "4ayPpe77wEY": {
-      "e": "http403",
-      "n": 4
+      "e": "noreplay",
+      "n": 5
     },
     "UBo4HXEQECs": {
-      "e": "http403",
-      "n": 2
+      "member": 3,
+      "gift": 8,
+      "recv": 33,
+      "sent": 33
+    },
+    "mo1gah3pcyw": {
+      "member": 3,
+      "gift": 14,
+      "recv": 137,
+      "sent": 167
     }
   }
 }
