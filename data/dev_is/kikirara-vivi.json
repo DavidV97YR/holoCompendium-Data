@@ -8,12 +8,12 @@
     "bannerUrl": "https://yt3.googleusercontent.com/A7HABJbkFvIMWyQeTAQ51LFKuZlc7WCgmH02dPTEu0pWLYK-cTg4Fp0Pi2KIWnPwMDOKBvWCFg=s0",
     "subscriberCount": 767000
   },
-  "lastUpdated": "2026-11-22T13:00:35.898Z",
+  "lastUpdated": "2026-11-22T14:09:28.124Z",
   "videoCount": 1366,
   "videos": [
     {
       "id": "yhI1IC8bnYE",
-      "title": "みんなは何パンが好き？🥐パンどろぼう #vtuber #ホロライブ #dance #shorts",
+      "title": "パンどろぼう #vtuber #ホロライブ",
       "published": "2026-11-22T12:41:14.000Z",
       "type": "short",
       "duration": 18,
@@ -26,8 +26,10 @@
       "published": "2026-11-22T12:31:28.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "typedBy": "innertube"
+      "status": "live",
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-22T13:00:00.000Z",
+      "actualStart": "2026-11-22T13:02:26.000Z"
     },
     {
       "id": "_C_IGBiWVw8",

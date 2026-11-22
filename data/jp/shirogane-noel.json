@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0",
     "subscriberCount": 2060000
   },
-  "lastUpdated": "2026-11-22T12:03:17.566Z",
+  "lastUpdated": "2026-11-22T14:03:24.990Z",
   "videoCount": 1861,
   "videos": [
+    {
+      "id": "kP3DVAi_eXA",
+      "title": "【Nintendo Switch Sports Resort】まだギリ秋？！3Dオフコラボ×BIG3でスポーツの秋だああああ💪🔥【白銀ノエル/ホロライブ】",
+      "published": "2026-11-22T12:25:44+00:00",
+      "type": "stream",
+      "duration": 4662,
+      "status": "past",
+      "scheduledStart": "2026-11-22T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-22T11:01:04.000Z"
+    },
     {
       "id": "PDmHn_NpMnE",
       "title": "【朝活雑談】おはまっするさんでーッ💪✨【白銀ノエル/ホロライブ】",
@@ -21,17 +32,6 @@
       "scheduledStart": "2026-11-22T01:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-22T01:00:14.000Z"
-    },
-    {
-      "id": "kP3DVAi_eXA",
-      "title": "【Nintendo Switch Sports Resort】まだギリ秋？！3Dオフコラボ×BIG3でスポーツの秋だああああ💪🔥【白銀ノエル/ホロライブ】",
-      "published": "2026-11-21T17:52:28.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-22T11:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-22T11:01:04.000Z"
     },
     {
       "id": "6SNcJKQG3Wc",
@@ -49,7 +49,7 @@
       "title": "【牛丼店シミュレーター】牛丼大好き女騎士！世界一の牛丼屋さんを作りたい！！【白銀ノエル/ホロライブ】",
       "published": "2026-11-20T14:56:35+00:00",
       "type": "stream",
-      "duration": 6572,
+      "duration": 6373,
       "status": "past",
       "scheduledStart": "2026-11-20T13:00:00.000Z",
       "typedBy": "data-api",

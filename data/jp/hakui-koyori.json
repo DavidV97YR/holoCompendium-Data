@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/zKD5BdupX59MQphlisd2ZswiBeuoC5TfcnW92BN--hjkJ2VlpzJJiw0nrZr1PMXKgcNEHLQVWJs=s0",
     "subscriberCount": 1380000
   },
-  "lastUpdated": "2026-11-22T10:04:56.873Z",
+  "lastUpdated": "2026-11-22T14:04:56.677Z",
   "videoCount": 3594,
   "videos": [
+    {
+      "id": "q5Pw7TBGesE",
+      "title": "【 #ホロじゃんエンジョイ杯 】リリース直前！豪華賞品アリ！？初心者も経験者も一緒に麻雀を楽しもう！【神視点本配信/ホロライブ】",
+      "published": "2026-11-22T13:00:48+00:00",
+      "type": "stream",
+      "duration": 10675,
+      "status": "past",
+      "scheduledStart": "2026-11-22T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-22T09:50:08.000Z"
+    },
     {
       "id": "5i1yRO7fotE",
       "title": "【空の軌跡 the 2nd】完全初見！8章やってくぞおおおおお！！！ #9 【博衣こより/ホロライブ】※ネタバレあり",
@@ -40,17 +51,6 @@
       "duration": 24,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "q5Pw7TBGesE",
-      "title": "【 #ホロじゃんエンジョイ杯 】リリース直前！豪華賞品アリ！？初心者も経験者も一緒に麻雀を楽しもう！【神視点本配信/ホロライブ】",
-      "published": "2026-11-19T11:15:27.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-22T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-22T09:50:08.000Z"
     },
     {
       "id": "_X97yrqlpeQ",
