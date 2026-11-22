@@ -1,7 +1,7 @@
 {
   "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
   "channelName": "Shirogane Noel",
-  "lastUpdated": "2026-11-22T05:03:20.097Z",
+  "lastUpdated": "2026-11-22T15:08:13.291Z",
   "streams": {
     "0nYX_UtNBOM": {
       "member": 3,
@@ -20512,6 +20512,17 @@
       "gift": 2,
       "recv": 10,
       "sent": 10
+    },
+    "kP3DVAi_eXA": {
+      "cur": {
+        "¥": 7700
+      },
+      "sc": 14,
+      "member": 1,
+      "milestone": 1,
+      "gift": 9,
+      "recv": 37,
+      "sent": 47
     }
   }
 }

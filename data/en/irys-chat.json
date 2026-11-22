@@ -1,7 +1,7 @@
 {
   "channelId": "UC8rcEBzJSleTkf_-agPM20g",
   "channelName": "IRyS",
-  "lastUpdated": "2026-11-20T07:02:26.365Z",
+  "lastUpdated": "2026-11-22T15:01:32.349Z",
   "streams": {
     "j81SvlkF6jg": {
       "cur": {
@@ -15128,6 +15128,10 @@
       "gift": 12,
       "recv": 162,
       "sent": 167
+    },
+    "9ubnw6FWtcs": {
+      "e": "noreplay",
+      "n": 1
     }
   }
 }
