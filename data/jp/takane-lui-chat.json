@@ -1,7 +1,7 @@
 {
   "channelId": "UCs9_O1tRPMQTHQ-N_L6FU2g",
   "channelName": "Takane Lui",
-  "lastUpdated": "2026-11-23T07:02:02.748Z",
+  "lastUpdated": "2026-11-23T08:01:31.959Z",
   "streams": {
     "zY4xF3Q3i9E": 0,
     "U0JrgWxheSo": 0,
@@ -18170,9 +18170,6 @@
       "recv": 27,
       "sent": 27
     },
-    "s8bt0bGWdTk": {
-      "e": "noreplay",
-      "n": 1
-    }
+    "s8bt0bGWdTk": 0
   }
 }
