@@ -8,9 +8,31 @@
     "bannerUrl": "https://yt3.googleusercontent.com/5eeeR5MicXGp-wrT04AutRX4kT3Sb1WVKmGBqCToXpj4frJSIdNXKKM75zBF0H2ivpTyEj79eQ=s0",
     "subscriberCount": 814000
   },
-  "lastUpdated": "2026-11-23T10:11:08.223Z",
+  "lastUpdated": "2026-11-23T14:11:09.075Z",
   "videoCount": 2838,
   "videos": [
+    {
+      "id": "M-rj1fWtT34",
+      "title": "【 本配信 】#ぶいすぽGG 胡桃のあ presents APEX LEGENDS vol.2【 ぶいすぽっ！胡桃のあ 】",
+      "published": "2026-11-23T13:41:00+00:00",
+      "type": "stream",
+      "duration": 12952,
+      "status": "past",
+      "scheduledStart": "2026-11-23T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T09:52:56.000Z"
+    },
+    {
+      "id": "kM0nvQEuytw",
+      "title": "【 APEX 】ぶいすぽGG ベリーちゃんとエマちゃんとチャンピオンを目指す！✨【 ぶいすぽっ！胡桃のあ 】",
+      "published": "2026-11-23T13:29:04+00:00",
+      "type": "stream",
+      "duration": 10645,
+      "status": "past",
+      "scheduledStart": "2026-11-23T10:05:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T10:06:34.000Z"
+    },
     {
       "id": "9URZkPJqYlg",
       "title": "7月29日に開催した胡桃のあAPEX ぶいすぽGG ハイライト",
@@ -30,28 +52,6 @@
       "scheduledStart": "2026-11-23T05:15:00.000Z",
       "actualStart": "2026-11-23T05:25:50.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "kM0nvQEuytw",
-      "title": "【 APEX 】ぶいすぽGG ベリーちゃんとエマちゃんとチャンピオンを目指す！✨【 ぶいすぽっ！胡桃のあ 】",
-      "published": "2026-11-23T05:00:01.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-23T10:05:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-23T10:06:34.000Z"
-    },
-    {
-      "id": "M-rj1fWtT34",
-      "title": "【 本配信 】#ぶいすぽGG 胡桃のあ presents APEX LEGENDS vol.2【 ぶいすぽっ！胡桃のあ 】",
-      "published": "2026-11-23T04:16:52.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-23T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-23T09:52:56.000Z"
     },
     {
       "id": "PeBmo17jO9Q",
@@ -91,7 +91,7 @@
       "title": "【 魔法少女ノ魔女裁判 】#2 これからどうなるんですか【 ぶいすぽっ！胡桃のあ 】",
       "published": "2026-11-21T14:45:14+00:00",
       "type": "stream",
-      "duration": 11856,
+      "duration": 11795,
       "status": "past",
       "scheduledStart": "2026-11-21T11:15:00.000Z",
       "actualStart": "2026-11-21T11:17:56.000Z",

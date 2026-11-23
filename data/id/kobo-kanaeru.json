@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/HkdBYiIHoZdS3jhzfTtLCAf6upeuzDb_yNeMyMi4fH3JGh57C-S1leqJG2VksyUTpPPKE2jcRSk=s0",
     "subscriberCount": 2800000
   },
-  "lastUpdated": "2026-11-23T10:06:04.486Z",
+  "lastUpdated": "2026-11-23T14:06:09.731Z",
   "videoCount": 896,
   "videos": [
+    {
+      "id": "KFy_qApQWas",
+      "title": "【hololive Dreams】LET ME WIN GRRRRRAAAAAAAAAAAA  #ホロドリトライアスロン",
+      "published": "2026-11-23T12:41:46+00:00",
+      "type": "stream",
+      "duration": 9122,
+      "status": "past",
+      "scheduledStart": "2026-11-23T10:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T10:01:39.000Z"
+    },
     {
       "id": "7yHAJtPZnjw",
       "title": "【Kobolonimbus】Test Stream 🤔",
@@ -21,17 +32,6 @@
       "scheduledStart": "2026-11-22T07:00:00.000Z",
       "typedBy": "data-api",
       "actualStart": "2026-11-22T07:04:10.000Z"
-    },
-    {
-      "id": "KFy_qApQWas",
-      "title": "【hololive Dreams】LET ME WIN GRRRRRAAAAAAAAAAAA  #ホロドリトライアスロン",
-      "published": "2026-11-17T14:31:19.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-23T10:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-23T10:01:39.000Z"
     },
     {
       "id": "HHG4YJEA4Ek",
