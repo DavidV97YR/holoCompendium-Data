@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/YqdUog51dxbv59-FNrUjbu_ZiqhWN5yxdc0clphUqHQZ-nIPmWR9kiUcDEiKheVSYFFc_rjvQg=s0",
     "subscriberCount": 761000
   },
-  "lastUpdated": "2026-11-23T04:08:49.106Z",
+  "lastUpdated": "2026-11-23T06:08:53.701Z",
   "videoCount": 1276,
   "videos": [
     {
@@ -39,7 +39,8 @@
       "duration": 0,
       "status": "live",
       "scheduledStart": "2026-11-23T04:00:00.000Z",
-      "typedBy": "data-api"
+      "typedBy": "data-api",
+      "actualStart": "2026-11-23T04:06:47.000Z"
     },
     {
       "id": "g0MU5pUXZbU",
