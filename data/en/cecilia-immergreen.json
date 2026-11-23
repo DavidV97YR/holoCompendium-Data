@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/A9zTWG0-UHX5Vd-gvKK21o1CGp4cDYPLflDCFHhl4Egs7YfeFfDnXoLIWdDoxDzdHdBGVZZf=s0",
     "subscriberCount": 555000
   },
-  "lastUpdated": "2026-11-22T22:07:52.725Z",
+  "lastUpdated": "2026-11-23T00:08:58.979Z",
   "videoCount": 506,
   "videos": [
+    {
+      "id": "UEaXZENVpgU",
+      "title": "【not really ASMR】READING and tiny small announcement",
+      "published": "2026-11-22T23:01:14+00:00",
+      "type": "stream",
+      "duration": 4164,
+      "status": "past",
+      "scheduledStart": "2026-11-22T21:45:00.000Z",
+      "actualStart": "2026-11-22T21:47:35.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "iCVyAcrd8uc",
       "title": "【DARK SOULS 3】BEATING LITERALLY ONLY ONE BOSS!",
@@ -21,17 +32,6 @@
       "scheduledStart": "2026-11-22T20:15:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-22T20:17:21.000Z"
-    },
-    {
-      "id": "UEaXZENVpgU",
-      "title": "【not really ASMR】READING and tiny small announcement",
-      "published": "2026-11-22T21:36:15.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-22T21:45:00.000Z",
-      "actualStart": "2026-11-22T21:47:35.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "qLJUPGCUPO0",

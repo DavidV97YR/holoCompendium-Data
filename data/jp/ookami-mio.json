@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iT1ZyxP8mUIpXrSD0gsOzGJTWSoIqUhkNwM07tsgaq0Zw-_LLrToxpcFcFAFq5BycHebljvP9w=s0",
     "subscriberCount": 1360000
   },
-  "lastUpdated": "2026-11-22T18:06:00.186Z",
+  "lastUpdated": "2026-11-23T00:03:08.245Z",
   "videoCount": 1695,
   "videos": [
+    {
+      "id": "yw2BUGe3_0Q",
+      "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
+      "published": "2026-11-23T00:00:53+00:00",
+      "type": "stream",
+      "duration": 5251,
+      "status": "past",
+      "scheduledStart": "2026-11-22T22:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-22T22:30:31.000Z"
+    },
     {
       "id": "EMquh5zuKhg",
       "title": "ホロじゃんえんじょい大会決勝卓！！！大神ミオ視点",
@@ -21,16 +32,6 @@
       "scheduledStart": "2026-11-22T11:05:00.000Z",
       "actualStart": "2026-11-22T11:06:04.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "yw2BUGe3_0Q",
-      "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
-      "published": "2026-11-22T10:09:10.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-22T22:30:00.000Z",
-      "typedBy": "innertube"
     },
     {
       "id": "Y5oWD5duWew",

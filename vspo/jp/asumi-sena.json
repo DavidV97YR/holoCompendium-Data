@@ -8,29 +8,29 @@
     "bannerUrl": "https://yt3.googleusercontent.com/JCY2pnKwXdJ-vz9kY_UBwmFMMiql7X3Ic57KIlRaCDkaas_XAOLoitDUDuipD1qBKgcH_Dx5NQ=s0",
     "subscriberCount": 530000
   },
-  "lastUpdated": "2026-11-22T22:01:02.303Z",
+  "lastUpdated": "2026-11-23T00:12:27.275Z",
   "videoCount": 1564,
   "videos": [
     {
+      "id": "XK_jbl9Lqws",
+      "title": "【LoL】CC優勝したよ。次試合に向けてソロ二次会   #LTK【空澄セナ/ぶいすぽっ！】",
+      "published": "2026-11-22T22:52:38+00:00",
+      "type": "stream",
+      "duration": 26036,
+      "status": "past",
+      "scheduledStart": "2026-11-22T15:20:00.000Z",
+      "actualStart": "2026-11-22T15:23:59.000Z",
+      "typedBy": "data-api"
+    },
+    {
       "id": "JJQjDVh9ch0",
-      "title": "IRUS OUT - 米津玄師 / covered by 空澄セナ",
+      "title": "IRIS OUT - 米津玄師 / covered by 空澄セナ",
       "published": "2026-11-22T21:23:46.000Z",
       "type": "video",
       "duration": 0,
       "status": "upcoming",
       "scheduledStart": "2026-11-23T10:30:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "XK_jbl9Lqws",
-      "title": "【LoL】CC優勝したよ。次試合に向けてソロ二次会   #LTK【空澄セナ/ぶいすぽっ！】",
-      "published": "2026-11-22T15:16:09.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-22T15:20:00.000Z",
-      "actualStart": "2026-11-22T15:23:59.000Z",
-      "typedBy": "data-api"
     },
     {
       "id": "hGkAnIDid6M",
@@ -15452,7 +15452,8 @@
       "type": "stream",
       "duration": 0,
       "status": "upcoming",
-      "scheduledStart": "2025-07-19T12:00:00.000Z"
+      "scheduledStart": "2025-07-19T12:00:00.000Z",
+      "missStreak": 1
     },
     {
       "id": "VL98Vx-FgXY",
