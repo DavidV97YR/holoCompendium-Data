@@ -1,7 +1,7 @@
 {
   "channelId": "UCAWSyEs_Io8MtpY3m-zqILA",
   "channelName": "Momosuzu Nene",
-  "lastUpdated": "2026-11-20T17:05:34.464Z",
+  "lastUpdated": "2026-11-23T13:03:23.230Z",
   "streams": {
     "yenHV47ZdOY": {
       "e": "noreplay",
@@ -19064,6 +19064,10 @@
       "gift": 26,
       "recv": 135,
       "sent": 135
+    },
+    "VWHVPoMD27o": {
+      "e": "http503",
+      "n": 0
     }
   }
 }
