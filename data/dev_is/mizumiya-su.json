@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/YqdUog51dxbv59-FNrUjbu_ZiqhWN5yxdc0clphUqHQZ-nIPmWR9kiUcDEiKheVSYFFc_rjvQg=s0",
     "subscriberCount": 761000
   },
-  "lastUpdated": "2026-11-23T09:30:41.213Z",
+  "lastUpdated": "2026-11-23T10:09:09.055Z",
   "videoCount": 1277,
   "videos": [
     {
@@ -19,6 +19,17 @@
       "duration": 46,
       "status": "past",
       "typedBy": "data-api"
+    },
+    {
+      "id": "mvo5QYNnvQs",
+      "title": "【妖怪ウォッチ1】#3 妖怪ウォッチの世界楽しむぞ〜❕※ネタバレ有り【水宮枢／ホロライブ】",
+      "published": "2026-11-23T08:48:48+00:00",
+      "type": "stream",
+      "duration": 15552,
+      "status": "past",
+      "scheduledStart": "2026-11-23T04:00:00.000Z",
+      "typedBy": "data-api",
+      "actualStart": "2026-11-23T04:06:47.000Z"
     },
     {
       "id": "s5zE-af2KS0",
@@ -39,17 +50,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-24T14:00:00.000Z",
       "typedBy": "data-api"
-    },
-    {
-      "id": "mvo5QYNnvQs",
-      "title": "【妖怪ウォッチ1】#3 妖怪ウォッチの世界楽しむぞ〜❕※ネタバレ有り【水宮枢／ホロライブ】",
-      "published": "2026-11-22T13:41:52.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-23T04:00:00.000Z",
-      "typedBy": "data-api",
-      "actualStart": "2026-11-23T04:06:47.000Z"
     },
     {
       "id": "g0MU5pUXZbU",

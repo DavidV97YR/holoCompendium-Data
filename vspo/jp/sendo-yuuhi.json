@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/VlYdMdPDKB1npWiaIMkUWo9kZ4aeuRLA-WPO0MpO2yvd-wbUH4bR6n8xq3WfwAfl2h72fwTC2_Y=s0",
     "subscriberCount": 392000
   },
-  "lastUpdated": "2026-11-23T09:01:30.541Z",
+  "lastUpdated": "2026-11-23T10:12:59.903Z",
   "videoCount": 1013,
   "videos": [
     {
@@ -17,17 +17,18 @@
       "published": "2026-11-23T09:00:26.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-23T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T10:03:09.000Z"
     },
     {
       "id": "1KQZB9szwiE",
       "title": "【League of Legends】そろQでもするか【 ぶいすぽっ！ / 千燈ゆうひ 】",
-      "published": "2026-11-23T05:33:14.000Z",
+      "published": "2026-11-23T08:44:20+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 10756,
+      "status": "past",
       "scheduledStart": "2026-11-23T05:35:00.000Z",
       "actualStart": "2026-11-23T05:36:22.000Z",
       "typedBy": "data-api"

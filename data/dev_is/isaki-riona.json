@@ -8,16 +8,27 @@
     "bannerUrl": "https://yt3.googleusercontent.com/8Nlha957UDRf6M8qAg8WGrHo5FH2aWjDs2hXBkGIjn4HoffmDLTcLv1NsOVmaMHYGNv_VH1EaZM=s0",
     "subscriberCount": 544000
   },
-  "lastUpdated": "2026-11-23T09:30:37.555Z",
+  "lastUpdated": "2026-11-23T10:08:52.740Z",
   "videoCount": 982,
   "videos": [
+    {
+      "id": "KM14kMDVaus",
+      "title": "【重大告知】セルフ３Ⅾでリオナに歌ってほしいホロメンオリ曲リクエストアワー✨【ホロライブ  響咲リオナ】",
+      "published": "2026-11-23T09:32:05+00:00",
+      "type": "stream",
+      "duration": 3406,
+      "status": "past",
+      "scheduledStart": "2026-11-23T08:30:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T08:31:04.000Z"
+    },
     {
       "id": "YnvABKEizsE",
       "title": "【Original】Reverberate / 響咲リオナ【Official MV】",
       "published": "2026-11-23T09:30:06.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 210,
+      "status": "past",
       "scheduledStart": "2026-11-23T09:30:00.000Z",
       "actualStart": "2026-11-23T09:30:06.000Z",
       "typedBy": "data-api"
@@ -29,16 +40,6 @@
       "type": "short",
       "duration": 26,
       "status": "past",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "KM14kMDVaus",
-      "title": "【重大告知】セルフ３Ⅾでリオナに歌ってほしいホロメンオリ曲リクエストアワー✨【ホロライブ  響咲リオナ】",
-      "published": "2026-11-22T14:59:30.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-23T08:30:00.000Z",
       "typedBy": "innertube"
     },
     {

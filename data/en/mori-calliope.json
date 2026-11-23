@@ -8,18 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0",
     "subscriberCount": 2660000
   },
-  "lastUpdated": "2026-11-23T06:15:59.260Z",
+  "lastUpdated": "2026-11-23T10:06:14.851Z",
   "videoCount": 2001,
   "videos": [
+    {
+      "id": "0nePZ1EKb0Y",
+      "title": "【Grand Theft Auto VI】gran thef (part 2 maybe of 2, we'll see) #calliolive",
+      "published": "2026-11-23T08:48:37+00:00",
+      "type": "stream",
+      "duration": 16433,
+      "status": "past",
+      "scheduledStart": "2026-11-23T04:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T04:00:05.000Z"
+    },
     {
       "id": "bqiKwe0ToZs",
       "title": "【holoDori Triathlon】winner pov (again) #calliolive #holodori",
       "published": "2026-11-22T14:26:34.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-23T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-23T09:57:12.000Z"
     },
     {
       "id": "L_nzsDkkhKg",
@@ -62,17 +74,6 @@
       "scheduledStart": "2026-11-22T03:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-22T03:00:30.000Z"
-    },
-    {
-      "id": "0nePZ1EKb0Y",
-      "title": "【Grand Theft Auto VI】gran thef (part 2 maybe of 2, we'll see) #calliolive",
-      "published": "2026-11-21T15:03:25.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-23T04:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-23T04:00:05.000Z"
     },
     {
       "id": "_XgsO_az3MI",
