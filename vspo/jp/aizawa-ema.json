@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/prKwFGcBBOBdVHHO1fsU_4xn7gMtcBYz7WIIFiqNboh712qw864BJtOjQLQ3AdrerusQUdMgPQ=s0",
     "subscriberCount": 707000
   },
-  "lastUpdated": "2026-11-23T15:01:40.977Z",
+  "lastUpdated": "2026-11-23T16:12:18.952Z",
   "videoCount": 1842,
   "videos": [
     {
@@ -19,11 +19,12 @@
       "duration": 0,
       "status": "live",
       "actualStart": "2026-11-23T15:00:38.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "scheduledStart": "2026-11-23T14:55:00.000Z"
     },
     {
       "id": "wzKUjOUeCfg",
-      "title": "どさくさに紛れてのあちゃん呼びチャレンジ【ぶいすぽっ！/ 藍沢エマ】",
+      "title": "どさくさに紛れてのあちゃん呼びチャレンジ【ぶいすぽっ!/ 藍沢エマ/胡桃のあ/早乙女ベリー/APEX/ぶいすぽGG】",
       "published": "2026-11-23T14:48:26.000Z",
       "type": "video",
       "duration": 0,
@@ -58,7 +59,7 @@
       "title": "【雑談】くしゃみすぎです【ぶいすぽっ！/ 藍沢エマ】",
       "published": "2026-11-21T17:10:16Z",
       "type": "stream",
-      "duration": 10910,
+      "duration": 10659,
       "status": "past",
       "scheduledStart": "2026-11-21T14:00:00.000Z",
       "actualStart": "2026-11-21T13:58:35.000Z",
