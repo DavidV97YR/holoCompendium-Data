@@ -8,18 +8,19 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0",
     "subscriberCount": 2060000
   },
-  "lastUpdated": "2026-11-24T02:01:04.131Z",
+  "lastUpdated": "2026-11-24T12:03:25.235Z",
   "videoCount": 1865,
   "videos": [
     {
       "id": "mXZ0xmZ1f74",
       "title": "【新曲MV】【白銀ノエル/ホロライブ】",
-      "published": "2026-11-24T01:40:05.000Z",
+      "published": "2026-11-24T12:00:07+00:00",
       "type": "video",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-24T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T12:00:07.000Z"
     },
     {
       "id": "w_bWduVfbK0",
@@ -38,9 +39,10 @@
       "published": "2026-11-23T16:57:40.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-24T11:00:00.000Z",
-      "typedBy": "data-api"
+      "typedBy": "data-api",
+      "actualStart": "2026-11-24T11:00:40.000Z"
     },
     {
       "id": "4f2jjlJF_EM",

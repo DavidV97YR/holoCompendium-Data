@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/n4EhW4JxCJxO4l6shT0qwUhe0s5ma5-IWu-6Uf7iXUAJ88JuNAOirG7lxxrQAChIjKTsiuzW=s0",
     "subscriberCount": 775000
   },
-  "lastUpdated": "2026-11-24T11:31:10.930Z",
+  "lastUpdated": "2026-11-24T12:10:55.596Z",
   "videoCount": 2474,
   "videos": [
     {
@@ -17,9 +17,10 @@
       "published": "2026-11-24T11:26:36.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-24T12:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T12:03:00.000Z"
     },
     {
       "id": "LNI-KFsXk5Q",
@@ -724,7 +725,7 @@
     },
     {
       "id": "6YnpAARgSsI",
-      "title": "【ポケモン剣盾】チャンピオンカップどんなもん【ぶいすぽ/一ノ瀬うるは】",
+      "title": "#05【ポケモン剣盾】チャンピオンカップどんなもん【ぶいすぽ/一ノ瀬うるは】",
       "published": "2026-09-12T14:13:26Z",
       "type": "stream",
       "duration": 12655,
@@ -774,7 +775,7 @@
     },
     {
       "id": "ZOuVk1avhpQ",
-      "title": "【ポケモン剣盾】またさ、旅に出ようよ【ぶいすぽ/一ノ瀬うるは】",
+      "title": "#01【ポケモン剣盾】またさ、旅に出ようよ【ぶいすぽ/一ノ瀬うるは】",
       "published": "2026-09-06T15:38:28Z",
       "type": "stream",
       "duration": 17406,
