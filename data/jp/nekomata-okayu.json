@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/tA9Ld0E4VHvKjpdyQrvXdlXY5b-jt-PiKG2r3GtfFmXd9t7K_YK5fs60RlyvT0OdeRprXxZ6Og=s0",
     "subscriberCount": 2150000
   },
-  "lastUpdated": "2026-11-24T06:05:25.788Z",
+  "lastUpdated": "2026-11-24T14:02:55.814Z",
   "videoCount": 1919,
   "videos": [
     {
@@ -17,16 +17,17 @@
       "published": "2026-11-23T18:43:25.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-24T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T13:00:25.000Z"
     },
     {
       "id": "-S1dLfsc4Qk",
       "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #04【 猫又おかゆ/ホロライブ 】",
       "published": "2026-11-22T15:30:17+00:00",
       "type": "stream",
-      "duration": 15562,
+      "duration": 15264,
       "status": "past",
       "scheduledStart": "2026-11-22T11:00:00.000Z",
       "typedBy": "innertube",

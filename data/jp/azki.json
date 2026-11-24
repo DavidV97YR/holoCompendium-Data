@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/xHg2zMwBbYTQlvXejI0BseK05dp9wd5mBhuNOVEF-ssgnFv2PCaKk5daHteNkVbU_UdSYv0kjHM=s0",
     "subscriberCount": 1350000
   },
-  "lastUpdated": "2026-11-24T08:00:57.888Z",
+  "lastUpdated": "2026-11-24T14:01:24.105Z",
   "videoCount": 1515,
   "videos": [
     {
@@ -17,16 +17,17 @@
       "published": "2026-11-24T07:45:53.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-24T13:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T13:00:27.000Z"
     },
     {
       "id": "P_f6BzJmETU",
       "title": "【メン限/MemberOnly】ホロメン曲を1時間で覚えられるかな！？#7【ホロライブ / AZKi】",
       "published": "2026-11-22T07:30:27.000Z",
       "type": "member",
-      "duration": 6737,
+      "duration": 6632,
       "status": "past",
       "scheduledStart": "2026-11-22T13:00:00.000Z",
       "typedBy": "innertube",

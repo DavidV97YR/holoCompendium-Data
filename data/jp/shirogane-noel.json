@@ -8,16 +8,27 @@
     "bannerUrl": "https://yt3.googleusercontent.com/iJ4TPHpypuvo78ZE968UdWmbDGUJPhI1sQKgh_epb-_EkwCmFoWE5iHFzw7ckkjkQvLygZSRN0I=s0",
     "subscriberCount": 2060000
   },
-  "lastUpdated": "2026-11-24T12:03:25.235Z",
+  "lastUpdated": "2026-11-24T14:03:25.572Z",
   "videoCount": 1865,
   "videos": [
+    {
+      "id": "S9WBVmRt_h8",
+      "title": "【#白銀ノエル生誕祭2026】お知らせあり！！90点以上とれないと気まずい...？！今年の誕生日パーティーはカラオケ採点だあああ🎂✨【白銀ノエル/ホロライブ】",
+      "published": "2026-11-24T12:32:32+00:00",
+      "type": "stream",
+      "duration": 5177,
+      "status": "past",
+      "scheduledStart": "2026-11-24T11:00:00.000Z",
+      "typedBy": "data-api",
+      "actualStart": "2026-11-24T11:00:40.000Z"
+    },
     {
       "id": "mXZ0xmZ1f74",
       "title": "【新曲MV】【白銀ノエル/ホロライブ】",
       "published": "2026-11-24T12:00:07+00:00",
       "type": "video",
-      "duration": 0,
-      "status": "live",
+      "duration": 287,
+      "status": "past",
       "scheduledStart": "2026-11-24T12:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-24T12:00:07.000Z"
@@ -32,17 +43,6 @@
       "scheduledStart": "2026-11-23T14:30:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-23T14:30:29.000Z"
-    },
-    {
-      "id": "S9WBVmRt_h8",
-      "title": "【#白銀ノエル生誕祭2026】お知らせあり！！90点以上とれないと気まずい...？！今年の誕生日パーティーはカラオケ採点だあああ🎂✨【白銀ノエル/ホロライブ】",
-      "published": "2026-11-23T16:57:40.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-24T11:00:00.000Z",
-      "typedBy": "data-api",
-      "actualStart": "2026-11-24T11:00:40.000Z"
     },
     {
       "id": "4f2jjlJF_EM",
