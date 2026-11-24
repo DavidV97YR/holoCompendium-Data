@@ -8,8 +8,8 @@
     "bannerUrl": "https://yt3.googleusercontent.com/nEcq8iu62Snzvbyt7Stzz3ZeNDIGcEok5Fe8sCu1ybiUfjWsSLwOW3QfyB9hSs2biUdYMHr6=s0",
     "subscriberCount": 426000
   },
-  "lastUpdated": "2026-11-24T18:22:23.996Z",
-  "videoCount": 103,
+  "lastUpdated": "2026-11-24T22:00:48.828Z",
+  "videoCount": 104,
   "videos": [
     {
       "id": "EpSJ6NbxYzE",
@@ -263,6 +263,17 @@
       "type": "short",
       "duration": 19,
       "status": "past",
+      "typedBy": "data-api"
+    },
+    {
+      "id": "WTqj7ex4An8",
+      "title": "【のじゃEnglish】水曜日の朝7時は朝活なのじゃー！【ホロライブ/熱千めら】",
+      "published": "2026-11-08T06:06:39.000Z",
+      "type": "stream",
+      "duration": 0,
+      "status": "live",
+      "scheduledStart": "2026-11-24T22:00:00.000Z",
+      "actualStart": "2026-11-24T21:58:17.000Z",
       "typedBy": "data-api"
     },
     {
