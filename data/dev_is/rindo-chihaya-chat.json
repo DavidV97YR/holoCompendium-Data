@@ -1,7 +1,7 @@
 {
   "channelId": "UCKMWFR6lAstLa7Vbf5dH7ig",
   "channelName": "Rindo Chihaya",
-  "lastUpdated": "2026-11-24T16:01:21.369Z",
+  "lastUpdated": "2026-11-24T17:01:41.957Z",
   "streams": {
     "7qXkC06yDpw": 0,
     "B3oFOpzvocY": {
@@ -6456,8 +6456,8 @@
       "milestone": 3
     },
     "q5jCJIgknl8": {
-      "e": "noreplay",
-      "n": 26
+      "e": "http403",
+      "n": 27
     }
   }
 }
