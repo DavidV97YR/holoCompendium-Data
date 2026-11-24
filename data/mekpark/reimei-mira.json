@@ -8,18 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/0_7eoGziREZ_4HR5nV-Wg8EoK8bEQMNm0nVk3TTdlsiwzbIkACYGogjumTO51jTUpKQCCa9OmtQ=s0",
     "subscriberCount": 124000
   },
-  "lastUpdated": "2026-11-24T08:09:37.737Z",
+  "lastUpdated": "2026-11-24T10:09:29.293Z",
   "videoCount": 305,
   "videos": [
+    {
+      "id": "pvLi7YDnyCg",
+      "title": "【ドラクエ3リメイク】いよいよ世界へ旅立つ！⚠️ネタバレあり【 #UNIT_B / #玲銘ミラ】",
+      "published": "2026-11-24T08:38:16+00:00",
+      "type": "stream",
+      "duration": 12658,
+      "status": "past",
+      "scheduledStart": "2026-11-24T05:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T05:00:07.000Z"
+    },
     {
       "id": "c8ul983NQpY",
       "title": "【告知あり】今年最後のリーダーは誰の手に!?ゆにび、マリオパーティで戦います!!!【 #UNIT_B 】",
       "published": "2026-11-23T15:58:47.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-24T09:00:00.000Z",
-      "typedBy": "innertube"
+      "status": "live",
+      "scheduledStart": "2026-11-24T09:10:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T09:10:35.000Z"
     },
     {
       "id": "0N6H_uDCA4s",
@@ -30,17 +42,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-24T11:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "pvLi7YDnyCg",
-      "title": "【ドラクエ3リメイク】いよいよ世界へ旅立つ！⚠️ネタバレあり【 #UNIT_B / #玲銘ミラ】",
-      "published": "2026-11-23T13:25:54.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-24T05:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-24T05:00:07.000Z"
     },
     {
       "id": "6Bd05pp332g",
