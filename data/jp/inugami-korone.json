@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/UvLAarOsnyYFmBW4CnB8gQAO_WjxhmR3GHzxLtEd2gC7vp0E6ngpCoWoRuZo0ymAP94WTELz=s0",
     "subscriberCount": 2290000
   },
-  "lastUpdated": "2026-11-24T19:01:00.168Z",
+  "lastUpdated": "2026-11-24T20:03:10.342Z",
   "videoCount": 1554,
   "videos": [
+    {
+      "id": "_xqRS2VYxwI",
+      "title": "病み上がりだワン",
+      "published": "2026-11-24T18:46:28+00:00",
+      "type": "stream",
+      "duration": 18901,
+      "status": "past",
+      "scheduledStart": "2026-11-24T13:15:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-24T13:16:11.000Z"
+    },
     {
       "id": "9kFNL_cpqvQ",
       "title": "【#すうころ】ビビり2人のPhasmophobia👻【ころね支店】",
@@ -20,17 +31,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-25T13:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "_xqRS2VYxwI",
-      "title": "病み上がりだワン",
-      "published": "2026-11-24T08:18:48.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-24T13:15:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-24T13:16:11.000Z"
     },
     {
       "id": "YEfXEooSwOQ",
