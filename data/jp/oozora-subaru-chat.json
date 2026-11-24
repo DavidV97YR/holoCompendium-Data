@@ -1,7 +1,7 @@
 {
   "channelId": "UCvzGlP9oQwU--Y0r9id_jnA",
   "channelName": "Oozora Subaru",
-  "lastUpdated": "2026-11-24T18:02:33.940Z",
+  "lastUpdated": "2026-11-24T19:16:28.606Z",
   "streams": {
     "LhjsifCe7tQ": {
       "milestone": 4
@@ -21331,8 +21331,11 @@
       "sent": 10
     },
     "HLVcM4iYNpc": {
-      "e": "http403",
-      "n": 2
+      "member": 3,
+      "milestone": 6,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }

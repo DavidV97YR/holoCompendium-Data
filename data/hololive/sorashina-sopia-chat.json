@@ -1,7 +1,7 @@
 {
   "channelId": "UCROQtXcp2loQEmvpe5rhJzQ",
   "channelName": "Sorashina Sopia",
-  "lastUpdated": "2026-11-21T11:02:06.546Z",
+  "lastUpdated": "2026-11-24T19:06:24.614Z",
   "streams": {
     "NBPgxu6pLgk": 0,
     "-4_GMEGhyBk": 0,
@@ -282,6 +282,19 @@
       },
       "sc": 28,
       "member": 4
+    },
+    "vWAyBUBY1W0": {
+      "cur": {
+        "¥": 49700,
+        "NT$": 855,
+        "HK$": 50
+      },
+      "sc": 82,
+      "sticker": 3,
+      "member": 25,
+      "gift": 5,
+      "recv": 13,
+      "sent": 13
     }
   }
 }

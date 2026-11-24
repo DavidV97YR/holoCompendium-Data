@@ -1,7 +1,7 @@
 {
   "channelId": "UC0TXe_LYZ4scaW2XMyi5_kw",
   "channelName": "AZKi",
-  "lastUpdated": "2026-11-24T18:02:14.769Z",
+  "lastUpdated": "2026-11-24T19:08:45.701Z",
   "streams": {
     "KPY2ervRp-0": {
       "cur": {
@@ -11505,8 +11505,18 @@
       "n": 2
     },
     "CDk99dGMADs": {
-      "e": "http403",
-      "n": 2
+      "cur": {
+        "¥": 10620,
+        "$": 1,
+        "CA$": 4,
+        "NT$": 150
+      },
+      "sc": 32,
+      "member": 2,
+      "milestone": 1,
+      "gift": 2,
+      "recv": 20,
+      "sent": 21
     }
   }
 }
