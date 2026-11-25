@@ -6,9 +6,9 @@
     "slug": "vspo",
     "avatarUrl": "https://yt3.ggpht.com/YxkHbTBTSYsQjMHOp269eQUReXvJsTfM9gTEeByvNDGl97N6fqatLGRMZnHx-RIA_oPikX-e",
     "bannerUrl": "https://yt3.googleusercontent.com/ayA-VOTEsSMwT0mEi3S1ygOGtyuGcCtsOlAVdUw8fms0x2fQjEtofSZTsiliRd2z_qmvXUHzvA=s0",
-    "subscriberCount": 418000
+    "subscriberCount": 419000
   },
-  "lastUpdated": "2026-11-25T10:31:07.701Z",
+  "lastUpdated": "2026-11-25T12:14:43.503Z",
   "videoCount": 179,
   "videos": [
     {
@@ -27,9 +27,10 @@
       "published": "2026-11-23T08:35:40.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-25T10:50:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-25T10:51:20.000Z"
     },
     {
       "id": "Mk0vCeKr_N4",
