@@ -8,7 +8,7 @@
     "bannerUrl": "https://yt3.googleusercontent.com/DGxFo_MRkSKiKwcveoBXlo3UHNMwiHySQ9JKrG3vTIk60nusxwmiUhhfDjs8_TDOWGcApd8iJQ=s0",
     "subscriberCount": 2660000
   },
-  "lastUpdated": "2026-11-24T18:15:58.947Z",
+  "lastUpdated": "2026-11-25T02:06:04.268Z",
   "videoCount": 2002,
   "videos": [
     {
@@ -58,10 +58,11 @@
       "title": "【FiGGYZ】UNBOXING and CHATTING!! mori calliope!!! #calliolive #PR",
       "published": "2026-11-22T14:07:44.000Z",
       "type": "stream",
-      "duration": 0,
-      "status": "upcoming",
+      "duration": 3735,
+      "status": "past",
       "scheduledStart": "2026-11-25T01:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-25T01:00:44.000Z"
     },
     {
       "id": "i_yTbp0jgBw",
