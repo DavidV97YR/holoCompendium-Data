@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/YqdUog51dxbv59-FNrUjbu_ZiqhWN5yxdc0clphUqHQZ-nIPmWR9kiUcDEiKheVSYFFc_rjvQg=s0",
     "subscriberCount": 762000
   },
-  "lastUpdated": "2026-11-25T14:09:02.091Z",
+  "lastUpdated": "2026-11-25T16:08:49.287Z",
   "videoCount": 1282,
   "videos": [
+    {
+      "id": "s5zE-af2KS0",
+      "title": "【#すうころ】初のPhasmophobia！調査する🔎【水宮枢／ホロライブ】",
+      "published": "2026-11-25T14:46:00+00:00",
+      "type": "stream",
+      "duration": 5888,
+      "status": "past",
+      "scheduledStart": "2026-11-25T13:00:00.000Z",
+      "typedBy": "data-api",
+      "actualStart": "2026-11-25T13:03:12.000Z"
+    },
     {
       "id": "MAcDsWKtw3w",
       "title": "Deep Dive／轟はじめ #vtuber #hololive #dance",
@@ -89,17 +100,6 @@
       "scheduledStart": "2026-11-23T04:00:00.000Z",
       "typedBy": "data-api",
       "actualStart": "2026-11-23T04:06:47.000Z"
-    },
-    {
-      "id": "s5zE-af2KS0",
-      "title": "【#すうころ】初のPhasmophobia！調査する🔎【水宮枢／ホロライブ】",
-      "published": "2026-11-22T13:46:38.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-25T13:00:00.000Z",
-      "typedBy": "data-api",
-      "actualStart": "2026-11-25T13:03:12.000Z"
     },
     {
       "id": "g0MU5pUXZbU",
