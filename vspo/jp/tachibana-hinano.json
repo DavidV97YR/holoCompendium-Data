@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/IfFOR2qsXn8NaqpzsoxL_vU2WXEc-q8C1VRbVtUYXE-5ehhRJybRbLrC9_h3Bd42OSPJ2Xz59Q=s0",
     "subscriberCount": 1030000
   },
-  "lastUpdated": "2026-11-26T14:11:42.449Z",
+  "lastUpdated": "2026-11-26T16:11:17.733Z",
   "videoCount": 1871,
   "videos": [
+    {
+      "id": "G2QFZwnvlP0",
+      "title": "LTKたのしかったね",
+      "published": "2026-11-26T15:10:19+00:00",
+      "type": "stream",
+      "duration": 8412,
+      "status": "past",
+      "scheduledStart": "2026-11-26T12:40:00.000Z",
+      "actualStart": "2026-11-26T12:42:23.000Z",
+      "typedBy": "data-api"
+    },
     {
       "id": "2JgEMsmhJUg",
       "title": "【 Apex Legends 】 １か月ぶりエペやるZO w / でゅーくかみと 【ぶいすぽっ！/橘ひなの】",
@@ -20,17 +31,6 @@
       "status": "past",
       "scheduledStart": "2026-11-26T09:00:00.000Z",
       "actualStart": "2026-11-26T08:52:28.000Z",
-      "typedBy": "data-api"
-    },
-    {
-      "id": "G2QFZwnvlP0",
-      "title": "LTKたのしかったね",
-      "published": "2026-11-26T12:36:44.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-26T12:40:00.000Z",
-      "actualStart": "2026-11-26T12:42:23.000Z",
       "typedBy": "data-api"
     },
     {
