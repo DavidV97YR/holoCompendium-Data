@@ -1,7 +1,7 @@
 {
   "channelId": "UCvUc0m317LWTTPZoBQV479A",
   "channelName": "Tachibana Hinano",
-  "lastUpdated": "2026-11-26T13:04:50.109Z",
+  "lastUpdated": "2026-11-26T14:02:01.962Z",
   "streams": {
     "VZ4VwhwELcY": {
       "cur": {
@@ -15152,8 +15152,14 @@
       "sent": 50
     },
     "2JgEMsmhJUg": {
-      "e": "noreplay",
-      "n": 1
+      "cur": {
+        "¥": 12820,
+        "CA$": 2
+      },
+      "sc": 13,
+      "sticker": 1,
+      "member": 1,
+      "milestone": 3
     }
   }
 }
