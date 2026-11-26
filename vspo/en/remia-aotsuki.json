@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/B0PGej5swp07_4NGZ1Ksyn0DvZlLPZ7o8R_lzoV1IoiQH-k0HdP5vt5HYngiRy6c0ebLbJUt=s0",
     "subscriberCount": 81700
   },
-  "lastUpdated": "2026-11-26T18:26:58.669Z",
+  "lastUpdated": "2026-11-26T20:12:46.646Z",
   "videoCount": 821,
   "videos": [
+    {
+      "id": "Bk1zvJ_2df8",
+      "title": "【SOMA: part 2】  deep sea walking 【#VSPOEN #RemiaAotsuki】",
+      "published": "2026-11-26T20:00:29+00:00",
+      "type": "stream",
+      "duration": 13802,
+      "status": "past",
+      "scheduledStart": "2026-11-26T15:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-26T15:06:14.000Z"
+    },
     {
       "id": "MH2i_MSwhc4",
       "title": "【Counter-Strike 2】 maybe 27k today | Premier【#VSPOEN #RemiaAotsuki】",
@@ -42,17 +53,6 @@
       "status": "upcoming",
       "scheduledStart": "2026-11-27T15:00:00.000Z",
       "typedBy": "innertube"
-    },
-    {
-      "id": "Bk1zvJ_2df8",
-      "title": "【SOMA: part 2】  deep sea walking 【#VSPOEN #RemiaAotsuki】",
-      "published": "2026-11-22T21:33:05.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-26T15:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-26T15:06:14.000Z"
     },
     {
       "id": "mWotFIEquvc",
