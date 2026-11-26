@@ -1,7 +1,7 @@
 {
   "channelId": "UCENwRMx5Yh42zWpzURebzTw",
   "channelName": "La+ Darknesss",
-  "lastUpdated": "2026-11-22T11:03:24.709Z",
+  "lastUpdated": "2026-11-26T13:02:48.137Z",
   "streams": {
     "jhZ83gcD64g": {
       "member": 2,
@@ -5677,6 +5677,29 @@
       "gift": 5,
       "recv": 25,
       "sent": 25
+    },
+    "-Z0Yc55osqY": {
+      "member": 9,
+      "milestone": 11
+    },
+    "6OQlvwxsxnI": {
+      "cur": {
+        "¥": 1118452,
+        "NT$": 6725,
+        "R$": 10,
+        "$": 52,
+        "₩": 405000,
+        "₱": 250,
+        "HK$": 1440,
+        "A$": 2,
+        "€": 20
+      },
+      "sc": 190,
+      "member": 8,
+      "milestone": 288,
+      "gift": 11,
+      "recv": 126,
+      "sent": 131
     }
   }
 }
