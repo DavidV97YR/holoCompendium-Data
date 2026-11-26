@@ -1,7 +1,7 @@
 {
   "channelId": "UCvaTdHTWBGv3MKj3KVqJVCw",
   "channelName": "Nekomata Okayu",
-  "lastUpdated": "2026-11-26T20:01:42.896Z",
+  "lastUpdated": "2026-11-26T21:01:13.797Z",
   "streams": {
     "6Pe4NNewLYk": {
       "member": 2,
@@ -24052,8 +24052,8 @@
       "milestone": 5
     },
     "Z0ixLzo355w": {
-      "e": "noreplay",
-      "n": 30
+      "e": "http403",
+      "n": 31
     }
   }
 }
