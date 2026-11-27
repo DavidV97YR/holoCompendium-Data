@@ -8,9 +8,20 @@
     "bannerUrl": "https://yt3.googleusercontent.com/O8AT2TqQ__ZxIZcr4F5kTBGeEXe-1sdEfVAZX7L7znev8O1gtCqndxHUrGOOycVqZ9W3A9Nb=s0",
     "subscriberCount": 1040000
   },
-  "lastUpdated": "2026-11-27T02:07:19.534Z",
+  "lastUpdated": "2026-11-27T04:07:29.638Z",
   "videoCount": 721,
   "videos": [
+    {
+      "id": "WyckK0PxSsg",
+      "title": "An Advent-filled Thanksgiving! | Japanese Ramen Simulator",
+      "published": "2026-11-27T02:55:07+00:00",
+      "type": "stream",
+      "duration": 6821,
+      "status": "past",
+      "scheduledStart": "2026-11-27T01:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-27T00:55:11.000Z"
+    },
     {
       "id": "htiUtuEF59A",
       "title": "On a Night Train to Nowhere 🚂 #NightTrainWithMoona",
@@ -19,17 +30,6 @@
       "duration": 56,
       "status": "past",
       "typedBy": "data-api"
-    },
-    {
-      "id": "WyckK0PxSsg",
-      "title": "An Advent-filled Thanksgiving! | Japanese Ramen Simulator",
-      "published": "2026-11-26T03:03:27.000Z",
-      "type": "stream",
-      "duration": 0,
-      "status": "live",
-      "scheduledStart": "2026-11-27T01:00:00.000Z",
-      "typedBy": "innertube",
-      "actualStart": "2026-11-27T00:55:11.000Z"
     },
     {
       "id": "oOo2s0GHMMU",
