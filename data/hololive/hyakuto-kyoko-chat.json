@@ -1,7 +1,7 @@
 {
   "channelId": "UCSjQDxud2HkAO2DVD3lwxmw",
   "channelName": "Hyakuto Kyoko",
-  "lastUpdated": "2026-11-27T11:01:39.124Z",
+  "lastUpdated": "2026-11-27T17:01:48.083Z",
   "streams": {
     "BXeDsOkUwPc": 0,
     "Kw79D2tXn8U": 0,
@@ -807,6 +807,19 @@
       "gift": 2,
       "recv": 11,
       "sent": 11
+    },
+    "Cqx8KBSwyDA": {
+      "cur": {
+        "¥": 26755,
+        "IDR": 70000,
+        "$": 10,
+        "₩": 12000
+      },
+      "sc": 53,
+      "member": 2,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }
