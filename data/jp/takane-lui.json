@@ -8,26 +8,27 @@
     "bannerUrl": "https://yt3.googleusercontent.com/-qxtd4TgQmq7uQR7f0_tjwh29lWOQvZ0iM9iytFeElQVlzBcvFgAovo_IvYiAYPm0sgl0L8EnkI=s0",
     "subscriberCount": 1130000
   },
-  "lastUpdated": "2026-11-28T04:04:27.918Z",
+  "lastUpdated": "2026-11-28T10:04:32.342Z",
   "videoCount": 2487,
   "videos": [
     {
       "id": "1vstL3ozGfQ",
       "title": "エルフ coverd by 鷹嶺ルイ【3D LIVE／ホロライブ】",
-      "published": "2026-11-27T14:30:45.000Z",
+      "published": "2026-11-28T10:00:09+00:00",
       "type": "video",
       "duration": 0,
-      "status": "upcoming",
+      "status": "live",
       "scheduledStart": "2026-11-28T10:00:00.000Z",
-      "typedBy": "innertube"
+      "typedBy": "innertube",
+      "actualStart": "2026-11-28T10:00:09.000Z"
     },
     {
       "id": "AW_NMaVzJc8",
       "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！ゴールドマンまでのあとどのくらいですか…【鷹嶺ルイ/ホロライブ】ネタバレあり",
-      "published": "2026-11-27T14:29:53.000Z",
+      "published": "2026-11-28T09:36:34+00:00",
       "type": "stream",
-      "duration": 0,
-      "status": "live",
+      "duration": 22765,
+      "status": "past",
       "scheduledStart": "2026-11-28T03:00:00.000Z",
       "typedBy": "innertube",
       "actualStart": "2026-11-28T03:05:01.000Z"
