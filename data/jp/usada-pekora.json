@@ -8,29 +8,30 @@
     "bannerUrl": "https://yt3.googleusercontent.com/w_n8yUnJiwX4WfpFKYDPFKtMrk0my03WJSNpraNZ79bu0OfgXEIPtKm77dERXitsmQ_Y4bH7Jg=s0",
     "subscriberCount": 2800000
   },
-  "lastUpdated": "2026-11-28T12:03:10.662Z",
+  "lastUpdated": "2026-11-28T14:03:06.993Z",
   "videoCount": 2850,
   "videos": [
+    {
+      "id": "R_zS-kDsong",
+      "title": "【#ホロじゃん】ホロライブの野郎が新作アプリを出したらしいので調査!ぺこ!【ホロライブ/兎田ぺこら】",
+      "published": "2026-11-28T13:08:19+00:00",
+      "type": "stream",
+      "duration": 7212,
+      "status": "past",
+      "scheduledStart": "2026-11-28T11:00:00.000Z",
+      "typedBy": "innertube",
+      "actualStart": "2026-11-28T11:00:13.000Z"
+    },
     {
       "id": "fWGlQfGIAdU",
       "title": "今日は私の部屋を紹介します♪ ぺこ!【ホロライブ/兎田ぺこら】",
       "published": "2026-11-28T10:10:36.000Z",
       "type": "stream",
       "duration": 0,
-      "status": "upcoming",
-      "scheduledStart": "2026-11-28T13:00:00.000Z",
-      "typedBy": "innertube"
-    },
-    {
-      "id": "R_zS-kDsong",
-      "title": "【#ホロじゃん】ホロライブの野郎が新作アプリを出したらしいので調査!ぺこ!【ホロライブ/兎田ぺこら】",
-      "published": "2026-11-28T09:19:43.000Z",
-      "type": "stream",
-      "duration": 0,
       "status": "live",
-      "scheduledStart": "2026-11-28T11:00:00.000Z",
+      "scheduledStart": "2026-11-28T13:00:00.000Z",
       "typedBy": "innertube",
-      "actualStart": "2026-11-28T11:00:13.000Z"
+      "actualStart": "2026-11-28T13:01:20.000Z"
     },
     {
       "id": "zUXxqOW5m8U",
