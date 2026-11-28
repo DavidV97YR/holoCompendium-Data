@@ -1,7 +1,7 @@
 {
   "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
   "channelName": "Mori Calliope",
-  "lastUpdated": "2026-11-26T18:01:17.932Z",
+  "lastUpdated": "2026-11-28T03:02:03.703Z",
   "streams": {
     "APCP5OpOixE": {
       "milestone": 10
@@ -24955,6 +24955,13 @@
     "Ip3mBKa2BIo": {
       "e": "noreplay",
       "n": 4
+    },
+    "15_xywz8ZAs": {
+      "member": 2,
+      "milestone": 19,
+      "gift": 9,
+      "recv": 55,
+      "sent": 55
     }
   }
 }
