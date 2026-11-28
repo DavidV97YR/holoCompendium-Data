@@ -1,7 +1,7 @@
 {
   "channelId": "UC727SQYUvx5pDDGQpTICNWg",
   "channelName": "Anya Melfissa",
-  "lastUpdated": "2026-11-28T12:02:01.690Z",
+  "lastUpdated": "2026-11-28T13:05:02.714Z",
   "streams": {
     "RoXVbSPMgg0": {
       "e": "noreplay",
@@ -11930,8 +11930,16 @@
       "sent": 5
     },
     "oOB_kvUv3bY": {
-      "e": "noreplay",
-      "n": 2
+      "cur": {
+        "$": 10,
+        "IDR": 35000,
+        "THB": 40
+      },
+      "sc": 3,
+      "member": 1,
+      "gift": 1,
+      "recv": 5,
+      "sent": 5
     }
   }
 }
